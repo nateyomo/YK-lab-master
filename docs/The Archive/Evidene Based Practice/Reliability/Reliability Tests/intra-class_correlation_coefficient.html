@@ -1,0 +1,1055 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.55">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Nathaniel Yomogida">
+<meta name="author" content="Chloë Kerstein">
+
+<title>Intra-class Correlation Coefficient (ICC) – YK Lab</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../../">
+<link href="../../../..//images/brain-favicon.png" rel="icon" type="image/png">
+<script src="../../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../../../../styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../../../index.html">
+    <span class="navbar-title">YK Lab</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../The Archive/archive_index.html"> 
+<span class="menu-text">Archive</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../guide.html"> 
+<span class="menu-text">Guide</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../journal club index.html"> 
+<span class="menu-text">Journal Club</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#how-to-use-this-test" id="toc-how-to-use-this-test" class="nav-link active" data-scroll-target="#how-to-use-this-test">How to use this test</a></li>
+  <li><a href="#models" id="toc-models" class="nav-link" data-scroll-target="#models">Models</a>
+  <ul class="collapse">
+  <li><a href="#one-way-random-effects-model" id="toc-one-way-random-effects-model" class="nav-link" data-scroll-target="#one-way-random-effects-model">One-Way Random-Effects Model</a></li>
+  <li><a href="#two-way-random" id="toc-two-way-random" class="nav-link" data-scroll-target="#two-way-random">Two-Way Random</a></li>
+  <li><a href="#two-way-mixed" id="toc-two-way-mixed" class="nav-link" data-scroll-target="#two-way-mixed">Two-Way Mixed</a></li>
+  </ul></li>
+  <li><a href="#type" id="toc-type" class="nav-link" data-scroll-target="#type">Type</a>
+  <ul class="collapse">
+  <li><a href="#consistency" id="toc-consistency" class="nav-link" data-scroll-target="#consistency">Consistency</a></li>
+  <li><a href="#absolute-agreement" id="toc-absolute-agreement" class="nav-link" data-scroll-target="#absolute-agreement">Absolute Agreement</a></li>
+  </ul></li>
+  <li><a href="#icc-forms" id="toc-icc-forms" class="nav-link" data-scroll-target="#icc-forms">ICC Forms</a></li>
+  <li><a href="#choosing-the-right-icc-form" id="toc-choosing-the-right-icc-form" class="nav-link" data-scroll-target="#choosing-the-right-icc-form">Choosing the Right ICC Form</a></li>
+  <li><a href="#calculation" id="toc-calculation" class="nav-link" data-scroll-target="#calculation">Calculation</a></li>
+  <li><a href="#output" id="toc-output" class="nav-link" data-scroll-target="#output">Output</a></li>
+  <li><a href="#scoring" id="toc-scoring" class="nav-link" data-scroll-target="#scoring">Scoring</a></li>
+  <li><a href="#interpretation" id="toc-interpretation" class="nav-link" data-scroll-target="#interpretation">Interpretation</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Intra-class Correlation Coefficient (ICC)</h1>
+</div>
+
+
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Authors</div>
+  <div class="quarto-title-meta-heading">Affiliations</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author">Nathaniel Yomogida, B.S., SPT </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Doctor of Physical Therapy
+          </p>
+        <p class="affiliation">
+            B.S. in Kinesiology
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">Chloë Kerstein, B.S., SPT </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Doctor of Physical Therapy
+          </p>
+        <p class="affiliation">
+            B.A. in Neuroscience
+          </p>
+      </div>
+  </div>
+
+<div class="quarto-title-meta">
+
+      
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Intra‐class correlation coefficient (ICC) is a modified pearson correlation coefficient that indexes both degree of correlation and agreement between two measurements<span class="citation" data-cites="kooGuidelineSelectingReporting2016"><sup><a href="#ref-kooGuidelineSelectingReporting2016" role="doc-biblioref">1</a></sup></span>.</p>
+<p>The ICC is the most comprehensive measure of reliability since it depends on level of agreement (like kappa) and on the correlation between 2 measures (like correlation coefficient)</p>
+<p><q> It is sensitive for example to the extent to which subjects (individuals) keep their ranking order in repeated measurements. Moreover, itmay indicate the ability of an experimental method to detect and measure systematic differences between subjects. This ability islimited since those differences may be more or less masked by individual variations of </q></p>
+<section id="how-to-use-this-test" class="level1">
+<h1>How to use this test</h1>
+<p>Dr.&nbsp;Monroe stated that ICC is the most comprehensive form of reliability. If the ICC is high, then you do not need to examine the other statistical results. If the ICC is low, then</p>
+</section>
+<section id="models" class="level1">
+<h1>Models</h1>
+<section id="one-way-random-effects-model" class="level2">
+<h2 class="anchored" data-anchor-id="one-way-random-effects-model">One-Way Random-Effects Model</h2>
+<ul>
+<li>Either participants or evaluators are random</li>
+<li>This is not very common</li>
+</ul>
+<p>In this model, each subject is rated by a different set of raters who were randomly chosen from a larger population of possible raters. Practically, this model is rarely used in clinical reliability analysis because majority of the reliability studies typically involve the same set of raters to measure all subjects. An exception would be multicenter studies for which the physical distance between centers prohibits the same set of raters to rate all subjects. Under such circumstance, one set of raters may assess a subgroup of subjects in one center and another set of raters may assess a subgroup of subjects in another center, and hence, 1-way random-effects model should be used in this case.</p>
+</section>
+<section id="two-way-random" class="level2">
+<h2 class="anchored" data-anchor-id="two-way-random">Two-Way Random</h2>
+<ul>
+<li>both the patients and researchers are random</li>
+</ul>
+</section>
+<section id="two-way-mixed" class="level2">
+<h2 class="anchored" data-anchor-id="two-way-mixed">Two-Way Mixed</h2>
+<ul>
+<li>Most common</li>
+<li>Raters are fixed (not random)</li>
+</ul>
+</section>
+</section>
+<section id="type" class="level1">
+<h1>Type</h1>
+<ul>
+<li>Consistency</li>
+<li>Absolute agreement</li>
+</ul>
+<section id="consistency" class="level2">
+<h2 class="anchored" data-anchor-id="consistency">Consistency</h2>
+<ul>
+<li>Evaluating any potential or level of linear relationship between instructors</li>
+</ul>
+</section>
+<section id="absolute-agreement" class="level2">
+<h2 class="anchored" data-anchor-id="absolute-agreement">Absolute Agreement</h2>
+<ul>
+<li>Evaluates how close the raters were in terms of their scores</li>
+<li>Not interested in linear relationship</li>
+<li>Focuses on whether raters have close or identical ratings</li>
+</ul>
+</section>
+</section>
+<section id="icc-forms" class="level1">
+<h1>ICC Forms</h1>
+<p>10 forms of ICC based on the “Model” (1-way random effects, 2-way random effects, or 2-way fixed effects), the “Type” (single rater/ measurement or the mean of k raters/measurements), and the “Definition” of relationship considered to be important (consistency or absolute agreement)<span class="citation" data-cites="kooGuidelineSelectingReporting2016"><sup><a href="#ref-kooGuidelineSelectingReporting2016" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+<section id="choosing-the-right-icc-form" class="level1">
+<h1>Choosing the Right ICC Form</h1>
+<div class="callout callout-style-simple callout-none no-icon callout-titled" title="How to choose the right form">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+How to choose the right form
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>There are 4 guiding questions</p>
+<ol type="1">
+<li>Do we have the same set of raters for all subjects?<span class="citation" data-cites="kooGuidelineSelectingReporting2016"><sup><a href="#ref-kooGuidelineSelectingReporting2016" role="doc-biblioref">1</a></sup></span></li>
+<li>Do we have a sample of raters randomly selected from a larger population or a specific sample of raters?<span class="citation" data-cites="kooGuidelineSelectingReporting2016"><sup><a href="#ref-kooGuidelineSelectingReporting2016" role="doc-biblioref">1</a></sup></span></li>
+<li>Are we interested in the reliability of single rater or the mean value of multiple raters?<span class="citation" data-cites="kooGuidelineSelectingReporting2016"><sup><a href="#ref-kooGuidelineSelectingReporting2016" role="doc-biblioref">1</a></sup></span></li>
+<li>Do we concern about consistency or agreement?<span class="citation" data-cites="kooGuidelineSelectingReporting2016"><sup><a href="#ref-kooGuidelineSelectingReporting2016" role="doc-biblioref">1</a></sup></span></li>
+</ol>
+<p>The first 2 questions guide the “Model” selection, question 3 guides the “Type” selection, and the last question guides the “Definition” selection<span class="citation" data-cites="kooGuidelineSelectingReporting2016"><sup><a href="#ref-kooGuidelineSelectingReporting2016" role="doc-biblioref">1</a></sup></span></p>
+</div>
+</div>
+</div>
+</section>
+<section id="calculation" class="level1">
+<h1>Calculation</h1>
+<div class="callout callout-style-simple callout-none no-icon callout-titled" title="Symbols and Abbreviations">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Symbols and Abbreviations
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<ul>
+<li>Model 1 = one-way random model (no bias)</li>
+<li>Model 2 = two-way random model (random bias)</li>
+<li>Model 3 = two-way mixed model (fixed bias)</li>
+<li><em>n</em> = number of subjects (targets)</li>
+<li><em>k</em> = number of measurements (conditions, raters)</li>
+<li><em>i</em> = subject index (i = 1,…, n)</li>
+<li><em>j</em> = measurement index (j = 1,…, k)</li>
+<li><em>N</em> = number of simulated matrices</li>
+<li>&lt; … &gt; = average value obtained in simulation</li>
+<li>μ = population mean of subject’s scores</li>
+<li><span class="math inline">\(r_i\)</span> = deviation from mean for subject i</li>
+<li><span class="math inline">\(c_j\)</span> = bias in measurement j</li>
+<li><span class="math inline">\(v_{ij}\)</span> = “noise” = error in measurement <em>j</em> for subject i (Model 1)</li>
+<li><span class="math inline">\(e_{ij}\)</span> = error in measurement j for subject i, Model 2 and Model 3</li>
+<li><span class="math inline">\(rcij\)</span> = interaction in measurement j for subject i, Model 2 and Model 3</li>
+<li><span class="math inline">\(v_{ij}\)</span> = “noise” = eij + rcij (Model 2 and Model 3)</li>
+<li><span class="math inline">\(\sigma_r^2\)</span> σr2 = variance of <span class="math inline">\(r_i\)</span></li>
+<li><span class="math inline">\(\sigma_c^2\)</span> = variance of <span class="math inline">\(c_j\)</span></li>
+<li><span class="math inline">\(\sigma_e^2\)</span> = variance of <span class="math inline">\(e_{ij}\)</span></li>
+<li><span class="math inline">\(\sigma_{rc}^2\)</span> = variance of <span class="math inline">\(rc_{ij}\)</span></li>
+<li><span class="math inline">\(\sigma_v^2\)</span> = variance of <span class="math inline">\(v_{ij}\)</span> (<span class="math inline">\(= \sigma_c^2 + \sigma_e^2\)</span> in Model 2 and Model 3)</li>
+<li><span class="math inline">\(\rho_1\)</span> = population ICC, Model 1</li>
+<li><span class="math inline">\(\rho_{2A}\)</span> = absolute agreement population ICC, Model 2</li>
+<li><span class="math inline">\(\rho_{2C}\)</span> = consistency population ICC, Model 2</li>
+<li><span class="math inline">\(\rho_{3A}\)</span> = absolute agreement population ICC, Model 3</li>
+<li><span class="math inline">\(\rho_{3C}\)</span> = consistency population ICC, Model 3</li>
+<li><em>MST</em> = mean square total</li>
+<li><em>MSWS</em> = mean square within subjects</li>
+<li><em>MSBS</em> = mean square between subjects</li>
+<li><em>MSWM</em> = mean square within measurements</li>
+<li><em>MSBM</em> = mean square between measurements</li>
+<li><em>MSE</em> = mean square error</li>
+<li><span class="math inline">\(\textrm{F} = \frac{\textrm{MSBM}}{\textrm{MSE}} = \textrm{F-value}\)</span></li>
+<li>ICC(1) ≡ ICC(1,1) = sample ICC formula, Model 1</li>
+<li>ICC(A,1) ≡ ICC(2,1) = sample ICC formula, absolute agreement, Model 2 and 3</li>
+<li>ICC(C,1) ≡ ICC(3,1) = sample ICC formula, consistency, Model 2 and 3</li>
+</ul>
+</div>
+</div>
+</div>
+<p>However, modern ICC is calculated by mean squares (ie, estimates of the population variances based on the variability among a given set of measures) obtained through analysis of variance.</p>
+<ul>
+<li>(<span class="math inline">\(\sigma_s^2\)</span>) = Variance of Interest<span class="citation" data-cites="liljequistIntraclassCorrelationDiscussion2019"><sup><a href="#ref-liljequistIntraclassCorrelationDiscussion2019" role="doc-biblioref">2</a></sup></span></li>
+<li>(<span class="math inline">\(\sigma_e^2\)</span>) = Unwanted variance<span class="citation" data-cites="liljequistIntraclassCorrelationDiscussion2019"><sup><a href="#ref-liljequistIntraclassCorrelationDiscussion2019" role="doc-biblioref">2</a></sup></span></li>
+</ul>
+<p><span class="math display">\[
+\textrm{ICC} = \frac{\sigma_s^2}{\sigma_s^2 + \sigma_e^2} = \frac{(\textrm{Variance of Interest})}{(\textrm{Variance of Interest}) + (\textrm{Unwanted Variance})}
+\]</span></p>
+<p>Alternative equation from<span class="citation" data-cites="gisevInterraterAgreementInterrater2013"><sup><a href="#ref-gisevInterraterAgreementInterrater2013" role="doc-biblioref">3</a></sup></span></p>
+<p><span class="math display">\[
+\textrm{ICC} = \frac{\sigma_s^2}{\sigma_s^2 + \sigma_e^2} = \frac{(\textrm{Between subject variance})}{(\textrm{Between subject variance}) + (\textrm{Within subject Variance})}
+\]</span></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>the word “subject” in the previous equation likely refers to “rater” since this test assesses <a href="../../../../The Archive/Evidene Based Practice/Reliability/inter-rater_reliability.html">inter-rater reliability</a></p>
+</div>
+</div>
+<p>What happens when the unwanted variance (<span class="math inline">\(\sigma_e^2\)</span>) is equal to or larger than the variance of interest (<span class="math inline">\(\sigma_s^2\)</span>) (for example, the variance between subjects)?</p>
+<p>We will use an example of this, with variance of interst being “5” and unwanted variance being “6” <span class="math display">\[
+\textrm{ICC} = \frac{(Variance of Interest)}{(Variance of Interest) + (Unwanted Variance)} = \frac{(5)}{(5) + (6)} = \frac{5}{11} = 0.455
+\]</span></p>
+<p>As a result, the reliability (ICC) of the method will be poor, resulting with a value of 0.455<span class="citation" data-cites="liljequistIntraclassCorrelationDiscussion2019"><sup><a href="#ref-liljequistIntraclassCorrelationDiscussion2019" role="doc-biblioref">2</a></sup></span>.</p>
+</section>
+<section id="output" class="level1">
+<h1>Output</h1>
+<p>An ICC will generally provide a single measure and average measure output for ICC.</p>
+<p>Single</p>
+</section>
+<section id="scoring" class="level1">
+<h1>Scoring</h1>
+<p>Values range from 0.00 (not reliable) to 1.00 (perfectly reliable)</p>
+<table class="table-striped table-hover caption-top table">
+<caption>“Rule of thumb” Quick interpretation of reliability</caption>
+<thead>
+<tr class="header">
+<th>Score</th>
+<th>Reliability</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0.00 – 0.20</td>
+<td>Poor</td>
+</tr>
+<tr class="even">
+<td>0.21 – 0.40</td>
+<td>Fair</td>
+</tr>
+<tr class="odd">
+<td>0.41 – 0.60</td>
+<td>Moderate</td>
+</tr>
+<tr class="even">
+<td>0.61 – 0.80</td>
+<td>Good</td>
+</tr>
+<tr class="odd">
+<td>0.81 – 1.00</td>
+<td>Excellent</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="interpretation" class="level1">
+
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Interpretation</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-kooGuidelineSelectingReporting2016" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Koo TK, Li MY. A <span>Guideline</span> of <span>Selecting</span> and <span>Reporting Intraclass Correlation Coefficients</span> for <span>Reliability Research</span>. <em>Journal of Chiropractic Medicine</em>. 2016;15(2):155-163. doi:<a href="https://doi.org/10.1016/j.jcm.2016.02.012">10.1016/j.jcm.2016.02.012</a></div>
+</div>
+<div id="ref-liljequistIntraclassCorrelationDiscussion2019" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Liljequist D, Elfving B, Skavberg Roaldsen K. Intraclass correlation - <span>A</span> discussion and demonstration of basic features. <em>PloS One</em>. 2019;14(7):e0219854. doi:<a href="https://doi.org/10.1371/journal.pone.0219854">10.1371/journal.pone.0219854</a></div>
+</div>
+<div id="ref-gisevInterraterAgreementInterrater2013" class="csl-entry" role="listitem">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Gisev N, Bell JS, Chen TF. Interrater agreement and interrater reliability: Key concepts, approaches, and applications. <em>Research in social &amp; administrative pharmacy: RSAP</em>. 2013;9(3):330-338. doi:<a href="https://doi.org/10.1016/j.sapharm.2012.04.004">10.1016/j.sapharm.2012.04.004</a></div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div class="">Yomogida N, Kerstein C. Intra-class Correlation
+Coefficient (ICC). <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Evidene Based Practice/Reliability/Reliability Tests/intra-class_correlation_coefficient.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
+Archive/Evidene Based Practice/Reliability/Reliability
+Tests/intra-class_correlation_coefficient.html</a></div>
+</div></div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/nateyomo\.github\.io\/Yomogida-Kerstein-Lab");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

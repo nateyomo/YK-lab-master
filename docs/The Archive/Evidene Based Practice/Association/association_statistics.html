@@ -1,0 +1,960 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.55">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Nathaniel Yomogida">
+<meta name="author" content="Chloë Kerstein">
+
+<title>Statistical Association – YK Lab</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<link href="../../..//images/brain-favicon.png" rel="icon" type="image/png">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../../../styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title">YK Lab</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../The Archive/archive_index.html"> 
+<span class="menu-text">Archive</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../guide.html"> 
+<span class="menu-text">Guide</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../journal club index.html"> 
+<span class="menu-text">Journal Club</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#measures-of-association" id="toc-measures-of-association" class="nav-link active" data-scroll-target="#measures-of-association">Measures of Association</a>
+  <ul class="collapse">
+  <li><a href="#relative-risk" id="toc-relative-risk" class="nav-link" data-scroll-target="#relative-risk">Relative Risk</a></li>
+  <li><a href="#odds-ratio" id="toc-odds-ratio" class="nav-link" data-scroll-target="#odds-ratio">Odds Ratio</a></li>
+  <li><a href="#hazard-ratio" id="toc-hazard-ratio" class="nav-link" data-scroll-target="#hazard-ratio">Hazard Ratio</a></li>
+  <li><a href="#correlation-coefficients" id="toc-correlation-coefficients" class="nav-link" data-scroll-target="#correlation-coefficients">Correlation Coefficients</a></li>
+  <li><a href="#beta-coefficients-linear-regression" id="toc-beta-coefficients-linear-regression" class="nav-link" data-scroll-target="#beta-coefficients-linear-regression">Beta Coefficients (Linear Regression)</a></li>
+  <li><a href="#chi-squared-χ2-fisher-exact-test" id="toc-chi-squared-χ2-fisher-exact-test" class="nav-link" data-scroll-target="#chi-squared-χ2-fisher-exact-test">Chi-Squared (χ<sup>2</sup>) / Fisher Exact Test</a></li>
+  <li><a href="#relative-risk-reduction" id="toc-relative-risk-reduction" class="nav-link" data-scroll-target="#relative-risk-reduction">Relative Risk Reduction</a></li>
+  <li><a href="#number-needed-to-treat-nnt" id="toc-number-needed-to-treat-nnt" class="nav-link" data-scroll-target="#number-needed-to-treat-nnt">Number Needed to Treat (NNT)</a></li>
+  </ul></li>
+  <li><a href="#calculation" id="toc-calculation" class="nav-link" data-scroll-target="#calculation">Calculation</a>
+  <ul class="collapse">
+  <li><a href="#relative-risk-rr" id="toc-relative-risk-rr" class="nav-link" data-scroll-target="#relative-risk-rr">Relative Risk (RR)</a></li>
+  <li><a href="#odds-ratio-calculation" id="toc-odds-ratio-calculation" class="nav-link" data-scroll-target="#odds-ratio-calculation">Odds-Ratio Calculation</a></li>
+  <li><a href="#risk-difference" id="toc-risk-difference" class="nav-link" data-scroll-target="#risk-difference">Risk Difference</a></li>
+  </ul></li>
+  <li><a href="#methodologic-considerations" id="toc-methodologic-considerations" class="nav-link" data-scroll-target="#methodologic-considerations">Methodologic considerations</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Statistical Association</h1>
+</div>
+
+
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Authors</div>
+  <div class="quarto-title-meta-heading">Affiliations</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author">Nathaniel Yomogida, B.S., SPT </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Doctor of Physical Therapy
+          </p>
+        <p class="affiliation">
+            B.S. in Kinesiology
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">Chloë Kerstein, B.S., SPT </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Doctor of Physical Therapy
+          </p>
+        <p class="affiliation">
+            B.A. in Neuroscience
+          </p>
+      </div>
+  </div>
+
+<div class="quarto-title-meta">
+
+      
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="measures-of-association" class="level1">
+<h1>Measures of Association</h1>
+<section id="relative-risk" class="level2">
+<h2 class="anchored" data-anchor-id="relative-risk">Relative Risk</h2>
+</section>
+<section id="odds-ratio" class="level2">
+<h2 class="anchored" data-anchor-id="odds-ratio">Odds Ratio</h2>
+<p>“In case-control or cross-sectional studies, where we cannot calculate incidence rates, the odds ratio (OR) is typically calculated. The OR is the ratio of the exposure odds (O) among the case group to the exposure odds among the control group (Figure 2): Ocase ¼ A/C, Ocontrol ¼ B/D,OR¼ Ocase/Ocontrol), and it is interpreted similarly to the RR. An OR equal to 1 indicates no association, an OR less than 1 suggests that the exposure is protective (exposure is less likely among the case group), and OR greater than1 suggests that the exposure is a risk factor (exposure is less likely among the control group). For example, in a case-control study examining the association between infection with human papillomavirus b and risk of squamous cell carcinoma, an OR of 4.0 (95% CI ¼ 1.3e12.0) was observed (Asgari et al., 2008). This OR indicates that the odds of being exposed (i.e., having this human papillomavirus subtype) were 4 times greater among the case group than the control group or, put another way, that cases were 4 times more likely to have this human papillomavirus subtype than controls.”<span class="citation" data-cites="robertsResearchTechniquesMade2019"><sup><a href="#ref-robertsResearchTechniquesMade2019" role="doc-biblioref">1</a></sup></span> “When the outcome is rare, the OR approximates the RR. This assumption, known as the rare disease assumption, can be visualized in Figure 2. When the proportions in cells A and C are small, A þ B z B and C þ D z D. Therefore, RR ¼ [A/ (A þ B)]/[C/(C þ D)] z (A/B)/(C/D) ¼ (A/C)/(B/D) ¼ OR. When the outcome is more common (&gt;10%), however, the OR provides more extreme estimates than the RR. In Figure 2, where 44% of the study population has the outcome, the OR is much smaller than the RR.”<span class="citation" data-cites="robertsResearchTechniquesMade2019"><sup><a href="#ref-robertsResearchTechniquesMade2019" role="doc-biblioref">1</a></sup></span></p>
+</section>
+<section id="hazard-ratio" class="level2">
+<h2 class="anchored" data-anchor-id="hazard-ratio">Hazard Ratio</h2>
+<p>“The hazard ratio (HR) is the ratio of the rate at which the exposed group experiences an outcome to the rate at which the unexposed group experiences an outcome, and it provides the instantaneous risk at a given time rather than the cumulative risk over the length of a study. It is calculated in survival or time-to-event analyses, in which the outcome variable is the time (days, months, years, etc.) until the occurrence of the event of interest, such as development of a disease, disease complication (e.g., cancer recurrence), death, or other outcome. Participants who do not experience an event during the follow-up period are censored. This occurs if the participant is lost to follow-up, the follow-up period ends and the participant is event-free, or the participant experiences another outcome. At the time of censoring, the participant stops contributing follow-up time to the analysis. This type of censoring is known as right-censoring, because the true unobserved event lies to the right of the censoring time. For example, in a survival analysis of acral lentiginous melanoma, both melanoma-specific survival and overall survival, or all-cause mortality, were examined. In the melanoma-specific survival analysis, only melanoma-related deaths were considered events, and participants who died of causes not related to melanoma were right-censored at the time of death. In the overall survival analysis, however, deaths from any cause were considered events (Asgari et al., 2017). In contrast to right-censoring, left-censoring occurs when the event has already taken place before the observation period begins, and the true unobserved event lies to the left of the censoring time. Estimation of the HR, as with Cox proportional hazards regression, accounts for only rightcensored data (Clark et al., 2003).”<span class="citation" data-cites="robertsResearchTechniquesMade2019"><sup><a href="#ref-robertsResearchTechniquesMade2019" role="doc-biblioref">1</a></sup></span></p>
+<p>“When the HR is equal to 1, instantaneous event rates at a particular time are the same in the exposed and unexposed groups. When the HR is equal to 0.5, half as many people in the exposed group have experienced an event compared with the unexposed group, and when HR is equal to 2, twice as many people have experienced an event. For example, in a study examining the association between systemic immune suppression and Merkel cell carcinoma-specific survival, an HR of 3.8 was observed (95% CI ¼ 2.2e6.4) (Paulson et al., 2013). This estimate indicates that the rate of death from Merkel cell carcinoma was 3.8 times higher in people with systemic immune suppression. Because the 95% CI excludes the null value of 1, we can conclude that this HR is statistically significant.”<span class="citation" data-cites="robertsonCranialNeuralgias2021"><sup><a href="#ref-robertsonCranialNeuralgias2021" role="doc-biblioref">2</a></sup></span></p>
+</section>
+<section id="correlation-coefficients" class="level2">
+<h2 class="anchored" data-anchor-id="correlation-coefficients">Correlation Coefficients</h2>
+<p>“Correlation coefficients, including the Pearson r and Spearman rho statistics, measure the strength and direction between two variables and range from e1(perfectnegative correlation) to þ1 (perfect positive correlation). A positive correlation coefficient indicates that both variables increase or decrease together, whereas a negative coefficient implies that as one variable increases, the other decreases (see examples in Table 2). The Pearson r statistic is generally used when data are continuous rather than categorical, and it assumes that the data are normally distributed and that the variables are linearly related. When these assumptions are not met, or when categorical data are involved, Spearman rho may be more appropriate. Spearman rho assumes a monotonic relationship between ranked variables and can be used for ordinal-level data. It is essentially a Pearson correlation using variable ranks rather than variable values. Spearman rho is the nonparametric version of Pearson r,and therefore it may be appropriate for nonnormally distributed data or when variables are not linearly related (McDonald, 2014a). For example, in a study examining cutaneous sarcoidosis, Rosenbach et al.&nbsp;(2013) calculated the correlations between disease severity and quality of life using several different instruments. The Physician’s Global Assessment of disease severity was found to be moderately positively correlated with Skindex-29 assessments of symptoms (Pearson r ¼ 0.41) but weakly negatively correlated with the Sarcoidosis Health Questionnaire assessment of quality of life (Pearson r ¼ e0.18). The Physician’s Global Assessment, Skindex-29, and Sarcoidosis Health Questionnaire data were normally distributed. Because the data from another assessment, the Dermatology Life Quality Index, were not normally distributed and the sample size was small, the authors used the Spearman rho correlation coefficient to identify a weak positive correlation with the Physician’s Global Assessment (r ¼ 0.24).”<span class="citation" data-cites="robertsResearchTechniquesMade2019"><sup><a href="#ref-robertsResearchTechniquesMade2019" role="doc-biblioref">1</a></sup></span></p>
+</section>
+<section id="beta-coefficients-linear-regression" class="level2">
+<h2 class="anchored" data-anchor-id="beta-coefficients-linear-regression">Beta Coefficients (Linear Regression)</h2>
+<p>“Linear regression is used to assess the relationship between a continuous outcome variable and one or more categorical or continuous predictor variables. For continuous predictors, a positive b coefficient represents the increase in the outcome variable for every 1-unit increase in the predictor variable. Conversely, a negative b coefficient represents the decrease in the outcome variable for every 1-unit increase in the predictor variable. Beta coefficients for categorical predictors have a similar interpretation, except that the coefficient represents the change in the outcome variable when switching from one category of the predictor variable to another. For instance, a study of patients with systemic sclerosis sought to investigate associations between demographic and medical variables and sleep disturbance, measured using a sleep quality scale. The number of gastrointestinal symptoms (continuous predictor) and sleep disturbance (continuous outcome) were positively associated (b ¼ 0.19, P ¼ 0.001). The beta coefficient indicates that for each 1-unit increase in the number of gastrointestinal symptoms, sleep quality score increases by 0.19 units. Female sex was also positively associated with sleep disturbance, although the association was not statistically significant (b ¼ 0.07, P ¼ 0.164). Because sex is a categorical variable, this beta coefficient indicates that being female, as opposed to being male, is associated with a 0.07-unit increase in sleep quality score (Milette et al., 2013).”<span class="citation" data-cites="robertsResearchTechniquesMade2019"><sup><a href="#ref-robertsResearchTechniquesMade2019" role="doc-biblioref">1</a></sup></span></p>
+</section>
+<section id="chi-squared-χ2-fisher-exact-test" class="level2">
+<h2 class="anchored" data-anchor-id="chi-squared-χ2-fisher-exact-test">Chi-Squared (χ<sup>2</sup>) / Fisher Exact Test</h2>
+<p>“The chi-squared and Fisher exact statistics are often used for testing relationships between categorical variables. These tests evaluate whether the proportions of one categorical variable differ by levels of another categorical variable (see example in Table 2). The null hypothesis for the chi-squared/ Fisher exact test is that the variables are independent; that is, the level of variable A does not predict the level of variable B. For each level of one variable, the expected frequencies at each level of the second variable are calculated. The chisquared test statistic is based on the difference between the frequencies that are actually observed and those that would be expected if there were no relationship between the two variables. The more computationally intensive Fisher exact test is typically used only when sample sizes are small. These tests do not evaluate the magnitude of the association but indicate whether the association is statistically significant. For example, in a study examining patient satisfaction after treatment for nonmelanoma skin cancer with either destruction, excision, or Mohs surgery, categorical patient characteristics were compared among treatment groups using chi-squared or Fisher exact tests. The training level of the treating clinician (attending, resident, or nurse practitioner) differed significantly by treatment group (P &lt; 0.001) (Asgari et al., 2009a).”<span class="citation" data-cites="robertsResearchTechniquesMade2019"><sup><a href="#ref-robertsResearchTechniquesMade2019" role="doc-biblioref">1</a></sup></span></p>
+</section>
+<section id="relative-risk-reduction" class="level2">
+<h2 class="anchored" data-anchor-id="relative-risk-reduction">Relative Risk Reduction</h2>
+<p>“The risk difference is the absolute difference in risk between exposed and unexposed groups, and it is useful for evaluating the excess risk of disease associated with an exposure. The relative risk reduction is the proportion of risk that is reduced in the exposed group relative to the unexposed group. The number needed to treat is the number of patients who must be treated for one patient to benefit. Calculations for risk difference, relative risk reduction, and number needed to treat are shown in Figure 2, and examples are provided in Table 2.”</p>
+</section>
+<section id="number-needed-to-treat-nnt" class="level2">
+<h2 class="anchored" data-anchor-id="number-needed-to-treat-nnt">Number Needed to Treat (NNT)</h2>
+</section>
+</section>
+<section id="calculation" class="level1">
+<h1>Calculation</h1>
+<table class="table-hover table-striped caption-top table">
+<caption>2x2 Contingency Table<span class="citation" data-cites="robertsResearchTechniquesMade2019"><sup><a href="#ref-robertsResearchTechniquesMade2019" role="doc-biblioref">1</a></sup></span></caption>
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Exposure</th>
+<th>Present</th>
+<th>Absent</th>
+<th>Total</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Present</td>
+<td>A <br> (90)</td>
+<td>B <br> (210)</td>
+<td>A + B <br> (300)</td>
+</tr>
+<tr class="even">
+<td>Absent</td>
+<td>C <br> (350)</td>
+<td>D <br> (350)</td>
+<td>C + D <br> (700)</td>
+</tr>
+<tr class="odd">
+<td>Total</td>
+<td>A + C <br> (440)</td>
+<td>B + D <br> (760)</td>
+<td>A + B + C + D <br> (1000)</td>
+</tr>
+</tbody>
+</table>
+<section id="relative-risk-rr" class="level2">
+<h2 class="anchored" data-anchor-id="relative-risk-rr">Relative Risk (RR)</h2>
+<p><span class="math display">\[
+\begin{align*} \textrm{Relative Risk} &amp;=\frac{\frac{A}{(A + B)}}{\frac{C}{(C+D)}}
+\\ &amp;=\frac{90}{300}/\frac{350}{700}
+\\ &amp;=\frac{0.3}{0.5}
+\\ &amp;= 0.6
+\end{align*}
+\]</span></p>
+<ul>
+<li>Based on these results, we can conclude that the Exposed group has 0.6x times the <em>risk</em> of the outcome compared to the unexposed group<span class="citation" data-cites="robertsResearchTechniquesMade2019"><sup><a href="#ref-robertsResearchTechniquesMade2019" role="doc-biblioref">1</a></sup></span></li>
+<li>The exposed group has 60% of the risk of the outcome compared to the unexposed group<span class="citation" data-cites="robertsResearchTechniquesMade2019"><sup><a href="#ref-robertsResearchTechniquesMade2019" role="doc-biblioref">1</a></sup></span>.</li>
+<li>The exposed group has 40% <em>less</em> risk of the outcome compared to the unexposed group<span class="citation" data-cites="robertsResearchTechniquesMade2019"><sup><a href="#ref-robertsResearchTechniquesMade2019" role="doc-biblioref">1</a></sup></span>.</li>
+</ul>
+</section>
+<section id="odds-ratio-calculation" class="level2">
+<h2 class="anchored" data-anchor-id="odds-ratio-calculation">Odds-Ratio Calculation</h2>
+<p>How to calculate the <a href="../../../The Archive/Evidene Based Practice/Association/Probability and Risk/odds_ratio.html">Odds Ratio</a> for the contingency table: <span class="math display">\[
+\begin{align*} \textrm{Odds Ratio} &amp;=\frac{\frac{A}{(C)}}{\frac{B}{(D)}}
+\\ &amp;=\frac{90}{350}/\frac{210}{350}
+\\ &amp;=\frac{0.26}{0.6}
+\\ &amp;= 0.43
+\end{align*}
+\]</span></p>
+<p>Based on the results of the odds ratio calculation (0.43) we can conclude:</p>
+<ul>
+<li>The exposed group has 0.43 <em>times</em> the <em>odds</em> of of exposure to the outcome compared to the control group<span class="citation" data-cites="robertsResearchTechniquesMade2019"><sup><a href="#ref-robertsResearchTechniquesMade2019" role="doc-biblioref">1</a></sup></span>.</li>
+<li>The case group is 57% less likely to have the exposure compared to the control group<span class="citation" data-cites="robertsResearchTechniquesMade2019"><sup><a href="#ref-robertsResearchTechniquesMade2019" role="doc-biblioref">1</a></sup></span></li>
+</ul>
+</section>
+<section id="risk-difference" class="level2">
+<h2 class="anchored" data-anchor-id="risk-difference">Risk Difference</h2>
+<p>The calculation of risk difference based on the table above:</p>
+<p><span class="math display">\[
+\begin{align*} \textrm{Risk Difference} &amp;=\frac{\textrm{Exposed with outcome}}{\textrm{Total Exposed Group}} - \frac{\textrm{Exposed}_\textrm{Without outcome}}{\textrm{Unexposed}_\textrm{Total}}
+\\ &amp;=\frac{A}{(A+B)} - \frac{C}{(C+D)}
+\\ &amp;=\frac{90}{350}/\frac{210}{350}
+\\ &amp;=\frac{0.26}{0.6}
+\\ &amp;= 0.43
+\end{align*}
+\]</span></p>
+</section>
+</section>
+<section id="methodologic-considerations" class="level1">
+
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Methodologic considerations</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-robertsResearchTechniquesMade2019" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Roberts MR, Ashrafzadeh S, Asgari MM. Research <span>Techniques Made Simple</span>: <span>Interpreting Measures</span>&nbsp;of <span>Association</span> in <span>Clinical Research</span>. <em>The Journal of Investigative Dermatology</em>. 2019;139(3):502-511.e1. doi:<a href="https://doi.org/10.1016/j.jid.2018.12.023">10.1016/j.jid.2018.12.023</a></div>
+</div>
+<div id="ref-robertsonCranialNeuralgias2021" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Robertson C. Cranial <span>Neuralgias</span>. <em>CONTINUUM: Lifelong Learning in Neurology</em>. 2021;27(3):665-685. doi:<a href="https://doi.org/10.1212/CON.0000000000000962">10.1212/CON.0000000000000962</a></div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div class="">Yomogida N, Kerstein C. Statistical
+Association. <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Evidene Based Practice/Association/association_statistics.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
+Archive/Evidene Based
+Practice/Association/association_statistics.html</a></div>
+</div></div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/nateyomo\.github\.io\/Yomogida-Kerstein-Lab");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

@@ -1,0 +1,10 @@
+/* styles.css */
+
+a {
+    /* color: rgb(59, 59, 150);  Set the color of hyperlinks to dark blue */
+    text-decoration: none; /* Remove the underline from hyperlinks */
+}
+
+a:hover {
+    text-decoration: underline; /* Add underline on hover for better visibility */
+}

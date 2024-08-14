@@ -1,0 +1,88 @@
+/* dark-cosmo.css */
+
+/* General background and text color adjustments */
+body {
+    background-color: #2b2b2b !important;
+    color: #e0e0e0 !important;
+  }
+  
+  /* Adjust navbar colors */
+  .navbar {
+    background-color: #1c1c1c !important;
+    color: #e0e0e0 !important;
+  }
+  
+  .navbar a {
+    color: #e0e0e0 !important;
+  }
+  
+  .navbar a:hover {
+    color: #ffffff !important;
+  }
+  
+  /* Adjust header colors */
+  h1, h2, h3, h4, h5, h6 {
+    color: #e0e0e0 !important;
+  }
+  
+  /* Style hyperlinks */
+  a {
+    color: #20b2aa !important; /* Light Sea Green */
+    text-decoration: none !important; /* Remove underline by default */
+  }
+  
+  a:hover {
+    color: #3cb371 !important; /* Medium Sea Green */
+    text-decoration: underline !important; /* Underline on hover */
+  }
+  
+  a:visited {
+    color: #5f9ea0 !important; /* Cadet Blue */
+  }
+  
+  /* Adjust table of contents */
+  .toc {
+    background-color: #1c1c1c !important;
+    color: #e0e0e0 !important;
+  }
+  
+  .toc a {
+    color: #20b2aa !important;
+  }
+  
+  .toc a:hover {
+    color: #3cb371 !important;
+  }
+  
+  /* Code block styles */
+  pre, code {
+    background-color: #1e1e1e !important;
+    color: #c5c5c5 !important;
+  }
+  
+  pre {
+    border: 1px solid #3c3c3c !important;
+  }
+  
+  /* Adjust button styles */
+  .btn {
+    background-color: #3cb371 !important;
+    color: #2b2b2b !important;
+  }
+  
+  .btn:hover {
+    background-color: #20b2aa !important;
+  }
+  
+  /* Additional elements */
+  footer {
+    background-color: #1c1c1c !important;
+    color: #e0e0e0 !important;
+  }
+  
+  blockquote {
+    background-color: #3c3c3c !important;
+    border-left: 5px solid #20b2aa !important;
+    color: #e0e0e0 !important;
+  }
+  
