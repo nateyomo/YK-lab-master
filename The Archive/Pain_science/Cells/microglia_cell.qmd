@@ -1,0 +1,9 @@
+---
+title: Micoglia
+---
+
+:::{.callout-note}
+
+- Chapter 4 Microglia: Critical Mediators of Pain Hypersensitivity after Peripheral Nerve Injury @mcmahonWallMelzackTextbook2013
+
+:::

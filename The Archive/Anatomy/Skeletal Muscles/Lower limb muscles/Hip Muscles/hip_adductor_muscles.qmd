@@ -1,0 +1,47 @@
+---
+title: Hip Adductor Muscles
+---
+
+
+
+:::{layout-ncol="2"}
+
+### Primary
+
+
+
+- [Pectineus]({{< var ref-pectineus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+- [Adductor Longus]({{< var ref-adductor-longus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+- [Gracilis]({{< var ref-gracilis.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+- [Adductor Brevis]({{< var ref-adductor-brevis.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+- [Adductor Magnus]({{< var ref-adductor-magnus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+
+### Secondary
+
+- [Biceps Femoris Long Head]({{< var ref-biceps-femoris-long-head.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+- [Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) (inferior/ posterior fibers) @neumannKinesiologyMusculoskeletalSystem2017
+- [Quadratus Femoris]({{< var ref-quadratus-femoris.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+- [Obturator Externus]({{< var ref-obturator-externus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
+
+# Primary
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Pectineus]({{< var ref-pectineus.path >}}) | {{< var ref-pectineus.origin >}} | {{< var ref-pectineus.insertion >}} | {{< var ref-pectineus.nerve >}} | {{< var ref-pectineus.action >}} |
+| [Gracilis]({{< var ref-gracilis.path >}}) | {{< var ref-gracilis.origin >}} | {{< var ref-gracilis.insertion >}} | {{< var ref-gracilis.nerve >}} | {{< var ref-gracilis.action >}} |
+| [Adductor Longus]({{< var ref-adductor-longus.path >}}) | {{< var ref-adductor-longus.origin >}} | {{< var ref-adductor-longus.insertion >}} | {{< var ref-adductor-longus.nerve >}} | {{< var ref-adductor-longus.action >}} |
+| [Adductor Brevis]({{< var ref-adductor-brevis.path >}}) | {{< var ref-adductor-brevis.origin >}} | {{< var ref-adductor-brevis.insertion >}} | {{< var ref-adductor-brevis.nerve >}} | {{< var ref-adductor-brevis.action >}} |
+| [Adductor Magnus]({{< var ref-adductor-magnus.path >}}) | {{< var ref-adductor-magnus.origin >}} | {{< var ref-adductor-magnus.insertion >}} | {{< var ref-adductor-magnus.nerve >}} | {{< var ref-adductor-magnus.action >}} |
+: Primary Hip Adductors {.striped .hover}
+
+# Secondary
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) | {{< var ref-gluteus-maximus.origin >}} | {{< var ref-gluteus-maximus.insertion >}} | {{< var ref-gluteus-maximus.nerve >}} | {{< var ref-gluteus-maximus.action >}} |
+| [Quadratus Femoris]({{< var ref-quadratus-femoris.path >}}) | {{< var ref-quadratus-femoris.origin >}} | {{< var ref-quadratus-femoris.insertion >}} | {{< var ref-quadratus-femoris.nerve >}} | {{< var ref-quadratus-femoris.action >}} |
+| [Obturator Externus]({{< var ref-obturator-externus.path >}}) | {{< var ref-obturator-externus.origin >}} | {{< var ref-obturator-externus.insertion >}} | {{< var ref-obturator-externus.nerve >}} | {{< var ref-obturator-externus.action >}} |
+| [Biceps Femoris Long Head]({{< var ref-biceps-femoris-long-head.path >}}) | {{< var ref-biceps-femoris-long-head.origin >}} | {{< var ref-biceps-femoris-long-head.insertion >}} | {{< var ref-biceps-femoris-long-head.nerve >}} | {{< var ref-biceps-femoris-long-head.action >}} |
+: Secondary Hip Adductors {.striped .hover}

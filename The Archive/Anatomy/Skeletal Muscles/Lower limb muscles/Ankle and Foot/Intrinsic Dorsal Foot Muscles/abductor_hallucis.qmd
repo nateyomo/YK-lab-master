@@ -1,0 +1,62 @@
+---
+title: Abductor Hallucis
+---
+
+:::{layout-ncol="3"}
+![Schematic of 1st layer of Plantar Intrinsic Foot Muscles @gilroyAtlasAnatomy2020 </br> 1: Abductor hallucis </br> 2: Flexor digitorum brevis </br> Abductor digiti minimi](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.20a schematic intrinsic 1st layer foot muscles.png)
+
+![1st Layer Intrinsic Plantar Foot Muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.20b intrinsic 1st layer foot muscles.png)
+:::
+
+
+# Overview
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "abductor_hallucis"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Abductor Hallucis Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Origin {#origin}
+
+- Medial calcaneal tuberosity @gilroyAtlasAnatomy2020
+- Plantar aponeurosis @gilroyAtlasAnatomy2020
+- Flexor retinaculum @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+
+Medial proximal phalanx of 1st toe @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020
+
+
+# Action {#action}
+
+- **1st MTP**: flexion, abd of first toe @gilroyAtlasAnatomy2020
+- **Longitudinal Arch**: Support @gilroyAtlasAnatomy2020
+
+
+
+
+
+# MMT 
+

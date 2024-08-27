@@ -1,0 +1,14 @@
+{
+  "hash": "631d9788b606be541e3521452d198a75",
+  "result": {
+    "markdown": "---\ntitle: Rotator Cuff Muscles\n\n---\n\n\n<!--\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\nlibrary(gt)\nlibrary(dplyr)\n\nrotator_cuff_data <- read.csv(/The Archive/Anatomy/Muscles/OIAN.csv) %>%\n\nhead(rotator_cuff_data) %>%\n    gt()\n```\n\n::: {.cell-output .cell-output-error}\n```\nError: <text>:5:31: unexpected '/'\n4: \n5: rotator_cuff_data <- read.csv(/\n                                 ^\n```\n:::\n:::\n\n--> \n\n# Function\n\nThe RTC contributes to movement, stability, and sensorimotor control of the G-H joint @duttonDuttonOrthopaedicExamination2020 ",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

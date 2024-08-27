@@ -1,0 +1,53 @@
+---
+title: Lower Subscapular nerve
+---
+
+
+
+
+
+# Anatomy
+
+There are 3 subscapular nerves:
+
+1. Superior Subscapular Nerve ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) @duttonDuttonOrthopaedicExamination2020 
+1. Middle Subscapular Nerve (Thoracodorsal) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) @duttonDuttonOrthopaedicExamination2020 
+1. Lower supscaular nerve ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) @duttonDuttonOrthopaedicExamination2020 
+
+All of these nerves originate from the [posterior cord]({{< var ref-brachial-plexus.posterior-cord >}}) of the [brachial plexus]({{< var ref-brachial-plexus.path >}})
+
+
+
+
+
+# Motor innervations
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "lower_subscapular_nerve"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Lower Subscapular n. Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Subscapularis]({{< var ref-subscapularis.path >}}) | {{< var ref-subscapularis.origin >}} | {{< var ref-subscapularis.insertion >}} | {{< var ref-subscapularis.nerve >}} | {{< var ref-subscapularis.action >}} |
+| Teres Major | | | |
+
+: Motor Innervation of the subscapular nerves {.striped .hover}

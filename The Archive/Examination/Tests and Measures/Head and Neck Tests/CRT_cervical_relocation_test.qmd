@@ -1,0 +1,20 @@
+---
+title: Cervical Relocation Test (CRT)
+subtitle: A test of neck proprioception
+---
+
+The Cervical Relocation Test is a special test used to assess joint position sense (PS) integrity of the cervical spine @burkeReliabilityCervicalRelocation2016
+
+
+# Limitations
+
+"The CRT may be influenced by nonspecific cervical pain that accounts for approximately 42% of common musculoskeletal disorders annually" @burkeReliabilityCervicalRelocation2016
+
+
+# Validity
+
+| | Value | Note |
+|-|-|-|
+|Interrater Reliability | {{< var ref-cervical-relocation-test.interrater-reliability >}} @burkeReliabilityCervicalRelocation2016 | |
+| Intrarater Reliability | {{< var ref-cervical-relocation-test.intrarater-reliability >}} @burkeReliabilityCervicalRelocation2016 | |
+: Validity {.striped .hover}

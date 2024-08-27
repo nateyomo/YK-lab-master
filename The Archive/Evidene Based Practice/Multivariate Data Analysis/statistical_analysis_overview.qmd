@@ -1,0 +1,25 @@
+---
+title: Overview of Statistical Analysis
+---
+
+# Why should you care about statistical analysis?
+
+A study’s results are useless if the wrong data analysis test is used
+Allam (2017) @allamAssessmentStatisticalMethodologies2017 found that only 24.5% of studies performed for MD doctoral dissertations at the National Cancer Institute (NCI) used improper data tests @allamAssessmentStatisticalMethodologies2017
+
+- Most of results were misinterpreted (82.3%) @allamAssessmentStatisticalMethodologies2017
+- Misuse of statistical terminology (77.4%) @allamAssessmentStatisticalMethodologies2017
+
+# Comparing Tests
+
+## T-Test
+[T-Test]({{< var ref-t-test.path >}})
+
+- Determines difference from in mean values between 2 groups
+
+## Mann-Whitney U Test
+[See Mann-Whitney U Test]({{< var ref-mann-whitney-u-test.path >}})
+
+- Difference in Rank sum
+- Does not need to be normally distributed
+- 2x independent groups

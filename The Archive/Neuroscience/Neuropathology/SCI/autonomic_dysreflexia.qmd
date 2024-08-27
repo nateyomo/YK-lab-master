@@ -1,0 +1,14 @@
+---
+title: Autonomic Dysreflexia
+---
+
+
+"Autonomic dysreflexia may occur with lesions rostral to the splanchnic sympathetic outflow (above the T6 level) in which a stimulus (usually bladder or rectal distention) results in a sympathetic overresponse characterized by excessive sweating below level of injury, severe hypertension, reflex bradycardia, pounding headaches, blurred vision, nausea, blockage of nasal passages, and cutaneous flushing" @brazisLocalizationClinicalNeurology2022 
+
+# Epidemiology
+
+- Autonomic dysreflexia occurs in patients with an injury at T6 level or above. 
+
+
+The condition is induced by sensory stimulation below the level of the injury, and is characterised by sudden, uncontrolled response in the sympathetic nervous system.
+- This results in episodes of paroxysmal hypertension, frequently accompanied by baroreflex-mediated bradycardia (9, 10). Systolic blood pressure of 250–300 mm Hg and diastolic blood pressure of 200–220 mm Hg have been recorded with autonomic dysreflexia (11).

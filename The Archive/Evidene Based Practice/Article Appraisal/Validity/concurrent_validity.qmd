@@ -1,0 +1,7 @@
+---
+title: Concurrent Validity
+---
+
+
+
+[Concurrent Validity]({{< var ref-validity.concurrent >}}) is a type of [criterion validity]({{< var ref-validity.criterion >}}) that tests whether a measure is consistent with the "gold standard," measured at the *same* time @politAssessingMeasurementHealth2015.

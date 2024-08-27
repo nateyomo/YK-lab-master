@@ -1,0 +1,35 @@
+---
+title: Teres Major
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Teres Major]({{< var ref-teres-major.path >}}) | {{< var ref-teres-major.origin >}} | {{< var ref-teres-major.insertion >}} | {{< var ref-teres-major.nerve >}} | {{< var ref-teres-major.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+Inferior angle of the scapula (posterior aspect) @gilroyAtlasAnatomy2020
+
+
+# Insertion {#insertion}
+
+Crest of lesser tubercle of the humerus (anterior angle) @gilroyAtlasAnatomy2020
+
+
+# Innervation {#innervation}
+
+[Lower Subscapular N.]({{< var ref-lower-subscapular-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+**GHJ**: Extension, Internal rotation, Adduction @gilroyAtlasAnatomy2020
+
+
+
+# Notes

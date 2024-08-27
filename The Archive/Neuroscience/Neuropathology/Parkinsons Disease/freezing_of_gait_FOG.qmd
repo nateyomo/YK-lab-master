@@ -1,0 +1,44 @@
+---
+title: Freezing of Gait (FOG)
+---
+
+
+
+
+
+# Examination
+
+## Subjective
+
+- Do you experience FOG
+- How often
+- How long does a FOG last
+- What are the triggers?
+
+
+## T&M
+
+- FOG-Q
+
+## Paired assessments
+Patients who experience freezing of gait, you **should** include a cognitive exam or ensure someone else has conducted one.
+
+- Mocha
+
+
+
+# Interventions
+
+:::{layout-ncol="2"}
+### External Cueing
+
+- When a subgroup of freezers was analyzed, there was a significant reduction in freezing severity (FOG-Q140 scores) with cueing compared with a no-cueing condition @osbornePhysicalTherapistManagement2022
+
+### Gait Training
+
+- Greater improvement in FOG was shown with treadmill training plus visual and auditory cues compared with overground gait training with visual and auditory cues @osbornePhysicalTherapistManagement2022
+
+
+
+
+:::

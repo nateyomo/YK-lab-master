@@ -1,0 +1,37 @@
+---
+title: Muscular Power
+---
+
+# Overview
+
+Muscle Power is defined as the total amount of work that the muscle can perform in a unit period of time @hallGuytonHallTextbook2021.
+
+# Strength vs Power
+
+:::{layout-ncol="2"}
+### Strength
+Maximal amount of force that a muscle can output
+
+### Power
+Power is a measure of the total amount of work that the muscle performs in a unit period of time @hallGuytonHallTextbook2021 
+:::
+
+
+
+# Factors
+
+Power is therefore determined not muscle strength, the distance of contraction, and the number of times that it contracts each minute.
+
+# Measurement
+
+
+Muscle power is generally measured in kilogram meters (kg-m) per minute. That is, a muscle that can lift 1-kilogram weight to a height of 1 meter or that can move some object laterally against a force of 1 kilogram for a distance of 1 meter in 1 minute is said to have a power of 1 kg-m/min. The maximal power achievable by all the muscles in the body of a highly trained athlete with all the muscles working together is approximately the following:"
+
+
+| Time | $(\textrm{kg} \times \textrm{m}) / \textrm{minute}$ |
+|-|-|
+|First 8 to 10 seconds | 7000 @hallGuytonHallTextbook2021 |
+| 1 min | 4000 @hallGuytonHallTextbook2021 |
+| Next 30 minutes | 1700 @hallGuytonHallTextbook2021 |
+: {.hover .striped}
+

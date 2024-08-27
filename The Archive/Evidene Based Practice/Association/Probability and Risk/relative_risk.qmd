@@ -1,0 +1,80 @@
+---
+title: Relative Risk (RR)
+---
+:::{.callout title="AKA"}
+
+- Relative risk @motulskyIntuitiveBiostatisticsNonmathematical2018
+- Risk Ratio @motulskyIntuitiveBiostatisticsNonmathematical2018
+:::
+
+
+
+"Relative risk (RR) is often calculated in cohort studies, where participants with and without exposure(s) are followed for particular outcome(s). This design allows for the calculation of incidence (I), found by dividing the number of new cases of an outcome by the number of people at risk for the outcome during a specified period (Figure 2): 
+
+Iexposed ¼ A/(A þ B) and Iunexposed ¼ C/(C þ D)
+$$
+I_\textrm{exposed} = \frac{A}{A + B}
+$$
+
+| Exposure | Present | Absent | Total |
+|-|-|-|-|
+| Present | A <br> (90) | B <br> (210) | A + B <br> (300) |
+|Absent| C <br> (350) | D <br> (350) | C + D <br> (700) | 
+|Total| A + C <br> (440) | B + D <br> (760) | A + B + C + D <br> (1000) |
+: {.hover .striped}
+
+
+The RR is the ratio of the incidence among exposed participants to the incidence among unexposed participants: RR ¼ Iexposed/Iunexposed.By comparing incidence rates between the exposed and unexposed groups, it is possible to determine if an exposure increases or decreases risk of an outcome." @robertsResearchTechniquesMade2019
+
+"When RR is equal to 1, the incidence is the same among those exposed and unexposed. An RR less than 1 suggests that the exposure is protective (Iexposed < Iunexposed), and an RR greater than 1 suggests that the exposure is a risk factor for the outcome (Iexposed > Iunexposed). For example, the relationship between dietary vitamin D intake and risk of melanoma was investigated in a cohort study, and a RR of 1.31 (95% confidence interval [CI] ¼ 0.94e1.82) was observed for the highest quartile of vitamin D compared with the lowest quartile (Asgari et al., 2009b). The point estimate indicates a 31% increased risk of melanoma (or 1.31 times the risk) among participants with the highest level of vitamin D intake, but because the CI includes the null value of 1, we would not consider the finding statistically significant." @robertsResearchTechniquesMade2019 
+
+
+# Motulsky
+
+"The relative risk It is often more intuitive to think of the ratio of two proportions rather than their difference. This ratio is termed the risk ratio or relative risk. Disease progressed in 8.8% of placebo-treated patients and in 1.7% of patients treated with apixaban. The ratio is 8.8/1.7, or 5.2. In other words, subjects treated with the placebo were 5.2 times as likely as patients treated with apixaban to have a recurrent thromboembolism. That seems a bit backwards. Let’s flip the ratio to 1.7/8.8, which is 0.19. Patients receiving the drug had 19% the risk of a recurrent thromboembolism than did patients receiving the placebo. The 95% CI of the relative risk extends from 0.11 to 0.33. The interpretation is now familiar. If we assume our subjects are representative of the larger population of adults with thromboembolism, we are 95% sure that treatment with apixaban will reduce the relative incidence of disease progression to between 0.11 to 0.33 times the risk. Don’t get confused by the two uses of percentages. In this example, the drug lowered the absolute risk of thromboembolism by 7.1% (the difference between 8.8% and 1.7%) and reduced the relative risk by 81% (which is 100% minus the ratio 1.7/8.8), down to a risk that is 19% that of placebo-treated patients. In this example, the term risk is appropriate because it refers to disease recurrence. In other contexts, one alternative outcome may not be worse than the other, and the relative risk is therefore more appropriately termed the relative probability or relative rate." @motulskyIntuitiveBiostatisticsNonmathematical2018 
+
+
+# Example
+## Example 1
+This example study has an experimental group (drug) and a control group (placebo).
+In the study the disease progressed 8.1% in the control group and 1.7% in the experimental group:
+
+
+$$
+RR = \frac{8.8}{1.7} = 5.2
+$$
+
+To interpret this, you would say that the subjects treated with the intervention were 5.2x as likely to have the negative outcome (thromboembolism).
+
+$$
+RR = \frac{1.7}{8.8} = 0.19
+$$
+
+To interpret it this way, you would say that the experimental group had 19% of the risk of the control group.
+
+## Example 2
+
+| Exposure | Present | Absent | Total |
+|-|-|-|-|
+| Present | A <br> (90) | B <br> (210) | A + B <br> (300) |
+|Absent| C <br> (350) | D <br> (350) | C + D <br> (700) | 
+|Total| A + C <br> (440) | B + D <br> (760) | A + B + C + D <br> (1000) |
+: {.hover .striped}
+
+$$ 
+\begin{align*} \textrm{Relative Risk} &=\frac{\frac{A}{(A + B)}}{\frac{C}{(C+D)}}
+\\ &=\frac{90}{300}/\frac{350}{700}
+\\ &=\frac{0.3}{0.5}
+\\ &= 0.6
+\end{align*}
+$$
+
+Based on these results, we can conclude:
+
+- The Exposed group has 0.6x times the *risk* of the outcome compared to the unexposed group @robertsResearchTechniquesMade2019.
+- The exposed group has 60% of the *risk* of the outcome compared to the unexposed group @robertsResearchTechniquesMade2019.
+- The exposed group has 40% *less* risk of the outcome compared to the unexposed group @robertsResearchTechniquesMade2019.
+
+# Comparing Risk
+
+See @georgeWhatRiskDifferentiating2020 

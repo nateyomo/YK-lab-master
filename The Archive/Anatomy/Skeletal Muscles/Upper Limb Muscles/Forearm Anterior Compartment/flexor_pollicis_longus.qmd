@@ -1,0 +1,40 @@
+---
+title: Flexor Pollicis Longus (FPL)
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Flexor Pollicis Longus]({{< var ref-flexor-pollicis-longus.path >}}) | {{< var ref-flexor-pollicis-longus.origin >}} | {{< var ref-flexor-pollicis-longus.insertion >}} | {{< var ref-flexor-pollicis-longus.nerve >}} | {{< var ref-flexor-pollicis-longus.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+- Anterior/proximal Radius @gilroyAtlasAnatomy2020
+- Adjacent IO membrane @gilroyAtlasAnatomy2020
+
+
+
+# Insertion {#insertion}
+
+Distal phalanx of thumb (palmar surface) @gilroyAtlasAnatomy2020
+
+
+# Innervation {#innervation}
+
+[Anterior Interosseous N.]({{< var ref-anterior-interosseous-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **Wrist**: Flexion, Radial deviation @gilroyAtlasAnatomy2020
+- **CMC**: Flexion @gilroyAtlasAnatomy2020
+- **1st MCP/IP**: Flexion @gilroyAtlasAnatomy2020
+
+
+
+
+# Notes

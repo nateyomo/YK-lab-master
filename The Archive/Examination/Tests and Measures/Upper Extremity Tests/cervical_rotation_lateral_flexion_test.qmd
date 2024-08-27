@@ -1,0 +1,56 @@
+---
+title: Cervical Rotation Lateral Flexion Test
+subtitle: Special test of the Brachial Plexus
+---
+
+{{< video https://www.youtube.com/watch?v=dn95zk-bx6A&pp=ygUmY2VydmljYWwgcm90YXRpb24gbGF0ZXJhbCBmbGV4aW9uIHRlc3Q%3D >}}
+
+# Purpose
+
+- This test is designed to assess [1st rib hypomobility]({{< var ref-1st-rib.hypomobility >}}) as a cause of Brachialgia or thoracic outlet syndrome @duttonDuttonOrthopaedicExamination2020
+- you should use this test for patients presenting with:
+    - Brachialgia + thoracic outlet symptoms @duttonDuttonOrthopaedicExamination2020
+
+# Technique
+
+- Patient seated with neutral head position in the sagittal plane @duttonDuttonOrthopaedicExamination2020
+- Clinician then manually:
+    - Put patient's forehead in your C/L elbow
+    - With your I/L hand, apply a downward pressure to patient's I/L shoulder to prevent compensation (shoulder elevation)
+    - Maximally rotates the C/S contralaterally (away from affected side) @duttonDuttonOrthopaedicExamination2020
+    - Flexes neck forward (ear to chest) @duttonDuttonOrthopaedicExamination2020
+- Repeated on other side
+
+# Grading
+1st rib mobility is assessed qualitatively by the clinician.
+
+- Abrupt restriction to passive moment indicates: 1st rib subluxation @duttonDuttonOrthopaedicExamination2020
+- Unilateral restriction:
+    - 1st rib mobilizations are performed @duttonDuttonOrthopaedicExamination2020
+    - pt is retested @duttonDuttonOrthopaedicExamination2020
+
+# DDX
+
+However it is worth remembering that a number of additional factors may influence the finding, including:
+
+- TOS @duttonDuttonOrthopaedicExamination2020
+- cervical radiculopathy @duttonDuttonOrthopaedicExamination2020
+- Upper thoracic pain @duttonDuttonOrthopaedicExamination2020
+
+
+# Validity
+
+| | Value | Note |
+|-|-|-|
+| Interrater reliability | {{< var ref-cervical-rotation-lateral-flexion-test.interrater-reliability >}} @duttonDuttonOrthopaedicExamination2020 | |
+| Specificity | N/A | |
+| Sensitivity | N/A | |
+
+: Validity {.striped .hover}
+
+Lindgren et al. found this test to have excellent interobserver repeatability and to have good agreement with a radiologic examination in the detection of a subluxed first rib.6
+
+# Clinical signifiance
+
+CRLF is frequently used in clinical practice to determine whether a thrust manipulation targeting the 1st or 2nd rib should be performed, but Koppenhaver et al., found that the CRLF was not predictive of clinical improvement in neck pain following manual manipulations @koppenhaverValidityCervicalRotation2022
+

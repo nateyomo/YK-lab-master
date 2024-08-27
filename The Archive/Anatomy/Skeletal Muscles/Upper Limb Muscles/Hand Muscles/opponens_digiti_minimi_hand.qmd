@@ -1,0 +1,35 @@
+---
+title: Opponens Digiti Minimi (Hand)
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Opponens Digiti Minimi (Hand)]({{< var ref-opponens-digiti-minimi-hand.path >}}) | {{< var ref-opponens-digiti-minimi-hand.origin >}} | {{< var ref-opponens-digiti-minimi-hand.insertion >}} | {{< var ref-opponens-digiti-minimi-hand.nerve >}} | {{< var ref-opponens-digiti-minimi-hand.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+- Hook of hamate @gilroyAtlasAnatomy2020
+- Flexor retinaculum @gilroyAtlasAnatomy2020
+
+
+
+# Insertion {#insertion}
+
+5th Metacarpal (ulnar border) @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))@gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+**5th MCP**: Draws anterior and rotates it towards the thumb @gilroyAtlasAnatomy2020
+
+
+# Notes

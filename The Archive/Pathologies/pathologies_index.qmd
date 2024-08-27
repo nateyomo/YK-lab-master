@@ -1,0 +1,29 @@
+---
+title: Index of Pathologies
+---
+
+## Endocrine Pathologies
+
+### Pituitary Disorders
+
+#### Pituitary Hypofunction
+
+##### Gonadotropin Deficiency
+
+- [Gonadotropin Deficiency]({{< var ref-gonadotropin-deficiency.path >}})
+- [Kallmann Sndrome]({{< var ref-kallmann-syndrome.path >}})
+
+## MSK Pathologies
+### Head
+### Trunk
+
+- [Rib fracture]({{< var ref-rib-fracture.path >}})
+    - [Rib stress fracture]({{< var ref-rib-stress-fracture.path >}})
+- [Thoracic outlet syndrome (TOS)]({{< var ref-thoracic-outlet.syndrome.path >}})
+- Pain
+    - [Chronic Low Back Pain]({{< var ref-chronic-low-back-pain.path >}})
+    - [Acute Low Back Pain]({{< ref-acute-low-back-pain.path >}})
+### Upper Extremity
+### Lower Extremity
+
+- [Adductor muscle strain]({{< var adductor-muscle-strain.path >}})

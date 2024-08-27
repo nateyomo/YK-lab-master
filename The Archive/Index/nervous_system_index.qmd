@@ -1,0 +1,25 @@
+---
+title: Nervous System Index
+---
+
+
+# Anatomy
+
+- Neuroanatomy
+    - [Basal Ganglia]({{< var ref-index-neuroanatomy.basal-ganglia >}})
+    - [Tracts]({{< var ref-index-neuroanatomy.tract >}})
+    - [Cranial Nerves & Nuclei]({{< var ref-index-neuroanatomy.cranial-nerve >}})
+
+
+# Physiology
+
+
+
+# Pathophysiology
+
+
+# Pathology
+
+
+# Interventions
+

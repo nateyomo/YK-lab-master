@@ -1,0 +1,49 @@
+---
+title: Dorsal Interossei of the Hand
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Dorsal Interossei]({{< var ref-dorsal-interossei-hand.path >}}) | {{< var ref-dorsal-interossei-hand.origin >}} | {{< var ref-dorsal-interossei-hand.insertion >}} | {{< var ref-dorsal-interossei-hand.nerve >}} | {{< var ref-dorsal-interossei-hand.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+- **1st**: 1-2nd metacarpals @gilroyAtlasAnatomy2020
+- **2nd**: 2-3rd metacarpals @gilroyAtlasAnatomy2020
+- **3rd**: 3-4th metacarpals @gilroyAtlasAnatomy2020
+- **4th**: 4-5th metacarpals @gilroyAtlasAnatomy2020
+
+Adjacent side of 2 adjacent metacarpals
+
+# Insertion {#insertion}
+
+- **1st**: 2nd DDE, 2nd proximal phalanx (radial side) @gilroyAtlasAnatomy2020
+- **2nd**: 3rd DDE, 3rd proximal phalanx (radial side) @gilroyAtlasAnatomy2020
+- **3rd**: 3rd DDE, 3rd proximal phalanx (ulnar side) @gilroyAtlasAnatomy2020
+- **4th**: 4th DDE, 4th proximal phalanx (ulnar side) @gilroyAtlasAnatomy2020
+
+
+
+
+
+Base of prox phalanges and ext expansions of digits 2-4
+
+# Innervation {#innervation}
+
+[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+
+- **2-4th MCP**: Flexion @gilroyAtlasAnatomy2020
+- **2-4th PIP, DIP**: Extension, Abduction @gilroyAtlasAnatomy2020
+
+
+
+# Notes

@@ -1,0 +1,47 @@
+---
+title: Descending Tracts
+---
+
+![Spinal Cord Cross section @osullivanPhysicalRehabilitation2019](/The Archive/Neuroscience/Neuroanatomy/Spinal Cord/images/osullivan fig20.1 spinal cord cross section.png)
+
+
+# Primary Tracts
+
+:::{layout-ncol="3"}
+
+### Lateral Corticospinal Tract (LCST)
+
+[Lateral Corticospinal Tract (LCST)]({{< var ref-lateral-corticospinal-tract.path >}})
+
+- [Voluntary movement]({{< var ref-movement-system.voluntary >}}) of extremities @osullivanPhysicalRehabilitation2019
+
+### Medial Corticospinal Tract (ACST)
+
+[Medial Corticospinal Tract (MCST)]({{< var ref-medial-corticospinal-tract.path >}})
+
+- [Voluntary movement]({{< var ref-movement-system.voluntary >}}) of axial muscles @osullivanPhysicalRehabilitation2019
+
+
+
+### Medial Vestibulospinal tract
+
+Medial vestibulospinal tract
+
+- (positioning of head and neck)
+
+### Lateral & Medial Vestibulospinal Tracts
+
+Lateral and medial vestibulospinal tracts work together to achieve posture and balance @osullivanNationalPhysicalTherapy2022.
+
+### Lateral and medial Reticulspinal Tract
+
+The lateral and medial reticulospinal tracts work together to perform:
+    - Posture @osullivanPhysicalRehabilitation2019
+    - Balance @osullivanPhysicalRehabilitation2019
+    - Automatic gait related movements @osullivanPhysicalRehabilitation2019
+
+### Rubrospinal Tract
+
+- Movement of limbs @osullivanPhysicalRehabilitation2019
+
+

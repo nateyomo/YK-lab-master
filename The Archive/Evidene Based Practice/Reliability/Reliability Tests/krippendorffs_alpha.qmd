@@ -1,0 +1,42 @@
+---
+title: Krippendorff's Alpha
+---
+
+Krippendorff's Alpha is a modified [Kappa coefficient]({{< var ref-reliablity.kappa-coefficient >}}) that is a measure of agreement, which is even more flexible than Fleiss’ Kappa @zapfMeasuringInterraterReliability2016.
+
+Krippendorff's alpha is used instead of Kappa Coefficient when there are multiple categories
+
+
+
+Krippendorff’s alpha in contrast is based on the observed disagreement corrected for disagreement expected by chance @zapfMeasuringInterraterReliability2016
+
+
+# Use
+For nominal data with no missing values both [Fleiss’ Kappa]({{< var ref-reliability-fleiss-kappa >}}) and Krippendorff’s alpha can be recommended
+
+
+Krippendorff's Alpha can be used for two or more raters and categories, and it is not only applicable for nominal data, but for any measurement scale, including metric data @zapfMeasuringInterraterReliability2016
+
+Krippendorff’s alpha is also unique since it can handle missing values, given that each observation is assessed by at least two raters. 
+
+:::{.callout-note}
+Observations with only one assessment have to be excluded
+:::
+
+# Distribution
+
+First, the algorithm weights for the number of ratings per individual to account for missing values. 
+
+Second, not the N observations, with each observation containing the associated assessments of all raters, are randomly sampled. 
+Instead the random sample is drawn from the coincidence matrix, which is needed for the estimation of Krippendorff’s alpha
+
+This means that the dependencies between the raters are not taken into account. 
+
+The third difference is that Krippendorff keeps the expected disagreement fixed, and only the observed disagreement is calculated anew in each bootstrap step
+
+
+# Calculation
+
+For the calculation of the expected agreement for Fleiss’ K,the sample size is taken as infinite, while for Krippendorff’s alpha the actual sample size is used @zapfMeasuringInterraterReliability2016
+
+

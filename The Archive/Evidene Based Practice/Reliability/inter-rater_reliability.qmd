@@ -1,0 +1,35 @@
+---
+title: Inter-Rater Reliability
+---
+
+
+- INTER‐rater reliability: Consistency of a measure assessed by multiple raters
+- Multiple PTs doing the test
+- Purpose: Determine the agreement between scores given independently by 2 practitioners @streinerReliabilityStatisticsCommentarySeries2016a
+
+The important point here is the necessity for the independence of the raters; 1 rater must be ignorant of the other’s score. Otherwise, we would have a measure of the degree to which 1 person can accurately copy from another, which tells us much about the raters, but little about the subject.
+
+Tests for Inter-Rater Reliability
+
+- Total Agreement: Percentage of examinations in which the task scores assigned by the two raters were identical (total agreement) @andersonUnitedStatesUS2011
+- Cohen's Kappa: The chance corrected measure of agreement on tasks
+- Krippendorff's Alpha 
+    - Has the advantage of high flexibility regarding the measurement scale and the number of raters, and, unlike Fleiss’ K, can also handle missing values @zapfMeasuringInterraterReliability2016.
+- Pearson’s coefficients: Of the correlation between the two raters’ scores for each subscale
+- T-Tests: between the two raters’ mean scores for the each subscale
+- [Intraclass Correlation Coefficient]({{< var ref-reliability.icc >}})
+
+:::{.callout title="Example of Poor Interrater reliability"}
+- If 1 rater gives a score of 7 and another a score of 12, we wouldn’t be sure which, if either, score is correct @streinerReliabilityStatisticsCommentarySeries2016a.
+:::
+
+:::{.callout title="What to do with poor inter-rater reliability"}
+
+How to improve inter-rater reliability:
+- The solution is usually more training of the raters @streinerReliabilityStatisticsCommentarySeries2016a
+    - A common strategy is for raters to independently evaluate about 10 people who will not be part of the final sample, and to discuss why they disagreed on specific items; were the criteria unclear, ambiguous, poorly stated, or whatever? 
+    - This is repeated on a new group until satisfactory inter-rater reliability is achieved
+    - If the study lasts more than a few months, it is usually a good idea to evaluate inter-rater reliability toward the middle to see if there has been any slippage in the level of agreement. 
+    - Problems exist with this method if thescale requires interviewing the subject @streinerReliabilityStatisticsCommentarySeries2016a.
+
+:::

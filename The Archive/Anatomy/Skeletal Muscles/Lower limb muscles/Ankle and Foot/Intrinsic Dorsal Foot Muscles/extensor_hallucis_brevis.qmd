@@ -1,0 +1,37 @@
+---
+title: Extensor Hallucis Brevis (EHB)
+---
+
+:::{layout-ncol="2"}
+![Schematic of Intrinsic Dorsal Muscles of the foot </br> 1: Extensor digitorum brevis </br> 2: Extensor hallucis brevis @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.19a schematic of intrinsic dorsal foot muscles.png)
+
+![Intrinsic Dorsal Muscles of the foot @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.19b intrinsic dorsal foot muscles.png)
+:::
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Extensor Hallucis Brevis]({{< var ref-extensor-hallucis-brevis.path >}}) | {{< var ref-extensor-hallucis-brevis.origin >}} | {{< var ref-extensor-hallucis-brevis.insertion >}} | {{< var ref-extensor-hallucis-brevis.nerve >}} | {{< var ref-extensor-hallucis-brevis.action >}} |
+: Extensor Hallucis Brevis OIAN {.striped .hover}
+
+
+# Origin {#origin}
+
+Calcaneus (lateral dorsal surface) @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+
+Prox. phalanx of 1st toe @gilroyAtlasAnatomy2020
+
+# Nerve
+
+[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+**1st MTP**: Extension @gilroyAtlasAnatomy2020
+
+# MMT
+
+
+"The EHL and the EHB muscles produce the motion of extension of the IP and MTP joints. The foot is maintained in midposition. Resistance is applied to the posterior aspect of both phalanges of the first digit into toe flexion." @duttonDuttonOrthopaedicExamination2020 

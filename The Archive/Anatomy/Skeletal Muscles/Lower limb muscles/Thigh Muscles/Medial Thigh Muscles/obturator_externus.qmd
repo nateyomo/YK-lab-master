@@ -1,0 +1,65 @@
+---
+title: Obturator Externus
+---
+
+:::{layout-ncol="2"}
+
+![Medial Thigh muscle deep layer schematic </br> 1: Obturator Externus </br> 2: Adductor Magnus](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/images/gilroyatlas fig31.23 medial thigh deep layer schematic.png)
+
+![Medial Thigh muscle deep layer @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/images/gilroyatlas fig31.23b medial thigh deep layer.png)
+
+:::
+
+# Overview
+
+
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "obturator_externus"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Obturator Externus Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+
+# Origin {#origin}
+Outer surface of the obturator membrane and its bony boundaries @gilroyAtlasAnatomy2020
+
+
+# Insertion {#insertion}
+
+Trochanteric fossa of the femur @gilroyAtlasAnatomy2020
+
+
+# Innervation {#innervation}
+
+[Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})) @gilroyAtlasAnatomy2020
+
+
+# Action {#action}
+
+- **Hip**: adduction and external rotation @gilroyAtlasAnatomy2020
+- **Pelvic Stabilization**: Sagittal plane @gilroyAtlasAnatomy2020
+
+
+
+
+# Overview
+
+“The obturator	 externus muscle arises from the external side of the obturator membrane and adjacent ilium (see Fig. 12.14). The belly of this muscle is visible from the anterior side of the pelvis after removal of the adductor longus and pectineus muscles (see Fig. 12.26, left side). The muscle attaches posteriorly on the femur at the trochanteric fossa (see Fig. 12.6). (Based on its leverage to produce adduction, location, and innervation, the obturator externus is more anatomically associated with the adductor	group of muscles than with the other five short external rotators. The obturator externus is innervated by nerve roots that originate from the lumbar plexus [via the obturator nerve], as are most of the other adductor muscles. The other small external rotators, in contrast, are innervated through the sacral plexus, with nerve roots as low as S2.)” @neumannKinesiologyMusculoskeletalSystem2017 

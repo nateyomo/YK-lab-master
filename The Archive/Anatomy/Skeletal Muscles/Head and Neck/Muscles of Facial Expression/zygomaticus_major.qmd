@@ -1,0 +1,25 @@
+---
+title: Zygomaticus major muscle
+---
+
+# OIAN
+![Muscles of the Mouth @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Head and Neck/Muscles of Facial Expression/images/fig39.10A-F Muscles of the mouth gilroyatlasofanatomy2020.png)
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Zygomaticus major]({{< var ref-zygomaticus-major.path >}}) | {{< var ref-zygomaticus-major.origin >}} | {{< var ref-zygomaticus-major.insertion >}} | {{< var ref-zygomaticus-major.nerve >}} | {{< var ref-zygomaticus-major.action >}} |
+
+# Origin {#origin}
+Zygomatic bone (lateral surface, post. part) @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+Skin at the corner of the mouth @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Facial Nerve CN VII]({{< var ref-cn7.path >}}) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+Pulls corner of mouth superiorly and laterally @gilroyAtlasAnatomy2020
+
+# Clinical Significance

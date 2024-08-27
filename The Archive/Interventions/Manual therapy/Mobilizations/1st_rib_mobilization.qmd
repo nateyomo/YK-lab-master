@@ -1,0 +1,18 @@
+---
+title: 1st Rib Mobilization
+---
+
+
+
+# Technique
+
+
+# Safety
+
+- If pain/paresthesias w/ rib mobs, authors discourage use @hooperpart2ThoracicOutletSyndrome2010a
+- However if associated w a release phenomenon (nerve function regaining), continue doing mobilizations @hooperpart2ThoracicOutletSyndrome2010a
+
+
+# Indication
+
+- [Thoracic outlet syndrome]({{< var ref-thoracic-outlet.syndrome >}}) due to costoclavicular space compression @hooperpart2ThoracicOutletSyndrome2010a

@@ -1,0 +1,17 @@
+---
+title: Subclavian vein
+---
+
+# Pathway
+
+The subclavian vein passes anterior to the [Anterior Scalene]({{< var ref-anterior-scalene.path >}})
+
+
+Joins [Subclavian A]({{< var ref-subclavian-artery.path >}}) and [Inf trunk of the Brachial plexus]({{< var ref-brachial-plexus.inferior-trunk >}}) in the [thoracic outlet]({{< var ref-thoracic-outlet.path >}}) after they pass through the anterior and middle scalenes @duttonDuttonOrthopaedicExamination2020
+
+
+# Dysfunction
+
+Thoracic outlet syndrome
+
+- The Subclavian vein cannot be entrapped int he [interscalene triangle]({{< var ref-interscalene-triangle.path >}}), since it passes anterior to the [anterior scalene]({{< var ref-anterior-scalene.path >}})

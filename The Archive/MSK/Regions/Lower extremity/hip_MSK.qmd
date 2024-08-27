@@ -1,0 +1,257 @@
+---
+title: Musculoskeletal Approach to the Hip
+---
+
+# Osteology
+## Innominate
+
+## Femur
+
+
+# Functional Anatomy of the Hip
+## Femoral Head 
+
+## Acetabulum
+
+
+## Acetabular Labrum
+
+
+## Acetabular alignment
+
+
+## Capsule and ligaments
+
+## Pack Position
+
+# Osteokinematics
+
+# Arthrokinematics
+
+# Muscle & Joint Interaction
+
+## Innervation
+
+## Muscular Function
+
+# Hip Pathologies and selected therapeutic/surgical interventions
+
+## Hip Osteoarthritis (OA)
+
+## Treatment of Unstable hip
+
+
+# Study Questions
+
+1. What structures convert the greater sciatic notch to a foramen? List three structures (nerves or muscles) that pass through this foramen.
+    - 
+    - 
+1. A patient has excessive anteversion of the femur and acetabulum. Which extreme hip motion (in the horizontal plane) would most likely be associated with a spontaneous anterior dislocation? 
+    - 
+1. What characteristics define the close-packed position of the hip? How do these characteristics differ from most other synovial joints of the body? 
+    - 
+1. Explain why a patient with an inflamed capsule of the hip joint may be susceptible to a hip flexion contracture. 
+    - 
+1. Describe how the ischiofemoral ligament becomes taut in full internal rotation and extension of the hip. Include both femoral-on-pelvic and pelvic-on-femoral perspectives in your description. 
+    - 
+1. While standing, a person performs a full posterior pelvic tilt while keeping the trunk essentially stationary. Describe how this movement could alter the tension in the anterior longitudinal ligament and the ligamentum flavum in the lumbar region. 
+    - 
+1. Using a ruler and Fig. 12.30 as a reference, which muscle appears to have the greatest moment arm for hip abduction? 
+    - 
+1. Based on Fig. 12.35, which muscle has (a) the least leverage and (b) the greatest leverage for producing internal rotation torque? 
+    - 
+1. A patient sustained a severe fracture of the femoral head and the acetabulum, with marked reduction in contact area between the articular surfaces of the joint. As part of the reconstructive surgery, the surgeon decides to slightly increase the internal moment arm of the hip abductor muscles. What is the likely rationale for this procedure? 
+    - 
+1. Explain how a reduced center-edge angle of the acetabulum could favor a dislocation of the hip. 
+    - 
+1. Contrast the arthrokinematics of (femoral-on-pelvic) hip flexion and extension with those of internal and external rotation. 
+    - 
+1. As indicated in Fig. 12.12, during the swing phase of walking the hip experiences (compression) forces of about 10–20% of body weight. What causes this force? 
+    - 
+1. Fig. 12.22A shows a seated person performing a 30 &deg; anterior pelvic tilt. What structure(s) is/are most likely responsible for determining the end range of this motion? 
+    - 
+1. A person sustained an injury of the cauda equina resulting in reduced function of spinal nerve roots L3 and below. What pattern of muscular tightness may develop without inadequate physical therapy intervention? (Consult Appendix IV, Part A, for assistance in responding to this question.) 
+    - 
+1. Justify how bilateral tightness in the adductor longus and brevis could contribute to excessive lumbar lordosis while standing. 
+    - 
+1. A standard way for persons to stretch their own rectus femoris is to simultaneously flex the knee while extending the hip. When performing this stretch, some persons with a tightened rectus femoris also hold their extended hip slightly abducted. Why would this be?
+    - 
+1. Which muscle depicted in the dynamic bilateral hip adduction event of Fig. 12.33 is actively eccentrically? Please justify your answer.
+    - 
+
+
+
+# Maximal Torque Produced by the hip muscles
+
+“Normative data on the maximal­effort torque production of the hip muscles may be useful for assessing progress and setting of goals for persons involved in rehabilitation and training programs. Fig. 12.48 depicts the average, maximal internal torque produced by a sample of healthy males.34 It is interesting to observe the ranking of the peak torques across the three planes of motion. The greatest torque is produced in the sagittal plane, with exten­ sion torque slightly exceeding flexion torque. The predominant strength of the hip extensors compared with all other muscle groups is not surprising: these muscles must lift or propel the body upward (and often forward) against gravity or control the descent of the body. The relatively high strength of the hip flexor muscles reflects the need to rapidly accelerate the lower limb during running, in addition to controlling the entire trunk and pelvis relative to fixed lower extremities. Consider in the latter case the physically powerful iliopsoas, for example—a muscle that likely accounts for a significant proportion of the flexion torque poten­ tial at the hip. The adductor and abductor muscles generate similar magni­ tudes of peak torque within the frontal plane, but of lower com­ bined magnitude than the flexor and extensor muscles.34,226 The internal and external rotator muscles produce the least magnitude of torque of all muscle groups of the hip. Such a ranking is likely due to the fact that, in the upright position, these muscles produce a rotary torque between the femur and pelvis in a plane that does not typically oppose the force of gravity.” @neumannKinesiologyMusculoskeletalSystem2017 
+
+
+
+
+# Lumbopelvic Movement
+
+:::{layout-ncol="3"}
+### pelvic pronation
+lumbopelvic hip complex during ground impact is a combination of 3-D shock-absorbing movements driving the pelvis into an anterior tilt, forward rotation, contralateral drop, and concomitant spinal extension/rotation and relative sacral nutation. Triplanar pelvic motion is analogous to pronation at the foot—an important mechanism for absorbing ground reaction forces6 and a key antecedent for effective propulsion during gait @dischiaviRethinkingDynamicKnee2019
+:::
+
+# Biomechanics
+
+## Coxa Vara & Coxa Valga
+
+"As previously described in this chapter, the average angle of inclination of the femoral neck is approximately 125 degrees (see Fig. 12.7A). The angle may be changed as a result of a surgical repair of a fractured hip or the specific design of a prosthetic hip. In addition, a surgical operation known as a coxa vara (or valga) osteotomy intentionally alters a preexisting angle of inclina­ tion. This operation involves cutting a wedge of bone from the proximal femur, thereby changing the orientation of the femoral head to the acetabulum. A goal of this operation is often to improve the congruency of the weight­bearing surfaces of the hip.e" @neumannKinesiologyMusculoskeletalSystem2017
+
+# Kinematics
+
+## Flexion
+
+:::{layout-ncol="2"}
+### Osteokinematics
+
+- Active flexion < Passive flexion
+- 120 &deg; flexion (when the knee is flexed) @wongPhysicalExaminationHip2022 
+- 90 &deg; active flexion knee extended @kapandjiPhysiologyJointsVol2007
+- 120+ &deg; active flexion knee flexed @kapandjiPhysiologyJointsVol2007
+
+### Arthrokinematics
+
+- Posterior/inferior glide/spin (According to class)
+
+### Limits
+
+- inferior joint capsule and ischiofemoral ligament (inf fibers), gluteus maximus, soft tissue – thigh to trunk
+- When the knee is extended we have passive insufficiency of the hip flexors -> now only have 80-90 degrees of hip flexion
+    - passive insufficiency from hamstrings, gracilis
+
+:::
+
+## Extension
+
+:::{layout-ncol="2"}
+### Osteokinematics
+
+- 10-20 &deg;
+- "0 &deg; of hip extension when knee flexed"
+
+### Arthrokinematics
+
+- Anterior slide & spin (According to class)
+
+### Limits
+
+- anterior joint capsule, capsular ligaments (iliofemoral, ischiofemoral (if IR), pubofemoral)
+- Rectus femoris will limit hip flexion more if the knee is extended since the RF crosses both the hip and knee
+- Iliofemoral ligament is stressed during hip extension -> will limit hip extension
+- Ischifemoral ligament comes from posterior side of capsule and wraps around to the front -> hip extension would pull the fibers down and cause stress -> limits hip extension when the hip is IR
+:::
+
+## Abduction
+
+:::{layout-ncol="2"}
+### Osteokinematics
+
+- 40 &deg;
+
+### Arthrokinematics
+
+- Superior roll
+- inf/med slide
+
+### Limits
+
+- adductor muscles and the pubofemoral ligament
+:::
+
+## Adduction
+
+:::{layout-ncol="2"}
+### Osteokinematics
+
+- 25 &deg; 
+
+### Arthrokinematics
+
+- Inf roll
+- Sup/lat slide
+
+### Limits
+
+- 
+:::
+
+## External Rotation
+
+:::{layout-ncol="2"}
+### Osteokinematics
+
+- 
+
+### Arthrokinematics
+
+- Post roll 
+- Ant slide
+
+### Limits
+
+- Medial rotators
+- Pubofemoral ligament
+- Lateral iliofemoral ligament 
+:::
+
+## Internal Rotation
+
+:::{layout-ncol="2"}
+### Osteokinematics
+
+- 
+
+### Arthrokinematics
+
+- 
+
+### Limits
+
+- Posterior capsule
+- Ischiofemoral ligament
+- Lateral rotators
+- Iliofemoral ligament
+:::
+
+# Testing
+
+## Hip Tightness
+
+- Thomas Test @wongPhysicalExaminationHip2022
+- Ober's Test @wongPhysicalExaminationHip2022 
+
+## Functional Tests
+
+- Squat Analysis
+- Deep Squat Test
+
+
+## Femoroacetabular Impingement & Labral Pathology Tests 
+
+- Flexion-Adduction-Internal Rotation (FADDIR) @wongPhysicalExaminationHip2022 
+- Scour Test (Labral Stress Test) @wongPhysicalExaminationHip2022 
+- Internal Rotation Over Pressure (IROP) @wongPhysicalExaminationHip2022 
+- Posterior Impingement Test
+- Flexion-Abduction-External Rotation (FABER/Patrick Sign)
+
+## Other/Extra-Articular Maneuvers
+
+- Resisted Straight Leg Raise (Stinchfield Test) @wongPhysicalExaminationHip2022 
+- Thomas Test @wongPhysicalExaminationHip2022 
+- Gear Stick Sign @wongPhysicalExaminationHip2022 
+
+## Microinstability
+
+## Provocative maneuvers
+In addition to astandardexamofthehip,thereareanumberofprovocative maneuvers that assess apprehension, range of motion, and joint stability
+
+- Anterior Apprehension Test (Hyperextension, External Rotation Test) @wongPhysicalExaminationHip2022 
+- Abduction-Extension-External Rotation Test @wongPhysicalExaminationHip2022 
+- Prone External Rotation Test @wongPhysicalExaminationHip2022 
+- Log Roll Test (Dial Test) @wongPhysicalExaminationHip2022 
+- Posterior Apprehension Test @wongPhysicalExaminationHip2022 
+- Axial Distraction Test @wongPhysicalExaminationHip2022 

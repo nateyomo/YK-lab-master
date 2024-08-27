@@ -1,0 +1,49 @@
+---
+title: Cranial Nerve Nuclei (Overview)
+---
+The cranial nerve nuclei can be broken down into divided into 2 categories (motor & sensory columns) and then 3 subcategories each:
+
+- Motor columns
+    - Somatic motor nuclei
+    - Branchial Motor Nuclei
+    - Parasympathetic Nuclei
+- Sensory columns
+    - Visceral Sensory Column
+    - General Somatosensory Nuclei
+    - Special Somatic Sensory Nuclei
+
+![Functional columns of brainstem sensory and motor cranial nerve nuclei (from Blumenfield Figure 12.5 @blumenfeldNeuroanatomyClinicalCases2022)](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.5 blumenfield CN nuclei.png)
+
+
+# Motor columns
+
+- Somatic motor nuclei: Adjacent to midline & Exit @ midline
+    - [Oculomotor Nucleus]({{< var ref-oculomotor-nucleus.path >}}) ([CN III]({{< var ref-cn3.path >}}))
+    - [Trochlear Nucleus]({{< var ref-trochlear-nucleus.path >}}) ([CN IV]({{< var ref-cn4.path >}}))
+    - [Abducens Nucleus]({{< var ref-abducens-nucleus.path >}}) ([CN VI]({{< var ref-cn6.path >}}))
+    - [Hypoglossal Nucleus]({{< var ref-hypoglossal-nucleus >}}) ([CN XII]({{< var ref-cn12.path >}}))
+- Branchial Motor Nuclei: Ventrolateral Tegmentum
+    - [Trigeminal Motor Nucleus]({{< var ref-trigeminal-motor-nucleus.path >}}) ([CN V]({{< var ref-cn5.path >}}))
+    - [Facial Nucleus]({{< var ref-facial-nucleus.path >}}) ([VII]({{< var ref-cn7.path >}}))
+    - [Nucleus Ambiguous]({{< var ref-nucleus-ambiguous.path >}}) ([CN IX]({{< var ref-cn9.path >}}), [CN X]({{< var ref-cn10.path >}}))
+    - [Spinal Accessory Nucleus]({{< var ref-spinal-accessory-nucleus.path >}}) ([CN XI]({{< var ref-cn11.path >}}))
+- Parasympathetic Nuclei: 
+    - [Edinger-Westphal Nucleus]({{< var ref-edinger-westphal-nucleus.path >}}) ([CN III]({{< var ref-cn3.path >}}))
+    - [Superior Salivatory Nucleus]({{< var ref-superior-salivatory-nucleus.path >}}) ([CN VII]({{< var ref-cn7.path >}}))
+    - [Inferior Salivatory Nucleus]({{< var ref-inferior-salivatory-nucleus.path >}}) ([CN IX]({{< var ref-cn9.path >}}))
+    - [Dorsal Motor Nucleus of the Vagus]({{< var ref-dorsal-motor-nucleus >}}) ([CN X]({{< var ref-cn10.path >}}))
+
+Sensory Nuclei:
+
+- Visceral Sensory Column:
+    - [Rostral portion of Nucleus Solitarius]({{< var ref-nucleus-solitarius.path >}}) (Taste CN VII, IX, X)
+    - [Caudal portion of Nucleus Solitarius]({{< var ref-nucleus-solitarius.path >}}) (ChemoR: CN IX, X)
+- General Somatosensory Nuclei: 
+    - [Trigeminal Sensory nuclei]({{< var ref-trigeminal-sensory-nuclei.path >}}) (CN V, IX, X)
+        - [Mesencephalic nucleus of CN V]({{< var ref-mesencephalic-nucleus.path >}}) (CN V)
+        - [Main sensory nucleus of CN V]({{< var ref-main-sensory-nucleus-of-CN-V.path >}}) (CN V)
+        - [Spinal Trigeminal nucleus]({{< var ref-spinal-trigeminal-nucleus >}})
+- Special Somatic Sensory Nuclei: Hearing & Balance
+    - [Cochlear Nuclei]({{< var ref-cochlear-nuclei.path >}}) ([CN VIII]({{< var ref-cn8.path >}}))
+    - [Vestibular Nuclei]({{< var ref-vestibular-nuclei.path >}}) ([CN VIII]({{< var ref-cn8.path >}}))
+

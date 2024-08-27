@@ -1,0 +1,7 @@
+---
+title: Comparison of which correlation analysis you should use
+---
+
+# Pearson Correlation Versus Linear Regression
+
+Briefly, simple linear regression has only 1 independent variable (x) and 1 dependent variable (y) @schoberCorrelationCoefficientsAppropriate2018

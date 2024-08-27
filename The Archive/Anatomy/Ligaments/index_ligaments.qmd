@@ -1,0 +1,10 @@
+---
+title: Index of ligaments
+---
+
+
+# LE
+## Hip
+
+## Knee
+[Knee ligaments]({{< var ref-knee-ligaments.path >}})

@@ -1,0 +1,38 @@
+---
+title: Ulnar Fovea Sign
+---
+
+
+@tayUlnarFoveaSign2007
+
+# Purpose
+
+Clinical detection of foveal disruptions or UT ligament injuries @tayUlnarFoveaSign2007
+
+# False Positive Analysis
+
+- Triangular fibrocartilage injuries @tayUlnarFoveaSign2007
+- Advanced arthrosis of the ulnar head @tayUlnarFoveaSign2007
+- Crystal arthropathy @tayUlnarFoveaSign2007
+- Extensor carpi ulnaris tendon subluxation @tayUlnarFoveaSign2007
+- Lax distal radioulnar joint capsule @tayUlnarFoveaSign2007
+- Pisotriquetral joint loose body @tayUlnarFoveaSign2007
+- Radiocarpal and ulnocarpal synovitis @tayUlnarFoveaSign2007
+- Ulnocarpal joint capsule tear @tayUlnarFoveaSign2007
+- Scapholunate ligament injury @tayUlnarFoveaSign2007
+- Dorsal wrist ganglionv
+- Ulnocarpal impaction with lunotriquetral ligament injury @tayUlnarFoveaSign2007
+- No Pathology @tayUlnarFoveaSign2007
+
+
+# Psychometric
+
+
+
+| Psychometric | Value (95% CI) |
+|-|-|
+| Sensitivity | 0.952 (0.90, 0.98) @tayUlnarFoveaSign2007 |
+| Specificity | 0.865 (0.79, 0.92) @tayUlnarFoveaSign2007 |
+| +LR | 7.06 (4.53, 11.0) @tayUlnarFoveaSign2007 |
+| -LR | 0.055 (0.027, 0.11) @tayUlnarFoveaSign2007 |
+: {.striped .hover}

@@ -1,0 +1,69 @@
+---
+title: Lyme Disease
+---
+
+Lyme disease is a bacterial infection (spirochetes of genus *Borrelia*) generally transmitted via *Ixodes* tick bite @roosNeurologicComplicationsLyme2021
+
+# Bacteria
+
+The type of bacteri a
+
+North America, only one spirochete in the genus Borrelia causes Lyme disease, Borrelia burgdorferi.1 In addition to B. burgdorferi, other Borrelia species causing Lyme Disease in Europe include Borrelia afzelii and Borrelia garinii (and the much rarer Borrelia spielmanii and Borrelia bavariensis)
+
+# Transmission
+
+The Ixodes tick typically must remain attached for 24 to 48 hours to transmit Borrelia @roosNeurologicComplicationsLyme2021
+Most humans are infected through the bites of nymphs, which are smaller than 2 mm in length @roosNeurologicComplicationsLyme2021
+
+# Pathophysiology
+
+## Chemokines and Cytokines
+
+In Lyme meningitis, infection of the CNS with B. burgdorferi is followed by an increase in [CSF CXCL~13~]({{< var ref-cxcl-13.csf >}})
+
+# Complications
+## Cutaneous
+
+## Arthritis
+
+- Monarthritis or oligoarthritis may occur @roosNeurologicComplicationsLyme2021
+- The knee is the most frequently involved joint @roosNeurologicComplicationsLyme2021.
+
+## Cardiac complications
+Cardiac complications may also be present, of which atrioventricular conduction defects are most commonly reported
+
+## Neurologic complications
+
+Lyme disease neurologic complicatios are referred to as "neuroborreliosis" @roosNeurologicComplicationsLyme2021
+
+Most common neurologic complications of Lyme disease
+
+- Cranial neuritis (most often cranial nerve VII) @roosNeurologicComplicationsLyme2021 
+- Meningitis @roosNeurologicComplicationsLyme2021 
+- Radiculoneuritis @roosNeurologicComplicationsLyme2021 
+
+### Cranial Neuritis
+Cranial neuritis generally occurs in [CNVII Facial Nerve]({{< var ref-cn7.path >}}) @roosNeurologicComplicationsLyme2021
+
+Lyme disease cranial neuritis can also occur in CNIII, CNIV, VI, and CNVIII, but at lower rates @roosNeurologicComplicationsLyme2021
+
+Mechanism:
+
+- Cranial neuritis due to lyme disease is believed to be caused by a mild meningitis @roosNeurologicComplicationsLyme2021
+
+### Lyme Meningitis {#lyme-meningitis}
+The most common symptom in Lyme meningitis is headache
+
+The most common symptom in Lyme meningitis is headache (CASE 10-1). Patients may have photo- and phonosensitivity,4 but fever and meningismus may be mild or absent.8 Analysis of the CSF demonstrates a lymphocytic pleocytosis, a mildly increased protein concentration, and a normal glucose concentration. Papilledema due to intracranial hypertension has been reported in children with Lyme meningitis and may rarely occur in adults.
+
+
+# Presentation
+
+
+# Treatment
+
+## Neuroborreliosis Treatment
+
+Lyme meningitis, cranial neuropathy, or radiculoneuropathy be treated with [IV ceftriaxone]({{< var ref-ceftriaxone.path >}}), [IV cefotaxime]({{< var ref-cefotaxime.path >}}), [IV penicillin G]({{< var ref-penicillin.g >}}), or [oral doxycycline]({{< var ref-doxycycline.path >}}) @roosNeurologicComplicationsLyme2021
+
+

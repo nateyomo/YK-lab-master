@@ -1,0 +1,64 @@
+---
+title: Fibularis Brevis Muscle
+---
+
+:::{layout-ncol="2"}
+![Schematic of Muscles of the lateral compartment of the lower leg @gilroyAtlasAnatomy2020 </br> 1: Fibularis Longus </br> 2: Fibularis Brevis](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/images/gilroyatlas fig32.21a schematic lateral compartment lower leg.png)
+
+![Muscles of the lateral compartment of the lower leg @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/images/gilroyatlas fig32.21b lateral compartment lower leg lateral view.png)
+
+:::
+
+# Overview
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "fibularis_brevis"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Fibularis brevis Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Origin {#origin}
+Middle lateral surface of fibula @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+5th metatarsal base @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+[Superficial Fibular N.]({{< var ref-superficial-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **TCJ**: PF @gilroyAtlasAnatomy2020
+- **STJ**: Eversion @gilroyAtlasAnatomy2020 
+
+
+
+
+# Tendon
+
+"The origin for the fibularis (peroneus) brevis is more distal to the fibularis (peroneus) longus and lies deeper. It becomes superficial on the lateral aspect of the foot, at its insertion on the tuberosity of the fifth metatarsal." @duttonDuttonOrthopaedicExamination2020 
+
+# Length Testing
+
+# Strength Testing
+
+The fibularis longus, Fibularis brevis, and Fibularis Tertius cannot be differentiated from eachother, so the same MMT is used for all 3:
+
+- Patient is in supine and the other, with the foot over the edge of the table and the ankle in the anatomic position. Resistance is applied to the lateral border of the forefoot

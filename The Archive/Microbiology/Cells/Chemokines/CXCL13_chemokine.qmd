@@ -1,0 +1,21 @@
+---
+title: C-X-C motif ligand 13 (CXCL~13~)
+---
+
+a key homeostatic chemokine constitutively expressed in lymphoid organs and crucial for recruitment and compartmentalization of lymphocytes. Both B cells and follicular T helper cells, a special subgroup of CD4 T cells required for B cell activation, follow CXCL13 gradients towards B-T cell contact zones
+
+# Serum CXCL~13~
+Elevation of the chemokine CXCL~13~ in CSF frequently occurs during active and acute CNS inflammatory processes and presumably is associated with B cell‑related immune activation @pilzChemokineCXCL13Serum2020.
+
+“leaking” of CXCL13 from blood across dysfunctional brain barriers is a possible source @pilzChemokineCXCL13Serum2020.
+
+
+# CSF CXCL~13~ {#csf}
+
+CSF CXCL~13~ is elevated in :
+
+- Infection of the CNS with B. burgdorferi @roosNeurologicComplicationsLyme2021 
+- Neurosyphilis @roosNeurologicComplicationsLyme2021
+- Human immunodeficiency virus (HIV) @roosNeurologicComplicationsLyme2021
+- Aseptic meningitis @roosNeurologicComplicationsLyme2021
+- CNS lymphoma @roosNeurologicComplicationsLyme2021

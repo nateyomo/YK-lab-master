@@ -1,0 +1,35 @@
+---
+title: Coracobrachialis Muscle
+---
+
+:::{layout-ncol="2"}
+![Schematic of Pectoralis major and coracobrachialis @gilroyAtlasAnatomy2020 </br> 1: Pectoralis Major (clavicular part) <br> 2: Pec Major (Sternocostal part) </br> 3: Pec Major (abdominal part) </br> 4: Coracobrachialis](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/images/gilroyatlas fig25.25a pectoralis major and coracobrachialis schematic.png)
+
+![Pectoralis Major and Coracobrachialis, anterior view @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/images/gilroyatlas fig25.25c pectoralis major and coracobrachialis.png)
+:::
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Coracobrachialis]({{< var ref-coracobrachialis.path >}}) | {{< var ref-coracobrachialis.origin >}} | {{< var ref-coracobrachialis.insertion >}} | {{< var ref-coracobrachialis.nerve >}} | {{< var ref-coracobrachialis.action >}} |
+
+: Coracobrachialis OIAN {.striped .hover}
+
+# Origin {#origin}
+
+Coracoid process of [Scapula]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+
+Middle 1/3 of [Humerus]({{< var ref-humerus-bone.path >}}) (in line with crest of lesser tubercle) @gilroyAtlasAnatomy2020
+
+# Nerve
+[Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+**GHJ**: Flexion, Adduction, Internal rotation @gilroyAtlasAnatomy2020
+
+
+

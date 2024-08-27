@@ -1,0 +1,28 @@
+---
+title: Microbiology Index
+---
+
+# Cells {#cell}
+
+- [CD34]({{< var ref-cd34.path >}})
+
+## Chemokines {#chemokine}
+
+- [C-X-C motif ligand 13 (CXCL~13~)]({{< var ref-cxcl-13.path >}})
+
+
+# Enzymes {#enzyme}
+
+- [Superoxide Dismutases group]({{< var ref-superoxide-dismutases-group.path >}})
+    - [Copper-Zinc Superoxide dismutase (CuZnSOD)]({{< var ref-CuZnSOD-copper-zinc-superoxide-dismutase.path >}})
+- [Diamine Oxidase]({{< var ref-diamine-oxidase.path >}})
+- [Creatine Kinase (CK)]({{< var ref-creatine-kinase.path >}})
+
+# Proteins {#protein}
+
+- [Nestin protein]({{< var ref-nestin-protein.path >}})
+- [Vascular endothelial growth factor (VEGF)]({{< var ref-vascular-endothelial-growth-factor.path >}})
+- [Von Willebrand Factor (vWF)]({{< var ref-von-willebrand-factor.path >}})
+
+
+## Non-Proteins {#non-protein}

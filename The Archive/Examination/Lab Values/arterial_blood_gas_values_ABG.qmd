@@ -1,0 +1,13 @@
+---
+title: Arterial Blood Gas Values (ABG)
+---
+
+
+
+
+| Item | Values |
+|-|-|
+| PaO2 | >80 mmHg|
+|PaCO2 | 35-45 mmHg|
+|pH | 7.35-7.45|
+|HCO3 | 22-26 mEq/liter|

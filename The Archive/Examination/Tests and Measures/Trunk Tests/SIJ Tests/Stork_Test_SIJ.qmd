@@ -1,0 +1,16 @@
+---
+title: Stork Test
+---
+
+:::{.callout title="AKA"}
+
+- Gillet Test
+:::
+
+
+# Technique
+
+- Thumbs on both PSIS
+- Ask pt to raise 1 leg
+- Expect ipsilateral PSIS to move caudally or inferiorly during leg raise
+- If the PSIS moves superiorly or does not move, this indicates SIJ dysfunction

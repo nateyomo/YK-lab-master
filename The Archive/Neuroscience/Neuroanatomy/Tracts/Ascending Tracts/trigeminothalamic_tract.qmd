@@ -1,0 +1,15 @@
+---
+title: Trigeminothalamic Tract
+---
+
+
+"Crossed fibers originated from the ventral part of the nucleus ascend in association with the contralateral medial lemniscus to form ventral [trigeminothalamic tract]({{< var ref-trigeminothalamic-tract.path >}})." @jooMicrosurgicalAnatomyTrigeminal2014
+
+"Uncrossed fibers originated from the dorsomedial part of the nucleus ascend close to the central gray of the midbrain to form [dorsal trigeminothalamic tract]({{< var ref-trigeminothalamic-tract.path >}})"
+
+
+“. Pain and temperature sensation for the face is carried by an analogous pathway called the trigeminothalamic tract, to be discussed further in Chapter 12 (see Figure 12.8; Table 12.6).”  @blumenfeldNeuroanatomyClinicalCases2022
+
+# Function
+
+The Trigeminothalamic tract is analagous to the [spinothalamic tract]({{< var ref-spinothalamic-tract.path >}}), but provides [temperature]({{< var ref-sensation.temperature >}}) and pain sensation for the face @blumenfeldNeuroanatomyClinicalCases2022 

@@ -1,0 +1,36 @@
+---
+title: Kappa Coefficient (&kappa;)
+subtitle: Chance corrected agreement
+---
+
+:::{.callout title="AKA"}
+
+- Cohen's Kappa
+- Kappa Coefficient
+:::
+
+Kappa Coefficient (&kappa;) is the measure of inter-rater agreement for categorical items among two raters.
+
+Kappa (&kappa;) is similar to [percent agreement]({{< var ref-reliability.percent-agreement >}}) but corrected for chance
+
+(&kappa;) can only be used for 2 categories, otherwise one should use [Krippendorff's alpha]({{< var ref-reliability.krippendorffs-alpha >}}).
+
+# Calculation
+
+Kappa (&kappa;) $= \frac{\textrm{Proportion observed agreement} - \textrm{Proportion expected chance agreement}}{1 - \textrm{Proportion expected chance agreeement}}$
+
+
+
+# Scoring
+
+Values range from 0.00 (not reliable) to 1.00 (perfectly reliable) 
+
+| Score | Reliability |
+|-|-|
+| 0.00 – 0.20 | Poor |
+| 0.21 – 0.40 | Fair |
+| 0.41 – 0.60 | Moderate |
+| 0.61 – 0.80 | Good |
+| 0.81 – 1.00 | Excellent |
+
+: "Rule of thumb" Quick interpretation of reliability {.striped .hover}

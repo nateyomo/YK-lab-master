@@ -1,0 +1,74 @@
+---
+title: Tension Type Headache
+---
+
+:::{.callout-note}
+
+- Welzack Chapter 59 Tension-Type Headache @mcmahonWallMelzackTextbook2013
+:::
+
+# Epidemiology
+
+Women > men
+
+# Etiology
+
+- Myofascial tension
+- Postural dysfunction
+- Genetic component (Familial history)
+
+# Clinical Presentation
+
+Precipitating factors:
+
+- Stress
+- Tension
+
+Onset:
+
+- Usually you don't wake up w this type of headache
+- Builds over the course of the day
+- No warning signs
+    - No aura
+
+Area of symptoms:
+
+- Typically bilateral
+    - muscles of the head
+    - Periorbital, temporal and occipital
+
+Duration:
+
+- May occur daily for several hours a day
+- Chronic potentially in nature
+
+
+# Symptoms
+
+Quality:
+
+- Dull ache
+- Tight band
+- Heavy weight on head
+- Mod to severe
+
+Associated symptoms:
+
+- Nausea
+- Vomiting
+- C/S Pain
+- Photophobia
+
+# Treatment
+
+## Physical therapy
+
+:::{.callout title="PT School recommendations"}
+- Trigger point release
+- STM/MFR
+- Upper C/S HVLAT or mobs
+- Diaphragmatic breathing
+- Stretching
+- Strengthening
+- Pt education
+:::

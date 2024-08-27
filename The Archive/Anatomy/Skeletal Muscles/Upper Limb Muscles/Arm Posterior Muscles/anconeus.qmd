@@ -1,0 +1,37 @@
+---
+title: Anconeus
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Anconeus]({{< var ref-anconeus.path >}}) | {{< var ref-anconeus.origin >}} | {{< var ref-anconeus.insertion >}} | {{< var ref-anconeus.nerve >}} | {{< var ref-anconeus.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+- Lateral epicondyle of humerus @gilroyAtlasAnatomy2020
+- Some variations of the anconeus originate from the posterior joint capsule @gilroyAtlasAnatomy2020
+
+
+
+# Insertion {#insertion}
+Olecranon of ulna (Radial surface) @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+[Radial N.]({{< var ref-radial-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- Elbow: Weak extension @gilroyAtlasAnatomy2020
+- Tightens/stabilizes the elbow joint @gilroyAtlasAnatomy2020
+
+
+
+
+
+# Notes

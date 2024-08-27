@@ -1,0 +1,150 @@
+---
+title: Cryotherapy for Contusions
+date: 1/20/2024
+---
+
+# Article
+
+Singh et al., (2017)@singhEffectsTopicalIcing2017b Effects of Topical Icing on Inflammation, Angiogenesis, Revascularization, and Myofiber Regeneration in Skeletal Muscle Following Contusion Injury @singhEffectsTopicalIcing2017b
+
+# Study Question
+
+Does icing vs a sham treatment effect contusion recovery in rats?
+
+
+# Methods
+
+## Study Design
+| Item | Control group (sham) | Experimental group (ice) |
+|------|-----------|--------------|
+| **n** | 40 | 40 |
+| **Population** | Rats | Rats |
+| **Intervention** | Room temp + Figure 8 massage | 20 min Ice + Figure 8 massage |
+: {.striped .hover}
+
+- Testing process @singhEffectsTopicalIcing2017b
+    - Contusion event 
+    - 5 min period 
+    - Intervention applied  @singhEffectsTopicalIcing2017b
+
+## Dependent Variable
+
+- Groups of 10 rats were then euthanized at day 1, 3, 7, 28 days
+- Muscle biopsies were taken from biceps femoris mm to assess:
+    - [Neutrophils](#neutrophil-results)
+    - [Macrophages](#macrophage-results)
+    - [Expression of CD34](#cd34-expression-results)
+    - [Von willebrands factor (vWF)](#von-willebrand-factor-(vwf-results))
+    - [Vascular endothelial growth factor (VEGF)](#vascular-endothelial-growth-factor-(vegf-results))
+    - [Nestin](#nestin-results)
+    - [Vessel volume](#vessel-volume-results)
+    - [Capillary density](#capillary-density-results)
+    - [Skeletal myofiber regeneration](#skeletal-myofiber-regeneration-results)
+
+# Results
+
+## Necrosis Results
+
+By day 3, the sham group displayed less necrosis and more macrophages (a more advanced stage of healing) compared to the experimental (ice) group, but displayed no difference by day 7.
+
+<details>
+
+| Day | Control | Experimental |
+|-|-|-|
+| Day 1 | Present | Present |
+| Day 3 | **Nearly cleared necrosis with macrophage presence** | **Several necrotic areas with less macrophage presence** |
+| Day 7 | Necrosis cleared, immature muscle fibers | Necrosis cleared, immature muscle fibers |
+| Day 28 | Normal tissue structure almost restored, inflammatory cell influx mostly resolved | Normal tissue structure almost restored, inflammatory cell influx mostly resolved |
+: Necrosis results table {.striped .hover}
+</details>
+
+## Neutrophil results
+Neutrophils are pathogen fighting immune cells which arerecruited to sites of infection and function to recognize and phagocytose microbes, and kill pathogens through cytotoxic mechanisms @mayadasMultifacetedFunctionsNeutrophils2014.
+
+
+By day 1, the control group had more neutrophils than the ice group, indicating healing had begun earlier in the control group than the experimental group @singhEffectsTopicalIcing2017b. By day 3, the control group had less neutrophils than the experimental group, which indicates that the control group had moved onto a more advanced stage of healing and was beginning to reuptake neutrophils. By day 7, both groups had no neutrophils, indicating they were both in advanced stages of healing.
+
+<details>
+| Day | Control | Experimental |
+|-|-|-|
+| Day 1 | **More** | **Less** |
+| Day 3 | **Less** | **More** |
+| Day 7 | None | None |
+| Day 28 | None | None |
+: Neutrophil results table {.striped .hover}
+</details>
+
+## Macrophage results
+
+[Macrophage]({{< var ref-macrophage.path >}}) count was higher in the control group in day 1 and 3, but was then less abundant in the control group in day 7 and 28 @singhEffectsTopicalIcing2017b.
+This indicates that the control group passed through the phases of healing faster than the experimental (ice) group.
+
+<details>
+| Day | Control | Experimental |
+|-|-|-|
+| Day 1 | **More** | **Less** |
+| Day 3 | **More** | **Less** |
+| Day 7 | **Less** | **More** |
+| Day 28 | **Less** | **More** |
+: Macrophage results table {.striped .hover}
+</details>
+
+
+## CD34 Expression results
+
+[CD34]({{< var ref-cd34.path >}}) expression is a measure of capillary density.
+
+Singh et al., found that by day 3 and 7, the control group had a greater percent of CD34 stained area in muscle @singhEffectsTopicalIcing2017b.
+By day 28, the icing group had a greater percent of CD34 than the sham group @singhEffectsTopicalIcing2017b. 
+
+## Von Willebrand Factor (vWF) Results
+
+[vWF]({{< var ref-von-willebrand-factor.path >}}) (indicates  endothelial cell damage): percent of vWF stained area was greater in muscle from the sham group than icing at day 3 and 7 post injury. 
+
+## Vascular endothelial growth factor (VEGF) Results
+
+[Vascular endothelial growth factor (VEGF)]({{< var ref-vascular-endothelial-growth-factor.path >}}) was used in this study as a marker of angiogenesis (new blood vessels) @singhEffectsTopicalIcing2017b
+
+Singh (2017) found that the percent of VEGF stained area in muscle was greater in the control group compared to the experimental (ice) group at 3 days post injury @singhEffectsTopicalIcing2017b. Indicating that healing occurred earlier in the control group.
+
+## Nestin results
+
+[Read more about Nestin]({{< var ref-nestin-protein.path >}})
+
+Singh (2017) used Nestin count as a measure of of maturing endothelial cells @singhEffectsTopicalIcing2017b.
+Singh et al. @singhEffectsTopicalIcing2017b found that the area of nestin in the muscle was greater in the control group than the experimental (ice) group by day 3 post injury @singhEffectsTopicalIcing2017b.
+By day 7 the experimental (ice) group had a greater amount of nestin in the muscle, indicating that the control group had progressed into the next stage of healing before the exerpimental group @singhEffectsTopicalIcing2017b.
+
+## Vessel volume results
+Micro-CT was used to measure vessel volume in mm
+By day 3, the control group had greater vessel volume compared to the experimental (ice) group @singhEffectsTopicalIcing2017b.
+No difference between groups by day 28 @singhEffectsTopicalIcing2017b.
+
+## Capillary density results
+Number of capillaries per fiber and the number of capillaries per mm^2 at 28 day post injury did not differ between groups @singhEffectsTopicalIcing2017b.
+
+## Skeletal myofiber regeneration results
+
+Day 7: centrally nucleated regenerating mm fibers present in sham, only a few in icing group
+Percentage of regenerating fibers relative to number of fibers was greater in the icing group than in sham 28 d post injury and no difference at 7 days.
+
+
+
+## Results Overview
+
+Compared to the control group, Icing attenuated and/or delayed [neutrophil]({{< var ref-neutrophil.path >}}) and macrophage infiltration, expression of vWF, VEGF and nestin, and change in vessel volume within muscle 7 days after injury. 
+Icing did not influence capillary density in mm 28 days post injury @singhEffectsTopicalIcing2017b. 
+The percentage of immature myofibers relative to the total number of fibers was greater in the icing group than sham 28 d after injury. Myofiber CSA did not differ between groups after 7 or 28 days @singhEffectsTopicalIcing2017b.
+
+# Study Limitations
+
+- Icing was applied once soon after injury, it is possible other effects could be seen if more frequent icing was applied @singhEffectsTopicalIcing2017b
+- This study only used male rats. Icing could have different effects in female rats due to estrogens that could affect muscle regeneration @singhEffectsTopicalIcing2017b. 
+
+# Conclusion
+Icing may mildly suppress/disrupt inflammation, angiogenesis, and revascularization within the first few days.
+These effects do not stop or slow muscle regeneration/capillary density after contusion injury @singhEffectsTopicalIcing2017b.
+
+# Clinical Significance
+
+Icing does not seem to improve or be beneficial to the healing process post-contusion, however if a patient enjoys icing, it will not slow or stop muscle regeneration.

@@ -1,0 +1,26 @@
+---
+title: Sum of Squares
+subtitle: A Statistical measure of deviation from the mean
+---
+
+The sum of squares is a statistical measure of deviation from the mean.
+Sum of squares represents variation. 
+
+It is calculated by adding together the squared differences of each data point. To determine the sum of squares, square the distance between each data point and the line of best fit, then add them together. The line of best fit will minimize this value. 
+
+# Calculation
+
+$$
+\textrm{Sum of Squares} = \sum_{i = 0}^{n}{(\bar{X} - X_i)^2}
+$$
+
+Where:
+
+- $X_i$ = The $i^th$ item in a set
+- $\bar{X}$ = The mean of all items in a set 
+- $(X_i - \bar{X})$ = Deviation of each item from the mean
+
+
+# Interpretation
+
+A low sum of squares indicates little variation between data sets while a higher one indicates more variation.

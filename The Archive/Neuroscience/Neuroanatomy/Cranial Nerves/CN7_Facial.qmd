@@ -1,0 +1,31 @@
+---
+title: CNVII Facial Nerve
+---
+
+
+
+# Somatic motor Pathway:
+Motor: Pre-central gyrus -> Corticobulbar tract (1°) -> (Pontomedullary junction) Facial motor nucleus -> Facial nerve (2°) -> Muscles of facial expression
+
+# Parasympathetic Motor Pathway:
+Lacrimal / nasal mucosa: Hypothalamus -> Dorsal longitudinal Fasciculus -> Superior Salivatory Nucleus (2° Synapse) -> Pterygopalatine ganglion (3° Synapse) -> Lacrimal gland + Nasal Mucosa Gland
+
+
+
+# Submandibular/Sublingual: Hypothalamus -> Dorsal Longitudinal Fasciculus -> Superior Salivatory nucleus (2° Synapse) -> Lingual Nerve -> Submandibular ganglion (3° Synapse) -> Submandibular / Sublingual gland
+
+# Special sense (2/3 Taste) Pathway:
+Sensory cortex (Gustatory area) -> Ventral Posterior Medial Nucleus of Thalamus (VPM) (2° Synapse) -> Nucleus Solitarius (3° Synapse) -> Tractus solitarius -> 
+-> Geniculate Ganglion -> Chorda Tympani -> RUN W/ Lingual nerve (V3) -> Taste Anterior 2/3 tongue
+
+
+# Dysfunction
+
+- Bell's palsy is an example of CN VII paralysis
+
+## DDX
+
+Facial CN VII lesions vs UMN lesions:
+
+- Facial = weakness on half of the face
+- UMN: weakness on one half (but only the lower 2/3 = forehead not affected)

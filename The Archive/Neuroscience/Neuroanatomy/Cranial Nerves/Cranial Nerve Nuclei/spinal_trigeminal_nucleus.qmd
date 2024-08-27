@@ -1,0 +1,50 @@
+---
+title: Spinal Trigeminal Nucleus
+---
+
+
+![Somatotopic maps of the spinal trigeminal nucleus (See Blumenfeld figure 12.9 @blumenfeldNeuroanatomyClinicalCases2022)](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.9 Somatotopic maps of the spinal trigeminal nucleus blumenfeld2022.png)
+
+
+# Overview
+
+
+The spinal trigeminal nucleus is a sensory afferent nucleus of the [CN V Trigeminal Nerve]({{< var ref-cn5.path >}}) which lies in the lateral medulla and whose principal function is to relay pain and temperature sensations from the oral cavity and face @patelNeuroanatomySpinalTrigeminal2023.
+
+
+# Anatomy
+
+The spinal trigeminal nucleus is found in the lateral medulla of the brain stem [@blumenfeldNeuroanatomyClinicalCases2022; @patelNeuroanatomySpinalTrigeminal2023], but extends from the midpons to the cervical cord (C2-C4) @jooMicrosurgicalAnatomyTrigeminal2014.
+The extension of the spinal trigeminal nucleus into the cervical cord can be considered the rostral extension of the dorsal horn @blumenfeldNeuroanatomyClinicalCases2022.
+
+- "Root fibers entering the spinal trigeminal tract and nucleus have a definite topographical organization caused by medial rotation of the sensory root as it enters the pons" @jooMicrosurgicalAnatomyTrigeminal2014
+- "Fibers of the ophthalmic division are most ventral, fibers of the mandibular division are most dorsal, and those of the maxillary division are intermediate and descend less far caudally than the other divisions" @jooMicrosurgicalAnatomyTrigeminal2014
+
+::: {.callout-note collapse="true"}
+
+"This topographic anatomy of the spinotrigeminal pathway may explain the onion peel representation of the face in the descending spinotrigeminal tract" @jooMicrosurgicalAnatomyTrigeminal2014
+:::
+
+## Three parts
+"The spinal trigeminal nucleus consists of three parts: (1) a pars oralis, (2) a pars interpolaris, and (3) a pars caudalis" @jooMicrosurgicalAnatomyTrigeminal2014 
+
+It is subdivided into three segments representing topographical regions of the face in an inverted fashion; the forehead is represented ventrally (distally), and the oral region is represented dorsally (proximally). Lesions of the SN cause important clinical syndromes owing to the crucial utility in the daily life of the orofacial region @patelNeuroanatomySpinalTrigeminal2023
+
+
+
+### Pars Oralis
+
+The pars oralis receives impulses predominantly from internal structures of the nose and mouth. 
+
+### Pars Interpolaris
+The pars interpolaris is related mainly to cutaneous facial regions
+
+### Pars Caudalis
+pars caudalis has large receptive field over the forehead, cheek, and jaw. 
+
+# Function
+
+"The spinal trigeminal tract and nucleus relays the sensory modalities of pain and temperature" @jooMicrosurgicalAnatomyTrigeminal2014
+
+
+![**Mechanism of Pain referral from the cervical spine to the head** @bogdukCervicogenicHeadacheAssessment2009: Nociceptive afferents of the trigeminal and upper three cervical spinal nerves converge onto second-order neurons in the trigeminocervical nucleus in the upper cervical spinal cord. This convergence mediates the referral of pain signals from the neck to regions of the head innervated by cervical nerves or the trigeminal nerve @bogdukCervicogenicHeadacheAssessment2009.](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig1 Mechanism of pain referral from the cervical spine to the head bogduk 2009.png)

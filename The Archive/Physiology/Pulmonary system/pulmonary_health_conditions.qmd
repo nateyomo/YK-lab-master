@@ -1,0 +1,198 @@
+---
+title: Pulmonary Health Conditions
+---
+
+
+# Obstructive conditions
+
+- Dec’d air flow out of lungs
+- Narrowing of airway lumen
+- They have room for good lung capacity, but it just wont occur
+- Inc dead space
+- Dec surface area for gas exchange
+
+
+## COPD
+
+- Airflow limitation that is not reversible
+- Usually progressive
+- Typically combo of disorders:
+    - Chronic bronchitis, 
+    - Emphysema
+    - Small airway obstruction
+
+
+## Chronic bronchitis
+
+- Cough and secretions for at least 3 months, 2 years in a row
+- Narrowing of large and then small airways (inflammation of mucosa )
+- Mucous glands hyperplasia
+- Dec’d mucociliary function
+    - May have infection, change in medication in hospital if already diagnosed 
+
+
+## Emphysema
+
+- Progressive destruction of alveolar walls and adjacent capillaries
+- Decreased pulmonary elasticity (harder to breathe)
+- Premature airway collapse (more at risk for lung collapse, not good gas exchange)
+
+## Asthma
+
+- Immunologic response to allergens
+- Characterized by:
+    - Bronchial smooth muscle constriction
+    - Mucus production (no infection)Bronchial mucosa inflammation and thickening
+    - Status asthmaticus
+        - Life threatening
+        - Mechanical ventilation
+
+## Cystic Fibrosis
+
+- Ultimately Lethal
+- Autosomal-recessive trait
+
+:::{layout-ncol="3"}
+
+### Pathophysiology
+
+- Bronchial and bronchiolar walls become inflamed
+- Gland cells hypertrophy—tenacious secretions
+- Decreased mucociliary clearance
+    - More mucus, very tenacious, very thick and almost brown ish!!! 
+
+### Clinical Presentation
+
+- Can be variable in presentation
+- Life expectancy- ppl in 30s but we've gotten better w meds, so depends very variable on severity
+
+
+### Treatment
+
+- Have them maintain their routine at home (ie percussion vest, then take med, etc) 
+- Try to help them maintain this routine
+- Can do percussion with them – big help in PT 
+:::
+
+## Bronchiectasis
+
+- Permanent dilation of airways
+- Destruction of elastic bronchiole walls
+- Destruction of mucociliary cells
+- Bronchial dilation
+- Bronchial artery enlargement
+
+# Restrictive Lung Conditions
+
+- Low lung volumes due to decreased lung compliance
+- Increased work of breathing
+- Treatment: chest wall stretching, expand, more mobility w lungs can be helpful
+
+## Atelectasis
+Partial or total collapse of lung
+
+- Inactivity
+- Abdominal or thoracic incision pain (they don’t breathe deeply, can be at risk for collapsed lung)
+- Compression of lung (accidents) (ie steering wheel comes in a collapses chest)
+- Diaphragm restriction—weakness, paralysis
+- Pneumonia- not breathing as deeply
+- Presence of foreign body
+
+## Pneumonia
+
+- Community acquired
+- Hospital acquired 
+- 48 hrs of admission (if it happens within then = hospital acquired) 
+- Single or multiple lobes
+- Unilateral or bilateral
+
+
+## Acute Respiratory Distress Syndrome
+
+- ARDS
+- Critical illness
+- Lengthley recovery
+- High mortality rate
+- Prone position may be used in ICU !! good evidence that this can improve oxygenation
+- People w covid – prone seemed to help w recovery
+
+## Pulmonary Embolism (PE)
+
+- Partial or full occlusion of pulmonary vasculature due to emboli
+    - 90% due to DVT
+- Signs and symptoms (STOP TXT) 
+    - Rapid onset tachypnea, 
+    - Chest pain?
+    - Anxiety
+    - Dysrhythmia
+    - Lightheadedness
+    - Hypotension
+    - Tachycardia
+
+## Interstitial lung disease
+
+- Destruction of respiratory membranes in multiple lung regressions
+- Inflammatory phase
+- Fibrosis phase
+
+
+## Lung contusion
+
+- Compression and decompression of lung tissue against chest wall
+- Shearing of alveolar capillary membrane
+- Microhemorrhage
+- Usually below rib fxs
+- Associated w PTX and flail chest
+    - MVAs or Boxers
+
+
+## Restrictive extrapulmonary conditions
+
+:::{layout-ncol="3"}
+
+### Pleural effusion
+
+- Fluid in pleural space
+
+### Pneumothorax
+Air in the pleural space
+
+### Hemothorax
+Blood in pleural space
+
+### Flail chest
+Double tx of 3 + adjacent ribs
+
+### Emphysema
+Pus in the pleural space
+:::
+
+
+# Blue Bloaters vs. Pink Puffers
+
+This is a phrase we should not call our patients anymore, but is helpful for understanding the differences between these pathologies
+
+:::{layout-ncol="2"}
+
+## Blue Bloaters
+
+- Clinical dx: daily productive cough for 3 months or more in at least 2 consectuive years
+- Blue
+    - Cyanotic
+- Bloater
+    - Overweight
+    - Peripheral edema
+- Rhochi
+- Wheezing 
+
+## Pink Puffers
+
+- Pathologic diagnosis , permanent enlargement and destruction of airspaces distal to the terminal bronchiole
+- Older and thin
+- Dyspnea
+- Quiet chest
+- Puffer:
+    - X ray - hyperinflation w flattened diaphragms 
+:::
+
+

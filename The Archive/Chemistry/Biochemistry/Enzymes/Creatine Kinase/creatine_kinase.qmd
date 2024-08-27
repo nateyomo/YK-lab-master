@@ -1,0 +1,108 @@
+---
+title: Creatine Kinase (CK)
+---
+
+AKA
+
+- Creatine phosphokinase (CPK)
+- 
+
+# Overview
+
+
+Creatine Kinase (CK) is an enzyme
+
+CK functions to catalyze the reaction of [creatine]({{< var ref-creatine.path >}}) and [adenosine triphosphate (ATP)]({{< var ref-adenosine-triphosphate.path >}}) to [phosphocreatine (PCr)]({{< var ref-phosphocreatine.path >}}) and [adenosine diphosphate (ADP)]({{< var ref-adenosine-diphosphate.path >}}) @aujlaCreatinePhosphokinase2023 
+
+# Chemical Reaction
+
+CK is used to catalyze the following reversible reaction:
+
+$$
+ADP + PCr ⇌ ATP + Cr ΔG′° = −12.5 kJ/mol
+$$
+
+<!--
+Mg2+
+--> 
+
+ATP can be generated from PCr and ADP.
+
+The phosphocreatine (PCr) created from this reaction is used to supply tissues and cells that require substantial amounts of ATP, like the brain, skeletal muscles, and the heart, with their required ATP
+
+<!--
+$$
+ADP + PCr ⇌ ATP + Cr ΔG′° = −12.5 kJ/mol
+\begin{split}
+  \dot{x} & = \sigma(y-x) \\
+  \dot{y} & = \rho x- y - xz 
+\end{split}
+$$
+
+-->
+
+# Chemical structures
+
+See McLeish (2005) Relating structure to mechanism in creatine kinase @mcleishRelatingStructureMechanism2005
+
+# Elevated CK Blood levels
+
+- Increased by [physical activity](#physical-activity) @moghadam-kiaApproachAsymptomaticCreatine2016
+
+## Physical activity
+
+- CK levels transiently rise after exercise or heavy manual labor
+- Post-exercise (strenuous physical activity) Serum CK levels increase (up to 30x) within 24 hours and then declines over 7 days @moghadam-kiaApproachAsymptomaticCreatine2016
+- Amount of CK increase is dependent upon the type and duration of exercise @moghadam-kiaApproachAsymptomaticCreatine2016
+    - Untrained individuals experience greater elevation @moghadam-kiaApproachAsymptomaticCreatine2016
+
+## Nonneuromuscular causes
+
+- Endocrine disorders @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Hyperthyroidism (rare) @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Hypothyroidism @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Hyperparathyroidism @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Acromegaly @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Cushing syndrome @moghadam-kiaApproachAsymptomaticCreatine2016
+- Metabolic disturbances @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Hyponatremia @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Hypokalemia @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Hypophosphatemia @moghadam-kiaApproachAsymptomaticCreatine2016
+- Muscle trauma @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Strenuous exercise @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Intramuscular injections @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Needle electromyography @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Seizures @moghadam-kiaApproachAsymptomaticCreatine2016
+- Medications @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Statins @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Fibrates @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Antiretrovirals @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Beta-blockers @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Clozapine @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Angiotensin II receptor blockers @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Hydroxychloroquine @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Isotretinoin @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Colchicine @moghadam-kiaApproachAsymptomaticCreatine2016
+- Others @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Celiac disease @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Malignancy @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Macro CK @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Surgery @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Pregnancy @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Cardiac disease @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Acute kidney disease @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Viral illness @moghadam-kiaApproachAsymptomaticCreatine2016
+  - Predisposition to malignant hyperthermia @moghadam-kiaApproachAsymptomaticCreatine2016
+
+# Further reading
+
+Journal club
+
+- [Effects of Cold Bath Post-Exercise]({{< var ref-jc-2-post-exercise-cold-immersion.path >}})
+
+
+
+
+# Creatine Kinase-Myocardial Band (#creatine-kinase-mb)
+
+Discussed in the cardiac evaluation

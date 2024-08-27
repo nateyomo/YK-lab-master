@@ -1,0 +1,60 @@
+---
+title: Family-wise Error Rate
+---
+
+
+
+
+:::{.callout title="AKA"}
+
+- Per-comparison error rate
+- Per-experiment error rate
+:::
+
+Family-wise error rate refers to the rate or probability of committing one type 1 error when performing a family of comparisons.
+
+The more hypotheses and comparisons a researcher performs, the higher chance of at least 1 type 1 error occurring in one of the variables compared @nicholsonRoleFamilywiseError2022.
+
+:::{.callout-note}
+"For studies that test multiple hypotheses or make multiple comparisons, the probability of at least 1 Type I error (family-wise error rate; FWER) increases as the number of hypotheses/comparisons increase" @nicholsonRoleFamilywiseError2022. 
+:::
+
+:::{layout-ncol="2"}
+
+### Uncorrected for Family-Wise Error
+
+Without correcting for family-wise error rate, the significance level refers to "The chance that random sampling would lead this particular comparison to an incorrect conclusion that the difference is statistically significant when *this* particular null hypothesis is true" @motulskyIntuitiveBiostatisticsNonmathematical2018. 
+
+### Corrected for Family-Wise Error
+
+When taking into account family-wise error rate, one is looking at multiple comparisons and determining the significance level as the chance of obtaining one or more statistically significant conclusions if *all* of the null hypotheses in the family are actually true @motulskyIntuitiveBiostatisticsNonmathematical2018. 
+
+:::
+
+# Importance
+
+The purpose of family-wise error rate is to use a stricter threshold to define significance and reduce type 1 error @motulskyIntuitiveBiostatisticsNonmathematical2018.
+When using the standard significance ($\alpha = 0.05$) and all the null hypotheses are true, then we want $\leq 95\%$ chance of obtaining zero statistically significant results and a 5% chance of obtaining one or more statistically significant results @motulskyIntuitiveBiostatisticsNonmathematical2018. 
+That 5% chance applies to the entire family of comparisons performed in the experiment, so it is called a familywise error rate or the per-experiment error rate @motulskyIntuitiveBiostatisticsNonmathematical2018.
+
+
+# To organize
+
+When each comparison is made individually without any correction for multiple comparisons, the traditional 5% significance level applies to each individual comparison @motulskyIntuitiveBiostatisticsNonmathematical2018.
+
+
+# What is a family of comparisons
+
+What is a family of comparisons? What exactly is a family of related comparisons? Usually, a family consists of all the comparisons in one experiment or all the comparisons in one major part of an experiment. That definition leaves lots of room for ambiguity. When reading about results corrected for multiple comparisons, ask about how the investigators defined the family of comparisons. @motulskyIntuitiveBiostatisticsNonmathematical2018
+
+# Controlling Family-wise error
+
+@nicholsControllingFamilywiseError2003
+
+One can use a [Bonferroni Correction]({{< var ref-error.correction.bonferroni >}}) to control for family-wise error @motulskyIntuitiveBiostatisticsNonmathematical2018.
+
+
+
+# Supplemental Material
+
+{{< video https://www.google.com/search?q=familywise+error+rates&oq=familywise+error+rates&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE5ODlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8# >}}

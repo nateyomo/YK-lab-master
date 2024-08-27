@@ -1,0 +1,104 @@
+---
+title: Statistical Association
+---
+
+
+
+
+# Measures of Association
+
+
+## Relative Risk
+
+
+## Odds Ratio
+
+"In case-control or cross-sectional studies, where we cannot calculate incidence rates, the odds ratio (OR) is typically calculated. The OR is the ratio of the exposure odds (O) among the case group to the exposure odds among the control group (Figure 2): Ocase ¼ A/C, Ocontrol ¼ B/D,OR¼ Ocase/Ocontrol), and it is interpreted similarly to the RR. An OR equal to 1 indicates no association, an OR less than 1 suggests that the exposure is protective (exposure is less likely among the case group), and OR greater than1 suggests that the exposure is a risk factor (exposure is less likely among the control group). For example, in a case-control study examining the association between infection with human papillomavirus b and risk of squamous cell carcinoma, an OR of 4.0 (95% CI ¼ 1.3e12.0) was observed (Asgari et al., 2008). This OR indicates that the odds of being exposed (i.e., having this human papillomavirus subtype) were 4 times greater among the case group than the control group or, put another way, that cases were 4 times more likely to have this human papillomavirus subtype than controls." @robertsResearchTechniquesMade2019
+"When the outcome is rare, the OR approximates the RR. This assumption, known as the rare disease assumption, can be visualized in Figure 2. When the proportions in cells A and C are small, A þ B z B and C þ D z D. Therefore, RR ¼ [A/ (A þ B)]/[C/(C þ D)] z (A/B)/(C/D) ¼ (A/C)/(B/D) ¼ OR. When the outcome is more common (>10%), however, the OR provides more extreme estimates than the RR. In Figure 2, where 44% of the study population has the outcome, the OR is much smaller than the RR." @robertsResearchTechniquesMade2019
+
+
+## Hazard Ratio
+
+"The hazard ratio (HR) is the ratio of the rate at which the exposed group experiences an outcome to the rate at which the unexposed group experiences an outcome, and it provides the instantaneous risk at a given time rather than the cumulative risk over the length of a study. It is calculated in survival or time-to-event analyses, in which the outcome variable is the time (days, months, years, etc.) until the occurrence of the event of interest, such as development of a disease, disease complication (e.g., cancer recurrence), death, or other outcome. Participants who do not experience an event during the follow-up period are censored. This occurs if the participant is lost to follow-up, the follow-up period ends and the participant is event-free, or the participant experiences another outcome. At the time of censoring, the participant stops contributing follow-up time to the analysis. This type of censoring is known as right-censoring, because the true unobserved event lies to the right of the censoring time. For example, in a survival analysis of acral lentiginous melanoma, both melanoma-specific survival and overall survival, or all-cause mortality, were examined. In the melanoma-specific survival analysis, only melanoma-related deaths were considered events, and participants who died of causes not related to melanoma were right-censored at the time of death. In the overall survival analysis, however, deaths from any cause were considered events (Asgari et al., 2017). In contrast to right-censoring, left-censoring occurs when the event has already taken place before the observation period begins, and the true unobserved event lies to the left of the censoring time. Estimation of the HR, as with Cox proportional hazards regression, accounts for only rightcensored data (Clark et al., 2003)." @robertsResearchTechniquesMade2019 
+
+"When the HR is equal to 1, instantaneous event rates at a particular time are the same in the exposed and unexposed groups. When the HR is equal to 0.5, half as many people in the exposed group have experienced an event compared with the unexposed group, and when HR is equal to 2, twice as many people have experienced an event. For example, in a study examining the association between systemic immune suppression and Merkel cell carcinoma-specific survival, an HR of 3.8 was observed (95% CI ¼ 2.2e6.4) (Paulson et al., 2013). This estimate indicates that the rate of death from Merkel cell carcinoma was 3.8 times higher in people with systemic immune suppression. Because the 95% CI excludes the null value of 1, we can conclude that this HR is statistically significant." @robertsonCranialNeuralgias2021 
+
+
+## Correlation Coefficients
+
+"Correlation coefficients, including the Pearson r and Spearman rho statistics, measure the strength and direction between two variables and range from e1(perfectnegative correlation) to þ1 (perfect positive correlation). A positive correlation coefficient indicates that both variables increase or decrease together, whereas a negative coefficient implies that as one variable increases, the other decreases (see examples in Table 2). The Pearson r statistic is generally used when data are continuous rather than categorical, and it assumes that the data are normally distributed and that the variables are linearly related. When these assumptions are not met, or when categorical data are involved, Spearman rho may be more appropriate. Spearman rho assumes a monotonic relationship between ranked variables and can be used for ordinal-level data. It is essentially a Pearson correlation using variable ranks rather than variable values. Spearman rho is the nonparametric version of Pearson r,and therefore it may be appropriate for nonnormally distributed data or when variables are not linearly related (McDonald, 2014a). For example, in a study examining cutaneous sarcoidosis, Rosenbach et al. (2013) calculated the correlations between disease severity and quality of life using several different instruments. The Physician’s Global Assessment of disease severity was found to be moderately positively correlated with Skindex-29 assessments of symptoms (Pearson r ¼ 0.41) but weakly negatively correlated with the Sarcoidosis Health Questionnaire assessment of quality of life (Pearson r ¼ e0.18). The Physician’s Global Assessment, Skindex-29, and Sarcoidosis Health Questionnaire data were normally distributed. Because the data from another assessment, the Dermatology Life Quality Index, were not normally distributed and the sample size was small, the authors used the Spearman rho correlation coefficient to identify a weak positive correlation with the Physician’s Global Assessment (r ¼ 0.24)." @robertsResearchTechniquesMade2019 
+
+
+
+## Beta Coefficients (Linear Regression)
+
+"Linear regression is used to assess the relationship between a continuous outcome variable and one or more categorical or continuous predictor variables. For continuous predictors, a positive b coefficient represents the increase in the outcome variable for every 1-unit increase in the predictor variable. Conversely, a negative b coefficient represents the decrease in the outcome variable for every 1-unit increase in the predictor variable. Beta coefficients for categorical predictors have a similar interpretation, except that the coefficient represents the change in the outcome variable when switching from one category of the predictor variable to another. For instance, a study of patients with systemic sclerosis sought to investigate associations between demographic and medical variables and sleep disturbance, measured using a sleep quality scale. The number of gastrointestinal symptoms (continuous predictor) and sleep disturbance (continuous outcome) were positively associated (b ¼ 0.19, P ¼ 0.001). The beta coefficient indicates that for each 1-unit increase in the number of gastrointestinal symptoms, sleep quality score increases by 0.19 units. Female sex was also positively associated with sleep disturbance, although the association was not statistically significant (b ¼ 0.07, P ¼ 0.164). Because sex is a categorical variable, this beta coefficient indicates that being female, as opposed to being male, is associated with a 0.07-unit increase in sleep quality score (Milette et al., 2013)." @robertsResearchTechniquesMade2019 
+
+## Chi-Squared (&chi;^2^) / Fisher Exact Test
+
+"The chi-squared and Fisher exact statistics are often used for testing relationships between categorical variables. These tests evaluate whether the proportions of one categorical variable differ by levels of another categorical variable (see example in Table 2). The null hypothesis for the chi-squared/ Fisher exact test is that the variables are independent; that is, the level of variable A does not predict the level of variable B. For each level of one variable, the expected frequencies at each level of the second variable are calculated. The chisquared test statistic is based on the difference between the frequencies that are actually observed and those that would be expected if there were no relationship between the two variables. The more computationally intensive Fisher exact test is typically used only when sample sizes are small. These tests do not evaluate the magnitude of the association but indicate whether the association is statistically significant. For example, in a study examining patient satisfaction after treatment for nonmelanoma skin cancer with either destruction, excision, or Mohs surgery, categorical patient characteristics were compared among treatment groups using chi-squared or Fisher exact tests. The training level of the treating clinician (attending, resident, or nurse practitioner) differed significantly by treatment group (P < 0.001) (Asgari et al., 2009a)." @robertsResearchTechniquesMade2019
+
+
+## Relative Risk Reduction
+
+"The risk difference is the absolute difference in risk between exposed and unexposed groups, and it is useful for evaluating the excess risk of disease associated with an exposure. The relative risk reduction is the proportion of risk that is reduced in the exposed group relative to the unexposed group. The number needed to treat is the number of patients who must be treated for one patient to benefit. Calculations for risk difference, relative risk reduction, and number needed to treat are shown in Figure 2, and examples are provided in Table 2."
+
+## Number Needed to Treat (NNT)
+
+
+# Calculation
+
+| Exposure | Present | Absent | Total |
+|-|-|-|-|
+| Present | A <br> (90) | B <br> (210) | A + B <br> (300) |
+|Absent| C <br> (350) | D <br> (350) | C + D <br> (700) | 
+|Total| A + C <br> (440) | B + D <br> (760) | A + B + C + D <br> (1000) |
+: 2x2 Contingency Table @robertsResearchTechniquesMade2019 {.hover .striped}
+
+## Relative Risk (RR)
+
+
+
+
+$$ 
+\begin{align*} \textrm{Relative Risk} &=\frac{\frac{A}{(A + B)}}{\frac{C}{(C+D)}}
+\\ &=\frac{90}{300}/\frac{350}{700}
+\\ &=\frac{0.3}{0.5}
+\\ &= 0.6
+\end{align*}
+$$
+
+- Based on these results, we can conclude that the Exposed group has 0.6x times the *risk* of the outcome compared to the unexposed group @robertsResearchTechniquesMade2019 
+- The exposed group has 60% of the risk of the outcome compared to the unexposed group @robertsResearchTechniquesMade2019.
+- The exposed group has 40% *less* risk of the outcome compared to the unexposed group @robertsResearchTechniquesMade2019.
+
+## Odds-Ratio Calculation
+
+How to calculate the [Odds Ratio]({{< var ref-odds-ratio.path >}}) for the contingency table:
+$$
+\begin{align*} \textrm{Odds Ratio} &=\frac{\frac{A}{(C)}}{\frac{B}{(D)}}
+\\ &=\frac{90}{350}/\frac{210}{350}
+\\ &=\frac{0.26}{0.6}
+\\ &= 0.43
+\end{align*}
+$$
+
+Based on the results of the odds ratio calculation (0.43) we can conclude: 
+
+- The exposed group has 0.43 *times* the *odds* of of exposure to the outcome compared to the control group @robertsResearchTechniquesMade2019.
+- The case group is 57% less likely to have the exposure compared to the control group @robertsResearchTechniquesMade2019 
+
+## Risk Difference
+The calculation of risk difference based on the table above:
+
+$$
+\begin{align*} \textrm{Risk Difference} &=\frac{\textrm{Exposed with outcome}}{\textrm{Total Exposed Group}} - \frac{\textrm{Exposed}_\textrm{Without outcome}}{\textrm{Unexposed}_\textrm{Total}}
+\\ &=\frac{A}{(A+B)} - \frac{C}{(C+D)}
+\\ &=\frac{90}{350}/\frac{210}{350}
+\\ &=\frac{0.26}{0.6}
+\\ &= 0.43
+\end{align*}
+$$
+
+# Methodologic considerations
+

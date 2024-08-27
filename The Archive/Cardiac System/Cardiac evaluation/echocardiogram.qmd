@@ -1,0 +1,20 @@
+---
+title: Echocardiogram
+---
+
+
+
+
+# Types
+
+
+## Transthoracic echocardiogram {#transthoracic}
+
+- Noninvasive
+- Ultrasound
+- Evaluate size and motion of ventricles, ejection fraction estimated
+- Can be done after exercise testing
+
+
+
+For patients with pulmonary disease, use a Transesophageal Echocardiogram (TEE)

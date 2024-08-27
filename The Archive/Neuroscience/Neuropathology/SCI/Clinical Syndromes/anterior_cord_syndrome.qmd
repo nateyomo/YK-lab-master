@@ -1,0 +1,41 @@
+---
+title: Anterior Cord Syndrome
+---
+
+# Etiology
+
+- Frequently related to flexion injuries of the cervical region @osullivanPhysicalRehabilitation2019
+    - Damage to anterior portion of the cord @osullivanPhysicalRehabilitation2019
+    - And/or the Vascular supply (anterior spinal artery) @osullivanPhysicalRehabilitation2019.
+- Compression of anterior cord
+    - Fracture
+    - Dislocation
+    - Cervical disk protrusion
+
+# Clinical Presentation
+
+:::{layout-ncol="3"}
+
+### Corticospinal tract damage
+
+- Motor function loss @osullivanPhysicalRehabilitation2019
+- Below the level of the lesion @osullivanPhysicalRehabilitation2019
+
+### Spinothalamic tract Damage
+
+- Pain loss @osullivanPhysicalRehabilitation2019
+- Temperature loss @osullivanPhysicalRehabilitation2019
+- Below the level of the lesion @osullivanPhysicalRehabilitation2019
+
+### DCML Preservation
+
+- Preservation (generally)
+    - Proprioception
+    - Light touch
+    - Vibratory sense
+:::
+
+
+# Prognosis
+
+Individuals with anterior cord syndrome often require a longer length of stay during inpatient rehabilitation compared to people with other types of SCI clinical syndromes @osullivanPhysicalRehabilitation2019

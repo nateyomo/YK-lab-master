@@ -1,0 +1,42 @@
+---
+title: Interspinales Muscle
+---
+
+# OIAN
+
+![Posterior view of the deep segmental back muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/images/313b Deep intrinsic back muscles.png)
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Interspinales Cervicis]({{< var ref-interspinales-cervicis.path >}}) | {{< var ref-interspinales-cervicis.origin >}} | {{< var ref-interspinales-cervicis.insertion >}} | {{< var ref-interspinales-cervicis.nerve >}} | {{< var ref-interspinales-cervicis.action >}} |
+| [Interspinales Lumbora]({{< var ref-interspinales-lumbora.path >}}) | {{< var ref-interspinales-lumbora.origin >}} | {{< var ref-interspinales-lumbora.insertion >}} | {{< var ref-interspinales-lumbora.nerve >}} | {{< var ref-interspinales-lumbora.action >}} |
+
+: Interspinales Muscles OIAN {.striped .hover}
+
+# Interspinales Cervicis
+## Origin {#origin}
+C1-C7: SP of inferiorly adjacent vertebrae @gilroyAtlasAnatomy2020
+
+## Insertion {#insertion} 
+C1-C7: SP of superiorly adjacent vertebrae @gilroyAtlasAnatomy2020
+
+## Innervation {#innervation}
+[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
+
+## Action {#action}
+Extends cervical and Lumbar spines @gilroyAtlasAnatomy2020
+
+# Interspinales Lumbora
+## Origin {#origin}
+L1-L5: SP of inferiorly adjacent vertebrae @gilroyAtlasAnatomy2020
+
+## Insertion {#insertion} 
+L1-L5: SP of superiorly adjacent vertebrae @gilroyAtlasAnatomy2020
+
+## Innervation {#innervation}
+[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
+
+## Action {#action}
+
+- **BIL**: Stabilizes and extends cervical and lumbar vertebrae @gilroyAtlasAnatomy2020
+- **UNIL**: I/L SB cervical and lumbar spines @gilroyAtlasAnatomy2020

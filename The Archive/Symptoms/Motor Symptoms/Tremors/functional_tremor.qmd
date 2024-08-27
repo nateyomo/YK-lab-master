@@ -1,0 +1,47 @@
+---
+title: Functional Tremor
+---
+
+
+
+
+In the arms, ask the patient to copy a rhythmical movement made between finger/thumb using their better hand @schwingenschuhFunctionalTremor2022.
+In the legs, ask the patient to copy foot tapping @schwingenschuhFunctionalTremor2022.
+And in the neck, have the patient follow movements of your hand with their tongue @schwingenschuhFunctionalTremor2022.
+
+In a functional tremor, one should expect to see variable frequency (not amp) tremor that changes dramatically during externally cued rhythmic movements @schwingenschuhFunctionalTremor2022.
+If the tremor on the other hand stops, entrains to the same rhythm, or pt has difficulty copying movement → consider functional tremor 
+Other presentations to expect: (@schwingenschuhFunctionalTremor2022)
+
+:::{.callout title="Other distraction maneuvers via APTA"}
+
+- Finger tapping movements at different speeds
+- Side-to-side tongue movements
+- Counting-serial 7 backward
+- Contralateral rhythmic ballistic movements
+
+:::
+
+
+:::{.callout-note}
+While a functional tremor will entrain with distraction, an organic tremor will typically increase in amplitude with distraction. Entrainment can result in remission in FMD during distraction maneuvers with uninvolved limbs
+:::
+
+| Item | Phenotype |
+|-|-|
+| Universal features | |
+| Frequency variability | Tremor frequency changes throughout examination |
+| Entrainment or full suppressability | Tremor either disappears (suppressability) or adopts the frequency of a repetitive task elsewhere (entrainment) |
+| Distractibility | Tremor amplitude attenuates when attention is driven away from affected body part |
+| Tonic coactiviation | Co-contraction of antagonistic muscles immediately prior to reemergence of tremor |
+| Ballistic suppression | Brief arrest of tremor with performance of a ballistic movement in the opposite limb |
+|Optional Features| |
+| Dual task interference | Disruption in tremor frequency and amplitude when simultaneously executing a competing asks |
+| Increase amplitude with weight loading | Tremor amplitude increases with increasing weight applied to limbs|
+| "Whack-a-mole" sign | Spread of tremor to another body part when restrained by the examiner's hand |
+| Other functional signs or phenotypes | Give-away weakness, non-dermatomal hypoesthesia, associated functional gait disorder, functional dystonia, etc
+: Phenotype-specific of function tremor @schwingenschuhFunctionalTremor2022 {.striped .hover}
+
+:::{.callout-note}
+Many movement disorders worsen with stress/disappear with sleep → do not rely on these sx for a diagnosis
+:::

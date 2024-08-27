@@ -1,0 +1,27 @@
+---
+title: Bonferroni Correction
+---
+
+
+
+The Bonferroni correction The simplest approach to achieving a familywise error rate is to divide the value of α (often 5%) by the number of comparisons. Then define a particular comparison as statistically significant only when its P value is less than that ratio. This is called a Bonferroni correction @motulskyIntuitiveBiostatisticsNonmathematical2018. 
+
+Imagine that an experiment makes 20 comparisons. If all 20 null hypotheses are true and there are no corrections for multiple comparisons, about 5% of these comparisons are expected to be statistically significant (using the usual definition of α). Table 22.1 and Figure 22.1 show that there is about a 65% chance of obtaining one (or more) statistically significant result. @motulskyIntuitiveBiostatisticsNonmathematical2018
+
+
+If the Bonferroni correction is used, a result is only declared to be statistically significant when its P value is less than 0.05/20, or 0.0025. This ensures that if all the null hypotheses are true, there is about a 95% chance of seeing no statistically significant results among all 20 comparisons and only a 5% chance of seeing one (or more) statistically significant results. The 5% significance level applies to the entire family of comparisons rather than to each of the 20 individual comparisons. @motulskyIntuitiveBiostatisticsNonmathematical2018
+
+:::{.callout-note}
+Note a potential point of confusion. The value of α (usually 0.05) applies to the entire family of comparisons, but a particular comparison is declared to be statistically significant only when its P value is less than α/K (where K is the number of comparisons) @motulskyIntuitiveBiostatisticsNonmathematical2018.
+:::
+
+# Example of Bonferroni Correction
+
+| Number of Significant Comparisons | No Correction | Bonferroni |
+|-|-|-|
+| 0 | 35.8% | 95.1% |
+| 1 | 37.7% | 4.8% |
+| 2+ | 26.4% | 0.1% |
+Table: Probability of observing specified number of significant comparisons @motulskyIntuitiveBiostatisticsNonmathematical2018 {.striped .hover}
+
+"This table assumes you are making 20 comparisons, that all 20 null hypotheses are true, and that α is set to its conventional value of 0.05. If there is no correction for multiple comparisons, there is only a 36% chance of observing no statistically significant findings. With the Bonferroni correction, this probability goes up to 95%"

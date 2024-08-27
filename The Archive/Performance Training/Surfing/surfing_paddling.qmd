@@ -1,0 +1,32 @@
+---
+title: Paddling on a surfboard
+---
+
+# Paddling
+Here are some resources to help understand paddling:
+
+{{< video https://www.youtube.com/watch?v=LWxbs5WiUEk >}}
+
+{{< video https://youtu.be/FNpmxBtweYI >}}
+
+Lets start with a paddle "stance."
+You should try to keep your position as hydrodynamic as possible.
+
+| Region | Optimal Position | Why| Cueing tip |
+|---|-------|--------------|-------|
+|T/S| Extension | Better vision & better shoulder position for striking the water  | |
+| Pelvis | Posterior pelvic tilt (PPT) | Reduce low back fatigue | Drive pubic bone down into the board |
+| Legs | Together (not apart) | Less drag | |
+
+: Optimal body position while paddling {.striped .hover}
+
+Position on the board:
+
+# Paddling into waves
+{{< video https://www.youtube.com/watch?v=vVdZ7VY9Xc8 >}}
+
+
+
+# Exercises
+
+{{< video https://www.youtube.com/watch?v=9IFVJd0ngUY >}}

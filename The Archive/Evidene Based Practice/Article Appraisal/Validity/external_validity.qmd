@@ -1,0 +1,19 @@
+---
+title: External Validity
+---
+
+Population
+- Is the study sample representative of the general clinical population?
+    - Sampling Method: Consecutive (least biased) > Random > Convenience (most biased)
+- Does my patient meet study inclusion/exclusion criteria?
+- Assume convenience if not stated
+
+Setting
+
+- Similar clinical setting?
+- Similar/feasible level of therapist training?
+
+Assessment/Treatment
+
+- Similar/feasible assessment or treatment protocol?
+- Technological advances in assessment/treatment since publication?

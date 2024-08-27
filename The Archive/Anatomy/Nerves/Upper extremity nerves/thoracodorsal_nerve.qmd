@@ -1,0 +1,63 @@
+---
+title: Thoracodorsal Nerve
+keywords: 
+    - Thoracodorsal nerve
+    - Middle subscapular nerve
+---
+
+
+:::{.callout title="AKA"}
+
+- Thoracodorsal Nerve
+- Middle Subscapular Nerve
+:::
+
+
+# Origin {#origin}
+
+The Thoracodorsal nerve branches from the [Posterior Cord]({{< var ref-brachial-plexus.posterior-cord >}}) and originates from {{< var ref-thoracodorsal-nerve.roots >}} nerve roots @duttonDuttonOrthopaedicExamination2020.
+
+# Path
+
+1. The Thoracodorsal nerve comes off the [Posterior Cord]({{< var ref-brachial-plexus.posterior-cord >}}) @duttonDuttonOrthopaedicExamination2020
+1. Travels along the posterior–lateral chest wall [@duttonDuttonOrthopaedicExamination2020; @brazisLocalizationClinicalNeurology2022]
+1. Along the surface of the [serratus anterior]({{< var ref-serratus-anterior.path >}}) @duttonDuttonOrthopaedicExamination2020
+1. Dives deep to the [subscapularis muscle]({{< var ref-subscapularis.path >}}) @duttonDuttonOrthopaedicExamination2020
+1. Finally giving rise to branches that innervate the latissimus dorsi @duttonDuttonOrthopaedicExamination2020 
+
+# Anatomy
+
+"The nerve runs along the posterior axillary wall to reach and innervate the deep surface of the latissimus dorsi muscle. This muscle (along with the teres major) adducts and internally rotates the arm and depresses the raised arm. It is best tested by having the patient adduct the horizontally raised upper arm against resistance or by palpating the muscle bellies when the patient coughs [409]." @brazisLocalizationClinicalNeurology2022
+
+# Innervation {#innervation}
+
+- Lats
+
+## Motor Innervation
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "thoracodorsal_nerve"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Thoracodorsal n. Direct Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Lesion
+
+"Lesions of this nerve usually occur with damage to the posterior cord or proximal parts of the brachial plexus. Nerve lesions cause little deformity or atrophy, but proximal arm adduction is compromised. A combined movement comprising extension, adduction, and internal rotation, in which the dorsum of the hand is placed on the opposite buttock, readily reveals latissimus paresis. Isolated thoracodorsal nerve injury has been described in body builders [47,262]." @brazisLocalizationClinicalNeurology2022

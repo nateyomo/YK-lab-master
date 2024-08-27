@@ -1,0 +1,23 @@
+---
+title: C-Reactive Protein (CRP)
+---
+
+
+CRP was used as a measure of inflammation following ice baths, which we reviewed [here]({{< var ref-jc-2-post-exercise-cold-immersion.path >}}) in our journal club.
+
+
+"C-reactive protein (CRP) is a test that measures the amount of a protein in the blood that signals acute inflammation. To determine a person’s risk for heart disease, a more sensitive CRP test, called high-sensitivity C-reactive protein (hs-CRP) assay, is available. A growing number of studies have determined that high levels of hs-CRP consistently predict recurrent coronary events in patients with unstable angina (USA) and acute MI. In addition, elevated hs-CRP levels are associated with lower survival rates in these patients with cardiovascular disease (see Box 3.2).32–34" @pazAcuteCareHandbook2020
+
+# Serum CRP {#serum-CRP}
+
+Serum CRP can be used as a marker of acute inflammation
+
+| Value | Risk |
+|-|-|
+| <1mg/L | Low |
+| 1.0 - 3.0 mg/L | Average |
+| >3.0 mg/L | High |
+: Interpertation of CRP Values {.striped .hover}
+
+
+Test validity: High sensitivity CRP (hs-CRP) = predictive of recurrent coronary events

@@ -1,0 +1,25 @@
+---
+title: Fulcrum Test (Femoral stress fx)
+---
+
+The "fulcrum test" refers to a special test used to rule-in a [femoral shaft stress fracture]({{< var femoral-shaft-stress-fracture.path >}}). @duttonDuttonOrthopaedicExamination2020
+
+
+
+# Technique
+{{< video https://www.youtube.com/watch?v=k2vDNa7hW2c&pp=ygUeaG93IHRvIHBlcmZvciB0aGUgZnVsY3J1bSB0ZXN0 >}}
+
+
+- Patient is seated with knees bent @duttonDuttonOrthopaedicExamination2020
+- Clinician places arm under symptomatic thigh @duttonDuttonOrthopaedicExamination2020
+- With the opposite hand, the clinician applies a gentle downward pressure from distal thigh/knee (into hip extension) @duttonDuttonOrthopaedicExamination2020
+
+# Grading
+Sharp pain or apprehension when the fulcrum arm is placed under the fracture site is considered a positive test @duttonDuttonOrthopaedicExamination2020
+
+
+
+
+# Validity
+
+No validity research has been performed on the fulcrum test @duttonDuttonOrthopaedicExamination2020

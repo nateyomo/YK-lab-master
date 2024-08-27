@@ -1,0 +1,5 @@
+---
+title: Bland-Altman Plots
+---
+
+Bland-Altman plots are strictly only valid as IRA measures @gisevInterraterAgreementInterrater2013

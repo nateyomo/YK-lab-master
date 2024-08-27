@@ -1,0 +1,41 @@
+---
+title: Becker's Muscular Dystrophy (BMD)
+---
+
+
+Becker's Muscular Dystrophy (BMD) refers to a genetic (X-linked recessive disorder) involving dystrophin gene mutation, which results in progressive muscle degeneration most often in the proximal lower limbs but sometimes complicated by heart failure @thadaBeckerMuscularDystrophy2024.
+
+
+# Epidemiology
+
+:::{layout-ncol="4"}
+### Onset
+Varies widely between 5-60years @thadaBeckerMuscularDystrophy2024
+
+:::
+
+# Etiology
+
+
+# Pathophysiology
+
+
+# DDX
+
+## Becker's Vs Duchenne
+
+Currently, BMD is considered a mild form of DMD rather than a separate clinical entity.
+
+:::{layout-ncol="2"}
+
+### Ambulation
+DMD patients are wheelchair-dependent before age 13, whereas individuals with BMD can be ambulatory even after age 16 @thadaBeckerMuscularDystrophy2024.
+
+
+
+:::
+
+
+# Treatment
+
+Interventional trials are more rarely conducted for BMD than DMD, thus it may be useful to research treatment as well.

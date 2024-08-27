@@ -1,0 +1,21 @@
+---
+title: Odds
+---
+
+
+
+
+$$
+\textrm{Odds} = \frac{\textrm{Probability}}{(1-\textrm{Probability})}
+$$
+
+
+
+# Odds vs Probability
+:::{layout-ncol="2"}
+### Probability
+A probability is a fraction and always ranges from zero to one
+
+### Odds
+Odds range from zero to infinity.
+:::

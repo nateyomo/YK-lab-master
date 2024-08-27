@@ -1,0 +1,40 @@
+---
+title: Extensor Pollicis Brevis (EPB)
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Extensor Pollicis Brevis]({{< var ref-extensor-pollicis-brevis.path >}}) | {{< var ref-extensor-pollicis-brevis.origin >}} | {{< var ref-extensor-pollicis-brevis.insertion >}} | {{< var ref-extensor-pollicis-brevis.nerve >}} | {{< var ref-extensor-pollicis-brevis.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+- Distal posterior Radius @gilroyAtlasAnatomy2020
+- IO membrane @gilroyAtlasAnatomy2020
+
+
+
+# Insertion {#insertion}
+
+Base 1st Metacarpal @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **Wrist**: Extension, Radial deviation @gilroyAtlasAnatomy2020
+- **Thumb**: Extension @gilroyAtlasAnatomy2020
+
+
+
+
+
+
+# Notes

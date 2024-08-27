@@ -1,0 +1,9 @@
+---
+title: Diffusion of Treatment Effect
+---
+
+If there are opportunities for pts in different groups to interact with one another during the study such as receiving treatment in the same clinic then pts in the control group may be exposed to 1 or more types of treatment that can change their outcomes. 
+
+:::{.callout title="Example"}
+Patients in a control group are aware of group assignment and receive a passive treatment in the same PT clinic as patients in the experiemntal group who can be seen exercising.
+:::

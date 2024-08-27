@@ -1,0 +1,38 @@
+---
+title: Lumbosacral Plexus
+---
+
+
+| Nerve | Roots | Motor Innervation | Cutaneous Innervation |
+|-|-|-|-|
+| [Iliohypogastric N.]({{< var ref-iliohypogastric-nerve.path >}}) | {{< var ref-iliohypogastric-nerve.roots >}} | {{< var ref-iliohypogastric-nerve.motor >}} | {{< var ref-iliohypogastric-nerve.cutaneous >}} |
+| [Ilioinguinal N.]({{< var ref-ilioinguinal-nerve.path >}}) | {{< var ref-ilioinguinal-nerve.roots >}} | {{< var ref-ilioinguinal-nerve.motor >}} | {{< var ref-ilioinguinal-nerve.cutaneous >}} |
+| [Genitofemoral N.]({{< var ref-genitofemoral-nerve.path >}}) | {{< var ref-genitofemoral-nerve.roots >}} | {{< var ref-genitofemoral-nerve.motor >}} | {{< var ref-genitofemoral-nerve.cutaneous >}} |
+| [Lateral Cutaneous Nerve of the Thigh]({{< var ref-lateral-cutaneous-nerve-of-thigh.path >}}) | {{< var ref-lateral-cutaneous-nerve-of-thigh.roots >}} | {{< var ref-lateral-cutaneous-nerve-of-thigh.motor >}} | {{< var ref-lateral-cutaneous-nerve-of-thigh.cutaneous >}} |
+| [Obturator N.]({{< var ref-obturator-nerve.path >}}) | {{< var ref-obturator-nerve.roots >}} | {{< var ref-obturator-nerve.motor >}} | {{< var ref-obturator-nerve.cutaneous >}} |
+| [Femoral N.]({{< var ref-femoral-nerve.path >}}) | {{< var ref-femoral-nerve.roots >}} | {{< var ref-femoral-nerve.motor >}} | {{< var ref-femoral-nerve.cutaneous >}} |
+| [Superior Gluteal N.]({{< var ref-superior-gluteal-nerve.path >}}) | {{< var ref-superior-gluteal-nerve.roots >}} | {{< var ref-superior-gluteal-nerve.motor >}} | {{< var ref-superior-gluteal-nerve.cutaneous >}} |
+| [Inferior Gluteal N.]({{< var ref-inferior-gluteal-nerve.path >}}) | {{< var ref-inferior-gluteal-nerve.roots >}} | {{< var ref-inferior-gluteal-nerve.motor >}} | {{< var ref-inferior-gluteal-nerve.cutaneous >}} |
+| [Posterior Cutaneous Nerve of the Thigh]({{< var ref-posterior-cutaneous-nerve-of-the-thigh.path >}}) | {{< var ref-posterior-cutaneous-nerve-of-the-thigh.roots >}} | {{< var ref-posterior-cutaneous-nerve-of-the-thigh.motor >}} | {{< var ref-posterior-cutaneous-nerve-of-the-thigh.cutaneous >}} |
+| [Sciatic N.]({{< var ref-sciatic-nerve.path >}}) | {{< var ref-sciatic-nerve.roots >}} | {{< var ref-sciatic-nerve.motor >}} | {{< var ref-sciatic-nerve.cutaneous >}} |
+| [Common Fibular N.]({{< var ref-common-fibular-nerve.path >}}) | {{< var ref-common-fibular-nerve.roots >}} | {{< var ref-common-fibular-nerve.motor >}} | {{< var ref-common-fibular-nerve.cutaneous >}} |
+| [Tibial N.]({{< var ref-tibial-nerve.path >}}) | {{< var ref-tibial-nerve.roots >}} | {{< var ref-tibial-nerve.motor >}} | {{< var ref-tibial-nerve.cutaneous >}} |
+| [Pudendal N.]({{< var ref-pudendal-nerve.path >}}) | {{< var ref-pudendal-nerve.roots >}} | {{< var ref-pudendal-nerve.motor >}} | {{< var ref-pudendal-nerve.cutaneous >}} |
+: {.striped .hover}
+
+
+
+The lumbosacral plexus refers to a union formed by the anterior primary divisions of the lumbar, sacral, and coccygeal nerves that provide cutaneous and motor innervation to the pelvis and lower limbs as well as autonomic supply to the pelvic organs @apaydinLumbosacralPlexus2016
+
+The lumbosacral plexus can be divided into 4 parts:
+
+1. Lumbar
+1. Sacral
+1. Pudendal
+1. Coccygeal
+
+:::{.callout-note}
+It must be remembered that these plexuses overlap and that there is no definite line of demarcation between their origins and distributions @apaydinLumbosacralPlexus2016
+
+The distribution of the nerves in the limbs is not typically segmental and is interrupted by the overlapping of the areas of distribution @apaydinLumbosacralPlexus2016
+:::

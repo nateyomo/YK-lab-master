@@ -1,0 +1,87 @@
+---
+title: Overview of Cardiac PT Rehabilitation
+---
+
+# Safety
+
+## Withold treatment
+
+- Decompensated CHF
+    - Compensated= taking meds, currently stable
+    - Or they come in w their CHF, and are not stable, meds aren't appropriate, increased edema in LE, all being worked out in the hospital 
+- Heart block
+    - 2nd degree heart block w/ PVCs or v tach at rest
+    - 3rd degree heart block 
+- Ventricles
+    - >10 PVCs per min at rest
+    - Multifocal PVCs, unstable angina with recent (24 hrs) changes in symptoms, ECG changes showing injury
+- Atria
+    - New onset (24 hrs) of a fib w/ rapid ventricular response at rest (>100 bpm)
+- Dissecting aortic aneurysm 
+- Chest pain w new ST segment changes on ECG
+
+## Withhold or modify treatment
+
+:::{.callout-note}
+This depends on the individual hospital
+:::
+
+
+- Resting HR >100 BPM
+- HTN resting BP >160/90
+- Hypotensive resting systolic <80
+- MI within previous 2 days
+- Ventricular ectopy at rest
+- A fib w/ rapid ventricular response at rest (HR >100 bpm)
+- Uncontrolled metabolic disease 
+- Psychosis or other unstable psychological condition
+
+
+
+# Activity Monitoring
+
+## Heart Rate
+
+- Linear relationship between HR and work
+    - 20-30 beat increase from resting during activity 
+- Heart rate recovery (HRR) - 1 min after treadmill test
+- Beta blockers - HR no greater than 20 above rest (also use RPE BORG scale) 
+Can NOT be used with heart transplant (heart is denervated, not same response you would expect) 
+
+## Blood Pressure
+
+Normally systolic increases 5-12 mmHg per increase in METS
+Disproportionate responses with activity
+If Systolic decreases 10 mmHg from rest
+Systolic >180 mmHg
+Diastolic >110 mmHg
+
+## BORG RPE scale
+Preferred method w/ Beta blockers
+Keep intensity at 5 on ten point scale
+Keep intensity at 13 on the 6-20 scale
+
+## ECG
+Watch baseline
+Or take a minute to look before starting 
+Declining status
+ST changes
+Increased freq of PVCs
+Unifocal to multifocal PVCs
+Premature atrial contractions to a flutter or a fib
+Progression in heart blocks (hard to see) 
+
+## Activity Monitoring
+
+- Know signs of decompensation
+- Other signs and symptoms
+    - Weakness
+    - Fatigue
+    - Dizziness
+    - Lightheadedness
+    - Angina
+    - Palpitations
+    - Dyspnea
+
+
+

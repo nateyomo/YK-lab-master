@@ -1,0 +1,25 @@
+---
+title: Pivot Shift Test
+subtitle: Provacative Test for ACL Dysfunction
+---
+
+# Technique
+
+- 1 hand on proximal tibia
+- other hand above the knee
+- Valgus + IR
+- Move from full knee extension to flexion
+
+# Grading
+
+- Pain?
+- Subluxation at 30-40&deg; flexion from full extension
+
+# Psychometrics
+
+:::{.callout-caution}
+Here are some broad psychometrics, but I need to find better studies for this
+
+- Spec 98%
+- sens 30%
+:::

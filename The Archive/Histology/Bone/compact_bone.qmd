@@ -1,0 +1,13 @@
+---
+title: Compact Bone
+---
+
+
+
+Compact bone is considered "dense" and "unyielding" which allows it to withstand large forces @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+
+# Examples
+
+The [femur]({{< ref-femur-bone.path >}}) contains compact bone in its cortex which aids in force absorption @neumannKinesiologyMusculoskeletalSystem2017.

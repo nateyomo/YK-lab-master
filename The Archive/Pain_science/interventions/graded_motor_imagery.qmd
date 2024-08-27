@@ -1,0 +1,84 @@
+---
+title: Graded Motor Imagery
+---
+
+# Overview
+"Sequentially activating motor networks in such a way that movement and pain are unpaired @limakatsoEfficacyGradedMotor2023." For example, a person could move their non-affected arm near a mirror so it appears that both their arms are moving symmetrically. This belief that their arm is moving coupled with the absence of pain will help the patient to begin to separate pain from movement.
+
+# Mechanism of Graded Motor Imagery
+
+- Gradually helps pt move affected limb @straussGradedMotorImagery2021
+- Anticipation of pain and avoidance of movement can be treated in a fear avoidance way and treat like a phobia w exposure therapy @straussGradedMotorImagery2021
+- Gradually increasing movement provides more pain free movement experiences, resulting in the extinction of conditioned response (pain due to anticipation of pain) @straussGradedMotorImagery2021
+- Can be done implicitly or explicitly
+    - Implicit: mentally doing mvmt @straussGradedMotorImagery2021
+    - Explicit: mvmt imagination and mvmt observation (mirror therapy of mirrored healthy side) @straussGradedMotorImagery2021
+
+# CRPS
+
+CRPS is a form of chronic neuropathic pain characterized by unbearable burning or stinging pain that is difficult to treat @straussGradedMotorImagery2021. CRPS is associated with somatosensory, motor, autonomic dysfunctions @straussGradedMotorImagery2021.
+
+## Why Does CRPS benefit from GMI?
+- Compared to healthy controls, CRPS has been shown to have differences in the Primary motor cortex and primary somatosensory cortex @straussGradedMotorImagery2021.
+- Pts with upper limbs CRPSLack cortical inhibition of M1 in affected hemisphere (contra to affected hand) @straussGradedMotorImagery2021.
+- Somatosensory cortex showed reduction in intracortical inhibition @straussGradedMotorImagery2021
+
+# Strauss et al. 2021
+## Design
+- 26 pts w CRPS
+- Randomized controlled crossover study
+- 2 Groups
+    - One group: test 6 week GMI therapy test, then 6 week wait 
+    - Vs test 6 week wait test then 6 week GMI therapy then test
+- Pts encouraged to exercise 10 min every waking hour during 6 weeks of GMI training (ODD → could affect data???)
+
+## GMI
+The GMI treatment was broken down into 3 stages
+1. Left right judgements
+App: Recognise hand
+Displays pics randomly and detects speed and error rate of determining R vs L
+2. Imagined mvmts
+3. Mirror therapy 
+
+## Objective measures
+
+- Pts asked to keep pain diary 
+- Handedness, clinical parameters (CSS - crps severity score), quick DASH, rest pain and mvmts (clenching and unclenching fist 5x), pain via VAS, somatosensory (cutaneous sensory thresholds on first and fifth finger) and motor testing 
+- Two point resolution and grating orientation task were tested
+- Manual dexterity via roeder manipulative aptitute test 
+- All were tested pre, post 6 weeks then post 12 weeks
+- FMRI was also taken
+- Transcranial magnetic stimuli 
+- Short intracortical inhibition and intracortical faciliaiton measurements
+
+## Results
+### CRPS vs unaffected pts at baseline:
+- CRPS: motor performance, short intracortical inhibition and facilitation (short intracortical inhibition smaller and intracortical facilitation higher for the affected side)
+- Fmri activation magnitude in S1 ( ) was inc for mvmt of affected hand 
+- No diff between sides for somatosensory measures 
+- Worse performance in CRPS for graded orientation task and two point resolution
+- For TMS: short intracortical inhibition was lower in CRPS pts than in controls
+- S1 (primary somatosensory cortex) fmri activation inc in pts when compared to HC (hand control) for mvmt of affected side
+- Intracortical facilitation was not different between CRPS at baseline and HC for affected hand side.
+
+Treatment time between groups 
+- Intervention order showed no diff
+- ANOVA testing showed trend for pain relief after intervention
+    - After GMI, pain in VAS went on average from a 6.3 to a 5.0
+- CSS was reduced from 12 to 11 over the GMI intervention
+- GMI showed dec self rated functional impairment of upper limb
+- Summary: pain, roeder, TPR (two point resolution), and S1 activation reduced, while SICI (inhibition) increased.
+
+Baseline other things:
+- Longer CRPS present, worse the motor performance of affected hand
+- Inc mvmt pain of hand was associated w dec short intracortical inhibition and Inc s1 activation
+
+After GMI
+- Dec in S1 activation w somatosensory stimulation (GOT gain) 
+- Roeder , TPR , inhibition and S1 motor task all were significantly changed w GMI
+- FMRI confirmed changes 
+- Primary outcome: parameter mvmt pain decreased w GMI (small effect) 
+- Also found dec in clinical scores (CSS) , inc use of affected hand side (DASH), improvement of motor function (Roeder) and spatial tactile performance (TPR) 
+- Intracortical inhibition incd over txt whereas fmri activation in S1 decreased (good!) 
+- Hand representation size in affected hemisphere was modified, accompanied by mvmt pain relief 
+- No relief of mvmt pain at follow up 6 months later

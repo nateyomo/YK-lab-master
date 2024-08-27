@@ -1,0 +1,35 @@
+---
+title: Adaptive Immunity
+---
+
+"The adaptive immune response is mediated by cells called lymphocytes and their products . Lymphocytes express highly diverse receptors that are capable of recognizing a vast number of antigens. There are two major populations of lymphocytes, called B lymphocytes and T lymphocytes, which mediate different types of adaptive immune responses. We will first summarize the important properties of the adaptive immune system and then describe the different types of adaptive immune responses." @abbasCellularMolecularImmunology2022 
+
+
+
+# Cardinal Features
+
+The fundamental properties of the adaptive immune system reflect the properties of the lymphocytes that mediate these responses.
+
+
+1. Specificity and Diversity
+1. Memory
+1. Self-tolerance
+
+## Specificity and Diversity
+
+"Specificity and diversity. Immune responses are specific for distinct antigens and often for different portions of a single complex protein, polysaccharide, or other macromolecule (Fig. 1.2). The parts of complex antigens that are specifically recognized by lymphocytes are called determinants or epitopes. This fine specificity exists because individual lymphocytes express membrane receptors that can distinguish subtle structural differences between distinct epitopes. Clones of lymphocytes with different specificities are present in unimmunized individuals and are able to recognize and respond to foreign antigens (Fig. 1.3). This fundamental concept is called clonal selection. It was clearly enunciated by Macfarlane Burnet in 1957 as a hypothesis to explain how the immune system could respond to a large number and variety of antigens. According to this hypothesis, which is now a proven feature of adaptive immunity, antigen-specific clones of lymphocytes develop before and independent of exposure to antigen. An introduced antigen binds to (selects) the cells of the preexisting antigen-specific clone and activates them, leading to an immune response specific for that antigen. The total number of antigenic specificities of the lymphocytes in an individual, called the lymphocyte repertoire, is extremely large. It is estimated that the immune system of an individual can discriminate 107 to 109 distinct antigenic determinants. This ability of the lymphocyte repertoire to recognize a very large number of antigens, called diversity, is the result of variability in the structures of the antigen-binding sites of lymphocytereceptors for antigens. In other words, there are many different clones of lymphocytes and each clone has a unique antigen receptor and therefore a singular antigen specificity, contributing to a total repertoire that is extremely diverse. The expression of different antigen receptors in different clones of T and B cells is the reason why these receptors are said to be clonally distributed. The molecular mechanisms that generate such diverse antigen receptors are discussed in Chapter 8. Diversity is essential if the immune system is to defend individuals against the many potential pathogens in the environment." @abbasCellularMolecularImmunology2022 
+
+
+## Memory
+
+"Memory. Exposure of the immune system to a foreign antigen enhances its ability to respond again to that antigen. Responses to second and subsequent exposures to the same antigen, called secondary immune responses, are usually more rapid, greater in magnitude, and often qualitatively different from the first, or primary, immune response to that antigen (see Fig. 1.2). Immunologic memory occurs because each exposure to an antigen generates long-lived memory cells specific for the antigen. There are two reasons why secondary responses are typically stronger than primary immune responsesmemory cells accumulate and become more numerous than the naive lymphocytes specific for the antigen that exist at the time of initial antigen exposure, and memory cells react more rapidly and vigorously to antigen challenge than do naive lymphocytes. Memory enables the immune system to mount heightened responses to persistent or recurring exposure to the same antigen and thus to combat infections by microbes that are prevalent in the environment and are encountered repeatedly." @abbasCellularMolecularImmunology2022 
+
+## Nonreactivity to self (Self-Tolerance)
+
+"Nonreactivity to self (self-tolerance). One of the most remarkable properties of every normal individual’s immune system is its ability to recognize, respond to, and eliminate many foreign (nonself) antigens while not reacting harmfully to that individual’s own (self) antigens. Immunologic unresponsiveness is also called tolerance. Tolerance to self antigens, or self-tolerance, is maintained by several mechanisms. These include eliminating lymphocytes that express receptors specific for some self antigens, inactivating self-reactive lymphocytes, or suppressing these cells by the actions of other (regulatory) cells. Abnormalities in the induction or maintenance of self-tolerance lead to immune responses against self (autologous) antigens, which may result in disorders called autoimmune diseases. The mechanisms of self-tolerance and its failure are discussed in Chapter 15. In addition to these cardinal features of adaptive immunity, these responses have some other important properties." @abbasCellularMolecularImmunology2022 
+
+
+
+"**Because of the ability of lymphocytes and other immune cells to circulate among tissues, adaptive immunity is systemic**, meaning that even if an immune response is initiated at one site it can provide protection at distant sites. This feature is, of course, essential for the success of vaccination—a vaccine administered in the subcutaneous or muscle tissue of the arm can protect from infections in any tissue." @abbasCellularMolecularImmunology2022 
+
+"**Immune responses are regulated by a system of positive feedback loops that amplify the reaction and by control mechanisms that prevent inappropriate or pathologic reactions**. When lymphocytes are activated, they trigger mechanisms that further increase the magnitude of the response. This positive feedback is important to enable the small number of lymphocytes that are specific for any microbe to generate the large response needed to eradicate that infection. Many control mechanisms become active during immune responses, which prevent excessive activation of lymphocytes that could cause collateral damage to normal tissues, and also prevent responses against self antigens." @abbasCellularMolecularImmunology2022

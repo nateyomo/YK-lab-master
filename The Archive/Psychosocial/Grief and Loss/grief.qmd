@@ -1,0 +1,223 @@
+---
+title: Grief
+---
+
+
+
+
+
+
+# Theories of Grief
+
+
+:::{layout-ncol="3"}
+
+### Denial
+
+- Manifests as
+    - Avoidance, confusion, shock, fear
+    - Disbelief in diagnosis
+    - Ignoring precautions
+
+### Anger
+
+- Frustration, irritation, anxiety
+
+### Bargaining
+
+- Struggling to find meaning, reaching out
+
+### Depression
+
+- Overwhelmed, helplessness, flight , sadness
+
+### Acceptance 
+
+- Patients can regress to previous stages
+- Clinical manifestation:
+    - Exploring options
+    - Planning for future
+:::
+
+
+## Rando's 6 "R" Theories of Grief 
+
+:::{layout-ncol="3"}
+
+### Avoidance
+
+- Recognize loss @randoGriefDyingDeath1984
+
+### Confrontation
+
+- React: Experience emotion @randoGriefDyingDeath1984
+- Recollect: Move from how the loss is *currently* impacting your situation to a place of remembrance @randoGriefDyingDeath1984
+- Relinquish: Revising beliefs to realize that the world is forever changed @randoGriefDyingDeath1984
+
+### Accommodation
+
+- Readjust  
+- Reinvest
+
+:::
+
+## Preparatory Grief Theory
+
+:::{layout-ncol="3"}
+
+### Crisis
+
+- Family life disrupted @okunSayingGoodbyeHow2011 
+- Feelings of sadness, anxiety, guilt often unexpressed @okunSayingGoodbyeHow2011 
+
+### Unity
+
+- Patient needs are prioritized  @okunSayingGoodbyeHow2011 
+- Task oriented @okunSayingGoodbyeHow2011 
+
+### Upheaval
+
+- Protracted illness disrupts lives, relationships, and routines @okunSayingGoodbyeHow2011 
+
+### Resolution
+
+- Acceptance of impending death @okunSayingGoodbyeHow2011 
+- Resolution of interpersonal relationships @okunSayingGoodbyeHow2011 
+
+### Renewal
+
+- Adjustment to changed roles following death or disability @okunSayingGoodbyeHow2011 
+:::
+
+
+
+## Psychosocial Transition Theory of Grief
+
+Grieving is a highly individualized process that varies w family and environmental context, personality, culture and religion @parkesRecoveryBereavement1995.
+All grieving individuals experience a psychosocial transition – forced to give up one life view for another within a relatively short period of time @parkesRecoveryBereavement1995.
+Successful grieving culminates in the acceptance that life will not be the same but can still be meaningful @parkesRecoveryBereavement1995.
+
+
+# Coping with Chronic Disability
+
+Disability should be considered as an interaction of the person, task, and environment.
+
+::: {.callout-note}
+This interaction can be approached using the ICF Model
+:::
+
+
+## Stages
+
+:::{layout-ncol="3"}
+
+### Adaptation
+Acute physical and psychological adjustments to a disabling event
+
+### Adjustment
+
+- Independence w ADLs, without being preoccupied by disability
+- Personal mastery of physical and social environment 
+- Ability to problem solve thru new challenges
+- Positive self concept
+
+
+### Acceptance
+Disability no longer reduces self worth or future outlook
+
+:::
+
+
+# Coping with Grief
+
+Most commonly reported coping strategies
+
+- Talking (aka verbal disclosure) 
+- Crying
+- Writing
+- Exercising
+
+:::{layout-ncol="2"}
+
+### Negative appraisals
+
+- Associated w increased grief and distress 25 months later
+    - Contributes to social isolation and loneliness
+- Examples:
+    - Blame
+    - Anger
+    - etc
+
+### Positive Appraisals
+
+- Associated w higher morale and less depression 12 months later, help maintain social bonds
+- Examples
+    - “Got to experience that person’s time on earth”
+    - “Person would not want me to be sad” 
+    - Celebration of life (vs maybe funeral)
+:::
+
+
+## Dual Process Coping
+
+:::{layout-ncol="2"}
+
+### Loss orientation
+
+- Breaking bonds
+- Intrusion of grief
+
+### Restoration orientation
+
+- New roles
+- New relationships
+- New activities
+:::
+
+
+## Problem focused coping
+Practical problem solving to lessen impact of the loss
+
+## Emotion focused coping
+Emotional regulation to lessen stress response to the bloss
+
+## Appraisal focused coping
+Altering cognitive perception of the less
+
+
+# Complicated (unresolved) Grief
+
+Characteristic Symptoms (10-20% incidence)
+
+- Intrusion
+- Denial
+    - Substance use often occurs w this
+- Dysfunctional adaptation (Failing to resume work, other activities)
+
+:::{.callout-note title="PTSD rates in bereaved spouses"}
+Proportion of bereaved spouses meeting criteria for PTSD:
+
+- 10% death by natural causes
+- 35% death by suicide or accidents
+:::
+
+
+# Spirituality and Religion
+
+:::{layout-ncol="2"}
+
+### Spirituality
+
+- Human need to find meaning, fulfillment, purpose in life
+- Internal personal expression of the sacred
+
+### Religion
+
+- Cultural system of behaviors, practices, sacred texts, holy places, ethics and world view connecting to God
+- Formal institutional expression of the sacred
+
+## Spiritual & Religious Coping styles
+
+- Self directed: Emphasis of the ability of the individual to impact situation 
+- Deferring: Higher associated w dec QOL???
+- Collaborative: ???

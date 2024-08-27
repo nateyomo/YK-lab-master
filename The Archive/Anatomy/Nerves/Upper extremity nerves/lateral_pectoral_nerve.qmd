@@ -1,0 +1,35 @@
+---
+title: Lateral Pectoral Nerve
+---
+
+
+# Motor Innervation
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "lateral_pectoral_nerve"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Lateral Pectoral n. Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Pec Major]({{< var ref-pectoralis-major.path >}}) | {{< var ref-pectoralis-major.origin >}} | {{< var ref-pectoralis-major.insertion >}} | {{< var ref-pectoralis-major.nerve >}} | {{< var ref-pectoralis-major.action >}} |
+
+: Lateral pectoral nerve innervations {.striped .hover}

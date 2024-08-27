@@ -1,0 +1,15 @@
+---
+title: CD34 cell
+---
+
+# Overview
+
+- Class of proteins first discovered on hematopoietic (blood cell production) progenitors and stem cells @rodriguesCD34ProteinIts2023
+- Has been used as a hematopoietic stem and progenitor cell marker @rodriguesCD34ProteinIts2023
+- Found in low frequencies in peripheral blood, can be increased by cytokines and chemotherapy @rodriguesCD34ProteinIts2023
+- Can also be found on vascular endothelial cells, as well as on muscle satellite cells, keratocytes, interstitial cells, fibrocytes, epithelial progenitors and endothelial junctions between adjacent endothelial cells of humans @rodriguesCD34ProteinIts2023
+- Muscle satellite cells and epidermal precursors can be identified with CD34 @rodriguesCD34ProteinIts2023
+
+# Clinical significance
+
+Can be used as a measure of contusion healing as seen in our [journal club article](/Journal club/jc1_cryotherapy_contusions.qmd).

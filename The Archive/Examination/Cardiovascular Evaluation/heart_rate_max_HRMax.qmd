@@ -1,0 +1,28 @@
+---
+title: Heart Rate Max Measures
+---
+
+
+# Fox and Haskell: 
+
+$$
+\textrm{HR max} = 220 - \textrm{Age}
+$$
+
+:::{.callout-caution}
+Both the Fox & Haskell test and the Tanaka have high standard error, and can vary between age and condition matched individuals 
+:::
+
+# Tanaka HRMax
+
+$$
+\textrm{HR max} = 208 - (0.7 \times \textrm{Age})
+$$
+
+:::{.callout-caution}
+Both the Fox & Haskell test and the Tanaka have high standard error, and can vary between age and condition matched individuals 
+:::
+
+# Graded Exercise Test (GXT)
+
+Most accurate assessment: GRADED EXERCISE STRESS TEST (GxT) (gradually inc incline on treadmill)

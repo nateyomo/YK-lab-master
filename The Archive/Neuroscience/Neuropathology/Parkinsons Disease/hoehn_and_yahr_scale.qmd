@@ -1,0 +1,51 @@
+---
+title: Hoehn and Yahr Scale
+---
+
+- The Hoehn & Yahr (H&Y) system for grading severity of Parkinson’s disease (PD) symptoms uses a scale of 1 to 5 to evaluate the extent of patients’ clinical disability
+- HY scale has remained the most commonly and most widely used scale to describe severity of PD worldwide @goetzMovementDisorderSociety2004.
+
+# Scoring
+
+| Stage | Hoehn and Yahr Scale | Modified Hoehn and Yahr Scale |
+|-|---|---|
+|1 | Unilateral involvement only usually with minimal or no functional disability | Unilateral involvement only |
+|1.5|-|Unilateral and axial involvement|
+|2|Bilateral or midline involvement without impairment of balance|Bilateral involvement without impairment of balance |
+|2.5|-|Mild bilateral disease with recovery on pull test|
+|3|Bilateral disease: mild to moderate disability with impaired postural reflexes; physically independent| Mild to moderate bilateral disease; some postural instability; physically independent|
+|4| Severely disabling disease; still able to walk or stand unassisted | Severe disability; still able to walk or stand unassisted |
+|5 | Confinement to bed or wheelchair unless aided | Wheelchair bound or bedridden unless aided|
+
+: {.striped .hover}
+
+# Interpretation
+
+- Higher H&Y scores have been linked with a more rapid cognitive decline in PD patients @modestinoHoehnYahrStaging2018.
+- Generally, a higher H&Y scores correlates with poorer quality of life @modestinoHoehnYahrStaging2018. 
+
+:::{layout-ncol="2"}
+
+## Stages 1-3
+
+- Considered "minimally disabled"
+- Still able to lead independent lives
+
+## Stage 4-5
+
+- Considered "severely disabled"
+- Motor symptom severity has been associated with various neurocognitive issues:
+    - Dementia
+    - Depression
+    - Hallucinations
+:::
+
+
+
+# Strengths
+
+see @goetzMovementDisorderSociety2004
+
+# Considerations
+
+- Dual tasking can 

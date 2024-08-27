@@ -1,0 +1,21 @@
+---
+title: Prevertebral Muscle Group
+---
+
+
+:::{layout-ncol="3"}
+![Prevertebral muscles anterior view @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Prevertebral Muscles/images/gilroyatlas fig3.7b Prevertebral muscles.png)
+
+![Schematic of Prevertebral muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Prevertebral Muscles/images/gilroyatlas fig3.7a Prevertebral muscle schematic.png)
+
+
+
+:::
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Longus Capitis]({{< var ref-longus-capitis.path >}}) | {{< var ref-longus-capitis.origin >}} | {{< var ref-longus-capitis.insertion >}} | {{< var ref-longus-capitis.nerve >}} | {{< var ref-longus-capitis.action >}} |
+| [Longus Colli Cervicis]({{< var ref-longus-colli-cervicis.path >}}) | {{< var ref-longus-colli-cervicis.origin >}} | {{< var ref-longus-colli-cervicis.insertion >}} | {{< var ref-longus-colli-cervicis.nerve >}} | {{< var ref-longus-colli-cervicis.action >}} |
+| [Rectus Capitis Anterior]({{< var ref-rectus-capitis-anterior.path >}}) | {{< var ref-rectus-capitis-anterior.origin >}} | {{< var ref-rectus-capitis-anterior.insertion >}} | {{< var ref-rectus-capitis-anterior.nerve >}} | {{< var ref-rectus-capitis-anterior.action >}} |
+| [Rectus Capitis Lateralis]({{< var ref-rectus-capitis-lateralis.path >}}) | {{< var ref-rectus-capitis-lateralis.origin >}} | {{< var ref-rectus-capitis-lateralis.insertion >}} | {{< var ref-rectus-capitis-lateralis.nerve >}} | {{< var ref-rectus-capitis-lateralis.action >}} |
+: Prevertebral Muscle Group {.striped .hover}

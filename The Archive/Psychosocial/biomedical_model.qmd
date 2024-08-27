@@ -1,0 +1,8 @@
+---
+title: Biomedical model of health
+---
+
+A model of health that approaches a patient as "Physiological dysfunction + neurophysiological changes" @engelNeedNewMedical1977
+
+# Outdated
+This model became outdated when the [biopsychosocial model]({{< var ref-biopsychosocial-model.path >}}) was created. The [biopsychosocial model]({{< var ref-biopsychosocial-model.path >}}) included the biomedical model, but also added psychological considerations, and social considerations.

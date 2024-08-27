@@ -1,0 +1,44 @@
+---
+title: Internal Consistency
+---
+
+Internal consistency refers to the degree to which all of the items on a scale are correlated with one another @streinerReliabilityStatisticsCommentarySeries2016a.
+
+- Internal consistency does not measure the patients or cliniciancs using the scale @streinerReliabilityStatisticsCommentarySeries2016a.
+- Internal consistency measures how consistem the items of a scale are @streinerReliabilityStatisticsCommentarySeries2016a.
+
+# Significance
+
+- Similarly, if the items of a scale are not related to each other, we would not be sure just what it is that the scale is measuring (assuming that the scale is measuring a homogeneous construct) @streinerReliabilityStatisticsCommentarySeries2016a.
+
+
+# When to Assess Internal Consistency
+
+This is important for scales that measure 1 phenomenon:
+
+:::{.callout title="Example"}
+such as quality of life or depression
+:::
+
+Internal consistency is not appropriate for indices that measure things that are not expected to be correlated with each other @streinerReliabilityStatisticsCommentarySeries2016a
+
+:::{.callout title="Example"}
+The Apgar scale consists of 5 items (heart rate, respiration, muscle tone, reflex response, and skin color) @streinerReliabilityStatisticsCommentarySeries2016a.
+These may all occur together in healthy neonates, but in sick children a low score on one item  does not necessarily mean there will be low scores on another item @streinerReliabilityStatisticsCommentarySeries2016a. 
+:::
+
+
+# Measures
+
+- [Cronbach's Alpha (&alpha;)]({{< var ref-reliability.cronbachs-alpha >}}) 
+
+# Interpretation
+
+- You want internal consistency results (i.e. [Cronbach's Alpha (&alpha;)]({{< var ref-reliability.cronbachs-alpha >}})) to be high, we do not want it to be too high.
+- An (&alpha;) greater than about 0.90 may indicate unnecessary redundancy among the items and means that some of them can be eliminated without jeopardizing the reliability of the scale.
+
+:::{.callout title="What if my scale has low internal consistency?"}
+If the scale you are using has already been developed and validated, you cannot change much with respect to internal consistency
+
+- Changing the items makes it impossible to compare to studies on its psychometric validity
+:::

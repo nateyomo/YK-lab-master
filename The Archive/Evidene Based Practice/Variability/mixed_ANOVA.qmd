@@ -1,0 +1,77 @@
+---
+title: Mixed Analysis of Variance (Mixed ANOVA)
+---
+
+- AKA
+    - Split-plot ANOVAs
+    - Mixed factorial ANOVAs
+    - Mixed design ANOVAs
+
+Mixed Analysis ANOVA uses 2 factors for comparison
+
+1. A between group factor
+1. A within group factor
+
+# Calculation
+
+F Ratio
+
+- MSB: Mean Squares Between
+- MSW: Mean Square Within
+
+$$
+\textrm{F-Ratio} = \frac{MSB}{MSW}
+$$
+
+
+# Interpretation
+
+
+- F-Ratio: The ratio of those two MS values
+    - "If the null hypothesis were correct, each MS value would estimate the variance among values, so the two MS values would be similar" @motulskyIntuitiveBiostatisticsNonmathematical2018
+    - If the null hypothesis is true, F-ratio would be close to 1 @motulskyIntuitiveBiostatisticsNonmathematical2018
+    - If null hypothesis is false, F-Ratio should be greater than 1
+
+
+## Step 1 – Interpret the interaction term first.
+
+If the interaction term is statistically significant, you know that simply interpreting the main effects will not lead to an accurate understanding of the results.  You also know that any interpretations you make of the main effects will need to be qualified to include information about the interaction effects.  This is important because the statistically significant interaction effect may be indicating that the overall pattern of differences across the groups at the level of the main effects are not likely to be consistent across all the rows or columns in your design.
+
+Step 2 – Interpret the main effects.
+
+If there are statistically significant main effects and interactions, then you should comment upon the main effects, but do so in a qualified way, while emphasizing that the interactions may be the more important findings.  For example, if there is an overall difference from pretest to posttest, but there is also a group by time interaction, it is possible that the treatment group grew over time and the control group did not.  In this case, it would not be meaningful to emphasize an overall difference over time when it may be due only to the treatment group.  However, in another case both groups may grow over time and there is an overall average growth rate that is meaningful.  This pattern may or may not be accompanied by an advantage for the treatment group.
+
+If you only have statistically significant main effects and not interactions, then it will be necessary to follow up on any statistically significant main effects where there are three of more groups with post hoc comparisons.  These comparisons will be made at the level of the overall group means for the main effect in question, collapsed across levels of any other variable in the model.  If the main effect is for a between subjects term, SPSS will perform these post hoc comparisons for you.  If they are for a within subjects effect, you will need to use the spreadsheet on the web.
+
+Step 3 – Graph the data “both ways”.
+
+“Both ways” means exchange the row and column variables to determine which picture is most useful.  Typically it is most helpful to illustrate “change over time”, or whatever the within-subjects variable is, on the X axis.  Typically it is also most helpful to put the group variable, or whatever the between-subjects term is, as the separate lines variable.  This means that the time variable is on the X axis and the Groups are represented by different lines. 
+
+Remember to use the Profile Analysis Approach to interpreting these graphs.  This means that the Main Effect for Group is represented by the height of the lines.  If the lines are at the same height, no difference, and if they are at different heights then there may be enough of a difference for a statistically significant main effect.
+
+The Main Effect for Time is represented by the slope of the lines.  Flat lines mean no differences over time and no statistically significant effects.  Sloped lines mean there may be a statistically significant main effect for time, or change over time.  Think about the overall main effect for time as a test of whether the line that would represent the overall means for each time point is a flat or sloped line.
+
+The  Group X Time Interaction is represented on the graph by the parallelism of the lines.  If the lines are parallel, there is not a statistically significant interaction effect.  If the lines are not parallel, then there may be a statistically significant interaction effect.  This means that the groups were changing at different rates and the overall average line may not represent the real patterns in the data.
+
+Step 4 – If the interaction term is statistically significant, qualify the interpretation of the main effects.
+
+Step 5 – If there is a statistically significant main effect with only two levels, no more analyses are needed for that effect.  Simply examine the two marginal means (row or column totals).
+
+Step 6 – If there is a main effect with more than two levels, perform post hoc comparisons among the marginal means (row or column totals).
+
+Step 7 – Next, turn to the interaction effects.  
+
+There is not one rule that fits all situations.  The exact comparisons needed to make interpretations will vary from analysis to analysis. Look for the portion of your graphs where the lines are non-parallel.  The means that comprise these sections of the graph will be a good place to start in Step 8.
+
+Step 8 – Consider Simple Effects first.
+
+ This means look at the pattern of differences with rows or columns in your design first.  If they are different, then you have your answer about where the interaction is coming from.  This means that you can use the Tukey spreadsheet to tell you the pattern of group differences within rows or columns in your design.  Say for example that cells 1, 2, and 3 make up the first row in your design and cells 4, 5, and 6 make up the second row.  If the results of the Tukey tests show that 1 > 2, 3 in the first row, while 4, 5 > 6 in the second row, then you have explained the interaction.
+
+ If this approach does not completely explain the interaction, then you will need to consider looking at cell mean comparisons across rows and columns.  Again, there are no simple rules to guide you here.  There is no substitute for studying the graphs and determining what comparisons are the most important.
+
+Step 9 – Effect size calculations.  
+
+Again, there is no one rule that will fit every situation.  Your job is to illustrate the findings from your study with the effect sizes that fit the pattern in the results.  The best strategy is to use effect sizes to illustrate the most important findings from the study.  Effect sizes can be an effective way to contrast the amount of difference in one part of your design with the amount of difference in a contrasting part of the design.  Often the most useful effect sizes are those that contrast differential rates of growth across the groups.
+
+For Within-subjects terms, use the Dependent Case tab in the spreadsheet.  Remember to enter the correlation between the two time points in question if you intend to use the confidence intervals.  For Between-subjects terms, use the Independent Case tab in the spreadsheet.
+

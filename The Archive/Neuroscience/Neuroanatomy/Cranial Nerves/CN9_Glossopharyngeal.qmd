@@ -1,0 +1,30 @@
+---
+title: CNIX Glossopharyngeal Nerve
+---
+
+:::{.callout-note}
+
+- Welzack Chapter 66 Trigeminal and Glossopharyngeal Neuralgia @mcmahonWallMelzackTextbook2013
+:::
+
+# Functions
+
+## Touch & Pain
+
+1. (Mucosa of Posterior Tongue, Tonsil, Middle ear, Nasopharynx, Oropharynx, Carotid Sinus & Body)
+1. Superior Glossopharyngeal ganglion
+1. [Spinal Trigeminal Tract]({{< var ref-spinal-trigeminal-tract.path >}})
+1. [Spinal Trigeminal Nucleus]({{< var ref-spinal-trigeminal-nucleus.path >}})
+1. Medial lemniscus (Touch) and Spinal lemniscus (Pain)
+1. Sensory cortex
+
+
+
+# Dysfunction
+
+| Syndrome (Eponym) | Nerves Affected | Location of Lesion |
+|-|-|-|
+| Collet-Sicard | CN [IX]({{< var ref-cn9.path >}}), [X]({{< var ref-cn10.path >}}), [XI]({{< var ref-cn11.path >}}), [XII]({{< var ref-cn12.path >}}) @brazisLocalizationClinicalNeurology2022  | Retroparotid space usually <br> Lesion may be intracranial or extracranial @brazisLocalizationClinicalNeurology2022  |
+| Villaret | CN [IX]({{< var ref-cn9.path >}}), [X]({{< var ref-cn10.path >}}), [XI]({{< var ref-cn11.path >}}), [XII]({{< var ref-cn12.path >}}) <br> Plus the sympathetic chain <br> [CN VII]({{< var ref-cn7.path >}}) is occassionally involved @brazisLocalizationClinicalNeurology2022  | Retroparotid or retropharyngeal space @brazisLocalizationClinicalNeurology2022  |
+| Garcin (hemibase syndrome) | All Cranial Nerves on one side <br> (often incomplete) @brazisLocalizationClinicalNeurology2022  | Often infiltrative; <br> Arising from base of skull (especially nasopharyngeal carcinoma) @brazisLocalizationClinicalNeurology2022  |
+: Syndromes involving CN9-12 (CNIX-CNXII) from Table 13-1 @brazisLocalizationClinicalNeurology2022 {.striped .hover}

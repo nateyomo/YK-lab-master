@@ -1,0 +1,2803 @@
+# Journal Club
+ref-jc-cryotherapy-contusion:
+  path: "/Journal club/jc1_cryotherapy_contusions.qmd"
+ref-jc-2-post-exercise-cold-immersion:
+  path: "/Journal club/jc2_post-exercise_cold_immersion.qmd"
+
+# Index
+ref-index:
+  path: "/"
+  muscle: "/The Archive/Index/muscle_index.qmd"
+
+# Anatomy
+ref-anatomy-index:
+  path: "/The Archive/Anatomy/anatomy_index.qmd"
+## Arteries 
+ref-basilar-artery:
+  path: "/The Archive/Anatomy/Arteries/basilar_artery.qmd"
+### Upper extremity arteries
+ref-subclavian-artery:
+  path: "/The Archive/Anatomy/Arteries/Upper Extremity/subclavian_artery.qmd"
+
+## Bones
+
+ref-bone-index:
+  path: "/The Archive/Anatomy/Bones/bones_index.qmd"
+
+### Bones of the Trunk
+ref-sternum-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the trunk/sternum_bone.qmd"
+ref-1st-rib:
+  path: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd"
+  hypomobility: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd#hypomobility"
+  elevation: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd"
+  mobilization: "/The Archive/Interventions/Manual therapy/Mobilizations/1st_rib_mobilization.qmd"
+ref-ribs-bones:
+  path: "/The Archive/Anatomy/Bones/Bones of the trunk/ribs_bone.qmd"
+
+### Upper extremity bones
+ref-clavicle-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/clavicle_bone.qmd"
+ref-scapula-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.qmd"
+  superior-border: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.qmd#superior-border"
+  coracoid-process: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.qmd#coracoid-process"
+ref-humerus-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.qmd"
+ref-ulna-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/ulna_bone.qmd"
+ref-radius-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/radius_bone.qmd"
+ref-capitate-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/capitate_bone.qmd"
+
+### Bones of the skull
+
+ref-sphenoid-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/sphenoid_bone.qmd"
+ref-foramen-ovale-sphenoid-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/sphenoid_bone.qmd"
+ref-meckels-cave:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/sphenoid_bone.qmd"
+ref-ethmoid-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/ethmoid_bone.qmd"
+ref-frontal-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/frontal_bone.qmd"
+ref-hyoid-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/hyoid_bone.qmd"
+ref-inferior-nasal-concha:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/inferior_nasal_concha.qmd"
+ref-lacrimal-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/lacrimal_bone.qmd"
+ref-mandible-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/mandible_bone.qmd"
+  mandibular-condyle: "/The Archive/Anatomy/Bones/Bones of the Skull/mandible_bone.qmd#mandibular-condyle"
+  mandibular-fossa: "/The Archive/Anatomy/Bones/Bones of the Skull/mandible_bone.qmd#mandibular-condyle#mandibular-fossa"
+ref-maxilla-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/maxilla_bone.qmd"
+ref-nasal-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/nasal_bone.qmd"
+ref-occipital-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/occipital_bone.qmd"
+ref-palatine-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/palatine_bone.qmd"
+ref-parietal-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/parietal_bone.qmd"
+ref-temporal-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/temporal_bone.qmd"
+ref-vomer-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the Skull/vomer_bone.qmd"
+
+### LE Bones
+
+ref-calcaneus-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/calcaneus_bone.qmd"
+  apophysis: "/The Archive/Anatomy/Bones/Lower Extremity Bones/calcaneus_bone.qmd#apophysis"
+  pathology: "/"
+  osteomyelitis: "/The Archive/Pathologies/Bone pathologies/Calcaneus/calcaneal_osteomyelitis.qmd"
+  apophysitis: "/"
+ref-cuboid-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/cuboid_bone.qmd"
+ref-cuneiform-bones:
+  path: "/"
+ref-medial-cuneiform-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/cuneiforms/medial_cuneiform_bone.qmd"
+ref-intermediate-cuneiform-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/cuneiforms/intermediate_cuneiform_bone.qmd"
+ref-lateral-cuneiform-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/cuneiforms/lateral_cuneiform_bone.qmd"
+ref-1st-metatarsal-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/Metatarsals/1st_metatarsal_bone.qmd"
+ref-2nd-metatarsal-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/Metatarsals/2nd_metatarsal_bone.qmd"
+ref-3rd-metatarsal-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/Metatarsals/3rd_metatarsal_bone.qmd"
+ref-4th-metatarsal-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/Metatarsals/4th_metatarsal_bone.qmd"
+ref-5th-metatarsal-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/Metatarsals/5th_metatarsal_bone.qmd"
+
+ref-coxal-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/coxal_bone.qmd"
+  asis: "/The Archive/Anatomy/Bones/Lower Extremity Bones/coxal_bone.qmd#asis"
+  aiis: "/The Archive/Anatomy/Bones/Lower Extremity Bones/coxal_bone.qmd#aiis"
+ref-femur-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/femur_bone.qmd"
+  intertrochanteric-line: "/The Archive/Anatomy/Bones/Lower Extremity Bones/femur_bone.qmd#intertrochanteric-line"
+  linea-aspera: "/The Archive/Anatomy/Bones/Lower Extremity Bones/femur_bone.qmd#linea-aspera"
+ref-tibia-bone:
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/tibia_bone.qmd"
+## Cartilage
+ref-costal-cartilages:
+  path: "/The Archive/Anatomy/Cartilage/costal_cartilages.qmd"
+
+ref-meniscus:
+  path: "/The Archive/Anatomy/Cartilage/Fibrocartilage/Meniscus/menisci.qmd"
+  medial: "/The Archive/Anatomy/Cartilage/Fibrocartilage/Meniscus/medial_meniscus.qmd"
+  lateral: "/The Archive/Anatomy/Cartilage/Fibrocartilage/Meniscus/lateral_meniscus.qmd"
+  test:
+    overview: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Meniscus tests/overview_of_meniscus_tests.qmd"
+    mcmurrays:
+      path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Meniscus tests/McMurrays_test.qmd"
+      sens: "0.70"
+      spec: "0.71"
+      pediatric:
+        sens: "0.39"
+        spec: "0.86"
+        ppv: "0.62"
+        npv: "0.71"
+    apleys:
+      path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Meniscus tests/Apleys_test.qmd"
+      sens: "0.60"
+      spec: "0.70"
+      pediatric:
+        sens: ""
+        spec: ""
+        ppv: ""
+        npv: ""
+    joint-line-palpation:
+      path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Meniscus tests/meniscus_joint_line_palpation.qmd"
+      sens: "0.63"
+      spec: "0.77"
+      pediatric:
+        sens: ""
+        spec: ""
+        ppv: ""
+        npv: ""
+    thessalys:
+      path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Meniscus tests/thessaly_test.qmd"
+      sens: ""
+      spec: ""
+      pediatric:
+        sens: ""
+        spec: ""
+        ppv: ""
+        npv: ""
+
+## Connective Tissue
+ref-rectus-sheath:
+  path: "/The Archive/Anatomy/Connective tissue/rectus_sheath.qmd"
+ref-pes-anserine:
+  path: ""
+ref-plica:
+  path: "/The Archive/Anatomy/Connective tissue/plica.qmd"
+  syndrome: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Knee/plica_syndrome.qmd"
+## Joints
+ref-synovial-joint:
+  path: "/The Archive/Anatomy/Joints/Joint Types/Synovial Joint/synovial_joint.qmd"
+
+ref-joint:
+  path: "/The Archive/Anatomy/Joints/joint_overview.qmd"
+  mechanical-classification: "/The Archive/Anatomy/Joints/Joint Types/Synovial Joint/synovial_joint.qmd"
+  synovial: "/The Archive/Anatomy/Joints/joint_overview.qmd#synovial-joint"
+ref-sacroiliac-joint:
+  path: "/The Archive/Anatomy/Joints/sacroiliac_joint.qmd"
+ref-z-joint:
+  path: "/The Archive/Anatomy/Joints/z-joint.qmd"
+ref-cervicothoracic-junction:
+  path: "/The Archive/Anatomy/Joints/Spine joints/cervicothoracic_junction.qmd"
+ref-temporomandibular-joint:
+  path: "/The Archive/Anatomy/Joints/temporomandibular_joint.qmd"
+  articular-disc: "/The Archive/Anatomy/Joints/temporomandibular_joint.qmd#articular-disc"
+ref-sternoclavicular-joint:
+  path: "/The Archive/Anatomy/Joints/sternoclavicular_joint.qmd"
+
+### Spine joints
+
+ref-apophyseal-joint:
+  path: "/The Archive/Anatomy/Joints/Spine joints/apophyseal_joint.qmd"
+ref-lumbosacral-junction:
+  path: "/The Archive/Anatomy/Joints/Spine joints/lumbosacral_junction.qmd"
+
+### LE Joints
+ref-tibiofemoral-joint:
+  path: "/"
+ref-proximal-tibiofibular-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/proximal_tibiofibular_joint.qmd"
+ref-distal-tibiofibular-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/distal_tibiofibular_joint.qmd"
+
+ref-talocrural-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/talocrural_joint_TCJ.qmd"
+ref-subtalar-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/subtalar_joint_STJ.qmd"
+ref-transverse-tarsal-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/transverse_tarsal_joint.qmd"
+ref-talonavicular-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/talonavicular_joint.qmd"
+ref-calcaneocuboid-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/calcaneocuboid_joint.qmd"
+ref-metatarsophalangeal-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/metatarsophalangeal_joint.qmd"
+ref-interphalangeal-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/interphalangeal_joint.qmd"
+
+
+### UE Joints
+ref-acromioclavicular-joint:
+  path: "/The Archive/Anatomy/Joints/UE Joints/acromioclavicular_joint.qmd"
+ref-glenohumeral-joint:
+  path: "/The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.qmd"
+  capsule: "/The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.qmd#capsule"
+
+## Tendon
+ref-pes-anserine:
+  path: "/The Archive/Anatomy/Connective tissue/Tendon/Lower Extremity Tendons/pes_anserine.qmd"
+ref-patellar-tendon:
+  path: "/The Archive/Anatomy/Connective tissue/Tendon/patellar_tendon.qmd"
+  tendinopathy: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Knee/Patellar_tendinopathy.qmd"
+## Ligaments
+ref-index-ligaments:
+  path: "/The Archive/Anatomy/Ligaments/index_ligaments.qmd"
+### LE Ligaments
+### Hip ligaments
+ref-sacrotuberous-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Hip Ligaments/sacrotuberous_ligament.qmd"
+### Knee ligaments
+ref-knee-ligaments:
+  path: "/The Archive/Anatomy/Ligaments/Knee ligaments/knee_ligaments.qmd"
+
+## Multi-system structures
+### Upper extremity
+ref-thoracic-outlet:
+  path: "/The Archive/Anatomy/Multi-system structures/Upper extremity/thoracic_outlet.qmd"
+  syndrome: "/The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.qmd"
+ref-costoclavicular-space:
+  path: "/The Archive/Anatomy/Multi-system structures/Upper extremity/costoclavicular_space.qmd"
+  compression: "/The Archive/Anatomy/Multi-system structures/Upper extremity/costoclavicular_space.qmd#compression"
+ref-interscalene-triangle:
+  path: "/The Archive/Anatomy/Multi-system structures/Upper extremity/interscalene_triangle.qmd"
+
+## OIAN
+ref-oians: 
+  path: "/The Archive/Anatomy/Skeletal Muscles/OIAN.qmd"
+
+### Muscles of the back
+#### Superficial Intrinsic Back Muscles
+ref-serratus-posterior-superior:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Superficial Intrinsic Back Muscles/serratus_posterior_superior.qmd"
+  origin: "[Nuchal ligament]({{< var ref-nuchal-ligament.path >}}), C7-T3 SP"
+  insertion: "2-4th ribs (sup border)"
+  nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) T2-T5 (Ant ramus)"
+  action: "Elevates ribs"
+ref-serratus-posterior-inferior: 
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Superficial Intrinsic Back Muscles/serratus_posterior_inferior.qmd"
+  origin: "T11-L2 (SP)"
+  insertion: "8-12th ribs (inferior borders near angles)"
+  nerve: "[Spinal nn.]({{< var ref-spinal-nerves.path >}}) T9-T12 (Anterior rami)"
+  action: "Depresses ribs"
+ref-splenius-capitis: 
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Superficial Intrinsic Back Muscles/splenius_capitis.qmd"
+  origin: "[Nuchal ligament]({{< var ref-nuchal-ligament.path >}}) <br/> C7-T3/T4 SP"
+  insertion: "Lateral 1/3 nuchal line (occipital bone), <br/> Mastoid process (temporal bone)"
+  nerve: "[spinal nn.]({{< var ref-spinal-nerves.path >}}) C1-C6 (Post rami, lateral branches)"
+  action: "**BIL:** Extends C/S and head; <br/> **UNIL:** I/L head SB and Rotation "
+ref-splenius-cervicis: 
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Superficial Intrinsic Back Muscles/splenius_cervicis.qmd"
+  origin: "T3-T6/T7 (SP)"
+  insertion: "C1–C3/4 (TP)"
+  nerve: "[Spinal nn. C1-C6]({{< var ref-spinal-nerves.path >}}) (Post rami, lateral branches)"
+  action: "**BIL:** [Extends C/S and head]({{< var ref-neck-osteokinematics.path >}}); <br/> **UNIL:** [I/L head SB and Rotation]({{< var ref-head-osteokinematics.path >}})"
+#### Erector Spinae
+ref-iliocostalis-cervicis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Erector Spinae/iliocostalis.qmd"
+  origin: "3rd-7th ribs "
+  insertion: "C4-C6 TP"
+  nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches)"
+  action: "**BIL:** Extends spine; <br/> **UNIL:** I/L spine lat-flexion"
+ref-iliocostalis-thoracis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Erector Spinae/iliocostalis.qmd"
+  origin: "7-12th ribs"
+  insertion: "1st-6th ribs"
+  nerve: "[Spinal nn.]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches)"
+  action: "**BIL:** Extends spine; <br/> **UNIL:** I/L spine lat-flexion"
+ref-iliocostalis-lumborum:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Erector Spinae/iliocostalis.qmd"
+  origin: "Sacrum, <br/> iliac crest, <br/> lumbar vertebrae SP; <br/> lower thoracic vertebrae TP"
+  insertion: "6-12th ribs, <br/> thoracolumbar fascia (posterior layer), <br/> upper lumbar vertebrae (TP)"
+  nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches)"
+  action: "**BIL:** Extends spine; <br/> **UNIL:** I/L spine lat-flexion"
+ref-longissimus-capitis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Erector Spinae/longissimus.qmd"
+  origin: "T1-T3 (TP), <br/> C4-C7 (TP & articular process)"
+  insertion: "Temporal bone (Mastoid process)"
+  nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C1-L5 (Post rami, lateral branches)"
+  action: "**BIL**: Extends head; <br/> **UNIL**: Flexes and I/L rotation"
+ref-longissimus-cervicis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Erector Spinae/longissimus.qmd"
+  origin: "T1-T6 (TP)"
+  insertion: "C2-C5 (TP)"
+  nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C1-L5 (Post rami, lateral branches)"
+  action: "**BIL**: Extends spine; <br/> **UNIL**: I/L SB"
+ref-longissimus-thoracis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Erector Spinae/longissimus.qmd"
+  origin: "Sacrum; Iliac crest; <br/> Lumbar vertebrae (SP); <br/> Lower thoracic vertebrae (TP)"
+  insertion: "2nd-12th ribs; <br/> Thoracic & Lumbar vertebrae (TP)"
+  nerve: "[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) C1-L5 (Post rami, lateral branches)"
+  action: "**BIL**: Extends spine; <br/> **UNIL**: I/L SB"
+ref-spinalis-cervicis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Erector Spinae/spinalis.qmd"
+  origin: "C5-T2 (SP)"
+  insertion: "C2-C5 (SP)"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Extends C/S and T/S; <br/> **UNIL**: I/L SB cervical and thoracic spine"
+ref-spinalis-thoracis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Erector Spinae/spinalis.qmd"
+  origin: "T10-L3 (SP, lat surface)"
+  insertion: "T2-T8 (SP, lat surface)"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Extends C/S and T/S; <br/> **UNIL**: I/L SB cervical and thoracic spine"
+#### Prevertebral Muscles
+ref-longus-capitis: 
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Prevertebral Muscles/longus_capitis.qmd"
+  origin: C3-C6 (TP, ant tubercles) 
+  insertion: Occipital bone (basilar part) 
+  nerve: Direct branches from cervical plexus (C1-C3) 
+  action: "**BIL** flexes head; **UNIL** flexes and slight I/L rotation "
+ref-longus-colli-cervicis: 
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Prevertebral Muscles/longus_colli_cervicis.qmd"
+  origin: "**Vertical part:** C5-T3 (ant side of vertebral body); <br/> **Sup-oblique** C3-C5 (TP, Ant tubercle) <br/> **Inf-Oblique:** T1-T3 (ant side of vertebral body)"
+  insertion: "**Vertical part:** C2-C4 (ant sides of vertebral bodies); <br/> **Sup-oblique** C1 (TP, ant tubercle) <br/> **Inf-Oblique:** C5-C6 (TP, Ant tubercles)"
+  nerve: "Direct branches from cervical plexus (C2-C6)"
+  action: "**BIL**: Flex AO Joint; <br/> **UNIL**: Lat flex at AO joint"
+ref-rectus-capitis-anterior: 
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Prevertebral Muscles/rectus_capitis_anterior.qmd"
+  origin: "C1 (lateral mass)"
+  insertion: "Occipital bone (basilar part)"
+  nerve: "C1 Ant ramus"
+  action: "**BIL**: flex AO Joint; <br/> **UNIL**: Lateral Flexion of AO joint"
+ref-rectus-capitis-lateralis: 
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Prevertebral Muscles/rectus_capitis_lateralis.qmd"
+  origin: "C1 (TP)"
+  insertion: "Occipital bone (basilar part, lateral to occipital condyles)"
+  nerve: "C1 Anterior Ramus"
+  action: "**BIL**: flex AO Joint; <br/> **UNIL**: Lateral Flexion of AO joint"
+
+#### Suboccipital Muscles
+ref-suboccipital-muscle-group:
+  path: "/The Archive/Anatomy/Skeletal Muscles/muscles_of_the_back_index.qmd"
+ref-rectus-capitis-posterior-major: 
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Suboccipital Muscles/rectus_capitis_posterior_major.qmd"
+  origin: "C2 (SP)"
+  insertion: "[Occipital bone (inferior nuchal line, middle third)]({{< var ref-occipital-bone.path >}})"
+  nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
+  action: "**BIL**: [Extend head]({{< var ref-head-osteokinematics.path >}}) <br/> **UNIL**: [I/L head rotation]({{< var ref-head-osteokinematics.path >}})"
+ref-rectus-capitis-posterior-minor: 
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Suboccipital Muscles/rectus_capitis_posterior_minor.qmd"
+  origin: "C1 (posterior tubercle)"
+  insertion: "[Occipital bone (inferior nuchal line, inner 1/3)]({{< var ref-occipital-bone.path >}})"
+  nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
+  action: "**BIL**: [Extend head]({{< var ref-head-osteokinematics.path >}}); **UNIL**: [I/L head rotation]({{< var ref-head-osteokinematics.path >}})"
+ref-obliquus-capitis-superior: 
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Suboccipital Muscles/obliquus_capitis_superior.qmd"
+  origin: "C1 (TP)"
+  insertion: "[Occipital bone (inferior nuchal line, middle third)]({{< var ref-occipital-bone.path >}})"
+  nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
+  action: "**BIL**: [Extend head]({{< var ref-head-osteokinematics.path >}}); <br/> **UNIL**: [I/L SB]({{< var ref-neck-osteokinematics.path >}}), [C/L rotation]({{< var ref-neck-osteokinematics.path >}})"
+ref-obliquus-capitis-inferior: 
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Suboccipital Muscles/obliquus_capitis_inferior.qmd"
+  origin: "C2 (SP)"
+  insertion: "C1 TP"
+  nerve: "[Suboccipital N.]({{< var ref-suboccipital-nerve.path >}})"
+  action: "**BIL**: [Extend head]({{< var ref-head-osteokinematics.path >}}); <br/> **UNIL**: [I/L rotation]({{< var ref-neck-osteokinematics.path >}})"
+#### Transversospinalis muscles
+ref-rotatores-breves:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Transversospinalis Muscles/rotatores.qmd"
+  origin: "T1-T12 TP of lower vertebrae"
+  insertion: "T1-T12: SP of adjacent vertebrae"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Extends T/S; <br/> **UNIL**: C/L Rotation of T/S"
+ref-rotatores-longi:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Transversospinalis Muscles/rotatores.qmd"
+  origin: "T1-T12 TP of lower vertebrae"
+  insertion: "T1-T12: SP of vertebrae 2 above (it skips a vertebrae)"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Extends T/S; <br/> **UNIL**: C/L Rotation of T/S"
+ref-multifidi:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Transversospinalis Muscles/multifidus.qmd"
+  origin: "Sacrum, ilium, mamillary process of L1-L5, T1-T4 (TP and Articular process), C4-C7"
+  insertion: "Superomedially to SP (skipping 2-4 vertebrae)"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Extends extends spine; <br/> **UNIL**: I/L SB and C/L Rotation"
+ref-semispinalis-capitis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Transversospinalis Muscles/semispinalis.qmd"
+  origin: "C4-T7 (TP and Articular process)"
+  insertion: "Occipital bone (between superior and inferior nuchal lines)"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); <br/> **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation"
+ref-semispinalis-cervicis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Transversospinalis Muscles/semispinalis.qmd"
+  origin: "T1-T6 (TP)"
+  insertion: "C2-C5 (SP)"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); <br/> **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation"
+ref-semispinalis-thoracis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Transversospinalis Muscles/semispinalis.qmd"
+  origin: "T6-T12 (TP)"
+  insertion: "C6-T4 (SP)"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt); <br/> **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation"
+
+
+
+#### deep segmental back muscles
+ref-interspinales-cervicis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/interspinales.qmd"
+  origin: "C1-C7: SP of inferiorly adjacent vertebrae"
+  insertion: "C1-C7: SP of superiorly adjacent vertebrae"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "Extends cervical and Lumbar spines"
+ref-interspinales-lumbora:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/interspinales.qmd"
+  origin: "L1-L5: SP of inferiorly adjacent vertebrae"
+  insertion: "L1-L5: SP of superiorly adjacent vertebrae"
+  nerve: "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}})"
+  action: "**BIL**: Stabilizes and extends cervical and lumbar vertebrae; <br/> **UNIL**: I/L SB cervical and lumbar spines"
+ref-levatores-costarum-breves:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/levatores_costarum.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-levatores-costarum-longi:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/levatores_costarum.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+
+### Extraocular muscles
+ref-extraocular-muscles:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Extraocular muscles/extraocular_muscles.qmd"
+
+### Head and neck
+ref-muscles-of-head-and-neck:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/muscles_of_head_and_neck_index.qmd"
+#### Muscles of Facial Expression
+ref-occipitofrontalis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/occipitofrontalis.qmd"
+  origin: "Epicranial aponeurosis"
+  insertion: "Skin and subcutaneous tissue of eyebrows and forehead"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Elevates eyebrows; <br/> wrinkles skin of forehead"
+ref-procerus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/procerus.qmd"
+  origin: "Nasal bone, <br/> Lateral nasal cartilage (upper part)"
+  insertion: "Skin of lower forehead between eyebrows"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Pulls medial angle of eyebrows inferiorly, producing transverse wrinkles over bridge of nose"
+ref-orbicularis-oculi:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/orbicularis_oculi.qmd"
+  origin: "Medial orbital margin, <br/> medial palpebral ligament, <br/> lacrimal bone"
+  insertion: "Skin around margin of orbit, superior and inferior tarsal plates"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Acts as orbital sphincter (closes eyelids): Palpebral portion gently closes, orbital portion tightly closes (winking)"
+ref-nasalis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/nasalis.qmd"
+  origin: "Maxilla (superior region of canine ridge)"
+  insertion: "Nasal cartilages"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Flares nostrils by drawing ala (side) of nose toward nasal septum"
+ref-levator-labii-superioris-alaeque-nasi:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/levator_labii_superioris_alaeque_nasi.qmd"
+  origin: "Maxilla (Frontal process)"
+  insertion: "Alar cartilage of nose and upper lip"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Elevates upper lip; <br/> Opens nostril"
+ref-anterior-auricular-muscle:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/anterior_auricular_muscle.qmd"
+  origin: "Temporal fascia (ant. portion)"
+  insertion: "Helix of the ear"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Pulls ear superiorly and anteriorly"
+ref-superior-auricular-muscle:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/superior_auricular_muscle.qmd"
+  origin: "Epicranial aponeurosis on side of head"
+  insertion: "Upper portion of auricle"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Elevates ear"
+ref-posterior-auricular-muscle:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/posterior_auricular_muscle.qmd"
+  origin: "Mastoid process"
+  insertion: "Convexity of concha of ear"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Pulls ear superiorly and posteriorly"
+ref-zygomaticus-major:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/zygomaticus_major.qmd"
+  origin: "Zygomatic bone (lateral surface, post. part)"
+  insertion: "Skin at the corner of the mouth"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Pulls corner of mouth superiorly and laterally"
+ref-zygomaticus-minor:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/zygomaticus_minor.qmd"
+  origin: "Zygomatic bone (Lat surface, post. part)"
+  insertion: "Upper lip just medial to corner of the mouth"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Pulls upper lips superiorly"
+ref-levator-labii-superioris:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/levator_labii_superioris.qmd"
+  origin: "Maxilla (Frontal process) and infraorbital region"
+  insertion: "Skin of upper lip, Alar cartilages of nose"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Elevates upper lip, Dilates nostril, Raises angle of mouth"
+ref-depressor-labii-inferioris:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/depressor_labii_superioris.qmd"
+  origin: "Mandible (ant portion of oblique line)"
+  insertion: "Lower lip at midline; blends with muscle from opposite side"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Pulls lower lip inferiorly and laterally"
+ref-levator-anguli-oris:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/levator_anguli_oris.qmd"
+  origin: "Maxilla (below infraorbital foramen)"
+  insertion: "Skin at corner of mouth"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Raises angle of mouth, <br/> Helps form nasolabial furrow"
+ref-depressor-anguli-oris:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/depressor_anguli_oris.qmd"
+  origin: "Mandible (oblique line below canine, premolar, and 1st molar teeth)"
+  insertion: "Skin at corner of the mouth; Blends with [orbicularis oris]({{< var ref-orbicularis-oris >}})"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Pulls angle of mouth inferiorly and laterally"
+ref-buccinator:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/buccinator.qmd"
+  origin: "Mandible, Alveolar process of maxilla and mandible, Pterygomandibular raphe"
+  insertion: "Angle of mouth, Orbicularis Oris"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "**BIL**: Presses cheek against molar teeth, working with tongue to keep food between occlusal surfaces and out of oral vestibule; expels air from oral cavity/resists distension when blowing; <br/> **UNIL**: Draws mouth to one side"
+ref-orbicularis-oris:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/orbicularis_oris.qmd"
+  origin: "Deep surface of skin; <br/> **Superiorly**: maxilla (median plane); <br/> **Inferiorly**: mandible"
+  insertion: "Mucous membrane of lips"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Acts as oral sphincter: Compresses and protrudes lips (whistling, sucking, kissing); Resists distension (when blowing)"
+ref-risorius:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/risorius.qmd"
+  origin: "Fascia over [masseter]({{< var ref-masseter.path >}})"
+  insertion: "Skin of corner of the mouth"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Retracts corner of mouth as in grimacing"
+ref-mentalis-muscle:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/mentalis_muscle.qmd"
+  origin: "Mandible (incisive fossa)"
+  insertion: "Skin of chin"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Elevates and protrudes lower lip"
+ref-platysma:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/platysma.qmd"
+  origin: "Skin over lower neck and upper lateral thorax"
+  insertion: "[Mandible (inferior border)]({{< var ref-mandible-bone.path >}}), Skin over lower face, Angle of mouth"
+  nerve: "[Facial Nerve CN VII]({{< var ref-cn7.path >}})"
+  action: "Depresses and wrinkles skin of lower face and mouth; Tenses skin of neck; <br/> Aids in forced depression of the mandible"
+
+#### Muscles of Mastication
+ref-masseter:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Mastication/masseter.qmd"
+  origin: "**SF layer**: zygomatic arch (ant 2/3); <br/> **Deep layer**: Zygomatic arch (post. 1/3)"
+  insertion: "Mandibular angle (Masseteric tuberosity)"
+  nerve: "[Trigeminal CN V: Mandibular (V~3~)]({{< var ref-cn5.path >}})"
+  action: "**Entire muscle**: Elevates mandible; <br/> **SF Fibers**: Protrude mandible"
+ref-temporalis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Mastication/temporalis_muscle.qmd"
+  origin: "Temporal fossa (inferior temporal line)"
+  insertion: "Coronoid process of mandible (apex and medial surface)"
+  nerve: "[Mandibular (V~3~) divison of CN V via deep temporal nn]({{< var ref-cn5.path >}})"
+  action: "**Vertical fibers**: Elevate mandible; <br/> **Horizontal Fibers**: Retract (retrude) mandible; <br/> **Unilateral Fibers:** Lateral movement of mandible (chewing)"
+ref-lateral-pterygoid:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Mastication/lateral_pterygoid.qmd"
+  origin: "**Superior Head:** Greater wing of sphenoid bone (infratemporal crest); <br/> **Inferior head:** Lateral surface of pterygoid plate (lat surface)"
+  insertion: "**Superior Head:** Tempormandibular joint (articular disc); <br/> **Inferior head:** Mandible (condylar process)"
+  nerve: "[Mandibular (V~3~) divison of CN V via lateral pterygoid n.]({{< var ref-cn5.path >}})"
+  action: "**BIL:** Protrudes mandible (pulls articular disk forward); <br/> **UNIL:** C/L Lateral movements of mandible (chewing)"
+ref-medial-pterygoid:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Mastication/medial_pterygoid.qmd"
+  origin: "**SF Head:** Maxilla (tuberosity); <br/> **Deep head:** Medial surface of lateral pterygoid plate and pterygoid fossa"
+  insertion: "Pterygoid tuberosity on medial surface of the mandibular angle"
+  nerve: "[Mandibular (V~3~) divison of CN V via medial pterygoid n.]({{< var ref-cn5.path >}})"
+  action: "**BIL:** Elevates mandible with masseter and contributes to protrusion; <br/> **UNIL:** Small grinding movements"
+
+#### Neck Muscles
+ref-sternocleidomastoid:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/sternocleidomastoid_muscle.qmd"
+  origin: "**Sternal head**: [sternum (manubrium)]({{< var ref-sternum-bone.path >}}); <br/> **Clavicular head**: [Clavicle (medial 1/3)]({{< var ref-clavicle-bone.path >}})"
+  insertion: "[Temporal bone (mastoid process)]({{< var ref-temporal-bone.path >}}); <br/> [Occipital bone (superior nuchal line)]({{< var ref-occipital-bone.path >}})"
+  nerve: "[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) <br/> **Proprioception**: Cervical plexus (C2, C3, C4)"
+  action: "**Unilateral**: Tilts head to same side, rotates head to opposite side; <br/> **Bilateral**: Extends head, aids in respiration when head is fixed"
+ref-trapezius:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
+ref-upper-trapezius:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
+  origin: "[Occipital bone]({{< var ref-occipital-bone.path >}}) </br> SP of C1–C7"
+  insertion: "[Clavicle (lateral one third)]({{< var ref-clavicle-bone.path >}})"
+  nerve: "**Motor**: [CN XI Accessory n.]({{< var ref-cn11.path >}}) ([C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) </br> </br> **Proprioception**: Cervical plexus ([C2]({{< var ref-nerve-root.c2 >}}), [C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}}))"
+  action: "**Scapula**: Elevation, Upward rotation </br> **Neck**: I/L sidebend and C/L rotation"
+ref-middle-trapezius:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
+  origin: "Aponeurosis at T1–T4 SP"
+  insertion: "[Acromion of Scapula]({{< var ref-scapula-bone.path >}})"
+  nerve: "**Motor**: [CN XI Accessory n.]({{< var ref-cn11.path >}}) ([C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) </br> </br> **Proprioception**: Cervical plexus ([C2]({{< var ref-nerve-root.c2 >}}), [C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}}))"
+  action: "Scapular retraction </br> Stabilize the scapula during upward rotation"
+ref-lower-trapezius:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
+  origin: "SP of T5–T12"
+  insertion: "[Scapular Spine]({{< var ref-scapula-bone.path >}})"
+  nerve: "**Motor**: [CN XI Accessory n.]({{< var ref-cn11.path >}}) ([C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) </br> </br> **Proprioception**: Cervical plexus ([C2]({{< var ref-nerve-root.c2 >}}), [C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}}))"
+  action: "**STJ**: Retraction, Depression, Upward Rotation"
+ref-anterior-scalene:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/anterior_scalene_muscle.qmd"
+ref-middle-scalene:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/middle_scalene_muscle.qmd"
+ref-posterior-scalene:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/posterior_scalene_muscle.qmd"
+
+### Anterior axioappendicular muscles
+ref-pectoralis-major:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_major_muscle.qmd"
+  origin: "**Clavicular part**: [Clavicle (medial half)]({{< var ref-clavicle-bone.path >}}) </br> **Sternocostal part**: [sternum]({{< var ref-sternum-bone.path >}}), [costal cartilages 1–6]({{< var ref-costal-cartilages.path >}}) </br> **Abdominal part**: [rectus sheath (anterior layer)]({{< var ref-rectus-sheath.path >}})"
+  insertion: "[Humerus (crest of greater tubercle)]({{< var ref-humerus-bone.path >}})"
+  nerve: "[Lateral pectoral nerve]({{< var ref-lateral-pectoral-nerve.path >}}) </br> [Medial pectoral nerve]({{< var ref-medial-pectoral-nerve.path >}}) </br> ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**Entire muscle**: GHJ Adduction, Internal rotation </br> </br> **Clavicular and sternocostal parts**: Flexion; assist in respiration when shoulder is fixed"
+ref-pectoralis-minor:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_minor_muscle.qmd"
+  origin: "[3rd to 5th ribs]({{< var ref-ribs-bones.path >}})"
+  insertion: "[Coracoid process]({{< var ref-scapula-bone.path >}})"
+  nerve: "[Medial Pectoral n.]({{< var ref-medial-pectoral-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**Scapulothoracic**: Depression, protraction, downward rotation </br> **Respiration**: Assistance"
+ref-subclavius:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/subclavius_muscle.qmd"
+  origin: "[1st rib]({{< var ref-1st-rib.path >}})"
+  insertion: "[Clavicle (inferior surface)]({{< var ref-clavicle-bone.path >}})"
+  nerve: "[N. to Subclavius]({{< var ref-nerve-to-subclavius.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}))"
+  action: "**SCJ Stabilization**: Via Clavicle depression, elevation of 1st rib"
+ref-serratus-anterior:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior_muscle.qmd"
+  origin: "1-9th ribs"
+  insertion: "**Superior part**: Superior angle of Scapula (costal and dorsal surfaces) </br> **Intermediate part**: Medial border of Scapula (costal surface) </br> **Inferior part**: Medial border of Scapula (costal surface), Inferior angle (costal and dorsal surfaces)"
+  nerve: "[Long Thoracic N.]({{< var ref-long-thoracic-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})"
+  action: "**Entire muscle**: Draws scapula laterally forward, elevates ribs when shoulders are fixed </br> **Superior part**: Lowers the raised arm </br> **Inferior part**: Rotates inferior angle of scapula laterally forward (allows elevation of arm above 90&deg;)"
+
+### Posterior axioappendicular muscles
+ref-latissimus-dorsi:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/latissimus_dorsi.qmd"
+  origin: "**Vertebral part**: SP of T7–T12 vertebrae; thoracolumbar fascia  </br> **Scapular part**: Scapula (inferior angle) </br> **Costal part**: 9-12th ribs </br> **Iliac part**: Iliac crest (posterior 1/3)"
+  insertion: "Floor of intertubercular groove of humerus"
+  nerve: "[Thoracodorsal n.]({{< var ref-thoracodorsal-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}))"
+  action: "**GHJ**: Internal rotation, adduction, extension <br> **Respiration**: “cough muscle”"
+ref-levator-scapulae:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/levator_scapulae.qmd"
+  origin: "TP C1-C4"
+  insertion: "Superior angle of the scapula"
+  nerve: "[Dorsal Scapular N.]({{< var ref-dorsal-scapular-nerve.path >}}) </br> Cervical Spinal nn. </br> ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}}))"
+  action: "**STJ**: Elevates and downwardly rotates scapula </br> **C/S**: Extends and I/L lateral flexion"
+ref-rhomboid-major:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_major.qmd"
+  origin: "SP T1–T4"
+  insertion: "Medial border of scapula </br> (*below scapular spine*)"
+  nerve: "[Dorsal Scapular N.]({{< var ref-dorsal-scapular-nerve.path >}}) ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}}))"
+  action: "**STJ**: Retraction, Downward rotation, Stabilization"
+ref-rhomboid-minor:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_minor.qmd"
+  origin: "SP of C6 & C7"
+  insertion: "Medial border of scapula </br> (*above scapular spine*)"
+  nerve: "[Dorsal Scapular N.]({{< var ref-dorsal-scapular-nerve.path >}}) ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}}))"
+  action: "**STJ**: Retraction, Downward rotation, Stabilization"
+
+### Scapulohumeral (Intrinsic Shoulder Muscles)
+ref-deltoid-muscle:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.qmd"
+ref-deltoid-muscle-anterior:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.qmd"
+  origin: "Lateral 1/3 of clavicle"
+  insertion: "Humerus (deltoid tuberosity)"
+  nerve: "[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}})"
+  action: "**GHJ:** Flexion, internal rotation, adduction"
+ref-deltoid-muscle-lateral:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.qmd"
+  origin: "Acromion"
+  insertion: "Humerus (deltoid tuberosity)"
+  nerve: "[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}})"
+  action: "Abduction"
+ref-deltoid-muscle-posterior:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.qmd"
+  origin: "Scapular spine"
+  insertion: "Humerus (deltoid tuberosity)"
+  nerve: "[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}})"
+  action: "**GHJ:** Extension, external rotation, adduction"
+ref-teres-major:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/teres_major.qmd"
+  origin: "Inferior angle of the scapula </br> (posterior aspect)"
+  insertion: "Crest of lesser tubercle of the humerus </br> (*anterior angle*)"
+  nerve: "[Lower Subscapular N.]({{< var ref-lower-subscapular-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}))"
+  action: "**GHJ**: Extension, Internal rotation, Adduction"
+### rotator cuff
+ref-rotator-cuff-muscle-group:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/rotator_cuff_muscles.qmd"
+ref-supraspinatus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/supraspinatus_muscle.qmd"
+  origin: "Supraspinous Fossa of [scapula]({{< var ref-scapula-bone.path >}})"
+  insertion: "Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
+  nerve: "[Suprascapular n.]({{< var ref-suprascapular-nerve.path >}}) ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}))"
+  action: "**GHJ**: Initiates abduction"
+ref-infraspinatus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/infraspinatus_muscle.qmd"
+  origin: "Infraspinous Fossa of [scapula]({{< var ref-scapula-bone.path >}})"
+  insertion: "Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
+  nerve: "[Suprascapular n.]({{< var ref-suprascapular-nerve.path >}}) ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}))"
+  action: "**GHJ**: External rotation, Stabilization"
+ref-subscapularis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/subscapularis_muscle.qmd"
+  origin: "Subscapular fossa of [Scapula]({{< var ref-scapula-bone.path >}})"
+  insertion: "Lesser tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
+  nerve: "[Upper Subscapular N.]({{< var ref-upper-subscapular-nerve.path >}}) </br> [Lower Subscapular N.]({{< var ref-lower-subscapular-nerve.path >}}) </br> ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}))"
+  action: "**GHJ**: Internal Rotation, Adduction"
+ref-teres-minor:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/teres_minor_muscle.qmd"
+  origin: "Lateral border of [scapula]({{< var ref-scapula-bone.path >}})"
+  insertion: "Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}})"
+  nerve: "[Axillary N.]({{< var ref-axillary-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}))"
+  action: "**GHJ**: External Rotation, Weak Adduction, Stabilization"
+
+
+### Muscles of Anterior Compartment of Arm
+ref-biceps-brachii-long-head:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/biceps_brachii.qmd"
+  origin: "Supraglenoid tubercle of scapula </br> Adjacent rim of Glenoid Labrum"
+  insertion: "Radial tuberosity </br> Bicipital aponeurosis"
+  nerve: "[Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}))"
+  action: "**Shoulder**: Flexion </br> **GHJ**: Abduction, Internal rotation, Stabilization of humeral head during deltoid contraction </br> **Elbow**: Flexion; Supination"
+ref-biceps-brachii-short-head:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/biceps_brachii.qmd"
+  origin: "Coracoid process of Scapula"
+  insertion: "Radial tuberosity </br> Bicipital aponeurosis"
+  nerve: "[Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}))"
+  action: "**Shoulder**: Flexion </br> **GHJ**: Abduction, Internal rotation, Stabilization </br> **Elbow**: Flexion, Supination"
+ref-brachialis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/brachialis.qmd"
+  origin: "Distal 1/2 of Anterior humerus"
+  insertion: "Ulnar tuberosity"
+  nerve: "[Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) </br> [Radial N.]({{< var ref-radial-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), Minor)"
+  action: "**Elbow**: Flexion"
+ref-coracobrachialis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/coracobrachialis.qmd"
+  origin: "Coracoid process of [Scapula]({{< var ref-scapula-bone.path >}})"
+  insertion: "Middle 1/3 of [Humerus]({{< var ref-humerus-bone.path >}}) </br> (*in line with crest of lesser tubercle*)"
+  nerve: "[Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}))"
+  action: "**GHJ**: Flexion, Adduction, Internal rotation"
+
+### Muscles of Posterior Compartment of Arm
+
+ref-triceps-brachii-long-head:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Posterior Muscles/triceps_brachii.qmd"
+  origin: "Infraglenoid tubercle of scapula"
+  insertion: "Olecranon process of Ulna"
+  nerve: "[Radial N.]({{< var ref-radial-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}))"
+  action: "**Elbow**: Extension </br> **Shoulder**: Extension, Adduction"
+ref-triceps-brachii-medial-head:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Posterior Muscles/triceps_brachii.qmd"
+  origin: "Posterior surface of humerus (distal to radial groove) </br> Medial intermuscular septum"
+  insertion: "Olecranon process"
+  nerve: "[Radial N.]({{< var ref-radial-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}))"
+  action: "**Elbow**: Extension"
+ref-triceps-brachii-lateral-head:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Posterior Muscles/triceps_brachii.qmd"
+  origin: "Posterior surface of humerus (prox to radial groove) </br> Lateral Intermuscular Septum"
+  insertion: "Olecranon process"
+  nerve: "[Radial N.]({{< var ref-radial-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}))"
+  action: "**Elbow**: Extension"
+ref-anconeus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Posterior Muscles/anconeus.qmd"
+  origin: "Lateral epicondyle of humerus </br>(*Possibly joint capsule*)"
+  insertion: "Olecranon of ulna (Radial surface)"
+  nerve: "[Radial N.]({{< var ref-radial-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}))"
+  action: "**Elbow**: Weak extension, stabilization"
+
+### Forearm Anterior Compartment Muscles
+
+ref-pronator-teres:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/pronator_teres.qmd"
+  origin: "**Humeral head**: medial epicondyle of humerus </br> **Ulnar head**: coronoid process"
+  insertion: "Lateral radius </br> (*Distal to supinator insertion*)"
+  nerve: "[Median N.]({{< var ref-median-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}))"
+  action: "**Elbow**: Weak flexion </br> **Forearm**: Pronation"
+ref-flexor-carpi-radialis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_carpi_radialis.qmd"
+  origin: "Medial epicondyle of Humerus"
+  insertion: "Base of 2nd or 3rd metacarpal"
+  nerve: "[Median N.]({{< var ref-median-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}))"
+  action: "**Wrist**: Flexion, Radial deviation </br> *Assists with Elbow flexion and Pronation*"
+ref-palmaris-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/palmaris_longus.qmd"
+  origin: "Medial epicondyle of humerus"
+  insertion: "Palmar aponeurosis"
+  nerve: "[Median N.]({{< var ref-median-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) "
+  action: "**Elbow**: Weak Flexion </br> **Wrist**: Flexion, Tenses palmar aponeurosis"
+ref-flexor-carpi-ulnaris:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_carpi_ulnaris.qmd"
+  origin: "**Humeral head**: Medial epicondyle of Humerus </br> **Ulnar head**: Olecranon of Ulna"
+  insertion: "Pisiform </br> Hook of hamate </br> Base of 5th metacarpal"
+  nerve: "[Ulnar N.]({{< var ref-ulnar-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**Wrist**: Flexion, Ulnar deviation"
+ref-flexor-digitorum-superficialis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_digitorum_superficialis_FDS.qmd"
+  origin: "**Humeral-ulnar head**: Medial epicondyle of humerus, Coronoid process of Ulna </br> **Radial head**: Proximal half of anterior border of radius"
+  insertion: "Sides of Middle Phalanges of digit 2-5 "
+  nerve: "[Median N.]({{< var ref-median-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**Elbow**: Weak Flexion </br> **Wrist**: Flexion </br> **MCP & PIP 2-5**: Flexion "
+ref-flexor-digitorum-profundus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_digitorum_profundus_FDP.qmd"
+  origin: "Ulna (*proximal 2/3 of anteromedial surface*) </br> IO membrane"
+  insertion: "Palmar surface of distal phalanges 2-5 "
+  nerve: "**Digits 2-3**: [Anterior Interosseous N.]({{< var ref-anterior-interosseous-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) </br> **Digits 4-5**: [Ulnar N.]({{< var ref-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**Wrist**: Flexion </br> **MCP, PIP, DIP 2-5**: Flexion"
+ref-flexor-pollicis-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_pollicis_longus.qmd"
+  origin: "Anterior/proximal Radius </br> Adjacent IO membrane"
+  insertion: "Distal phalanx of thumb </br> (*palmar surface*) "
+  nerve: "[Anterior Interosseous N.]({{< var ref-anterior-interosseous-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**Wrist**: Flexion, Radial deviation </br> **CMC**: Flexion </br> **1st MCP/IP**: Flexion"
+ref-pronator-quadratus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/pronator_quadratus.qmd"
+  origin: "Distal 1/4 of ulna </br> (*anterior surface*) "
+  insertion: "Distal ¼ of radius </br> (*anterior surface*) "
+  nerve: "[Anterior Interosseous N.]({{< var ref-anterior-interosseous-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**Forearm**: Pronation </br> **Distal RU**: Stabilization"
+ref-brachioradialis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/brachioradialis.qmd"
+  origin: "Lateral Humerus (*Superior to lateral supracondylar ridge*) </br> Lateral intermuscular septum"
+  insertion: "Styloid process of the Radius"
+  nerve: "[Radial N.]({{< var ref-radial-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}))"
+  action: "**Elbow**: Flexion </br> **Forearm**: Initiates pronation and supination"
+
+### Forearm Posterior Compartment
+
+ref-extensor-carpi-radialis-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_carpi_radialis_longus.qmd"
+  origin: "Lateral supracondylar ridge of Humerus </br> Lateral intermuscular septum"
+  insertion: "Base of 2nd metacarpal"
+  nerve: "[Radial N.]({{< var ref-radial-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}))"
+  action: "**Elbow**: Weak flexion </br> **Wrist**: Extension and Radial deviation"
+ref-extensor-carpi-radialis-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_carpi_radialis_brevis.qmd"
+  origin: "Lateral epicondyle of Humerus"
+  insertion: "Base of 3rd metacarpal"
+  nerve: "[Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}))"
+  action: "**Elbow**: Weak Flexion </br> **Wrist**: Extension, Radial deviation"
+ref-extensor-digitorum:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_digitorum.qmd"
+  origin: "Lateral epicondyle of Humerus </br> (*Common head of ED, EDM, ECU*)"
+  insertion: "Dorsal digital expansions of 2-5 digits "
+  nerve: "[Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}))"
+  action: "**Wrist**: Extension </br> **MCP, PIP, DIP 2-5**: Extension/abduction"
+ref-extensor-digiti-minimi:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_digiti_minimi.qmd"
+  origin: "Lateral epicondyle of Humerus </br> (*Common head of ED, EDM, ECU*)"
+  insertion: "Dorsal digital expansion of 5th digit"
+  nerve: "[Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}))"
+  action: "**Wrist**: Extension, Ulnar radiation </br>  **5th MCP, PIP, DIP**: Extension, Abduction"
+ref-extensor-carpi-ulnaris:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_carpi_ulnaris.qmd"
+  origin: "Lateral epicondyle of humerus (*Common head of ED, EDM, ECU*) </br> Dorsal surface of ulnar head"
+  insertion: "Base of 5th MT"
+  nerve: "[Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}))"
+  action: "**Wrist**: Extension, Ulnar deviation"
+ref-extensor-indicis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_indicis.qmd"
+  origin: "Ulna (*posterior surface*) </br> IO membrane"
+  insertion: "Posterior digital extension of 2nd digit "
+  nerve: "[Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}))"
+  action: "**Wrist**: Extension </br> **2nd MCP, PIP, DIP**: Extension"
+ref-supinator:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/supinator_muscle.qmd"
+  origin: "Lateral epicondyle of Humerus </br> Olecranon of Ulna </br> Radial collateral ligament </br> Annular ligament of radius"
+  insertion: "Radius </br> (*between radial tuberosity and insertion of pronator teres*)"
+  nerve: "[Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}))"
+  action: "**Forearm**: Supination"
+ref-abductor-pollicis-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/abductor_pollicis_longus.qmd"
+  origin: "Proximal Dorsal Radius </br> Proximal dorsal Ulna </br> IO Membrane"
+  insertion: "Base of 1st metacarpal"
+  nerve: "[Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}))"
+  action: "**RC**: Radial deviation </br> **1st CMC**: Abduction"
+ref-extensor-pollicis-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_pollicis_longus.qmd"
+  origin: "Ulna (Posterior surface) </br> IO membrane"
+  insertion: "Base of distal phalanx of thumb"
+  nerve: "[Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}))"
+  action: "**Wrist**: Extension </br> **2nd MCP, PIP, DIP**: Extension"
+ref-extensor-pollicis-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_pollicis_brevis.qmd"
+  origin: "Distal posterior Radius </br> IO membrane"
+  insertion: "Base 1st Metacarpal"
+  nerve: "[Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}))"
+  action: "**Wrist**: Extension, Radial deviation </br> **Thumb**: Extension"
+
+### Intrinsic Muscles of the hand
+
+ref-opponens-pollicis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/opponens_pollicis.qmd"
+  origin: "Trapezium"
+  insertion: "1st metacarpal (*lateral side*)"
+  nerve: "[Recurrent Br. of Median N.]({{< var ref-recurrent-branch-of-median-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**1st CMC**: Opposition"
+ref-abductor-pollicis-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_pollicis_brevis.qmd"
+  origin: "Flexor retinaculum </br> Scaphoid </br> Trapezium"
+  insertion: "Lateral side of base of 1st proximal phalanx </br> (*via radial seasamoid*)"
+  nerve: "[Recurrent Br. of Median N.]({{< var ref-recurrent-branch-of-median-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**1st CMC**: Abduction"
+ref-flexor-pollicis-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/flexor_pollicis_brevis.qmd"
+  origin: "**Superficial head**: Flexor retinaculum </br> **Deep head**: Capitate, Trapezium"
+  insertion: "Lateral side of base of 1st proximal phalan </br> (*via the radial sesamoid*)"
+  nerve: "**Superficial head**: [Recurrent Br. of Median N.]({{< var ref-recurrent-branch-of-median-nerve.path >}}) </br> **Deep head**: [Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) </br> ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**1st CMC**: Flexion"
+ref-adductor-pollicis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/adductor_pollicis.qmd"
+  origin: "**Oblique head**: Base of 2nd and 3rd metacarpal, Capitate </br> **Transverse head**: Palmar surface of 3rd metacarpal"
+  insertion: "Medial base of 1st proximal phalanx </br> (*via ulnar sesamoid*)"
+  nerve: "[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**1st CMC**: Adduction </br> **1st MCP**: Flexion"
+ref-abductor-digiti-minimi-hand:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_digiti_minimi_hand.qmd"
+  origin: "Pisiform"
+  insertion: "Medial side of base of 5th proximal phalanx </br> Dorsal digital expansion of 5th digit"
+  nerve: "[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**5th MCP**: Flexion, Abduction <br> **5th PIP, DIP**: Extension"
+ref-flexor-digiti-minimi-brevis-hand:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/flexor_digiti_minimi_brevis_hand.qmd"
+  origin: "Hook of hamate </br> Flexor retinaculum"
+  insertion: "Medial side of base of 5th proximal phalanx"
+  nerve: "[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**5th MCP**: Flexion"
+ref-opponens-digiti-minimi-hand:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/opponens_digiti_minimi_hand.qmd"
+  origin: "Hook of hamate </br> Flexor retinaculum"
+  insertion: "5th Metacarpal (ulnar border)"
+  nerve: "[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**5th MCP**: Draws anterior and rotates it towards the thumb"
+ref-lumbricals-hand:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/lumbrical_muscles_hand.qmd"
+  origin: "**1-2nd Lumbrical**: FDP Tendons </br> (*radial sides*) </br> **3-4th Lumbrical**: FDP tendons </br> (*bipennate from medial and lateral sides*)"
+  insertion: "**1st**: 2nd digit (DDE) </br> **2nd**: 3rd digit (DDE) </br> **3rd**: 4th digit (DDE) </br> **4th**: 5th digit (DDE)"
+  nerve: "**1-2nd**: [Median N.]({{< var ref-median-nerve.path >}}) </br> **3-4th**: [Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) </br> ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**2-5 MCP**: Flexion </br> **2-5 PIP, DIP**: Extension"
+ref-dorsal-interossei-hand:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/dorsal_interossei_hand.qmd"
+  origin: "**1st**: 1-2nd metacarpals </br> **2nd**: 2-3rd metacarpals </br> **3rd**: 3-4th metacarpals </br> **4th**: 4-5th metacarpals </br> (*adjacent sides, two heads*)"
+  insertion: "**1st**: 2nd DDE, 2nd proximal phalanx (radial side) </br> **2nd**: 3rd DDE, 3rd proximal phalanx (radial side) </br> **3rd**: 3rd DDE, 3rd proximal phalanx (ulnar side) </br> **4th**: 4th DDE, 4th proximal phalanx (ulnar side)"
+  nerve: "[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**2-4th MCP**: Flexion </br> **2-4th PIP, DIP**: Extension, Abduction"
+ref-palmar-interossei-hand:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/palmar_interossei_hand.qmd"
+  origin: "**1st**: 2nd metacarpal (ulnar side) </br> **2nd**: 4th metacarpal (radial side) </br> **3rd**: 5th metacarpal (radial side)"
+  insertion: "**1st**: 2nd DDE, 2nd proximal phalanx (base) </br> **2nd**: 4th DDE, 4th proximal phalanx (base) </br> **3rd**: 5th DDE, 5th proximal phalanx (base)"
+  nerve: "[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
+  action: "**2,4,5 MCP**: Flexion </br> **2,4,5 PIP, DIP**: Extension, Adduction"
+
+### Lower Extremity muscles
+### Iliopsoas muscles
+ref-iliopsoas-muscle-group:
+  path: "/"
+ref-iliacus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliacus_muscle.qmd"
+  origin: "Iliac fossa"
+  insertion: "Femur (lesser trochanter)"
+  nerve: "[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}))"
+  action: "**Hip joint**: flexion and external rotation </br> **L/S**: </br> UNIL: contraction (with the femur fixed) flexes the trunk laterally to the same side </br> BIL: Raises the trunk from the supine position"
+ref-psoas-major:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_major_muscle.qmd"
+  origin: "**Superficial**: T12–L4 and associated intervertebral disks (lateral surfaces) </br> **Deep**: L1–L5 vertebrae (TPs)"
+  insertion: "Femur (lesser trochanter)"
+  nerve: "Lumbar plexus Direct Br. ([L1]({{< var ref-nerve-root.l1 >}}), [L2]({{< var ref-nerve-root.l2 >}}), [**L3**]({{< var ref-nerve-root.l3 >}}))"
+  action: "**Hip joint**: Flexion and External rotation </br> **L/S**: </br> *Unilateral contraction (with the femur fixed)* ipsilateral trunk sidebend </br> *Bilateral contraction* raises the trunk from the supine position"
+ref-psoas-minor:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_minor_muscle.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+
+#### Gluteal muscles
+ref-gluteus-maximus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_maximus_muscle.qmd"
+  origin: "Sacrum (dorsal surface, lateral part) <br/> Ilium (gluteal surface, posterior part) <br/> Thoracolumbar fascia <br/> [Sacrotuberous lig.]({{< var ref-sacrotuberous-ligament.path >}})"
+  insertion: "**Upper fibers**: iliotibial tract <br/> **Lower fibers**: gluteal tuberosity "
+  nerve: "[Inferior gluteal nerve]({{< var ref-inferior-gluteal-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**Entire muscle**: Hip extension and ER </br> **Upper fibers**: Hip abduction </br> **Lower fibers**: Hip adduction"
+ref-gluteus-medius:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_medius.qmd"
+  origin: "Ilium (gluteal surface below the iliac crest between the anterior and posterior gluteal line)"
+  insertion: "Greater trochanter of the femur (lateral surface)"
+  nerve: "[Superior gluteal nerve]({{< var ref-superior-gluteal-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), and [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**Entire muscle**: Hip ABD, Pelvic stabilization (coronal plane) </br> **Anterior Fibers**: Hip flexion and Hip IR </br> **Posterior Fibers**: Hip Extension and External rotation"
+ref-gluteus-minimus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_minimus.qmd"
+  origin: "Ilium </br> (gluteal surface below the origin of gluteus medius)"
+  insertion: "Greater trochanter of the femur </br> (anterolateral surface)"
+  nerve: "[Superior gluteal nerve]({{< var ref-superior-gluteal-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), and [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**Entire muscle**: </br> Hip abduction </br> pelvic stabilization (coronal plane) </br> **Anterior fibers**: Hip flexion and IR </br> **Posterior fibers**: Hip Extension and ER"
+ref-tensor-fascia-latae:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/tensor_fascia_latae_TFL.qmd"
+  origin: "ASIS"
+  insertion: "IT Tract"
+  nerve: "[Superior gluteal nerve]({{< var ref-superior-gluteal-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), and [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**Fascia Latae**: Tenses </br> **Hip**: Abduction, Flexion, and IR"
+ref-piriformis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis_muscle.qmd"
+  origin: "Anterior surface of sacrum"
+  insertion: "Apex of the greater trochanter of the femur"
+  nerve: "Direct branches from sacral plexus [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})"
+  action: "*Hip*: External rotation, abduction, and extension of the hip joint </br> Stabilizes the hip joint"
+ref-obturator-internus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/obturator_internus_muscle.qmd"
+  origin: "Inner surface of the obturator membrane and its bony boundaries "
+  insertion: "Medial surface of the greater trochanter"
+  nerve: "Sacral plexus ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: ""
+ref-superior-gemellus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/superior_gemellus_muscle.qmd"
+  origin: "Ischial spine"
+  insertion: "Jointly with obturator internus tendon (medial surface, greater trochanter)"
+  nerve: "Nerve to obturator internus ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) "
+  action: "**Hip** External rotation and extension </br> (also active in abduction, depending on the joint’s position)"
+ref-inferior-gemellus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/inferior_gemellus_muscle.qmd"
+  origin: "Ischial tuberosity"
+  insertion: "Joins obturator internus tendon to medial surface of greater trochanter"
+  nerve: "Nerve to quadratus femoris ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**Hip**: Extension, ER, and Stabilization </br> (*also active in abduction, depending on the joint’s position*)"
+ref-quadratus-femoris:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris_muscle.qmd"
+  origin: "Ischial tuberosity (lateral border)"
+  insertion: "Intertrochanteric crest of the femur"
+  nerve: "Sacral plexus Direct Branches ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**Hip**: External rotation"
+#### Medial Thigh Muscles
+ref-hip-adductor-muscle-group:
+  path: "/"
+  primary: "[Pectineus]({{< var ref-pectineus.path >}}) </br> [Gracilis]({{< var ref-gracilis.path >}}) </br> [Adductor Longus]({{< var ref-adductor-longus.path >}}) </br> [Adductor Brevis]({{< var ref-adductor-brevis.path >}}) </br> [Adductor Magnus]({{< var ref-adductor-magnus.path >}})"
+  secondary: "[Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) (*especially inferior fibers*) </br> [Quadratus Femoris]({{< var ref-quadratus-femoris.path >}}) </br> [Obturator Externus]({{< var ref-obturator-externus.path >}}) </br> [Biceps Femoris Long Head]({{< var ref-biceps-femoris-long-head.path >}})"
+ref-pectineus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus_muscle.qmd"
+  origin: "Pecten Pubis"
+  insertion: "Femur (pectineal line and proximal linea aspera)"
+  nerve: "[Femoral N.]({{< var ref-femoral-nerve.path >}}), ref-obturator-nerve ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}))"
+  action: "**Hip joint**: ER, ADD, slight flex </br> **Pelvis Stabilization:** Coronal and sagittal plane"
+ref-adductor-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_longus.qmd"
+  origin: "Superior pubic ramus </br> Anterior side of the pubic symphysis"
+  insertion: "Femur (linea aspera, medial lip in the middle third of the femur)"
+  nerve: "[Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}}))"
+  action: "**Hip joint**: </br> Adduction and flexion (up to 70&deg;); </br> Extension (past 80&deg; of flexion) </br> </br> **Pelvic Stabilization**: Coronal and Sagittal planes"
+ref-adductor-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_brevis.qmd"
+  origin: "Inferior pubic ramus"
+  insertion: "Femur (linea aspera, medial lip in the middle third of the femur)"
+  nerve: "[Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}))"
+  action: "**Hip joint**: </br> Adduction and flexion (up to 70&deg;); </br> Extension (past 80&deg; of flexion) </br> </br> **Pelvic Stabilization**: Coronal and Sagittal planes"
+ref-gracilis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis_muscle.qmd"
+  origin: "Inferior pubic ramus"
+  insertion: "Pes Anserine of the Tibia (medial border of the tuberosity)"
+  nerve: "[Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}))"
+  action: "**Hip**: Adduction and Flexion </br> **Knee**: Flexion and Internal rotation"
+ref-obturator-externus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/obturator_externus.qmd"
+  origin: "Outer surface of the obturator membrane and its bony boundaries"
+  insertion: "Trochanteric fossa of the femur "
+  nerve: "[Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}}))"
+  action: "**Hip**: adduction and external rotation </br> **Pelvic Stabilization**: Sagittal plane"
+ref-adductor-magnus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.qmd"
+  origin: "Inferior pubic ramus</br> Ischial ramus </br> Ischial tuberosity"
+  insertion: "**Deep part (“fleshy insertion”)**: medial lip of the linea aspera </br> </br>  **Superficial part (“tendinous insertion”)**: Adductor tubercle of the femur"
+  nerve: "**Deep (Adductor) Part**: [Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})) </br> </br> **Superficial (Hamstring) Part**: [Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}))"
+  action: "**Hip**: Adduction, Extension, and slight flexion </br> (*the tendinous insertion is also active in internal rotation*) </br>**Pelvic Stabilization**: Coronal and Sagittal planes"
+
+#### Anterior Thigh
+ref-sartorius:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/sartorius.qmd"
+  origin: "[ASIS]({{< var ref-coxal-bone.asis >}})"
+  insertion: "Medial to the Tibial Tuberosity ([Pes Anserine]({{< var ref-pes-anserine >}}))"
+  nerve: "[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}))"
+  action: "**Hip**: Flexion, ER, ABD </br> **Knee**: Flexion, IR"
+ref-quadriceps-femoris:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/quadriceps_femoris_muscle_group.qmd"
+  tendon: "/"
+ref-rectus-femoris:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/rectus_femoris.qmd"
+  origin: "[Anterior inferior iliac spine (AIIS)]({{< var ref-coxal-bone.aiis >}}) </br> Acetabular roof of hip joint"
+  insertion: "Tibial tuberosity (via patellar lig.)"
+  nerve: "[Femoral nerve]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}}))"
+  action: "**Hip**: Flexion </br> **Knee**: Extension"
+ref-vastus-lateralis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/vastus_lateralis.qmd"
+  origin: "Linea aspera (lateral lip) </br> Greater trochanter (lateral surface)"
+  insertion: "Tibial tuberosity via patellar lig. </br> </br> Patella and tibial tuberosity via Lateral patellar retinacula"
+  nerve: "[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}}))"
+  action: "**Knee**: extension"
+ref-vastus-intermedius:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/vastus_intermedius.qmd"
+  origin: "Femoral shaft (anterior side)"
+  insertion: "Tibial tuberosity (via patellar lig.)"
+  nerve: "[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}}))"
+  action: "**Knee**: Extension"
+ref-vastus-medialis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/vastus_medialis.qmd"
+  origin: "[Linea aspera (medial lip)]({{< var ref-femur-bone.linea-aspera >}}) </br> </br>[Intertrochanteric line (distal part)]({{< var ref-femur-bone.intertrochanteric-line >}})"
+  insertion: "Tibial tuberosity via patellar lig. </br> </br> Patella and tibial tuberosity via medial patellar retinacula"
+  nerve: "[Femoral nerve]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}}))"
+  action: "**Knee**: Extension"
+ref-articularis-genus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/articularis_genus.qmd"
+  origin: "Anterior side of femoral shaft at level of the suprapatellar recess"
+  insertion: "Suprapatellar recess of knee joint capsule"
+  nerve: "[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}}))"
+  action: "**Knee**: Extension </br> </br> **Knee Capsule**: Retracts the suprapatellar bursa to prevent entrapment of capsule"
+
+#### Posterior Thigh Muscles
+ref-hamstrings:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/hamstrings.qmd"
+ref-biceps-femoris-long-head:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.qmd"
+  origin: "Ischial tuberosity </br> Sacrotuberous lig. </br> (*common head with* [*Semitendinosus*]({{< var ref-semitendinosus.path >}}))"
+  insertion: "Head of Fibula"
+  nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**Hip**: Extends the hip </br> **Pelvic Stabilization**: Sagittal plane </br> **Knee**: Flexion and ER"
+ref-biceps-femoris-short-head:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_short_head.qmd"
+  origin: "Lateral lip of the linea aspera in the middle third of the femur"
+  insertion: "Head of Fibula"
+  nerve: "[Common Fibular N.]({{< var ref-common-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**Knee**: Flexion and External rotation"
+ref-semimembranosus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.qmd"
+  origin: "Ischial tuberosity"
+  insertion: "Medial tibial condyle </br> Oblique popliteal lig. </br> Popliteus fascia"
+  nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**Hip**: Extension </br> **Pelvic Stabilization**: Sagittal plane </br> **Knee**: Flexion and Internal rotation"
+ref-semitendinosus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.qmd"
+  origin: "Ischial tuberosity </br> Sacrotuberous lig. </br> (*common head with long head of biceps femoris*)"
+  insertion: "Medial to the tibial tuberosity in the [Pes Anserine]({{< var ref-pes-anserine.path >}}) </br> (*along with the tendons of gracilis and sartorius*)"
+  nerve: "[Tibial N. </br> (*Tibial division of Sciatic N.*)]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**Hip**: Extension </br> **Pelvic Stabilization**: Sagittal plane </br> **Knee**: Flexion and Internal rotation"
+
+### Knee and Ankle Anterior Compartment
+ref-tibialis-anterior:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/tibialis_anterior.qmd"
+  origin: "Tibia (upper 2/3 of the lateral surface) </br> Interosseous membrane </br> Superficial crural fascia (highest part)"
+  insertion: "Medial cuneiform (medial and plantar surface) </br> </br> 1st metatarsal (medial base)"
+  nerve: "[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}))"
+  action: "**Talocrural joint**: Dorsiflexion </br> **Subtalar joint**: inversion (supination)"
+ref-extensor-hallucis-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/extensor_hallucis_longus_EHL.qmd"
+  origin: "Fibula (middle third of the medial surface) </br> IO membrane"
+  insertion: "1st toe (*at the dorsal aponeurosis at the base of its distal phalanx*)"
+  nerve: "[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}))"
+  action: "**TCJ**: DF </br> **STJ**: INV or EV (*depending on initial position of foot*) </br> **1st toe MTP and IP**: Extension"
+ref-extensor-digitorum-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/extensor_digitorum_longus_EDL.qmd"
+  origin: "Tibia (lateral condyle) </br> Fibula (head and medial surface) </br> IO membrane"
+  insertion: "2nd to 5th toes (*at the dorsal aponeuroses at the bases of the distal phalanges*)"
+  nerve: "[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}))"
+  action: "**TCJ**: DF </br> **STJ**: Eversion </br> **MTP & IP 2-5 Toe**: Extension"
+ref-fibularis-tertius:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/fibularis_tertius.qmd"
+  origin: "Distal Fibula (anterior border)"
+  insertion: "Middle shaft or base of 5th MT"
+  nerve: "[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}))"
+  action: "**TCJ**: DF </br> **STJ**: Eversion"
+
+### Knee and Ankle posterior compartment
+ref-gastrocnemius:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd"
+  origin: "**Medial head**: Superior-posterior part of the medial femoral condyle </br> **Lateral Head**: Lateral surface of lateral femoral condyle"
+  insertion: "Calcaneal tuberosity via the Achilles' tendon"
+  nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**TCJ**: Plantarflexion (*when knee is extended*) </br> **Knee**: Flexion"
+ref-soleus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd"
+  origin: "Posterior fibula </br> Posterior Tibia"
+  insertion: "Calcaneal tuberosity via the Achilles' tendon"
+  nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**TCJ**: Plantarflexion </br> **Stabilizes leg** "
+ref-plantaris:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.qmd"
+  origin: "Lateral epicondyle of Femur (proximal to lateral head of gastrocnemius)"
+  insertion: "Calcaneal tuberosity"
+  nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**Knee**: *negligible* flexion </br> **TCJ**: PF </br> **Proprioception**"
+ref-tibialis-posterior:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.qmd"
+  origin: "IO membrane </br> Tibia (*adjacent border*) </br> Fibula (*adjacent border*)"
+  insertion: "Navicular tuberosity </br> Cuneiforms (medial, intermediate, and lateral) </br> MTP 2-4 (bases)"
+  nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}))"
+  action: "**TCJ**: Plantarflexion <br> **STJ**: Inversion (supination) </br> **Longitudinal Arch**: Support </br> **Transverse Arch**: Support"
+  tendonitis: "/The Archive/Pathologies/Joint pathologies/Ankle and Foot/Tendinopathy/tibialis_posterior_tendonitis.qmd"
+ref-flexor-digitorum-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.qmd"
+  origin: "Tibia (middle third of posterior surface)"
+  insertion: "Bases of 2-5 distal phalanges"
+  nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**TCJ**: PF </br> **STJ**: INV </br> **MTP & IP 2-5**: PF"
+ref-flexor-hallucis-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.qmd"
+  origin: "Fibula (posterior distal two thirds) </br> </br> IO membrane (adjacent)"
+  insertion: "1st distal phalanx (base)"
+  nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**TCJ**: PF </br> **STJ**: INV </br> **MTP and IP 1st toe**: PF"
+ref-popliteus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.qmd"
+  origin: "Lateral femoral condyle </br> Lateral Meniscus (post. horn)"
+  insertion: "Posterior tibial surface </br> (*above the origin at the soleus*)"
+  nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**Knee**: flexes and unlocks the knee by externally rotating the femur on the fixed tibia"
+### Knee and ankle lateral compartment
+ref-fibularis-longus:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus_muscle.qmd"
+  origin: "Proximal lateral surface of the fibiula"
+  insertion: "Medial cuneiform </br> Base of 1st MT"
+  nerve: "[Superficial Fibular N.]({{< var ref-superficial-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**TCJ**: PF </br> **STJ**: Eversion </br> **Transverse arch**: Support"
+ref-fibularis-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis_muscle.qmd"
+  origin: "Middle lateral surface of fibula"
+  insertion: "5th metatarsal base"
+  nerve: "[Superficial Fibular N.]({{< var ref-superficial-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**TCJ**: PF </br> **STJ**: Eversion"
+
+### Intrinsic Dorsal foot muscles
+ref-extensor-digitorum-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/extensor_digitorum_brevis.qmd"
+  origin: "Calcaneus (lateral dorsal surface)"
+  insertion: "Bases of middle phalanges of digits 2-4"
+  nerve: "[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**MTP/PIP 2-4**: Extension"
+ref-extensor-hallucis-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/extensor_hallucis_brevis.qmd"
+  origin: "Calcaneus (lateral dorsal surface)"
+  insertion: "Prox. phalanx of 1st toe"
+  nerve: "[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
+  action: "**1st MTP**: Extension"
+### Superficial intrinsic muscles of the sole of the foot
+ref-abductor-hallucis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_hallucis.qmd"
+  origin: "Medial calcaneal tuberosity </br> Plantar aponeurosis </br> Flexor retinaculum"
+  insertion: "Medial proximal phalanx of 1st toe"
+  nerve: "[Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**1st MTP**: flexion, abd of first toe </br> **Longitudinal Arch**: Support"
+ref-flexor-digitorum-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digitorum_brevis.qmd"
+  origin: "Medial tubercle of calcaneal tuberosity </br> Plantar aponeurosis"
+  insertion: "Sides of middle phalanges #2-5"
+  nerve: "[Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**MTP and PIP 2-5**: Flexion </br> **Longitudinal Arch**: Support"
+ref-abductor-digiti-minimi-foot:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.qmd"
+  origin: "Medial tubercle of calcaneal tuberosity </br> Plantar aponeurosis"
+  insertion: "5th toe (Base of proximal phalanx) </br> 5th metatarsal at tuberosity"
+  nerve: "[Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
+  action: "**5th MTP**: Flexion, ABD <br> **Longitudinal Arch**: Support"
+### Deep intrinsic muscles of the sole of the foot
+ref-quadratus-plantae:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/quadratus_plantae.qmd"
+  origin: "Medial and Plantar borders of calcaneal tuberosity"
+  insertion: "Lateral border of tendons of [FDL]({{< var ref-flexor-digitorum-longus.path >}})"
+  nerve: "[Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
+  action: "Redirects/augments pull of [FDL]({{< var ref-flexor-digitorum-longus.path >}})"
+ref-foot-lumbricals:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.qmd"
+  origin: "Medial borders of tendons of [FDL]({{< var ref-flexor-digitorum-longus.path >}})"
+  insertion: "Dorsal aponeurosis of toes 2-5"
+  nerve: "**1st lumbrical (2nd toe)**: [Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) </br> </br> **2-4 Lumbricals (3rd-5th toes)**: [Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
+  action: "**MTP 2-5**: Flexion </br> **IP 2-5**: Extension </br> **Toes 2-5**: Adducts toes 2-5 towards big toe"
+ref-flexor-hallucis-brevis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_hallucis_brevis.qmd"
+  origin: "Cuboid </br> Lateral cuneiform </br> Plantar calcaneocuboid lig"
+  insertion: "Base of proximal phalanx 1st toe </br> (*via med and lateral sesamoids*)"
+  nerve: "**Medial head**: [Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) </br> </br> **Lateral head**: [Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
+  action: "**1st MTP**: Flexion </br> **Longitudinal arch**: Support"
+ref-adductor-hallucis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.qmd"
+  origin: "**Oblique head**: </br> Base of 2-4th metatarsals </br> Cuboid </br> Lateral cuneiform </br> </br> **Transverse head**: </br> MTP joints of toes 3-5 </br> Deep transverse lig."
+  insertion: "Base of prox phalanx of 1st toe"
+  nerve: "[Lateral Plantar N. (*deep branch*)]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
+  action: "**1st MTP**: Flexion </br> **1st Toe**: Adduction </br> **Transverse head**: supports transverse arch </br> **Oblique head**: Supports longitudinal arch"
+ref-flexor-digiti-minimi-brevis-foot:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis_foot.qmd"
+  origin: "Base of 5th MT </br> Long plantar lig"
+  insertion: "Base of proximal phalanx of 5th toe"
+  nerve: "[Lateral Plantar N. (*superficial branch*)]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
+  action: "**5th MTP**: Flexion"
+ref-opponens-digiti-minimi-foot:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi_foot.qmd"
+  origin: "Long plantar lig </br> Plantar tendon sheath of [Fibularis Longus]({{< var ref-fibularis-longus.path >}})"
+  insertion: "5th MT"
+  nerve: "[Lateral Plantar N. (*superficial branch*)]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
+  action: "Pulls 5th metatarsal in plantar and medial direction"
+ref-plantar-interossei-foot:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.qmd"
+  origin: "Medial border 3-5 MTs"
+  insertion: "Medial base of proximal phalanx of 3-5th toe"
+  nerve: "[Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}))"
+  action: "**MTP 3-5**: Flexion </br> **IP 3-5**: Extension </br> **Toe 3-5**: Adduction to 2nd toe"
+ref-dorsal-interossei-foot:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.qmd"
+  origin: "1st-5th metatarsals </br> (*two heads on opposing sides*)"
+  insertion: "**1st interosseous**: </br> 2nd proximal phalanx (medial base) </br> </br> **2-4th interosseous**: </br> 2-4 proximal phalanges (*lateral base*) </br> 2-4 toes at dorsal aponeurosis"
+  nerve: "[Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) "
+  action: "**MTP 2-4**: Flexion </br> **IP 2-4**: Extension </br> **Toes 3-4**: Abduction from 2nd toe"
+
+## Nerve root
+ref-nerve-root:
+  path: "/"
+  c1: "/The Archive/Anatomy/Nerve Roots/c1_nerve_root.qmd"
+  c2: "/The Archive/Anatomy/Nerve Roots/c2_nerve_root.qmd"
+  c3: "/The Archive/Anatomy/Nerve Roots/c3_nerve_root.qmd"
+  c4: "/The Archive/Anatomy/Nerve Roots/c4_nerve_root.qmd"
+  c5: "/The Archive/Anatomy/Nerve Roots/c5_nerve_root.qmd"
+  c6: "/The Archive/Anatomy/Nerve Roots/c6_nerve_root.qmd"
+  c7: "/The Archive/Anatomy/Nerve Roots/c7_nerve_root.qmd"
+  c8: "/The Archive/Anatomy/Nerve Roots/c8_nerve_root.qmd"
+  t1: "/The Archive/Anatomy/Nerve Roots/t1_nerve_root.qmd"
+  t2: "/The Archive/Anatomy/Nerve Roots/t2_nerve_root.qmd"
+  t3: "/The Archive/Anatomy/Nerve Roots/t3_nerve_root.qmd"
+  t4: "/The Archive/Anatomy/Nerve Roots/t4_nerve_root.qmd"
+  t5: "/The Archive/Anatomy/Nerve Roots/t5_nerve_root.qmd"
+  t6: "/The Archive/Anatomy/Nerve Roots/t6_nerve_root.qmd"
+  t7: "/The Archive/Anatomy/Nerve Roots/t7_nerve_root.qmd"
+  t8: "/The Archive/Anatomy/Nerve Roots/t8_nerve_root.qmd"
+  t9: "/The Archive/Anatomy/Nerve Roots/t9_nerve_root.qmd"
+  t10: "/The Archive/Anatomy/Nerve Roots/t10_nerve_root.qmd"
+  t11: "/The Archive/Anatomy/Nerve Roots/t11_nerve_root.qmd"
+  t12: "/The Archive/Anatomy/Nerve Roots/t12_nerve_root.qmd"
+  l1: "/The Archive/Anatomy/Nerve Roots/L1_nerve_root.qmd"
+  l2: "/The Archive/Anatomy/Nerve Roots/L2_nerve_root.qmd"
+  l3: "/The Archive/Anatomy/Nerve Roots/L3_nerve_root.qmd"
+  l4: "/The Archive/Anatomy/Nerve Roots/L4_nerve_root.qmd"
+  l5: "/The Archive/Anatomy/Nerve Roots/L5_nerve_root.qmd"
+  s1: "/The Archive/Anatomy/Nerve Roots/S1_nerve_root.qmd"
+  s2: "/The Archive/Anatomy/Nerve Roots/S2_nerve_root.qmd"
+  s3: "/The Archive/Anatomy/Nerve Roots/S3_nerve_root.qmd"
+  s4: "/The Archive/Anatomy/Nerve Roots/S4_nerve_root.qmd"
+  s5: "/The Archive/Anatomy/Nerve Roots/S5_nerve_root.qmd"
+## Nerve
+ref-nerve-index:
+  path: "/The Archive/Anatomy/Nerves/nerve_index.qmd"
+
+ref-suboccipital-nerve: 
+  path: /The Archive/Anatomy/Nerves/suboccipital_nerve.qmd
+
+ref-spinal-nerves: 
+  path: /The Archive/Anatomy/Nerves/spinal_nerves.qmd
+
+### Upper extremity nerve
+ref-brachial-plexus:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/Brachial Plexus/brachial_plexus.qmd"
+  superior-trunk: "/The Archive/Anatomy/Nerves/Upper extremity nerves/Brachial Plexus/superior_trunk_nerve.qmd"
+  middle-trunk: "/The Archive/Anatomy/Nerves/Upper extremity nerves/Brachial Plexus/middle_trunk_nerve.qmd"
+  inferior-trunk: "/The Archive/Anatomy/Nerves/Upper extremity nerves/Brachial Plexus/inferior_trunk_nerve.qmd"
+  anterior-division-of-superior-trunk: "/"
+  posterior-division-of-superior-trunk: "/"
+  anterior-division-of-middle-trunk: "/"
+  posterior-division-of-middle-trunk: "/"
+  anterior-division-of-inferior-trunk: "/"
+  posterior-division-of-inferior-trunk: "/"
+  lateral-cord: "/"
+  posterior-cord: "/"
+  medial-cord: "/"
+#### Supraclavicular part
+ref-dorsal-scapular-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/dorsal_scapular_nerve.qmd"
+  roots: "[C4]({{< var ref-nerve-root.c4 >}}),[C5]({{< var ref-nerve-root.c5 >}})"
+  motor: ""
+  cutaneous: ""
+ref-suprascapular-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/suprascapular_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
+  motor: ""
+  cutaneous: ""
+ref-nerve-to-subclavius:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/nerve_to_subclavius.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
+  motor: ""
+  cutaneous: ""
+ref-long-thoracic-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/long_thoracic_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})"
+  motor: ""
+  cutaneous: ""
+#### Infraclavicular part
+ref-lateral-pectoral-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/lateral_pectoral_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})"
+  motor: ""
+  cutaneous: ""
+ref-musculocutaneous-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/musculocutaneous_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})"
+  motor: ""
+  cutaneous: ""
+ref-median-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/median_nerve.qmd"
+  roots: "[C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
+  motor: ""
+  cutaneous: ""
+ref-recurrent-branch-of-median-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/median_nerve.qmd"
+ref-anterior-interosseous-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/median_nerve.qmd"
+  roots: ""
+  motor: ""
+  cutaneous: ""
+ref-medial-pectoral-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/medial_pectoral_nerve.qmd"
+  roots: "[C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
+  motor: ""
+  cutaneous: ""
+ref-medial-antebrachial-cutaneous-nerve:
+  path: "/"
+  roots: "[C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
+  motor: ""
+  cutaneous: ""
+ref-medial-brachial-cutaneous-nerve:
+  path: "/"
+  roots: "[T1]({{< var ref-nerve-root.t1 >}})"
+  motor: ""
+  cutaneous: ""
+ref-ulnar-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/ulnar_nerve.qmd"
+  roots: "[C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
+  motor: ""
+  cutaneous: ""
+ref-deep-branch-of-ulnar-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/ulnar_nerve.qmd"
+ref-upper-subscapular-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/upper_subscapular_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
+  motor: ""
+  cutaneous: ""
+ref-middle-subscapular-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/thoracodorsal_nerve.qmd"
+ref-thoracodorsal-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/thoracodorsal_nerve.qmd"
+  roots: "[C6]({{< var ref-nerve-root.c6 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), & [C8]({{< var ref-nerve-root.c8 >}})"
+  motor: ""
+  cutaneous: ""
+ref-lower-subscapular-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/lower_subscapular_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
+  motor: ""
+  cutaneous: ""
+ref-subscapular-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/subscapular_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
+ref-radial-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/radial_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
+  motor: ""
+  cutaneous: ""
+ref-posterior-interosseous-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/radial_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
+  motor: ""
+  cutaneous: ""
+ref-axillary-nerve:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/axillary_nerve.qmd"
+  roots: "[C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})"
+  motor: ""
+  cutaneous: ""
+
+### Lower Extremity Nerve
+ref-lumbosacral-plexus:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/lumbosacral_plexus.qmd"
+#### Lumbar Plexus
+ref-lumbar-plexus:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/lumbar_plexus.qmd"
+ref-femoral-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/femoral_nerve.qmd"
+  roots: "[L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})"
+  motor: ""
+  cutaneous: ""
+ref-genitofemoral-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/genitofemoral_nerve.qmd"
+  roots: "[L1]({{< var ref-nerve-root.l1 >}}), [L2]({{< var ref-nerve-root.l2 >}})"
+  motor: ""
+  cutaneous: ""
+ref-iliohypogastric-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/iliohypograstric_nerve.qmd"
+  roots: "[L1]({{< var ref-nerve-root.l1 >}})"
+  motor: ""
+  cutaneous: ""
+ref-ilioinguinal-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/ilioinguinal_nerve.qmd"
+  roots: "[L1]({{< var ref-nerve-root.l1 >}})"
+  motor: ""
+  cutaneous: ""
+ref-lateral-cutaneous-nerve-of-thigh:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/lateral_cutaneous_nerve_of_the_thigh.qmd"
+  roots: "[L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}})"
+  motor: ""
+  cutaneous: ""
+ref-obturator-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/obturator_nerve.qmd"
+  roots: "[L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})"
+  motor: ""
+  cutaneous: ""
+#### Sacral Plexus
+ref-sacral-plexus:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/sacral_plexus.qmd"
+ref-superior-gluteal-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/superior_gluteal_nerve.qmd"
+  roots: "[L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})"
+  motor: "[Gluteus Medius]({{< var ref-gluteus-medius.path >}}) </br> [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) </br> [Tensor Fascia Latae (TFL)]({{< var ref-tensor-fascia-latae.path >}})"
+  cutaneous: "None"
+ref-inferior-gluteal-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/inferior_gluteal_nerve.qmd"
+  roots: "[L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})"
+  motor: "[Gluteus Maximus]({{< var ref-gluteus-maximus.path >}})"
+  cutaneous: ""
+ref-posterior-cutaneous-nerve-of-the-thigh:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/posterior_cutaneous_nerve_of_the_thigh.qmd"
+  roots: ""
+  motor: ""
+  cutaneous: ""
+ref-pudendal-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/pudendal_nerve.qmd"
+  roots: "[S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}), [S4]({{< var ref-nerve-root.s4 >}})"
+  motor: ""
+  cutaneous: ""
+ref-sciatic-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/sciatic_nerve.qmd"
+  roots: ""
+  motor: ""
+  cutaneous: ""
+ref-common-fibular-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/common_fibular_nerve.qmd"
+  roots: "[L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})"
+  motor: ""
+  cutaneous: ""
+ref-tibial-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/tibial_nerve.qmd"
+  roots: "[L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})"
+  motor: ""
+  cutaneous: ""
+ref-superficial-fibular-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/Common Fibular Nerve Branches/superficial_fibular_nerve.qmd"
+  roots: ""
+  motor: ""
+  cutaneous: ""
+ref-deep-fibular-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/Common Fibular Nerve Branches/deep_fibular_nerve.qmd"
+  roots: ""
+  motor: ""
+  cutaneous: "Cleft between the 1st and 2nd toe"
+ref-lateral-plantar-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/Tibial Nerve Branches/lateral_plantar_nerve.qmd"
+  roots: ""
+  motor: ""
+  cutaneous: ""
+ref-medial-plantar-nerve:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/Tibial Nerve Branches/medial_plantar_nerve.qmd"
+  roots: ""
+  motor: ""
+  cutaneous: ""
+
+
+
+## Ligaments
+
+ref-nuchal-ligament:
+  path: "/The Archive/Anatomy/Ligaments/nuchal_ligament.qmd"
+
+### LE Ligaments
+#### Ankle ligaments
+ref-anterior-talofibular-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Ankle Ligaments/Lateral ligaments/anterior_talofibular_ligament_ATFL.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-posterior-talofibular-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Ankle Ligaments/Lateral ligaments/posterior_talofibular_ligament_PTFL.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+ref-calcaneofibular-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Ankle Ligaments/Lateral ligaments/calcaneofibular_ligament_CFL.qmd"
+  origin: ""
+  insertion: ""
+  nerve: ""
+  action: ""
+
+## Veins
+### Upper extremity
+ref-subclavian-vein:
+  path: "/The Archive/Anatomy/Veins/Upper Extremity/subclavian_vein.qmd"
+
+# Cardiac System
+## Cardiac Evaluation
+ref-cardiac-evaluation:
+  path: "/The Archive/Examination/Acute Evaluation/Cardiac evaluation/cardiac_evaluation.qmd"
+ref-echocardiogram:
+  path: "/The Archive/Cardiac System/Cardiac evaluation/echocardiogram.qmd"
+  transesophageal: "/The Archive/Cardiac System/Cardiac evaluation/Transesophageal_echocardiogram.qmd"
+  transthoracic: "/The Archive/Cardiac System/Cardiac evaluation/echocardiogram.qmd#transthoracic"
+ref-electrocardiogram:
+  path: "/The Archive/Examination/Acute Evaluation/Cardiac evaluation/electrocardiogram_EKG.qmd"
+ref-heart-sounds:
+  path: "/The Archive/Examination/Acute Evaluation/Cardiac evaluation/heart_sounds.qmd"
+## Cardiac Interventions
+ref-cardiac-dysfunction-management:
+  path: "/The Archive/Cardiac System/Cardiac Interventions/Internal Medicine Interventions/cardiac_dysfunction_management.qmd"
+
+# Chemistry
+# Biochemistry
+## Carbohydrate
+ref-carbohydrate:
+  path: "/The Archive/Chemistry/Biochemistry/Carbohydrates/carbohydrates.qmd"
+  metabolism: "/The Archive/Physiology/Metabolism/Carbohydrate Metabolism/carbohydrate_metabolism.qmd"
+## Vitamins
+ref-vitamin-e:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/vitamin_e.qmd"
+  deficiency: "/The Archive/Pathophysiology/Metabolic Pathophysiology/vitamin_E_deficiency.qmd"
+## Nutrients
+ref-coenzyme-q10:
+  path: "/The Archive/Physiology/Nutrients/coenzyme_Q10.qmd"
+ref-choline:
+  path: "/The Archive/Chemistry/Biochemistry/Nutrients/choline.qmd"
+ref-coenzyme-q10:
+  path: "/The Archive/Chemistry/Biochemistry/Nutrients/coenzyme_Q10.qmd"
+ref-phosphatidylserine:
+  path: "/The Archive/Chemistry/Biochemistry/Nutrients/phosphatidylserine.qmd"
+## Enzymes
+ref-enzyme:
+  path: "/The Archive/Chemistry/Biochemistry/Enzymes/enzyme.qmd"
+ref-creatine-kinase:
+  path: "/The Archive/Chemistry/Biochemistry/Enzymes/Creatine Kinase/creatine_kinase.qmd"
+  mb:
+    path: "/The Archive/Chemistry/Biochemistry/Enzymes/Creatine Kinase/creatine_kinase.qmd#creatine-kinase-mb"
+ref-superoxide-dismutases-group: 
+  path: "/The Archive/Chemistry/Biochemistry/Enzymes/superoxide_dismutases_group.qmd"
+ref-CuZnSOD-copper-zinc-superoxide-dismutase:
+  path: "/The Archive/Chemistry/Biochemistry/Enzymes/CuZnSOD_copper-zinc_superoxide_dismutase.qmd"
+ref-diamine-oxidase:
+  path: "/The Archive/Chemistry/Biochemistry/Enzymes/diamine_oxidase.qmd"
+## Lipids
+ref-lipid:
+  path: "/The Archive/Chemistry/Biochemistry/Lipids/lipid.qmd"
+  metabolism: "/The Archive/Physiology/Metabolism/Lipid Metabolism/lipid_metabolism.qmd"
+## Minerals
+ref-copper: 
+  path: "/The Archive/Chemistry/Biochemistry/Minerals/copper.qmd"
+ref-iron:
+  path: "/The Archive/Chemistry/Biochemistry/Minerals/iron.qmd"
+## Proteins
+ref-protein:
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/protein.qmd"
+ref-von-willebrand-factor:
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/Von_Willebrand_factor.qmd"
+ref-vascular-endothelial-growth-factor:
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/vascular_endothelial_growth_factor.qmd"
+ref-nestin-protein:
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/nestin_protein.qmd"
+ref-c-reactive-protein:
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/C-reactive_protein.qmd"
+  serum:
+    path: "/The Archive/Chemistry/Biochemistry/Proteins/C-reactive_protein.qmd#serum-CRP"
+    sensitivity: ""
+    specificity: ""
+ref-troponin:
+  overview:
+    path: "/The Archive/Chemistry/Biochemistry/Proteins/Troponin/troponin_overview.qmd"
+  ctnt:
+    path: "/The Archive/Chemistry/Biochemistry/Proteins/Troponin/cardiac_troponin_T_cTnT.qmd"
+  ctni:
+    path: "/The Archive/Chemistry/Biochemistry/Proteins/Troponin/cardiac_troponin_I_cTnI.qmd"
+## Polysaccharides
+ref-glycosaminoglycans:
+  path: "/The Archive/Chemistry/Biochemistry/Polysaccharide/glycosaminogylcans_GAGs.qmd"
+## Non-proteins
+ref-creatine:
+  path: "/The Archive/Chemistry/Biochemistry/Non-proteins/creatine.qmd"
+ref-adenosine-triphosphate:
+  path: "/The Archive/Chemistry/Biochemistry/Non-proteins/ATP_adenosine_triphosphate.qmd"
+ref-adenosine-diphosphate:
+  path: "/The Archive/Chemistry/Biochemistry/Non-proteins/ADP_adenosine_diphosphate.qmd"
+ref-phosphocreatine:
+  path: "/The Archive/Chemistry/Biochemistry/Non-proteins/PCr_phosphocreatine.qmd"
+## Neurotransmitters
+ref-glutamate:
+  path: "/The Archive/Chemistry/Biochemistry/Neurotransmitters/glutamate.qmd"
+
+## Neutrophic factors
+ref-neurotrophic-hormone-deficiency-theory: 
+  path: "/The Archive/Chemistry/Biochemistry/Neutrotrophic Factors/neurotrophic-hormone-deficiency-theory.qmd"
+
+# Organic Chemistry
+ref-organic-chemistry:
+  path: "/"
+  index: "/The Archive/Chemistry/Organic Chemistry/organic_chemistry_index.qmd"
+
+# Endocrinology
+## Hormones
+ref-testosterone:
+  path: "/The Archive/Endocrinology/Hormones/testosterone.qmd"
+ref-estrogen:
+  path: "/The Archive/Endocrinology/Hormones/estrogen.qmd"
+
+# Evidence Based Practice (EBP)
+ref-EBP-index:
+  path: "/The Archive/Evidene Based Practice/EBP_index.qmd"
+ref-article-search-guide:
+  path: "/The Archive/Evidene Based Practice/article_search_guide.qmd"
+## EBP Terms
+ref-association-statistics:
+  path: "/The Archive/Evidene Based Practice/Association/association_statistics.qmd"
+ref-odds-ratio:
+  path: "/The Archive/Evidene Based Practice/Association/Probability and Risk/odds_ratio.qmd"
+ref-relative-risk:
+  path: "/The Archive/Evidene Based Practice/Association/Probability and Risk/relative_risk.qmd"
+ref-beta-coefficient-logistic-regression: 
+  path: "/The Archive/Evidene Based Practice/Association/Probability and Risk/beta_coefficient_of_logistic_regression.qmd"
+## Psychometrics
+ref-psychometric:
+  path: "/"
+  sensitivity: "/The Archive/Evidene Based Practice/Psychometrics/sensitivity.qmd"
+  specificity: "/The Archive/Evidene Based Practice/Psychometrics/specificity.qmd"
+  likelihood-ratio:
+    path: "/"
+    positive: "/"
+    negative: "/"
+  predictive-value:
+    path: "/The Archive/Evidene Based Practice/Psychometrics/predictive_value.qmd"
+    positive: "/The Archive/Evidene Based Practice/Psychometrics/predictive_value.qmd"
+    negative: "/The Archive/Evidene Based Practice/Psychometrics/predictive_value.qmd"
+## Reliability
+ref-reliability:
+  path: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd"
+  scoring: "/The Archive/Evidene Based Practice/Reliability/reliability.qmd#scoring"
+  intrarater: "/The Archive/Evidene Based Practice/Reliability/intra-rater_reliability.qmd"
+  test-retest: "/The Archive/Evidene Based Practice/Reliability/test-retest_reliability.qmd"
+  internal-consistency: "/The Archive/Evidene Based Practice/Reliability/internal_consistency.qmd"
+  percent-agreement: "/The Archive/Evidene Based Practice/Reliability/Reliability Tests/percent_agreement.qmd"
+  kappa-coefficient: "/The Archive/Evidene Based Practice/Reliability/Reliability Tests/kappa_coefficient.qmd"
+  krippendorffs-alpha: "/The Archive/Evidene Based Practice/Reliability/Reliability Tests/krippendorffs_alpha.qmd"
+  cronbachs-alpha: "/The Archive/Evidene Based Practice/Reliability/Reliability Tests/cronbachs_alpha.qmd"
+  icc: "/The Archive/Evidene Based Practice/Reliability/Reliability Tests/intra-class_correlation_coefficient.qmd"
+  bland-altman-plot: "/The Archive/Evidene Based Practice/Reliability/Reliability Tests/Bland-Altman_plot.qmd"
+
+ref-inter-rater:
+  path: "/"
+  reliability: "/The Archive/Evidene Based Practice/Reliability/inter-rater_reliability.qmd"
+  agreement: "/The Archive/Evidene Based Practice/Reliability/inter-rater_agreement.qmd"
+## Validity
+ref-validity:
+  path: "/The Archive/Evidene Based Practice/Validity/validity.qmd"
+  internal: "/The Archive/Evidene Based Practice/Validity/internal_validity.qmd"
+  face: "/The Archive/Evidene Based Practice/Validity/face_validity.qmd"
+  content: "/The Archive/Evidene Based Practice/Validity/content_validity.qmd"
+  concurrent: "/The Archive/Evidene Based Practice/Validity/concurrent_validity.qmd"
+  criterion-related: "/The Archive/Evidene Based Practice/Validity/criterion-related_validity.qmd"
+  predictive: "/The Archive/Evidene Based Practice/Validity/predictive_validity.qmd"
+  prescriptive: "/The Archive/Evidene Based Practice/Validity/prescriptive_validity.qmd"
+  threat:
+    path: "/The Archive/Evidene Based Practice/Validity/internal_validity.qmd#threat"
+    ambiguous-causation: "/The Archive/Evidene Based Practice/Validity/Threats to internal validity/ambiguous_causation.qmd"
+    
+## Variability
+ref-grand-mean:
+  path: "/The Archive/Evidene Based Practice/Variability/grand_mean.qmd"
+ref-weighted-mean:
+  path: "/The Archive/Evidene Based Practice/Variability/weighted_mean.qmd"
+ref-variation-percentage:
+  path: "/The Archive/Evidene Based Practice/Variability/variation_percentage.qmd"
+### ANOVA
+
+
+## Error
+ref-error:
+  path: "/The Archive/Evidene Based Practice/Error/error.qmd"
+  systematic: 
+    path: "/The Archive/Evidene Based Practice/Error/error.qmd#systematic"
+    attrition-effect: "/The Archive/Evidene Based Practice/Error/Systematic Error/attrition_effects.qmd"
+    maturation-bias: "/The Archive/Evidene Based Practice/Validity/Threats to internal validity/maturation_bias.qmd"
+    testing-effect: "/The Archive/Evidene Based Practice/Error/Systematic Error/testing_effect.qmd"
+  random: 
+    path: "/The Archive/Evidene Based Practice/Error/error.qmd#random"
+    family-wise: "/The Archive/Evidene Based Practice/Error/Random Error/family-wise_error_rate.qmd"
+  correction:
+    bonferroni: "/The Archive/Evidene Based Practice/Error/Error Correction/Bonferroni_correction.qmd"
+
+
+## Bias
+ref-bias:
+  path: "/The Archive/Evidene Based Practice/Bias/bias.qmd"
+ref-study-effect:
+  attrition: "/"
+  testing: "/"
+  selection: "/"
+  rtm: "/"
+## Measurement Theory
+ref-measurement-theory:
+  path: "/The Archive/Evidene Based Practice/Measurement Theory/measurement_theory.qmd"
+## Multivariate Data analysis
+### Terms
+ref-homoscedasticity:
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Terms/homoscedasticity.qmd"
+### Correlation
+ref-comparison-correlation-analysis:
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/comparison_of_correlation_statistical_analysis.qmd"
+ref-correlation-overview:
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/correlation_overview.qmd"
+ref-linear-correlation:
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/linear_correlation.qmd"
+ref-pearson-product-moment-correlation:
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/pearson_product-moment_correlation.qmd"
+ref-spearman-rank-coefficient:
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/spearman_rank_coefficient.qmd"
+ref-correlation-coefficient:
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Correlation/correlation_coefficient.qmd"
+### Tests of independence
+ref-t-test:
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Tests of independence/T-test.qmd"
+ref-chi-square-test:
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Tests of independence/chi-square-test.qmd"
+ref-statistical-analysis-overview:
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/statistical_analysis_overview.qmd"
+ref-mann-whitney-u-test:
+  path: "/The Archive/Evidene Based Practice/Multivariate Data Analysis/Mann-Whitney_U_test.qmd"
+## Statistical Significance
+ref-statistical-significance:
+  path: "/"
+ref-effect-size:
+  path: "/The Archive/Evidene Based Practice/Statistical Significance/effect_size.qmd"
+ref-decision-error:
+  path: "/The Archive/Evidene Based Practice/Statistical Significance/Decision Errors/decision_errors.qmd"
+  type1: "/The Archive/Evidene Based Practice/Statistical Significance/Decision Errors/decision_errors.qmd#type1"
+  type2: "/The Archive/Evidene Based Practice/Statistical Significance/Decision Errors/decision_errors.qmd#type2"
+ref-statistical-power:
+  path: "/The Archive/Evidene Based Practice/Statistical Significance/statistical_power.qmd"
+  analysis: "/The Archive/Evidene Based Practice/Statistical Significance/statistical_power.qmd#power-analysis"
+
+# Examination
+## Acute Care Evaluation
+
+### Pulmonary Evaluation
+ref-lung-sounds:
+  path: "/The Archive/Pulmonary system/Pulmonary evaluation/lung_sounds.qmd"
+
+## Pediatric Evaluation
+ref-creeping:
+  path: "/The Archive/Examination/Pediatric Evaluation/creeping_transportation.qmd"
+ref-crawling:
+  path: "/The Archive/Examination/Pediatric Evaluation/crawling_transportation.qmd"
+ref-standing-pediatric:
+  path: "/The Archive/Examination/Pediatric Evaluation/standing_pediatric.qmd"
+ref-cruising-pediatric:
+  path: "/The Archive/Examination/Pediatric Evaluation/cruising_pediatric.qmd"
+
+ref-heel-up-sign:
+  path: "/The Archive/Examination/Pediatric Evaluation/Signs/heel-up_sign.qmd"
+
+## Movement Analysis
+
+### Functions
+ref-swallowing:
+  path: "/The Archive/Examination/Movement Analysis/Functions/swallowing_function.qmd"
+ref-speech:
+  path: "/The Archive/Examination/Movement Analysis/Functions/speech_function.qmd"
+ref-mastication:
+  path: "/The Archive/Examination/Movement Analysis/Functions/mastication.qmd"
+
+### Balance
+ref-balance-strategies:
+  path: "/The Archive/Examination/Movement Analysis/Balance/balance_strategies.qmd"
+ref-ankle-balance-strategy:
+  path: "/The Archive/Examination/Movement Analysis/Balance/balance_strategies.qmd"
+ref-hip-balance-strategy:
+  path: "/The Archive/Examination/Movement Analysis/Balance/balance_strategies.qmd"
+
+## Tests and measures
+ref-tinels-test:
+  path: "/The Archive/Examination/Tests and Measures/Tinels_test.qmd"
+  brachial-plexus: "/The Archive/Examination/Tests and Measures/Tinels_test.qmd#brachial-plexus"
+  carpal-tunnel: "/The Archive/Examination/Tests and Measures/Tinels_test.qmd#carpal-tunnel"
+
+## Strength tests
+
+ref-hoovers-sign:
+  path: "/The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/hoovers_sign.qmd"
+
+### Head and neck tests
+ref-canadian-cervical-spine-rules:
+  path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/canadian_cervical_spine_rules.qmd"
+ref-VBI-vertebrobasilar-insufficiency-test:
+  path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/VBI_vertebrobasilar_insufficiency_test.qmd"
+  sensitivity: ""
+  specificity: ""
+ref-sharp-purser-test:
+  path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/Sharp-Purser_test.qmd"
+ref-alar-ligament-test:
+  path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/alar_ligament_test.qmd"
+ref-spurlings-test:
+  path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/Spurlings_test.qmd"
+ref-cervical-distraction-test:
+  path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/cervical_distraction_test.qmd"
+  specificity: "High"
+  sensitivity: "Low"
+ref-cervical-relocation-test:
+  path: "/The Archive/Examination/Tests and Measures/Head and Neck Tests/CRT_cervical_relocation_test.qmd"
+  intrarater-reliability: "Good"
+  interrater-reliability: "Variable"
+  specificity: ""
+  sensitivity: ""
+
+
+### Upper Extremity tests
+ref-brachial-plexus-stretch-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/stretch_test_brachial_plexus.qmd"
+ref-cervical-rotation-lateral-flexion-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/cervical_rotation_lateral_flexion_test.qmd"
+  interrater-reliability: "Excellent"
+ref-tos-adsons-vascular-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/Adsons_vascular_test.qmd"
+ref-tos-costoclavicular-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_costoclavicular_test.qmd"
+ref-tos-roos-stress-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_roos_stress_test.qmd"
+ref-tos-wright-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_wright_test.qmd"
+ref-tos-passive-shoulder-shrug-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_passive_shoulder_shrug_test.qmd"
+ref-tos-cyriax-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/cyriax_test.qmd"
+ref-tos-allen-maneuver:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_allen_maneuver.qmd"
+#### ULTT
+ref-ultt:
+  overview: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT_upper_limb_tension_test.qmd"
+  ultt1:
+    path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT1.qmd"
+  ultt2a:
+    path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT2a.qmd"
+  ultt2b:
+    path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT2b.qmd"
+  ultt3:
+    path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT3.qmd"
+
+ref-infraspinatus-muscle-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/infraspinatus_muscle_test.qmd"
+ref-ERLS-external-rotation-lag-sign:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/ERLS_external_rotation_lag_sign_test.qmd"
+ref-neer-impingement-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/neer_impingement_test.qmd"
+ref-hawkins-kennedy-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/hawkins-kennedy_test.qmd"
+
+### Lower extremity tests
+ref-fulcrum-test-stress-fracture:
+  path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/fulcrum_test_stress_fracture.qmd"
+ref-straight-leg-raise-test:
+  path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/straight_leg_raise_test.qmd"
+
+### Foot and ankle tests
+ref-navicular-drop-test:
+  path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Ankle and Foot Tests/navicular_drop_test.qmd"
+
+### Hip T&M
+ref-external-derotation-test:
+  path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/External_Derotation_Test.qmd"
+ref-craigs-test:
+  path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/Craigs_test.qmd"
+
+
+# genetics & Genomics
+ref-sod1: 
+  path: "/The Archive/Genetics and genomics/SOD1_superoxide_dismutase_1.qmd"
+## Chromosomes
+ref-chromosome-21:
+  path: "/The Archive/Genetics and genomics/Chromosomes/chromosome_21.qmd"
+
+# Histology
+ref-fibrocartilage:
+  path: "/The Archive/Histology/fibrocartilage.qmd"
+ref-type-1-collagen:
+  path: "/The Archive/Histology/type_1_collagen.qmd"
+
+# histology bone
+
+ref-compact-bone:
+  path: "/The Archive/Histology/Bone/compact_bone.qmd"
+ref-cancellous-bone:
+  path: "/The Archive/Histology/Bone/cancellous_bone.qmd"
+
+# Interventions
+ref-interventions-index:
+  path: "/The Archive/Interventions/interventions_index.qmd"
+
+ref-intervention:
+  path: "/"
+  high-stepping: "/The Archive/Systems/Locomotion/Locomotion interventions/high-stepping_locomotion_intervention.qmd"
+
+## PNF
+ref-proprioceptive-neuromuscular-facilitation:
+  path: "/The Archive/Interventions/PNF/proprioceptive_neuromuscular_facilitation.qmd"
+  chop: "/The Archive/Interventions/PNF/Exercises/chop_PNF.qmd"
+  reverse-chop: "/The Archive/Interventions/PNF/Exercises/reverse_chop_PNF.qmd"
+  lift: "/The Archive/Interventions/PNF/Exercises/lift_PNF.qmd"
+  reverse-lift: "/The Archive/Interventions/PNF/Exercises/reverse_lift_PNF.qmd"
+## Cryotherapy
+ref-icing-cryotherapy:
+  path: "/The Archive/Interventions/Cryotherapy/icing_cryotherapy.qmd"
+## Locomotion
+
+## Manual Therapy
+
+## Upper extremity
+ref-cyriax-release-maneuver:
+  path: "/The Archive/Interventions/Upper Extremity/cyriax_release_maneuver.qmd"
+
+# Microbiology
+ref-microbiology-index:
+  path: "/The Archive/Microbiology/microbiology_index.qmd"
+  cell: "/The Archive/Microbiology/microbiology_index.qmd#cell"
+  chemokine: "/The Archive/Microbiology/microbiology_index.qmd#chemokine"
+  enzyme: "/The Archive/Microbiology/microbiology_index.qmd#enzyme"
+  protein: "/The Archive/Microbiology/microbiology_index.qmd#protein"
+  non-protein: "/The Archive/Microbiology/microbiology_index.qmd#non-protein"
+## Cells
+ref-cd34:
+  path: "/The Archive/Microbiology/Cells/CD34_cell.qmd"
+### Chemokine
+ref-cxcl-13:
+  path: "/The Archive/Microbiology/Cells/Chemokines/CXCL13_chemokine.qmd"
+  csf: "/The Archive/Microbiology/Cells/Chemokines/CXCL13_chemokine.qmd#csf"
+
+# MSK
+ref-msk-index:
+  path: "/The Archive/MSK/MSK_index.qmd"
+ref-respiration:
+  path: "/The Archive/Physiology/Pulmonary system/respiration.qmd"
+## Movements
+### Head
+ref-head-osteokinematics:
+  path: "/The Archive/MSK/Regions/Spine/neck_MSK.qmd"
+ref-neck-osteokinematics:
+  path: "/The Archive/MSK/Regions/Spine/neck_MSK.qmd"
+## Regions
+### Lower extremity
+ref-hip-msk:
+  path: "/The Archive/MSK/Regions/Lower extremity/hip.qmd"
+ref-knee-msk:
+  path: "/The Archive/MSK/Regions/Lower extremity/knee.qmd"
+ref-ankle-msk:
+  path: "/The Archive/MSK/Regions/Lower extremity/ankle_MSK.qmd"
+ref-foot-msk:
+  path: "/The Archive/MSK/Regions/Lower extremity/foot.qmd"
+### Spine
+ref-jaw-msk:
+  path: "/The Archive/MSK/Regions/Spine/jaw.qmd"
+ref-thoracic-spine-msk:
+  path: "/The Archive/MSK/Regions/Spine/thoracic_spine.qmd"
+ref-lumbar-spine-msk:
+  path: "/The Archive/MSK/Regions/Spine/lumbar_spine.qmd"
+ref-neck-msk:
+  path: "/The Archive/MSK/Regions/Spine/neck_MSK.qmd"
+### Upper extremity
+ref-shoulder-msk:
+  path: "/The Archive/MSK/Regions/Upper Extremity/shoulder.qmd"
+ref-elbow-msk:
+  path: "/The Archive/MSK/Regions/Upper Extremity/elbow.qmd"
+ref-wrist-msk:
+  path: "/The Archive/MSK/Regions/Upper Extremity/wrist.qmd"
+ref-hand-msk:
+  path: "/The Archive/MSK/Regions/Upper Extremity/hand.qmd"
+
+# Motor Control
+ref-motor-control-index:
+  path: "/The Archive/Motor Control/index_motor_control.qmd"
+ref-motor-control-overview:
+  path: "/The Archive/Motor Control/motor_control_overview.qmd"
+
+ref-motor-recovery:
+  path: "/The Archive/Motor Control/motor_recovery.qmd"
+ref-spontaneous-recovery:
+  path: "/The Archive/Motor Control/spontaneous_recovery.qmd"
+ref-degrees-of-freedom:
+  path: "/The Archive/Motor Control/degrees_of_freedom.qmd"
+ref-learned-nonuse:
+  path: "/The Archive/Motor Control/learned_nonuse.qmd"
+ref-schema:
+  path: "/The Archive/Motor Control/schema.qmd"
+ref-recall-schema:
+  path: "/The Archive/Motor Control/schema.qmd"
+ref-recognition-schema:
+  path: "/The Archive/Motor Control/schema.qmd"
+## Motor Compensation
+ref-motor-compensation:
+  path: "/The Archive/Motor Control/motor_compensation.qmd"
+ref-adaptive-compensation:
+  path: "/The Archive/Motor Control/motor_compensation.qmd"
+ref-behavioral-substitution:
+  path: "/The Archive/Motor Control/motor_compensation.qmd"
+## Motor learning
+ref-motor-learning:
+  path: "/The Archive/Motor Control/Motor learning/motor_learning.qmd"
+ref-stages-of-motor-learning:
+  path: "/The Archive/Motor Control/Motor learning/stages_of_motor_learning.qmd"
+
+# Physiology
+
+## Blood
+
+## Inflammation
+ref-inflammation-index:
+  path: "/The Archive/Physiology/Inflammation/inflammation_index.qmd"
+### Inflammatory cells
+ref-neutrophil:
+  path: "/The Archive/Physiology/Immune system/Immune cells/neutrophils.qmd"
+ref-macrophage:
+  path: "/The Archive/Physiology/Immune system/Immune cells/macrophages.qmd"
+ref-chemokine:
+  path: "/The Archive/Physiology/Immune system/Immune cells/chemokines.qmd"
+
+ref-cytokine: "/The Archive/Physiology/Immune system/Immune cells/cytokines.qmd"
+
+ref-interleukin:
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/Signalling Proteins/Cytokines/Interleukin/interleukin.qmd"
+ref-interleukin-1:
+  path: "/"
+interleukin-1beta: 
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/Signalling Proteins/Cytokines/Interleukin/interleukin-1beta.qmd"
+
+ref-interleukin-6: 
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/Signalling Proteins/Cytokines/Interleukin/interleukin_6_IL-6.qmd"
+
+interleukin-8: 
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/Signalling Proteins/Cytokines/Interleukin/interleukin_8_IL-8.qmd"
+  
+ref-tumor-necrosis-factor:
+  path: "/"
+  tnf-alpha: 
+    path: "/The Archive/Physiology/Immune system/Immune cells/Cytokines/Tumor Necrosis Factor/tumor_necrosis_factor_alpha_TNF-alpha.qmd"
+
+## Muscle
+
+## Metabolic System
+ref-glycolysis:
+  path: "/"
+ref-glucose:
+  path: "/"
+  glycogenesis: "/The Archive/Physiology/Metabolism/Carbohydrate Metabolism/glycogenesis.qmd"
+  gluconeogenesis: "/"
+  glycolysis: "/The Archive/Physiology/Metabolism/Carbohydrate Metabolism/glycolysis.qmd"
+ref-glycogen:
+  path: "/"
+  glycogenolysis: "/"
+ref-pentose-phosphate-pathway:
+  path: "/The Archive/Physiology/Metabolism/Carbohydrate Metabolism/pentose_phosphate_pathway_PPP.qmd"
+
+### Lipid Metabolism
+ref-adipogenesis:
+  path: "/The Archive/Physiology/Metabolism/Lipid Metabolism/adipogenesis.qmd"
+
+## Physiology of stress
+ref-oxidative-stress: 
+  path: "/The Archive/Physiology/Physiology of stress/Oxidative_stress.qmd"
+
+## Transporters
+ref-EAAT2-excitatory-amino-acid-transporter-2:
+  path: "/The Archive/Physiology/Transporters/EAAT2_excitatory_amino_acid_transporter_2.qmd"
+
+# Pain science
+
+
+## CRPS 
+ref-CRPS: 
+  path: "/The Archive/Pain_science/Complex regional pain syndrome/CRPS_complex_regional_pain_syndrome.qmd"
+
+ref-CRPS-type1: 
+  path: "/The Archive/Pain_science/Complex regional pain syndrome/CRPS_Type1.qmd"
+
+ref-CRPS-type2:
+  path: "/The Archive/Pain_science/Complex regional pain syndrome/CRPS_Type2.qmd"
+
+
+
+## Interventions
+
+## Pain by region
+ref-pain-neck:
+  path: "/The Archive/Symptoms/Pain symptoms/Pain by region/neck_pain.qmd"
+  acute: "/The Archive/Symptoms/Pain symptoms/Pain by region/neck_pain.qmd#acute-neck-pain"
+  chronic: "/The Archive/Symptoms/Pain symptoms/Pain by region/neck_pain.qmd#chronic-neck-pain"
+ref-pain-facial:
+  path: "/The Archive/Symptoms/Pain symptoms/Pain by region/facial_pain.qmd"
+
+## Pain terms and Taxonomies
+ref-acute-pain:
+  path: "/The Archive/Pain_science/Pain terms and Taxonomies/acute_pain.qmd"
+ref-chronic-pain:
+  path: "/The Archive/Pain_science/Pain terms and Taxonomies/chronic_pain.qmd"
+ref-cancer-pain:
+  path: "/The Archive/Pain_science/Pain terms and Taxonomies/cancer_pain.qmd"
+ref-recurrent-pain:
+  path: "/The Archive/Pain_science/Pain terms and Taxonomies/recurrent_pain.qmd"
+ref-transient-pain:
+  path: "/The Archive/Pain_science/Pain terms and Taxonomies/transient_pain.qmd"
+ref-pain-overview:
+  path: "/The Archive/Pain_science/Pain terms and Taxonomies/pain_overview.qmd"
+
+## Sensitization
+ref-allodynia:
+  path: "/The Archive/Pain_science/Sensitization/allodynia.qmd"
+ref-analgesia:
+  path: "/The Archive/Pain_science/Sensitization/analgesia.qmd"
+ref-central-sensitization:
+  path: "/The Archive/Pain_science/Sensitization/central_sensitization.qmd"
+ref-hyperalgesia:
+  path: "/The Archive/Pain_science/Sensitization/hyperalgesia.qmd"
+
+## PS - Interventions
+ref-graded-motor-imagery: 
+  path: "/The Archive/Pain_science/interventions/graded_motor_imagery.qmd"
+
+
+# Pathologies
+## Bone pathologies
+ref-periostitis:
+  path: "/The Archive/Pathologies/Bone pathologies/periostitis.qmd"
+
+
+## Endocrine pathologies
+### Pituitary system pathologies
+#### Pituitary Hypofunction
+##### Gondaotropin deficiency
+ref-gonadotropin-deficiency:
+  path: "/The Archive/Pathologies/Endocrine Pathologies/Disorders of the Pituitary Hormone System/Pituitary Hypofunction/Gonadotropin Deficiency/gonadotropin_deficiency.qmd"
+ref-kallmann-syndrome:
+  path: "/The Archive/Pathologies/Endocrine Pathologies/Disorders of the Pituitary Hormone System/Pituitary Hypofunction/Gonadotropin Deficiency/kallmann_syndrome.qmd"
+## Heart Pathologies
+## Inner ear pathologies
+ref-menieres-disease:
+  path: "/The Archive/Pathologies/Inner Ear Pathologies/Menieres_disease.qmd"
+## Infections
+ref-lyme-disease:
+  path: "/The Archive/Pathologies/Infections/Bacterial Infections/Lyme_disease.qmd"
+
+
+## MSK Pathologies
+### Head and Neck
+ref-VBI-vertebrobasilar-insufficiency:
+  path: "/The Archive/Pathologies/MSK Pathologies/Head and neck/vertebrobasilar_insufficiency.qmd"
+ref-whiplash-injury:
+  path: "/The Archive/Pathologies/MSK Pathologies/Head and neck/whiplash_injury.qmd"
+ref-upper-crossed-syndrome:
+  path: "/The Archive/Pathologies/MSK Pathologies/Head and neck/upper_crossed_syndrome.qmd"
+ref-cervical-disc-herniation:
+  path: "/The Archive/Pathologies/MSK Pathologies/Head and neck/cervical_IVD_herniation.qmd"
+### Trunk
+ref-chronic-low-back-pain: 
+  path: "/The Archive/Pathologies/MSK Pathologies/Trunk/chronic_low_back_pain.qmd"
+ref-acute-low-back-pain: 
+  path: "/The Archive/Pathologies/MSK Pathologies/Trunk/acute_low_back_pain.qmd"
+ref-rib-fracture:
+  path: "/The Archive/Pathologies/MSK Pathologies/Trunk/rib_fracture.qmd"
+ref-rib-stress-fracture:
+  path: "/The Archive/Pathologies/MSK Pathologies/Trunk/rib_fracture.qmd"
+#### Lumbar pathologies
+ref-lumbar-spinal-stenosis:
+  path: "/The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/Spinal Stenosis/lumbar_spinal_stenosis_overview.qmd"
+ref-lumbar-central-stenosis:
+  path: "/The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/Spinal Stenosis/lumbar_central_stenosis.qmd"
+ref-lumbar-foraminal-stenosis:
+  path: "/The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/Spinal Stenosis/lumbar_foraminal_stenosis.qmd"
+ref-lumbar-lateral-recess-stenosis:
+  path: "/The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/Spinal Stenosis/lumbar_lateral_recess_stenosis.qmd"
+### Upper Extremity
+ref-lateral-epicondylitis:
+  path: "/The Archive/Pathologies/MSK Pathologies/Upper extremity/lateral_epicondylitis.qmd"
+### Lower Extremity
+ref-pelvic-stress-fracture:
+  path: "/The Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
+ref-femoral-shaft-stress-fracture:
+  path: "/The Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
+ref-adductor-muscle-strain:
+  path: "/The Archive/Pathologies/MSK Pathologies/Lower extremity/adductor_muscle_strain.qmd"
+
+#### Hip Pathologies
+ref-acetebular-labral-tear:
+  path: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/acetabular_labral_tear.qmd"
+
+# Pathophysiology
+## Bone Pathophysiology
+ref-stress-reactions-and-fractures:
+  path: "/The Archive/Pathophysiology/Bone Pathophysiology/stress_reactions_and_fractures.qmd"
+## Complications
+ref-dehiscence:
+  path: "/The Archive/Pathophysiology/Complications/dehiscence.qmd"
+## Metabolic Pathophysiology
+
+## Muscle pathophysiology
+ref-index-muscle-pathophysiology:
+  path: "/The Archive/Pathophysiology/Muscle pathophysiology/index_muscle_pathophysiology.qmd"
+ref-muscle-states:
+  path: "/The Archive/Pathophysiology/Muscle pathophysiology/muscle_states.qmd"
+## Joint pathophysiology
+ref-z-joint-irritation:
+  path: "/The Archive/Anatomy/Joints/z-joint.qmd#z-joint-irritation"
+## Nerve pathophysiology
+ref-brachial-plexus-irritation:
+  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.qmd#brachial-plexus-irritation"
+ref-double-crush-syndrome:
+  path: "/The Archive/Pathophysiology/Nerve pathophysiology/double_crush_syndrome.qmd"
+ref-meningitis:
+  path: "/The Archive/Pathophysiology/Nerve pathophysiology/meningitis.qmd"
+  lyme: "/The Archive/Pathologies/Infections/Bacterial Infections/Lyme_disease.qmd#lyme-meningitis"
+# Pediatrics
+## Development
+ref-overview-theories-of-child-development:
+  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
+ref-neuromaturational-theory:
+  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
+ref-cognitive-theory:
+  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd#cognitive-theory"
+ref-behavioral-theory:
+  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
+ref-ecological-contextual-theory:
+  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
+ref-dynamic-systems-theory:
+  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
+ref-psychoanalytical-psychosocial-theory:
+  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
+ref-neuronal-group-selection-theory:
+  path: "/The Archive/Pediatrics/Development/overview_theories_of_child_development.qmd"
+ref-normal-child-development:
+  path: "/The Archive/Pediatrics/Development/normal_child_development.qmd"
+  neonate: "/"
+  month8: "/The Archive/Pediatrics/Development/normal_child_development.qmd#month-8"
+## Pediatric Tests and Measures
+ref-index-pediatric-tests-and-measures:
+  path: "/The Archive/Pediatrics/Pediatric Tests and Measures/index_pediatric_tests_and_measures.qmd"
+ref-gross-motor-function-measure:
+  path: "/The Archive/Pediatrics/Pediatric Tests and Measures/GMFM_gross_motor_function_measure.qmd"
+ref-bayley-scales-of-infant-development:
+  path: "/The Archive/Pediatrics/Pediatric Tests and Measures/bayley_scales_of_infant_development.qmd"
+ref-peabody-developmental-motor-scales:
+  path: "/The Archive/Pediatrics/Pediatric Tests and Measures/peabody_developmental_motor_scales.qmd"
+## Embryology
+ref-fetal-development:
+  path: "/The Archive/Pediatrics/Embryology/fetal_development.qmd"
+ref-neuroembryology:
+  path: "/The Archive/Pediatrics/Embryology/neuroembryology.qmd"
+ref-pediatric-adjusted-age:
+  path: "/The Archive/Pediatrics/Development/pediatric_adjusted_age.qmd"
+# Performance training
+## Golf
+ref-golf-index:
+  path: "/The Archive/Performance Training/Golf/golf_index.qmd"
+ref-golf-overview:
+  path: "/The Archive/Performance Training/Golf/golf_overview.qmd"
+ref-golf-injuries:
+  path: "/The Archive/Performance Training/Golf/golf_injuries.qmd"
+## Surfing
+ref-surfing-aerials:
+  path: "/The Archive/Performance Training/Surfing/surfing_aerials.qmd"
+ref-surfing-carve:
+  path: "/The Archive/Performance Training/Surfing/surfing_carve.qmd"
+ref-surfing-cutback:
+  path: "/The Archive/Performance Training/Surfing/surfing_cutback.qmd"
+ref-surfing-definitions:
+  path: "/The Archive/Performance Training/Surfing/surfing_definitions.qmd"
+ref-surfing-index:
+  path: "/The Archive/Performance Training/Surfing/surfing_index.qmd"
+ref-surfing-injuries:
+  path: "/The Archive/Performance Training/Surfing/surfing_injuries.qmd"
+ref-surfing-overview:
+  path: "/The Archive/Performance Training/Surfing/surfing_overview.qmd"
+ref-surfing-paddling:
+  path: "/The Archive/Performance Training/Surfing/surfing_paddling.qmd"
+ref-surfing-resources:
+  path: "/The Archive/Performance Training/Surfing/surfing_resources.qmd"
+ref-surfing-takeoff:
+  path: "/The Archive/Performance Training/Surfing/surfing_takeoff_popup.qmd"
+
+# Pharmacology
+## NSAIDs
+
+## Antibiotics
+ref-ceftriaxone:
+  path: "/The Archive/Pharmacology/Antibiotics/ceftriaxone.qmd"
+## Beta-lactam
+ref-beta-lactam-antibiotics:
+  path: "/The Archive/Pharmacology/Antibiotics/beta-lactam_antibiotics.qmd"
+ref-cefotaxime:
+  path: "/The Archive/Pharmacology/Antibiotics/cefotaxime.qmd"
+ref-penicillin:
+  path: "/The Archive/Pharmacology/Antibiotics/penicillin.qmd"
+  g: "/The Archive/Pharmacology/Antibiotics/penicillin.qmd"
+ref-doxycycline:
+  path: "/The Archive/Pharmacology/Antibiotics/doxycycline.qmd"
+
+# Neuroscience
+
+## Neuroanatomy
+ref-index-neuroanatomy:
+  path: "/The Archive/Neuroscience/Neuroanatomy/index_neuroanatomy.qmd"
+  basal-ganglia: "/The Archive/Neuroscience/Neuroanatomy/index_neuroanatomy.qmd#basal-ganglia"
+  cranial-nerve: "/The Archive/Neuroscience/Neuroanatomy/index_neuroanatomy.qmd#cranial-nerve"
+  tract: "/The Archive/Neuroscience/Neuroanatomy/index_neuroanatomy.qmd#tract"
+### Basal ganglia
+ref-basal-ganglia:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/basal_ganglia.qmd"
+ref-lentiform-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/lentiform_nucleus.qmd"
+ref-striatum:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/striatum.qmd"
+ref-putamen:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/putamen.qmd"
+ref-caudate-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/caudate_nucleus.qmd"
+ref-globus-pallidus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/globus_pallidus.qmd"
+ref-subthalamic-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/subthalamic_nucleus.qmd"
+ref-substantia-nigra:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/substantia_nigra.qmd"
+
+### Cranial Nerves
+ref-cranial-nerve-overview:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/cranial_nerve_overview.qmd"
+ref-cn1:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN1_Olfactory.qmd"
+ref-cn2:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN2_Optic.qmd"
+ref-cn3:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN3_Oculomotor.qmd"
+ref-cn4:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN4_Trochlear.qmd"
+ref-cn5:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.qmd"
+ref-cn6:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN6_Abducens.qmd"
+ref-cn7:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN7_Facial.qmd"
+ref-cn8:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN8_Vestibulocochlear.qmd"
+ref-cn9:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN9_Glossopharyngeal.qmd"
+ref-cn10:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN10_Vagus.qmd"
+  vagal-nerve-stimulation: "/The Archive/Interventions/vagal_nerve_stimulation.qmd"
+ref-cn11:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN11_Spinal_Accessory.qmd"
+ref-cn12:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN12_Hypoglossal.qmd"
+
+ref-cranial-nerve-nuclei-overview:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cranial_nerve_nuclei_overview.qmd"
+ref-oculomotor-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/oculomotor_nucleus.qmd"
+ref-trochlear-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trochlear_nucleus.qmd"
+ref-abducens-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/abducens_nucleus.qmd"
+ref-trigeminal-motor-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_motor_nucleus.qmd"
+ref-facial-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/facial_nucleus.qmd"
+ref-hypoglossal-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/hypoglossal_nucleus.qmd"
+ref-nucleus-ambiguous:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_ambiguous.qmd"
+ref-spinal-accessory-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_accessory_nucleus.qmd"
+ref-edinger-westphal-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/edinger-westphal_nucleus.qmd"
+ref-superior-salivatory-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/superior_salivatory_nucleus.qmd"
+ref-inferior-salivatory-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/inferior_salivatory_nucleus.qmd"
+ref-dorsal-motor-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/dorsal_motor_nucleus.qmd"
+ref-nucleus-solitarius:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_solitarius.qmd"
+ref-trigeminal-sensory-nuclei:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_sensory_nuclei.qmd"
+ref-mesencephalic-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/mesencephalic_nucleus.qmd"
+ref-main-sensory-nucleus-of-CN-V:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/main_sensory_nucleus_of_cn_v.qmd"
+ref-spinal-trigeminal-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_trigeminal_nucleus.qmd"
+  trigeminocervical-nucleus: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_trigeminal_nucleus.qmd"
+ref-cochlear-nuclei:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cochlear_nuclei.qmd"
+ref-vestibular-nuclei:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/vestibular_nuclei.qmd"
+
+### Limbic System
+ref-amygdala:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Limbic System/amygdala.qmd"
+### Midbrain
+ref-corpora-quadrigemina:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Midbrain/Tectum/corpora_quadrigemina.qmd"
+ref-superior-colliculus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Midbrain/Tectum/superior_colliculus.qmd"
+ref-inferior-colliculus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Midbrain/Tectum/inferior_colliculus.qmd"
+### Spinal Cord
+ref-spinal-cord:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Spinal Cord/spinal_cord.qmd"
+
+### Tracts
+#### Ascending Tracts
+ref-ascending-tracts:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/ascending_tracts.qmd"
+ref-dorsal-column-medial-lemniscus: 
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/dorsal_column-medial_lemniscus_DCML.qmd"
+ref-fasciculus-cuneatus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/fasciculus_cuneatus.qmd"
+ref-fasciculus-gracilis:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/DCML and related structures/fasciculus_gracilis.qmd"
+ref-cuneocerebellar-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/cuneocerebellar_tract.qmd"
+ref-dorsal-spinocerebellar-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/cuneocerebellar_tract.qmd"
+ref-ventral-spinocerebellar-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/ventral_spinocerebellar_tract.qmd"
+ref-spinothalamic-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/spinothalamic_tract.qmd"
+ref-spinal-trigeminal-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/spinal_trigeminal_tract.qmd"
+ref-trigeminothalamic-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/trigeminothalamic_tract.qmd"
+ref-spinoreticular-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/spinoreticular_tract.qmd"
+ref-spinomesencephalic-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/spinomesencephalic_tract.qmd"
+ref-spinohypothalamic-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Ascending Tracts/spinohypothalamic_tract.qmd"
+
+#### Descending Tracts
+ref-descending-tracts:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/descending_tracts.qmd"
+ref-medial-motor-systems:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/medial_motor_systems.qmd"
+ref-extrapyramidal-tracts:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/extrapyramidal_tracts.qmd"
+ref-reticulospinal-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/reticulospinal_tract.qmd"
+ref-rubrospinal-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/rubrospinal_tract.qmd"
+ref-tectospinal-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/tectospinal_tract.qmd"
+ref-vestibulospinal-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/vestibulospinal_tract.qmd"
+  medial: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/vestibulospinal_tract.qmd"
+  lateral: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/vestibulospinal_tract.qmd"
+ref-pyramidal-tracts:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/pyramidal_tracts.qmd"
+ref-corticobulbar-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/corticobulbar_tract.qmd"
+ref-lateral-corticospinal-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/lateral_corticospinal_tract_LCST.qmd"
+ref-medial-corticospinal-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/medial_corticospinal_tract_MCST.qmd"
+
+
+
+## Neurophysiology
+### Special Senses
+ref-gustation:
+  path: "/The Archive/Neuroscience/Neurophysiology/Special Senses/gustation.qmd"
+ref-olfaction:
+  path: "/The Archive/Neuroscience/Neurophysiology/Special Senses/olfaction.qmd"
+ref-vision:
+  path: "/The Archive/Neuroscience/Neurophysiology/Special Senses/Vision and eye movement/vision.qmd"
+
+### Attention
+ref-attention:
+  path: "/"
+  selective: "/"
+  sustained: "/"
+  divided: "/"
+  alternating: "/"
+### Executive Functions
+ref-executive-function:
+  path: "/The Archive/Neuroscience/Neurophysiology/Cognition/cognition_overview.qmd#executive-overview"
+ref-cognition:
+  overview: "/The Archive/Neuroscience/Neurophysiology/Cognition/cognition_overview.qmd"
+ref-perception:
+  overview: "/The Archive/Neuroscience/Neurophysiology/Perception/percetion_overview.qmd"
+  visual: "/The Archive/Neuroscience/Neurophysiology/Perception/percetion_overview.qmd#visual-perception"
+  deficits:
+    path: "/The Archive/Neuroscience/Neurophysiology/Perception/perception_deficits.qmd"
+    anosognosia: "/The Archive/Symptoms/Neuro Symptoms/Perceptual deficits/anosognosia.qmd"
+ref-neglect:
+  path: "/The Archive/Symptoms/Neuro Symptoms/Perceptual deficits/neglect.qmd"
+
+ref-object-permanence:
+  path: "/The Archive/Neuroscience/Neurophysiology/Cognition/object_permanence.qmd"
+
+### Reflex
+ref-trigeminal-autonomic-reflex:
+  path: "/The Archive/Neuroscience/Neurophysiology/Reflex/trigeminal_autonomic_reflex.qmd"
+
+### Motor Symptoms
+ref-micrographia:
+  path: "/The Archive/Symptoms/Motor Symptoms/micrographia.qmd"
+### Neuro Symptoms
+ref-anosmia:
+  path: "/The Archive/Symptoms/Neuro Symptoms/anosmia.qmd"
+ref-ataxia:
+  path: "/The Archive/Symptoms/Neuro Symptoms/Ataxia/ataxia.qmd"
+  vestibular: "/The Archive/Symptoms/Neuro Symptoms/Ataxia/vestibular_ataxia.qmd"
+  visual: "/The Archive/Symptoms/Neuro Symptoms/Ataxia/visual_ataxia.qmd"
+
+## Neuropathology
+ref-alzheimers-disease:
+  path: "/The Archive/Neuroscience/Neuropathology/Alzheimers Disease/alzheimers_disease.qmd"
+ref-amyotrophic-lateral-sclerosis: 
+  path: "/The Archive/Neuroscience/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.qmd"
+ref-down-syndrome:
+  path: "/The Archive/Neuroscience/Neuropathology/Down Syndrome/down_syndrome.qmd"
+ref-multiple-sclerosis:
+  path: "/The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis.qmd"
+ref-functional-neurological-disorder:
+  path: "/The Archive/Neuroscience/Neuropathology/Functional Neurologic Disorder/functional_neurologic_disorder_FND.qmd"
+
+### Parkinsons Disease
+ref-parkinsons-disease:
+  path: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.qmd"
+  fog: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/freezing_of_gait_FOG.qmd"
+  hoehn-and-yahr-scale: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/hoehn_and_yahr_scale.qmd"
+  tests:
+    UPDRS: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD Tests and Measures/UPDRS_unified_parkinsons_disease_rating_scale.qmd"
+  intervention:
+    gait: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD_gait.qmd"
+    motor-disease-severity: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD_motor_disease_severity.qmd"
+### Spinal Cord Injury
+ref-spinal-cord-injury:
+  path: "/The Archive/Neuroscience/Neuropathology/SCI/spinal_cord_injury.qmd"
+  isncsci: "/The Archive/Neuroscience/Neuropathology/SCI/SCI Examination/ISNCSCI.qmd"
+  anterior-cord-syndrome: "/The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/anterior_cord_syndrome.qmd"
+  brown-sequard-syndrome: "/The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/brown-sequard_syndrome.qmd"
+ref-stroke:
+  path: "/The Archive/Neuroscience/Neuropathology/Stroke/Stroke.qmd"
+ref-traumatic-brain-injury:
+  path: "/The Archive/Neuroscience/Neuropathology/TBI/traumatic_brain_injury.qmd"
+### Peripheral nervous system pathologies
+ref-trigeminal-neuralgia:
+  path: "/The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/trigeminal_neuralgia.qmd"
+ref-bell-palsy:
+  path: "/The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Peripheral Neuralgia/Bell_palsy.qmd"
+ref-guillain-barre-syndrome:
+  path: "/The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Guillain-barre_syndrome.qmd/guillain-barre-syndrome.qmd"
+ref-erbs-palsy:
+  path: "/The Archive/Neuroscience/Neuropathology/Peripheral Nervous System Pathologies/Erbs_palsy.qmd"
+
+## Neuropathophysiology
+ref-lewy-bodies:
+  path: "/The Archive/Neuroscience/Neuropathophysiology/lewy_bodies.qmd"
+ref-subacute-combined-degeneration-of-the-spinal-cord:
+  path: "/The Archive/Neuroscience/Neuropathophysiology/Degeneration/subacute_combined_degeneration_of_the_spinal_cord.qmd"
+
+
+## Neuro Examination
+### Reflexes
+ref-reflex:
+  path: "/"
+  jaw-jerk: "/The Archive/Neuroscience/Neuro Examination/Neuro Tests and Measures/Reflexes/jaw_jerk_reflex.qmd"
+
+# Psychosocial
+ref-psychosocial-index:
+  path: "/The Archive/Psychosocial/psychosocial_index.qmd"
+
+ref-biomedical-model:
+  path: "/The Archive/Psychosocial/biomedical_model.qmd"
+ref-biopsychosocial-model:
+  path: "/The Archive/Psychosocial/biopsychosocial_model.qmd"
+
+# Symptoms
+## Anesthesia
+ref-cervicocephalic-anesthesia:
+  path: "/The Archive/Symptoms/Anesthesia/cervicocephalic_anesthesia.qmd"
+## Ear symptoms
+ref-aural-fullness:
+  path: "/The Archive/Symptoms/Ear symptoms/aural_fullness.qmd"
+ref-hearing-loss:
+  path: "/The Archive/Symptoms/Ear symptoms/hearing_loss.qmd"
+ref-otalgia:
+  path: "/The Archive/Symptoms/Ear symptoms/otalgia.qmd"
+  primary: "/The Archive/Symptoms/Ear symptoms/otalgia.qmd"
+  secondary: "/The Archive/Symptoms/Ear symptoms/otalgia.qmd"
+ref-tinnitus:
+  path: "/The Archive/Symptoms/Ear symptoms/tinnitus.qmd"
+ref-vertigo:
+  path: "/The Archive/Symptoms/Ear symptoms/vertigo.qmd"
+## Eye Symptoms
+ref-eye-symptom:
+  path: "/"
+  hemianopsia: "/The Archive/Symptoms/Eye Symptoms/hemianopsia.qmd"
+## Headaches
+ref-tension-type-headache:
+  path: "/The Archive/Symptoms/Headache/tension_type_headache.qmd"
+ref-headache:
+  path: "/The Archive/Symptoms/Headache/headache.qmd"
+  cluster: "/The Archive/Symptoms/Headache/cluster_headache.qmd"
+ref-migraine:
+  path: "/The Archive/Symptoms/Headache/migraine.qmd"
+## Motor Symptoms
+ref-tremor:
+  path: "/The Archive/Symptoms/Motor Symptoms/Tremors/tremor_overview.qmd"
+ref-functional-tremor:
+  path: "/The Archive/Symptoms/Motor Symptoms/Tremors/functional_tremor.qmd"
+## Neuro symptoms
+## pain symptoms
+## seizures
+ref-seizure-overview:
+  path: "/The Archive/Symptoms/Seizures/seizure_overview.qmd"
+ref-functional-seizure:
+  path: "/The Archive/Symptoms/Seizures/functional_seizure.qmd"
+
+# Systems
+## Sensation system
+ref-somatosensory-system:
+  path: "/The Archive/Systems/somatosensory_subsystem.qmd"
+ref-sensation:
+  path: "/The Archive/Systems/Sensation/sensation_overview.qmd"
+  vibratory: "/The Archive/Systems/Sensation/vibratory_sensation.qmd"
+  deep-touch: "/The Archive/Systems/Sensation/deep_touch_sensation.qmd"
+  temperature: "/The Archive/Systems/Sensation/temperature_sensation.qmd"
+## Movement systems
+ref-movement-system:
+  path: "/The Archive/Systems/Movement/movement_system_overview.qmd"
+  voluntary: "/The Archive/Systems/Movement/voluntary_movement.qmd"
+## Proprioception
+ref-proprioception:
+  path: "/The Archive/Systems/Sensation/Proprioception/proprioception.qmd"
+  cervical: "/The Archive/Systems/Sensation/Proprioception/proprioception.qmd#cervical"
+
+## Balance
+ref-balance:
+  path: "/The Archive/Systems/Balance/balance.qmd"
+## Locomotion
+ref-locomotion:
+  path: "/The Archive/Systems/Locomotion/locomotion.qmd"
+  interventions: "/The Archive/Systems/Locomotion/locomotion_interventions.qmd"
+## Gait
+ref-gait:
+  path: "/The Archive/Systems/Locomotion/Gait/gait.qmd"
+  symptom:
+    steppage: "/The Archive/Systems/Locomotion/Gait/Gait Symptoms/steppage_gait.qmd"
+    waddling: "/The Archive/Systems/Locomotion/Gait/Gait Symptoms/waddling_gait.qmd"
+    parkinsonian: "/The Archive/Systems/Locomotion/Gait/Gait Symptoms/parkinsonian_gait.qmd"
+    cerebellar-ataxic: "/The Archive/Systems/Locomotion/Gait/Gait Symptoms/cerebellar_ataxic_gait.qmd"
+    cautious: "/The Archive/Systems/Locomotion/Gait/Gait Symptoms/cautious_gait.qmd"
+## Posture
+ref-posture:
+  path: "/The Archive/Systems/Posture/posture.qmd"
+  automatic: "/The Archive/Systems/Posture/posture.qmd#automatic"

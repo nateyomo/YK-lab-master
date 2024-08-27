@@ -1,0 +1,27 @@
+---
+title: Musculoskeletal Levers
+---
+
+A lever refers to a machine consisting of a rigid rod suspended across a pivot point @neumannKinesiologyMusculoskeletalSystem2017.
+Musculoskeletal levers consist of a rigid rod (bone) suspended across a pivot point (joint) that experiences internal forces (muscle contraction) and external forces (gravity).
+
+
+![3 classes of Levers @neumannKinesiologyMusculoskeletalSystem2017](/The Archive/Biomechanics/images/neumannKinesiologyMusculoskeletalSystem2017 fig1.22 lever classes.png)
+
+# 1st Class
+
+A first class lever's axis of rotation positioned between the opposing forces @neumannKinesiologyMusculoskeletalSystem2017.
+In the human body, the atlanto-occipital joint acts as a 1st class lever since the AOR is in the middle, the head-and-neck extensor muscles exert an internal force and the center of gravity is on the anterior side of the head pulling into flexion @neumannKinesiologyMusculoskeletalSystem2017.
+
+# 2nd Class
+
+"A second-class lever always has two features. First, its axis of rotation is located at one end of a bone. Second, the muscle, or internal force, possesses greater leverage than the external force. Second-class levers are very rare in the musculoskeletal system. The classic example is the calf muscles producing the torque needed to stand on tiptoes (see Fig. 1.23B). The axis of rotation for this action is assumed to act through the metatarsophalangeal joints. Based on this assumption, the internal moment arm used by the calf muscles greatly exceeds the external moment arm used by body weight." @neumannKinesiologyMusculoskeletalSystem2017
+
+# 3rd Class
+
+"As in the second-class lever, the third-class lever has its axis of rotation located at one end of a bone. The elbow flexor muscles use a third-class lever to produce the flexion torque required to support a weight in the hand (see Fig. 1.23C). Unlike with the second-class lever, the external weight supported by a third-class lever always has greater leverage than the muscle force. The third-class lever is the most common lever used by the musculoskeletal system." @neumannKinesiologyMusculoskeletalSystem2017
+
+
+# Mechanical Advantage {#mechanical-advantage}
+
+"The mechanical advantage (MA) of a musculoskeletal lever can be defined as the ratio of the internal moment arm to the external moment arm. Depending on the location of the axis of rotation, the first-class lever can have an MA equal to, less than, or greater than 1. Second-class levers always have an MA greater than 1. As depicted in the boxes associated with Fig. 1.23A–B, lever systems with an MA greater than 1 are able to balance the torque equilibrium equation by an internal (muscle) force that is less than the external force. Third-class levers always have an MA less than 1. As depicted in Fig. 1.23C, in order to balance the torque equilibrium equation, the muscle must produce a force much greater than the opposing external force." @neumannKinesiologyMusculoskeletalSystem2017

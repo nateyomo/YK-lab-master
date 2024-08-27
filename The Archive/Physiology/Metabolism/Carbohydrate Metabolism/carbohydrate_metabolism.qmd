@@ -1,0 +1,22 @@
+---
+title: Carbohydrate Metabolism
+---
+
+:::{.callout title="Readings"}
+
+- CARBOHYDRATES AND GLYCOBIOLOGY @nelsonLehningerPrinciplesBiochemistry2021
+:::
+
+Topics
+
+- Glycolysis
+- REgulation of glycolysis
+- Transition stage (preparatory phase ninja nerd)
+    - regulation of transition phase (ninja nerd)
+- Kreb's Cycle
+- 
+
+
+# Videos
+
+{{< video https://www.youtube.com/watch?v=DQ-tUjfFet4&pp=ygUVbmluamEgbmVyZCBnbHljb2x5c2lz >}}

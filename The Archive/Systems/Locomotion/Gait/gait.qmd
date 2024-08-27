@@ -1,0 +1,175 @@
+---
+title: Gait
+---
+
+# Motor systems
+
+[Reticulospinal tracts]({{< var ref-reticulospinal-tract.path >}}) functions in gait-related movements  @blumenfeldNeuroanatomyClinicalCases2022
+
+
+# Gait Cycle
+
+
+
+
+2 main phases
+
+:::{layout-ncol="2"}
+### Swing phase
+
+- Portion of the cycle when the limb is off the ground and moving forward (or backward) to take a step @osullivanImprovingFunctionalOutcomes2016
+- 40% of the cycle @osullivanImprovingFunctionalOutcomes2016
+
+### Stance phase
+
+- portion of the cycle when the foot is in contact with the ground @osullivanImprovingFunctionalOutcomes2016 
+- 60% of the cycle @osullivanImprovingFunctionalOutcomes2016
+:::
+
+# Terminology
+
+- **Stride length** refers to the distance between two heel contacts of the *same* foot @neumannKinesiologyMusculoskeletalSystem2017
+- **Step length** refers to the distance between successive heel contacts of the two different feet. Comparing right with left step lengths can help to evaluate the symmetry of gait between the lower extremities (Fig. 15.8). Step width is the lateral distance between the heel centers of two consecutive foot contacts and is on average around 8 to 10 cm (see Fig. 15.7).83,135,136 Foot angle, the amount of “toe-out,” is the angle between the line of progression of the body and the long axis of the foot. About 5 to 7 degrees
+
+# Gait Analysis
+
+
+# Subcomponents of Gait
+
+see: [ANPT's Biomechanical Subcomponents of Gait](https://www.neuropt.org/docs/default-source/cpgs/locomotor/biomechanical-subcomponents-explained---rg-2022.pdf?sfvrsn=8f535d43_0)
+
+# Role of the Pelvis
+
+| | Phase Segment | Motion of the Pelvis|
+|-|---|---|
+| Swing | Initial swing (acceleration) to midswing  | The pelvis moves into anterior elevation |
+| Swing | Terminal swing <br/> (deceleration) | The pelvis moves eccentrically into anterior depression to allow for heel strike |
+| Stance | Initial contact (heel strike) | The pelvis continues to move into anterior depression eccentrically to achieve heel strike. |
+| Stance | Loading response (foot flat) to midstance | From loading response to midstance, the pelvis moves into posterior depression to allow for weight shift and weight acceptance onto the stance limb |
+| Stance | Terminal stance (heel-off) | From midstance toward terminal stance, the pelvis continues to move into posterior depression to allow for efficient push-off; at heel-off, the pelvis moves into relative posterior elevation with combined anterior and posterior elevation as the opposite limb moves toward heel strike |
+| Stance | Preswing <br/> (toe-off) | The pelvis begins to move into anterior elevation engaging a dynamically stable core for the limb to move into swing |
+
+: Three-Dimensional Motion of the Pelvis During Swing and Stance @osullivanImprovingFunctionalOutcomes2016 {.striped .hover}
+
+|Phase|Lower Extremity Motion| Pelvic Motion |
+|-|---|---|
+|Swing | Flexion, adduction, external rotation | Anterior elevation Flexion (posterior rotation), slight adduction, and external rotation |
+| Stance | Extension, abduction, internal rotation | Posterior depression Extension (anterior rotation), slight abduction, and internal rotation |
+: Position of the Lower Extremity Relative to the Pelvis During Swing and Stance @osullivanImprovingFunctionalOutcomes2016 {.striped .hover}
+
+# Common Gait Deviations
+
+## Stance Deviations
+:::{layout-ncol="3"}
+
+### Trunk
+
+- Lateral trunk bending:
+    - Result of gluteus medius weakness @osullivanImprovingFunctionalOutcomes2016
+    - Bending occurs to same side as weakness
+- Trendelenburg gait: pelvis drops on contralateral side of a weak gluteus medius
+    - Compensatory strategy is lateral trunk bending (Compensated trendelenberg)
+- Backward trunk lean:
+    - Result of a weak gluteus maximus
+    - Difficulty going up stairs or ramps
+- Forward trunk lean
+    - Result of weak quadriceps (the forward trunk lean decreases the flexor moment at the knee)
+    - May also be associated with hip and knee flexion contractures
+
+### Pelvis
+
+- Inefficient/insufficient pelvis posterior depression 
+    - Inefficient terminal stance and push-off leading to a decreased stance time on the ipsilateral side and a shortened step length on the contralateral side
+
+
+### Hip
+
+- Excessive hip flexion
+    - Result of weak hip extensors or tight hip and/or knee flexors
+- Limited hip extension
+    - Result of tight or spastic hip flexors or weak hip extensors
+- Antalgic gait (painful gait)
+    - Stance time abbreviated on the painful limb, resulting in an uneven gait pattern (limping)
+    - Uninvolved limb has shortened step length, since it must bear weight sooner than normal
+
+
+### Knee
+
+- Excessive knee flexion
+    - Result of weak quadriceps (the knee wobbles or buckles) or knee flexor contractures
+    - Causes difficulty going down stairs or ramps
+    - Forward trunk bending occurs to compensate for weak quadriceps
+- Hyperextension
+    - Result of weak quadriceps, plantarflexion contracture, or extensor spasticity (quadriceps and/or plantarflexors)
+
+### Foot
+
+- Toes First: IC occurs at toes instead of heels
+- Foot slap: audible slap following initial contact
+    - D/t weak dorsiflexors or hypotonia
+- Foot flat: Entire foot contacts ground at IC 
+    - Weak DF
+    - Limited ROM
+    - Immature gait pattern
+- Excessive DF + Uncontrolled forward tibial progression
+    - D/t Weak Plantarflexors
+- Varus foot: IC occurs at lateral foot
+    - Spastic Anterior tibialis
+    - Weak peroneals
+- Claw toes
+    - Spastic toe flexors
+    - Possibly plantar grasp reflex
+- Inadequate push-off
+    - The result of weak plantarflexors, decreased ROM, or pain in the forefoot @osullivanImprovingFunctionalOutcomes2016
+
+:::
+
+## Swing Deviations
+:::{layout-ncol="3"}
+
+### Trunk & Pelvis
+
+- Decreased amplitude in trunk and pelvic rotation
+    - Seen in the elderly and characteristic of several known neurological disorders (e.g., the patient with stroke or Parkinson’s disease) @osullivanImprovingFunctionalOutcomes2016
+- Insufficient forward pelvic rotation (pelvic retraction)
+    - Result of weak abdominal muscles and/or weak hip flexor muscles (for example, in the patient with stroke) @osullivanImprovingFunctionalOutcomes2016
+
+### Pelvis
+
+- Inefficient / insufficient pelvis anterior elevation
+    - Inefficient pelvic anterior elevation leading to pelvic anterior or posterior rotation on the transverse plane, pelvic retraction, pelvic hiking, or a combination of the above
+
+
+:::
+
+# Gait Disorders
+
+## Sensory and Lower motor Gait disorders
+
+- [Steppage Gait]({{< var ref-gait.symptom.steppage >}})
+- [Vestibular Ataxia]({{< var ref-ataxia.vestibular >}})
+- [Visual Ataxia]({{< var ref-ataxia.visual >}})
+- [Waddling Gait]({{< var ref-gait.symptom.waddling >}})
+
+## Simpler Central Origin Gait disorders
+
+Simpler gait disorders of central origin follow lesions located more centrally than the ones causing sensory and lower motor gait disorders. Disorders of pyramidal, cerebellar, or nigral motor systems cause distortion of appropriate postural and locomotor synergies [44]. In general, the correct postural and locomotor responses are selected, but their execution is faulty @brazisLocalizationClinicalNeurology2022
+
+- Spastic Gait
+- Cerebellar Ataxic Gait
+- Parkinsonian gait
+- CHOREIC, HEMIBALLISTIC, AND DYSTONIC GAITS
+
+## Complex Central Origin Gait Disorders
+
+Complex gait disorders of central origin are less well characterized than the ones previously described. Nonetheless, they are probably more common, particularly in the elderly population. In some cases, they are caused by lesions of brainstem nuclei. Some others are due to damage of the control loop that begins in the paracentral cortex and PMC and projects to the putamen. Through direct and indirect pathways, modified by input from the substantia nigra and subthalamic nucleus, the putamen projects to the medial globus pallidus, which inhibits the activity of thalamic neurons in the ventrolateral and ventral anterior nuclei. These thalamic nuclei send facilitatory projections to the frontal cortex. This loop probably plays an important role in mediating overlearned, unconscious motor activity that runs in the background, such as gait and postural reflexes. Patients with lesions in this loop can markedly improve their gait by paying attention to it. They have a faulty “automatic pilot” for postural reflexes. Finally, other gait disorders result from direct dysfunction of the cortex in the posterior portion of the medial frontal region.
+
+
+
+- Cautious Gait
+
+
+
+
+# Kinesiology of Walking
+

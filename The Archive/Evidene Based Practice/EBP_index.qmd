@@ -1,0 +1,14 @@
+---
+title: EBP index
+---
+
+- Article Search
+    - Examination Questions
+    - Prognostic and Risk Questions
+    - Intervention Questions
+- [Article Appraisal]({{< var ref-article.appraisal >}})
+    - [Bias]({{< var ref-bias.path >}})
+    - Error
+- Statistical Analysis
+    - Fitting Models to Data
+    - 

@@ -1,0 +1,20 @@
+---
+title: Root Mean Square Error of Approximation (RMSEA)
+---
+
+"One of the most widely used measures that attempts to correct for the tendency of the x2 GOF test statistic to reject models with a large samples or a large number of observed variables is the root mean square error of approximation (RMSEA). This measure better represents how well a model fits a population, not just a sample used for estimation [25]. It explicitly tries to correct for both model complexity and sample size by including each in its computation. Lower RMSEA values indicate better fit. The question of what is a “good” RMSEA value is debatable. Although previous research had sometimes pointed to a cut-off value of .05 or .08, more recent research points to the fact that drawing an absolute cut-off for RMSEA is inadvisable [17]. An empirical examination of several measures found that the RMSEA was best suited to use in a confirmatory or competing models strategy as samples become larger [47]. Large samples can be considered as consisting of more than 500 respondents. One key advantage to RMSEA is that a confidence interval can be constructed giving the range of RMSEA values for a given level of confidence. Thus, it enables us to report that the RMSEA is between 0.03 and 0.08, for example, with 95 percent confidence.
+" @hairMultivariateDataAnalysis2019 
+
+
+# Interpretation
+
+The smaller the RMSEA, the better the fit @aronStatisticsPsychology2013.
+
+| RMSEA | Interpretation |
+|-|-|
+| <0.05 | Very Good @aronStatisticsPsychology2013 |
+| <0.10 | Good @aronStatisticsPsychology2013 |
+ 
+:::{.callout-note}
+0.05 is generally used a cutoff value for RMSEA which is often the same as the cut-off for *p*-values, but this is merely a coincidence @aronStatisticsPsychology2013
+:::

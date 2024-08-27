@@ -1,0 +1,77 @@
+---
+title: Long Thoracic Nerve
+---
+
+
+# Origin {#origin}
+
+The Long Thoracic Nerve originates from the anterior rami of [C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}) @duttonDuttonOrthopaedicExamination2020.
+
+# Path
+
+1. [C5]({{< var ref-nerve-root.c5 >}}) and [C6]({{< var ref-nerve-root.c6 >}}) along with the [Dorsal Scapular Nerve]({{< var ref-dorsal-scapular-nerve.path >}}) pass through the [Middle Scalene muscle]({{< var ref-middle-scalene.path >}}); whereas [C7]({{< var ref-nerve-root.c7 >}}) passes anterior to it @duttonDuttonOrthopaedicExamination2020. 
+1. The Long Thoracic Nerve then travels *inferior* to the brachial plexus and clavicle then superiorly to the 1st rib @duttonDuttonOrthopaedicExamination2020.
+1. Next the LT nerve descends along the lateral aspect of the chest wall and innervates the [Serratus anterior muscle]({{< var ref-serratus-anterior.path >}}).
+1. The LT nerve extends as far inferior as the 8th or 9th rib @duttonDuttonOrthopaedicExamination2020.
+
+
+# Motor Innervation
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "long_thoracic_nerve"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Long Thoracic n. Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Function
+
+- Since the Long Thoracic Nerve only originates from the anterior rami, it only has motor innervation.
+- The Long thoracic nerve is the only innervation to the [serratus anterior muscle]({{< var ref-serratus-anterior.path >}}) @duttonDuttonOrthopaedicExamination2020.
+
+# Dysfunction
+
+The long and superficial course of the Long Thoracic Nerve causes it to be susceptible to a variety of injuries:
+
+1. Entrapment of the [C5]({{< var ref-nerve-root.c5 >}}) and [C6]({{< var ref-nerve-root.c6 >}}) when passing through the [middle scalene muscle]({{< var ref-middle-scalene.path >}}) @duttonDuttonOrthopaedicExamination2020.
+1. Compression of the Long Thoracic nerve via traction to the UE by the undersurface of the scapula, as the nerve crosses over the second rib @duttonDuttonOrthopaedicExamination2020. 
+1. "Compression and traction to the nerve by the inferior angle of the scapula during general anesthesia, or with vigorous passive abduction of the arm" @duttonDuttonOrthopaedicExamination2020.  
+
+
+"Lesions of the long thoracic nerve are common and are the single most common peripheral nerve lesion at the shoulder. The most common cause of long thoracic nerve injury results from carrying a heavy object on the shoulder. Other causes include postinfection, postinjection, postpartum, and postoperative origins.16 Similar to other peripheral nerve injuries, trauma to the nerve can be caused by a direct blow or a traction force to the nerve." @duttonDuttonOrthopaedicExamination2020 
+
+"The traction injury can occur when concurrent head rotation away, side bending away, and neck flexion are coupled with the arm positioned overhead. Other mechanisms that have been attributed to long thoracic nerve dysfunction include lifting weights overhead, driving a golf ball, and serving a tennis ball.16 ": @duttonDuttonOrthopaedicExamination2020
+
+# Clinical Presentation
+
+Long Thoracic Nerve dysfunction generally presents as:
+
+- "Vague pain in the neck and the scapula region" @duttonDuttonOrthopaedicExamination2020.
+- "An inability to fully elevate the arm overhead" @duttonDuttonOrthopaedicExamination2020.
+- "Shoulder flexion and abduction are weak and limited in active range of motion (AROM) due to the loss of the trapezius–serratus anterior force couple"
+    - (see Chapter 16 of Dutton @duttonDuttonOrthopaedicExamination2020).
+- Scapular winging 
+
+# Intervention
+
+Conservative intervention includes:
+
+- Protection of the serratus anterior with a brace or restraint @duttonDuttonOrthopaedicExamination2020
+- Muscle taping @duttonDuttonOrthopaedicExamination2020
+- Strengthening exercises for the rhomboids, pectoralis, trapezius, and serratus anterior muscles @duttonDuttonOrthopaedicExamination2020.

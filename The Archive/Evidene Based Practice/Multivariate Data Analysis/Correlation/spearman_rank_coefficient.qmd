@@ -1,0 +1,29 @@
+---
+title: Spearman Rank Coefficient ($\rho$)
+---
+
+Abbreviations & other names: 
+
+- $\rho$
+- r~s~
+
+
+# Comparison to other tests
+
+[See Spearman Rank coefficient ($\rho$) vs pearson product-moment correlation (r) vs linear regression]({{< var ref-linear-correlation.path >}})
+
+# Purpose
+
+- Similar to Pearson Correlation Coefficient @schoberCorrelationCoefficientsAppropriate2018
+- Ordinal data  @schoberCorrelationCoefficientsAppropriate2018
+- Not restricted to Continuous variables  @schoberCorrelationCoefficientsAppropriate2018
+- Ranking converts nonlinear data into a linear relationship  @schoberCorrelationCoefficientsAppropriate2018
+
+Measure: Strength of relationship between the ranks of the values of 2 variables  @schoberCorrelationCoefficientsAppropriate2018
+
+# Range
+-1 to +1  @schoberCorrelationCoefficientsAppropriate2018
+
+# Interpretation
+
+Observed correlation does NOT assume causation only Association  @schoberCorrelationCoefficientsAppropriate2018

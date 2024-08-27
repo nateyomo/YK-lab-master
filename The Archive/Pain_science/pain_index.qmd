@@ -1,0 +1,30 @@
+---
+title: Index of pain
+---
+
+## Pain Terms & Taxonomies 
+
+- [Pain (overview)]({{< var ref-pain-overview.path >}})
+- [Acute Pain]({{< var ref-acute-pain.path >}})
+- [Chronic Pain]({{< var ref-chronic-pain.path >}})
+- [Recurrent Pain]({{< var ref-recurrent-pain.path >}})
+- [Caner Pain]({{< var ref-cancer-pain.path >}})
+- [Transient Pain]({{< var ref-transient-pain.path >}})
+
+## CRPS
+
+- [CRPS (overview)]({{< var ref-CRPS.path >}})
+- [CRPS Type I (Formerly reflex sympathetic dystrophy)]({{< var ref-CRPS-type1.path >}})
+- [CRPS Type II (formerly causalgia)]({{< var ref-CRPS-type2.path >}})
+
+## Physiology of pain
+
+## Interventions
+
+[Graded Motor Imagery]({{< var ref-graded-motor-imagery.path >}})
+
+## sensitization
+
+- [Allodynia]({{< var ref-allodynia.path >}})
+- [Analgesia]({{< var ref-analgesia.path >}})
+- [Hyperalgesia]({{< var ref-hyperalgesia.path >}})

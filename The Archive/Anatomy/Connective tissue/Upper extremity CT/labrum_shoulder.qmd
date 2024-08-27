@@ -1,0 +1,24 @@
+---
+title: Shoulder Labrum
+---
+
+
+
+# Anatomy
+
+- Serves as a medial attachment point for the shoulder joint capsule @duttonDuttonOrthopaedicExamination2020 
+
+# Function
+
+
+# SLAP Lesion
+
+- The compression rotation test 
+    - "was performed with the patient supine and by elevating the patient’s arm 90° and rotating the arm while applying an axial load"
+    - "The test was positive if the patient reported pain or a click deep in the shoulder" @gillNeurologicComplicationsCOVID192023
+- "Active compression test was performed with the affected arm slightly adducted and forward-flexed 90°"
+    - "The patient tried to elevate the arm with the palm up and then with the thumb pointing downward against resistance" @gillNeurologicComplicationsCOVID192023
+    - Positive: "Pain in the front of the arm with either maneuver was noted, recorded" @gillNeurologicComplicationsCOVID192023
+- The anterior slide test @gillNeurologicComplicationsCOVID192023
+    - "The patient stood with the hand on the hip of the affected side, and the examiner applied an axial load along the humerus" @gillNeurologicComplicationsCOVID192023
+    - "The test was considered positive when this maneuver produced pain or a click."

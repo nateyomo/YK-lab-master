@@ -1,0 +1,30 @@
+---
+title: Trigeminal Sensory Nuclei
+---
+
+::: {.callout-note collapse="true"}
+# AKA
+
+- Principal sensory nucleus of CN V
+- Central sensory nucleus of CN V
+:::
+
+# Anatomy
+
+- "This nucleus lies lateral to the entering trigeminal root fibers in the upper pons" @jooMicrosurgicalAnatomyTrigeminal2014 
+
+## Pathway
+
+- "Trigeminal fibers from the principal sensory nucleus are both crossed and uncrossed to terminate the ventral posteromedial (VPM) nucleus of the thalamus." @jooMicrosurgicalAnatomyTrigeminal2014
+
+## Trigeminothalamic tract
+
+- "Crossed fibers originated from the ventral part of the nucleus ascend in association with the contralateral medial lemniscus to form ventral [trigeminothalamic tract]({{< var ref-trigeminothalamic-tract.path >}})." @jooMicrosurgicalAnatomyTrigeminal2014
+- "Uncrossed fibers originated from the dorsomedial part of the nucleus ascend close to the central gray of the midbrain to form [dorsal trigeminothalamic tract]({{< var ref-trigeminothalamic-tract.path >}})"
+
+# Function
+"The trigeminal sensory nucleus convey impulses for tactile and pressure sense. It is arranged in dorsoventral organization. Fibers of the ophthalmic division terminate ventrally, fibers of the maxillary division are intermediate, and fibers of the mandibular division are most dorsal" @jooMicrosurgicalAnatomyTrigeminal2014
+
+
+
+

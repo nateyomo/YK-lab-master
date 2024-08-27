@@ -1,0 +1,53 @@
+---
+title: Calcaneus (Bone)
+---
+
+The calcaneus is the largest bone in the foot, found at the most plantar posterior aspect @faresSeverDiseasePediatric2021.
+
+
+"It is associated distally with the cuboid and superiorly with the talus to constitute part of the midtarsal joint" @faresSeverDiseasePediatric2021. 
+
+# Insertions
+
+The insertion of three muscles takes place at the calcaneus: the gastrocnemius, the soleus, and the plantaris @faresSeverDiseasePediatric2021.
+
+# Clinical Significance
+"The insertion of the Achilles tendon, along with other muscles and ligaments necessary for walking, takes place in the lower posterior side of the calcaneus" @faresSeverDiseasePediatric2021.
+
+
+
+
+# Apophysis
+- "Adjacent to the insertion of the Achilles tendon exists the apophysis, a bony growth center subject to prominent axial load." @faresSeverDiseasePediatric2021
+- The apophysis growth plate remains open till ~14years @faresSeverDiseasePediatric2021.
+
+:::{.callout-note}
+In **pediatric** patients apophysis is considered to be the weakest point in the muscle-tendon-bone attachment @faresSeverDiseasePediatric2021
+
+The weakest points in the muscle-tendon-bone attachment in adults is the achilles tendon @faresSeverDiseasePediatric2021.
+:::
+
+# Palpation
+
+"At the distal end of the Achilles tendon is the calcaneal tuberosity. The posterior aspect of the calcaneus and surrounding soft tissue is palpated for evidence of exostosis (“pump bump” or Haglund’s deformity) and associated swelling (retrocalcaneal bursitis). The inferior medial process of the calcaneus, just distal to the weight-bearing portion of the calcaneus, serves as the attachment of the plantar fascia and is often tender with plantar heel pain." @duttonDuttonOrthopaedicExamination2020 
+
+# Dysfunction
+
+- The apophysis In the pediatric patient, the apophysis is considered the weakest point in the muscle-tendon-bone attachment, as opposed to the tendon in adults
+
+:::{layout-ncol="3"}
+### Infection
+
+- [Calcaneal Osteomyelitis]({{< var ref-calcaneus-bone.osteomyelitis >}})
+
+### MSK
+
+- [Sever's Disease (Calcaneal Apophysitis)]({{< var ref-calcaneus-bone.apophysitis >}})
+
+:::
+
+
+
+# Sustentaculum Tali
+
+"Distal and inferior to the medial malleolus, a shelf-like bony prominence of the calcaneus, the sustentaculum tali, can be palpated. At the posterior aspect of the sustentaculum tali, the talocalcaneal joint line can be palpated." @duttonDuttonOrthopaedicExamination2020 

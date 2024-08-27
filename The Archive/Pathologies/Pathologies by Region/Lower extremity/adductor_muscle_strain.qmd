@@ -1,0 +1,9 @@
+---
+title: Adductor Muscle Strain
+---
+
+<!-- Place adductor muscle group OIAN here -->
+
+
+# DDX
+Presents similar to a [pelvic stress fracture]({{< var pelvic-stress-fracture.path >}}) @kielStressReactionFractures2023

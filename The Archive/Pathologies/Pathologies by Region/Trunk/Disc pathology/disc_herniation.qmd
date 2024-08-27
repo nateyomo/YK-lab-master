@@ -1,0 +1,70 @@
+---
+title: Disc Herniation
+---
+
+
+# Types of HNP
+
+:::{layout-ncol="3"}
+
+### Lateral
+
+Could be a single nerve root
+
+### Posterior lateral
+Could impinge cord and/or nerve roots
+
+:::
+
+
+# Nerve involvement
+
+:::{layout-ncol="2"}
+### Spinal Cord
+
+- DTR
+    - LMN at the segment
+    - UMN Below the segment
+- Symptoms
+    - Bilateral
+    - Sensation: 
+    - Motor: 
+
+### Nerve Root
+
+- DTR
+    - LMN at the segment
+    - No sx below the segment
+- Symptoms
+    - Unilateral
+    - Sensation: Dermatomal pattern
+    - Motor: Myotome pattern
+
+:::
+
+
+# Inflammation
+
+:::{.callout-note}
+
+- Palada V, Ahmed AS, Finn A, Berg S, Svensson CI, Kosek E. Characterization of neuroinflammation and periphery-to-CNS inflammatory cross-talk in patients with disc herniation and degenerative disc disease. Brain Behav Immun. 2019;75:60-71. doi:10.1016/j.bbi.2018.09.010
+- Song C, Zhou D, Cheng K, et al. Bioinformatics-based discovery of intervertebral disc degeneration biomarkers and immune-inflammatory infiltrates. JOR Spine. 2023;7(1):e1311. Published 2023 Dec 22. doi:10.1002/jsp2.1311
+:::
+## Cytokines
+
+:::{.callout-note}
+
+- Role of cytokines in intervertebral disc degeneration: pain and disc content @risbudRoleCytokinesIntervertebral2014
+:::
+
+# Resorption
+
+:::{.callout-note}
+Yu P, Mao F, Chen J, et al. Characteristics and mechanisms of resorption in lumbar disc herniation. Arthritis Res Ther. 2022;24(1):205. Published 2022 Aug 23. doi:10.1186/s13075-022-02894-8
+:::
+
+# Exercise
+
+:::{.callout-note}
+Wang Z, Liu X, Gao K, Tuo H, Zhang X, Liu W. Clinical effects and biological mechanisms of exercise on lumbar disc herniation. Front Physiol. 2024;15:1309663. Published 2024 Jan 16. doi:10.3389/fphys.2024.1309663
+:::

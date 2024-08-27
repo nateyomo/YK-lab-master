@@ -1,0 +1,17 @@
+---
+title: Fleiss' Kappa
+---
+
+Fleiss’ K is based on the concept that the observed agreement is corrected for the agreement expected by chance. Krippendorff’s alpha in contrast is based on the observed disagreement corrected for disagreement expected by chance @zapfMeasuringInterraterReliability2016. 
+
+From the available kappa and kappa-like coefficients we chose Fleiss’ K [10] for this study because of its high flexibility. It can be used for two or more categories and two or more raters. However, similarly to other kappa and kappa-like coefficients, it cannot handle missing data except by excluding all observations with missing values @zapfMeasuringInterraterReliability2016.
+
+
+# Use
+
+For nominal data with no missing values both Fleiss’ Kappa and [Krippendorff’s alpha]({{< var ref-krippendorffs-alpha.path >}}) can be recommended
+
+
+# Calculation
+
+For the calculation of the expected agreement for Fleiss’ K,the sample size is taken as infinite, while for Krippendorff’s alpha the actual sample size is used @zapfMeasuringInterraterReliability2016

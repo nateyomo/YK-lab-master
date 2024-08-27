@@ -1,0 +1,5 @@
+---
+title: Corpora Quadrigemina
+---
+
+Composed of the  [Superior colliculi]({{< var ref-superior-colliculus.path >}}) and [Inferior Colliculi]({{< var ref-inferior-colliculus.path >}})

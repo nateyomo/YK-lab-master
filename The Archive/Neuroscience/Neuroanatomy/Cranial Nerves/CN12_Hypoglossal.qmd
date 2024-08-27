@@ -1,0 +1,26 @@
+---
+title: CNXII Hypoglossal Nerve
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Dysfunction
+
+| Syndrome (Eponym) | Nerves Affected | Location of Lesion |
+|-|-|-|
+| Collet-Sicard | CN [IX]({{< var ref-cn9.path >}}), [X]({{< var ref-cn10.path >}}), [XI]({{< var ref-cn11.path >}}), [XII]({{< var ref-cn12.path >}}) @brazisLocalizationClinicalNeurology2022  | Retroparotid space usually <br> Lesion may be intracranial or extracranial @brazisLocalizationClinicalNeurology2022  |
+| Villaret | CN [IX]({{< var ref-cn9.path >}}), [X]({{< var ref-cn10.path >}}), [XI]({{< var ref-cn11.path >}}), [XII]({{< var ref-cn12.path >}}) <br> Plus the sympathetic chain <br> [CN VII]({{< var ref-cn7.path >}}) is occassionally involved @brazisLocalizationClinicalNeurology2022  | Retroparotid or retropharyngeal space @brazisLocalizationClinicalNeurology2022  |
+| Jackson | CN [IX]({{< var ref-cn9.path >}}), [X]({{< var ref-cn10.path >}}), & [XI]({{< var ref-cn11.path >}}) @brazisLocalizationClinicalNeurology2022  | May be intraparenchymal (medulla); <br> Usually intracranial before nerve fibers leave the skull @brazisLocalizationClinicalNeurology2022 |
+| Tapia | CN [X]({{< var ref-cn10.path >}}) & [XII]({{< var ref-cn12.path >}}) <br> ([CNXI]({{< var ref-cn11.path >}}) and the sympathetic chain are occassionally involved) @brazisLocalizationClinicalNeurology2022 | Usually high in the neck @brazisLocalizationClinicalNeurology2022  |
+| Garcin (hemibase syndrome) | All Cranial Nerves on one side <br> (often incomplete) @brazisLocalizationClinicalNeurology2022  | Often infiltrative; <br> Arising from base of skull (especially nasopharyngeal carcinoma) @brazisLocalizationClinicalNeurology2022  |
+: Syndromes involving CN9-12 (CNIX-CNXII) from Table 13-1 @brazisLocalizationClinicalNeurology2022 {.striped .hover}

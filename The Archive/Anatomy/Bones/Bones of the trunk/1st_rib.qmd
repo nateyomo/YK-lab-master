@@ -1,0 +1,73 @@
+---
+title: 1st Rib (Bone)
+---
+
+# Anatomy
+
+Types of cervical rib:
+
+- Type I: complete cervical rib articulates with the first rib or manubrium of sternum @hooperPart1ThoracicOutletSyndrome2010
+- Type II: incomplete cervical ribs with a free end expanded to form a bulbous tip @hooperPart1ThoracicOutletSyndrome2010
+- Type III: an incomplete rib that is continued by a fibrous band @hooperPart1ThoracicOutletSyndrome2010
+- Type Iv: rib that appears as a short bar of bone with a length of a few millimeters beyond the C7 TP @hooperPart1ThoracicOutletSyndrome2010
+
+# Variations
+
+- Type I: complete cervical rib articulates with the first rib or manubrium of sternum @hooperPart1ThoracicOutletSyndrome2010
+- Type II: incomplete cervical ribs with a free end expanded to form a bulbous tip @hooperPart1ThoracicOutletSyndrome2010
+- Type III: an incomplete rib that is continued by a fibrous band @hooperPart1ThoracicOutletSyndrome2010
+- Type IV: rib that appears as a short bar of bone with a length of a few millimeters beyond the C7 TP @hooperPart1ThoracicOutletSyndrome2010
+
+
+# Muscle attachments
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Subclavius]({{< var ref-subclavius.path >}}) | {{< var ref-subclavius.origin >}} | {{< var ref-subclavius.insertion >}} | {{< var ref-subclavius.nerve >}} | {{< var ref-subclavius.action >}} |
+
+: {.striped .hover}
+
+# Elevation {#elevation}
+
+1st rib elevation is a cause of [Thoracic Outlet Syndrome]({{< var ref-thoracic-outlet.syndrome >}}) @duttonDuttonOrthopaedicExamination2020
+
+# Hypomobility {#hypomobility}
+
+1st Rib hypomobility or restriction can be caused by:
+
+- 1st rib subluxation at costotransverse joint
+
+Can result in secondary pathologies, such as:
+
+-  Thoracic outlet syndrome (TOS)
+
+- Tests:
+    - [Cervical Rotation Lateral Flexion]({{< ref-cervical-rotation-lateral-flexion.path >}})
+    - [Costoclavicular Test]({{< var ref-tos-costoclavicular-test.path >}})
+
+# Assessment
+
+## Presentation
+
+- Neck and vague ipsilateral upper limb distribution of symptoms (pain and paresthesia) @mastromarchiFirstRibDysfunction2021
+    - Especially ulnar nerve distribution
+
+## Aggravations
+
+Functional
+
+- Restricted and aggravating Neck activity @mastromarchiFirstRibDysfunction2021
+    - BIL neck rotations @mastromarchiFirstRibDysfunction2021
+    - BIL lateral-flexions @mastromarchiFirstRibDysfunction2021
+    - BIL combined movements with extension were the main aggravating activities with restricted range of movement @mastromarchiFirstRibDysfunction2021
+- Shoulder girdle @mastromarchiFirstRibDysfunction2021
+- Respiratory activities @mastromarchiFirstRibDysfunction2021
+
+Assessment
+
+
+
+## Onset
+
+Onset was associated with direct traumas, whiplash, shoulder girdle efforts, such as carrying heavy bags or pulling on ipsilateral arm, and shoulder surgery @mastromarchiFirstRibDysfunction2021
+

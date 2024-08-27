@@ -1,0 +1,20 @@
+---
+title: Hydrogen Carbonate (HCO~3~^-^)
+---
+
+
+
+Acts as an Acid-base buffer in the bloodstream
+
+# Dysfunction
+
+:::{layout-ncol="2"}
+
+### High HCO~3~^-^
+
+Leads to metabolic acidosis
+
+### Low HCO~3~^-^
+
+Leads to metabolic alkalosis
+:::

@@ -1,0 +1,26 @@
+---
+title: Locus Coeruleus
+---
+
+- Norepinephrine: Main source of NE in brain
+    - Pain & Stress response
+- Lateral to colliculus facialis
+- Blue spot = melanin
+
+
+# Anatomy
+
+Within the reticular formation
+
+
+
+# Input
+
+- Activated by nerves from the Periaqueductal Gray (PAG)
+
+:::{.callout-note}
+Opioids inhibit the GABA neuron in the PAG, which increases activation of the nerves coming from the PAG and increasing release of NE by the Locus Coeruleus
+:::
+
+
+# Output

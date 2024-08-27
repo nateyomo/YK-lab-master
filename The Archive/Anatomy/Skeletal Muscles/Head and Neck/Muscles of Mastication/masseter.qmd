@@ -1,0 +1,39 @@
+---
+title: Masseter muscle
+---
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Masseter muscle]({{< var ref-masseter.path >}}) | {{< var ref-masseter.origin >}} | {{< var ref-masseter.insertion >}} | {{< var ref-masseter.nerve >}} | {{< var ref-masseter.action >}} |
+
+# Origin {#origin}
+**SF layer**: zygomatic arch (ant 2/3); **Deep layer**: Zygomatic arch (post. 1/3) @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+Mandibular angle (Masseteric tuberosity) @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Trigeminal CN V: Mandibular (V~3~)]({{< var ref-cn5.path >}}) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+The primary function of the masseter is to develop potentially large forces between the molars for effective crushing of food @neumannKinesiologyMusculoskeletalSystem2017.
+This is possible since the force vector of the muscle is nearly perpendicular to the biting surface of the molars @neumannKinesiologyMusculoskeletalSystem2017.
+The masseter’s ability to combine ipsilateral excursion (unilateral function) with a strong biting force (Bilateral function) makes it very suitable for grinding food @neumannKinesiologyMusculoskeletalSystem2017
+
+**SF Fibers**: Protrude mandible @gilroyAtlasAnatomy2020
+
+- Bilateral contraction: Elevation [@gilroyAtlasAnatomy2020; @neumannKinesiologyMusculoskeletalSystem2017] and slight protrusion @neumannKinesiologyMusculoskeletalSystem2017
+    - Elevates the mandible @gilroyAtlasAnatomy2020 to bring the teeth into contact during mastication @neumannKinesiologyMusculoskeletalSystem2017
+    - Bilateral action of the masseters also protrudes the mandible slightly.
+
+- Unilateral contraction: Slight I/L excursion @neumannKinesiologyMusculoskeletalSystem2017
+    - This muscle action is most effective when the mandible is positioned in C/L excursion @neumannKinesiologyMusculoskeletalSystem2017
+    -  This position not only stretches the muscle (presumably augmenting its activation), but also increases its force potential within the horizontal plane.
+    - Therefore, this muscle at moving the jaw OUT of C/L excursion and into neutral
+
+
+# Clinical Significance

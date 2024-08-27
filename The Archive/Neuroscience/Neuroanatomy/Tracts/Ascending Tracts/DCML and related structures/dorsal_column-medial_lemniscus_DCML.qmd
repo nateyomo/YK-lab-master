@@ -1,0 +1,15 @@
+---
+title: Dorsal Column / Medial Lemniscus (DC-ML)
+---
+
+
+![Spinal Cord Cross section @osullivanPhysicalRehabilitation2019](/The Archive/Neuroscience/Neuroanatomy/Spinal Cord/images/osullivan fig20.1 spinal cord cross section.png)
+
+
+# Vascular Supply
+
+DCML is vascularized by the posterior spinal arteries @osullivanPhysicalRehabilitation2019
+
+:::{.callout-note title="Clinical Significance"}
+Since the DCML is supplied by the posterior spinal arteries, it is not included in anterior cord syndrome when the anterior spinal artery is compromised @osullivanPhysicalRehabilitation2019.
+:::

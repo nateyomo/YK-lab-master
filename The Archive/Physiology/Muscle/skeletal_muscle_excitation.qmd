@@ -1,0 +1,5 @@
+---
+title: Skeletal Muscle Excitation
+---
+
+When a nerve impulse reaches the *neuromuscular junction*, ~125 vesicles of *ACh* are released from the terminals into the *synaptic cleft*.

@@ -1,0 +1,32 @@
+---
+title: Cuboid Syndrome
+---
+
+:::{.callout title="AKA"}
+
+- Locked cuboid
+- Cuboid fault syndrome
+- Lateral plantar neuritis
+- Subluxed cuboid @dutton
+:::
+
+a common but poorly recognized source of lateral midfoot pain where the cuboid subluxes, commonly in a plantar and medial direction. 
+
+The calcaneocuboid joint can be repetitively subluxed with strong forces, although the subluxation is usually a temporary occurrence. 
+
+# Etiology
+“During excessive inversion and plantar flexion, the fibularis (peroneus) longus contraction may cause a forceful eversion causing the cuboid to sublux medially. In addition, other etiologies have been proposed including overuse, excessive pronation, midtarsal instability, increasing body weight, training on uneven surfaces, or a lateral ankle or lateral foot sprain. “ dutton
+
+# Clinical Presentation
+
+“The cuboid syndrome usually presents with a gradual onset of lateral midfoot pain, which can mimic those of a ligament sprain. The pain is usually localized to the lateral foot near the fourth and fifth metatarsals at the posterior (dorsal) aspect of the cuboid or the calcaneocuboid joint. Often, the patient feels as if he or she is walking with a small stone in their shoe. Maximum discomfort is elicited by pressure directed over the fibular (peroneal) groove on the plantar surface of the calcaneus. On occasion, the hook of the bone under the cuboid breaks or the short plantar ligament tears, producing heel pain. 
+Common findings in the physical examination are a tenderness along the fibularis (peroneus) longus tendon, a subtle forefoot valgus and a pronated foot, as well as a tight fibularis (peroneus) longus tendon. There may also be tenderness at the cuboid groove, the dorsolateral and/or plantar cuboid, or the origin of the EDB muscle.186 “ dutton
+##GAit analysis
+As the pronated foot produces an unstable transverse tarsal joint complex, careful gait analysis will often reveal that the pain is reproduced in terminal stance, at the onset of heel rise. 
+##Strength
+Other findings include asymmetrical weakness of the fibularis (peroneus) longus muscle and decreased ROM of the lateral foot. 
+
+## DDX
+“Differential diagnosis should include fracture or dislocation of the cuboid, calcaneus, or fourth and fifth metatarsals, calcaneonavicular coalition, fibularis or EDB tendinopathy, plantar fasciitis, sinus tarsi syndrome, meniscoid of the ankle, gout, tarsitis, Lisfranc injury, compression neuropathy of the sural nerve, lateral plantar nerve entrapment, and anterolateral ankle impingement.”
+
+# Treatment 

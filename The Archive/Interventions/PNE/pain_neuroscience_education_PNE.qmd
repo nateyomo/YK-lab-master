@@ -1,0 +1,60 @@
+---
+title: Pain Neuroscience Education (PNE)
+---
+
+# Main Points
+
+Three points of PNE
+
+1. Hurt does not equal harm
+1. Thoughts, feelings, actions can all trigger brains pain alarm
+1. A sensitive pain alarm can be rewired w time and practice
+
+# Evidence of PNE
+
+:::{.callout-note}
+See Watson 2019 @watsonPainNeuroscienceEducation2019 
+:::
+
+Watson 2019 found that 
+
+# PNE + Therex
+
+:::{.callout-note}
+see Siddall 2022 @siddallShorttermImpactCombining2022
+:::
+
+
+
+# CBT-Pain
+
+*Modern* form of PNE
+
+:::{.callout-note}
+See Nijs, Phys Ther 2014
+:::
+
+# Treatment
+
+## HEP
+
+- [Retrain Pain](https://www.retrainpain.org/)
+
+
+# Patient Resources
+
+:::{layout-ncol="3"}
+
+### Retrain Pain
+
+- [Retrain Pain](https://www.retrainpain.org/)
+- Retrain pain's website has ~5min slides that can be used as visual aides for explaining pain.
+- Can be used for HEPs
+
+
+### IASP: Living with Pain
+
+- [IASP Living with Pain](https://www.iasp-pain.org/resources/living-with-pain/)
+- IASP provided a list of links that can be used for patients to find help with explaining or pychologically dealing with pain.
+
+:::

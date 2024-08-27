@@ -1,0 +1,9 @@
+---
+title: Abducens Nuclei
+---
+
+![Functional columns of brainstem sensory and motor cranial nerve nuclei (from Blumenfield Figure 12.5 @blumenfeldNeuroanatomyClinicalCases2022)](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.5 blumenfield CN nuclei.png)
+
+A Somatic motor cranial nerve nuclei
+
+[CNVI Abducens]({{< var ref-cn6.path >}}) nerve uses this nucleus

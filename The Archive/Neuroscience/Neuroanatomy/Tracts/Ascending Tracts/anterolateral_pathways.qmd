@@ -1,0 +1,18 @@
+---
+title: Anterolateral Pathways
+---
+
+
+
+![Anterolateral Pathways of the Spinal Cord @blumenfeldNeuroanatomyClinicalCases2022](/The Archive/Neuroscience/Neuroanatomy/Tracts/images/blumenfeld fig7.2 anterolateral pathways.png)
+
+
+
+"Smaller-diameter and unmyelinated axons carrying information about pain and temperature sense also enter the spinal cord via the dorsal root entry zone (see Figure 7.2). However, these axons make their first synapses immediately in the gray matter of the spinal cord, mainly in the dorsal horn marginal zone (lamina I) and deeper in the dorsal horn, in lamina V (see Figure 6.3B; Table 6.2). Some axon collaterals ascend or descend for a few segments in Lissauer’s tract before entering the central gray (see Figures 6.4 and 7.2). Axons from the second-order sensory neurons in the central gray cross over in the spinal cord anterior (ventral) commissure to ascend in the anterolateral white matter. It should be noted that it takes two to three spinal segments for the decussating fibers to reach the opposite side, so a lateral cord lesion will affect contralateral pain and temperature sensation beginning a few segments below the level of the lesion. The anterolateral pathways in the spinal cord have a somatotopic organization (see Figure 7.3) in which the feet are most laterally represented. To help you remember this organization, picture fibers from the anterior commissure adding on medially as the anterolateral pathways ascend in the spinal cord. This somatotopic organization, with arms more medial and legs more lateral, is preserved as the anterolateral pathways pass through the brainstem. When they reach the medulla, the anterolateral pathways are located laterally, running in the groove between the inferior olives and the inferior cerebellar peduncles (see Figures 7.2 and 14.5). They then enter the pontine tegmentum to lie just lateral to the medial lemniscus in the pons and midbrain (see Figures 14.3 and 14.4)." @blumenfeldNeuroanatomyClinicalCases2022
+
+
+
+The anterolateral pathways consist of three tracts:
+1. [Spinothalamic Tract]({{< var ref-spinothalamic-tract.path >}})
+1. [Spinoreticular Tract]({{< var ref-spinoreticular-tract.path >}})
+1. [Spinomesencephalic Tract]({{< var ref-spinomesencephalic-tract.path >}})

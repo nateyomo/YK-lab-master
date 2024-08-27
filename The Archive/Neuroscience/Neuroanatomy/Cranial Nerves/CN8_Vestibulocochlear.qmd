@@ -1,0 +1,35 @@
+---
+title: CNVIII Vestibulocochlear Nerve
+---
+
+
+2 Divisions:
+1)	Vestibular root
+2)	Cochlear Root
+
+Hearing: Cochlear nerve  Cochlear nucleus  C/L superior olive  Lateral lemniscus  Inferior colliculus  Thalamus  Primary auditory cortex
+
+Medial Longitudinal Fasciculus: connects nuclei involved in eye movement to each other & to vestibular nuclei
+
+Semicircular canals:
+Semicircular canal -> Vestibular ganglion -> Vesibular nerve
+
+
+
+# Cochlea
+
+- Multiple decussations = unilateral hearing loss is rare with CNS lesions
+- Dorsal cochlear & ventral cochlear nuclei separated by inferior cerebellar peduncles
+- Cochlea
+- Spiral ganglion
+    - 1) Anterior cochlear nuclei (Medulla) (Pass ventral to inferior cerebellar peduncle
+     - Inf colliculi
+        - medial geniculat nucleus of thalamus
+        - Auditory radiations
+        - Primary Auditory cortex (Brodmann’s area 41) Heschl’s Transverse gyri
+        - (Superior temporal gyrus)
+    - 2) Dorsal cochlear nucleus
+        - Cross pontine tegmentum
+        - Inferior colliculi
+        - Superior olivary nuclear complex (localize sounds horizontall & synapse BIL)
+        - Auditory radiations?

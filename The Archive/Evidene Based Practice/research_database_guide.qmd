@@ -1,0 +1,114 @@
+---
+title: Guide to Research Databases
+---
+
+
+
+
+3 categories of databases:
+
+1. Database does most of the appraisal
+1. Database performs some appraisal
+1. 
+
+
+
+# Appraisal Databases
+## Full-appraisal Databases 
+
+- Cochrane Library (ONLY intervention studies not prognosis)
+- DARE
+
+
+## Semi-appraisal Databases
+
+- PEDro (only intervention not prognosis studies)
+- Hooked on Evidence (requires APTA membership):
+- Rehabilitation Measures: developed to help clinicians and researchers identify reliable and valid instruments used to assess patient outcomes during all phases of rehabilitation.
+
+
+## No-appraisal Databases
+
+- PubMed (most comprehensive database) (prognosis and intervention studies) 
+- CINAHL (focuses on nursing and allied health)
+- ERIC
+- SPORTDiscus (sport, fitness, and sports-med)
+
+# Outcome Measure Databases
+
+- Orthopedic scores: a free outcome measure calculation service for certain orthopaedic OMs
+- Patient‐Reported Health Instruments: includes over 16,00 records with keyword search capability.
+- StrokeEngine: provides information on outcome measures and interventions related to Stroke.
+- The Neurology Section: recommendations for outcome measures used in neurological clinical practice, research and education
+- NIH Toolbox: national database of free health measurement tools in multiple domains
+
+
+# PEDro
+
+[PEDro](https://www.pedro.org.au/)
+
+
+- Gives you a good idea of what is out there in terms of primary research articles (go to methods: SRs, clinical trials, etc) 
+- Developed and maintained by Centre for Evidence-based Physiotherapy (Australia). Updated every 2 weeks
+- USEFUL to decide if a study did or did not have high quality evidence (PEDro will give a score; based on randomized control trials etc)  
+    - Individual trials are rated on a 0 (low) -10 (high) quality scale. Reviews and practice guidelines not rated. Citations ranked in order of quality score
+- PEDro Critical
+    - PEDro critical is an appraisal scale ranges from 0 (lowest quality study) to 10 (highest quality study)
+    - This is helpful for quickly comparing the scientific quality of two or more research articles on a given intervention to help identify the highest level of available evidence for Intervention PICOs questions.
+- Accessibility
+    - Provides free citations and reviews of randomized controlled trials, systematic reviews and evidence-based clinical practice guidelines on physical therapy interventions
+- Able to search by:
+    - Therapeutic approach
+    - Clinical problem
+    - Body part
+    - Physical therapy subspecialty
+
+:::{.callout-note}
+PEDro can only be used for intervention studies and not prognosis
+:::
+
+# Pubmed / Medline
+
+- Developed and maintained by the U.S. National Library of Medicine. Updated daily.  
+- Free, comprehensive online database of over 20 million basic and applied research citations dating back to the 1950s  
+- Provides links to on-line journals that provide full text versions of articles. Full-text articles for all federally funded studies published after April 2008 are provided free to the public 1 year after publication 
+- Unlike Google Scholar, PubMed has rigorous quality standards for which journals are included. Not all allied health journals are indexed
+- Pubmed can be used for any PICOS questions
+    - Only PubMed can be used to search for studies about physical therapy prognosis (as well as examination and intervention)
+
+# Cochrane Database
+
+- Cochrane databases only include intervention studies
+
+# Google Scholar
+
+Although comprehensive and easy to search, Google Scholar has no safeguards for scientific quality and mechanism for filtering out low quality articles returned by "black box" search algorithms, so is not a reputable resource for evidence based practice.
+
+# Other resources
+
+- Fermat's Library
+- Bioarxive: A library of Pre-print articles (note: these are not peer reviewed or even published)
+- ResearchRabbit: An AI helper that assists you to find similar articles
+
+# Study Design
+
+Here is a way to choose what database to use based on your desired study design:
+
+- Meta-Analysis
+    - Cochrane
+    - Pubmed
+    - ACP Journal club
+- Systematic review
+    - Cochrane database
+    - ACP Journal club
+    - Pubmed
+- RCTs
+    - ACP Journal club
+    - Cochrane central register of controlled trials
+    - Pubmed
+- Cohort study
+    - Pubmed
+- Case control study
+    - Pubmed
+- Case series / case report
+    - Pubmed

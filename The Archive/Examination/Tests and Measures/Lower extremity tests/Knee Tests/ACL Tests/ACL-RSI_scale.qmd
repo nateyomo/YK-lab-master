@@ -1,0 +1,20 @@
+---
+title: ACL-Return to Sport after Injury scale
+subtitle: Qualitative Test for Psychological readiness for Sport
+---
+
+
+
+# Prognostic ability
+
+
+# Psychometrics 
+
+# Prognosis
+
+- Patients who score higher above 65 on ACL-RSI at 3 mo are at an increased risk of reinjury within 2 years (UDea 2024)
+
+
+# PDF
+
+{{< pdf "/The Archive/Examination/Tests and Measures/Lower extremity tests/ACL Tests/images/ACL-RSI.pdf" >}}

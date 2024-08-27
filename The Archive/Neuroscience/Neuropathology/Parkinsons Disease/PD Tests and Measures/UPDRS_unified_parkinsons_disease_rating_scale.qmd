@@ -1,0 +1,19 @@
+---
+title: Unified Parkinson’s Disease Rating Scale (UPDRS)
+---
+
+
+
+- Part I: Mentation, Behavior, Mood
+- Part II: Activities of Daily Living (Determine for “on” or “off”, indicating either a “good” or “bad” day, respectively.)
+- Part III: Motor Examination
+- Part IV: Complications of Therapy (in the past week)
+- Part V: H&Y staging scale
+- Part VI: S&E ADL scale
+
+
+
+# Clinical Use
+
+- Used in studies to measure [motor disease severity]({{< var ref-parkinsons-disease.intervention.motor-disease-severity >}}) @osbornePhysicalTherapistManagement2022
+

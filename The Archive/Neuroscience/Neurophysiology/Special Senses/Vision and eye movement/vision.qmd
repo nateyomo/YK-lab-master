@@ -1,0 +1,15 @@
+---
+title: Vision
+---
+
+
+- [Visual perception]({{< var ref-perception.visual >}})
+- Visual attention
+- Visual perception
+- Visual memory
+- Visual discrimination
+- Visual spatial relationships
+- Visual Sequential-Memory: The ability to recall a sequence of objects in the correct order.
+- Visual Figure Ground: The ability to locate something in a busy background.
+- Visual Form Constancy: The ability to know that a form or shape is the same, even if it has been made smaller/larger or has been turned around.
+- Visual Closure: The ability to recognize a form or object when part of the picture is missing.

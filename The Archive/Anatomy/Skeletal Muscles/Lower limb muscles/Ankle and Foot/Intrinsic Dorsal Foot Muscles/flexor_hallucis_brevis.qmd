@@ -1,0 +1,51 @@
+---
+title: Flexor Hallucis Brevis
+---
+
+:::{layout-ncol="3"}
+![Schematic of 3rd layer of Plantar Intrinsic Foot Muscles @gilroyAtlasAnatomy2020 </br> 1: Quadratus Plantae </br> 2: Lumbricals </br> 3: Flexor Hallucis Brevis </br> 4: Adductor hallucis </br> 5: Flexor digiti minimi </br> 6: Opponens digiti minimi </br> 7: Plantar interossei </br> 8: Dorsal Interossei](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.21b schematic intrinsic 3rd layer foot muscles.png)
+
+![3rd Layer of Intrinsic Plantar Foot Muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.22b intrinsic 3rd layer foot muscles.png)
+:::
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Flexor Hallucis Brevis]({{< var ref-flexor-hallucis-brevis.path >}}) | {{< var ref-flexor-hallucis-brevis.origin >}} | {{< var ref-flexor-hallucis-brevis.insertion >}} | {{< var ref-flexor-hallucis-brevis.nerve >}} | {{< var ref-flexor-hallucis-brevis.action >}} |
+: {.striped .hover}
+
+
+3rd layer of the muscles of the sole of the foot
+
+# Origin {#origin}
+
+- Cuboid @gilroyAtlasAnatomy2020
+- Lateral cuneiforms @gilroyAtlasAnatomy2020
+- Plantar calcaneocuboid lig @gilroyAtlasAnatomy2020
+
+
+
+# Insertion {#insertion}
+Base of proximal phalanx 1st toe (via med and lateral sesamoids) @gilroyAtlasAnatomy2020
+
+
+
+# Innervation {#innervation}
+
+- **Medial head**: [Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))
+- **Lateral head**: [Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))
+
+
+# Action {#action}
+
+- **1st MTP**: Flexion @gilroyAtlasAnatomy2020
+- **Longitudinal arch**: Support @gilroyAtlasAnatomy2020
+
+
+
+
+# MMT
+
+"The FHB VIDEO and FHL muscles VIDEO produce MTP joint flexion and IP joint flexion. The foot is maintained in midposition. The first metatarsal is stabilized, and resistance is applied beneath the proximal and distal phalanx of the great toe into toe extension." @duttonDuttonOrthopaedicExamination2020 
+

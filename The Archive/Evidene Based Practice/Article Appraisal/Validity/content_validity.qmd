@@ -1,0 +1,21 @@
+---
+title: Content Validity
+---
+
+[Content validity]({{< var ref-validity.content >}}) is one of the 3 main types of validity and refers to "the degree to which the content of an instrument adequately reflects the construct being measured" @politAssessingMeasurementHealth2015.
+Content validity represents an early and purely qualitative to enhance construct validity of an instrument based on subjective judgments by an examiner @politAssessingMeasurementHealth2015.
+
+:::{.callout-caution}
+Claims about the validity of an instrument should never be based exclusively on evidence of adequate content validity @politAssessingMeasurementHealth2015
+:::
+
+
+# Relevance
+
+:::{layout-ncol="3"}
+### Relevant Situations
+According to Polit, content validity is relevant in studies which involved developing a new instrument @politAssessingMeasurementHealth2015.
+
+### Irrelevant Situations
+Oppositely, Polit stated that content validity was not necessary with existing instruments. Such as texting an *existing* instrument in a new population, adapting or revising an existing instrument, or translating an existing instrument @politAssessingMeasurementHealth2015. It should be noted that this was an example, and should not be applied universally.
+:::

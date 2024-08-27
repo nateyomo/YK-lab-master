@@ -1,0 +1,172 @@
+---
+title: Cardiac dysfunction management
+---
+
+# Revascularization and reperfusion of myocardium
+
+- Thrombolytic therapy
+- Percutaneous revascularization procedures
+    - PTCA (percutaneous transluminal coronary angioplasty)
+    - Balloon procedure
+    - Vessel can not be fully occluded, only partially
+    - Can place stent in valve (keeps vessels open)
+    - A lesser intervention compared to bypass
+    - Most common
+    - Vessels cant be fully occluded
+    - May place endoluminal stents
+
+# Transmyocardial Revascularization
+
+- Catheter w laser tip
+- Creates channels from patent arteries into ischemic area
+- For chronic angina in pts unable to have PTCA or CABG
+- Last line of defense for chronic angina, and unable to target full balloon or bypass (if not great surgical candidates for other procedures)
+
+# CABG
+CABG: Coronary artery bypass graft
+
+:::{.callout title="Reading CABG Documentation"}
+
+- CABGx4 = A CABG with 4 vessels treated
+:::
+
+:::{.callout-caution title="Pump Head"}
+Bypass machine  → can cause pump head (STM loss, brain fog, cognitive issues)
+:::
+
+- Coronary artery is completely occluded (can't do balloon and stent at this point)
+- Causes Ischemia NOT infarction
+- Vascular graft used to revascularize myocardium
+    - Saphenous vein  (MOST times) 
+    - Radial artery
+    - Left internal mammary artery
+    - Right internal mammary artery
+    - Artery to artery is nice, veins have valves 
+- [Median sternotomy]({{< var ref-median-sternotomy.path >}})
+    - Intense, big surgery
+    - Balloon is first line of defense if possible
+    - This will be a couple a day stay 
+
+## Minimally invasive CABG
+
+- Laparoscopic and robotic techniques
+- Avoids median sternotomy
+- Dec’d pain and infection in leg incisions
+- Best for occlusions in ant coronary arteries
+- May combine w/ PTCA for multiple blockages
+- Infection is less common in this approach
+
+## Off Pump CABG
+
+- Median sternotomy
+- Grafting w beating, normothermic heart
+- Regional ischemia for 5-15 min 
+- Reduced inflammatory response, suggests less myocyte injury
+
+
+# Median sternotomy
+
+
+:::{.callout title="Sternal PRecautions"}
+
+- Premise is to reduce [dehiscence]({{< var ref-dehiscence.path >}})
+- Limited evidence on how much this reduces risk of dehiscence
+
+- If high risk for dehiscence  be on sternal precautions for a longer period of time 
+    - Obesity: (obese, 
+    - women/men w larger breasts,
+    - COPD (pressure of coughing), diabetes (delayed healing), smoke, vascular disease) 
+
+- 8 weeks
+- Restrict UE lifting to < 10 pounds
+- No pushing, pulling 
+- No scapular ADDUCTION
+- No resistance or loading of UE past 90 in flexion or abduction 
+    - (don't push thru arms out of chairs however if they must, tell them to move SLOWER →it minimizes forces)
+- Minimal arm use for transfers
+:::
+
+
+# Ablation procedures
+
+Catheter ablation
+
+- Venous access usually
+- Indications
+    - SVT
+    - AV node dysfunction
+    - A fib
+    - A flutter
+    - V tach (certain types)
+- Low power, high freq AC current to destroy cardiac tissue
+
+# Pacemaker
+
+- Electrode placed to create AP to manage arrhythmias
+- Temporary pacing post surgery 
+
+# AICD: Automatic implantable cardiac defibrillator
+
+- Automatic implantable cardiac defibrillator
+    - Hx of life threatening ventricular arrhythmias
+    - V tach
+    - V fib
+    - Should go off automatically
+
+# Life vest External defibrillator
+
+- External defibrillator
+- Sound alarm before shock (opportunity to stop it or sit down)
+- Bridge to AICD or transplant
+- Non surgical candidates 
+- If on heart transplant list or waiting for AICD or those who would not survive AICD surgery
+
+# Valve replacement
+
+- Indications
+    - Mitral or aortic stenosis
+    - Mitral or aortic regurgitation
+- Median sternotomy - unless TAVR (in thru femoral artery– no sternal precautions)
+- Mechanical
+- Durability, longer life
+- Younger pts
+- Downside:
+    - Lifetime anticoagulation →If they have an allergy or they can not take meds →contraindication
+- Biological valves
+    - Older pts
+    - Pig valves usually 
+    - Bleeding disorders
+
+# Mechanical circulatory Assist Devices (not in every hospital)
+
+- Helps pump heart, blood
+- Need additional training for these devices 
+- Percutaneous 
+    - TandemHeart
+    - Impella
+- Surgical
+    - Multiple
+
+# Ventricular Assist Devices 
+
+- Mechanical pump that provides prolonged circulatory assistance in pts who have acute or chronic ventricular failure
+- Temporary or permanent 
+- Temporary; bridge to heart transplantation
+- Permanent: destination therapy
+- Usually LVAD, may be RVAD or BiVAD
+- 5 years to maybe a few decades
+    - Averages are hard to report considering people die right after surgery 
+
+
+# Total Artificial Heart
+
+- 2 FDA approved devices
+- Staff will need significant training
+
+# ECMO
+
+- Extracorporeal membrane oxygenation
+    - Direction oxygenation of blood and removal of CO2
+    - Cardiac or respiratory failure not responding to max medical therapy and mechanical ventilation
+    - Now PTs are starting to mobilize 
+    - Move slowly, ask for help, watch cannula

@@ -1,0 +1,14 @@
+---
+title: Arthrokinematics
+---
+
+Arthrokinematics refers to the motion between joint surfaces @neumannKinesiologyMusculoskeletalSystem2017.
+Joint surfaces are generally considered convex or concave relative to eachother, thus one aspect of the joint is considered convex and the other is considered concave @neumannKinesiologyMusculoskeletalSystem2017.
+
+|Movement| Definition | Analogy |
+|-|-|
+|Roll/Rock | Multiple points along one rotating articular surface contact multiple points on another articular surface @neumannKinesiologyMusculoskeletalSystem2017 | A wheel rotating across a stretch of pavement @neumannKinesiologyMusculoskeletalSystem2017 | 
+| Slide/Glide | A single point on one articular surface contacts multiple points on another articular surface @neumannKinesiologyMusculoskeletalSystem2017 | A nonrotating tire skidding across a stretch of icy pavement @neumannKinesiologyMusculoskeletalSystem2017 |
+| Spin | A single point on one articular surface rotates on a single point on another articular surface @neumannKinesiologyMusculoskeletalSystem2017 | A toy top rotating on one spot on the floor @neumannKinesiologyMusculoskeletalSystem2017 |
+: {.striped .hover}
+

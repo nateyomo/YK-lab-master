@@ -1,0 +1,7 @@
+---
+title: Beta-Lactam Antibiotic class
+---
+
+
+- [Penicillin]({{< var ref-penicillin.path >}})
+- [Cefotaxime]({{< var ref-cefotaxime.path >}})

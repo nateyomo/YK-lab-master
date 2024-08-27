@@ -1,0 +1,5 @@
+﻿Key,Group,Name,Origin,Insertion,Nerve,Nerve Root,Action
+subscapularis.muscle,Rotator Cuff,Subscapularis,Subscapular fossa of [scapula]({{< var ref-scapula-bone.path >}}),humerus_lesser_tubercle,"Upper subscapular nerve,  Lower subscapular nerves","C5, C6",ghj_ir
+infraspinatus.muscle,Rotator Cuff,Infraspinatus,scapula_infraspinous_fossa,humerus_greater_tubercle,suprascapular_nerve,,ghj_er
+supraspinatus.muscle,Rotator Cuff,Supraspinatus,scapula_supraspinous_fossa,humerus_greater_tubercle,suprascapular_nerve,"C4, C5, C6",Initiates ghj_abd
+teres-minor.muscle,Rotator Cuff,Teres Minor,Lateral border of bone.scapula,humerus_greater_tubercle,axillary_nerve,"C5, C6","ghj_er, weak ghj_add, ghj_stabilization"

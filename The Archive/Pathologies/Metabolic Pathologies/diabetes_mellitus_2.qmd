@@ -1,0 +1,30 @@
+---
+title: Diabetes Mellitus Type 2
+---
+
+
+# Pressure Ulcers
+
+$\frac{1}{5}$ of individuals have risk of wound on feet w diabetes.
+Once u have an amputation you are at inc risk of wounds.
+
+
+Guidelines for treatment of diabetic ulcers
+
+- Offloading
+- Infection control
+- Wound bed prep
+- Dressings
+- Surgery
+- Adjuvant agents (topical, device, systemic)
+- Prevention of recurrence
+
+
+
+# Exercise Considerations
+
+RCTs have shown that patients with neuropathy can perform WB exercise without increase risk of skin breakdown.
+
+:::{.callout-note}
+These studies used specific dosing during WB exercise.
+:::

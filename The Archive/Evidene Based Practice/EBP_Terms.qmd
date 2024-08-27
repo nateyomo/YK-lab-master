@@ -1,0 +1,14 @@
+---
+title: EBP Terms and Definitions
+---
+
+
+- [Odds ratio]({{< var ref-odds-ratio.path >}})
+
+
+- Reliability  
+    - Reliability refers to the reproducibility of the measurement when repeated at random in the same subject or specimen.
+
+- Diagnostic accuracy:
+    - Diagnostic accuracy measures tell us about the ability of a test to discriminate between and/or predict disease and health
+

@@ -1,0 +1,60 @@
+---
+title: Statistical Significance
+---
+
+Understanding statistical significance requires an understanding of the interplay between 3 items: 
+
+1. [Decision Errors]({{< var ref-decision-error.path >}}) @aronStatisticsPsychology2013
+1. [Effect Size]({{< var ref-effect-size.path >}}) @aronStatisticsPsychology2013
+1. Statistical Power @aronStatisticsPsychology2013
+
+:::{layout-ncol="3"}
+
+### Decision Errors
+
+Understanding decision errors allows you to determine how confident you are that your conclusions are accurate @aronStatisticsPsychology2013.
+
+### Effect Size
+The p-value demonstrates if there *is* an effect @aronStatisticsPsychology2013.
+Effect size tells you how *big* the effect is @aronStatisticsPsychology2013.
+
+### Statistical Power
+
+
+:::
+
+# Decision Errors
+
+Decision errors refer to when the right procedures lead to wrong decisions/conclusions @aronStatisticsPsychology2013.
+Decision errors in hypothesis testing include Type I Error (&alpha;) and Type II Error (&beta;) @aronStatisticsPsychology2013.
+
+
+:::{layout-ncol="2"}
+
+### Type I Error
+
+- Occurs when the null hypothesis is true and you mistakenly reject it @aronStatisticsPsychology2013.
+- &alpha; is the chance of making a Type I Error
+    - p-value: 0.20 = 20% &alpha;
+    - p-value: 0.05 = 5% &alpha;
+
+### Type II Error
+
+- Occurs when the research hypothesis is true, but not extreme enough to be considered statistically significant @aronStatisticsPsychology2013.
+- &beta; is the chance of committing a type II error @aronStatisticsPsychology2013.
+
+
+:::
+
+
+# Effect Size
+
+- See [Effect Size]({{< var ref-effect-size.path >}}) for more information
+- 
+
+
+# Example
+
+# Interactive Example
+
+- [Interactive example](https://rpsychologist.com/d3/nhst/)

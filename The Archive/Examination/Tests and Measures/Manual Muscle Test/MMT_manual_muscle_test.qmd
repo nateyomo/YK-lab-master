@@ -1,0 +1,17 @@
+---
+title: Manual Muscle Test (MMT)
+---
+
+
+| Letter | Number | Definition |
+|--|-|--------|
+||0 | No evidence of contraction|
+|Tr|1|Slight contraction, no motion|
+| Poor- (P-) |2-|Movement through partial range in gravity eliminated position|
+|Poor (P) |2|Movement through complete range in gravity eliminated position|
+| Poor+ (P+) | 2+ | Movement through complete ROM in gravity eliminated and thru less than half ROM against gravity |
+| Fair- (F-) | 3- | Movement through complete ROM in gravity eliminated and thru less than half ROM against gravity |
+| Fair (F) | 3 | Movement through complete test ROM against gravity |
+| Good (G) | 4 | Movement through complete ROM against gravity and mod resistance |
+| Normal (N) | 5 | Movement through complete test ROM against gravity with MAX resistance|
+: MMT Grading Scale {.striped .hover}

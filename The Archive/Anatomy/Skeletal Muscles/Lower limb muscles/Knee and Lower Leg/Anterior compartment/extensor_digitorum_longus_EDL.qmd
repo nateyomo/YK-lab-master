@@ -1,0 +1,72 @@
+---
+title: Extensor Digitorum Longus (EHL)
+---
+
+
+:::{layout-ncol="3"}
+
+![Schematic of Muscles in the Anterior Compartment of the Leg</br> 1: Tibialis Anterior </br> 2: Extensor Hallucis Longus </br> 3: Extensor Digitorum Longus </br> 4: Fibularis Tertius](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/images/gilroyatlas fig32.22a anterior compartment of leg schematic.png)
+
+
+![Muscles in the Anterior Compartment of the Leg](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/images/gilroyatlas fig32.22b anterior compartment of leg.png)
+
+
+:::
+
+# Overview
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "extensor_digitorum_longus"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Extensor digitorum longus (EDL) Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Origin {#origin}
+
+- Tibia (lateral condyle) @gilroyAtlasAnatomy2020
+- Fibula (head and medial surface) @gilroyAtlasAnatomy2020
+- IO membrane @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+
+- 2nd to 5th toes (*at the dorsal aponeuroses at the bases of the distal phalanges*) @gilroyAtlasAnatomy2020 
+
+# Nerve
+[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **TCJ**: DF
+- **STJ**: Eversion
+- **MTP & IP 2-5 Toe**: Extension
+
+
+
+
+
+
+
+:::
+
+# MMT 
+
+"The EDL and the EDB muscles produce the motion of extension at the MTP and IP joints of the lateral four digits from a flexed position." @duttonDuttonOrthopaedicExamination2020
+
+- Apply resistance dorsal surface of the proximal and distal phalanges into toe flexion @duttonDuttonOrthopaedicExamination2020 

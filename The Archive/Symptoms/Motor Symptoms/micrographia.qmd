@@ -1,0 +1,18 @@
+---
+title: Micrographia
+---
+
+
+
+Characterized as "small abnormal handwriting" generally considered a symptom of [Parkinson's Disease]({{< var ref-parkinsons-disease.path >}}). @inzelbergMicrographiaMuchWriter2016 
+
+
+# DDX
+
+There are other pathologies that can cause micrographia see @inzelbergMicrographiaMuchWriter2016 
+
+- Neurodegenerative diseases of the BG
+    - PSP @inzelbergMicrographiaMuchWriter2016
+    - Huntington's disease (HD) @inzelbergMicrographiaMuchWriter2016
+    - Corticobasal degeneration @inzelbergMicrographiaMuchWriter2016
+    - Corticobasal syndrome @inzelbergMicrographiaMuchWriter2016

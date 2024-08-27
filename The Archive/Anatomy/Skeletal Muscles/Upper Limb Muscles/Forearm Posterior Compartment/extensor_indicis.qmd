@@ -1,0 +1,37 @@
+---
+title: Extensor Indicis
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Extensor Indicis]({{< var ref-extensor-indicis.path >}}) | {{< var ref-extensor-indicis.origin >}} | {{< var ref-extensor-indicis.insertion >}} | {{< var ref-extensor-indicis.nerve >}} | {{< var ref-extensor-indicis.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+- Ulna (posterior surface) @gilroyAtlasAnatomy2020
+- IO membrane @gilroyAtlasAnatomy2020
+
+
+
+# Insertion {#insertion}
+
+- Posterior digital extension of 2nd digit @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **Wrist**: Extension @gilroyAtlasAnatomy2020
+- **2nd MCP, PIP, DIP**: Extension @gilroyAtlasAnatomy2020
+
+
+
+# Notes

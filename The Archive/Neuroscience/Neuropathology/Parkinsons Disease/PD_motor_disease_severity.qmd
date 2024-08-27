@@ -1,0 +1,19 @@
+---
+title: Motor Disease Severity for Parkinson's Disease
+---
+
+
+# Assessment
+
+- UPDRS III
+
+
+
+# Treatment
+
+
+### Gait Training
+
+- Gait training has mixed evidence, some studies demonstrate significant improvements in motor disease severity and other studies showing no improvement @osbornePhysicalTherapistManagement2022.
+
+

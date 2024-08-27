@@ -1,0 +1,208 @@
+---
+title: "Physiology Index"
+---
+
+# The Cell
+
+# Neurophysiology
+
+- Membrane potentials and action potentials (Guyton & Hall Ch5 @hallGuytonHallTextbook2021)
+
+# Muscle
+
+:::{layout-ncol="3"}
+
+### Skeletal Muscle
+- Contraction of Skeletal Muscle (Guyton & Hall Ch6 @hallGuytonHallTextbook2021)
+- Excitation of Skeletal muscle: Neuromuscular transmission and excitation=contraction coupling (Guyton & Hall Ch7 @hallGuytonHallTextbook2021)
+
+### Smooth Muscle
+- Excitation and Contraction of Smooth muscle (Guyton & Hall Ch8 @hallGuytonHallTextbook2021)
+
+### Cardiac Muscle
+
+- see the [The heart](#heart)
+
+
+:::
+
+# Heart {#heart}
+
+- Cardiac Muscle; the heart as a pump and function of heart valves (Guyton & Hall Ch9 @hallGuytonHallTextbook2021)
+- Rhythmical excitation of the heart (Guyton & Hall Ch10 @hallGuytonHallTextbook2021)
+- Fundamentals of Electrocardiography (Guyton & Hall Ch11 @hallGuytonHallTextbook2021)
+- Electrocardiographic interpretation of cardiac muscle and coronary blood flow abnormalities: Vectorial analysis (Guyton & Hall Ch12 @hallGuytonHallTextbook2021)
+- Cardiac Arrythmias and their electrocardiographic interpretation (Guyton & Hall Ch13 @hallGuytonHallTextbook2021)
+- Cardiac Output, Venous Return, and Their Regulation (Guyton & Hall Ch20 @hallGuytonHallTextbook2021)
+- Cardiac Failure (Guyton & Hall Ch22 @hallGuytonHallTextbook2021)
+- Heart Valves and Heart Sounds; Valvular and Congenital Heart Defects (Guyton & Hall Ch23 @hallGuytonHallTextbook2021)
+
+# Circulatory System
+
+# Stress Physiology
+
+- [Oxidative stress]({{< var ref-oxidative-stress.path >}})
+
+# Inflammation
+
+
+# Hormones
+
+
+
+
+# Minerals
+[Copper [Cu]]({{< var ref-copper.path >}})
+
+
+# Neurotransmitters
+- [Glutamate]({{< var ref-glutamate.path >}})
+
+
+# Transporters
+- [Excitatory amino acid transporter 2 (EAAT2)]({{< var ref-EAAT2-excitatory-amino-acid-transporter-2.path >}})
+
+# Vitamins
+
+
+# Circulatory System
+
+- Overview of the Circulation: Pressure, Flow, and Resistance (Guyton & Hall Ch14 @hallGuytonHallTextbook2021)
+15 - Vascular Distensibility and Functions of the Arterial and Venous Systems (Guyton & Hall Ch15 @hallGuytonHallTextbook2021)
+16 - The Microcirculation and Lymphatic System: Capillary Fluid Exchange, Interstitial Fluid, and Lymph Flow (Guyton & Hall Ch16 @hallGuytonHallTextbook2021)
+17 - Local and Humoral Control of Tissue Blood Flow (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+18 - Nervous Regulation of the Circulation and Rapid Control of Arterial Pressure (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+# Blood Physiology
+
+31 - Acid–Base Regulation (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+# Kidney Physiology
+
+- Role of the Kidneys in Long-­Term Control of Arterial Pressure and in Hypertension: The ­Integrated System for Arterial Pressure Regulation (Guyton & Hall Ch19 @hallGuytonHallTextbook2021)
+- See Brenner & REctor's The kidney
+
+# Exercise Physiology
+
+85 - Sports Physiology (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+21 - Muscle Blood Flow and Cardiac Output ­During Exercise; the Coronary Circulation and Ischemic Heart Disease (Guyton & Hall Ch21 @hallGuytonHallTextbook2021)
+
+- Circulatory Shock and Its Treatment (Guyton & Hall Ch24 @hallGuytonHallTextbook2021)
+
+# Fluid compartments
+- Regulation of Body Fluid Compartments: Extracellular and Intracellular Fluids; Edema (Guyton & Hall Ch25  @hallGuytonHallTextbook2021)
+
+# Urinary System and Kidneys
+
+- The Urinary System: Functional Anatomy and Urine Formation by the Kidneys (Guyton & Hall Ch26  @hallGuytonHallTextbook2021)
+- Glomerular Filtration, Renal Blood Flow, and Their Control (Guyton & Hall Ch27  @hallGuytonHallTextbook2021)
+- Renal Tubular Reabsorption and Secretion (Guyton & Hall Ch28  @hallGuytonHallTextbook2021)
+- Urine Concentration and Dilution; Regulation of Extracellular Fluid Osmolarity and Sodium Concentration (Guyton & Hall Ch29  @hallGuytonHallTextbook2021)
+- Renal Regulation of Potassium, Calcium, Phosphate, and Magnesium; Integration of Renal Mechanisms for Control of Blood Volume and Extracellular Fluid Volume (Guyton & Hall Ch30  @hallGuytonHallTextbook2021)
+
+
+
+32 - Diuretics and Kidney Diseases (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+33 - Red Blood Cells, Anemia, and Polycythemia (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+# Immune System
+
+34 - Resistance of the Body to Infection: I. Leukocytes, Granulocytes, the Monocyte-­Macrophage System, and Inflammation (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+35 - Resistance of the Body to Infection: II. Immunity and Allergy (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+36 - Blood Types; Transfusion; and Tissue and Organ Transplantation (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+37 - Hemostasis and Blood Coagulation (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+# Pulmonary System
+38 - Pulmonary Ventilation (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+39 - Pulmonary Circulation, Pulmonary Edema, and Pleural Fluid (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+40 - Principles of Gas Exchange; Diffusion of Oxygen and Carbon Dioxide Through the Respiratory Membrane (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+41 - Transport of Oxygen and Carbon Dioxide in Blood and Tissue Fluids (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+42 - Regulation of Respiration (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+43 - Respiratory Insufficiency—Pathophysiology, Diagnosis, Oxygen Therapy (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+# Altitude & Space Physiology
+44 - Aviation, High Altitude, and Space Physiology (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+45 - Physiology of Deep-­Sea Diving and Other Hyperbaric Conditions (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+# Nervous system
+
+46 - Organization of the Nervous System, Basic Functions of Synapses, and Neurotransmitters (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+47 - Sensory Receptors, Neuronal Circuits for Processing Information (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+## Sensation Physiology
+
+48 - Somatic Sensations: I. General Organization, Tactile and Position Senses (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+49 - Somatic Sensations: II. Pain, Headache, and Thermal Sensations (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+## Physiology of special senses
+50 - The Eye: I. Optics of Vision (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+51 - The Eye: II. Receptor and Neural Function of the Retina (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+52 - The Eye: III. Central Neurophysiology of Vision (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+53 - The Sense of Hearing (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+54 - The Chemical Senses—Taste and Smell (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+## Spinal Cord
+
+55 - Spinal Cord Motor Functions; the Cord Reflexes (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+56 - Cortical and Brain Stem Control of Motor Function (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+## Cerebellum & BG
+57 - Cerebellum and Basal Ganglia Contributions to Overall Motor Control (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+## Cerebral Cortex 
+
+58 - Cerebral Cortex, Intellectual Functions of the Brain, Learning, and Memory (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+59 - The Limbic System and the Hypothalamus—Behavioral and Motivational Mechanisms of the Brain (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+## Sleep Physiology 
+60 - States of Brain Activity—Sleep, Brain Waves, Epilepsy, Psychoses, and Dementia (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+## Autonomic Nervous System 
+61 - The Autonomic Nervous System and the Adrenal Medulla (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+## Cerebral Blood Flow
+62 - Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+# GI Physiology
+63 - General Principles of Gastrointestinal Function—Motility, Nervous Control, and Blood Circulation  (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+64 - Propulsion and Mixing of Food in the Alimentary Tract (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+65 - Secretory Functions of the Alimentary Tract (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+66 - Digestion and Absorption in the Gastrointestinal Tract (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+67 - Physiology of Gastrointestinal Disorders (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+# Metabolism
+68 - Metabolism of Carbohydrates and Formation of Adenosine Triphosphate (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+69 - Lipid Metabolism (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+70 - Protein Metabolism (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+72 - Dietary Balances; Regulation of Feeding; Obesity and Starvation; Vitamins and Minerals (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+73 - Energetics and Metabolic Rate (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+# Liver
+
+71 - The Liver (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+# Hemostasis
+
+74 - Body Temperature Regulation and Fever (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+# Endocrinology
+
+75 - Introduction to Endocrinology (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+76 - Pituitary Hormones and Their Control by the Hypothalamus (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+77 - Thyroid Metabolic Hormones (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+78 - Adrenocortical Hormones (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+79 - Insulin, Glucagon, and Diabetes Mellitus (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+80 - Parathyroid Hormone, Calcitonin, ­Calcium and Phosphate Metabolism, ­Vitamin D, Bone, and Teeth (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+81 - Reproductive and Hormonal Functions of the Male (and Function of the Pineal Gland) (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+# Female Physiology & Pregnancy
+
+82 - Female Physiology Before Pregnancy and Female Hormones (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+83 - Pregnancy and Lactation (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+
+# Developmental Physiology
+
+84 - Fetal and Neonatal Physiology (Guyton & Hall Ch @hallGuytonHallTextbook2021)
+

@@ -1,0 +1,91 @@
+---
+title: Stress Reactions and Fractures
+---
+
+# Stress injuries
+
+Stress injuries encompass a wide variety of injuries from inflammation to full cortical breaks @kielStressReactionFractures2023:
+
+Stress injuries are a common type of "overuse injury" in athletic populations @kielStressReactionFractures2023
+
+Occur due to repetitive submaximal loading on a bone over time @kielStressReactionFractures2023
+
+
+
+# Risk factors
+
+- Athletes are at higher risk of stress injuries @kielStressReactionFractures2023. Especially sports that combine running or jumping with high volume or intensity @kielStressReactionFractures2023.
+- LE injuries occur more often than UE @kielStressReactionFractures2023
+
+
+
+# Upper Extremity injuries
+
+UE Injuries are much less common than LE stress injuries @kielStressReactionFractures2023.
+Regardless, when a stress injury occurs in the UE, it generally occurs in the ulna @kielStressReactionFractures2023.
+
+
+# Trunk stress fractures
+
+- [Rib Stress fracture]({{< var ref-rib-stress-fracture.path >}})
+
+# Pelvis
+
+Stress fx of the pelvis are difficult to diagnose since these present similar to other causes of groin and hip pain (i.e. adductor strain, osteitis pubis, or sacroiliitis) @kielStressReactionFractures2023
+
+The most common location is the ischiopubic ramus and sacrum @kielStressReactionFractures2023.
+- The most common cause is running @kielStressReactionFractures2023
+
+# Lower Extremity Stress Fx
+
+## Femoral neck
+
+Femoral neck stress fractures alone make up ~11% of stress injuries in athletes @kielStressReactionFractures2023
+
+### Subjective
+Generally, patients complain of hip or groin pain which is aggravated with weight bearing and range of motion (especially internal rotation) @kielStressReactionFractures2023
+
+### Types
+There are 2 types of femoral neck stress fractures: tension-type (or distraction) fractures and compression-type fractures @kielStressReactionFractures2023
+
+**Tension-type femoral neck stress fractures** @kielStressReactionFractures2023
+
+- (AKA distraction type) @kielStressReactionFractures2023
+- Involve the superior-lateral aspect of the neck @kielStressReactionFractures2023
+
+:::{.callout-important}
+Tension type stress fractures Have the highest risk for complete fracture @kielStressReactionFractures2023
+
+Thus, early detection is very important @kielStressReactionFractures2023
+:::
+
+
+**Compression-type fractures**
+
+- Population
+    - Commonly observed in younger athletes @kielStressReactionFractures2023
+    - Common in runners @kielStressReactionFractures2023
+- Involves the inferior-medial femoral neck @kielStressReactionFractures2023
+- Rehabilitation: non-surgical management can be attempted if there is no visible fracture line @kielStressReactionFractures2023
+
+## Femoral shaft
+
+Femoral shaft stress fractures are very common, especially in the military @kielStressReactionFractures2023.
+
+### Subjective
+Generally, patients complain of leg pain that is poorly localized and insidious @kielStressReactionFractures2023
+
+### DDX
+This pathology is often misdiagnosed as muscle injury @kielStressReactionFractures2023. 
+
+### Testing
+
+- An exam is often nonfocal @kielStressReactionFractures2023
+- The “[fulcrum test]({{< var ref-fulcrum-test-stress-fracture.path >}}) ” can be helpful to localize symptoms and rule-in a femoral shaft stress fx @kielStressReactionFractures2023
+
+### Rehab
+
+If imaging does not indicate a cortical break, non-surgical rehab can be attempted @kielStressReactionFractures2023
+
+
+<!-- Finish reading Kiel -->

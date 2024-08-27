@@ -1,0 +1,10 @@
+---
+title: Pressure Injury (PI)
+---
+
+# Psychometrics
+
+- Braden Scale (AUC 0.78) @zhangValuePressureInjury2021
+- Waterlow Scale (AUC 0.56) @zhangValuePressureInjury2021 
+- Cubbin & Jackson Index (AUC 0.90) @zhangValuePressureInjury2021 
+- EVARUCI Scale (AUC 0.82) @zhangValuePressureInjury2021 

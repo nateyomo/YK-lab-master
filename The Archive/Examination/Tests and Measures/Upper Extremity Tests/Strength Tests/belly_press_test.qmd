@@ -1,0 +1,8 @@
+---
+title: Belly Press Test
+---
+
+
+# Accuracy
+
+The "Belly Press Test" could only detect asymmetrical strength in shoulder IR when the involved shouulder was $\leq 84\%$ as strong compared to the non-involved side @nagatomiShoulderManualMuscle2017.

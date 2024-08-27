@@ -1,0 +1,8 @@
+---
+title: Posterior Spinal Arteries
+---
+
+
+
+
+Supplies the [DCML]({{< var ref-dorsal-column-medial-lemniscus.path >}})

@@ -1,0 +1,92 @@
+---
+title: Interventions to Improve Locomotion
+---
+
+
+
+# Training Principles
+
+- Impairment based @osullivanImprovingFunctionalOutcomes2016 
+- Task oriented to the specific task of walking @osullivanImprovingFunctionalOutcomes2016 
+- Goal directed and meaningful to the patient @osullivanImprovingFunctionalOutcomes2016 
+- Shaped and progressed to maximally challenge the patient’s capabilities @osullivanImprovingFunctionalOutcomes2016 
+- Performed multiple times (high number of repetitions) @osullivanImprovingFunctionalOutcomes2016 
+
+
+# Interventions
+
+## High Stepping
+
+[Read more about high stepping interventions]({{< var ref-intervention.high-stepping >}})
+
+# Locomotor Training Environments
+
+:::{layout-ncol="3"}
+
+### Parallel bars
+
+- Sit-to-stand and reverse with and/or without assistive device
+- Static and dynamic standing balance with and/or without assistive device
+- Use of appropriate gait pattern with and/or without assistive device while progressing forward and turning 
+    - (because of limited space, it may not be possible to use an assistive device in standard parallel bars)
+- Weight shifting and weight acceptance
+- [High-stepping](#high-stepping)
+- Stepping forward, backward, sideward, and turning
+
+
+### Overground indoors
+
+- Appropriate gait pattern and assistive device use
+- Weight shifting and weight acceptance
+- Stepping forward, backward, and sideward
+- Crossed-stepping and braiding
+- Walking over and around objects (i.e., obstacle course)
+- Crossing thresholds and entering/exiting through doorways
+- Variations in locomotor task demands (e.g., altering speed, scanning for objects, dual-task activity
+- Stairs
+- Falling and transitioning from the floor to standing
+- Running
+
+
+### Overground Community
+
+- Curb climbing, negotiating ramps, stairs, and sloped surfaces @osullivanImprovingFunctionalOutcomes2016
+- Walking over even and uneven terrain @osullivanImprovingFunctionalOutcomes2016
+- Walking within imposed timing requirements (e.g., crossing at a stoplight, on/off elevators, escalators) @osullivanImprovingFunctionalOutcomes2016
+- Walking for long distances @osullivanImprovingFunctionalOutcomes2016
+- Walking at varying speeds, walk using a rhythmic timing device (e.g. metronome) @osullivanImprovingFunctionalOutcomes2016
+- Walking while scanning for objects in the environment @osullivanImprovingFunctionalOutcomes2016
+- Dual-task training while walking (cognitive and/or motor dual tasks) @osullivanImprovingFunctionalOutcomes2016
+- Walking in open environment with distracters @osullivanImprovingFunctionalOutcomes2016
+- Entering/exiting transportation vehicles @osullivanImprovingFunctionalOutcomes2016
+- Running @osullivanImprovingFunctionalOutcomes2016
+
+
+### BW Support / Treadmill
+
+- Treadmills are a useful tool to progress an individual from maximally tolerated LE load bearing to no BW support @osullivanImprovingFunctionalOutcomes2016
+- Reciprocal stepping pattern with manual assistance at LEs and/or trunk with normal or near normal lower extremity and trunk/pelvis kinematics progressing to no manual assistance @osullivanImprovingFunctionalOutcomes2016
+- Production of rhythmical stepping pattern with arm swing and minimal to no weightbearing through the upper extremities @osullivanImprovingFunctionalOutcomes2016
+- Progress stepping speeds to normative values based on age @osullivanImprovingFunctionalOutcomes2016
+- Walking forward, sideward, and backward @osullivanImprovingFunctionalOutcomes2016
+- Strategies to minimize abnormal/compensatory movement patterns @osullivanImprovingFunctionalOutcomes2016
+- Strategies to improve aerobic capacity @osullivanImprovingFunctionalOutcomes2016
+
+### BW Support Overground
+
+- Walking overground with maximally tolerated lower extremity load bearing progressing to no BWS @osullivanImprovingFunctionalOutcomes2016
+- Use of assistive device (if indicated) for walking on level surfaces @osullivanImprovingFunctionalOutcomes2016
+- Reciprocal stepping pattern with manual assistance at pelvis with normal or near normal lower extremity and trunk/pelvis kinematics progressing to no manual assistance @osullivanImprovingFunctionalOutcomes2016
+- Production of rhythmical, coordinated stepping pattern with arm swing and minimal weightbearing through the upper extremities @osullivanImprovingFunctionalOutcomes2016
+- Strategies to minimize abnormal/compensatory movement patterns @osullivanImprovingFunctionalOutcomes2016
+- Strategies to maintain/regain balance when perturbed @osullivanImprovingFunctionalOutcomes2016
+
+### Assistive Devices
+
+- Function and purpose of assistive device @osullivanImprovingFunctionalOutcomes2016
+- Sit-to-stand and reverse with assistive device @osullivanImprovingFunctionalOutcomes2016
+- Static and dynamic standing balance with assistive device @osullivanImprovingFunctionalOutcomes2016
+- Gait pattern @osullivanImprovingFunctionalOutcomes2016
+- Use of assistive device and appropriate gait pattern indoor overground and overground in community @osullivanImprovingFunctionalOutcomes2016
+
+:::

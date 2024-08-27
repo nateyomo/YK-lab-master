@@ -1,0 +1,19 @@
+---
+title: Plica Syndrome
+---
+
+
+# Examination
+
+
+- Mediopatellar Plica Test (MPP)
+
+
+
+| Test | Sens | Spec | PPV | NPV | LR+ | LR- | Accuracy Value |
+|-|-|-|-|-|-|-|-|
+| MPP Test | 0.895 @kimRelationshipMPPTest2007 | 0.887 @kimRelationshipMPPTest2007 | 0.785 @kimRelationshipMPPTest2007 | 0.944 @kimRelationshipMPPTest2007 | | | 0.89 @kimRelationshipMPPTest2007 |
+: Psychometrics of different Plica Syndrome Tests {.striped .hover}
+
+
+

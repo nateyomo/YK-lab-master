@@ -1,0 +1,107 @@
+---
+title: Brown-Sequard Syndrome
+citation:
+    url: https://nateyomo.github.io/Yomogida-Kerstein-Lab/The%20Archive/Neuroscience/Neuropathology/SCI/Clinical%20Syndromes/brown-sequard_syndrome.html
+---
+
+Brown-Sequard syndrome is a clinical syndrome of SCI involving a hemisection
+
+# Types
+
+:::{layout-ncol="2"}
+
+### Brown-Sequard Syndrome
+
+- Complete hemisection
+- True hemisections are rare
+
+
+### Brown-Sequard Plus Syndrome
+
+- Partial hemisection
+- More common @osullivanPhysicalRehabilitation2019
+:::
+
+# Etiology
+
+
+- Typically caused by penetration wounds—that is, gunshot or stab [@osullivanPhysicalRehabilitation2019; @brazisLocalizationClinicalNeurology2022]
+- Herniated cervical disc @brazisLocalizationClinicalNeurology2022 
+- Post-traumatic arachnoiditis @brazisLocalizationClinicalNeurology2022 
+- Chiropractic manipulation @brazisLocalizationClinicalNeurology2022 
+- Tumor (primary or metastatic) @brazisLocalizationClinicalNeurology2022 
+- Multiple sclerosis @brazisLocalizationClinicalNeurology2022 
+- Other inflammatory/infectious causes @brazisLocalizationClinicalNeurology2022 
+- Spinal cord ischemia / spinal epidural hematoma @brazisLocalizationClinicalNeurology2022 
+- Spinal subdural hematoma @brazisLocalizationClinicalNeurology2022 
+- Hematomyelia @brazisLocalizationClinicalNeurology2022 
+- Spinal cord herniation @brazisLocalizationClinicalNeurology2022 
+
+
+# Pathophysiology
+
+
+- [Lateral corticospinal tract]({{< var ref-lateral-corticospinal-tract.path >}}) (decussates in brain) and  run ipsilaterally, so motor function is affected ipsilaterally
+    - Damage to the lateral corticospinal tract causes ipsilateral upper motor neuron (UMN) symptoms below the level of the lesion @blumenfeldNeuroanatomyClinicalCases2022
+
+## DCML
+
+- [DCML]({{< var ref-dorsal-column-medial-lemniscus.path >}}) decussates above the SC, thus there will be loss or impairments in Proprioception, vibration sense, and deep touch *ipsilateral* to the lesion.
+- Damage to the DCML results in ipsilateral loss of vibration and proprioception (joint position sense) below the level of the lesion [@brazisLocalizationClinicalNeurology2022; @blumenfeldNeuroanatomyClinicalCases2022] 
+- “Ipsilateral loss of proprioceptive function below the level of the lesion due to interruption of the ascending fibers in the posterior columns (dorsal funiculi). Tactile sensation may be normal or minimally decreased [115].” @brazisLocalizationClinicalNeurology2022. 
+
+## Spinothalamic Tracts
+- Due to the anatomy of Lissauer's Tract, [Lateral and ventral spinothalamic tracts]({{< var ref-spinothalamic-tract.path >}}) decussate 1-2 levels above their synapse at the SC so there usually is ipsilateral loss of pain and temp sensation 1-2 segments below the lesion and then *contralateral* loss of pain and temp 2+ levels below the lesion @shamsBrownSequardSyndrome2024 
+- Light touch is affected contralaterally
+
+
+
+# Clinical Presentation
+
+## Motor Symptoms
+
+- UMN lesion symptoms below lesion
+    - Weakness @blumenfeldNeuroanatomyClinicalCases2022
+    - I/L spasticity @brazisLocalizationClinicalNeurology2022 
+    - Hyperreflexia (including clonus) @brazisLocalizationClinicalNeurology2022
+- I/L LMN lesion issues at level 
+- Voluntary motor control issues ipsilaterally, preserved contralaterally. (LCST decussates in the brain)
+
+ 
+“Segmental LMN (segmental weakness and atrophy) and sensory signs (segmental anesthesia) at the level of the lesion due to damage of the anterior horn cells and dorsal rootlets at this level” @brazisLocalizationClinicalNeurology2022
+
+
+
+## Sensory Symptoms
+
+### Ipsilateral
+
+- Sensory Loss
+- 
+- Proprioception ([DCML]({{< var ref-dorsal-column-medial-lemniscus.path >}})) [@brazisLocalizationClinicalNeurology2022; @blumenfeldNeuroanatomyClinicalCases2022]
+- Light touch
+- Vibratory sense below the level of the lesion ([DCML]({{< var ref-dorsal-column-medial-lemniscus.path >}})) [@brazisLocalizationClinicalNeurology2022; @blumenfeldNeuroanatomyClinicalCases2022]
+
+### Contralateral
+
+- Impaired Pain sensation more than 2 levels below the lesion ([Spinothalamic Tract]({{< var ref-spinothalamic-tract.path >}})) 
+- Impaired Temperature sensation more than 2 levels below the lesion ([Spinothalamic Tract]({{< var ref-spinothalamic-tract.path >}}))
+
+:::{.callout-note}
+These symptoms will begin several dermatome segments below the level of injury @osullivanImprovingFunctionalOutcomes2016
+:::
+
+## Other Functions
+
+“Ipsilateral loss of sweating caudal to the level of the lesion due to interruption of descending autonomic fibers in the ventral funiculus, and ipsilateral Horner syndrome, if the lesion is cervical, and ipsilateral hemidiaphragmatic paralysis due to damage of the upper motor neuron (UMN) pathways for breathing, if the lesion is high cervical” @brazisLocalizationClinicalNeurology2022. 
+
+
+
+# Prognosis
+
+- Good functional gains are typically achieved during inpatient rehab @osullivanPhysicalRehabilitation2019.
+
+
+
+
+# References

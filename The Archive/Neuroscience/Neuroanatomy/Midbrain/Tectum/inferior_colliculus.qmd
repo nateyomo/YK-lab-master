@@ -1,0 +1,16 @@
+---
+title: Inferior Colliculus
+---
+
+Part of: Cochlear pathway
+
+# Pathway
+
+## Input
+
+Lateral lemniscus terminates here
+-	Receives info from cochlear nuclei
+
+# Function
+
+Auditory orienting: Processes sounds & localizes them in space

@@ -1,0 +1,12 @@
+---
+title: Glycogen Metabolism
+---
+
+{{< video https://www.youtube.com/watch?v=NL6ETs9k3Wk&pp=ygUVbmluamEgbmVyZCBnbHljb2x5c2lz >}}
+
+
+- Glycogenesis
+- Glycogenolysis
+
+
+{{< video https://youtu.be/NL6ETs9k3Wk?si=ayeyvaTzYHowOkte >}}

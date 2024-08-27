@@ -1,0 +1,34 @@
+---
+title: Occipital Bone
+---
+
+
+
+# Attachment Sites
+## Vague attachment sites
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Lower Trapezius]({{< var ref-lower-trapezius.path >}}) | {{< var ref-lower-trapezius.origin >}} | {{< var ref-lower-trapezius.insertion >}} | {{< var ref-lower-trapezius.nerve >}} | {{< var ref-lower-trapezius.action >}} |
+
+: {.striped .hover}
+
+
+## Superior Nuchal Line
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Sternocleidomastoid]({{< var ref-sternocleidomastoid.path >}}) | {{< var ref-sternocleidomastoid.origin >}} | {{< var ref-sternocleidomastoid.insertion >}} | {{< var ref-sternocleidomastoid.nerve >}} | {{< var ref-sternocleidomastoid.action >}} |
+
+: {.striped .hover}
+
+## Inferior nuchal line
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+|[Rectus Capitis Posterior Major]({{< var ref-rectus-capitis-posterior-major.path >}}) | {{< var ref-rectus-capitis-posterior-major.origin >}} | {{< var ref-rectus-capitis-posterior-major.insertion >}} | {{< var ref-rectus-capitis-posterior-major.nerve >}} | {{< var ref-rectus-capitis-posterior-major.action >}} |
+|[Rectus Capitis Posterior Minor]({{< var ref-rectus-capitis-posterior-minor.path >}}) | {{< var ref-rectus-capitis-posterior-minor.origin >}} | {{< var ref-rectus-capitis-posterior-minor.insertion >}} | {{< var ref-rectus-capitis-posterior-minor.nerve >}} | {{< var ref-rectus-capitis-posterior-minor.action >}} |
+| [Obliquus Capitis Superior]({{< var ref-obliquus-capitis-superior.path >}}) | {{< var ref-obliquus-capitis-superior.origin >}} | {{< var ref-obliquus-capitis-superior.insertion >}} | {{< var ref-obliquus-capitis-superior.nerve >}} | {{< var ref-obliquus-capitis-superior.action >}} |
+: {.striped .hover}
+
+
+

@@ -1,0 +1,10 @@
+---
+title: Carbohydrates
+---
+
+
+:::{.callout title="Readings"}
+
+- CARBOHYDRATES AND GLYCOBIOLOGY @nelsonLehningerPrinciplesBiochemistry2021
+- Carbohydrates (Smith Ch13 @smithBiochemistryOrganicChemistry2020)
+:::

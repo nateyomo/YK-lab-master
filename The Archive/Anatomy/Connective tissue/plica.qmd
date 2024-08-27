@@ -1,0 +1,24 @@
+---
+title: Plica
+---
+
+
+"Synovial plica represents a remnant of the three separate cavities in the synovial mesenchyme of the developing knee. These cavities are supposed to coalesce into one cavity at the 12-week stage of fetal growth.1 The size and extent of this remnant depend on the degree of reabsorption. " @duttonDuttonOrthopaedicExamination2020
+
+
+"The three joints involved in the developing knee from which the remnants evolve are":
+
+1. The joint between the fibular and the femur @duttonDuttonOrthopaedicExamination2020
+2. The joint between the tibia and the femur @duttonDuttonOrthopaedicExamination2020
+3. The joint between the patella and the femur @duttonDuttonOrthopaedicExamination2020
+
+
+"The most common plica in the knee is called the anterior or inferior plica, or mucous ligament.1 This plica is represented by a tape-like fold running from the fat pad to the intercondylar notch of the femur and overlying the ACL. The plicae to the medial and lateral sides of the patella, which run in a horizontal plane from the fat pad to the side of the patellar retinaculum, are referred to as the superomedial or superolateral plicae or the suprapatellar membrane, or the medial or lateral synovial shelf.1" @duttonDuttonOrthopaedicExamination2020 
+
+
+# Dysfunction
+
+- [Plica Syndrome]({{< var ref-plica.syndrome >}})
+
+"It has been suggested that symptomatic synovial plicae are one of the causes of anterior pain in the knee in children and adolescents." @duttonDuttonOrthopaedicExamination2020 
+

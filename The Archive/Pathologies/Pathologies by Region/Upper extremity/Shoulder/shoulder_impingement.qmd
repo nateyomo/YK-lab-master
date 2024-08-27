@@ -1,0 +1,26 @@
+---
+title: Shoulder Impingement
+---
+
+
+# Primary vs Secondary
+
+:::{layout-ncol="2"}
+
+### Primary Impingement
+
+- Constant narrowing of the subacromial space due to tension from structures of the shoulder @allegrucciClinicalImplicationsSecondary1994 
+
+### Secondary Impingement
+
+- Dynamic narrowing of structures in the subacromial space due to instability of the shoulder joint @allegrucciClinicalImplicationsSecondary1994 
+- "Alterations involving the serratus anterior and lower trapezius are a common source of dysfunction, especially in cases of secondary impingement" @duttonDuttonOrthopaedicExamination2020 
+
+
+:::
+
+
+# Examination of Secondary Impingement
+
+- GIRD @duttonDuttonOrthopaedicExamination2020 
+- PST @duttonDuttonOrthopaedicExamination2020 

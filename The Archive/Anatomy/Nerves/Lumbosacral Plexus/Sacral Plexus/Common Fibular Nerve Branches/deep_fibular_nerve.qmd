@@ -1,0 +1,62 @@
+---
+title: Deep Fibualr Nerve
+---
+
+
+# Roots
+
+# Pathway
+
+# Motor innervation
+
+
+
+- Tibialis anterior @gilroyAtlasAnatomy2020
+- Extensors digitorum brevis @gilroyAtlasAnatomy2020
+- Extensors digitorum longus @gilroyAtlasAnatomy2020
+- Extensors hallucis brevis @gilroyAtlasAnatomy2020
+- Extensors hallucis Longus @gilroyAtlasAnatomy2020
+- Fibularis tertius @gilroyAtlasAnatomy2020
+
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "deep_fibular_nerve"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Deep Fibular Nerve Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Tibialis Anterior]({{< var ref-tibialis-anterior.path >}}) | {{< var ref-tibialis-anterior.origin >}} | {{< var ref-tibialis-anterior.insertion >}} | {{< var ref-tibialis-anterior.nerve >}} | {{< var ref-tibialis-anterior.action >}} |
+| [Extensor Hallucis Longus]({{< var ref-extensor-hallucis-longus.path >}}) | {{< var ref-extensor-hallucis-longus.origin >}} | {{< var ref-extensor-hallucis-longus.insertion >}} | {{< var ref-extensor-hallucis-longus.nerve >}} | {{< var ref-extensor-hallucis-longus.action >}} |
+| [Extensor Digitorum Longus]({{< var ref-extensor-digitorum-longus.path >}}) | {{< var ref-extensor-digitorum-longus.origin >}} | {{< var ref-extensor-digitorum-longus.insertion >}} | {{< var ref-extensor-digitorum-longus.nerve >}} | {{< var ref-extensor-digitorum-longus.action >}} |
+| [Fibularis Tertius]({{< var ref-fibularis-tertius.path >}}) | {{< var ref-fibularis-tertius.origin >}} | {{< var ref-fibularis-tertius.insertion >}} | {{< var ref-fibularis-tertius.nerve >}} | {{< var ref-fibularis-tertius.action >}} |
+| [Extensor Digitorum Brevis]({{< var ref-extensor-digitorum-brevis.path >}}) | {{< var ref-extensor-digitorum-brevis.origin >}} | {{< var ref-extensor-digitorum-brevis.insertion >}} | {{< var ref-extensor-digitorum-brevis.nerve >}} | {{< var ref-extensor-digitorum-brevis.action >}} |
+| [Extensor Hallucis Brevis]({{< var ref-extensor-hallucis-brevis.path >}}) | {{< var ref-extensor-hallucis-brevis.origin >}} | {{< var ref-extensor-hallucis-brevis.insertion >}} | {{< var ref-extensor-hallucis-brevis.nerve >}} | {{< var ref-extensor-hallucis-brevis.action >}} |
+: {.striped .hover}
+
+# Cutaneous Innervation
+
+Sensory branches:
+
+- Lateral cutaneous n. of big toe @gilroyAtlasAnatomy2020
+- Medial cutaneous n. of 2nd toe @gilroyAtlasAnatomy2020
+
+# Dysfunction

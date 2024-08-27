@@ -1,0 +1,40 @@
+---
+title: Abductor Pollicis Longus (APL)
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Abductor Pollicis Longus]({{< var ref-abductor-pollicis-longus.path >}}) | {{< var ref-abductor-pollicis-longus.origin >}} | {{< var ref-abductor-pollicis-longus.insertion >}} | {{< var ref-abductor-pollicis-longus.nerve >}} | {{< var ref-abductor-pollicis-longus.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+- Proximal Dorsal Radius @gilroyAtlasAnatomy2020
+- Proximal dorsal Ulna @gilroyAtlasAnatomy2020
+- IO Membrane @gilroyAtlasAnatomy2020
+
+
+
+# Insertion {#insertion}
+
+Base of 1st metacarpal @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **RC**: Radial deviation @gilroyAtlasAnatomy2020
+- **1st CMC**: Abduction @gilroyAtlasAnatomy2020
+
+
+
+
+
+# Notes

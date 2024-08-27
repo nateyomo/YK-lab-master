@@ -1,0 +1,32 @@
+---
+title: One-Way ANalysis Of VAriance (ANOVA)
+---
+
+Alternatives: repeated measures one-way ANOVA
+
+
+# Hypothesis
+
+- Null hypothesis: all populations share the same mean, and nothing but random sampling causes any differences between sample means @motulskyIntuitiveBiostatisticsNonmathematical2018.
+- Alternative hypothesis: all populations do not share the same means. At least one population has a mean different than the rest @motulskyIntuitiveBiostatisticsNonmathematical2018.
+
+# Assumptions
+
+- The samples are randomly selected from, or at least representative of, the larger populations @motulskyIntuitiveBiostatisticsNonmathematical2018.
+- The observations within each sample are obtained independently. The relationships between all the observations in a group should be the same. You don’t have independent measurements if some of the LH measurements are from the same person measured on several occasions or if some of the subjects are twins (or sisters) @motulskyIntuitiveBiostatisticsNonmathematical2018.
+- The data are sampled from populations that approximate a Gaussian distribution. In this case, the assumption applies to the logarithms of LH, so the assumption is that LH values are sampled from a lognormal distribution @motulskyIntuitiveBiostatisticsNonmathematical2018.
+- The SDs of all populations are identical. This assumption applies to scenarios when the sample size is small or when the samples have unequal proportions. In this example, the data were all transformed to logarithms before the analysis was done, so the assumption refers to the log-transformed values @motulskyIntuitiveBiostatisticsNonmathematical2018.
+
+# How it works
+
+
+# Calculation
+
+## Difference Between groups
+
+- Goodness of fit is quantified by the difference between the Sum of squares of the values from the grand mean
+- Grand mean: A value that ignores any distinctions among the three groups
+
+
+
+## Difference within groups

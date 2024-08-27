@@ -1,0 +1,31 @@
+---
+title: Estimating Return to Sport Post-ACL injury
+---
+
+
+
+
+
+# Limb Index Symmetry
+
+:::{layout-ncol="2"}
+
+### Pros
+
+- Better than pure strength assessment
+    - Simonson (2023) found that an increased risk of a second ACL injury with every 1 N·m/kg increase in relative quadriceps strength on the ACL-reconstructed side @simonsonEffectQuadricepsHamstring2023
+    - No effect of relative quad strength on risk of second ACL injury when adjusting for symmetrical quadriceps strength @simonsonEffectQuadricepsHamstring2023
+
+
+### Cons
+
+- Limb Symmetry Indexes Can Overestimate Knee Function After Anterior Cruciate Ligament Injury @wellsandtLimbSymmetryIndexes2017
+- May not be effective at predicting reinjury
+    - "quadriceps strength and symmetry at 6 months did not predict reinjury; however, every month that RTA was delayed decreased the probability of subsequent injury by 28%" @bodkinPredictingAnteriorCruciate2022
+
+:::
+
+
+# Psychological Readiness
+
+- ACL-RSI

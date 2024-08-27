@@ -1,0 +1,9 @@
+---
+title: Index of Motor Control
+---
+
+- [Motor control (overview)]({{< var ref-motor-control-overview.path >}})
+- [Motor learning]({{< var ref-motor-learning.path >}})
+- [Stages of Motor learning]({{< var ref-stages-of-motor-learning.path >}})
+- Tasks
+    - 

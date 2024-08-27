@@ -1,0 +1,82 @@
+---
+title: Common Fibular Nerve (L4-S2)
+---
+
+
+# Roots
+
+[L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}) @gilroyAtlasAnatomy2020 
+
+
+# Pathway
+
+# Motor innervation
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "common_fibular_nerve"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Common Fibular n. Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+## Direct Motor Innervation
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Biceps Femoris Short Head]({{< var ref-biceps-femoris-short-head.path >}}) | {{< var ref-biceps-femoris-short-head.origin >}} | {{< var ref-biceps-femoris-short-head.insertion >}} | {{< var ref-biceps-femoris-short-head.nerve >}} | {{< var ref-biceps-femoris-short-head.action >}} |
+: Direct Innervation from the Sciatic Nerve {.striped .hover}
+
+Bicep femoris (short head) @gilroyAtlasAnatomy2020
+
+## Indirect Motor Innervation
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Fibularis Longus]({{< var ref-fibularis-longus.path >}}) | {{< var ref-fibularis-longus.origin >}} | {{< var ref-fibularis-longus.insertion >}} | {{< var ref-fibularis-longus.nerve >}} | {{< var ref-fibularis-longus.action >}} |
+| [Fibularis Brevis]({{< var ref-fibularis-brevis.path >}}) | {{< var ref-fibularis-brevis.origin >}} | {{< var ref-fibularis-brevis.insertion >}} | {{< var ref-fibularis-brevis.nerve >}} | {{< var ref-fibularis-brevis.action >}} |
+: Superficial Fibular Muscle Innervation {.striped .hover}
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Tibialis Anterior]({{< var ref-tibialis-anterior.path >}}) | {{< var ref-tibialis-anterior.origin >}} | {{< var ref-tibialis-anterior.insertion >}} | {{< var ref-tibialis-anterior.nerve >}} | {{< var ref-tibialis-anterior.action >}} |
+| [Extensor Hallucis Longus]({{< var ref-extensor-hallucis-longus.path >}}) | {{< var ref-extensor-hallucis-longus.origin >}} | {{< var ref-extensor-hallucis-longus.insertion >}} | {{< var ref-extensor-hallucis-longus.nerve >}} | {{< var ref-extensor-hallucis-longus.action >}} |
+| [Extensor Digitorum Longus]({{< var ref-extensor-digitorum-longus.path >}}) | {{< var ref-extensor-digitorum-longus.origin >}} | {{< var ref-extensor-digitorum-longus.insertion >}} | {{< var ref-extensor-digitorum-longus.nerve >}} | {{< var ref-extensor-digitorum-longus.action >}} |
+| [Fibularis Tertius]({{< var ref-fibularis-tertius.path >}}) | {{< var ref-fibularis-tertius.origin >}} | {{< var ref-fibularis-tertius.insertion >}} | {{< var ref-fibularis-tertius.nerve >}} | {{< var ref-fibularis-tertius.action >}} |
+| [Extensor Digitorum Brevis]({{< var ref-extensor-digitorum-brevis.path >}}) | {{< var ref-extensor-digitorum-brevis.origin >}} | {{< var ref-extensor-digitorum-brevis.insertion >}} | {{< var ref-extensor-digitorum-brevis.nerve >}} | {{< var ref-extensor-digitorum-brevis.action >}} |
+| [Extensor Hallucis Brevis]({{< var ref-extensor-hallucis-brevis.path >}}) | {{< var ref-extensor-hallucis-brevis.origin >}} | {{< var ref-extensor-hallucis-brevis.insertion >}} | {{< var ref-extensor-hallucis-brevis.nerve >}} | {{< var ref-extensor-hallucis-brevis.action >}} |
+: Deep Fibular N. Muscle Innervation {.striped .hover}
+
+# Cutaneous Innervation
+
+![Common Fibular Nerve Cutaneous Distribution @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/images/Gilroyatlas fig34.22 common fibular nerve cutaneous distribution.png)
+
+- There is no direct cutaneous innervation from the common fibular nerve, but there is indirect cutaneous innervation through its branches @gilroyAtlasAnatomy2020. 
+    - Sural nerve (shared common fib and tibial)
+
+
+# Dysfunction
+ 
+Injury= foot drop 
+
+
+# Notes
+
+"The common fibular (peroneal) nerve is a component of the sciatic nerve as far as the upper part of the popliteal space. At the apex of the popliteal fossa, the common fibular (peroneal) nerve begins its independent course, descending along the posterior border of the biceps femoris, before traveling diagonally across the posterior aspect of the knee joint to the upper external portion of the leg near the head of the fibula. Sensory branches are given off in the popliteal space. These include the superior and inferior articular branches to the knee joint and the lateral sural cutaneous nerve. The latter nerve joins the medial calcaneal nerve (from the tibial nerve) to form the sural nerve, supplying the skin of the lower posterior aspect of the leg, the external malleolus, and the lateral side of the foot and fifth toe.1" @duttonDuttonOrthopaedicExamination2020 
+
+"The common fibular (peroneal) nerve curves around the lateral aspect of the fibula toward the anterior aspect of the bone, before passing deep to the two heads of the fibularis (peroneus) longus muscle, where it divides into three terminal branches: the recurrent articular, and the superficial and deep fibular (peroneal) nerves. The recurrent articular nerve accompanies the anterior tibial recurrent artery, supplying branches to the proximal tibiofibular and knee joints, and a twig to the tibialis anterior muscle." @duttonDuttonOrthopaedicExamination2020 

@@ -1,0 +1,15 @@
+---
+title: Patella
+---
+
+
+
+
+# Functional Role
+
+"The patella functions as a “spacer” between the femur and quadriceps muscle, which increases the internal moment arm of the knee extensor mechanism (Fig. 13.27). By definition, the knee extensor internal moment arm is the perpendicular distance between the mediallateral axis of rotation and the line of force of the muscle. Because torque is the product of force and its moment arm, the presence of the patella augments the extension torque at the knee." @neumannKinesiologyMusculoskeletalSystem2017 
+
+
+"Researchers have shown that the knee extensor internal moment arm changes considerably across the full arc of knee flexion and extension.166,297,301 Although the data published on this topic differ considerably based on methodology and natural variability, most studies report that the knee extensor moment arm is greatest between about 20 and 60 degrees of knee flexion (see bar on horizontal axis in graph of Fig. 13.26).41,166,297 This range of relatively high leverage partially explains why knee extension torques are typically highest across a significant part of this same range of motion. Maximal-effort knee extension torque typically falls off dramatically in the last 30 degrees of extension, likely because of a combination of reduced extension leverage and shortened muscle length. " @neumannKinesiologyMusculoskeletalSystem2017
+
+"At least three fact"

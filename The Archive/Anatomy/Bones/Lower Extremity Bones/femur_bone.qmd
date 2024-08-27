@@ -1,0 +1,89 @@
+---
+title: Femur
+---
+
+
+# Histology {#histology}
+
+![A frontal plane cross­section of the proximal femur @neumannKinesiologyMusculoskeletalSystem2017](/The Archive/Anatomy/Bones/Lower Extremity Bones/images/neumannKinesiologyMusculoskeletalSystem2017 fig12.10 femur compact and cancellous bone.png)
+
+## Compact bone {#compact-bone}
+
+The cortex of the femur contains mostly [compact bone]({{< var ref-compact-bone.path >}}) @neumannKinesiologyMusculoskeletalSystem2017.
+The [compact bone]({{< var ref-compact-bone.path >}}) tissue is "dense" and "unyielding," and thus can withstand large loads especially shear and torsional forces @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+## Cancellous bone {#cancellous-bone}
+
+[Cancellous bone]({{< var ref-cancellous-bone.path >}}) is a *relatively* porous and spongy bone tissue that is made up of 3D trabecular lattices which span the inside of the femur @neumannKinesiologyMusculoskeletalSystem2017.
+[Cancellous bone]({{< var ref-cancellous-bone.path >}}) gives the femur its elastic properties, allowing it to repeatedly absorb external forces @neumannKinesiologyMusculoskeletalSystem2017.
+
+Due to Wolff's Law, cancellous bone will concentrate along lines of stress, resulting in defined trabecular networks @neumannKinesiologyMusculoskeletalSystem2017.
+The trabeculae is separated into the *medial trabecular network* and *arcuate trabecular network* @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+
+# Load-Absorption
+
+The femur can withstand the high repetitive forces due to walking and other activities via its composition of [compact bone](#compact-bone) and [cancellous bone](#cancellous-bone) @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+
+# Angle of Inclination (AoI) {#angle-of-inclination}
+
+The *angle of inclination* refers to the angle between the femoral neck and medial femoral shaft in the frontal plane @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+| Stage of Development | Angle of Inclination |
+|-|-|
+| Birth | 165-170 &deg; @neumannKinesiologyMusculoskeletalSystem2017 |
+|2-8 y/o | Decreases by 2 &deg;/yr @neumannKinesiologyMusculoskeletalSystem2017 |
+|Adulthood | 125 &deg; @neumannKinesiologyMusculoskeletalSystem2017 |
+
+| Name | Angle |
+|-|-|
+| Coxa vara | <125 &deg; @neumannKinesiologyMusculoskeletalSystem2017 |
+| Normal | 125 &deg; @neumannKinesiologyMusculoskeletalSystem2017 |
+| Coxa Valga | >125 &deg; @neumannKinesiologyMusculoskeletalSystem2017 |
+
+
+
+# Femoral Torsion
+
+*Femoral torsion* refers to the relative twist between the femur's shaft and neck in the transverse plane @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+| Name | Angle |
+| Retroversion | <8 &deg; @neumannKinesiologyMusculoskeletalSystem2017 |
+| Normal | 8-20 &deg; anteversion @neumannKinesiologyMusculoskeletalSystem2017 |
+| Excessive Anteversion | >20 &deg; @neumannKinesiologyMusculoskeletalSystem2017 |
+
+Femoral torsion can be measured via the [Craig's Test]({{< var ref-craigs-test.path >}})
+
+
+# Landmarks
+
+
+## Linea Aspera {#linea-aspera}
+
+- Origin:
+    - [Vastus Medialis]({{< var ref-vastus-medialis.path >}})
+
+## Intertrochanteric line {#intertrochanteric-line}
+
+- Origin:
+    - [Vastus Medialis]({{< var ref-vastus-medialis.path >}})
+
+
+## Intertrochanteric Crest {#intertrochanteric-crest}
+
+
+## Quadrate Tubercle
+
+The quadrate tubercle refers to the distal attachment of the [Quadratus Femoris muscle]({{< var ref-quadratus-femoris.path >}})
+
+## Lesser Trochanter {#lesser-trochanter}
+
+The lesser trochanter projects posterior-medially from the inferior end of the intertrochanteric crest @neumannKinesiologyMusculoskeletalSystem2017.
+The lesser trochanter serves as the insertion for the Iliopsoas muscle, and is thus indirectly related to hip flexion and vertical L/S stabilization @neumannKinesiologyMusculoskeletalSystem2017.
+

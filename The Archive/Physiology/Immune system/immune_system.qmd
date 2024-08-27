@@ -1,0 +1,12 @@
+---
+title: The Immune System
+---
+
+:::{.callout title="Readings"}
+
+- Abbas - Ch1 @abbasCellularMolecularImmunology2022
+:::
+
+The immune system provides the body with *immunity* via specialized arrays of cells and proteins @nelsonLehningerPrinciplesBiochemistry2021.
+
+**Leukocytes** (white blood cells)

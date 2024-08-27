@@ -1,0 +1,88 @@
+---
+title: Kruskal-Wallis Test
+---
+
+:::{.callout title="AKA"}
+
+- Kruskal Wallis H Test
+- H Test
+- Kruskal-Wallis one-way analysis-of-variance-by-ranks test
+:::
+
+Non-parametric alternative to the one-way ANOVA that analyzes $\geq 3$ independent groups @chanLearningUnderstandingKruskalWallis1997 
+
+
+
+# Hypothesis
+
+:::{layout-ncol="2"}
+### Null Hypothesis
+
+- $H_0$: Population medians are equal
+- p-value is *not* significant ($p > 0.05 $)
+
+### Alternative Hypothesis
+
+- $H_1$: Population medians are *not* equal
+- p-value is significant ($p \leq 0.05$)
+
+:::
+
+
+# Assumptions
+
+:::{layout-ncol="2"}
+### Independent Variable
+
+- One independent variable with two or more levels (independent groups). 
+
+### Dependent Variables
+
+- The test is more commonly used when you have three or more levels. For two levels, consider using the Mann Whitney U Test instead.
+- Dependent variable scales
+    - Ordinal scale
+    - Ratio Scale
+    - Interval scale
+
+### Assumption of indendence
+
+- Your observations should be independent. In other words, there should be no relationship between the members in each group or between groups. For more information on this point, see: Assumption of Independence.
+
+### Distribution
+
+- All groups should have the same shape distributions. Most software (i.e. SPSS, Minitab) will test for this condition as part of the test.
+
+:::
+
+
+
+
+
+# Example
+
+That is, are any differences found between the groups genuine, or are they occurring by chance? If these differences are genuine, which treatment is superior to the other treatment methods? The null hypothesis (H,,) stipulates that there are no differences among the three samples. The Kruskal-Wallis statistic answers these questions by comparing the form of the sample curve with the form of the population curve. This concept of comparing curve forms is the basis of the H test. Neither the nonparametric H test nor the parametric F test, however, demonstrates than an obtained difference is meaningful or worthwhile. @chanLearningUnderstandingKruskalWallis1997 
+
+- Research question: Is there a differenec in effectivenss of 3 different exercise programs for increasing knee flexion after cast immobilization? @chanLearningUnderstandingKruskalWallis1997
+    - Alternative phrasing: "Are the three samples really different, or are the differences found merely reflecting the variations to be expected from random sampling from the same population?" @chanLearningUnderstandingKruskalWallis1997
+
+- Outcome measure: Knee flexion measured by an incinometer
+- $n = 18$
+    - group: 6
+    - group: 6
+    - group: 6
+- Intervention
+    - Each patient only underoes *one* type of treatment
+- $\alpha = 0.05$
+
+
+
+:::{layout-ncol="3"}
+
+### Group 1:
+
+### Group 2: 
+
+### Group 3:
+:::
+
+

@@ -1,0 +1,84 @@
+---
+title: Throwing Biomechanics
+---
+
+
+*Throwing arm will be considered I/L
+
+
+# Phases
+
+## Wind Up
+
+- Initial Movement to Maximum Knee Lift
+- Necessary: 
+    - I/L rotation
+    - Relative I/L Hip IR
+    - I/L SLB
+    - Lead HF (end range)
+    - I/L Hip ext
+    - Stance (I/L) leg ext/IR
+    - stride leg max HF
+    - Upright trunk with I/L rot
+    - Eccentric trunk/shoulder load
+    - Critical events and considerations: 
+        - SLB and stance stability (lumbopelvic)
+        - Load hip, min shoulder mm activity 
+
+## Early Cocking
+Defined as Maximum Knee Lift to Lead Foot Contact
+
+- Stance leg EXT/ER/ABD with pelvic Rot
+- Stride leg drives trunk and UE eccentric load
+    - This powerful stride before front foot strike is important
+
+:::{layout-ncol="2"}
+### Increased hip/pelvic Rotation
+
+- Increased GHJ HorABD stress (Laudner 2019)
+- Increased Elbow valgus (Laudner 2019)
+
+### Decreased hip/pelvic Rotation
+
+- Increased GHJ HorADD (Laudner 2019)
+
+:::
+
+## Late Cocking
+Characterized by Lead Foot Contact to Maximal Shoulder ER
+
+- Trunk begins C/L rotation (following the pelvis)
+    - Trunk is moving faster than the shoulder (relative HorABD)
+- C/L arm: Remains closed
+- I/L arm
+    - GHJ Max ER & Max ABD
+- Scapula: Retracts to create stable base
+- Foot placement
+    - Angled 15&deg; from 180&deg;
+
+:::{.callout-note}
+A focus of a clinician during this phase should be foot placement
+:::
+
+## Acceleration
+Maximal Shoulder ER to Ball Release
+
+- Hips & Trunk rotate the shoulder to "ball release point" of 90&deg; rotation
+- Muscle function transition
+    - Internal rotaters are eccentrically working as the shoulder moves to max ER then transition to concentric activity during this phase
+
+## Deceleration
+
+- Ball Release to Maximum Shoulder IR
+- Arm crosses body (hor-add)
+
+## Follow Through
+
+- Maximum Shoulder IR to Body Stops Moving
+
+
+
+# Stride Length
+
+- Professional: Stride length = 85% of height
+- Youth: Stride length = 65% of height

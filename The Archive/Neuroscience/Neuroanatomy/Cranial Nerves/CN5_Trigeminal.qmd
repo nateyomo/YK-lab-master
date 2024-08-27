@@ -1,0 +1,235 @@
+---
+title: CNV Trigeminal Nerve
+---
+
+![Trigeminal Nerve Sensory and Motor pathways (from Blumenfeld figure 12.7 @blumenfeldNeuroanatomyClinicalCases2022)](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.7 Trigeminal Nerve blumenfeld2022.png)
+
+
+::: {layout-ncol=4}
+
+!["Ventral view of Surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.2A Surface anatomy of the brainstem and cranial nerves blumenfield2022.png)
+
+!["Dorsal view of Surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.2B Surface anatomy of the brainstem and cranial nerves blumenfield2022.png)
+
+!["Lateral view of the surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.2C Surface anatomy of the brainstem and cranial nerves blumenfield2022.png)
+
+!["Skull foramina serving as cranial nerve exit points (from fig12.3 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.3 skull foramina serving as cranial nerve exit points blumenfeld2022.png)
+
+::: 
+
+
+:::{.callout-note}
+
+- Welzack Chapter 56 Trigeminal Mechanisms of Nociception @mcmahonWallMelzackTextbook2013
+- Welzack Chapter 58 Migraine and the Trigeminal Autonomic Cephalalgias @mcmahonWallMelzackTextbook2013
+- Welzack Chapter 66 Trigeminal and Glossopharyngeal Neuralgia @mcmahonWallMelzackTextbook2013
+:::
+
+
+
+# Overview
+CN V Trigeminal nerve is the largest cranial nerve and provides general somatic sensory to the scalp, teeth, oral and nasal cavity as well as branchial motor functions to the muscles of mastication and some surrounding musculature [@blumenfeldNeuroanatomyClinicalCases2022; @jooMicrosurgicalAnatomyTrigeminal2014].
+
+Additional functions
+
+- Additionally, The trigeminal system plays a role in facial and dural sensitivity and has also been considered a component in brain nociceptive innervation @terrierTrigeminalPathways2022.
+- "Proprioceptive nerve fibers from the masticatory muscles and (probably) extraocular muscle" @jooMicrosurgicalAnatomyTrigeminal2014.
+
+
+
+The Trigeminal nerve's course can be broken down into:
+- Brainstem
+- Cisternal segment
+- Meckel’s cave segment
+- Trigeminal ganglion
+- Pperipheral divisions: Opthalmic division (V~1~), Maxillary division (V~2~), and Mandibular division (V~3~).
+
+Why should I care about this nerve?
+- The trigeminal nerve is the anatomical substrate of several pathologies or conditions, including: Headaches (primary or secondary), trigeminal neuralgia, and alternate types of orofacial pains @terrierTrigeminalPathways2022.
+- Understanding the complex anatomical arrangement of CN V's pathway is crucial to understand these conditions’ pathophysiology and treatment @terrierTrigeminalPathways2022.
+
+# Trigeminal Nuclei
+There are 4 trigeminal nuclei (3 sensory and 1 motor):
+
+- [Mesencephalic nucleus]({{< var ref-mesencephalic-nucleus.path >}}) (Conveys afferent proprioceptive fibers from extraocular and masticatory muscles and allows for bite modulation @jooMicrosurgicalAnatomyTrigeminal2014)
+- [Trigeminal sensory nucleus]({{< var ref-trigeminal-sensory-nuclei.path >}}) 
+  - Conveys touch and proprioception of the jaw area -ninjanerd
+  - Conveys tactile and pressure sense @jooMicrosurgicalAnatomyTrigeminal2014
+- [Trigeminal motor nucleus]({{< var ref-trigeminal-motor-nucleus.path >}}) (Modulates degree of bite)
+- [Spinal trigeminal nucleus]({{< var ref-spinal-trigeminal-nucleus.path >}}) Conveys touch, pain, pressure, and proprioception from the entire face
+  - [Spinal Trigeminal tract]({{< var ref-spinal-trigeminal-tract.path >}})
+
+
+
+# Anatomy
+## Brainstem
+
+<!--
+Within the brainstem there are 4 central nuclei of CN V:
+- [Mesencephalic nucleus]({{< var ref-mesencephalic-nucleus.path >}}) (Proprioception of the face(NN) vs Conveys afferent proprioceptive fibers from extraocular and masticatory muscles and allows for bite modulation @jooMicrosurgicalAnatomyTrigeminal2014)
+- [Trigeminal sensory nucleus]({{< var ref-trigeminal-sensory-nuclei.path >}}) Conveys tactile and pressure sense @jooMicrosurgicalAnatomyTrigeminal2014
+- [Trigeminal motor nucleus]({{< var ref-trigeminal-motor-nucleus.path >}}) (Modulates degree of bite)
+- [Spinal trigeminal nucleus]({{< var ref-spinal-trigeminal-nucleus.path >}}) & [Spinal Trigeminal tract]({{< var ref-spinal-trigeminal-tract.path >}})
+-->
+
+## Trigeminal Root (Cisternal Segment)
+
+- The 4 trigeminal nuclei (3 sensory, 1 motor) extend throughout most of the brain stem @jooMicrosurgicalAnatomyTrigeminal2014
+- "The trigeminal root is composed of the large sensory root and the small motor root" @jooMicrosurgicalAnatomyTrigeminal2014
+- "The sensory root receives somatosensory sensation from the entire face , temple, external acoustic meatus, and the anterior scalp as far posterior as the vertex of the skull" @jooMicrosurgicalAnatomyTrigeminal2014 
+
+::: {.callout-note collapse="true"}
+The trigeminal nerve supplies somatosensation to the entire face except the angle of the jaw innervated by the cervical plexus @jooMicrosurgicalAnatomyTrigeminal2014
+:::
+
+The proprioceptive impulses from the masticatory muscle run through the motor root to enter the mesencephalic nucleus @jooMicrosurgicalAnatomyTrigeminal2014
+
+
+```{mermaid}
+flowchart BT
+
+  mesencephalic_response[Modulating the bite]
+  mesencephalic_response --> mesencephalic_nucleus[Mesencephalic Nucleus]
+  proprioceptive_fibers[Proprioceptive fibers from extraocular muscles and masticatory muscles]
+  
+  teeth[Teeth] -- proprioception --> proprioceptive_fibers
+  periodontium[Periodontium] -- proprioception --> proprioceptive_fibers
+  hard_palate[Hard Palate] -- proprioception --> proprioceptive_fibers
+  temporomandibular_joint_capsule[Temperomandibular Joint Capsule] -- proprioception --> proprioceptive_fibers
+
+trigeminal_ganglion[Trigeminal Ganglion]
+
+
+
+tactile_and_pressure_receptors[Receptors] -- Tactile & Pressure --> upper_face[Skin of Upper Face]
+tactile_and_pressure_receptors -- Tactile & Pressure --> middle_face[Skin of Middle face]
+tactile_and_pressure_receptors -- Tactile & Pressure --> lower_face[Skin of Lower Face]
+
+upper_face --> opthalmic[Opthalmic Division V1]
+middle_face --> maxillary[Maxillary Division V2]
+lower_face --> mandibular[Mandibular Division V3]
+
+opthalmic --> trigeminal_ganglion
+maxillary --> trigeminal_ganglion
+mandibular --> trigeminal_ganglion
+
+trigeminal_ganglion -- Tactile & Pressure --> trigeminal_sensory_nucleus[Trigeminal Sensory Nucleus]
+
+trigeminal_sensory_nucleus -- Tactile & Pressure --> VPM[Thalamus VPM]
+```
+
+```{mermaid}
+flowchart TD
+
+
+```
+
+# Sensory Root (Portio Major)
+## Sensory Pathway
+
+![Trigeminal Sensory System Nuclei and Pathways (from Blumenfeld figure 12.8 @blumenfeldNeuroanatomyClinicalCases2022)](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.8 Trigeminal sensory system nuclei and pathways blumenfeld2022.png)
+
+- Somatosensory afferent nerves convey crude touch, pain, and temperature sensation from the face and mouth to the lateral pons @blumenfeldNeuroanatomyClinicalCases2022.
+- These nerve fibers then descend the spinal trigeminal tract to synapse in the [spinal trigeminal nucleus]({{< var ref-spinal-trigeminal-tract.path >}}) @blumenfeldNeuroanatomyClinicalCases2022.
+- . Similarly, the spinal trigeminal tract is analogous to Lissauer’s tract (see Figures 6.4 and 7.2). Secondary sensory neurons from the spinal trigeminal nucleus cross the brainstem to ascend as the trigeminothalamic tract (or ventral trigeminothalamic tract). The trigeminothalamic tract is analogous to the spinothalamic tract (see Table 12.6), and the pathways travel together to the thalamus (see Figures 12.8 and 14.3). Trigeminothalamic tract fibers synapse in the thalamic ventral posterior medial nucleus (VPM), and tertiary sensory neurons then travel in the internal capsule to the primary somatosensory cortex. Like the anterolateral systems in the spinal cord, there are also pathways from the spinal trigeminal nucleus to intralaminar thalamic nuclei, the reticular formation, and other areas, to mediate the affective and arousal aspects of facial pain.
+
+
+In summary, it is generally believed that sensory fibers involved in the conduction of pain and temperature spread over the trigeminal sensory nucleus complex (TSNC) and then cross over to the contralateral thalamus and cerebral cortex @henssenNewInsightsTrigeminal2016
+
+
+## Sensory Function
+
+- V~1~ Opthalmic supplies the upper face
+- V~2~ Maxillary supplies the middle face
+- V~3~ Mandibular supplies the lower face
+
+The trigeminal nerve also provides touch and pain sensation for the nasal sinuses, inside of the nose, mouth, and anterior two-thirds of the tongue. 
+
+## Dysfunction
+
+- [Trigeminal neuralgia]({{< var ref-trigeminal-neuralgia.path >}})
+
+# Motor Root (Portio Minor)
+
+## Motor Pathway
+
+- The motor plan is sent from the cerebrum/cerebellum inferiorly to the [trigeminal motor nucleus]({{< var ref-trigeminal-motor-nucleus.path >}})
+- From there, the motor signal exits the [trigeminal motor nucleus]({{< var ref-trigeminal-motor-nucleus.path >}}) and passes anteriorly in the pons @brazisLocalizationClinicalNeurology2022
+- The motor root emerges from the ant-lat aspect of the pons @brazisLocalizationClinicalNeurology2022
+  - The motor root is anterior and medial relative to sensory root @brazisLocalizationClinicalNeurology2022
+- Next, the motor root passes through the posterior fossa and then through the dura mater below the attachment of the tentorium @brazisLocalizationClinicalNeurology2022
+- The motor root then enters Meckel Cave @brazisLocalizationClinicalNeurology2022
+  - travels *beneath* the trigeminal ganglia @brazisLocalizationClinicalNeurology2022
+  - Exits the skull through foramen ovale  @brazisLocalizationClinicalNeurology2022
+- Upon its exodus from the skull, the motor root joins the sensory fibers in the mandibular (V~3~) division to form the mandibular nerve
+- The mandibular nerve (V~3~) connects the motor root to the masticatory muscles (masseter, temporalis, and medial and lateral pterygoid muscles) @brazisLocalizationClinicalNeurology2022
+  - In addition, motor fibers are given off to the tensor tympani, tensor veli palatini, and mylohyoid muscles, and to the anterior belly of the digastric muscle" @brazisLocalizationClinicalNeurology2022
+
+## Motor Function
+
+# Meninges Sensitivity
+
+The trigeminal system not only supports sensation to the face, but also the dura and pia @terrierTrigeminalPathways2022.
+
+
+# Brain innervation
+
+# Pathways
+
+
+
+- The trigeminal nerve exits the brainstem from the ventrolateral pons @blumenfeldNeuroanatomyClinicalCases2022.
+- Next CN V enters Meckel's Cave (a small fossa posterior and inferolateral to the cavernous sinus) @blumenfeldNeuroanatomyClinicalCases2022.
+- CN V synapses on the trigeminal ganglion (sensory ganglion) in Meckel’s cave @blumenfeldNeuroanatomicalBasisConsciousness2016.
+- The ophthalmic division (V~1~) travels through an inferior section of the cavernous sinus and exits the skull through the superior orbital fissure @blumenfeldNeuroanatomyClinicalCases2022.
+- The maxillary division (V~2~) exits via the foramen rotundum @blumenfeldNeuroanatomyClinicalCases2022
+- The mandibular division (V~3~) via the foramen ovale @blumenfeldNeuroanatomyClinicalCases2022
+
+::: {.callout-tip collapse="true"}
+## Mnemonic
+A way to remember the exit points of each trigeminal division is "Standing Room Occupancy", or SRO (for Superior, Rotundum, Ovale)
+:::
+
+In addition, pain sensation for the supratentorial dura mater is supplied by the trigeminal nerve, while the dura of the posterior fossa is innervated by CN X and upper cervical nerve roots.
+
+Skin of face --> Receptor --> fine touch/dental pressure --> DIVISION --> Chief trigeminal sensory nucleus --> Trigeminal lemniscus --> VPM of thalamus
+
+Skin of face --> Receptor --> Proprioception --> DIVISION --> Mesencephalic trigeminal nucleus --> ?
+
+Skin of face --> Receptor --> Crude touch / Pain / Temperature --> DIVISION --> trigeminothalamic tract --> VPM of Thalamus
+
+
+
+
+
+# Trigeminal Ganglion
+(AKA "semilunar ganglion" or "gasserian ganglion")
+
+
+
+
+
+
+
+
+| Nucleus  | Sensory Modalities | Main pathway to thalamus | Main thalamic nucleus |
+|------|--------|-------|--|
+|Mesencephalic trigeminal nucleus | Proprioception | - | - |
+| Chief trigeminal sensory nucleus | fine tough; dental pressure | Trigeminal Lemniscus | VPM |
+| Spinal trigeminal nucleus | Crude touch; Pain; Temperature | Trigeminothalamic tract | VPM |
+| Posterior column nuclei | Fine tough; proprioception | Medial lemniscus | VPL |
+| Dorsal horn | Crude touch; Pain; Temperature | Spinothalamic Tract | VPL |
+
+: Analagous Trigeminal and Spinal Somatosensory Systems {.striped .hover}
+
+
+# Testing
+
+- [Jaw Jerk Reflex]({{< var ref-reflex.jaw-jerk >}})
+
+# External Resources
+
+- [Ninja Nerd's Trigeminal Nerve video]({{< https://youtu.be/WQjcaCblig8 >}})
+- Brazis's localization in neurology contains a solid overview and really good DDX @brazisLocalizationClinicalNeurology2022
+
+

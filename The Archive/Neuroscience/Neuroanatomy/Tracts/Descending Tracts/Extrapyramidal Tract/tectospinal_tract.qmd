@@ -1,0 +1,38 @@
+---
+title: Tectospinal Tract 
+---
+
+The Tectospinal tract is part of the [medial motor systems ]({{< var ref-medial-motor-systems.path >}})
+
+![Somatotopic organization of medial and lateral motor system Projections to Anterior Horn Cells @blumenfeldNeuroanatomyClinicalCases2022](/The Archive/Neuroscience/Neuroanatomy/Tracts/images/fig.6.7 Blumenfeld somatotopic organization of medial and lateral motor systems.png)
+
+# Pathway
+
+## Origin {#origin}/input
+
+[Superior Colliculus]({{< var ref-superior-colliculus.path >}})
+
+## Pathway
+
+The tectospinal tract exits the superior colliculus and its tectospinal fibers travel superiorly through the tectum of the brainstem
+
+Decussation: Dorsal tegmentum of the midbrain
+
+
+The tectospinal tract terminates at the cerviccal cord
+
+![Somatotopic organization of medial and lateral motor system Projections to Anterior Horn Cells @blumenfeldNeuroanatomyClinicalCases2022](/The Archive/Neuroscience/Neuroanatomy/Tracts/images/fig.6.7 Blumenfeld somatotopic organization of medial and lateral motor systems.png)
+
+## Output/termination
+
+The tectospinal tract terminates in the cervical cord
+
+
+
+# Function
+
+Coordination of head and eye movements 
+
+:::{.callout-caution}
+The function of the tectospinal tract is uncertain in humans @blumenfeldNeuroanatomyClinicalCases2022
+:::

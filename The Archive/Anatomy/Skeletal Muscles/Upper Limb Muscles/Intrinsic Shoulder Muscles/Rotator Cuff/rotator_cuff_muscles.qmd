@@ -1,0 +1,31 @@
+---
+title: Rotator Cuff Muscles
+
+---
+
+:::{layout-ncol="2"}
+![Schematic of Rotator Cuff Muscles (anterior view) @gilroyAtlasAnatomy2020 </br> 1: Supraspinatus </br> 2: Infraspinatus </br> 3: Teres Minor](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/images/gilroyatlas fig25.24a schematic rtc posterior.png)
+
+![Schematic of Rotator Cuff Muscles (posterior view) @gilroyAtlasAnatomy2020 </br> 4: Subscapularis ](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/images/gilroyatlas fig25.24b schematic rtc anterior.png)
+:::
+
+
+:::{layout-ncol="3"}
+![Rotator Cuff (anterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/images/gilroyatlas fig25.24c rtc anterior.png)
+![Rotator Cuff (lateral view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/images/gilroyatlas fig25.24d rtc lateral.png)
+![Rotator Cuff (posterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/images/gilroyatlas fig25.24e rtc posterior.png)
+:::
+
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Supraspinatus]({{< var ref-supraspinatus.path >}}) | {{< var ref-supraspinatus.origin >}} | {{< var ref-supraspinatus.insertion >}} | {{< var ref-supraspinatus.nerve >}} | {{< var ref-supraspinatus.action >}} |
+| [Infraspinatus]({{< var ref-infraspinatus.path >}}) | {{< var ref-infraspinatus.origin >}} | {{< var ref-infraspinatus.insertion >}} | {{< var ref-infraspinatus.nerve >}} | {{< var ref-infraspinatus.action >}} |
+| [Teres Minor]({{< var ref-teres-minor.path >}}) | {{< var ref-teres-minor.origin >}} | {{< var ref-teres-minor.insertion >}} | {{< var ref-teres-minor.nerve >}} | {{< var ref-teres-minor.action >}} |
+| [Subscapularis]({{< var ref-subscapularis.path >}}) | {{< var ref-subscapularis.origin >}} | {{< var ref-subscapularis.insertion >}} | {{< var ref-subscapularis.nerve >}} | {{< var ref-subscapularis.action >}} |
+: Muscles of the Rotator Cuff {.striped .hover}
+
+
+# Function
+
+The RTC contributes to movement, stability, and sensorimotor control of the G-H joint @duttonDuttonOrthopaedicExamination2020 

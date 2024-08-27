@@ -1,0 +1,64 @@
+---
+title: Mann-Whitney U Test
+---
+
+AKA:
+
+- Wilcoxon Rank Sum test
+
+# Practical uses
+
+- Non-parametric counterpart to the T-Test for independent samples
+
+# Definition
+
+- An analog of the parametric Student's t-test @sundjajaMcNemarMannWhitneyTests2023
+- Compares the means between two independent groups with the assumption that the data is not in a normal distribution @sundjajaMcNemarMannWhitneyTests2023.
+- Useful for numerical/continuous variables @sundjajaMcNemarMannWhitneyTests2023.
+
+:::{.callout collapse="true"}
+## Example
+For example, 2 different groups' age or height (continuous variables), in a study with non-normally distributed data @sundjajaMcNemarMannWhitneyTests2023
+:::
+
+# Variables
+
+:::{layout-ncol="2"}
+
+### Independent variables
+Nominal/ordinal variable with 2 expressions
+
+
+:::{.callout collapse="true" title="Examples"}
+E.g. Meds: Drug & Placebo
+:::
+
+
+### Dependent variables
+Metric/ordinal variable
+
+
+:::{.callout collapse="true" title="Examples"}
+E.G.: Salary, wellbeing, weight
+:::
+
+:::
+
+# Processing
+
+Rank sum
+
+# Requirements
+
+- Only 2 independent random samples
+- At least ordinally scaled characteristics
+
+
+# Benefits
+
+- Does not need to be normally distributed
+
+# Hypothesis
+
+- **Null hypothesis**: There is no difference (in terms of central tendency) between the two groups in the population.
+- **Alternative hypothesis**: There is a difference (with respect to the central tendency) between the two groups in the population

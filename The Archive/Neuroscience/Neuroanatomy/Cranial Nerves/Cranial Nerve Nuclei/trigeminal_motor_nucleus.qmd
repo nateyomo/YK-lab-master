@@ -1,0 +1,16 @@
+---
+title: Trigeminal Motor Nucleus
+---
+
+![Functional columns of brainstem sensory and motor cranial nerve nuclei (from Blumenfield Figure 12.5 @blumenfeldNeuroanatomyClinicalCases2022)](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.5 blumenfield CN nuclei.png)
+
+
+# Anatomy
+
+- "The motor nucleus is medial to the principal sensory nucleus" @jooMicrosurgicalAnatomyTrigeminal2014
+- "Fibers from this nucleus exit from the brain stem medial to the entering sensory root, pass underneath the trigeminal ganglion without synapse, and become incorporated in the mandibular division" @jooMicrosurgicalAnatomyTrigeminal2014
+
+# Function
+
+## Bite modulation
+"Axons from the mesencephalic nucleus project to the motor nucleus, completing a reflex arc in modulating the degree of bite" @jooMicrosurgicalAnatomyTrigeminal2014

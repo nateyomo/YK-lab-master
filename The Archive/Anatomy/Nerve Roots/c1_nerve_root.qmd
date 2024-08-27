@@ -1,0 +1,82 @@
+---
+title: C1 Nerve Root
+---
+
+# Anatoy
+
+C1 lacks a dorsal root @brazisLocalizationClinicalNeurology2022
+
+# Innervation {#innervation}
+
+This root supplies muscles that provide multiple functions:
+
+- Support the head
+- Fix the neck
+- Assist in neck flexion
+- Assist in extension
+- Tilt the head to one side
+
+Specific Muscle innervations
+
+infrahyoid muscles.
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "root_identifier"  # or "group_identifier"
+filter_patterns <- "C1"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "C1 Nerve Root Skeletal Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+<details>
+
+| Muscle  | Origin  | Insertion | Nerve | Action |
+|--------|----------|-----------|-------|--------|
+| [Longus Capitis]({{< var ref-longus-capitis.path >}}) | {{< var ref-longus-capitis.origin >}} | {{< var ref-longus-capitis.insertion >}} | {{< var ref-longus-capitis.nerve >}} | {{< var ref-longus-capitis.action >}} |
+| [Rectus Capitis Anterior]({{< var ref-rectus-capitis-anterior.path >}}) | {{< var ref-rectus-capitis-anterior.origin >}} | {{< var ref-rectus-capitis-anterior.insertion >}} | {{< var ref-rectus-capitis-anterior.nerve >}} | {{< var ref-rectus-capitis-anterior.action >}} |
+| [Rectus Capitis Lateralis]({{< var ref-rectus-capitis-lateralis.path >}}) | {{< var ref-rectus-capitis-lateralis.origin >}} | {{< var ref-rectus-capitis-lateralis.insertion >}} | {{< var ref-rectus-capitis-lateralis.nerve >}} | {{< var ref-rectus-capitis-lateralis.action >}} |
+| [Obliquus Capitis Inferior]({{< var ref-obliquus-capitis-inferior.path >}}) | {{< var ref-obliquus-capitis-inferior.origin >}} | {{< var ref-obliquus-capitis-inferior.insertion >}} | {{< var ref-obliquus-capitis-inferior.nerve >}} | {{< var ref-obliquus-capitis-inferior.action >}} |
+| [Obliquus Capitis Superior]({{< var ref-obliquus-capitis-superior.path >}}) | {{< var ref-obliquus-capitis-superior.origin >}} | {{< var ref-obliquus-capitis-superior.insertion >}} | {{< var ref-obliquus-capitis-superior.nerve >}} | {{< var ref-obliquus-capitis-superior.action >}} |
+| [Longissimus Capitis]({{< var ref-longissimus-capitis.path >}}) | {{< var ref-longissimus-capitis.origin >}} | {{< var ref-longissimus-capitis.insertion >}} | {{< var ref-longissimus-capitis.nerve >}} | {{< var ref-longissimus-capitis.action >}} |
+| [Longissimus Cervicis]({{< var ref-longissimus-cervicis.path >}}) | {{< var ref-longissimus-cervicis.origin >}} | {{< var ref-longissimus-cervicis.insertion >}} | {{< var ref-longissimus-cervicis.nerve >}} | {{< var ref-longissimus-cervicis.action >}} |
+| [Multifidi]({{< var ref-multifidi.path >}}) | {{< var ref-multifidi.origin >}} | {{< var ref-multifidi.insertion >}} | {{< var ref-multifidi.nerve >}} | {{< var ref-multifidi.action >}} |
+| [Anterior Intertransversarii cervices]({{< var ref-anterior-intertransversarii-cervices.path >}}) | {{< var ref-anterior-intertransversarii-cervices.origin >}} | {{< var ref-anterior-intertransversarii-cervices.insertion >}} | {{< var ref-anterior-intertransversarii-cervices.nerve >}} | {{< var ref-anterior-intertransversarii-cervices.action >}} |
+| [Posterior Intertransversarii Cervices]({{< var ref-posterior-intertransversarii-cervices.path >}}) | {{< var ref-posterior-intertransversarii-cervices.origin >}} | {{< var ref-posterior-intertransversarii-cervices.insertion >}} | {{< var ref-posterior-intertransversarii-cervices.nerve >}} | {{< var ref-posterior-intertransversarii-cervices.action >}} |
+| [Medial Intertransversarii Lumbora]({{< var ref-medial-intertransversarii-lumbora.path >}}) | {{< var ref-medial-intertransversarii-lumbora.origin >}} | {{< var ref-medial-intertransversarii-lumbora.insertion >}} | {{< var ref-medial-intertransversarii-lumbora.nerve >}} | {{< var ref-medial-intertransversarii-lumbora.action >}} |
+| [Rotatores Breves]({{< var ref-rotatores-breves.path >}}) | {{< var ref-rotatores-breves.origin >}} | {{< var ref-rotatores-breves.insertion >}} | {{< var ref-rotatores-breves.nerve >}} | {{< var ref-rotatores-breves.action >}} |
+| [Rotatores Longi]({{< var ref-rotatores-longi.path >}}) | {{< var ref-rotatores-longi.origin >}} | {{< var ref-rotatores-longi.insertion >}} | {{< var ref-rotatores-longi.nerve >}} | {{< var ref-rotatores-longi.action >}} |
+| [Semispinalis Capitis]({{< var ref-semispinalis-capitis.path >}}) | {{< var ref-semispinalis-capitis.origin >}} | {{< var ref-semispinalis-capitis.insertion >}} | {{< var ref-semispinalis-capitis.nerve >}} | {{< var ref-semispinalis-capitis.action >}} |
+| [Semispinalis Cervicis]({{< var ref-semispinalis-cervicis.path >}}) | {{< var ref-semispinalis-cervicis.origin >}} | {{< var ref-semispinalis-cervicis.insertion >}} | {{< var ref-semispinalis-cervicis.nerve >}} | {{< var ref-semispinalis-cervicis.action >}} |
+
+: C1 Nerve Root Motor Innervation {.striped .hover}
+
+</details>
+
+# Lesion
+
+Due to the lack of motor root, C1 lesions are characterized purely by motor symptoms @brazisLocalizationClinicalNeurology2022.
+
+
+Clinically, C1 lesions usually result in minor motor difficulties.
+
+"Because there is no dorsal root from C1, lesions of this root result in purely motor symptoms. This root supplies muscles that support the head, fix the neck, assist in neck flexion and extension, and tilt the head to one side. These, include the longus capitis, rectus capitis, obliquus capitis, longissimus capitis and cervicis, multifidi, intertransversarii, rotatores, semispinalis, and infrahyoid muscles. C1 lesions usually result in minor motor difficulties." @brazisLocalizationClinicalNeurology2022 
+
+
+## Case Study
+
+Greathouse DG, Joshi A. Radiculopathy of the eighth cervical nerve. J Orthop Sports Phys Ther. 2010;40(12):811-817. doi:10.2519/jospt.2010.3187

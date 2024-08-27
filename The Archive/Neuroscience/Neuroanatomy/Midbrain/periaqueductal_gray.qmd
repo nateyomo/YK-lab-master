@@ -1,0 +1,23 @@
+---
+title: Periaqueductal Gray (PAG)
+---
+
+:::{.callout title="AKA"}
+Periaqueductal Gray Matter (PAGM)
+:::
+
+# Anatomy
+
+- Surrounds cerebral aqueduct
+
+# Function
+
+- Primary Control center for Descending pain modulation / Analgesia:
+    - Produces: Enkephalin or Dynorphin = Suppress pain
+    - Pain bypasses Thalamus & limbic system
+    - Critical in ANS responses
+    - Behavioral responses to threats
+
+# Output
+
+Sends nerves to the Locus coeruleus to increase activation and therefore release of Norepinephrine

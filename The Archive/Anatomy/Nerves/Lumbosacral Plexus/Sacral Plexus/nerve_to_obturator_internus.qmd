@@ -1,0 +1,50 @@
+---
+title: Nerve to Obturator Internus
+---
+
+
+# Roots
+
+[L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}) @gilroyAtlasAnatomy2020
+
+# Pathway
+
+
+
+# Motor innervation
+
+The Nerve to Obturator Internus supplies the Obturator internus, Superior Gemelli, and Inferior gemelli musces @gilroyAtlasAnatomy2020.
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "nerve_to_obturator_internus"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Nerve to Obturator Internus Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Obturator Internus]({{< var ref-obturator-internus.path >}}) | {{< var ref-obturator-internus.origin >}} | {{< var ref-obturator-internus.insertion >}} | {{< var ref-obturator-internus.nerve >}} | {{< var ref-obturator-internus.action >}} |
+| [Superior Gemellus]({{< var ref-superior-gemellus.path >}}) | {{< var ref-superior-gemellus.origin >}} | {{< var ref-superior-gemellus.insertion >}} | {{< var ref-superior-gemellus.nerve >}} | {{< var ref-superior-gemellus.action >}} |
+| [Inferior Gemellus]({{< var ref-inferior-gemellus.path >}}) | {{< var ref-inferior-gemellus.origin >}} | {{< var ref-inferior-gemellus.insertion >}} | {{< var ref-inferior-gemellus.nerve >}} | {{< var ref-inferior-gemellus.action >}} |
+: {.striped .hover}
+
+# Cutaneous Innervation
+
+# Dysfunction 

@@ -1,0 +1,20 @@
+---
+title: Compensatory Rivalry
+---
+
+When patients are aware of which treatment group they are in, researchers hope they do not change their behavior.  Unfortunately this is not always the case, patients may become discouraged ([Resentful demoralization]({{< var ref-bias.resentful-demoralization >}})) or work extra hard (Compensatory rivalry).
+
+Compensatory rivalry refers to when patients and work extra hard to compensate for what they perceive to be a “inferior treatment.”
+
+
+
+- Patients are not blinded in the study and are aware of which treatment they are receiving.
+- Compensatory rivalry is especially notable if the patients have negative expectations of their treatment
+
+ex) pt assigned to an exercise only control group are aware that they will not receive additional hands on treatment with shoulder mobilization which is given to pts assigned to the experimental group (exercise + mobilization)
+Could underestimate effects of combined txt if pts in control group seek additional chiro care to compensate for lack of hands on treatment 
+
+
+# Impact on conclusions
+
+Compensatory rivalry underestimates true treatment effects

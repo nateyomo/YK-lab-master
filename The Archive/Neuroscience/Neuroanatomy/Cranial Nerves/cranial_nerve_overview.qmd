@@ -1,0 +1,36 @@
+---
+title: Cranial Nerve Overview
+---
+
+Function:
+- Ventral = Motor
+- Dorsal = Sensory
+
+Anatomy:
+
+- Telencephalon: [Olfactory CN I]({{< var ref-cn1.path >}})
+- Diencephalon: CN II
+- Midbrain:
+    - CN III (from interpeduncular fossa)
+    - CN IV (from posterior aspect from brainstem inferior to Inferior colliculus)
+    - Pons: CNV from Basilar Pons
+- Pontomedullary junction:
+    - CN VI: Medial
+    - CN VII: Lateral
+    - CN VIII: Lateral
+- Medulla:
+    - CNIX Rostral medulla
+    - CNX: Posterior to Olive
+    - CNXII: Anterior to Olive
+- Upper cervical levels of spinal cord:
+    - CN IX
+
+
+
+
+# Cranial Nerve Pathways
+
+## Parasympathetic Pathways
+
+![Cranial Nerve Sympathetic Pathways](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.6 cranial nerve parasympathetic pathways blumenfield2022.png)
+

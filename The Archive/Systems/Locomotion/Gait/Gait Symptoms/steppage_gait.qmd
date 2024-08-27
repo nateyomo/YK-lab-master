@@ -1,0 +1,31 @@
+---
+title: Steppage Gait
+subtitle: Symptomatic Gait
+---
+
+# Biomechanics
+
+Steppage gait occurs from excessive flexion of the hips and knees with every step @brazisLocalizationClinicalNeurology2022
+
+Impairments causing this compensation include:
+
+
+
+# Causes
+
+## Sensory loss
+
+Severe deafferentation can cause steppage gait @brazisLocalizationClinicalNeurology2022
+
+- Sensory loss results in the heel heavily striking the ground @brazisLocalizationClinicalNeurology2022
+- Patients use a greater foot clearance to prevent them from tripping on the toes or on floor irregularities that are poorly felt @brazisLocalizationClinicalNeurology2022. 
+
+
+Severe thick-fiber neuropathy is the most common cause:
+- Can be caused by [Guillain–Barré syndrome]({{< var ref-guillain-barre-syndrome.path >}}) and other demyelinating neuropathies,
+- Charcot–Marie–Tooth disease (Hereditary)
+
+
+## Motor Loss
+
+- BIL foot drop @brazisLocalizationClinicalNeurology2022

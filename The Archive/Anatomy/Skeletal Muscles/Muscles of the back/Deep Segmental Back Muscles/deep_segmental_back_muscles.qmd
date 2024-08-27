@@ -1,0 +1,18 @@
+---
+title: Deep Segmental Back Muscles
+---
+
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Interspinales cervicis]({{< var ref-interspinales-cervicis.path >}}) | {{< var ref-interspinales-cervicis.origin >}} | {{< var ref-interspinales-cervicis.insertion >}} | {{< var ref-interspinales-cervicis.nerve >}} | {{< var ref-interspinales-cervicis.action >}} |
+| [Interspinales Lumbora]({{< var ref-interspinales-lumbora.path >}}) | {{< var ref-interspinales-lumbora.origin >}} | {{< var ref-interspinales-lumbora.insertion >}} | {{< var ref-interspinales-lumbora.nerve >}} | {{< var ref-interspinales-lumbora.action >}} |
+| [Levatores Costarum Breves]({{< var ref-levatores-costarum-breves.path >}}) | {{< var ref-levatores-costarum-breves.origin >}} | {{< var ref-levatores-costarum-breves.insertion >}} | {{< var ref-levatores-costarum-breves.nerve >}} | {{< var ref-levatores-costarum-breves.action >}} |
+| [Levatores Costarum Longi]({{< var ref-levatores-costarum-longi.path >}}) | {{< var ref-levatores-costarum-longi.origin >}} | {{< var ref-levatores-costarum-longi.insertion >}} | {{< var ref-levatores-costarum-longi.nerve >}} | {{< var ref-levatores-costarum-longi.action >}} |
+| [Anterior Intertransversarii Cervices]({{< var ref-anterior-intertransversarii-cervices.path >}}) | {{< var ref-anterior-intertransversarii-cervices.origin >}} | {{< var ref-anterior-intertransversarii-cervices.insertion >}} | {{< var ref-anterior-intertransversarii-cervices.nerve >}} | {{< var ref-anterior-intertransversarii-cervices.action >}} |
+| [Posterior Intertransversarii Cervices]({{< var ref-posterior-intertransversarii-cervices.path >}}) | {{< var ref-posterior-intertransversarii-cervices.origin >}} | {{< var ref-posterior-intertransversarii-cervices.insertion >}} | {{< var ref-posterior-intertransversarii-cervices.nerve >}} | {{< var ref-posterior-intertransversarii-cervices.action >}} |
+| [Medial Intertransversarii Lumbora]({{< var ref-medial-intertransversarii-lumbora.path >}}) | {{< var ref-medial-intertransversarii-lumbora.origin >}} | {{< var ref-medial-intertransversarii-lumbora.insertion >}} | {{< var ref-medial-intertransversarii-lumbora.nerve >}} | {{< var ref-medial-intertransversarii-lumbora.action >}} |
+| [Lateral Intertransversarii Lumbora]({{< var ref-lateral-intertransversarii-lumbora.path >}}) | {{< var ref-lateral-intertransversarii-lumbora.origin >}} | {{< var ref-lateral-intertransversarii-lumbora.insertion >}} | {{< var ref-lateral-intertransversarii-lumbora.nerve >}} | {{< var ref-lateral-intertransversarii-lumbora.action >}} |
+: Deep Segmental Back Muscles {.striped .hover}
+
+

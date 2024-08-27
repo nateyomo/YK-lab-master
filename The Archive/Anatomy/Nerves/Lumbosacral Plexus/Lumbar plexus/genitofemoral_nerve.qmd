@@ -1,0 +1,53 @@
+---
+title: Genitofemoral Nerve
+---
+
+![Genitofemoral Nerve @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/images/gilroyatlas fig34.13 genitofemoral nerve.png)
+
+# Roots
+
+[L1]({{< var ref-nerve-root.l1 >}}), [L2]({{< var ref-nerve-root.l2 >}}) @gilroyAtlasAnatomy2020
+
+# Pathway
+
+- Pierces psoas major anteriorly below the former 2 nerves to immediately split into 2 branches that run down on ant side of the muscle
+- Genital branch differs in Males vs Females
+    - Males: runs in spermatic cord and then sends sensory branches to scrotal skin. In males in supplies motor innervation to cremaster
+    - Females: runs w teres uteri ligament and sends sensory branches to labia majora
+- Passes through inguinal canal
+
+
+
+# Motor innervation
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "genitofemoral_nerve"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Genitofemoral Nerve Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Cutaneous Innervation
+
+- Lateral, femoral branch = sensory
+- Supplies skin below inguinal, prox lat aspect of femoral triangle
+
+# Dysfunction
+
+Entrapment; rare

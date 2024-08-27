@@ -1,0 +1,39 @@
+---
+title: Surfing Takeoff & Pop-up
+---
+
+# Chloë's favorite video
+
+{{< video https://www.youtube.com/watch?v=9rz-ucDwjVU >}}
+
+# Gerr's method
+
+{{< video https://www.youtube.com/watch?v=vOUvoZL208I >}}
+
+{{< video https://www.youtube.com/watch?v=l7Rq6S0FC4c >}}
+
+# Takeoff Physical requirements
+
+During the takeoff, the task requires the surfer to move 75% of their body weight in less than a second @parsonageUpperBodyStrengthMeasures2020 
+
+# Examination
+
+## Iso Push-up
+
+- Isometric Push-up (IPU) @parsonageUpperBodyStrengthMeasures2020
+- The patient maintains a straight line between torso and upper body while keeping the elbows at 100&deg; flexion @parsonageUpperBodyStrengthMeasures2020 
+- Increased iso push-up force correlated with decreased time to takeoff/pop-up @parsonageUpperBodyStrengthMeasures2020
+
+## Dynamic Push-Up (DPU)
+
+- Dynamic Push-up (DPU) @parsonageUpperBodyStrengthMeasures2020
+- Increased dynamic push-up force correlated with decreased time to takeoff/pop-up @parsonageUpperBodyStrengthMeasures2020
+
+# Exercises
+
+{{< video https://www.youtube.com/watch?v=dFXyisjYnZw >}}
+
+{{< video https://www.youtube.com/watch?v=9IFVJd0ngUY >}}
+
+Gerr recommends 100 pop ups a day broken up into 50 FS, 50 BS.
+In addition, he advises doing the pop-up eyes open (EO) and eyes closed (EC).

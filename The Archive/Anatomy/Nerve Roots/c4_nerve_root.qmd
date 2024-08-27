@@ -1,0 +1,34 @@
+---
+title: C4 Nerve Root (C4)
+---
+
+
+# Motor Innervation
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "root_identifier"  # or "group_identifier"
+filter_patterns <- "C4"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "C4 Nerve Root Skeletal Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+
+# Lesion
+
+"Sensory signs and symptoms occur on the lower neck. Paresis occurs in the scalene and levator scapulae muscles (lateral neck flexion and scapular rotation, respectively), rhomboid muscles (scapular elevation and adduction), trapezius muscle (shoulder elevation), and some muscles of the neck. Diaphragmatic paresis may also occur because some fibers reach the phrenic nerve. There is no reflex impairment." @brazisLocalizationClinicalNeurology2022 

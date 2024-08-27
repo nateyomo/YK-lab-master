@@ -1,0 +1,75 @@
+---
+title: Total Hip Arthroplasty Posterior Approach
+---
+
+
+
+
+# Inpatient Rehab
+
+Currently, most THA patients are on "home rehabilitation programs" and are discharged the same day.
+
+## Precautions
+
+::: {.panel-tabset}
+
+## Kaiser
+
+1. Do not cross your legs
+1. Do not bend your hips more than 90 &deg;
+    - use a raised toilet seat
+    - use higher, firm chairs with solid arms
+    - Do not lift your knee/thigh above your hip
+    - Use pillows or cushions to build up the height of your couch or chair if too low
+    - Slide your surgical leg forward before standing up or sitting down
+    - When seated do NOT lean forward to reach for objects, pick things up from the floor, or dress your lower body
+    - your shoulders should never be in front of your hips and your hands should not reach further than your knees
+    - Use adaptive equipment or have someone help you when dressing your lower body and when putting on shoes
+1. Do NOT roll your surgical leg inward (No hip IR)
+
+## Casa Colina
+
+1. Do NOT flex the hip past 90 &deg;
+1. Do NOT point the toes in or out
+1. Do NOT cross the legs or ankles
+1. Keep legs shoulder width apart
+1. Keep the surgical leg in front while transferring
+
+:::
+
+## AD Gait Training
+
+
+:::{layout-ncol="2"}
+### Forward walking
+
+1. Slide walker forward
+1. Move the surgical leg inside the walker
+1. bring the non-surgical leg to meet the surgical leg
+
+
+### Backward walking
+
+1. Non-surgical leg
+1. Surgical leg
+1. Slide the walker
+
+:::
+
+## AD Stair Training
+
+*"Up with good, down with bad"*
+
+:::{layout-ncol="2"}
+### Ascending
+
+Lead with your non-surgical leg going upi
+
+### Descending
+
+Lead with your surgical leg going down
+
+
+:::
+
+## Exercise program

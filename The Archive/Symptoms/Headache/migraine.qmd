@@ -1,0 +1,123 @@
+---
+title: Migraine
+---
+
+
+Migraine is the most common primary headache @blumenfeldNeuroanatomicalBasisConsciousness2016. 
+
+
+
+
+
+# Epidemiology
+
+- 15% of the population @blumenfeldNeuroanatomyClinicalCases2022
+- Gender: 2:1 female-to-male @blumenfeldNeuroanatomyClinicalCases2022
+
+
+# Pathophysiology
+
+:::{.callout-note}
+Migraine and cluster headaches were previously termed "vascular disorders" but this term is innaccurate since it ignores the electrophysiological, inflammatory, autonomic, serotonergic, and neuroendocrine factors that impact their pathophysiology @blumenfeldNeuroanatomyClinicalCases2022.
+:::
+
+There is still the idea that there is a vascular component since caffeine helps to reduce migraines, presumably through vasoconstriction
+
+:::{.callout title="FROM A LECTURE"}
+
+- Drop in serotonin levels causing the trigeminal nerve to release substances called neuropeptides, which travel to the brain’s meninges. Cause BV’s to become dilated and inflamed resulting in a HA
+    - Can last 4-72 hrs, generally less than 24 hrs
+:::
+
+# Etiology
+
+- 75% of migraine patients have a family history of migraines, suggesting a genetic component @blumenfeldNeuroanatomyClinicalCases2022.
+
+# Triggering and Precipitating Factors
+
+Migraines can be provoked by:
+
+- Certain foods @blumenfeldNeuroanatomyClinicalCases2022
+- Stress @blumenfeldNeuroanatomyClinicalCases2022
+- Eye strain @blumenfeldNeuroanatomyClinicalCases2022
+    - Bright light
+- Noise
+- Menstrual cycle @blumenfeldNeuroanatomyClinicalCases2022
+- Changes in sleep pattern @blumenfeldNeuroanatomyClinicalCases2022
+- Exertion
+- And more
+
+
+
+
+
+
+
+# Clinical presentation
+
+Precipitating factors
+
+- Stress
+- Exertion
+- Food
+- Bright lights
+- Noise
+- Menstruation
+
+Preceding factors:
+
+- Possibley some of the triggering factors
+- Aura: warning symptoms (visual blurring, shimmering, scintillating distortions, or fortification scotoma) @blumenfeldNeuroanatomyClinicalCases2022
+
+
+**Onset**: Rapid onset, can awaken w ha, aura can proceed the HA
+
+Area of symptoms:
+
+- Unilateral
+- Temporal
+- Frontal or retro orbital
+- Can change sides
+
+Quality of symptoms:
+
+- Throbbing
+- Pounding
+- Moderate to severe
+
+Associated symptoms:
+
+- Nausea
+- Vomiting
+- Photophobia
+- Phonophobia
+
+
+
+# DDX
+
+- Unilateral
+- 
+
+# Prevention
+
+- As soon as u have aura, take drug to limit severity 
+- Excedrin: Contains caffeine
+    - Caffeine can help by dilating blood vessels
+
+# Treatment
+
+- Botox in suboccipital area has been beneficial in cases
+
+
+## Physical Therapy
+
+
+:::{.callout title="Recommendations for PT School"}
+- STM, MFR, 
+- Joint mobility: Traction, mobs of C/s and T/s 
+- Stretching
+- Strengthening 
+- Cardiovascular endurance
+- Patient education
+:::

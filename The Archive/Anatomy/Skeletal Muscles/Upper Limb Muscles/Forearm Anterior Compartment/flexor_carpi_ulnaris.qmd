@@ -1,0 +1,39 @@
+---
+title: Flexor Carpi Ulnaris (FCU)
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Flexor Carpi Ulnaris]({{< var ref-flexor-carpi-ulnaris.path >}}) | {{< var ref-flexor-carpi-ulnaris.origin >}} | {{< var ref-flexor-carpi-ulnaris.insertion >}} | {{< var ref-flexor-carpi-ulnaris.nerve >}} | {{< var ref-flexor-carpi-ulnaris.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+- **Humeral head**: Medial epicondyle of Humerus @gilroyAtlasAnatomy2020
+- **Ulnar head**: Olecranon of Ulna @gilroyAtlasAnatomy2020
+
+
+
+# Insertion {#insertion}
+
+- Pisiform @gilroyAtlasAnatomy2020
+- Hook of hamate @gilroyAtlasAnatomy2020
+- Base of 5th metacarpal @gilroyAtlasAnatomy2020
+
+
+
+# Innervation {#innervation}
+
+[Ulnar N.]({{< var ref-ulnar-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+**Wrist**: Flexion, Ulnar deviation @gilroyAtlasAnatomy2020
+
+
+# Notes

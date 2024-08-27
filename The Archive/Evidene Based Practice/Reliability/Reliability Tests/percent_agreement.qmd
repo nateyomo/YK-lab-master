@@ -1,0 +1,28 @@
+---
+title: Percent Agreement
+---
+
+
+What percentage of the time 2 different readings of the same thing give you the same result
+
+# Calculation
+
+Percent agreement equation @gisevInterraterAgreementInterrater2013
+$$
+ \textrm{Percent Agreement} = \frac{\sigma_s^2}{\sigma_s^2 + \sigma_e^2} = \frac{\textrm{Number of concordant responses} }{\textrm{Total number of responses}}\times 100\%
+$$ 
+
+
+# Scoring
+
+Values range from 0.00 (not reliable) to 1.00 (perfectly reliable) 
+
+| Score | Reliability |
+|-|-|
+| 0.00 – 0.20 | Poor |
+| 0.21 – 0.40 | Fair |
+| 0.41 – 0.60 | Moderate |
+| 0.61 – 0.80 | Good |
+| 0.81 – 1.00 | Excellent |
+
+: "Rule of thumb" Quick interpretation of reliability {.striped .hover}

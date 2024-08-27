@@ -1,0 +1,26 @@
+---
+title: Selection Effects
+---
+
+Selection effects refer to when a study uses non-equivalent experimental and control groups, who respond differently to the intervention due to their preexisting characteristics.
+
+Selection effects often cause researchers to believe that the intervention had an effect, whereas the difference is due to differences between the groups themselves.
+
+
+
+
+
+
+
+:::{.callout title="Example"}
+Patients in treatment group significantly younger than control group. Younger adults have better prognosis at baseline indepenent of tx that they receive
+:::
+
+# Assessment
+It is important to determine if pt groups have similar demographics or clinical characteristics at baseline.
+When evaluating selection effects you can usually find them on group differences at baseline on table demographics (usually table 1).
+If selection effects are present to determine the potential impact of these differences on pt outcomes when interpreting study results.
+
+# Prevention / Minimize
+Researchers an minimize selectione effects by randomly assigning pts to a treatment or a control group so that any preexisting characteristics that may impact treatment outcomes will be equally distributed between groups.
+Although this doesnt perfeclty prevent selection effects, it is more likely that groups will be equivalent as sample size increases.

@@ -1,0 +1,17 @@
+---
+title: Bias
+---
+
+
+Systematic error is responsible for bias @simMeasurementValidityPhysical1993
+
+
+# Blinding
+
+- Lack of blinding of investigators: Can result in experimenter bias
+- Lack of blinding of patients: can result in
+    - [Diffusion of treatment effects]({{< var ref-bias.diffusion-of-treatment-effects >}})
+    - [Compensatory rivalry]({{< var ref-bias.compensatory-rivalry >}})
+    - [Resentful demoralization]({{< var ref-bias.resentful-demoralization >}})
+
+Lack of blinding for PATIENTS can result in.  Lack of blinding of CLINICIANS who deliver the intervention can result in compensatory equalization or diffusion of treatment effects.

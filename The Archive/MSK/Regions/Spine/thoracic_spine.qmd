@@ -1,0 +1,87 @@
+---
+title: Thoracic Spine
+---
+
+# Osteokinematics
+
+## Flexion 
+
+- Total: 20-45° @duttonDuttonOrthopaedicExamination2020
+    - Upper T/S: 4-5° @duttonDuttonOrthopaedicExamination2020
+    - Middle T/S: 6-8° @duttonDuttonOrthopaedicExamination2020
+    - Lower T/S: 9-15° @duttonDuttonOrthopaedicExamination2020
+
+## Extension 
+
+- Total: 15-20° @duttonDuttonOrthopaedicExamination2020
+- Segment: 1-2° @duttonDuttonOrthopaedicExamination2020
+- *Compression @ center @duttonDuttonOrthopaedicExamination2020
+
+:::{.callout-note collapse="true"}
+# Extension Limitations
+:::
+
+## SB (Lateral flexion) @duttonDuttonOrthopaedicExamination2020
+
+- Segment: 3-4° per
+- Total: 25-45°
+    - Lower segment: 7-9°
+
+:::{.callout-note collapse="true"}
+# SB Limitations
+SB limited throughout d/t rib stacking @duttonDuttonOrthopaedicExamination2020
+:::
+
+
+## Rotation
+
+
+- Total: 35-50° @duttonDuttonOrthopaedicExamination2020
+- Segments: 
+    - Upper: 7° @duttonDuttonOrthopaedicExamination2020
+    - Middle: 5° @duttonDuttonOrthopaedicExamination2020
+    - Last 2 segments: 2-3° @duttonDuttonOrthopaedicExamination2020
+
+:::{.callout-note collapse="true"}
+# Rotation Limitations
+
+:::
+
+# Arthrokinematics
+
+# T/S Pain
+## Referred pain
+
+- Z-joints of the C/S can refer to the thoracic spine
+
+## Acute T/S Pain
+
+- Fracture: 
+    - Old (>50) = Minor trauma (hx of osteoporosis or steroid use)
+    - Young = Major trauma in younger pop
+- Infection: Fever, night sweats, risk factors of inf (wound, etc)
+- Tumor: Hx of malignant dx, age > 50 , no improvement w txt, unexplained weight loss, pain at multiple sites, rest, night pain
+
+
+# T/S Pathologies
+
+- [TOS]({{< var ref-thoracic-outlet.syndrome.path >}})
+- Spinal nerve root syndrome— radiculopathy 
+- Osteoporosis: (10% of ppl 50 +)
+- Chest wall variations
+- Kyphotic variations
+- Osteoarthritis
+- Spinal stenosis
+
+
+# Rule of 3s
+
+::: {.callout-note}
+Oakley CK, Janssen SAK, Pankratz JP, McCumber TL, Treffer KD, Olinger AB. Validity of the Rule of Threes and Anatomical Relationships in the Thoracic Spine. J Am Osteopath Assoc. 2018;118(10):645-653. doi:10.7556/jaoa.2018.143
+:::
+
+# Examination
+
+- T/S spine ROM
+    - Measure from T12 to acromion and compare to opposite side
+    - Go into quadraped with max L/S flexion to bias T/S rotation

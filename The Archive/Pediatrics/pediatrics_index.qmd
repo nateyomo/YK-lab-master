@@ -1,0 +1,19 @@
+---
+title: Index of Pediatrics
+---
+
+## Development
+
+- [Normal child development]({{< var ref-normal-child-development.path >}})
+- [Theories of Child development]({{< var ref-overview-theories-of-child-development.path >}})
+
+## Embryology
+
+- [Fetal Development]({{< var ref-fetal-development.path >}})
+- [Neuroembryology]({{< var ref-neuroembryology.path >}})
+
+## Pediatric Examination
+
+- [Pediatric Tests and Measures]({{< var ref-index-pediatric-tests-and-measures.path >}})
+
+

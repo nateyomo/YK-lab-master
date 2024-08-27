@@ -1,0 +1,24 @@
+---
+title: Index of Neuropathologies
+---
+
+# Central Nervous System pathologies
+
+- [Alzheimer's Disease (AD)]({{< var ref-alzheimers-disease.path >}})
+- [Amyotrophic Lateral Sclerosis (ALS)]({{< var ref-amyotrophic-lateral-sclerosis.path >}})
+- [Down Syndrome (Trisomy 21)]({{< var ref-down-syndrome.path >}})
+- [Multiple Sclerosis (MS)]({{< var ref-multiple-sclerosis.path >}})
+- [Parkinson's Disease]({{< var ref-parkinsons-disease.path >}})
+- [Spinal Cord Injury (SCI)]({{< var ref-spinal-cord-injury.path >}})
+- [Stroke]({{< var ref-stroke.path >}})
+- [Traumatic Brain Injury (TBI)]({{< var ref-traumatic-brain-injury.path >}})
+
+# Peripheral Nervous System Pathologies
+
+
+- [Bell's Palsy]({{< var ref-bell-palsy.path >}})
+- [Guillain-Barré syndrome]({{< var ref-guillain-barre-syndrome.path >}})
+- [Trigeminal Neuralgia]({{< var ref-trigeminal-neuralgia.path >}})
+
+
+

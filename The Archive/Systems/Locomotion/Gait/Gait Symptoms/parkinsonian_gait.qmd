@@ -1,0 +1,9 @@
+---
+title: Parkinsonian Gait
+---
+
+<q>
+The patient with Parkinson disease walks with a rigid trunk, reduced arm swing, slow and short steps, and a tendency for the knees to be flexed. The gait of patients with classical Parkinson disease differs from the gait of patients with the atypical parkinsonian syndromes, such as progressive supranuclear palsy (PSP). Festination, a tendency for the patient to begin running after taking a few steps, may be present with classical Parkinson disease, but seldom with atypical Parkinson syndrome. The base of support is generally normal in early Parkinson disease but is often widened in atypical Parkinson disease, which is also often accompanied by impaired balance. Whereas a stoop is characteristic of classical Parkinson disease, patients with PSP walk quite erect. Early reduction of arm swing is more characteristic of classical Parkinson disease. This disease follows destruction of neurons of the substantia nigra. The parkinsonian syndromes are caused by more widespread lesions, some of which involve the lenticular nucleus @brazisLocalizationClinicalNeurology2022.
+</q>
+
+@brazisLocalizationClinicalNeurology2022

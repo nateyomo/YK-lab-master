@@ -1,0 +1,7 @@
+---
+title: Closed Kinetic Chain (CKC)
+---
+
+"Closed kinetic chain" refers to when the *distal* segment of the joint is fixed and the proximal segment is free to move @neumannKinesiologyMusculoskeletalSystem2017.
+
+

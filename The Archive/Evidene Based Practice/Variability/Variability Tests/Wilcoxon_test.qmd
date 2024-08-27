@@ -1,0 +1,124 @@
+---
+title: Wilcoxon Test
+---
+
+
+:::{.callout-note title="AKA"}
+
+- Wilcoxon's Signed-Rank Test (WSR)
+- Signed-rank test
+
+:::
+
+Wilcoxon test analyzes whether there is a difference between 2 dependent samples (alt hypothesis) or not (null hypothesis). 
+
+
+:::{layout-ncol="2"}
+### T-Test
+
+- Parametric test for 2 dependent groups ()
+- T-Test tests whether the average difference between two observations is 0
+- Requires **normally** distributed data
+- Answers the question: "Is there a difference in mean?"
+
+### Wilcoxon Test
+
+- Wilcoxon test is the nonparametric counterpart to the T-Test.
+- Tests whether the difference between two observations has a mean signed rank of 0
+- Does **not** require normally distributed data
+- Compares the differences in ranks
+:::
+
+
+
+Wilcoxon rank-sum test is a popular nonparametric test for comparing two independent populations (groups) @duttaRanksumTestClustered2016 
+
+One important assumption for applicability of Wilcoxon ranksum test is that all the observations under the study are independent @duttaRanksumTestClustered2016 
+
+# Samples
+
+Dependent samples have measured values that come in pairs.
+Often, the pairs of data come from repeated samples of the same participant.
+
+# When to apply
+
+- You should *always* use the T-Test when possible, unless the data is not normally distributed.
+- Only 2 dependent samples with at least ordinally scaled characteristics need to be available.
+
+# How the test Works
+
+The Wilcoxon Test determines whether there is a difference in rank totals between 2 dependent groups.
+
+# Calculation
+## Rank Differences
+
+The ranks are based on the magnitude of difference between one pair.
+The pair with the difference closest to 0 gets rank 1.
+A (+) is assigned to all positive values and a (-) is assigned to all negative values.
+
+## Determine Rank Sums
+Next you sum the positive ranks $T^+$ and the negative ranks $T^-$.
+
+$$
+T^+ = \sum{\textbf{All positive ranks}}
+$$
+
+$$
+T^- = \sum{\textbf{All Negative ranks}}
+$$
+
+## Calculate Test Statistic W
+
+$$
+W = \textbf{min}(T^+, T^-)
+$$
+
+Expected value of W ($\mu_W$) refers to the value of W we would expect if there were no difference between within the pairs.
+If the null hypothesis is true, we would expect $W$ to be equal to $\mu_W$
+
+$$
+\mu_W = \frac{n(n+1)}{4}
+$$
+
+## Standard deviation
+
+Standard deviation of 
+
+$$
+\sigma_W = \sqrt{\frac{n(n+1)(2n+1)-\sum\frac{t^3_i-t_i}{2}}{24}}
+$$
+
+## Z-Value
+
+Z-Value ($Z$) calculates the value that we would expect if there was no difference ($\mu_W$) with the value that actually occured ($W$) divided by the standard deviation ($\sigma_W$)
+$$
+Z = \frac{W - \mu_W}{\sigma_W}
+$$
+
+:::{.callout-note}
+If there are *more* than 25 cases, normal distribution is assumed and you can use the method above.
+
+If there are less than 25 cases, you should use a table.
+:::
+
+# Hypothesis
+
+:::{layout-ncol="2"}
+### Null Hypothesis
+Both rank sums are equal.
+
+### Alternate Hypothesis
+:::
+
+# Interpreting the results
+
+- Z-value: 
+    - A negative value indicates that group 1 had lower values than group 2.
+    - If the groups are evenly distributed, then the z-score will be closer to 0.
+- p-value: indicates whether the difference was statistically significant.
+
+
+
+# Videos
+
+{{< video https://youtu.be/NZsL2eDQiDQ >}}

@@ -1,0 +1,20 @@
+---
+title: Intervention Questions
+
+---
+
+
+
+# Optimal Study Design
+
+The optimal study design for intervention questions are systematic reviews or RCTs.
+
+- Systematic review's provide the highest level of evidence
+- RCTs provide the 2nd highest level of evidence
+
+
+[Tips for searching articles]({{< var ref-article-search-guide.path >}})
+
+# Databases
+
+- [PEDro](https://www.pedro.org.au/)

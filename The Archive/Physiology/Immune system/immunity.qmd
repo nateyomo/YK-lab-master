@@ -1,0 +1,47 @@
+---
+title: Immunity
+---
+
+
+# Overview
+
+
+
+# Innate Immunity {#innate}
+
+:::{.callout-note title="AKA"}
+
+- Natural Immunity @abbasCellularMolecularImmunology2022
+- Native immunity @abbasCellularMolecularImmunology2022
+:::
+
+Innate immunity is vital for defending against the immediate introduction of microbes within the first few hours or days after infection @abbasCellularMolecularImmunology2022.
+Innate immunity acts before the *adaptive immune response* develops @abbasCellularMolecularImmunology2022.
+
+
+## Mediation
+
+"Innate immunity is mediated by mechanisms that are in place even before an infection occurs (hence innate) and are capable of reacting rapidly to invading microbes" @abbasCellularMolecularImmunology2022 
+
+
+
+
+
+
+# Adaptive Immunity {#adaptive-immunity}
+
+:::{.callout-note title="AKA"}
+
+- Specific immunity @abbasCellularMolecularImmunology2022
+- Acquired immunity @abbasCellularMolecularImmunology2022
+:::
+
+Adaptive Immunity refers to the aspects of the immune system that are activated *after* exposure to an infectious agent and increase in magnitude and defensive capabilities with consecutive exposures to the same immune stimulus @abbasCellularMolecularImmunology2022.
+The stimulus that the adaptive immune system react to are collectively called "antigens," which include many microbial and nonmocrobial substances @abbasCellularMolecularImmunology2022.
+The adaptive immune system is important since pathogens continually evolve to overcome the innate immune response, thus the adaptive immune response is required to create a specialized immune response that is more effective @abbasCellularMolecularImmunology2022.
+
+# Cooperation between Innate and Adaptive immune systems
+
+The adaptive and innate immune responses work together via many connections @abbasCellularMolecularImmunology2022.
+The innate immune response will respond first and attack the microbes while also stimulative the adaptive immune responses @abbasCellularMolecularImmunology2022.
+The adaptive immune responses strengthens the innate immune system by making it more robust and effective @abbasCellularMolecularImmunology2022

@@ -1,0 +1,21 @@
+---
+title: Index of MSK
+---
+
+
+
+- Head 
+- Neck
+- Thoracic Spine
+- Lumbar spine
+- SIJ
+- Upper Extremity
+    - Shoulder
+    - Elbow
+    - Wrist
+    - Hand
+- Lower Extremity
+    - Hip
+    - Knee
+    - Ankle
+    - Foot

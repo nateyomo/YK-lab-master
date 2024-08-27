@@ -1,0 +1,15 @@
+---
+title: Measurement theory
+---
+
+
+# Observed Score
+
+- Observed score ($X_O$): 
+- True Score ($X_T$): 
+- Error ($e$):
+
+$$
+X_O = X_T + e
+$$
+

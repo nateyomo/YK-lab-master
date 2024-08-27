@@ -1,0 +1,29 @@
+---
+title: Cervical Radiculopathy
+---
+
+
+
+# DDX
+
+:::{.callout-note}
+
+- Kang KC, Lee HS, Lee JH. Cervical Radiculopathy Focus on Characteristics and Differential Diagnosis. Asian Spine J. 2020;14(6):921-930. doi:10.31616/asj.2020.0647
+:::
+
+# Examination
+
+- 5D's 3N's 
+    - Dizziness
+    - Drop Attacks
+    - Diploplia
+    - Dysarthria
+    - Dysphagia
+    - Nausea
+    - Numbness
+    - Nystagmus
+
+
+# Tests
+
+- Spurling's Test

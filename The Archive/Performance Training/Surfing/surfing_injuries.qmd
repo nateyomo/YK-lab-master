@@ -1,0 +1,57 @@
+---
+title: Surfing Injuries
+---
+
+::: {#fig-surfing-moi}
+
+```{mermaid}
+pie showdata
+    "Struck by Own Board" : 38.5
+    "Maneuver/Approach" : 20.3
+    "Striking seafloor" : 18.4
+    "Marine" : 3.2
+    "Wave" : 5.6
+    "Contact with other surfer/surfer's board" : 6.4
+    "Walking on beach/rock/reef" : 0.3
+    "Low Temperature" : 0.3
+    "Floater/water vessel" : 0.5
+    "Fin/rope" : 0.9
+```
+
+Surfing Mechanisms of Injury @mcarthurEpidemiologyAcuteInjuries2020
+:::
+
+# Injury Location
+
+::: {#fig-surfing-injury-location}
+
+```{mermaid}
+pie showdata
+    "Face/Head/Neck" : 33.8
+    "Lower Limb" : 33.0
+    "Upper Limb" : 16.7
+    "Torso" : 10.3
+    "Spine/back" : 4.5
+    "Other" : 1.7
+```
+
+Surfing Injury Locations @mcarthurEpidemiologyAcuteInjuries2020
+:::
+
+# Type of Injury
+
+::: {#fig-surfing-injury-type}
+
+```{mermaid}
+pie showdata
+    "Skin" : 46.0
+    "Soft Tissue" : 22.6
+    "Bone" : 9.6
+    "Other" : 9.1
+    "Joint" : 6.9
+    "Concussion" : 2.3
+    "Internal" : 1.3
+```
+
+Surfing Injury Type @mcarthurEpidemiologyAcuteInjuries2020
+:::

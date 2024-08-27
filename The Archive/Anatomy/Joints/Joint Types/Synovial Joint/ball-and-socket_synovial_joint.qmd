@@ -1,0 +1,5 @@
+---
+title: Ball-and-Socket Joint
+subtitle: Mechanical class of Synovial joints
+---
+

@@ -1,0 +1,122 @@
+---
+title: Fetal Development
+---
+
+# Birth age
+
+Age definitions 
+
+- Term birth: 38-40 weeks gestation
+- Premature: born prior to 37 weeks gestation
+- Gestational age: number of months/days in utero (how long in utero, date of last menstrual period to when baby was born) 
+- Chronological age: Time since date of birth
+- [Adjusted age]({{< var ref-pediatric-adjusted-age.path >}}): Chronological age - (Prematurity)
+
+
+# Periods
+
+Broken down into 3 period
+
+1. Germinal period (~2 wk)
+1. Embryonic period (3-7wk)
+1. Fetal period (wk8-birth)
+
+## Germinal Period
+
+- Time: fertilization to -2 weeks 
+- Implantation
+
+
+## Embryonic period
+
+Occurs from Week #3-7
+
+:::{.callout-caution collapse="false"}
+- Especially vulnerable to teratogens (she says teratogens = can be drugs, malnutrition, radiation, anything that can cause damage)
+- Why important:  you might not know you're pregnant until this embryonic window has closed
+    - This can be an issue! 
+    - Neural tube defects can occur
+        - Folic acid can help prevent this!
+    - Those who are of child bearing age= just take folic acid
+    - Even if thinking ur not going to have kids
+:::
+
+
+## Fetal period
+
+- 8 weeks to birth
+- Phase of rapid growth
+
+
+# Week based development
+
+## First 4 Weeks
+
+- 2-3 weeks: neural plate begins for brain and heart begins as a single tube
+- 3 weeks: cell differentiation into 3 layers
+    - Ectoderm
+    - Mesoderm
+    - Endoderm
+- 4 weeks- head region differentiated , primitive brain and spinal cord, initial limb buds
+
+
+## 8 Weeks
+
+- Organs become functional
+- Limb buds grow and differentiate – muscle , nerves
+
+
+## 12 Weeks
+
+- More activity, moves head and extremities but mvmts not yet felt by pregnant person
+- All organs, limbs, bones, mm are present and will continue to develop in order to become fully functional
+
+## 16 Weeks
+
+Fetus starts to make sucking motion w mouth, ears, developed enough to hear sounds, voices
+
+## 20 Weeks
+
+- Preg person starts to feel mvmt
+- Sleep/wake patterns develop
+- Heart can be heard w stethoscope
+- In weeks 17-20 fetus develops fat and lanugo: peach like fuzz like hair, helps keep fetus warm and provides layer of protection
+
+
+## 23 Weeks
+
+- If born now, potentially viable if received specialized medical care
+- The baby should begin to excrete Surfactant by the alveoli which is essential for lung function
+
+:::{.callout-note collapse="true" title="Surfactant information"}
+Surfactant, which is essential to lung function, is starting to be excreted by alveoli cells 
+
+(1)Lowering surface tension at the air–liquid interface and thus preventing alveolar collapse at end-expiration, (2) interacting with and subsequent killing of pathogens or preventing their dissemination, and (3) modulating immune responses.
+:::
+
+## 24 Weeks
+
+Lungs fully developed but not well enough to function independently outside uterus
+
+## 28 Weeks
+Brain developing rapidly
+
+## 32 Weeks
+
+- Hears sounds and responds w mvmt
+- Suck swallow reflex developing
+- Lanugo falling off
+- Organs well developed, except lungs and brain
+
+
+## 36 Weeks
+
+- CNS greater control over body functions
+- Increasing levels of surfactant production
+
+
+## 40 Weeks
+
+- Movement more confined
+- Adequate surfactant levels
+- Physiological flexion developed (bc they run out of space in womb, but super important bc that is how u develop proprioception and kinesthetic awareness) (especially in hands and feet) 

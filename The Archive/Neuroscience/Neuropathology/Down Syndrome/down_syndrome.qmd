@@ -1,0 +1,18 @@
+---
+title: Down Syndrome
+---
+
+Down syndrome, also referred to as "Trisomy 21" refers to a genetic disorder resulting from a third copy (partial or full) of [chromosome 21]({{< var ref-chromosome-21.path >}}).
+Down syndrome has varying severity of intellectual disability, growth retardation, and characteristic facial features.
+
+
+# Assessment
+## Pediatric Assessment
+
+Kids with down syndrome may present similarly to other children at first growing up
+
+:::{.callout-important}
+
+- Since children with down syndrome may not present with impairments at a young age, it is important to perform more evals than just the one at the 3mo mark.
+- Research shows that we are prob going to be missing a lot of other things (bc eval is a snap shot)
+:::

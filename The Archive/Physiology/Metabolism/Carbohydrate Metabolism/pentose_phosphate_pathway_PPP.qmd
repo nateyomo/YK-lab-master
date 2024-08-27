@@ -1,0 +1,9 @@
+---
+title: Pentose Phosphate Pathway (PPP)
+---
+
+
+:::{.callout title="Readings"}
+
+- Ch 14 GLYCOLYSIS, GLUCONEOGENESIS, AND THE PENTOSE PHOSPHATE PATHWAY @nelsonLehningerPrinciplesBiochemistry2021
+:::

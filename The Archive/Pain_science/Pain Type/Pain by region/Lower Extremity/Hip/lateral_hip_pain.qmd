@@ -1,0 +1,48 @@
+---
+title: Lateral Hip Pain
+---
+
+
+
+
+# DDX
+
+- [External Derotation Test]({{< var ref-external-derotation-test.path >}})
+    - Positive: Gluteal tendinopathy
+- Bursitis
+    - Palpation
+
+# Tests
+
+- Core
+    - Bunkie Test
+- TA activation
+- Hip Abduction
+- MMT
+- Palpate contributing structures: QL
+
+# Intervention
+
+- QL STM
+- Neuro re-ed
+- Pelvis PNF patterns
+
+
+# Exercises
+
+
+## Level 1
+
+- Side-lying hip abduction
+
+## Level 2
+
+- Side plank on knee with running mechanics
+
+## Level 3
+
+- Swiss Ball Wall Hold
+
+## Level 4
+
+- TRX Curtsy Lunge

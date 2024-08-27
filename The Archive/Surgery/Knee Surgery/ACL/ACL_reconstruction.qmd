@@ -1,0 +1,31 @@
+---
+title: ACL Reconstruction Surgery (ACLR)
+---
+
+
+# Graft Type
+
+:::{.callout-note title="Notes from class"}
+Bone-to-bone patellar ligament graft results in the best function, but its main potential adverse effect is anterior knee pain
+:::
+
+
+
+# Return to sport
+
+See Kyritis 2016 for a battery of tests to determine reinjury risk for RTS for soccer players
+
+# Reinjury
+
+- Factors that increased the probability of reinjury
+    - Increased knee extension strength symmetry (%) was associated with increased risk of reinjury @bodkinPredictingAnteriorCruciate2022
+    - Higher values for the KOOS Sport
+    - Increased Triple-hop symmetry (%) @bodkinPredictingAnteriorCruciate2022
+
+- Factors that Decreased probability of reinjury
+    - Increased "Time to return to activity" decreased probability of ACL reinjury @bodkinPredictingAnteriorCruciate2022
+        - After 8 months, for every 1 mo increase in time to RTA reduced risk of reinjury by 28.4% @bodkinPredictingAnteriorCruciate2022 
+
+
+Why does better plyometric symmetry and knee extension strength symmetry place the patient at increased risk of reinjury?
+

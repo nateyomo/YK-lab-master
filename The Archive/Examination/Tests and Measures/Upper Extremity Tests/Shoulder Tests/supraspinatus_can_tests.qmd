@@ -1,0 +1,40 @@
+---
+title: Supraspinatus "Can" Tests
+---
+
+
+# Caution
+
+:::{layout-ncol="3"}
+### Poor Tissue Isolation (Specificity)
+
+- In empty can for “ supra” 9 shoulder mm active @salamhItTimePut2020
+- During full can test 8 other mm were active @salamhItTimePut2020
+
+### Pain is unreliable
+
+- Hyperalgesia: Areas with increased inflammatory markers can cause unrelated areas to be sensitive to certain positions.  For example the subacromial bursa has high concentrations of substance P and pro-inflammatory cytokines and is often aggravated by the Empty can test @salamhItTimePut2020.
+- Allodynia: Pain is not directly related to tissue damage @salamhItTimePut2020.
+:::
+
+
+# Empty Can
+::: {.callout-note title="AKA"}
+
+- Jobe Test
+- Empty Can Test
+
+:::
+
+:::{layout-ncol="3"}
+### Purpose
+Designed to evaluate for both SIS and supraspinatus pathology. 
+
+### Technique
+To perform this test, the clinician abducts the patient’s arm to 90 degrees in the scapular plane (30 degrees from the coronal plane) and internally rotates the wrist so that the thumb is facing the ground with the elbow extended. The clinician then applies a gentle downward force to the patient’s distal forearm, and if pain is reproduced, the test is considered positive. 
+
+### Validity
+Michener et al.,122 in a prospective study comparing the diagnostic reliability and accuracy of five examination tests for SIS, demonstrated a sensitivity of 50% and specificity of 87% for the Jobe test @duttonDuttonOrthopaedicExamination2020.
+:::
+
+# Full Can

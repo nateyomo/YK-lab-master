@@ -1,0 +1,195 @@
+---
+title: Facilitation
+subtitle: Intervention for motor control
+---
+
+# Understand where the task analysis issue is occurring
+
+- Preparation: the interval between an external or internal stimulus to move
+    - Did they establish correct alignment before beginning the movement?
+- Initiation:
+    - The transition from rest to movement; the time when movement begins 
+    - Where is the movement starting from: Is it too much? Not enough?
+    - Reaction time?
+- Execution: movement towards the specific task goal
+- Termination: the transition from movement to rest
+    - Do they have the adequate stability to terminate to effectively?
+
+# Guidance
+Guidance refers to what the patient should be focusing on
+
+- Teaches movement pattern, provides feeling of normal movement or intended movement; 
+- Helps facilitate motor learning and improve kinesthetic awareness; 
+- Use to guide whole functional movement tasks, or parts of movement, or just isolated movements 
+
+# Variables of facilitation
+
+## Manual Contact points
+
+- **Proximal**:
+    - PT has more control, pt feels more secure
+    - Examples of proximal contacts would be: trunk, shoulder blades, pelvis, patient needs to develop more control with task
+- **Distal**:
+    - PT has Less control, gives more control to patient; 
+    - Can still be used to influence trunk from elbows, knees, feet, hands, wrist via *irradiation*
+    
+   
+:::{.callout-note title="Progression"}
+- In general progress from proximal to distal, further away from center the more control you give to your pt
+- As soon as pt takes over more of the task you move your hands more distally
+:::
+
+
+## Alignment
+
+- Must always strive to achieve good positioning, to allow patient the opportunity to choose from many movement options and not get stuck in a pattern that is not as effective
+- Also helps promote normal ROM and better use/ access of all of the limbs
+
+
+## Speed
+
+Should you instruct the patient to move fast or slow during these movements?
+The answer is not very simple, it depends on your goal for the patient
+
+Moving Slowly
+
+- To teach movement pattern or functional activity begin slowly; use if trying not to increase tone or spasticity initially; 
+- Provides patient time to concentrate/ understand the sequence and process it better, decrease anxiety;
+- Gives PT opportunity to change facilitation, hand placements, input, body position in response to pt
+
+Moving quickly:
+
+- Need to progress to faster movements to get to functional or normal speeds to help facilitate independence;
+- Use faster movements when teaching pts to use momentum(as in some SCI compensatory techniques) or when ready to begin gaining power with mobility
+
+
+## ROM
+
+How much ROM should the patient move through when using facilitation?
+You should choose the ROM based on what level of motor learning the patient is in.
+Start with small ROM and progress to larger ROM.
+
+- Small ROM
+    - Use small ranges initially to develop more control- 
+    - Can break down tasks into smaller parts of the movement to increase confidence, decrease anxiety
+- Large ROM:
+    - Progress to larger ranges of motion to facilitate normal movement, and do whole task training for improved motor learning, 
+    - If you don’t practice movement in normal ranges it cannot be functional in real world situations
+
+:::{.callout-note title="When to progress ROM"}
+*N/A yet*
+:::
+
+## Load
+
+### Type of resistance
+
+Isometric --> Eccentric --> Concentric Movement Skills
+
+Isometric:
+
+- Sustained hold
+- Use to get muscles on and hold contraction for longer periods of time;
+- May be very difficult for persons with neurologic involvement
+
+Eccentric:
+
+- Use to gain control of movement, promotes co-activation, graded control (slowing down) and uses less metabolic output than concentric contractions; 
+- Promotes strength gains in less time
+
+Concentric:
+
+- a shortening contraction; use for gaining power/ speed for fast muscles/ movements;
+- Increased metabolic output required 
+
+
+### Weight-bearing percent
+
+Light weight bearing: Less than body weight
+
+- Helps to “normalize” tone or to dampen it;
+- Example: weight bearing prone on elbows (POE) helps to turn on extensors and inhibit flexor tone
+- Can promote controlled mobility
+
+:::{.callout-note title="Example"}
+Sitting weight bearing on one UE and reaching with other UE
+:::
+
+Heavy weight bearing: Greater than body weight: 
+
+- used for holding, stabilizing, promotes co-activation
+
+:::{.callout-note title="Example"}
+Approximating at the trunk in upright standing, using vests or cuffs
+:::
+
+### Weight Shifts
+
+- Helps to increase kinesthetic awareness and body in space, explore and increase limits of stability in all directions; works on controlled mobility; 
+- Facilitates symmetrical WB, can be used to decrease anxiety
+
+## Task-Specific Training
+
+- You observe AND can FEEL to analyze the task and movement patterns that make up the task; break the task into component parts and note the parts that the pt cannot do or they are missing and that are NEEDED to complete that task normally
+- You work on the missing components or parts, which may also include working directly with the impairments (like increasing ROM); may have to help create environment that allows successful mobility without that component if unable to recover it
+- Then combine the tasks and work toward the whole functional skill and work toward transferring learning of the skill
+
+# Facilitation techniques:
+Frontal plane
+Side Bend R
+Use more vertical force vectors
+Approximate the R side inferiorly
+Traction the L side superiorly (elongates the trunk)
+Side shift
+Translate both sides horizontally (i.e. approximate left shoulder and traction the other shoulder along the horizontal plane)
+
+
+# Sitting
+
+- As much loading as possible! 
+- Feet on ground
+- Load thru the elbow, hand and elbow, or AC joint or scapula itself
+- Approximate tibia
+
+
+
+# Kneeling
+
+## Transitioning to Kneeling
+
+Standing to kneeling
+
+- Hand placement
+    - Place your hands where the impairment is to provide the most support.
+    - Otherwise, place your hands at the pelvis (ASIS) to facilitate PPT and APT.
+- Have pt crawl on to table from standing to QP
+- Facilitate from upper trunk for extension and/ or hip for extension
+- Careful to allow weight shift posteriorly before extension
+- From there go to heel sitting, to tall kneeling
+
+
+
+
+## Sidelying / Sidesitting
+
+
+## Sidelying / Heel
+
+## Stabilizing reversals
+
+“Hold, don’t let me move/push/pull you”
+
+- Ant/Post or Med/Lat direction
+    - You can provide resistance at
+        - Pelvis
+        - Upper Trunk
+- Posterior Scapular Depression/ Anterior Scapular Depression
+    - BIL or UNIL with approx. to opposite pelvis
+
+# Facilitation Treatment
+
+General Focus on treatment: 
+
+- Bigger amplitude ([PD]({{< var ref-parkinsons-disease.path >}}))
+- Forced use (stroke)
+- For BIL impairments: Focus more on stability (i.e. MS)

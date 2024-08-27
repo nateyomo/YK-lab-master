@@ -1,0 +1,7 @@
+---
+title: Index of Performance Training
+---
+
+[Surfing Techniques and strength training]({{< var ref-surfing-index.path >}})
+
+[Golf]({{< var ref-golf-index.path >}})

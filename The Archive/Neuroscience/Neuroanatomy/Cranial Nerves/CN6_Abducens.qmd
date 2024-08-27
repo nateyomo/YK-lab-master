@@ -1,0 +1,13 @@
+---
+title: CNVI Abducens Nerve
+---
+
+Abducens nucleus:
+
+- Location: Pontine tegmentum
+
+Pathway: 
+
+- Abducens nucleus -> emerge @ Pontomedullary junction -> Enter cavernous sinus -> superior orbital fissure -> Lateral rectus muscle
+
+- Axons move ventrally (emerge @ junction of pons & Medulla pyramids) -> Enter cavernous sinus -> Enter orbit @ medial end of superior orbital fissure -> innervate ipsilateral LR muscle (Abduction)

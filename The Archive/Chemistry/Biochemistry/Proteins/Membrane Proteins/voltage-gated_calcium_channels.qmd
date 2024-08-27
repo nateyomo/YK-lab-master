@@ -1,0 +1,10 @@
+---
+title: Voltage Gated Calcium Channel
+---
+
+
+$\textrm{CA}_V$ are found in the neural membrane of the nerve fiber @hallGuytonHallTextbook2021.
+
+When the *AP* travels down the axon, the $\textrm{CA}_V$ 
+
+When an action potential spreads over the terminal, these channels open and allow calcium ions to diffuse from the synaptic space to the interior of the nerve terminal.

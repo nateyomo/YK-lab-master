@@ -1,0 +1,40 @@
+---
+title: Fibromyalgia
+---
+
+
+:::{.callout title="Resources to read later" collapse="true"}
+
+- CHAPTER 36 Fibromyalgia: A Discrete Disease or the End of the Continuum @ballantyneBonicaManagementPain2019
+- CHAPTER 54 Persistent Pain in Children (Fibromyalgia in children subsection) @ballantyneBonicaManagementPain2019
+- Chapter 48 Fibromyalgia Syndrome and Myofascial Pain Syndrome @mcmahonWallMelzackTextbook2013
+
+:::
+
+# Types
+
+- Fibromyalgia syndrome (FMS) @mcmahonWallMelzackTextbook2013
+- Primary Fibromyalgia syndrome (PFMS) @mcmahonWallMelzackTextbook2013
+
+
+
+## Pediatric Fibromyalgia
+
+:::{.callout title="Resources to read later"}
+- CHAPTER 54 Persistent Pain in Children (Fibromyalgia in children subsection) @ballantyneBonicaManagementPain2019
+:::
+
+
+# Mechanisms
+
+:::{.callout-note}
+
+- Pain and the biochemistry of fibromyalgia: patterns of peripheral cytokines and chemokines contribute to the differentiation between fibromyalgia and controls and are associated with pain, fat infiltration and content @gerdlePainBiochemistryFibromyalgia2024 
+:::
+
+
+# Examination
+
+- Fibromyalgia Impact Questionnaire (FIQ) @mcmahonWallMelzackTextbook2013
+
+

@@ -1,0 +1,19 @@
+---
+title: Cervicocephalic Anesthesia
+---
+
+- Oculocervicokinetic reeducation
+    (exercises to address eye, head coordination to improve cervicocephalic anesthesia- ability to relocate accurately the head on the trunk after active mvmt in the horizontal plane) will be used @saturnoValidityReliabilityGuidelines2003
+
+# Tests
+
+- [Cervical Relocation Test (CRT)]({{< var ref-cervical-relocation-test.path >}})
+- Ability to relocate to NHP using an affixed laser (AL) pointer @burkeReliabilityCervicalRelocation2016
+- 3-Space Fastrak system (electromagnetic motion device) @burkeReliabilityCervicalRelocation2016
+- Ultrasound-based motion system @burkeReliabilityCervicalRelocation2016
+
+# Treatment
+Oculocervicokinetic Re-education: exercises to address eye, head coordination @saturnoValidityReliabilityGuidelines2003
+
+
+

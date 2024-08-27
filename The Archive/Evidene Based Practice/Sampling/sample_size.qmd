@@ -1,0 +1,6 @@
+---
+title: Sample Size
+---
+
+
+Sample size should be chosen based on the [power analysis]({{< var ref-statistical-power.analysis >}}) of the study.

@@ -1,0 +1,20 @@
+---
+title: Flexor-Rotator Muscle Group of the Knee
+---
+
+:::{layout-ncol="2"}
+
+### Muscles
+
+- Hamstrings
+- Sartorius
+- Gracilis
+- Popliteus
+
+### Innervation {#innervation}
+
+- Femoral Nerve
+- Obturator Nerve
+- Sciatic Nerve
+
+:::

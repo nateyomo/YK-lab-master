@@ -1,0 +1,70 @@
+---
+title: Muscles of the Posterior Compartment of the Leg
+---
+
+
+
+# Superficial Flexors
+
+:::{layout-ncol="3"}
+
+![Schematic of Superficial Flexors of the Posterior Compartment of the Leg </br> 1: Gastrocnemius </br> 2: Soleus </br> 3: Plantaris @gilroyAtlasAnatomy2020 ](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.23a leg posterior compartment schematic.png)
+
+![Superficial Flexors of the Posterior Compartment of the Leg @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.23b leg superficial posterior compartment.png)
+
+![Superficial Flexors of the Posterior Compartment of the Leg without the gastrocnemius @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.23c leg superficial posterior compartment without gastroc.png)
+
+:::
+
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "group_identifier"
+filter_patterns <- "knee_lower_leg_posterior_compartment_superficial"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Superficial Muscles of the Posterior Compartment of the Lower Leg"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+
+
+
+
+# Deep Flexors
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "group_identifier"
+filter_patterns <- "knee_lower_leg_posterior_compartment_deep"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Deep Muscles of the Posterior Compartment of the Lower Leg"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```

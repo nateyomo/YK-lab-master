@@ -1,0 +1,108 @@
+---
+title: Overview of the theories of child development
+---
+# Overview
+
+Here are historical and current theories of child development. Dynamic systems theory is common in pediatirc physical therapy.
+Neuronal group selection theory is the most common in physical therapy in general.
+It should be noted that none of these theories are correct.
+
+
+
+# Neuromaturational Theory
+
+- Development follows a set, invariant sequence @effgenMeetingPhysicalTherapy2021.
+- Development is tightly tied to CNS development @effgenMeetingPhysicalTherapy2021.
+- Motor development is cephalocaudal and proximal to distal @effgenMeetingPhysicalTherapy2021.
+- Recent modifications acknowledge variations in the sequence and input from all systems @effgenMeetingPhysicalTherapy2021.
+
+McGraw & Gesell were the main proponents of the original theory, which consisted of a step type sequence of development and intervention, Not totally linear, but more or less linear
+
+Newer version: Can you adapt /change pattern?
+
+- CNS maturation drives development
+- Normal sequence / hierarchy of skill development
+- Classic developmental scales based on this work
+- Importance of developmental reflexes and stepwise sequence of development in intervention
+
+
+Clinical significance: Alternating progression and Regression
+
+
+- As you start to master one skill, and you introduce the other skill, you may see a regression is previous skill or new skill wont look perfect.
+- Development happens in a proximal to distal sequence, motor skills develop gross to fine
+- Development is dynamic and characterized by alternating advancement and regression
+
+
+
+:::{.callout title="Crawling Example"}
+Child beings to crawl using a symmetrical arm pattern. As they develop, the progress to an alternating UE pattern.
+:::
+
+Regression to earlier patterns as more mature version occurs 
+
+
+# Cognitive Theory {#cognitive-theory}
+
+In the cognitive theory, thinking develops in stages of increasing complexity @effgenMeetingPhysicalTherapy2021.
+Children organize mental schemes through the use of mental operations @effgenMeetingPhysicalTherapy2021.
+
+Piaget formulated the Cognitive development theory, which proposese that the child’s active involvement in environment (not just neuromaturation) critical to infant development.
+
+| Stage | Age | Action |
+|-|-|-|
+| Sensorimotor | 0-2 | Reflex activity leads to purposeful movement |
+| Pre-operational | 2-7 | Unidimensional awareness of environment |
+| Concrete operational | 7-11 | Less egocentric, solve concrete probs |
+| Formal operational | 11+ | Solve abstract probs, deductive reasoning |
+: 4 stages of Cognitive Development {.striped .hover}
+
+- Scaffolding: parents/therapists provide environmental challenge that encourages a child to perform higher level skill
+- Some EC programs based on this
+    - Montessori: uses cognitive and developmental theories
+        - Child given freedom to interact and engage in environment and self select activities from specialized materials
+    - Reggio emilia: investigatory and exploratory environment helps with problem solving skills
+
+# Behavioral Theory
+
+- Main proponent: Pavlov
+- Stimulus/response approach
+- Modify behavior thru manipulating stimuli
+- Modifying parameters such as intensity/freq/etc
+    - ABA- application of behavioral theory
+    - Get a reward for a desired action
+- Assumes most behaviors are learned responses
+- Positive and negative reinforcements
+
+
+# Dynamic Systems Theory
+
+- Commonly used theory in pediatric PT
+- Main proponents: Shumway-Cooke, Thelen, Herriza, woolacott
+- Emphasis on process rather than product
+- Results of many intrinsic and extrinsic factors, cooperation of systems
+- Development is nonlinear
+- Mvmt occurs based on child’s internal factors/ motivators, external environmental dn motor task to be completed
+- How u do it more important than outcomes
+- process> product
+
+# Neuronal Group Selection Theory
+
+- CNS influence on development
+- Brain organized into population of cells (units) containing individually variable networks (neuronal groups)
+- structure / function of these groups influenced by evolution, environment, behavior
+- Like DST , development is non linear BUT GENETICS is as important as experience to shape development
+- Interplay between neuroanatomy adn experience form maps that connect neuronal groups
+
+Dynamic systems = most common in PT
+
+
+# Developmental Direction
+
+- Reflexive to cortical: we start off w reflexive mvmts and we generally are able to override as we age
+- Prox to distal
+- Extensor control to flexor control
+- Generalized to localized (gross motor to fine)
+- Medial to lateral
+- Open to closed chain (mobility to stability)
+- Asymmetric to symmetric development (super important in children, if u see asymmetrical things happening, it should be a yellow flag!!)

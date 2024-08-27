@@ -1,0 +1,93 @@
+---
+title: Mulligan Concept
+subtitle: An Approach to Manual Therapy
+---
+
+
+# Theoretical Approach (C.R.O.C.K.S.)
+
+:::{layout-ncol="3"}
+
+### C - Contraindications
+
+- Same as HVLATS or high grade joint mobs
+- Hypermobility
+- RA/arthritic dx?
+    - Osteoporosis is prob ok?
+- Corticosteroids long term use? → brittle bones
+- Fractures/trauma
+- If they dont want it
+- Pt needs sufficient mm strength, coordination, ability to understand your instructions, adequate sensation in are to properly detect pain
+
+
+### R - Repetition
+
+- Peripheral joint: 3 sets of 10 reps (first day)
+- Spine 1-3 sets, about 6 reps (first day)
+    - Less if very irritable, less in upper C/s
+- SLR : 3 reps only first day
+    - For all neural mob ones
+
+
+### O - Overpressure
+
+- Important : technique must be PAIN FREE 
+- Expectation:
+    - More ROM
+    - Less pain
+- If still painful → reconsider what you are doing
+    - Is the direction of force correct? Make slight adjustments
+    - Is the technique the right one?
+    - Wrong location:
+        - Could it be a diff joint that is the source
+        - Could it be a different spinal level
+- Is there slight local discomfort that might be eliminated using a foam pad? (d/t pressure of holding the sustained glide) 
+- When non-painful:
+    - Move to overpressure to maximize ROM (still without pain)
+
+
+### C - Communication & Cooperation
+
+- Verbal and nonverbal communication
+- NEEDS to be pain free (be very communicative that "no pain no gain" is *NOT* what we want)
+
+
+### K - Knowledge
+Practitioners must have solid anatomy knowledge and pts need to know what to expect
+
+### S - Sustain, Skill, Subtle, & Sense
+
+- Sustain: sustain accessory glide during entire mvmt
+    - Apply glide
+    - Go in and out of motion
+    - Remove glide
+- Skill: takes skill to apply glide but still allow pt to move normally without blocking their mvmt
+- Subtle: if painful, subtle changes in glide direction or force can make all the difference
+    - Trial and error
+    - Should be pain free instantly
+    - At least pain 50% reduced, long lasting he says
+- Sense: Use common sense
+:::
+
+
+# Inclusion Criteria (P.I.L.L.)
+
+Inclusion criteria refers to a way to screen if a patient will benefit from MWM. 
+The techniques must demonstrate the "PILL" effect.
+
+:::{layout-ncol="4"}
+
+
+### P - Pain free
+
+### I - Instantaneous
+
+### L - long 
+
+### L - lasting: 
+
+- Expect improvement sustained to next session
+- 50% better on both pain and function
+
+
+:::

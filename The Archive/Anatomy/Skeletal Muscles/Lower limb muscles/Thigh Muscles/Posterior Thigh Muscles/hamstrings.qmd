@@ -1,0 +1,94 @@
+---
+title: Hamstring Muscles
+---
+
+:::{layout-ncol="3"}
+
+![Schematic of Posterior Thigh Muscles @gilroyAtlasAnatomy2020 </br> 1: Biceps Femoris </br> 2: Semimembranosus </br> 3: Semitendinosus](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/images/gilroyatlas fig31.25a posterior thigh muscles schematic.png)
+
+![Posterior Thigh Muscles Superficial Group @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/images/gilroyatlas fig31.25b posterior thigh muscles superficial group.png)
+
+
+![Posterior Thigh Muscles Deep Group @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/images/gilroyatlas fig31.25c posterior thigh muscles deep group.png)
+
+
+:::
+
+# Muscles
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "group_identifier"  # or "group_identifier"
+filter_patterns <- "hamstring_muscles"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Hamstring Muscles"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Overview
+
+“The three biarticular hamstring muscles have their proximal attachment on the posterior side of the ischial tuberosity and attach distally to the tibia and fibula. Based on these attachments, he hamstrings extend the hip and flex the knee. The anatomy and function of the posterior head of the adductor	 magnus, an often underappreciated hip extensor muscle, is described under the section on adductors of the hip.”  @neumannKinesiologyMusculoskeletalSystem2017 
+
+“Fig. 12.25 depicts the lines of force of the primary hip exten­ sors. In the extended position the posterior head of the adductor magnus has the greatest moment arm for extension. The adductor magnus and the gluteus maximus have the greatest cross­sectional areas of all the extensors.” @neumannKinesiologyMusculoskeletalSystem2017 
+
+
+
+
+"The hamstring muscles (i.e., semimembranosus, semitendinosus, and long head of the biceps femoris) have their proximal attachment on the ischial tuberosity. The short head of the biceps has its proximal attachment on the lateral lip of the linea aspera of the femur. Distally, the hamstrings cross the knee joint and attach to the tibia and fibula" @neumannKinesiologyMusculoskeletalSystem2017 
+
+"All hamstring muscles, except the short head of the biceps femoris, cross the hip and knee. As described in Chapter 12, the three biarticular hamstrings are very effective hip extensors, especially in the control of the position of the pelvis and trunk over the femur. " @neumannKinesiologyMusculoskeletalSystem2017 
+
+"As a group, the hamstrings primarily function to extend the hip and to flex the knee. The hamstrings are innervated by branches of the sciatic nerve." @duttonDuttonOrthopaedicExamination2020 
+
+# Knee Rotation
+
+:::{layout-ncol="2"}
+### Internal rotation
+
+- Medial hamstrings @neumannKinesiologyMusculoskeletalSystem2017
+    - Semimembranosus @neumannKinesiologyMusculoskeletalSystem2017
+    - Semitendinosus @neumannKinesiologyMusculoskeletalSystem2017
+
+### External Rotation
+Biceps femoris flexes and externally rotates the knee @neumannKinesiologyMusculoskeletalSystem2017
+:::
+
+
+
+# Examination
+
+- Length Test
+    - SLR
+    - 90-90 knee extension
+- MMT
+
+# Mobility Exercises
+
+- Elephant walks
+- SL HF activation + spine flexion
+
+:::{.callout-note}
+Use nerve bias to differentiate between sciatic nerve tension and hamstring tightness
+:::
+
+# Strength Exercises
+
+- Exercises biasing fully lengthened position
+    - Nordic Curl
+- Exercises biasing fully shortened
+    - Standing HS curls
+- Exercises for mid range

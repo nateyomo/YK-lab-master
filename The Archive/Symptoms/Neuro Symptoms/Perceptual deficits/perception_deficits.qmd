@@ -1,0 +1,92 @@
+---
+title: Perceptual Deficits
+---
+
+
+# Body image/body scheme disorders
+
+## Unilateral neglect
+
+:::{.callout title="Example"}
+
+- Eating from right side of plate
+- Drawing right side of clock
+:::
+
+## Anosognosia
+[Anosognosia]({{< var ref-perception.deficits.anosognosia >}}): Neuropathological unawareness of a condition or impairment
+
+## Somatoagnosia
+Pt feels parts of body have disappeared or pt has lack of awareness of part of body
+
+## Finger agnosia
+inability to name, move, or touch specific fingers identified by the examiner.
+
+## R/L discrimination
+
+:::{.callout title="Example"}
+Ability to identify one side of the body from the other
+::: 
+
+# Spatial relations disorders
+
+## Figure ground discrimination
+ability to separate the elements of a visual image on the basis of contrast (e.g., light, dark), to perceive an object (figure) against a background (ground).
+
+## Form discrimination 
+the ability to use one's senses, primarily vision and touch, to judge the shape, size, texture, and other features of an object
+
+## Spacial relations
+where objects are in relationship to something else.
+
+## Position in space
+
+## Topographical
+topographical disorientation refers to an acquired inability to navigate the environment in daily life
+
+## Disorientation
+## Depth/distance
+## Perception
+## Vertical disorientation
+
+
+# Motor apraxia
+Motor Apraxia refers to difficulty with motor planning
+
+## Ideomotor
+ideomotor dyspraxia 
+
+Can perform a task spontaneously but NOT ON COMMAND
+
+:::{.callout title="Example"}
+(inability to perform single motor tasks, such as combing hair or waving goodbye) @scullyScullyMedicalProblems2014
+:::
+
+## Ideational 
+
+Ideational dyspraxia 
+:::{.callout title="Example"}
+(difficulty with multi level tasks, such as taking the proper sequence of steps for brushing teeth) @scullyScullyMedicalProblems2014
+:::
+
+
+Cannot perform a movement spontaneously or on command despite absence of motor deficits. 
+
+## Buccofascial 
+
+Buccofacial apraxia (BFA) refers to the inability to perform voluntary movements of the muscles of the larynx, pharynx, tongue, lips, and cheeks, despite preserving automatic movements of the same muscles @tognolaBrainLesionsAssociated1980
+
+# Agnosia
+Agnosia refers to the inability to recognize and identify objects, persons, or sounds using one or more of their senses
+
+## Visual object agnosia
+
+Visual object agnosia refers to an impairment in recognizing visually presented objects, despite otherwise normal visual field, acuity, color vision, brightness discrimination, language, and memory @kumarAgnosia2024
+
+## Auditory agnosia
+
+Auditory agnosia is an inability to recognize sounds despite intact hearing. Auditory agnosias are typically associated with right side temporal lesions @kumarAgnosia2024.
+
+## Tactile agnosia
+
+Tactile agnosia refers to the inability to recognize objects by touch. They can name objects by sight @kumarAgnosia2024.

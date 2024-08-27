@@ -1,0 +1,58 @@
+---
+title: Mental Status Examination
+---
+
+
+# Order of testing
+
+- Global functions
+- Standard functions
+- Limbic/global functions
+- Dominant hemisphere functions
+- Non dominant hemisphere function
+- Less localizing tests
+
+# Clues
+
+- Inability to do simple tasks independently, participate fully/safely in self care or in PT
+<details>
+
+    - The patient is unable to perform a task when asked
+    - But all of a sudden is able to do it?
+    - indicates: Not a motor problem, either an association issue or attention issue
+</details>
+
+- Difficulty w/ initiation or completion of tasks
+- Difficulty switching from one task to the next
+- Unable to locate visually, identify objects necessary for task completion
+- Losing place on page when reading/writing
+- Unable to follow simple one step commands despite good comprehension
+- Difficulty w/ spatial concepts (prepositions): “in, out, on, under, next to, up, down, in front of”
+
+
+- Makes same mistakes repeatedly
+- Excessive time to complete activities or done impulsively 
+- Hesitation, frustration, inattention to space/one side of body
+- Poor planning
+- Inaccuracy that cant be confirmed by coordination, strength, comprehension impairments
+- Trouble/inability w/ remembering L and R
+
+
+# Why
+Why should you distinguish between Sensory, cognitive and perceptual deficits?
+
+- R/o pure sensory impairments BEFORE testing perceptual/cognitive deficits
+- Impacts design of treatment for each impairments 
+- Potential to refer to other provider: ot, slp, neuropsychologist 
+
+# How to recognize deficits
+
+How do I know I should test for perceptual or cognitive deficits? 
+
+- Look/listen 
+- Task analysis
+- Visual screen
+- Hearing screen
+- Check sensation
+- Not psychosocial/emotional status
+- Formal testing indicated when motor, sensory, comprehension all functional

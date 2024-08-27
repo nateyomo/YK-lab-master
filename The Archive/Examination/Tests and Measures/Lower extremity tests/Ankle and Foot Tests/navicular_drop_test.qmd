@@ -1,0 +1,15 @@
+---
+title: Navicular Drop Test
+---
+
+
+"The navicular drop test is a method to assess the degree to which the talus plantar flexes in space on a calcaneus that has been stabilized by the ground, during subtalar joint pronation. The clinician palpates the position of the navicular tubercle as the patient’s foot is non–weight-bearing but resting on the floor surface, with the subtalar joint maintained in neutral. The clinician then attempts to quantify the amount of inferior displacement of the navicular tubercle, as the patient assumes 50% weight-bearing on the tested foot (relaxed standing). A navicular drop that is greater than 10 mm from the neutral position to the relaxed standing position suggests an excessive medial longitudinal arch collapse of abnormal pronation." @duttonDuttonOrthopaedicExamination2020 
+
+
+
+# Pathologies
+
+- Increased navicular drop
+    - Medial tibial stress syndrome
+- Decreased navicular drop
+    - 

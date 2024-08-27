@@ -1,0 +1,109 @@
+---
+title: Fibularis Tertius
+---
+
+
+:::{layout-ncol="3"}
+
+![Schematic of Muscles in the Anterior Compartment of the Leg</br> 1: Tibialis Anterior </br> 2: Extensor Hallucis Longus </br> 3: Extensor Digitorum Longus </br> 4: Fibularis Tertius](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/images/gilroyatlas fig32.22a anterior compartment of leg schematic.png)
+
+
+![Muscles in the Anterior Compartment of the Leg](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/images/gilroyatlas fig32.22b anterior compartment of leg.png)
+
+
+:::
+
+# Overview
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "fibularis_tertius"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Fibularis Tertius Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Overview
+
+
+
+
+# Origin {#origin}
+
+:::{layout-ncol="3"}
+![Fibularis Tertius Origin from distal half of the fibula @olewnikFibularisTertiusAnatomical2019](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/images/olewnik2019 fig1a FT origin.png)
+
+![Fibularis Tertius Origin from distal third of the fibula @olewnikFibularisTertiusAnatomical2019](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/images/olewnik2019 fig1b FT origin.png)
+
+![Fibularis Tertius Type 3 Origin: No muscle belly, but the tendon originates from the EDL tendon @olewnikFibularisTertiusAnatomical2019](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/images/olewnik2019 fig1c FT origin.png)
+:::
+
+The Fibularis Tertius generally originates from the distal fibula, either from the distal half (67%) @olewnikFibularisTertiusAnatomical2019 or the distal third (22%) @olewnikFibularisTertiusAnatomical2019.
+The other 11% of legs have an absent FT muscle belly, thus the tendon originates from the tendon of the EDL @olewnikFibularisTertiusAnatomical2019.
+
+:::{.callout-note}
+Olewnik's study was performed on Caucasian cadavers from a Polish population, thus may not be generalizable to other populations @olewnikFibularisTertiusAnatomical2019
+:::
+
+# Insertion {#insertion}
+
+## Muscular Insetion
+
+:::{layout-ncol="3"}
+![Fibularis Tertius Type 1 Insertion: @olewnikFibularisTertiusAnatomical2019](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/images/olewnik2019 fig2a FT insertion.png)
+
+![Fibularis Tertius Type 2 Insertion: @olewnikFibularisTertiusAnatomical2019](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/images/olewnik2019 fig2b FT insertion.png)
+
+![Fibularis Tertius Type 3 Insertion: @olewnikFibularisTertiusAnatomical2019](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/images/olewnik2019 fig2c FT insertion.png)
+:::
+
+
+|Type | Prevalence | Attachment |
+|-|-|-|
+| I @olewnikFibularisTertiusAnatomical2019 | 45% @olewnikFibularisTertiusAnatomical2019 | Insertion on the shaft of the 5th MTP @olewnikFibularisTertiusAnatomical2019 |
+
+- "Type I—single distal attachment. The tendon inserts into the shaft of the fifth metatarsal bone. This type was found in 41 lower limbs (45%)—Figure 2a." @olewnikFibularisTertiusAnatomical2019
+- "Type II—single distal attachment. The tendon is characterized by a very wide insertion into the base of the fifth metatarsal bone. This type was found in 20 lower limbs (22%)—Figure 2b."
+- "Type III—single distal attachment. The tendon is characterized by a very wide insertion into the base of the fifth metatarsal bone, the base and shaft of the sixth metatarsal bone, and the fascia covering the fourth interosseous space. This type was found in 15 cases (16.5%)—Figure 2c."
+- "Type IV—bifurcated distal attachment. The main tendon inserts into the base of the fifth metatarsal bone, and the accessory band inserts into its shaft. This type was observed in eight lower limbs (8.8%)—Figure 3a."
+- "Type V—bifurcated distal attachment. The main tendon is characterized by a very wide insertion into the base of the fifth metatarsal bone, and the accessory band inserts into the base of the four metatarsal bone. This type was observed in five lower limbs (5.5%)—Figure 3b."
+- "Type VI—this is characterized by fusion with an additional band of the fibularis brevis tendon. This fusion gives rise to the fourth interosseus dorsalis muscle. Type VI was observed in two cases (2.2%)—Figure 3c."
+
+- Middle shaft or base of 5th MT @olewnikFibularisTertiusAnatomical2019
+
+# Innervation {#innervation}
+
+[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **TCJ**: DF @gilroyAtlasAnatomy2020
+- **STJ**: Eversion @gilroyAtlasAnatomy2020
+
+
+
+
+
+# Function
+## Gait
+
+EMG studies indicate that Fibularis Tertius works in conjunction with  [EDL]({{< var ref-extensor-digitorum-longus.path >}}) during the swing phase of walking to create dorsiflexion and eversion and to elevate the foot and toes from the ground @olewnikFibularisTertiusAnatomical2019. 
+
+## Eversion
+Fibularis teritus, [Fibularis Longus]({{< var ref-fibularis-longus.path >}}), and [Fibularis Brevis]({{< var ref-fibularis-brevis.path >}}) work together to perform Eversion and *prevent* hyper-inversion @olewnikFibularisTertiusAnatomical2019.
+

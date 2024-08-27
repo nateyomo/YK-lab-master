@@ -1,0 +1,123 @@
+---
+title: Predictive Values
+subtitle: "Probability of having the outcome of interest"
+---
+
+
+:::{.callout title="Resources"}
+
+- Ch42 @motulskyIntuitiveBiostatisticsNonmathematical2018
+:::
+
+
+# Positive Predictive Values
+If the test is positive (abnormal test result, suggesting the presence of disease), what is the chance that the patient really has the disease? @motulskyIntuitiveBiostatisticsNonmathematical2018
+
+<!--
+$$
+\textrm{PPV} = \frac{\textrm{True Positives}}{\textrm{Test Positives}} = \frac{\textrm{True Positives}}{\textrm{True Positives} + \textrm{Test Positives}}
+$$
+-->
+
+| | Disease Present | Disease Absent | Total |
+|-|-|-|-|
+| Abnormal (positive) test result | A | B (false positives) | A + B |
+| Normal (negative) test result | C (false negative) | D | C + D |
+| Total|  A + C | B + D | A + B + C + D |
+: {.striped .hover}
+
+
+
+$$
+\begin{aligned}
+    \textrm{PPV} = \frac{\textrm{True Positives}}{\textrm{All Positives}} = \frac{A}{A+B} \\
+    \textrm{PPV} = \frac{\textrm{Sens} \times \textrm{Prevalence}}{\textrm{Sens} \times \textrm{Prevalence} + (1-\textrm{Spec}) \times (1-\textrm{Prevalence})} \\
+    \textrm{PPV} = \frac{\textrm{Sens} \times \textrm{Prevalence}}{\textrm{Sens} \times \textrm{Prevalence} + (False Positive Rate) \times (1-\textrm{Prevalence})} \\
+\end{aligned}
+$$
+
+# Negative Predictive Value
+Answers the question "if the test is negative (normal test result), what is the chance that the patient really doesn’t have the disease?" @motulskyIntuitiveBiostatisticsNonmathematical2018
+
+
+<!--
+$$
+\textrm{NPV} = \frac{\textrm{True Negatives}}{\textrm{Test Negatives}} = \frac{\textrm{True Negatives}}{\textrm{True Negatives} + \textrm{Test Negatives}}
+$$
+$$
+\textrm{NPV} = \frac{(\textrm{True negatives})}{(\textrm{All Negatives})} = \frac{A}{A + B}
+$$
+-->
+
+| | Disease Present | Disease Absent | Total |
+|-|-|-|-|
+| Abnormal (positive) test result | A | B (false positives) | A + B |
+| Normal (negative) test result | C (false negative) | D | C + D |
+| Total|  A + C | B + D | A + B + C + D |
+: {.striped .hover}
+
+$$
+\begin{aligned}
+    \textrm{NPV} = \frac{\textrm{Spec} \times (1-\textrm{Prevalence})}{(1-\textrm{Sens}) \times \textrm{Prevalence} + \textrm{Spec} \times (1-\textrm{Prevalence})} \\
+    \textrm{NPV} = \frac{\textrm{Spec} \times (1-\textrm{Prevalence})}{(False positive Rate) \times \textrm{Prevalence} + \textrm{Spec} \times (1-\textrm{Prevalence})}
+\end{aligned}
+$$
+
+
+
+# Purpose
+Unlike sens/specificity, PPV and NPV depend on the pre-test probability (i.e., probability of the presence of the disease before a diagnostic test), which is determined by baseline risk factors such as disease prevalence @monaghanFoundationalStatisticalPrinciples2021
+
+# Factors
+
+Sensitivity and specificity are properties of the test, whereas positive predictive value (PPV) and negative predictive value (NPV) are influenced by disease prevalence @motulskyIntuitiveBiostatisticsNonmathematical2018.
+
+:::{layout-ncol="2"}
+### Positive predictive value will increase with increased disease prevalence
+
+- The less prevalent the disease is, the higher proportion of false positives you will see, thus you are less confident that a patient has the disease.
+- The more prevalent the disease is, the lower proportion of false positives to true positives you will see, thus you will be more confident the patient has the disease.
+
+### Negative predictive value will decrease with increased disease prevalence
+
+- The more prevalent the disease is, the higher proportion of false negatives you will see, thus you are less confident that a patient does not have the disease.
+- The less prevalent the disease is, the lower proportion of true negatives to false negatives you will see, thus you will be more confident the patient does not have the disease.
+:::
+
+
+# Example
+
+We are applying a diagnostic test for prostate cancer on two populations (A & B).
+
+- Same Cutoff value: ≥0.08 ng/mL/cc 
+- Sensitivity: 0.85
+- Specificity: 0.25
+
+:::{layout-ncol="3"}
+### Population A
+
+- n = 10,000
+- 5% prevalance of colon cancer
+- Absolute prevalence: $\frac{500}{10,000}$
+
+
+### Population B
+
+- n = 10,000
+- 20% prevalence of colon cancer
+- Absolute prevalence: $\frac{2,000}{10,000}$
+
+### Population C
+
+- n = 10,000
+- 1% prevalence of colon cancer
+- Absolute prevalence: $\frac{100}{10,000}$
+:::
+
+The increased prevalence in population B means that more study subjects will have the disease in an absolute sense ($\frac{500}{10,000}$ vs $\frac{2,000}{10,000}$) @monaghanFoundationalStatisticalPrinciples2021.
+Since we are using the exact same test and cutoff value, we would expect the number of people correctly identified as positive (true positive rate) to stay the same @monaghanFoundationalStatisticalPrinciples2021.
+This is why sensitivity and specificity is not affected by disease prevalence.
+
+If a patient asks you "what are the chances I actually have prostate cancer?" your confidence would depend on which population the individual came from @monaghanFoundationalStatisticalPrinciples2021.
+The probability the individual is higher if he is in population B (20%), compared to population A (5%), and Population C (1%).@monaghanFoundationalStatisticalPrinciples2021.
+

@@ -1,0 +1,21 @@
+---
+title: Jaw Jerk Reflex
+---
+
+A reflex test that assesses both the sensory and motor aspects of the [CN V Trigeminal nerve mandibular branch]({{< var ref-cn5.path >}}).
+
+# Technique
+
+With mouth slightly open, one index finger on chin, tap w reflex hammer
+
+# Grading / Interpretation
+
+Normal: Slight closure (upward jerking of mandible by masseter muscles) or no reflex
+
+Abnormal:
+
+- UMN Lesion: Extremely pronounced reflex (clearly visible)
+
+:::{.callout-tip}
+If you can obviously see it, it is abnormal! 
+:::

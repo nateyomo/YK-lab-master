@@ -1,0 +1,14 @@
+---
+title: compensatory equalization
+---
+
+If clinicians who deliver different treatments to different groups are not blinded, they may inadvertently alter the treatment or provide additional treatments to patients in the control group to compensate what they may view as an “inferior treatment”
+Underestimates true treatment effect since the control group does better than they otherwise would without treatment
+
+ie) doctor wants to provide the “best care” to all patient, thus tries to give other therapeutics to a control group when experimental group is getting the better medication 
+ex) Same PT with advanced certification in manual therapy techniques provides treatment for experimental (exercise + mobilization) and control (exercise only) groups
+Underestimate treatment effects if PT believes the approach of manual therapy + PT is better and offers additional stuff to pts in control group bc PT thinks its inferior care
+
+# Clinician vs patient compensation
+
+Compensatory equalization occurs when Clinicians change their behavior due to lack of blinding, alternatively [compensatory rivalry]({{< var ref-bias.compensatory-rivalry >}}) occurs when patients are not blinded.

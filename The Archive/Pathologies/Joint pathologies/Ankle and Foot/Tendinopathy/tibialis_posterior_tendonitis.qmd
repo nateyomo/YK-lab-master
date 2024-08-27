@@ -1,0 +1,5 @@
+---
+title: Tibialis Posterior Tendinitis
+---
+
+Inflammation of the tendon of the [Tibialis Posterior muscle]({{< var ref-tibialis-posterior.path >}}).

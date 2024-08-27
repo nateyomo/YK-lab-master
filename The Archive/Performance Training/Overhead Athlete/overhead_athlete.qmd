@@ -1,0 +1,33 @@
+---
+title: Overhead athlete
+---
+
+
+# Clinical presentation
+
+Chronic shouler pain
+
+- Impingement secondary to another condition:
+    - "Athletes with chronic shoulder pain present symptoms of impingement as a result from different shoulder conditions like rotator cuff tendinopathy, shoulder instability, scapular dyskinesis, biceps pathology, SLAP (superior labrum anterior-superior) lesions, and GIRD (glenohumeral internal rotation deficit) (Cools and Reeser, 2017)" @challoumasVolleyballAthleteShoulder2017
+
+
+
+# Assessment
+
+## Mobility
+
+- AROM in OKC,
+- AROM in CKC? --> depends on sport ie gymnastics
+- Kinetic chain rotation
+- Thoracic rotation
+- Dissociated rotation
+
+## Strength
+
+- HHD
+- ER:IR ratio,
+- Max or mod press/push/pull data *bench press, push up, pull*
+- MMT
+    - 
+    - Nagatomi et al 2016 found that MMTs were not effective at determining muscle strength symmetry above 75–85%.
+    - MMT was only able to detect problems when there one muscle was 25% weaker (75% as strong) compared to other side

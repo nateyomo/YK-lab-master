@@ -1,0 +1,30 @@
+---
+title: Prognostic and Risk Questions
+subtitle: Answering clinical questions about prognosis and risk
+---
+
+
+
+# Optimal study design
+
+Prospective cohort is optimal for prognosis or risk since pts experience risk as they go about the real world
+
+:::{.callout-tip title="Search Helper"}
+Use the term “cohort or prospective cohort
+:::
+
+
+# PICOS Question
+
+| | Definition |
+|-|-|
+| P | |
+| I | Indicator: What initial measure you are using to determine prognosis |
+| C | Comparative controls |
+| O | |
+| S | |
+:PICOS Framework @saaiqModifyingPicoQuestion2017 {.hover .striped}
+
+Population: Prognosis depends on population so P would be rotator cuff injury not female athlete
+
+# Main prognosis question

@@ -1,0 +1,10 @@
+---
+title: Biopsychosocial Model of Health
+---
+
+a model of health that breaks the patient down into:
+
+- Social factors (culture, social interactions, sick role)
+- Psychological factors (Illness behavior, beliefs, coping strategies, emotions, distress)
+- Biological factors ([Biomedical model]({{< var ref-biomedical-model.path >}}): Physiological dysfunction + neurophysiological changes )
+

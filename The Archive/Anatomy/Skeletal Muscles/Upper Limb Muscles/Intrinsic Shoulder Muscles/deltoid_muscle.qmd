@@ -1,0 +1,81 @@
+---
+title: Deltoid muscle
+---
+
+
+:::{layout-ncol="2"}
+![Schematic of the Deltoid Muscle @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/images/gilroyatlas fig25.23a schematic deltoid.png)
+
+![Deltoid Muscle (Lateral view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/images/gilroyatlas fig25.23b deltoid lateral.png)
+![Deltoid Muscle (Anterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/images/gilroyatlas fig25.23c deltoid anterior.png)
+![Deltoid Muscle (Posterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/images/gilroyatlas fig25.23d deltoid posterior.png)
+:::
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Deltoid (*anterior head*)]({{< var ref-deltoid-muscle-anterior.path >}}) | {{< var ref-deltoid-muscle-anterior.origin >}} | {{< var ref-deltoid-muscle-anterior.insertion >}} | {{< var ref-deltoid-muscle-anterior.nerve >}} | {{< var ref-deltoid-muscle-anterior.action >}} |
+| [Deltoid (*lateral head*)]({{< var ref-deltoid-muscle-lateral.path >}}) | {{< var ref-deltoid-muscle-lateral.origin >}} | {{< var ref-deltoid-muscle-lateral.insertion >}} | {{< var ref-deltoid-muscle-lateral.nerve >}} | {{< var ref-deltoid-muscle-lateral.action >}} |
+| [Deltoid (*posterior head*)]({{< var ref-deltoid-muscle-posterior.path >}}) | {{< var ref-deltoid-muscle-posterior.origin >}} | {{< var ref-deltoid-muscle-posterior.insertion >}} | {{< var ref-deltoid-muscle-posterior.nerve >}} | {{< var ref-deltoid-muscle-posterior.action >}} |
+: Deltoid Muscles OIAN {.striped .hover}
+
+# Anterior head
+:::{layout-ncol="2"}
+### Origin {#origin}
+Lateral 1/3 of clavicle @gilroyAtlasAnatomy2020
+
+### Insertion
+Humerus (deltoid tuberosity) @gilroyAtlasAnatomy2020
+
+### Innervation {#innervation}
+[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}}) @gilroyAtlasAnatomy2020
+
+### Action {#action}
+Flexion, internal rotation, adduction @gilroyAtlasAnatomy2020
+:::
+
+# Lateral part
+:::{layout-ncol="2"}
+### Origin {#origin}
+Acromion @gilroyAtlasAnatomy2020
+
+### Insertion
+Humerus (deltoid tuberosity) @gilroyAtlasAnatomy2020
+
+### Innervation {#innervation}
+[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}}) @gilroyAtlasAnatomy2020
+
+### Action {#action}
+Abduction @gilroyAtlasAnatomy2020
+:::
+
+:::{.callout-note}
+*Between 60 and 90 degrees of abduction, the clavicular and spinal parts assist the acromial part with abduction @gilroyAtlasAnatomy2020
+:::
+
+# Posterior part
+### Origin {#origin}
+Scapular spine @gilroyAtlasAnatomy2020
+### Insertion
+Humerus (deltoid tuberosity) @gilroyAtlasAnatomy2020
+
+### Innervation {#innervation}
+[Axillary n. {{< var ref-axillary-nerve.roots >}}]({{< var ref-axillary-nerve.path >}}) @gilroyAtlasAnatomy2020
+
+### Action {#action}
+Extension, external rotation, adduction @gilroyAtlasAnatomy2020
+
+:::{.callout-note}
+*Between 60 and 90 degrees of abduction, the clavicular and spinal parts assist the acromial part with abduction @gilroyAtlasAnatomy2020
+:::
+
+# Clinical Relevance
+As the GHJ becomes more unstable, the deltoid muscle takes on more of a stabilizing role @kidoDynamicStabilizingFunction2003 
+
+# Strength Testing
+
+# Palpation
+
+# Dysfunction

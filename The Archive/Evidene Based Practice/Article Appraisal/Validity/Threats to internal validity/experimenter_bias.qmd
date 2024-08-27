@@ -1,0 +1,32 @@
+---
+title: Experimenter Effects
+---
+
+# Experimenter Effects
+
+"Experimenter effects, including experimenter bias, are the unintended influences of the researcher on the study. For example, consider a study that is testing the effects of a new type of psychotherapy. Suppose that the researcher is a therapist evaluating the mental health of the participants. In this case, it is quite possible that the therapist’s desire to see the study work creates an unconscious predisposition to see participants in the experimental group as having improved more. Even if an independent observer rates the two groups but knows who is in which group, a desire for the experiment to come out a particular way may unintentionally influence the observer’s evaluations." @aronStatisticsPsychology2013
+
+"The preferred solution to this problem is called blind conditions of testing. This means that the experimenter, at the time of interacting with the participant, is not aware of whether the participant is in the experimental or control group. (We already considered above what is called double-blind testing, where neither researcher nor participant knows what condition they are in. There we were emphasizing the importance of the participant not being aware of who was in what condition; here we are emphasizing the importance of the experimenter not knowing who is in which condition at the time of testing.)" @aronStatisticsPsychology2013
+
+# Experimenter Bias
+
+Experimenter bias can occur if the investigator is not blinded to which group the patient is in, which creates a higher chance that they may consciously or unconsciously influence the patient response during testing.
+
+Experimenter bias can occur for tests involving:
+
+- Particularly concerning for outcome measure that involve
+- Subjective judgments by the examiner
+- Unstandardized physical performance tests where the investigator can provide more/less instruction or encouragement to change performance
+- Surveys given to patients with someone with whom they’ve developed a relationship during treatment
+
+:::{.callout title="Example"}
+Same examiner who provided experimental and control treatments also assesses ROM before and after intervention could consciously or subconsciously provide more overpressure.
+
+:::
+
+
+# Prevention
+
+Blinding: In general more people who are blinded, the more confident you can be in the results
+
+

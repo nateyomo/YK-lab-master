@@ -1,0 +1,7 @@
+---
+title: Mechanical Work (Muscle)
+---
+
+
+Mechanical work of a muscle is defined as the amount of force applied by the muscle multiplied by the distance over which the force is applied @hallGuytonHallTextbook2021.
+

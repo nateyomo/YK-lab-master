@@ -1,0 +1,20 @@
+---
+title: Neglect
+---
+
+# DDX
+
+An important aspect of neurological assessment is to separate [hemianopsia]({{< var ref-eye-symptom.hemianopsia >}}) from neglect.
+
+| Does the patient? | Hemianopsia | Neglect |
+|------|-|-|
+| Complain of having difficulty seeing items or state the inability to find things? | Yes | No |
+|Miss details in one visual field? | Yes | Yes|
+| Locate lost items once cued to the location | Yes | No |
+| Attempt to make eye contact during conversations regardless of where the therapist stands? | Yes | No |
+| Spontaneously use both UE when needed for a task? | Yes | No |
+| Spontaneously compensate for loss of vision by turning head? | No | Yes |
+| Walk/propel into things on one side without noticing? | No | Yes |
+| Lose track of limbs, letting them fall off footrests or table without repositioning? | No | Yes|
+| Seem to forget position of affected hand and drop or spill items? | No | Yes |
+: Screening questions to DDX Hemianopsia and Neglect @fellLifespanNeurorehabilitationPatientcentered2019 {.striped .hover}

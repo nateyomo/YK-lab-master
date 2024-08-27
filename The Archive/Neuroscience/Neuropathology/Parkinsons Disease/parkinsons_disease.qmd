@@ -1,0 +1,279 @@
+---
+title: Parkinson's Disease (PD)
+---
+
+:::{.callout title="Resources"}
+
+- Suzanne - Ch14 @martinNeurologicInterventionsPhysical2021a 
+:::
+
+- Parkinson’s disease (PD) is the most common movement disorder @montalban-rodriguezGutBrainRole2024
+- 2nd most common neurodegenerative disease, after Alzheimer’s disease @montalban-rodriguezGutBrainRole2024
+
+# Epidemiology
+
+
+## Genetic 
+
+- Pathogenesis of DJ-1/PARK7-Mediated Parkinson's Disease @skouPathogenesisDJ1PARK7Mediated2024
+
+# Gut Brain Axis
+The relationship between the gut brain axis and pathogenesis of Parkinson's Disease was suggested in Braak’s hypothesis @montalban-rodriguezGutBrainRole2024
+
+- This hypothesis builds upon that idea that in PD, &alpha;-synclein aggregates in other areas in the body, not just the substantia nigra (the hallmark site)
+- Braak's Hypothesis places emphasis on the gastrointestinal tract @montalban-rodriguezGutBrainRole2024.
+
+:::{.callout-note title="Animal studies"}
+Researchers have found a bidirectional spread of α-syn from the duodenum to the brainstem and the stomach after injecting α-syn in rats @montalban-rodriguezGutBrainRole2024
+:::
+
+# Etiology
+
+- Most cases of PD are likely the result of a combination of environmental and genetic factors @montalban-rodriguezGutBrainRole2024
+
+
+- Primary PD (idiopathic)
+- Secondary PD
+- Parkinson-Plus
+
+## Primary Parkinsonism (Idiopathic)
+
+
+
+
+## Secondary Parkinsonism
+
+- Postencephalitic Parkinsonism
+- Toxic Parkinsonism
+- Drug-Induced Parkinsonism
+
+Postencephalitic Parkinsonism @osullivanPhysicalRehabilitation2019
+
+- Viral brain infection
+- Not seen today
+
+### Toxic Parkinsonism(O’Sullivan, Schmitz, and Fulk 2019)
+Exposure to environmental toxins
+Pesticides
+Industrial chemicals (manganese, CO, cyanide, methanol)
+Synthetic heroin + MPTP
+
+### Drug-Induced Parkinsonism
+
+Drug-Induced Parkinsonism @osullivanPhysicalRehabilitation2019
+- Drugs that result in extra-pyramidal dysfunction → Pseudo PD symptoms
+- Neuroleptic drugs: (chlorpromazine) (Thorazine®), haloperidol (Haldol®), thioridazine (Mellaril®), and thiothixene (Navane®)
+- Antidepressant drugs: amitriptyline (Triavil®), amoxapine (Asendin®), and trazodone (Desyrel®)
+- Antihypertensive drugs: Methyldopa (Aldomet®) and reserpine
+
+### Metabolic PD
+
+- PD d/t metabolic conditions
+- Rare
+- Calcium metabolism dysfunction → BG Calcification
+- Hypothyroidism
+- Hyperparathyroidism
+- Wilson’s Disease
+
+## Parkinson-Plus
+
+Parkinson-Plus refers to a group of neurodegenerative diseases can affect the substantia nigra and produce parkinsonian symptoms along with other neurological signs @osullivanPhysicalRehabilitation2019
+
+Pathologies
+
+- Cortical–basal ganglionic degeneration (CBGD)
+- Progressive supranuclear palsy (PSP)
+- Multiple system atrophy (MSA) syndromes (striatonigral degeneration [SND])
+- Shy-Drager syndrome
+- Sporadic olivopontocerebellar atrophy [OPCA]
+- Motor neuron disease parkinsonism
+
+Parkinson-like symptoms
+
+- Multi-infarct vascular disease
+- Dementia syndromes (Alzheimer’s disease, diffuse Lewy body disease [DLBD], and frontotemporal dementia [FTD])
+- Normal pressure hydrocephalus (NPH)
+- Creutzfeldt-Jakob disease (CJD)
+- Wilson’s disease (WD)
+- Juvenile Huntington’s disease
+
+
+# Pathophysiology
+
+:::{.callout-note}
+“Physical manifestation of [lewy bodies]({{< var ref-lewy-bodies.path >}}) in the brain, whereas Dementia is the cognitive manifestation of [lewy bodies]({{< var ref-lewy-bodies.path >}}) in the brain” -Adria Thompson
+:::
+
+Primary disturbances in the dopamine systems of basal ganglia (BG) @osullivanPhysicalRehabilitation2019
+
+The pathophysiology of PD is characterized by 2 phases @osullivanPhysicalRehabilitation2019
+
+1. Degeneration of dopaminergic neurons in the SNpc @osullivanPhysicalRehabilitation2019
+1. Addition of Lewy Bodies @osullivanPhysicalRehabilitation2019
+
+
+## Degeneration
+
+- Loss of the melanin-containing neurons produces characteristic **results in** Depigmentation in the substantia nigra with a characteristic pallor @osullivanPhysicalRehabilitation2019.
+- Numerous other brain regions of people with PD show structural and functional changes **resulting in** impaired modulation of other neurotransmitters (acetylcholine, serotonin, noradrenaline, glutamate, and GABA) @osullivanPhysicalRehabilitation2019.
+
+
+
+
+
+## Lewy Bodies
+
+The second characteristic of PD is the *addition* of [Lewy Bodies]({{< var ref-lewy-bodies.path >}}) in the brain.
+
+Changes are seen in the pedunculopontine nucleus (PPN) and nucleus basalis of Meynert (nbM) that release acetylcholine (ACh)
+Degeneration & Alpha Synuclein deposition (early in PD) at Locus coeruleus that releases noradrenaline
+
+## Basal Ganglia Loop Dysfunction
+
+Direct Loop
+
+- Consists of signals transmitted from the cortex to putamen to globus pallidus, to ventrolateral (VL) nucleus of the thalamus, and back to cortex (supplementary motor area [SMA]).
+- This VL-SMA connection is excitatory and facilitates discharge of cells in the SMA @osullivanPhysicalRehabilitation2019. 
+- The BG thus serves to activate the cortex via a positive-feedback loop and assists in the initiation of voluntary movement @osullivanPhysicalRehabilitation2019
+- Inhibition of the thalamus by the BG is thought to underlie the hypokinesia seen in PD @osullivanPhysicalRehabilitation2019
+
+Indirect Loop @osullivanPhysicalRehabilitation2019
+
+- STn, Gpi, and SNpr → Superior colliculus and midbrain tegmentum @osullivanPhysicalRehabilitation2019.
+- Serves to decrease thalamocortical activation @osullivanPhysicalRehabilitation2019. 
+- BG projection to the superior colliculus assists in regulation of saccadic eye movements @osullivanPhysicalRehabilitation2019.
+- The BG projection to the reticular formation assists in the regulation of trunk and limb musculature (via extrapyramidal pathways), sleep and wakefulness, and arousal. Other circuits in the BG are involved with memory and cognitive functions @osullivanPhysicalRehabilitation2019.
+
+
+# Clinical Presentation
+
+# Onset
+
+- It is currently believed that PD begins many years before motor symptoms become clinically relevant, but the non-motor symptoms may appear around onset @montalban-rodriguezGutBrainRole2024
+
+
+# Symptoms
+
+Symptons can be divided into "motor" and "non-motor" symptoms.
+
+:::{layout-ncol="2"}
+
+## Hallmark Motor Symptoms
+
+- Bradykinesia @montalban-rodriguezGutBrainRole2024
+- Gait disturbances @montalban-rodriguezGutBrainRole2024
+- Tremors @montalban-rodriguezGutBrainRole2024
+- Rigidity @montalban-rodriguezGutBrainRole2024
+- Speech deficits @montalban-rodriguezGutBrainRole2024
+
+## Non-Motor Symptoms
+
+- Depression @montalban-rodriguezGutBrainRole2024
+- Hyposmia (reduced sense of smell) @montalban-rodriguezGutBrainRole2024
+- Cognitive impairment @montalban-rodriguezGutBrainRole2024
+- Sleep disorders @montalban-rodriguezGutBrainRole2024
+- Constipation @montalban-rodriguezGutBrainRole2024
+
+:::
+
+
+- Freezing of gait (FOG)
+
+## Gait Symptoms
+
+- [Parkinsonian Gait]({{< var ref-gait.symptom.parkinsonian >}})
+
+
+
+# Diagnosis
+
+## Subgroups
+
+The subgroups of PD are not pathophysiologically different, but are used to describe which symptoms the patient presented with first:
+
+- Tremulous (Tremor predominant)
+- Akinetic Rigidity or Postural Instability and Gait Disturbances
+
+
+# Assessment
+
+[Hoehn and Yahr Scale]({{< var ref-parkinsons-disease.hoehn-and-yahr-scale >}}) can be used to assess symptom severity @modestinoHoehnYahrStaging2018.
+
+- Higher H&Y scores have been linked with a more rapid cognitive decline in PD patients @modestinoHoehnYahrStaging2018. 
+- In general, patients with higher H&Y scores report poorer quality of life @modestinoHoehnYahrStaging2018.
+
+:::{layout-ncol="3"}
+
+### Sleep
+
+- Parkinson Disease Sleep Scale
+
+
+:::
+
+# Considerations
+
+## Psychosocial 
+
+- The severity of idiopathic PD (IPD) has been associated with patients’ degree of depression @modestinoHoehnYahrStaging2018.
+    - as studies have revealed a direct correlation with Hoehn-Yahr scores/stages, as well as elevated scores on depression rating scales including the Geriatric Depression Scale (GDS) and the Montgomery Asberg Depression Rating Scale (MADRS)
+
+
+
+# Symptom Treatment
+
+:::{layout-ncol="3"}
+
+### Motor Disease Severity
+
+### Depression
+
+- Community-based exercise improved depression @osbornePhysicalTherapistManagement2022
+
+
+### Cognition
+
+- Community-based exercise improved cognition @osbornePhysicalTherapistManagement2022
+
+### Sleep
+
+- Community-based exercise improved the Parkinson Disease Sleep Scale @osbornePhysicalTherapistManagement2022 
+
+
+:::
+
+
+# Interventions
+
+:::{layout-ncol="3"}
+
+### Community-Based Exercise
+
+- High level of evidence and recommendation by APTA's CPG @osbornePhysicalTherapistManagement2022
+- studies that improved nonmotor symptoms all included interventions for breathing and relaxation, with frequency and duration ranging from 1 to 2 hours per week for 8 to 25 weeks.
+
+:::
+
+
+# Motor Control
+
+- Facilitate Bigger amplitude
+
+# Rehabilitation
+
+
+
+# Resources
+
+- DPT 835 recommended readings
+    - O’Sullivan – CH 18
+    - Blumenfeld – CH 16; page 251-254
+    - Shumway-Cook – CH 11, 15
+    - Neuroanatomy: Blumenfield 2022
+- Continuum:
+    - Parkinson Disease(Zesiewicz 2019)
+- Textbook
+- Localization in clinical neurology
+- CPG:
+- Physical Therapist Management of Parkinson Disease: A Clinical Practice Guideline From the American Physical Therapy Association (Osborne et al. 2022)
+

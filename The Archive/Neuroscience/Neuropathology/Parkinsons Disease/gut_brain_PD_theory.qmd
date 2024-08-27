@@ -1,0 +1,15 @@
+---
+title: Gut-Brain Axis Theory of PD
+---
+
+
+# Braak's Hypothesis
+
+1. &alpha;-syn is produced in the periphery @montalban-rodriguezGutBrainRole2024
+1. &alpha;-syn proagates to the CNS @montalban-rodriguezGutBrainRole2024
+1. &alpha;-syn in the CNS causes the disease @montalban-rodriguezGutBrainRole2024
+
+
+
+# Movement of &alpha;-syn to the CNS 
+Furthermore, it was observed that vagal nerve sections prevented the intestine-to-brain propagation of fibrils and neurodegeneration [11]. Thus, the vagus nerve seems to serve as the conduit for α-syn propagation from the gut to the CNS @montalban-rodriguezGutBrainRole2024

@@ -1,0 +1,24 @@
+---
+title: Processing of Nociception
+---
+
+
+:::{.callout-note title="Books to reference"}
+
+- Molecular level
+    - Chapter 2 Molecular Biology of Sensory Transduction @melza
+    - 
+- CHAPTER 9 Functional Neuroanatomy of the Nociceptive System @ballantyneBonicaManagementPain2019
+- Peripheral
+    - Melzack Chapter 1 Peripheral Mechanisms of Cutaneous Nociception @mcmahonWallMelzackTextbook2013 
+- Spinal Cord
+    - Bonica's CHAPTER 4 Substrates of Spinal Cord Nociceptive Processing @ballantyneBonicaManagementPain2019
+    - Welzack Chapter 5 Neuroanatomical Substrates of Spinal Nociception @mcmahonWallMelzackTextbook2013
+    - Welzack Chapter 6 Spinal Cord Plasticity and Pain @mcmahonWallMelzackTextbook2013
+    - Welzack Chapter 12 Ascending Projection Systems @mcmahonWallMelzackTextbook2013
+- Supraspinal
+    - Bonica's CHAPTER 6 Supraspinal Mechanisms of Pain and Nociception @ballantyneBonicaManagementPain2019
+    - Welzack Chapter 7 Representation of Pain in the Brain @mcmahonWallMelzackTextbook2013 
+    - 
+    
+:::

@@ -1,0 +1,24 @@
+---
+title: Gait Interventions
+---
+
+# Prerequisite Requirements
+
+As with any intervention, one should have a method of "screening" patients to ensure they are ready and safe for a treatment.
+Prior to intiating gait interventions, the patient should display:
+
+- Appropriate weightbearing status @osullivanImprovingFunctionalOutcomes2016
+- Musculoskeletal (postural) alignment @osullivanImprovingFunctionalOutcomes2016
+- ROM @osullivanImprovingFunctionalOutcomes2016
+- Muscle performance (strength, power, and endurance) @osullivanImprovingFunctionalOutcomes2016
+- Motor function @osullivanImprovingFunctionalOutcomes2016
+- Balance @osullivanImprovingFunctionalOutcomes2016
+- Static and dynamic standing control @osullivanImprovingFunctionalOutcomes2016
+
+:::{.callout-note}
+Many patients find difficulty dissociating movements during gait.
+Exercises improving pelvic and trunk dissasociation can be performed safely during seated and balance skills @osullivanImprovingFunctionalOutcomes2016.
+:::
+
+
+Scooting in the seated position provides a safe initial opportunity for learning and practicing dissociated movements of the pelvis and trunk (see Chapter 5: Interventions to Improve Sitting and Sitting Balance Skills).

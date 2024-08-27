@@ -1,0 +1,24 @@
+---
+title: Orbicularis Oculi muscle
+---
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Orbicularis Oculi]({{< var ref-orbicularis-oculi.path >}}) | {{< var ref-orbicularis-oculi.origin >}} | {{< var ref-orbicularis-oculi.insertion >}} | {{< var ref-orbicularis-oculi.nerve >}} | {{< var ref-orbicularis-oculi.action >}} |
+
+# Origin {#origin}
+Medial orbital margin, medial palpebral ligament, lacrimal bone @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+Skin around margin of orbit, superior and inferior tarsal plates @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Facial Nerve CN VII]({{< var ref-cn7.path >}}) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+Acts as orbital sphincter (closes eyelids): Palpebral portion gently closes, orbital portion tightly closes (winking) @gilroyAtlasAnatomy2020
+
+# Clinical Significance

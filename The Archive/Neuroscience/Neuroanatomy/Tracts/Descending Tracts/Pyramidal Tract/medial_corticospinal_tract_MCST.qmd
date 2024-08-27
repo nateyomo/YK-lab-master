@@ -1,0 +1,10 @@
+---
+title: Medial Corticospinal Tract
+---
+
+Voluntary movement of Axial muscles @osullivanPhysicalRehabilitation2019
+
+:::{.callout-note title="Clinical Significance"}
+Minimal functional significance due to small size
+
+:::

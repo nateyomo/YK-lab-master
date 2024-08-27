@@ -1,0 +1,6 @@
+---
+title: Degrees of Freedom
+---
+
+Degrees of freedom refer to the number of separate independent dimensions of movement in a system that must be controlled @osullivanImprovingFunctionalOutcomes2016.
+The more degrees of freedom, the more complex and therefore difficult the movement @osullivanImprovingFunctionalOutcomes2016.

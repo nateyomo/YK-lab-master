@@ -1,0 +1,185 @@
+---
+title: Femoroacetabular Joint
+---
+
+
+# Angle of Inclination
+
+## Normal 
+
+- Adult: ~125&deg;
+- INFANT: 140-150&deg;
+
+
+## Coxa vara
+
+- <120&deg;
+- &#8593; hip abd moment arm
+- &#8593; joint stability
+- &#8593; bending moment arm and shear force at femoral neck
+- &#8595; hip abd functional length
+
+## Coxa Valga
+
+- \>140&deg;
+- &#8595; hip abd moment arm
+- &#8595; hip joint stability
+- &#8595; bending moment arm and shear forces at femoral neck 
+- &#8593; hip abd functional length
+
+
+# Angle of Torsion
+
+The angle of torsion refers to the angle in the Transverse plane of the twist from the head and neck of femur to the femoral shaft
+
+## Normal
+
+- Infant: 40&deg;
+- Adult: 8-15&deg;
+
+## Anteversion
+
+- />15&deg;
+- Common w CP
+- Can lead to hip dislocation
+- Can lead to OA
+In toe to improve alignment so that there is greater moment arm of abductors and stability, but this lengthens hip ERs , and shortens IRs
+
+Excessive anteversion
+
+- MR>LR
+- Compensations: lateral tibial torsion
+- Tibiofemoral ER
+- Tends to W sit (stable position) 
+- Butterfly uncomfy
+
+## Retroversion
+
+- <8&deg;
+- Toe out
+
+Excessive Retroversion
+
+- Femoral LR
+- HIP prom LR>MR
+- Compensations: medial tibial torsion, tibiofemoral MR
+
+## Examination
+
+Femoral Torsion can be measured using the following test(s):
+
+- [Craig's Test]({{< var ref-craigs-test.path >}})
+- Functional squat (neutral, IR, ER)
+
+
+# Stabilization
+
+- Acetabular labrum
+
+
+
+# Center Edge Angle
+
+Center edge angle refers to the extent to which acetabulum covers femoral head
+
+Normal values:
+
+- Adults: 35-40&deg;
+    - If larger: more likely to develop hip impingement
+
+## Pincer Impingement
+
+- inc center edge angle, too much coverage of acetabulum, labrum can be crushed
+
+## CAM impingement
+
+- Thickened bone at intersection of head/neck 
+- Can cause impingement of labrum
+- If smaller: more likely to dislocate
+
+# Acetabular anteversion
+
+- Extent to which acetabulum surrounds femoral head
+- Normal: 20
+- />20 = dislocation
+- <20 = inc stability
+
+
+# Capsular pattern
+
+1. IR
+2. Flexion
+3. Abduction
+
+
+# Ligaments
+
+
+- Iliofemoral: 
+    - Strongest
+    - Limits Ext and ER
+- Pubofemoral
+    - Limits abd and ext, less er
+- Ischiofemoral
+    - Limits IR and Ext
+
+
+# Closed & Open Pack
+
+## Closed Pack
+
+- Full ext 
+- Slight IR 
+- Slight ABD
+
+## Open Pack
+
+15&deg; flexion, abd, lateral rotation
+
+
+
+# Congruency
+
+- 90&deg; Flexion
+- Moderate abd
+- External rotation
+
+# Kinematics
+
+## Flexion
+
+- ROM 120&deg;
+- OKC: Posterior/inferior glide and some spin
+- CKC: Pelvis ant pelvic tilt 30 deg available 
+
+## Extension
+
+- ROM: 10-20&deg;
+- OKC: Ant slide/spin
+- CKC: Pelvic post pelvic tilt 15 deg available 
+
+
+## Abduction
+
+- ROM: 40&deg;
+- OKC: Superior roll, inf/medial slide
+- CKC: If abd oppo leg OKC, pelvis on stance leg CKC will abd
+
+## Adduction
+
+- ROM: 25&deg;
+- OKC: Inferior roll, superior/lateral glide
+- CKC: Closed chain hip drop – ADD of pelvis
+
+
+## Internal rotation
+
+- ROM 35&deg; 
+- OKC: Ant roll, posterior slide
+- CKC: Clockwise pelvic rotation
+
+## External Rotation
+
+- ROM: 35-45&deg;
+- OKC: Posterior roll, anterior slide
+- CKC: Counter clockwise pelvic rotation

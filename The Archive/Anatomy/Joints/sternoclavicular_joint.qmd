@@ -1,0 +1,73 @@
+---
+title: Sternoclavicular Joint (SCJ)
+---
+
+
+The sternoclavicular joint is a saddle joint
+
+
+# Joint Structure
+
+Since the SCJ is a saddle joint, both the distal and proximal joint surfaces have concave and convex facets.
+
+- Frontal plane: 
+    - Convex on Concave
+    - Superior roll and inferior slide
+- Transverse plane:
+    - Concave on convex
+    - Concave clavicle on convex sternum 
+    - Anterior roll and slide
+
+
+- 6&deg; upward slope
+- Posterior to the frontal plane 20 deg
+
+# Kinematics
+
+## Elevation
+
+- Elevation (45-60&deg;)
+
+## Depression
+
+- Depression (10-15&deg;)
+
+## Protraction
+
+- Protraction = retraction (15-30&deg;)
+
+## Retraction
+
+- Protraction = retraction (15-30&deg;)
+
+## Rotation
+
+- Rotation (post) 40-50&deg;
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Stabilization
+
+:::{layout-ncol="3"}
+### Active Stability
+The subclavius muscle works to actively stabilize the clavicle in the SCJ [@duttonDuttonOrthopaedicExamination2020; @gilroyAtlasAnatomy2020]
+:::
+
+# Clinical Significance
+
+Biomechanical studies have shown a variation of 15-31 degrees in the SC joint through the rotation of the clavicle during the movements of the arm in the frontal plane (abduction) and less in the sagittal plane (flexion) @ludewigThreedimensionalClavicularMotion2004 (Ludewig et al. 2004)
+
+# Clinical Presentation
+
+AROM limitations 
+- ABD is most limited when missing a clavicle

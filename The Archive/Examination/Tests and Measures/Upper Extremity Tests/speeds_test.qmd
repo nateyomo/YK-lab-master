@@ -1,0 +1,13 @@
+---
+title: Speed's Test
+---
+
+"Speed Test. The patient’s arm is positioned in shoulder flexion, full ER, full elbow extension, and full forearm supination (Fig. 16-74). Manual resistance is applied by the clinician. The test is positive if localized pain at the bicipital groove is reproduced. Wilk et al.4 have introduced a dynamic version of the Speed’s test. During this maneuver, the examiner provides resistance against both shoulder elevation and elbow flexion simultaneously as the patient elevates the arm overhead." @duttonDuttonOrthopaedicExamination2020
+
+"A positive Speed test suggests a bicipital tendinopathy when resisted forward flexion of the shoulder causes bicipital groove pain or deep pain within the shoulder. Kibler and colleagues131 showed the Speed test to have a sensitivity of 54% and specificity of 81% for biceps pathology. The Speed test is also used to detect a superior labral tear (Table 16-28) (see “Yergason’s Test”)." @duttonDuttonOrthopaedicExamination2020
+
+
+For bicep tear @gillPhysicalExaminationPartial2007
+
+- a sensitivity of 50%, a specificity of 67%, an accuracy of 66%, and a likelihood ratio of 1.51
+- "None of the other tests had a sensitivity of more than 68% for partial biceps tears." @gillPhysicalExaminationPartial2007

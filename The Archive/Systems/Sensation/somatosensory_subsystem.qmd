@@ -1,0 +1,12 @@
+---
+title: Somatosensory subsystem
+---
+
+Somatosensory system encompasses all of the mechanoreceptive information arising from the periphery @hallGuytonHallTextbook2021
+
+The sensorimotor systems brings the afferent information that leads to the perception of pain, temperature, touch, and proprioception @riemannSensorimotorSystemPart2002
+
+
+# Cervical Somatosensation
+
+Somatosensory info from cervical region is only region to have direct access to sense of balance and sense of sight @kristjanssonSensorimotorFunctionDizziness2009

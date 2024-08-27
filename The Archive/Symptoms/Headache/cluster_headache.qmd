@@ -1,0 +1,108 @@
+---
+title: Cluster Headache
+---
+
+
+# Epidemiology
+
+- Men > women
+- May be associate w Horners syndrome (myosis, ptosis, anhidrosis) 
+
+:::{.callout-note}
+Cluster is greater in men than women, which is unlike the other headache types
+:::
+
+# Etiology
+
+- Unknown
+- No Genetic factors
+
+:::{.callout-note}
+Lack of familial history or genetic factors is different from other headache types
+:::
+
+# Types
+
+- Episodic Cluster Headache (ECH) @weiClusterHeadachePathophysiology2021
+- Chronic Cluster Headache (CCH) @weiClusterHeadachePathophysiology2021
+
+# Pathophysiology
+
+- Trigeminal autonomic reflex
+- Hypothalamus? Unclear
+
+# Clinical Presentation
+
+## Precipitating factors
+
+- Neck mvmts may trigger them or may not
+
+## Onset
+
+- No warning signs
+    - No aura
+
+## Time
+
+- Headaches can last from 15 min to 3 h @weiClusterHeadachePathophysiology2021
+
+# Symptoms
+
+## Area of Symptoms
+
+- Unilateral
+    - May change sides
+- Trigeminal nerve distribution @weiClusterHeadachePathophysiology2021
+
+
+
+
+
+## Quality
+
+- Burning
+- Piercing
+- Severe
+
+## Associated Symptoms
+
+- Nausea, vomiting, bradycardia
+- Photophobia
+- Nasal congestion, flush face
+- Possible mild neck symptoms
+- Autonomic response (lacrimation, ptosis)
+
+
+# Diagnosis
+
+- Need at least 5 attacks unilaterally
+- Attacks must last 15min-3 hours     
+    - Probs to sympathetic nerves of face
+
+
+# Treatment
+
+
+
+:::{.callout title="from PT School"}
+
+- Stress reduction
+- [Vagal nerve stimulation]({{< var ref-cn10.vagal-nerve-stimulation >}}) (non invasive)
+- C/s strength and mobility
+- Consider the T/S as well
+:::
+
+## Vagal Nerve Stimulation
+
+- [vagal nerve stimulation]({{< var ref-cn10.vagal-nerve-stimulation >}}) was found to have pain relief within 15 minutes for ECH and not CCH @weiClusterHeadachePathophysiology2021.
+- [vagal nerve stimulation]({{< var ref-cn10.vagal-nerve-stimulation >}}) was found to significantly reduce CCH attacks when performed in addition to standard of care @weiClusterHeadachePathophysiology2021.
+    - ECH was not tested
+
+## Patient education
+
+- Stress reduction techniques @weiClusterHeadachePathophysiology2021
+
+## Bloodflow improvement
+
+- Cardiovascular could help to improve bloodflow through the brain, resulting in reduction in symptoms
+

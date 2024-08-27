@@ -1,0 +1,35 @@
+---
+title: Rate of Perceived Stability (RPS)
+---
+
+
+
+
+# Stroke
+
+## Reliability and Validity
+
+
+Data Gathered from Shenoy et al. 2022
+
+<details>
+
+- Sample
+
+- patients
+
+:::{layout-ncol="2"}
+
+## Inclusion criteria
+
+- Hemiparesis post-stroke
+- Ability to walk 10m with/without AD
+- at least 1-year post-stroke
+
+## Exclusion Criteria
+
+
+- Cohort study
+- 
+
+</details>

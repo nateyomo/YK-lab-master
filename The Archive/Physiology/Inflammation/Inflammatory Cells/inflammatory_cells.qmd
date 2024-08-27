@@ -1,0 +1,23 @@
+---
+title: Inflammatory cells
+---
+
+# Monocytes and Macrophages
+
+Monocytes & [Macrophages]({{< var ref-macrophage.path >}})
+
+- ch9 @cavaillon2018inflammation
+
+# Neutrophils
+
+[see neutrophils]({{< var ref-neutrophil.path >}})
+
+ch10 @cavaillon2018inflammation
+
+# Mast cells
+
+- ch11 @cavaillon2018inflammation
+
+# Dendritic cells in inflammatory disease
+
+- ch12 @cavaillon2018inflammation

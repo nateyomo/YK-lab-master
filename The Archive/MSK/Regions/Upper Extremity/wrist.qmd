@@ -1,0 +1,139 @@
+---
+title: MSK of the Wrist
+---
+
+# Red Flag
+
+:::{layout-ncol="3"}
+### Infection
+
+### Fracture
+
+### OBvious nerve compromise
+If the nerve is severely compromised, you will want to get them surgical help so they can avoid ischemic nerve death.
+
+### Systematic pathologies
+Ask about issues in other regions/joints to see if it is a systematic problem that is better suited to other disciplines.
+
+:::
+
+
+# Kinematics
+
+
+:::{.callout title="Wrist Extension"}
+PRIMARY SET (ACT ON WRIST ONLY) @neumannKinesiologyMusculoskeletalSystem2017
+
+- Extensor carpi radialis longus
+- Extensor carpi radialis brevis
+- Extensor carpi ulnaris
+
+SECONDARY SET (ACT ON WRIST AND HAND) @neumannKinesiologyMusculoskeletalSystem2017
+
+- Extensor digitorum
+- Extensor indicis
+- Extensor digiti minimi
+- Extensor pollicis longus
+:::
+
+![Muscles of the wrist and hand and their nerve supply @duttonDuttonOrthopaedicExamination2020](/The Archive/MSK/Regions/Upper Extremity/images/table18.2 Dutton.png)
+
+
+
+# Examination
+
+
+
+## Strength
+
+:::{layout-ncol="3"}
+### Grip Strength
+
+### MMTs
+
+:::
+
+## ROM
+ROM could be 
+
+:::{layout-ncol="3"}
+### Passive
+
+### Active
+
+### Overpressure
+:::
+
+## Palpation
+You will want to palpate all relevant and prominent structures
+
+## Joint
+
+- ROM
+- Accessory Motion
+- Glides
+- Distraction
+- Compression
+- OKC vs CKC WB
+
+## Integumentary
+
+- Swelling
+- Color
+
+## Functional Tests
+
+## Special Tests
+
+- Phalen
+- Reverse phalen
+- Watson Test (Scaphoid Shift)
+
+### Pain Provacation tests
+
+- CMC Grind Test. The grind test is used to assess the integrity of the thumb CMC joint by axially loading the thumb metacarpal into the trapezium. The clinician grasps the thumb metacarpal using the thumb and index finger of one hand and the proximal aspect of the thumb CMC joint with the other hand (Fig. 18-42). An axial compressive force, combined with rotation, is applied to the thumb CMC joint. Reproduction of the patient’s pain and crepitus is a positive test for arthrosis and synovitis @duttonDuttonOrthopaedicExamination2020
+- Lichtman Test. The Lichtman test is a provocative test for midcarpal instability. The patient’s forearm is positioned in pronation, and the hand is held relaxed and supported by the clinician. The clinician gently moves the patient’s hand from radial to ulnar deviation while compressing the carpus into the radius (Fig. 18-43). A positive test is when the midcarpal row appears to jump or snap from an anteriorly (palmarly) subluxed position to the height of the proximal row. @duttonDuttonOrthopaedicExamination2020
+- Linscheid Test. The Linscheid test is used to detect ligamentous injury and instability of the second and third CMC joints. The test is performed by supporting the metacarpal shafts and pressing distally on the metacarpal heads in anterior (palmar) (Fig. 18-44) and posterior (dorsal) directions. A positive test produces pain localized to the CMC joints. @duttonDuttonOrthopaedicExamination2020
+- Carpal Shake Test. This test is used if intercarpal synovitis is suspected. The clinician grasps the patient’s distal forearm. The patient is asked to relax, and the clinician shakes the wrist (Fig. 18-45). Pain or resistance to this test indicates a positive test. @duttonDuttonOrthopaedicExamination2020
+- Wrist Flexion and Finger Extension Test. The patient is positioned in sitting with the elbow placed on the table. The clinician holds the patient’s wrist in flexion and asks the patient to extend the fingers against manual resistance (Fig. 18-46). A positive test for scapholunate pathology is identified by pain over the scaphoid. No diagnostic accuracy studies have been performed to determine the sensitivity and specificity of this test.
+- TFCC Stress Test.19 The patient is positioned in sitting with the elbow placed on the table, the forearm in neutral, and the wrist in ulnar deviation. The clinician fixates the distal forearm and then applies a shear force across the ulnar complex of the wrist. The reproduction of pain and/or clicking with this maneuver is a positive test for a TFCC lesion. @duttonDuttonOrthopaedicExamination2020
+- TFCC Compression Test.19 The patient is positioned in sitting with the elbow placed on the table and the forearm in neutral. The clinician holds the patient’s wrist and applies an ulnarly directed shear to the wrist. The reproduction of pain and/or clicking with this maneuver is a positive test for a TFCC lesion.
+- Press (Sit to Stand) Test. This test is used if a tear of the TFCC is suspected.20 The patient is instructed to place both hands on the armrests of a chair and attempt to lift their body slightly off the chair (Fig. 18-47). Pain or resistance to this test indicates a positive test.
+- Supination Lift Test. The patient is positioned in sitting with the elbows flexed to 90 degrees and the forearms supinated. The patient is asked to place the palms flat on the underside of the heavy table or against the clinician’s hands. The patient is asked to lift the table or push up against the resisting clinician’s hands (Fig. 18-48). A positive test for a TFCC tear is pain localized to the ulnar side of the wrist with difficulty applying force.
+- Ulnar Impaction Test. This test is used to assess the articulation between the ulnar carpus and the TFCC. The patient is positioned in sitting, with the elbow flexed to about 90 degrees and the wrist positioned in ulnar deviation, and the fingers positioned in a slight fist. The clinician loads the wrist by applying a compressive force through the ring and small metacarpals (Fig. 18-49). Pain with this test indicates a possible tear of the TFCC or ulnar impaction syndrome (see “Intervention Strategies”). @duttonDuttonOrthopaedicExamination2020
+- Finkelstein’s Test. This test is used to detect stenosing tenosynovitis of the APL and EPB. The clinician grasps the patient’s thumb, stabilizes the forearm with one hand, and then deviates the wrist to the ulnar side with the other hand (Fig. 18-50). No diagnostic accuracy studies have been performed to determine the sensitivity and specificity of this test, so the results of this test must be interpreted with caution, as it may also be positive in Wartenberg syndrome (entrapment of the superficial radial sensory nerve), basilar thumb arthrosis, EPB entrapment, or intersection syndrome (see “Intervention Strategies”). Deviating the wrist using pressure over the index metacarpal avoids confusion with thumb conditions. A variation of Finkelstein test can be used to rule out an incomplete release of previous de Quervain disease. If the usual Finkelstein test is positive, full abduction of the APL followed by flexion of the thumb’s MCP joint will isolate the action of the EPB. Pain with this test will occur if the EPB lies in a separate sheath and was not released (EPB entrapment syndrome). This test has been found to have a sensitivity of 81% and a specificity of 50%.21 @duttonDuttonOrthopaedicExamination2020
+- Radioulnar Ballottement Test. The radioulnar ballottement test is used to assess DRUJ instability. The patient’s elbow is flexed, and the clinician uses their thumb and index finger to stabilize the radius radially and the ulnar head ulnarly (Fig. 18-51). Stress is applied in an anterior–posteriordirection. Normally there is no movement in the anterior or posterior direction in maximum supination or pronation. Pain or mobility with this test is suggestive of radioulnar instability.
+- Wartenberg Test. The Wartenberg test is used with patients who complain of pain over the distal radial forearm associated with paresthesias over the posterior (dorsal) radial hand (Wartenberg syndrome). These patients frequently report symptom magnification with wrist movement or when tightly pinching the thumb and index digit together. The Wartenberg test involves tapping the index finger over the superficial radial nerve (similar to the Tinel test for CTS) on the posterior and radial side of the wrist (Fig. 18-52). A positive test is indicated by local tenderness and paresthesia with this maneuver. Hyperpronation of the forearm can also cause a positive Tinel sign.
+- Finger Extension Test. This test is used to demonstrate posterior (dorsal) wrist syndrome, a localized scapholunate synovitis. The clinician instructs the patient to fully flex the wrist and then actively extend the digits at both the IP and MCP joints. The clinician then applies pressure on the fingers into flexion at the MCP joints while the patient continues to actively extend (Fig. 18-53). A positive test occurs when there is production of central posterior (dorsal) wrist pain and indicates the possibility of Kienböck disease, carpal instability, joint degeneration, or synovitis (see “Intervention Strategies”).
+
+
+
+### Tendinous Integrity
+
+- FDS Test. This test is used to test the integrity of the FDS tendon. The clinician holds the patient’s fingers except for the finger being tested (this isolates the FDS tendon). The patient is instructed to flex the finger at the PIP joint (Fig. 18-55). If this is possible, the FDS tendon is intact. Since this tendon can act independently because of the position of the finger, it is the only functioning tendon at the PIP joint. The DIP joint, motored by the FDP, has no power of flexion when the other fingers are held in extension.
+- FDP Test. These tendons work only in unison. To test the FDP, the PIP joint and the MCP joints are stabilized in extension (Fig. 18-56). The patient is asked to flex this finger at the DIP joint. If flexion occurs, the FDP is intact. If no flexion is possible, the tendon is severed, or the muscle denervated.
+
+### Ligament Special Tests
+
+- Ulnar Piano Key Sign 
+
+### Neurovascular Tests
+
+- Phalen Test for CTS. For the Phalen test, the patient sits comfortably with the wrists and elbows flexed (Fig. 18-64). The test is positive if the patient experiences numbness or tingling throughout the median nerve distribution of the hand within 45 seconds. For some patients, the performance of this test recreates their wrist, thumb, or forearm ache. Some studies have varied this test to be performed by the patient with wrist in complete flexion and elbow extended, bilateral wrist flexion with the posterior aspect of the hand pressing against one another, or passive wrist flexion by the clinician. The original Phalen test has demonstrated a sensitivity of 75% and a specificity of 47%, making it moderately acceptable for use in clinical practice
+- Reverse Phalen Test for CTS. A reverse Phalen position is the same as the Phalen except the palms are placed together (Fig. 18-65). The patient is asked to keep both hands with the wrists in complete extension for 60 seconds (wrist and finger extension).
+- Hand Elevation Test for CTS. The patient is seated or standing and is asked to elevate both arms above the head (Fig. 18-66) and maintain them in this position until the patient feels paresthesia or numbness.23 A positive test is the reproduction of symptoms such as paresthesia and numbness in the median nerve distribution after raising the arms for no greater than 2 minutes. A study by Ahn23 found this test to have a sensitivity of 76% and a specificity of 99% (LR+ 76; LR− .24). In another study,23 this test was found to be more specific than the Phalen and Tinel tests. Although this clinical test has high diagnostic values, there are numerous procedural biases in both study designs. In addition, the test may be positive in patients with thoracic outlet syndrome.
+- Wrist Flexion and Median Nerve Compression. The patient is positioned in sitting with the elbow fully extended, the forearm in supination and the wrist flexed to 60 degrees. The clinician applies an even constant pressure over the median nerve at the carpal tunnel using the thumb. A positive test for CTS is the reproduction of symptoms along the median nerve distribution within 30 seconds.
+- Median Nerve Compression Test/Pressure Provocation Test. The clinician sits opposite to the patient and holds the patient’s hand with the clinician’s thumbs directly over the course of the median nerve as it passes under the flexor retinaculum between the FCR and the palmaris longus. The clinician places gentle sustained pressure with the thumbs for 15 seconds to 2 minutes. The clinician then removes the pressure and questions the patient on the relief of symptoms, which may take a few minutes. A positive test is the reproduction of pain, paresthesia, or numbness distal to the site of compression during the compression in the distribution of the median nerve.
+- Flick Maneuver. The patient is positioned in sitting and is asked to vigorously shake his or her hands (Fig. 18-67). A positive test, indicating CTS, is the resolution of the paresthesia symptoms during or following administration of flicking the wrist. There appears to be some confusion as to what constitutes a flick. Some studies define a flick as a rapid, alternating movement up and down of the wrist, whereas others describe the positive flick with as little movement as elbow extension. The diagnostic usefulness of this test is outlined in
+- Semmes–Weinstein Monofilament Testing. The palm of the hand is divided into several areas, and only one point (usually in the center) is tested in each area.
+    - Between the fingertip and DIP joint.
+    - Between the DIP joint and PIP joint.
+    - Between the PIP joint and finger web.
+- 
+
+
+# DDX
+
+
+- Dequervain's
+- Rheumatoid Arthritis

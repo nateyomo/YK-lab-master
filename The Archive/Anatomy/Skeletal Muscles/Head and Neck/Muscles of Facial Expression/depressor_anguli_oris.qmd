@@ -1,0 +1,24 @@
+---
+title: Depressor Anguli Oris muscle
+---
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Depressor Anguli Oris]({{< var ref-depressor-anguli-oris.path >}}) | {{< var ref-depressor-anguli-oris.origin >}} | {{< var ref-depressor-anguli-oris.insertion >}} | {{< var ref-depressor-anguli-oris.nerve >}} | {{< var ref-depressor-anguli-oris.action >}} |
+
+# Origin {#origin}
+Mandible (oblique line below canine, premolar, and 1st molar teeth) @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+Skin at corner of the mouth; Blends with [orbicularis oris]({{< var ref-orbicularis-oris >}}) @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Facial Nerve CN VII]({{< var ref-cn7.path >}}) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+Pulls angle of mouth inferiorly and laterally @gilroyAtlasAnatomy2020
+
+# Clinical Significance

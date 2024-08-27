@@ -1,0 +1,118 @@
+---
+title: Neck Pain
+---
+
+:::{.callout-note title="Books to read later"}
+
+- Bonicas CHAPTER 68 Neck and Arm Pain @ballantyneBonicaManagementPain2019 
+:::
+
+
+# Epidemiology
+
+
+- 22-70% of the population will have neck pain at some point
+- 10-20% of the population reports neck problems
+    - 54% experienced neck pain within last 6 months
+    
+
+
+
+# Acute phase {#acute-neck-pain}
+
+## Rehabilitation
+
+- Encourage ADLs 2-4 days after injury (dependent on serverity) 
+    - Absence from abuse, not absolute rest, usually advocated within the first 24-72 hrs
+    - Absolute rest indications: pain with all neck motions and high irritability
+- Discourage prone lying and encourage SL/supine w/pillow for neutral neck
+- Cervical stabilization at earliest opportunity: 
+    - General strength/endurance exercises for neck flexors
+    - Specific exercises for coordination/control of neck and upper extremity mm
+- HVLATs?
+    - Pts with neck pain in acute and subacute phase
+    - RCT Dunning et al → HVLATs in cervical and upper thoracic for mechanical neck pain better than non thrust mobilization 
+    - RCT Masaracchio et al→ t spine thrust manips and c spine non thrust manipulations + exercise = better outcomes on numeric pain rating scale, NDI, global rating of change. 
+AROM/AAROM
+Focus is motor control not strength
+Rotation recommended, 10 times each direction
+Bird et al: to improve endurance 4-6 sets per ex, rest 30-60 sec
+Incorporate breathing: end of range w tissue resistance, take moderate breath in then release it, (should be able to inc range a little without causing pain)
+NWB → sitting → standing
+
+# Chronic Neck Pain {#chronic-neck-pain}
+
+## Symptoms
+
+- Pain
+- "Proprioceptive deficit is also associated with chronic neck condtions" @burkeReliabilityCervicalRelocation2016
+    - "Moreover, neck pain has a direct influence on an individual’s ability to gain accurate proprioceptive information relative to position sense (PS) and alignment" @burkeReliabilityCervicalRelocation2016
+
+## Rehabilitation
+
+- Oculocervicokinetic reeducation (exercises to address eye, head coordination to improve cervicocephalic anesthesia- ability to relocate accurately the head on the trunk after active mvmt in the horizontal plane) will be used @saturnoValidityReliabilityGuidelines2003
+- Trigger points should be treated with transcutaneous e-stim @saturnoValidityReliabilityGuidelines2003
+- Dysfunction of analytic joint passive mobility should be treated with:
+    - Joint mobs/manips
+    - Contract/relax techniques 
+- Radiating pain to the upper limb should be treated with traction
+
+
+
+# General Interventions
+
+
+EBP recommendations for cervical intervention@saturnoValidityReliabilityGuidelines2003
+
+:::{.callout collapse="true" title="Saturno (2003) Validity and reliability of guidelines for neck pain treatment in primary health care. A nationwide empirical analysis in Spain"}
+Saturno et al., assessed different neck pain guidelines from primary health care in Spain for the validity and reliability of the recommended interventions.
+:::
+
+Advice on reducing repetitive movements and/or postures
+
+
+## Physical therapy
+
+- Active stretching @saturnoValidityReliabilityGuidelines2003
+- Dynamic muscular strengthening exercises @saturnoValidityReliabilityGuidelines2003
+- HEP @saturnoValidityReliabilityGuidelines2003
+
+## ROM
+
+AROM/AAROM
+
+- Focus is motor control not strength
+- Rotation recommended, 10 times each direction
+- Bird et al: to improve endurance 4-6 sets per ex, rest 30-60 sec
+- Incorporate breathing: end of range w tissue resistance, take moderate breath in then release it, (should be able to inc range a little without causing pain)
+- NWB → sitting → standing
+
+
+## Activity
+
+- Encourage ADLs 2-4 days after injury (dependent on serverity) @saturnoValidityReliabilityGuidelines2003
+- Absence from abuse, not absolute rest, usually advocated within the first 24-72 hrs @saturnoValidityReliabilityGuidelines2003
+- Absolute rest indications: pain with all neck motions and high irritability @saturnoValidityReliabilityGuidelines2003
+
+## NM Re-ed
+
+- Oculocervicokinetic reeducation
+    (exercises to address eye, head coordination to improve cervicocephalic anesthesia- ability to relocate accurately the head on the trunk after active mvmt in the horizontal plane) will be used @saturnoValidityReliabilityGuidelines2003
+
+## Manual Therapy
+
+- HVLATs:
+    - Indicated for Acute & Subacute neck pain
+
+## Modalities
+
+- E-stim: Trigger points in chronic neck pain
+- 
+
+
+
+
+
+
+
+

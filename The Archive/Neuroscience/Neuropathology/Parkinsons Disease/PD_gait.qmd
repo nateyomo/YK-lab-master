@@ -1,0 +1,19 @@
+---
+title: Parkinson's Disease Gait Treatment
+---
+
+
+# Stride length
+:::{layout-ncol="2"}
+### Effective Treatments
+
+- Gait training was found to increase stride length in PD patients @osbornePhysicalTherapistManagement2022
+- Step length improved with treadmill and RGAT @osbornePhysicalTherapistManagement2022
+- There is no consensus on which type of gait training is best for stride length @osbornePhysicalTherapistManagement2022
+
+### Ineffective Treatments
+
+- PNF based (nonambulatory) gait training (rhythmic initiation, slow reversal, and agonistic reversal exercises applied to the pelvic region) did not improve step length @osbornePhysicalTherapistManagement2022
+:::
+
+# Gait Speed

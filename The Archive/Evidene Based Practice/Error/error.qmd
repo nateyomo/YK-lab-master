@@ -1,0 +1,25 @@
+---
+title: Error
+---
+
+# Systematic error {#systematic}
+
+Systematic (nonrandom) error refers to an error characterized by a consistent pattern to the inaccuracy illustrated @simMeasurementValidityPhysical1993.
+
+Systematic error is responsible for bias
+
+:::{.callout title="Example"}
+A target where the scores are closely grouped, but are some distance from the bull's-eye @simMeasurementValidityPhysical1993.
+
+There is high precision but low accuracy.
+:::
+
+# Random Error {#random}
+
+Random Error has no consistent pattern to the way in which the scores are dispersed @simMeasurementValidityPhysical1993
+
+Random error does not cause bias since there is no pattern to the error and tends to be "self-compensating" due to pure probability @simMeasurementValidityPhysical1993.
+
+Random error causes inference to be difficult by obscuring patterns or relationships of the question the study was designed to answer @simMeasurementValidityPhysical1993.
+
+Larger sample sizes help to reduce the impact of random errro @simMeasurementValidityPhysical1993.

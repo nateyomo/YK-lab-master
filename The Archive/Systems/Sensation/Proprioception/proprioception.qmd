@@ -1,0 +1,19 @@
+---
+title: Proprioception
+---
+
+# Types of Proprioceptive Input
+
+Muscle spindle afferents are particularly important since these are the primary proprioceptive input while other mechanoreceptors (joint receptors, GTOs) function to fine tune the muscle spindle information, predominantly by reflex effects on the &gamma;-motoneurons @kristjanssonSensorimotorFunctionDizziness2009.
+
+# Cervical spine proprioception {#cervical}
+
+The proprioceptive system of the cervical spine, in particular, is extremely well developed, as reflected by an abundance of mechanoreceptors, especially from the &gamma;-muscle spindles in the deep segmental upper cervical muscles @kristjanssonSensorimotorFunctionDizziness2009
+
+The &gamma;-muscle spindle system serves as the final common pathway for the regulation of the muscle stiffness required for various neuromuscular performances @kristjanssonSensorimotorFunctionDizziness2009
+
+# Pathways
+
+- [Cuneocerebellar]({{< var ref-cuneocerebellar-tract.path >}})
+- [Ventral spinocerebellar tract]({{< var ref-ventral-spinocerebellar-tract.path >}})
+- [Dorsal spinocerebellar tract]({{< var ref-dorsal-spinocerebellar-tract.path >}})

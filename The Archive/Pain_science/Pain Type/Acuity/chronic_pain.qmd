@@ -1,0 +1,44 @@
+---
+title: Chronic Pain
+---
+
+:::{.callout-note}
+
+- Welzack Chapter 13 Autonomic, Endocrine, and Immune Interactions in Acute and Chronic Pain @mcmahonWallMelzackTextbook2013
+:::
+
+# Definition
+
+## Problems with traditional acute/chronic classification 
+
+Traditionally, Acute vs chronic pain has been defined based on an arbitrary time frame (3mo or 6mo) @ballantyneBonicaManagementPain2019.
+These criteria do not take into consideration
+
+- Intensity of pain @ballantyneBonicaManagementPain2019
+- Severity @ballantyneBonicaManagementPain2019
+- Nature of its impact on functioning or treatment-seeking behaviors @ballantyneBonicaManagementPain2019
+- Whether pain must be present every day @ballantyneBonicaManagementPain2019
+- How frequent it occurs in this interval @ballantyneBonicaManagementPain2019
+
+## New Classification
+A new classification was proposed conceptualizing acute and chronic pain on two dimensions: time and physical pathology @ballantyneBonicaManagementPain2019
+
+![Pictorial representation of acute and chronic pain @ballantyneBonicaManagementPain2019](/The Archive/Pain_science/images/fig2.1 Bonica acute vs chronic pain classification.png)
+
+## New Definition
+
+May be elicited by an injury or disease but is likely to be perpetuated by factors that are both pathogenetically and physically remote from the originating cause @ballantyneBonicaManagementPain2019. 
+Chronic pain extends for a long period of time and/or represents low levels of underlying pathology that does not explain the presence and extent of pain (e.g., mechanical back pain, fibromyalgia [FM] syndrome) @ballantyneBonicaManagementPain2019.
+There have been suggestions that chronic pain in the apparent absence of pathology may be attributable to modification of nerves and sensitization of the peripheral or central nervous system @ballantyneBonicaManagementPain2019. 
+There have also been suggestions that genetic factors and prior life experiences might predispose some to develop chronic pain problems following an initiating insult that resolves in others who do not have the predisposition @ballantyneBonicaManagementPain2019.
+Just as the brain is modified by experience, especially in early life, the brain may alter the way noxious information is processed to reduce or augment its impact on subjective awareness @ballantyneBonicaManagementPain2019. 
+Chronic pain frequently is the impetus for people to seek health care. Currently available treatments are rarely capable of totally eliminating the noxious sensations and thereby “curing” chronic pain @ballantyneBonicaManagementPain2019.
+Because the pain persists, it is likely that environmental, emotional, and cognitive factors will interact with the already sensitized nervous system, contributing to the persistence of pain and associated illness behaviors (see following description of pain behaviors) @ballantyneBonicaManagementPain2019. 
+It is also possible that, just as the brain is modified by experience, especially in early life, the brain may alter the way noxious information is processed to reduce or augment its impact on subjective awareness @ballantyneBonicaManagementPain2019.
+
+
+
+# Psychosocial factors
+
+Wuest 2010 found that chronic pain was associated with psychological abuse @wuestPathwaysChronicPain2010
+

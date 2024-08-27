@@ -1,0 +1,59 @@
+---
+title: Traumatic Brain Injury (TBI)
+---
+
+:::{.callout title="Resources"}
+
+- Suzanne - Ch12 TBI @martinNeurologicInterventionsPhysical2021a 
+:::
+
+
+
+# Severity
+
+There are 3 general categories to quantify the severity of a TBI:
+
+1. Mild TBI
+1. Moderate TBI
+1. Severe TBI
+
+These items an be subcategorized into complicated and uncomplicated @permenterPostconcussiveSyndrome2024
+
+
+## Mild TBI (mTBI)
+
+- mTBI is diagnosed in patients with a GCS score of 13–15 @sussmanMildTraumaticBrain2018 
+
+:::{layout-ncol="2"}
+
+### Complicated mild TBI
+
+- CT Scan: Abnormalities
+    - Hematoma @permenterPostconcussiveSyndrome2024 
+    - Subarachnoid or subdural bleed @permenterPostconcussiveSyndrome2024 
+    - Midline shift @permenterPostconcussiveSyndrome2024 
+    - Fractures @permenterPostconcussiveSyndrome2024 
+
+### Uncomplicated mild TBI
+
+- Head CT Scan: Normal
+- More likely to have a resolution of symptoms in less than 3 months
+
+:::
+
+## Moderate TBI
+moderate TBI in those with a GCS score of 9–12 @sussmanMildTraumaticBrain2018
+
+## Severe TBI
+GCS score $\leq 8$ @sussmanMildTraumaticBrain2018
+
+
+
+
+
+# Treatment
+
+Buffalo Concussion Treadmill Test
+
+- Helps to work know how to grade exercise to increase activity tolerance
+- Work up to 80% of HR at sx onset

@@ -1,0 +1,31 @@
+---
+title: Platysma muscle
+---
+
+the platysma is the most superficial mm in cervical region.
+The platysma covers the pec and deltoid and extends to inferior margin of body of mandible.
+It functions as one of the muscles of facial expression and can restrain head extension.
+
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Platysma muscle]({{< var ref-platysma.path >}}) | {{< var ref-platysma.origin >}} | {{< var ref-platysma.insertion >}} | {{< var ref-platysma.nerve >}} | {{< var ref-platysma.action >}} |
+
+# Origin {#origin}
+Skin over lower neck and upper lateral thorax @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+[Mandible (inf border)]({{< var ref-mandible-bone.path >}}), Skin over lower face, Angle of mouth @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Facial Nerve CN VII]({{< var ref-cn7.path >}}) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+Depresses and wrinkles skin of lower face and mouth; Tenses skin of neck; Aids in forced depression of the mandible @gilroyAtlasAnatomy2020
+
+# Clinical Significance
+
+

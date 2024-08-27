@@ -1,0 +1,10 @@
+---
+title: OK Sign Test
+subtitle: Special Test for Anterior IO Function
+---
+
+# Mechanics
+
+OK Sign tests the [Anterior Interossoues Nerve]({{< var ref-anterior-interosseous-nerve.path >}}) by creating a position that biases both the FPL and FDP.
+The OK Sign requires both 2nd finger DIP flexion (FDP) and thumb DIP flexion (FPL).
+If these are not achieved, this indicates muscle weakness.

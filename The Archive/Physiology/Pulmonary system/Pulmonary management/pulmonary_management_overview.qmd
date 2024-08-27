@@ -1,0 +1,163 @@
+---
+title: Pulmonary Management
+---
+
+
+# Pharmacologic agents
+
+- Adrenocortical steroids
+- Antihistamines
+- Bronchodilators 
+- Leukotriene modifiers
+- Mast cell stabilizers
+
+:::{.callout-note}
+PTs should time their treatment with the patient's medications in mind
+:::
+
+
+# Surgical interventions
+
+- Depending on pt and condition., common w cancer or lung pneumonia or fibrosis
+- Wedge resection, segmental resection, lobectomy 
+- Pneumonectomy - whole lung removed 
+
+
+# PT interventions
+
+## Goals 
+- Independence in mobility
+- Maximize gas exchange (improve ventilation and airway clearance)
+- Increase aerobic capacity
+- Increase respiratory mm endurance
+
+## Patient education
+Review the condition and offer advice on how to help patient maximize rehab or perform compensations to maximize current level of function
+
+
+# Bronchopulmonary Hygiene / Airway clearance techniques (ACT)
+
+- Understand pathophysiology of condition
+    - ACT not always indicated
+- Assess before, during and after ACT
+    - Vital signs before and after
+    - Auscultation before and after
+- Combine with O2 and meds as needed
+
+## Contraindications
+
+- Blood in lungs
+- Burns
+- Recent incision sites
+- Lung contusion, empyema– in pleural space so NO = pleural effusion or something, dont do it! , rib fx etc can be reasons to not do airway clearance
+
+
+## Cough effectiveness
+
+:::{layout-ncol="3"}
+
+### Medications
+
+- Pain meds (if pain is limiting issue to the cough)
+
+### Splinting
+
+- Use splints if they have incisions
+- can be w pillow (ie heart pillow for sternal precaution)
+- Provide counterpressure w arms
+
+### Positioning
+
+- Positioning
+
+### Hydration
+
+- Especially important with older patients
+- dehydration makes secretions harder to mobilize
+:::
+
+
+## Examples of ACT
+
+- Percussion
+- Vibration
+- Autogenic drainage
+- Active cycle of breathing
+- Nasotracheal Suctioning (NT)
+- Flutter valves: Flutter valves should be used in adjunct to manual ACT
+- Postural drainage (see Ch22 of Paz @pazAcuteCareHandbook2020)
+
+![Postural Drainage Positions @pazAcuteCareHandbook2020](/The Archive/Physiology/Pulmonary system/images/pazAcuteCareHandbook2020 fig22.5 postural drainage.png)
+
+
+
+
+## Choosing ACT based on disorder
+
+:::{layout-ncol="2"}
+
+### Obstructive disorders
+
+- Pursed lip breathing
+- Rest breaks between coughs
+
+### Restrictive disorders
+
+- Diaphragmatic breathing
+- Chest wall stretching 
+:::
+
+
+
+# Activity progression
+
+- RPE better than HR - pulmonary usually more limiting that cardiac
+- Shorter more frequent sessions
+- Education on energy conservation– pacing
+- Document need for rests and duration of rest during txt
+- Bronchopulmonary hygiene prior to exercise may be beneficial
+
+
+# Precautions
+
+- Table 22.3 - test question!!!!
+- Consider head position (ICP monitor – no less than 30 deg on the bed, remember certain positions can be limited)
+- ICP monitoring 
+- Chest wall complications
+- Platelets <20k (risk of bleeding w percussion)
+- Osteoporosis
+
+## Percussion, Postural Drainage, and Vibration/Shaking
+
+:::{layout-ncol="3"}
+
+### Benefits
+
+- Feasible for use with patients who are unable to follow commands @pazAcuteCareHandbook2020
+- Can individualize treatment to target specific lobes based on patient disease process @pazAcuteCareHandbook2020
+
+### Considerations
+
+- Most beneficial when used in conjunction with additional airway clearance techniques (ACTs) @pazAcuteCareHandbook2020
+- Patient cannot be independent with percussion or vibration/shaking; requires caregiver assistance @pazAcuteCareHandbook2020
+- Passive @pazAcuteCareHandbook2020
+- Time and effort intensive @pazAcuteCareHandbook2020
+- May be uncomfortable if pain is present @pazAcuteCareHandbook2020
+- Modification of postural drainage positions may be required with patients with increased intracranial pressure, decreased cardiac output, pulmonary hemorrhage, and severe dyspnea 
+- Postural drainage should be modified to remove head down positioning in infants and patients with gastroesophageal reflux disease @pazAcuteCareHandbook2020
+
+
+### Contraindications
+
+- High intracranial pressure (>20 mmHg) @pazAcuteCareHandbook2020
+- Uncontrolled hypertension @pazAcuteCareHandbook2020
+- Uncontrolled or unprotected airway with risk of aspiration 
+- Recent esophageal surgery @pazAcuteCareHandbook2020
+- Significantly distended abdomen @pazAcuteCareHandbook2020
+- Pulmonary edema and/or orthopnea @pazAcuteCareHandbook2020
+- Integumentary abnormalities over the area to be percussed or vibrated, such as burns, skin grafts, or open wounds @pazAcuteCareHandbook2020
+- Rib fractures, flail chest, rib metastases @pazAcuteCareHandbook2020
+- Acute hemorrhage and/or hemodynamic instability @pazAcuteCareHandbook2020
+- Unstable head or neck injury @pazAcuteCareHandbook2020
+
+:::

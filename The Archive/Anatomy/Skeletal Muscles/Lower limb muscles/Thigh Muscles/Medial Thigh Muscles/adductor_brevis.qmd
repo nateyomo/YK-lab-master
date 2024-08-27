@@ -1,0 +1,56 @@
+---
+title: Adductor Brevis
+---
+
+:::{layout-ncol="3"}
+![Medial Thigh muscle superficial layer schematic </br> 1: Pectineus </br> 2: Adductor Longus </br> 3: Adductor Brevis </br> 4: Gracilis](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/images/gilroyatlas fig31.22 medial thigh superficial layer schematic.png)
+
+![Medial Thigh muscle superficial layer @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/images/gilroyatlas fig31.22b medial thigh superficial layer.png)
+
+:::
+
+# Overview
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"
+filter_patterns <- "adductor_brevis"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Adductor Brevis"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Origin {#origin}
+
+- Inferior pubic ramus @gilroyAtlasAnatomy2020
+
+
+
+# Insertion {#insertion}
+
+Femur (linea aspera, medial lip in the middle third of the femur) @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **Hip joint**: adduction and flexion (up to 70&deg;); extension (past 80&deg; of flexion)
+- **Pelvic Stabilization**: Coronal and Sagittal planes
+
+
+# Overview

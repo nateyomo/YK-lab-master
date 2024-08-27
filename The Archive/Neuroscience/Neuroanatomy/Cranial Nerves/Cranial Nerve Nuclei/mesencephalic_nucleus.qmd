@@ -1,0 +1,31 @@
+---
+title: Mesencephalic nucleus of CN V
+---
+
+Nucleus for [CN V Trigeminal Nerve]({{< var ref-cn5.path >}}) 
+
+Conveys afferent proprioceptive fibers from extraocular and masticatory muscles and allows for bite modulation @jooMicrosurgicalAnatomyTrigeminal2014
+
+"Afferent fibers of the mesencephalic nucleus convey pressure and kinesthesis sense from the teeth, periodontium, hard palate, and temporomandibular joint capsule" @jooMicrosurgicalAnatomyTrigeminal2014
+
+::: {.callout-note collapse="true"}
+# Name origin
+Mesencephalic Nucleus gets its name "mesencephalic" since it comes from the midbrain, which develops out of the mesencephalon
+:::
+
+# Anatomy
+
+"Although most cell bodies of the somatosensory neurons are located in the trigeminal ganglion, the cell bodies for proprioception and stretch receptors in the muscles of mastication are located in the mesencephalic nucleus in the dorsal pons" @jooMicrosurgicalAnatomyTrigeminal2014
+
+## Location
+Inside the "... lower midbrain and upper pons lateral to the sylvian aqueduct along the lateral mar-gin of the periaqeductal gray matter and anterolateral to the fourth ventricle, medial to the sensory nucleus" @jooMicrosurgicalAnatomyTrigeminal2014
+
+
+
+# Functions
+
+"This nucleus is concerned with mechanisms that control the force of the bite" @jooMicrosurgicalAnatomyTrigeminal2014
+
+## Bite Modulation
+
+"Axons from the mesencephalic nucleus project to the motor nucleus, completing a reflex arc in modulating the degree of bite" @jooMicrosurgicalAnatomyTrigeminal2014

@@ -1,0 +1,42 @@
+---
+title: Hip Flexor Muscles
+---
+
+:::{layout-ncol="2"}
+
+### Primary
+
+- Iliopsoas @neumannKinesiologyMusculoskeletalSystem2017
+- Sartorius @neumannKinesiologyMusculoskeletalSystem2017
+- Tensor fasciae latae @neumannKinesiologyMusculoskeletalSystem2017
+- Rectus femoris @neumannKinesiologyMusculoskeletalSystem2017
+- Adductor longus (when in hip Extension) @neumannKinesiologyMusculoskeletalSystem2017
+- Pectineus (When in hip extension) @neumannKinesiologyMusculoskeletalSystem2017
+
+### Secondary
+
+- Adductor brevis @neumannKinesiologyMusculoskeletalSystem2017
+- Gracilis @neumannKinesiologyMusculoskeletalSystem2017
+- Gluteus minimus (anterior fibers) @neumannKinesiologyMusculoskeletalSystem2017
+:::
+
+# Primary
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Tensor Fascia Latae]({{< var ref-tensor-fascia-latae.path >}}) | {{< var ref-tensor-fascia-latae.origin >}} | {{< var ref-tensor-fascia-latae.insertion >}} | {{< var ref-tensor-fascia-latae.nerve >}} | {{< var ref-tensor-fascia-latae.action >}} |
+| [Psoas Major]({{< var ref-psoas-major.path >}}) | {{< var ref-psoas-major.origin >}} | {{< var ref-psoas-major.insertion >}} | {{< var ref-psoas-major.nerve >}} | {{< var ref-psoas-major.action >}} |
+| [Iliacus]({{< var ref-iliacus.path >}}) | {{< var ref-iliacus.origin >}} | {{< var ref-iliacus.insertion >}} | {{< var ref-iliacus.nerve >}} | {{< var ref-iliacus.action >}} |
+| [Pectineus]({{< var ref-pectineus.path >}}) | {{< var ref-pectineus.origin >}} | {{< var ref-pectineus.insertion >}} | {{< var ref-pectineus.nerve >}} | {{< var ref-pectineus.action >}} |
+| [Adductor Longus]({{< var ref-adductor-longus.path >}}) | {{< var ref-adductor-longus.origin >}} | {{< var ref-adductor-longus.insertion >}} | {{< var ref-adductor-longus.nerve >}} | {{< var ref-adductor-longus.action >}} |
+| [Rectus Femoris]({{< var ref-rectus-femoris.path >}}) | {{< var ref-rectus-femoris.origin >}} | {{< var ref-rectus-femoris.insertion >}} | {{< var ref-rectus-femoris.nerve >}} | {{< var ref-rectus-femoris.action >}} |
+: Primary Hip Flexors {.striped .hover}
+
+# Secondary
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) | {{< var ref-gluteus-minimus.origin >}} | {{< var ref-gluteus-minimus.insertion >}} | {{< var ref-gluteus-minimus.nerve >}} | {{< var ref-gluteus-minimus.action >}} |
+| [Gracilis]({{< var ref-gracilis.path >}}) | {{< var ref-gracilis.origin >}} | {{< var ref-gracilis.insertion >}} | {{< var ref-gracilis.nerve >}} | {{< var ref-gracilis.action >}} |
+| [Adductor Brevis]({{< var ref-adductor-brevis.path >}}) | {{< var ref-adductor-brevis.origin >}} | {{< var ref-adductor-brevis.insertion >}} | {{< var ref-adductor-brevis.nerve >}} | {{< var ref-adductor-brevis.action >}} |
+: Secondary Hip Flexors {.striped .hover}

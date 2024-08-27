@@ -1,0 +1,111 @@
+---
+title: Neuroanatomy index
+---
+
+# Basal Ganglia {#basal-ganglia}
+[Basal ganglia (Overview)]({{< var ref-basal-ganglia.path >}})
+
+- [Striatum]({{< var ref-striatum.path >}}) (Caudate nucleus & Putamen)
+- [Lentiform Nucleus]({{< var ref-lentiform-nucleus.path >}}) (Putamen + Globus pallidus)
+- [Caudate Nucleus]({{< var ref-caudate-nucleus.path >}})
+- [Putamen]({{< var ref-putamen.path >}})
+- [Globus pallidus]({{< var ref-globus-pallidus.path >}})
+- Subthalamic nucleus (ST Nuclues)
+- Substantia Nigra
+
+Basal Ganglia Nuclei Types:
+
+- Input Nuclei
+- Output Nuclei 
+- Intrinsic Nuclei
+
+Basal ganglia pathways:
+
+- Indirect pathway 
+- Direct Pathway 
+- Nigrostriatal Pathway 
+
+# Cranial Nerves & Nuclei {#cranial-nerve}
+[Cranial Nerve Nuclei]({{< var ref-cranial-nerve-nuclei-overview.path >}})
+
+:::{layout-ncol="2"}
+### Motor Nuclei
+
+- Somatic motor nuclei:
+    - [Oculomotor Nucleus]({{< var ref-oculomotor-nucleus.path >}})
+    - [Trochlear Nucleus]({{< var ref-trochlear-nucleus.path >}})    
+    - [Abducens Nucleus]({{< var ref-abducens-nucleus.path >}}) 
+    - [Hypoglossal Nucleus]({{< var ref-hypoglossal-nucleus >}}) 
+- Branchial Motor Nuclei:
+    - [Trigeminal Motor Nucleus]({{< var ref-trigeminal-motor-nucleus.path >}})
+    - [Facial Nucleus]({{< var ref-facial-nucleus.path >}}) 
+    - [Nucleus Ambiguous]({{< var ref-nucleus-ambiguous.path >}}) 
+    - [Spinal Accessory Nucleus]({{< var ref-spinal-accessory-nucleus.path >}}) 
+- Parasympathetic Nuclei: 
+    - [Edinger-Westphal Nucleus]({{< var ref-edinger-westphal-nucleus.path >}}) 
+    - [Superior Salivatory Nucleus]({{< var ref-superior-salivatory-nucleus.path >}}) 
+    - [Inferior Salivatory Nucleus]({{< var ref-inferior-salivatory-nucleus.path >}}) 
+    - [Dorsal Motor Nucleus of the Vagus]({{< var ref-dorsal-motor-nucleus >}}) 
+
+### Sensory Nuclei
+
+- Visceral Sensory Column:
+    - [Rostral portion of Nucleus Solitarius]({{< var ref-nucleus-solitarius.path >}}) 
+    - [Caudal portion of Nucleus Solitarius]({{< var ref-nucleus-solitarius.path >}}) 
+- General Somatosensory Nuclei: 
+    - [Trigeminal Sensory nuclei]({{< var ref-trigeminal-sensory-nuclei.path >}}) 
+        - [Mesencephalic nucleus of CN V]({{< var ref-mesencephalic-nucleus.path >}}) 
+        - [Main sensory nucleus of CN V]({{< var ref-main-sensory-nucleus-of-CN-V.path >}}) 
+        - [Spinal Trigeminal nucleus]({{< var ref-spinal-trigeminal-nucleus >}})
+- Special Somatic Sensory Nuclei: Hearing & Balance
+    - [Cochlear Nuclei]({{< var ref-cochlear-nuclei.path >}}) 
+    - [Vestibular Nuclei]({{< var ref-vestibular-nuclei.path >}}) 
+:::
+
+[Cranial Nerves]({{< var ref-cranial-nerve-overview.path >}})
+
+- [CN I Olfactory Nerve]({{< var ref-cn1.path >}})
+- [CN II Optic Nerve]({{< var ref-cn2.path >}})
+- [CN III Oculomotor Nerve]({{< var ref-cn3.path >}})
+- [CN IV Trochlear Nerve]({{< var ref-cn4.path >}})
+- [CN V Trigeminal Nerve]({{< var ref-cn5.path >}})
+- [CN VI Abducens Nerve]({{< var ref-cn6.path >}})
+- [CN VII Facial Nerve]({{< var ref-cn7.path >}})
+- [CN VIII Vestibulocochlear Nerve]({{< var ref-cn8.path >}})
+- [CN IX Glossopharyngeal Nerve]({{< var ref-cn9.path >}})
+- [CN X Vagus Nerve]({{< var ref-cn10.path >}})
+- [CN XI Accessory Nerve]({{< var ref-cn11.path >}})
+- [CN XII Hypoglossal Nerve]({{< var ref-cn12.path >}})
+
+# Tracts {#tract}
+:::{layout-ncol="2"}
+## Ascending Tracts
+
+- [Dorsal Column Medial Lemniscus (DCML)]({{< var ref-dorsal-column-medial-lemniscus.path >}})
+    - [Fasciculus Cuneatus]({{< var ref-fasciculus-cuneatus.path >}})
+    - [Fasciculus Gracilis]({{< var ref-fasciculus-gracilis.path >}})
+- [Cuneocerebellar Tract]({{< var ref-cuneocerebellar-tract.path >}})
+- [Dorsal Spinocerebellar Tract]({{< var ref-dorsal-spinocerebellar-tract.path >}})
+- [Ventral Spinocerebellar Tract]({{< var ref-ventral-spinocerebellar-tract.path >}})
+- [Spinothalamic Tract]({{< var ref-spinothalamic-tract.path >}})
+- [Trigeminothalamic Tract]({{< var ref-trigeminothalamic-tract.path >}})
+- [Spinoreticular Tract]({{< var ref-spinoreticular-tract.path >}})
+- [Spinomesencephalic Tract]({{< var ref-spinomesencephalic-tract.path >}})
+- [Spinohypothalamic Tract]({{< var ref-spinohypothalamic-tract.path >}})
+- Cochlear Pathway
+- [Taste Pathway]({{< var ref-gustation.path >}})
+- [Vision Pathway]({{< var ref-vision.path >}})
+
+## Descending Tracts
+
+- [Pyramidal Tracts]({{< var ref-pyramidal-tracts.path >}})
+    - [Lateral Corticospinal Tract (LCST)]({{< var ref-lateral-corticospinal-tract.path >}})
+    - [Medial Corticospinal Tract (MCST)]({{< var ref-medial-corticospinal-tract.path >}})
+    - [Corticobulbar Tract]({{< var ref-corticobulbar-tract.path >}})
+- [Extrapyramidal tracts]({{< var ref-extrapyramidal-tracts.path >}})
+    - [Rubrospinal Tract]({{< var ref-rubrospinal-tract.path >}})
+    - [Vestibulospinal Tract]({{< var ref-vestibulospinal-tract.path >}})
+    - [Tectospinal Tract]({{< var ref-tectospinal-tract.path >}})
+    - [Reticulospinal Tract]({{< var ref-reticulospinal-tract.path >}})
+:::
+

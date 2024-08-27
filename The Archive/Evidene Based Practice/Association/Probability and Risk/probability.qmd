@@ -1,0 +1,16 @@
+---
+title: Probability
+---
+
+
+:::{.callout title="Resources"}
+
+- Ch42 @motulskyIntuitiveBiostatisticsNonmathematical2018
+:::
+
+The probability that an event will occur is the fraction of times you expect to see that event over the course of many trials @motulskyIntuitiveBiostatisticsNonmathematical2018.
+
+A probability is a fraction and always ranges from zero to one. 
+$$
+\textrm{Probability} = \frac{\textrm{Odds}}{(1+\textrm{Odds})}
+$$

@@ -1,0 +1,23 @@
+---
+title: Adipogenesis
+---
+
+
+# Regulation of adipogenesis / Metabolism
+
+## Facilitory Genes
+
+- Peroxisome Proliferator-Activated Receptor Gamma (PPARG) @shahidiParaspinalMusclesIndividuals2024
+- PPARG Coactivator 1 Alpha (PPARGC1A) @shahidiParaspinalMusclesIndividuals2024
+- Peroxisome Proliferator-Activated Receptor Delta (PPARD) @shahidiParaspinalMusclesIndividuals2024
+- Fatty Acid Binding Protein 4 (FABP4) @shahidiParaspinalMusclesIndividuals2024
+
+## Either Facilitory or Inhibitory
+
+- CCATT/Enhancer Binding protein Alpha (CEBPA) @shahidiParaspinalMusclesIndividuals2024
+- Protein Tyrosine Phosphatase Non-receptor Type 4 (PTPN4) @shahidiParaspinalMusclesIndividuals2024
+
+## Inhibitory
+
+- Adiponectin (ADIPOQ) @shahidiParaspinalMusclesIndividuals2024
+- Wnt Family member 10B (WNT10B) @shahidiParaspinalMusclesIndividuals2024

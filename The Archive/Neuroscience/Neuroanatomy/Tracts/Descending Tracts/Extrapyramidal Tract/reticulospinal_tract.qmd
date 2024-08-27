@@ -1,0 +1,27 @@
+---
+title: Reticulospinal Tract 
+---
+
+The reticulospinal tract is an [extrapyramidal tract]({{< var ref-extrapyramidal-tracts.path >}}) that is part of the [medial motor systems]({{< var ref-medial-motor-systems.path >}}) which spans the entire spinal cord to function in [automatic posture]({{< var ref-posture.automatic >}}) and [gait-related movements]({{< var ref-gait.path >}}) @blumenfeldNeuroanatomyClinicalCases2022.
+
+# Pathway
+
+## Input
+
+- Pontine
+- Medullary reticular formation
+
+## Pathway
+
+- The reticulospinal tract decussates in the midbrain at the dorsal tegmental decussation @blumenfeldNeuroanatomyClinicalCases2022.
+- The reticulospinal tract spans the entire spinal cord, travelling through the anterior horn 
+
+![Somatotopic organization of medial and lateral motor system Projections to Anterior Horn Cells @blumenfeldNeuroanatomyClinicalCases2022](/The Archive/Neuroscience/Neuroanatomy/Tracts/images/fig.6.7 Blumenfeld somatotopic organization of medial and lateral motor systems.png)
+
+## Output
+
+
+# Function
+
+- [automatic posture]({{< var ref-posture.automatic >}}) @blumenfeldNeuroanatomyClinicalCases2022
+- [gait-related movements]({{< var ref-gait.path >}}) @blumenfeldNeuroanatomyClinicalCases2022

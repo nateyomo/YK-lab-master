@@ -1,0 +1,6 @@
+---
+title: Coefficient of Determination (R<sup>2</sup>)
+---
+
+
+Linear regression quantifies goodness of fit with $R^2$, the coefficient of determination

@@ -1,0 +1,11 @@
+---
+title: Costal Cartilages
+---
+
+# Muscular Attachments
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Pec Major]({{< var ref-pectoralis-major.path >}}) | {{< var ref-pectoralis-major.origin >}} | {{< var ref-pectoralis-major.insertion >}} | {{< var ref-pectoralis-major.nerve >}} | {{< var ref-pectoralis-major.action >}} |
+
+: Muscles attached to the sternum {.striped .hover}

@@ -1,0 +1,36 @@
+---
+title: "Acute Low Back Pain"
+---
+
+:::{.callout-note title="Books to reference"}
+
+- Bonicas CHAPTER 72 Acute Low Back Pain @ballantyneBonicaManagementPain2019
+- Bonicas CHAPTER 74 Surgery for Low Back Pain @ballantyneBonicaManagementPain2019 
+:::
+
+# Resources
+- Acute & Chronic LBP CPG - George et al. @georgeInterventionsManagementAcute2021
+
+
+# Types
+## Acute low back pain
+Acute low back pain is defined as pain lasting less than 6 weeks.
+
+## Acute Low Back Pain + Leg pain
+
+
+### DDX
+- Herniations @georgeInterventionsManagementAcute2021
+
+### Exercises
+Goal: reduce pain & disability @georgeInterventionsManagementAcute2021
+- Specific trunk mm [Grade B] @georgeInterventionsManagementAcute2021
+- Endurance & mm strengthening [Grade B] @georgeInterventionsManagementAcute2021
+- Supine iso back extension and ab exercises → greater reduction of pain @georgeInterventionsManagementAcute2021
+- Herniations: general vs specific exercises, no diff at 3 month BUT at 1 year: specific trunk mm activation had greater improvement in back pain and disability @georgeInterventionsManagementAcute2021.
+
+## Centralization & Directional preference exercises
+- Grade A @georgeInterventionsManagementAcute2021
+- Repeated movements, exercises, or procedures to promote centralization to reduce symptoms @georgeInterventionsManagementAcute2021
+
+

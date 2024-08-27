@@ -1,0 +1,194 @@
+---
+title: Sever's Disease (Calcaneal Apophysitis)
+---
+
+Sever disease (calcaneal apophysitis) is a cause of heel pain in adolescents (8-15) with immature skeletons resulting from repetitive microtrauma due to overuse @smithSeverDiseaseCalcaneal2024.
+
+
+
+# Etiology
+
+It is theorized that the early adolescent growth spurt results in significantly more bone growth comapred to the muscle-tendon unit @faresSeverDiseasePediatric2021.
+As a result, this places excess stretch and tension on the the muscle-tendon unit and decreased DF ROM @faresSeverDiseasePediatric2021.
+This increased tension is transmitted to the incompletely-ossified apophysis @faresSeverDiseasePediatric2021.
+Over time, this stress can irritate the growth plate (physis) resulting in inflammation (calcaneal apophysitis) @faresSeverDiseasePediatric2021.
+
+The microtrauma of Sever's Disease can be caused by repetitive strain and microtrauma of the strong Achilles tendon on the relatively soft calcaneal apophysis @smithSeverDiseaseCalcaneal2024. 
+
+### Increased Achilles Tendon Tension
+
+A shortened triceps surae directly correlates to the irritation of the apophysis @smithSeverDiseaseCalcaneal2024.
+
+### Factors Impacting Severity
+
+- High BMI @smithSeverDiseaseCalcaneal2024
+- Limited ankle range of motion @smithBiochemistryOrganicChemistry2020
+- Activity
+    - Increased/excessive sports activity @smithSeverDiseaseCalcaneal2024
+    - Running on hard surfaces
+- Shoewear
+    - Poorly cushioned or worn-out athletic shoes @smithSeverDiseaseCalcaneal2024
+    - Cleated athletic shoes
+- Biomechanics
+    - Genu varum @smithSeverDiseaseCalcaneal2024 
+    - Forefoot varus @smithSeverDiseaseCalcaneal2024 
+    - Overpronation @smithSeverDiseaseCalcaneal2024 
+    - Pes cavus @smithSeverDiseaseCalcaneal2024 
+    - Pes planus @smithSeverDiseaseCalcaneal2024 
+
+
+
+Sever disease is not generally associated with traumatic events; however, in rare cases, trauma may lead to a complete avulsion fracture.[10]
+'
+
+# Epidemiology
+
+- Sever's Disease is one of the leading causes of heel pain in adolescents @smithSeverDiseaseCalcaneal2024.
+- Sever disease contributes to 2% to 16% of all musculoskeletal complaints in children @smithSeverDiseaseCalcaneal2024
+
+:::{layout-ncol="3"}
+### Sports
+
+The most prevalent sports associated with this condition involve repetitive running and jumping
+
+- Basketball @smithSeverDiseaseCalcaneal2024 
+- Soccer @smithSeverDiseaseCalcaneal2024 
+- Track @smithSeverDiseaseCalcaneal2024 
+- Cross-country @smithSeverDiseaseCalcaneal2024 
+- Gymnastics  @smithSeverDiseaseCalcaneal2024 
+
+### Age
+Sever's Disease primarily occurs during the rapid growth phase from ages 8-15 years old @smithSeverDiseaseCalcaneal2024.
+
+### Gender
+
+
+- Males are more likely to develop this condition (2-3:1) @smithSeverDiseaseCalcaneal2024.
+
+
+### Onset
+
+- The typical age of onset is around 12 for males and 11 for females.
+
+:::
+
+
+# Pathophysiology
+
+![Anatomy of Sever's Disease @faresSeverDiseasePediatric2021](/The Archive/Pathologies/Bone pathologies/Calcaneus/images/Severs Disease anatomy fig2 Fares2021.png)
+
+### Normal
+
+The posterior calcaneus develops as a secondary ossification center that provides the attachment point for the Achilles tendon. During the early adolescent growth spurt, bone growth exceeds the ability of the muscle-tendon unit to stretch sufficiently to maintain previous flexibility. 
+
+### Why the apophysis?
+
+Consequently, increased tension is exerted across the unossified or incompletely ossified apophysis. The apophysis represents the most vulnerable point in the muscle-tendon-bone attachment, unlike the tendon in an adult. Therefore, the apophysis is susceptible to overuse injuries resulting from repetitive stress.
+
+### Traumatic Stimuli
+
+"Repetitive and excessive traction exerted by the strong Achilles tendon leads to microtrauma and chronic irritation, resulting in thickening and pain at the apophysis" @smithSeverDiseaseCalcaneal2024.
+
+### Theoretical Mechanism
+
+Current theories attribute 
+Sever disease relies on the ongoing shear stress and repetitive impact on the open calcaneal apophysis. 
+
+:::{.callout-note}
+A study revelead that patients with Sever's Disease exhibited 880 kPa peak plantar pressure during walking compared to 88 kPa in healthy controls @smithSeverDiseaseCalcaneal2024.
+
+We can hypothesize that the peak plantar pressure would also be amplified during running and jumping @smithSeverDiseaseCalcaneal2024. 
+:::
+
+  
+
+
+
+
+# Presentation
+
+Most Sever's disease patients will  present as an active (8-15y/o) experiencing unilateral or bilateral heel pain aggravated during and after activities such as running and jumping @smithSeverDiseaseCalcaneal2024.
+
+
+:::{layout-ncol="3"}
+### Unilateral vs Bilateral
+
+Up to 60% of patients experience pain in both feet
+
+### MOI
+
+Generally, there is no specific MOI @smithSeverDiseaseCalcaneal2024.
+
+### Onset
+
+- Insidious onset @faresSeverDiseasePediatric2021
+- Onset of pain will generally coincides with a recent growth spurt or a change in activity (a new sport or training, or the beginning of a sports season) @smithSeverDiseaseCalcaneal2024.
+
+### Aggravation
+
+
+### Eases
+Rest tends to alleviate pain @smithSeverDiseaseCalcaneal2024
+
+
+### 24 hour period
+Pain is usually absent in morning and worsens with time @smithSeverDiseaseCalcaneal2024
+:::
+
+### Observation
+
+- no signs of erythema or ecchymosis @smithSeverDiseaseCalcaneal2024
+- Mild swelling at achilles insertion @smithSeverDiseaseCalcaneal2024
+
+### Palpation
+
+- Tenderness at Achilles insertion on the heel @smithSeverDiseaseCalcaneal2024
+
+
+### PROM
+
+- Pain with DF PROM @smithSeverDiseaseCalcaneal2024
+
+
+
+Pain can be reproduced with manual medial and lateral compression of the posterior calcaneus and aggravated by standing on tiptoes—a phenomenon known as the Sever sign
+
+
+
+# DDX
+
+Sever’s disease, retrocalcaneal bursitis, Achilles tendonitis, osteomyelitis, and plantar fasciitis @faresSeverDiseasePediatric2021
+
+
+# Running Considerations
+
+Running is a risk factor for Sever's Disease since children who primarily run tend to experience in muscular imbalances @faresSeverDiseasePediatric2021.
+
+:::{layout-ncol="2"}
+### Stronger muscle groups
+
+- Strong plantar flexors
+- Knee extensor muscles
+
+### Weaker Muscle groups
+
+- Weak knee flexors
+- Dorsiflexors
+:::
+
+These imbalances cause an increased strain on the muscle-tendon-bone attachment during physical activity, which predisposes to Sever’s disease.
+
+## Assessment
+
+- Children with Sever’s disease have increased normalized cadence while running, which could be a subconscious attempt to decrease the peak plantar pressures and subsequent pain @faresSeverDiseasePediatric2021.
+
+# Prognosis
+
+
+
+# Treatment
+
+
+### Orthotic
+
+- Soft heel lift in order to decrease impulse and peak force

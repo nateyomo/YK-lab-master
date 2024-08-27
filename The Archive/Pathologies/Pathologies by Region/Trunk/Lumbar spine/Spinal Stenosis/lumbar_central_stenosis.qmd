@@ -1,0 +1,86 @@
+---
+title: Lumbar Central Spinal Stenosis
+---
+
+# Overview
+
+Central stenosis refers to a narrowing of the spinal canal around the thecal sac containing the cauda equina @duttonDuttonOrthopaedicExamination2020.
+
+
+
+# Causes
+
+Central spinal stenosis of the lumbar spine can be caused by facet joint arthrosis and hypertrophy, thickening and bulging of the LF, bulging of the IVD, and spondylolisthesis @duttonDuttonOrthopaedicExamination2020
+
+## Paget Disease
+Paget Disease (osteitis Deformans) is an osteometabolic disorder where accelerated skeletal remodeling results in growth and deformities in bones, which can lead to lumbar spinal stenosis @duttonDuttonOrthopaedicExamination2020.
+
+# Positional preferences
+
+Lumbar extension and ipsilateral side bending (*to a lesser degree*) result in functional narrowing of the canal @duttonDuttonOrthopaedicExamination2020.
+
+Patients with Lumbar stenosis will tend to prefer the sitting position rather than sitting with forward leaning, lying down, or standing @duttonDuttonOrthopaedicExamination2020.
+
+## Relief 
+
+A common example of positional relief for lumbar spinal stenosis patients is to go into spinal flexion by leaning on a shopping cart @duttonDuttonOrthopaedicExamination2020.
+
+# Imaging
+
+# Examination
+
+## ROM
+
+## Mobility
+Patients generally present with reduced flexibility or shortening of the hip flexors, specifically the iliopsoas and rectus femoris @duttonDuttonOrthopaedicExamination2020.
+The length of these muscles can be measured using the Thomas Test.
+Oppositely, hip extensor muscles, specifically the Gluteus Maximus and the Hamstring group are generally lengthened @duttonDuttonOrthopaedicExamination2020.
+
+# Tests
+
+## Special Tests
+
+- [Slump test](#slump-test)
+- [Straight Leg Raise](#slr)
+- [Bilateral Straight Leg Raise](#b-slr)
+
+### Slump Test {#slump-test}
+
+### Straight Leg Raise (SLR) {#slr}
+
+The [SLR]({{< var ref-straight-leg-raise-test >}}) is generally *negative* in patients with spinal stenosis @duttonDuttonOrthopaedicExamination2020.
+
+### Bilateral Straight Leg Raise (bSLR) {#b-slr}
+
+# DDX
+
+|Vascular Claudication|Neurogenic Claudication|Lumbar Central stenosis|
+|-|-|-|
+|Pain is usually bilateral | Pain is usually bilateral but may be unilateral | Usually bilateral |
+|Occurs in foot, leg, thigh, hip, or buttocks | Occurs in back, buttocks, thighs, leg, and feet | Occurs in back, buttocks, thighs, legs, and feet|
+|Unaffected by spine position | Decreased in flexion, and increased with flexion and walking| Pain is decreased in spinal flexion and increased with extension and walking|
+|Pain is aggravated with physical exertion, but relieved within 1-5min of rest|Pain is relieved with recumbency | Pain is relieved with prolonged rest, but may persist hours after resting|
+| Pain is aggravated when walking uphill | | Pain is relieved when walking uphill |
+|No burning or dysesthesia|Burning and dysesthesia from back to buttocks and legs|Burning and numbness in lower extremities|
+|Decreased/absent pulses in lower extremity | Normal pulse| Normal pulse|
+|Color and skin changes in feet (cold, numb, dry, or scaly skin) </br> Poor nail and hair growth| Normal skin nutrition | Normal skin nutrition|
+|Ages 40-60+ y/o| 40-60+ y/o| peaks in 70 year olds and primarily in men|
+: Differentiating Causes of Claudication @duttonDuttonOrthopaedicExamination2020 {.striped .hover}
+
+## Peripheral Artery Disease
+
+PAD shares similarities with LSS since both include leg pain and generally occur in patients over 50 years in age @duttonDuttonOrthopaedicExamination2020.
+
+
+## Intermittent Claudication
+
+Intermittent claudication (IC) of vasculature surrounding the spinal cord can create symptoms similar to central lumbar stenosis.
+The best way to differentiate between *Intermitting Claudication* and lumbar central stenosis is to examine when symptoms onset and symptom correlation with exertion.
+In early stages, IC will be most aggravated when walking uphill or riding a bike whereas lumbar spinal stenosis will primarily have pain when walking downhill @duttonDuttonOrthopaedicExamination2020.
+Furthermore, IC patients will report symptoms after riding a bike, whereas lumbar central stenosis can ride a bike for long distances without significant symptoms @duttonDuttonOrthopaedicExamination2020.
+
+## Peripheral Vascular Disease (PVD)
+
+Peripheral Vascular Disease (PVD) is a pathology with distal symptoms of pain, numbness, and tingling which cause it to be frequently confused with lumbar spinal stenosis.
+The most apparent difference between PVD and Lumbar central stenosis is the response to pain to exertion or spine position @duttonDuttonOrthopaedicExamination2020.
+Lumbar central stenosis will be relieved by trunk flexion and aggravated by trunk extension, but PVD will not be relieved or aggravated by either position @duttonDuttonOrthopaedicExamination2020.

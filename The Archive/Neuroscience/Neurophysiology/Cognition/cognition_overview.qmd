@@ -1,0 +1,47 @@
+---
+title: Cognition
+subtitle: The act or process of knowing
+---
+
+Cognition refers tothe act or process of knowing.
+Includes:
+
+- Awareness
+- Perception
+- Memory
+- Judgment
+- Intuition
+- Reasoning
+
+# Executive Functions (#executive-function)
+
+Executive functions are sometimes regarded as a category of cognition and refers to Higher-order Cognitive skills
+
+Includes:
+
+- Frontal lobe
+    - Capacity to Plan
+    - Manipulate information
+    - Initiate and terminate activities
+    - Recognize errors
+    - Problem solve
+    - Abstract thinking
+
+# Visual Cognition
+
+
+:::{.callout title="Are these cognition or perception?"}
+These were given in SDSU DPT's neuro class, but I do not know if these go under cognition or perception
+
+- Visual-Perception: Visual perception refers to the brain’s ability to make sense of what the eyes see
+- Visual Attention: The ability to focus on important visual information and filter out unimportant background information.
+    - Extremely important for driving 
+- Visual Discrimination: The ability to determine differences or similarities in objects based on size, color, shape, etc.
+- Visual Memory: The ability to recall visual traits of a form or object.
+- Visual Spatial Relationships: Understanding the relationships of objects within the environment.
+- Visual Sequential-Memory: The ability to recall a sequence of objects in the correct order.
+- Visual Figure Ground: The ability to locate something in a busy background.
+- Visual Form Constancy: The ability to know that a form or shape is the same, even if it has been made smaller/larger or has been turned around.
+    - 	Example: being able to tell the letter A at any size 
+- Visual Closure: The ability to recognize a form or object when part of the picture is missing.
+:::

@@ -1,0 +1,49 @@
+---
+title: Anterior Cruciate Ligament
+---
+
+# Cruciate Ligament
+
+"The two central intra-articular cruciate ligaments derive their name from the Latin word crucere (cross) because they cross each other (Fig. 20-1). Both the ACL and the PCL lie in the center of the joint, and each is named according to their attachment sites on the tibia.1 The cruciate ligaments, which differ from those of other joints in that they restrict normal, rather than abnormal, motion, are the main stabilizing ligaments of the knee and restrain against anterior (ACL) and posterior (PCL) translations of the tibia on the femur. They also restrain against excessive internal and external rotation and varus/valgus movements of the tibia." @duttonDuttonOrthopaedicExamination2020
+
+
+"The blood supply to the cruciate ligaments is largely provided from the middle and inferior geniculate branches of the popliteal artery. The cruciate ligaments are innervated by the posterior articular nerve, a branch of the posterior tibial nerve.1 The function of this nerve supply is questionable although it may serve as proprioceptive in nature. In addition, the cruciate ligaments contain mechanoreceptors, suggesting that disruption of the ligament structure can produce partial deafferentation of the joint.10 Evidence of a proprioceptive function of the ACL comes from extensive histologic observations demonstrating that the ACL appears to contain proprioceptive nerve endings.1 Although these cruciate ligaments function together, they are described separately." @duttonDuttonOrthopaedicExamination2020
+
+# Info
+"Anterior cruciate (Fig. 20-1). It provides the primary restraint to anterior translation and medial rotation of the tibia on the femur and is a secondary restraint to valgus and varus rotation of the tibia." @duttonDuttonOrthopaedicExamination2020 
+
+
+"The ACL is a unique structure and one of the most important ligaments to knee stability. In addition to serving as a primary restraint to anterior translation of the tibia relative to the femur, the ACL provides significant mechanical stabilization to the knee joint by preventing excessive hyperextension, as well as tibial rotation and anterior tibial translation while in flexion.11–13" @duttonDuttonOrthopaedicExamination2020
+
+"The ACL (see Fig. 20-1) is composed of a vast array of individual fascicles. These, in turn, are composed of numerous interlacing networks of collagen fibrils. The fascicles originate on the inner aspect of the lateral femoral condyle in the intercondylar notch (resident’s ridge), which serves as the anterior limit of the ACL in the anatomical position, and travel obliquely and distally through the knee joint. They enter the anterior intercondylar surface of the tibial plateau, where they partially blend with the lateral meniscus. As the fascicles of the ACL course through the knee joint and attach to their insertion sites, they fan out and give a slight spiral appearance to the ligament, a phenomenon that is more pronounced during knee flexion." @duttonDuttonOrthopaedicExamination2020 
+
+# Synovium
+
+"The synovial tissue that enfolds the ACL consists of an intimal layer, facing the joint cavity, and a subsynovial layer. The subsynovial layer is in direct contact with the ACL and contains neurovascular structures. The ACL is considered intra-articular yet extrasynovial because of the posterior invagination of the synovial membrane."
+
+# Innervation {#innervation}
+
+"Although the posterior articular nerve is the major nerve for the ACL, afferent fibers have also been demonstrated in the medial and lateral articular nerves.1" @duttonDuttonOrthopaedicExamination2020
+
+# Histology
+
+"Like all ligaments, the ACL behaves as a viscoelastic structure, allowing it to dissipate energy and to adjust its length and internal load distribution as a function of load history.14 This means that the normal ACL is capable of microscopic adjustments to internal stresses over time, thus influencing the laxity, stresses, and kinematics of the joint in subtle but potentially important ways. One anatomic factor that contributes to selective fiber recruitment during tensile loading is the specific location of the insertions of the ACL on the femur and the tibia. These differing insertion sites allow different fibers of the ACL to be recruited with every subtle three-dimensional (3D) change in the position of the joint.14" @duttonDuttonOrthopaedicExamination2020 
+
+# Functional Divisions (Bundles)
+
+"The ACL consists of two functional bundles—the anteromedial (A-M) and posterolateral (P-L) bundles—named for their position on the tibia. The femoral footprints of the A-M and P-L bundles are vertically aligned when the knee is in full extension, and the femoral origin of the A-M bundle is located superior to the P-L insertion.15 In this configuration, the two bundles are parallel to each other, whereas with the knee in 90 degrees of flexion, the two bundles cross each other, and the femoral insertions are nearly horizontally aligned.15,16 The tensile strength of the ACL is equal to that of the knee collaterals, but it is half that of the PCL.14 Since its fibers are unyielding, forcing the ACL more than 5% beyond its resting length may result in rupture.14 Several factors can influence the amount of tension on the ACL16,17:" @duttonDuttonOrthopaedicExamination2020
+
+
+- "When the knee is in full extension, the A-M and P-L bundles are under tension." @duttonDuttonOrthopaedicExamination2020
+- "When the knee is at 60–90&deg; of flexion, the P-L bundle is lax and allows rotation of the tibia on the femur." @duttonDuttonOrthopaedicExamination2020
+- "The P-L bundle limits anterior translation of the tibia at low angles of knee flexion (0–30&deg;)." @duttonDuttonOrthopaedicExamination2020
+- "The A-M bundle primarily resists anterior translation of the tibia and undergoes less change in length than the P-L bundle throughout the range of knee motion." @duttonDuttonOrthopaedicExamination2020 
+- "The P-L bundle is maximally lengthened when the knee is in full extension, and the A-M bundle is under maximum tension when the knee is flexed between 45 and 60&deg;" @duttonDuttonOrthopaedicExamination2020
+- "Compressive loading of the tibiofemoral joint, such as that occurs during WB, has been shown to reduce anteroposterior laxity and stiffen the joint when compared with the non–weight-bearing (NWB) position. These changes appear to reflect the increased strain borne by the ACL during the transition from NWB to WB. Thus, the popular belief in the beneficial effects of early WB and closed-kinetic chain exercises (CKCEs) following anterior cruciate reconstruction may be open to question." @duttonDuttonOrthopaedicExamination2020
+    - See Table 20-1 of Dutton @duttonDuttonOrthopaedicExamination2020 
+
+
+# Peak Strain
+
+See Table 20-1 of dutton @duttonDuttonOrthopaedicExamination2020 
+

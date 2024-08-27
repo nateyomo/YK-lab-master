@@ -1,0 +1,25 @@
+---
+title: Motor Compensation
+---
+
+Motor compensation refers to performance of an old movement in a new manner that can be achieved through adaptive compensation or behavioral substitution @osullivanImprovingFunctionalOutcomes2016
+
+Motor compensation can be divided into adaptive compensation and behavioral substitution
+
+# Adaptive Compensation
+
+Adaptive compensation refers to using alternative motor patterns to accomplish a task @osullivanImprovingFunctionalOutcomes2016
+
+:::{.callout-note}
+## Example of Adaptive Compensation
+E.g. the patient with a complete T1 SCI learns to roll using both UEs and momentum @osullivanImprovingFunctionalOutcomes2016
+:::
+
+# Behavioral Substitution
+
+Behavioral substitution refers to using alternate body segments or effectors to accomplish a task @osullivanImprovingFunctionalOutcomes2016.
+
+:::{.callout-note}
+## Example of Behavioral Substitution
+For example, a patient with a stroke learns to dress independently using the less affected upper extremity (UE) @osullivanImprovingFunctionalOutcomes2016.
+:::

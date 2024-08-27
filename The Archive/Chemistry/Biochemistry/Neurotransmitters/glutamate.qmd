@@ -1,0 +1,21 @@
+---
+title: Glutamate
+---
+
+ 
+
+
+# Overview
+
+- Glutamate is an excitatory neurotransmitter @osullivanPhysicalRehabilitation2019
+- 
+
+# Dysfunction
+## Excitotoxicity caused neurodegeneration
+- Excess glutamate triggers a cascade of events leading to cell death @osullivanPhysicalRehabilitation2019
+
+# Related pathologies
+## Amyotrophic Lateral Sclerosis
+- [Amyotrophic lateral sclerosis]({{< var ref-amyotrophic-lateral-sclerosis.path >}}) via [excitotoxicity](##excitotoxicity)
+    - Increased levels of glutamate in the cerebrospinal fluid (CSF), plasma, and in postmortem tissue of individuals with ALS have been reported @osullivanPhysicalRehabilitation2019
+    - Researchers attribute a deficiency in [excitatory amino acid transporter 2 (EAAT2)]({{< var ref-EAAT2-excitatory-amino-acid-transporter-2.path >}}) in the motor cortex and spinal cord of postmortem ALS tissue was reported and lends support to the theory of excitotoxicity causing neurodegeneration.

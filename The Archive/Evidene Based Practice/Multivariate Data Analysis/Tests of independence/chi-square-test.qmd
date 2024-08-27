@@ -1,0 +1,32 @@
+---
+title: Chi Square Test of Independence ($\chi^{2}$)
+---
+
+:::{.callout-note title="To read"}
+
+- Motulsky - How it works: Chi-square goodness-of-fit test p.268 @motulskyIntuitiveBiostatisticsNonmathematical2018
+:::
+
+
+- AKA
+    - Abbreviated: ($\chi^{2}$)
+    - Pearson Chi-square test @mchughChisquareTestIndependence2013
+    - Chi-square @mchughChisquareTestIndependence2013
+
+- Chi-square ($\chi^{2}$) statistic is a non-parametric (distribution free) tool designed to analyze group differences when the dependent variable is measured at a nominal level @mchughChisquareTestIndependence2013
+- This is one of the most useful statistics for testing hypotheses when the variables are nominal @mchughChisquareTestIndependence2013.
+
+# what makes this test unique?
+
+## Similarities to other non-parametric statistics
+
+- the Chi-square ($\chi^{2}$) is robust with respect to the distribution of the data (This is true for all non-parametric statistics) @mchughChisquareTestIndependence2013
+- Specifically, it does not require equality of variances among the study groups or [homoscedasticity]({{< var ref-homoscedasticity.path >}}) in the data @mchughChisquareTestIndependence2013.
+    - It permits evaluation of both dichotomous independent variables, and of multiple group studies @mchughChisquareTestIndependence2013.
+
+## Dissimilarities from non-parametric statistics
+
+- The calculations needed to compute the Chi-square provide considerable information about how each of the groups performed in the study.
+- This richness of detail allows the researcher to understand the results and thus to derive more detailed information from this statistic than from many others.
+
+

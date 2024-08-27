@@ -1,0 +1,54 @@
+---
+title: Ligaments of the Knee Joint
+---
+
+# Extrinsic ligaments
+
+- Anterior side
+    - Patellar ligament
+    - Medial longitudinal patellar retinaculum
+    - Lateral longitudinal patellar retinaculum
+    - Medial transverse patellar retinaculum
+    - Lateral transverse patellar retinaculum
+- Medial and Lateral sides
+    - Medial (tibial) collateral ligament
+    - Lateral (fibular) collateral lig.
+- Posterior side
+    - Oblique popliteal ligament
+    - Arcuate popliteal ligament
+
+
+# Intrinsic Ligaments
+
+- Anterior cruciate ligament
+- Posterior cruciate lig.
+- Transverse lig. of knee
+- Posterior meniscofemoral lig.
+
+
+
+
+# Functions
+
+
+- "The MCL complex acts as the primary restraint to valgus rotation of the tibia, providing as much as 80% of the restraining force to valgus loads.21" @duttonDuttonOrthopaedicExamination2020
+- "The LCL provides the primary restraint to varus rotation of the knee, acts as a secondary restraint to external rotation and posterior displacement of the tibia21 and, during normal gait, is the primary passive structure resisting the knee adduction (varus) moment.21" @duttonDuttonOrthopaedicExamination2020
+
+
+# Primary and Secondary Restraints
+
+
+
+## Secondary Restraints
+
+"Some structures in the knee, known as secondary restraints, augment the functions of the ACL and the PCL. These secondary restraints include the structures in the P-L and posteromedial corners of the knee, which serve to control anterior tibial translation relative to the femur.14" @duttonDuttonOrthopaedicExamination2020 
+
+
+"Dynamic stability synergistic to the PCL is provided by unopposed contraction of the quadriceps complex, which increases anterior tibial translation. Conversely, an isolated contraction of the hamstrings results in a posterior translation of the tibia, which is synergistic to the ACL. Cocontraction of the hamstrings and the quadriceps has been theorized to minimize tibial translation in either direction. The popliteus muscle–tendon complex (PMTC) contributes to both static and dynamic P-L knee joint stabilization. During concentric activation, the popliteus internally rotates the tibia on the femur. During eccentric activation, it serves as a secondary restraint to tibial external rotation on the femur (see “Popliteus” section).22" @duttonDuttonOrthopaedicExamination2020 
+
+
+"The knee joint is also strengthened externally by the patellar ligament, oblique popliteal ligaments, and the fabella."
+
+- "The patellar ligament, or patellar tendon, lies in the thickened portion of the quadriceps femoris tendon between the top of the patella and the tibia (Fig. 20-1). The patellar ligament strengthens the anterior portion of the knee joint and prevents the lower leg from being flexed excessively." @duttonDuttonOrthopaedicExamination2020 
+- "The oblique popliteal ligament, located on the posterior surface of the knee joint, is a dense thickening in the posterior capsule made up of a continuation of the popliteal tendon and part of the insertion of the semimembranosus.1 It arises posterior to the medial condyle of the tibia and extends superomedially to attach to the posterior fibrous capsule. The oblique popliteal ligament provides reinforcement to the lateral capsule, limits A-M rotation of the tibia, and prevents hyperextension of the knee." @duttonDuttonOrthopaedicExamination2020 
+- "The fabella is located in the P-L corner of the knee and may be osseous or cartilaginous in makeup. When the fabella is present, there is a fabellofibular ligament, which courses superiorly and obliquely from the lateral head of the gastrocnemius to the fibular styloid. The fabellofibular ligament helps prevent excessive internal rotation of the tibia and adds further ligamentous support on the lateral and P-L aspects of the knee.1" @duttonDuttonOrthopaedicExamination2020 

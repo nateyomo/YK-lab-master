@@ -1,0 +1,12 @@
+---
+title: Neuropathic Pain
+---
+
+
+:::{.callout-note}
+
+- Welzack Chapter 61 Neuropathic Pain: Pathophysiological Response of Nerves to Injury @mcmahonWallMelzackTextbook2013
+- Welzack Chapter 62 Animal Models of Experimental Neuropathic Pain @mcmahonWallMelzackTextbook2013
+- Welzack Chapter 70 Pharmacological Therapy of Neuropathic Pain @mcmahonWallMelzackTextbook2013
+:::
+

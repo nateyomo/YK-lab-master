@@ -1,0 +1,36 @@
+---
+title: Cervicothoracic Junction (C7-T1)
+---
+
+- Cervicothoracic junction (C7-T1) is located between the highly mobile C/S and immobile upper T/S
+- Area where powerful mm of UE and shoulder girdle insert
+- Neurovascular structures of UE pass
+
+
+
+# Muscular involvement
+
+
+
+
+# Biomechanics
+
+"Pure axial rotation (twisting) can only occur at two points in the spine: at the thoracolumbar and cervicothoracic junctions" @duttonDuttonOrthopaedicExamination2020
+
+## Coupled motions
+
+- Mid C/s coupled motions are ipsilateral SB and rotation @duttonDuttonOrthopaedicExamination2020
+- The coupled motions at the cervicothoracic junction are more difficult to discern due to the influence of the more rigid thoracic spine and ribcage @duttonDuttonOrthopaedicExamination2020
+- Also, due to the fact that the superior articular facets of C3 lie slightly inferiorly in relation to their vertebral body compared to the rest of the typical cervical levels, the expected coupling of ipsilateral rotation and side flexion does not seem to exist at this level @duttonDuttonOrthopaedicExamination2020
+- Instead, because the orientation of the facets at this level serve to minimize rotation, thus stabilizing C2 during rotation, a contralateral rotation and side flexion appears to occur @duttonDuttonOrthopaedicExamination2020
+
+
+# Dysfunction
+
+## Causes
+
+forward head increases the stresses at the cervicothoracic junction @duttonDuttonOrthopaedicExamination2020
+
+## Restriction
+
+- An adaptively shortened and overactive [SCM]({{< var ref-sternocleidomastoid.path >}}) muscle can alter the realtionships between the head, neck, and shoulderes which will result in restrictions at the craniovertebral and cervicothoracic junctions @duttonDuttonOrthopaedicExamination2020

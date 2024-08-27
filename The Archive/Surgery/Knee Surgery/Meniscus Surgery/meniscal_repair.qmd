@@ -1,0 +1,32 @@
+---
+title: Meniscal Repair
+---
+
+
+# Priorities
+
+
+
+:::{layout-ncol="3"}
+
+### Week 0-3
+
+- We expect them to be NWB
+- Decrease swelling
+    - MLD
+- Patellar Mobilization
+- TFJ Mobilization
+- Blood flow restriction training
+- Assessment
+    - Scar
+    - Edema
+
+:::
+
+
+
+
+# Surgical Protocol
+
+
+{{< pdf The Archive/Surgery/Knee Surgery/Meniscus Surgery/Images/Mass General Brigham - rehabilitation-protocol-for-meniscus-repair.pdf >}}

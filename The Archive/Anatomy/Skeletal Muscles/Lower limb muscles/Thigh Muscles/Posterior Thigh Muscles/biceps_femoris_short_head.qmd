@@ -1,0 +1,45 @@
+---
+title: Biceps Femoris Short Head
+---
+
+
+# Overview
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "biceps_femoris_short_head"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Biceps Femoris Short Head Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Origin {#origin}
+
+- Lateral lip of the linea aspera in the middle third of the femur @gilroyAtlasAnatomy2020
+
+
+# Insertion {#insertion}
+Head of Fibula @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Common Fibular N.]({{< var ref-common-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+**Knee**: Flexion and External rotation @gilroyAtlasAnatomy2020

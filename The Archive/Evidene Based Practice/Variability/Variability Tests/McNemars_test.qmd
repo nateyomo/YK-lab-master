@@ -1,0 +1,15 @@
+---
+title: McNemar's Test
+subtitle: A statistical test of validity
+---
+
+Resources
+
+- Statpearls @sundjajaMcNemarMannWhitneyTests2023
+- 
+
+
+Monroe:
+
+- similar to chi square
+- measures how many changed, vs didnt change

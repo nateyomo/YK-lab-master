@@ -1,0 +1,79 @@
+---
+title: Soleus Muscle
+---
+
+
+:::{layout-ncol="3"}
+
+![Schematic of Superficial Flexors of the Posterior Compartment of the Leg </br> 1: Gastrocnemius </br> 2: Soleus </br> 3: Plantaris @gilroyAtlasAnatomy2020 ](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.23a leg posterior compartment schematic.png)
+
+![Superficial Flexors of the Posterior Compartment of the Leg @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.23b leg superficial posterior compartment.png)
+
+![Superficial Flexors of the Posterior Compartment of the Leg without the gastrocnemius @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.23c leg superficial posterior compartment without gastroc.png)
+
+:::
+
+# Overview
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "soleus"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Soleus Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+
+
+# Origin {#origin}
+
+- Posterior fibula @gilroyAtlasAnatomy2020
+- Posterior Tibia @gilroyAtlasAnatomy2020  
+
+
+# Insertion {#insertion}
+
+Calcaneal tuberosity via the Achilles' tendon @gilroyAtlasAnatomy2020 
+
+# Innervation {#innervation}
+
+[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020 
+
+# Action {#action}
+
+- **TCJ**: Plantarflexion @gilroyAtlasAnatomy2020 
+- **Stabilizes leg** @gilroyAtlasAnatomy2020 
+
+
+# Biomechanics
+
+The Triceps Surae inserts onto the calcaneal tuberosity via the achilles tendon.
+The fulcrum is technically the distal foot and the external load acting upon this muscle, joint, tendon complex is at the tibia.
+Thus, this is a **second class lever** and as a result, the triceps surae create more torque relative to their force compared to most other muscles in the body.
+
+
+# Examination
+
+## Length Test
+
+- Test DF with Knee flexed to 45&deg;
+
+
+## Strength Testing
+
+"The soleus muscle produces plantar flexion of the ankle joint, regardless of the position of the knee. To determine the individual functioning of the soleus as a plantar flexor, the knee is flexed to minimize the effect of the gastrocnemius muscle. The soleus is tested in a similar manner to that of the gastrocnemius, except that the patient performs the unilateral heel raise with some degree of knee flexion. Ability to perform 10–15 raises in this fashion is considered normal, 5-9 raises graded as fair, 1–4 raises graded as poor, and zero repetitions graded as nonfunctional. Alternatively, the strength of the soleus can be tested with the patient in prone"

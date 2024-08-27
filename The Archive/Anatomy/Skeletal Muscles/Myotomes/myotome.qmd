@@ -1,0 +1,23 @@
+---
+title: Myotome
+subtitle: Group of muscles served by a single nerve root
+---
+
+
+A myotome is defined as a muscle or group of muscles served by a single nerve root.
+Key muscle is perhaps a more accurate term. 
+Manual muscle testing is traditionally used by the clinician to assess the strength of a muscle or muscle group that is representative of the supply from a particular nerve root. 
+Valuable information can be gleaned from these tests, including:
+
+# Myotome Table
+
+@sonooRecentAdvancesNeuroanatomy2023 
+
+# Testing
+
+Information gained from these tests:
+
+- The amount of force the muscle is capable of producing 
+- Whether the amount of force produced varies with the joint angle.
+
+

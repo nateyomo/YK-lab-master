@@ -1,0 +1,9 @@
+---
+title: Chromosome 21
+---
+
+
+
+# Extra Chromosome 21
+
+- Causes [Down syndrome]({{< var ref-down-syndrome.path >}})

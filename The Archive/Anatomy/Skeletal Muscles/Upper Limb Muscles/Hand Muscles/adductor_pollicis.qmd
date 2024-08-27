@@ -1,0 +1,40 @@
+---
+title: Adductor Pollicis
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Adductor Pollicis]({{< var ref-adductor-pollicis.path >}}) | {{< var ref-adductor-pollicis.origin >}} | {{< var ref-adductor-pollicis.insertion >}} | {{< var ref-adductor-pollicis.nerve >}} | {{< var ref-adductor-pollicis.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+- **Oblique head**: Base of 2nd and 3rd metacarpal, Capitate @gilroyAtlasAnatomy2020
+- **Transverse head**: Palmar surface of 3rd metacarpal @gilroyAtlasAnatomy2020 
+
+
+# Insertion {#insertion}
+
+
+Medial base of 1st proximal phalanx (*via ulnar sesamoid*) @gilroyAtlasAnatomy2020
+
+
+# Innervation {#innervation}
+
+
+[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
+
+
+# Action {#action}
+
+- **1st CMC**: Adduction @gilroyAtlasAnatomy2020
+- **1st MCP**: Flexion @gilroyAtlasAnatomy2020
+
+
+
+# Notes

@@ -1,0 +1,71 @@
+---
+title: Cryotherapy Modality
+---
+
+
+"For these applications, very low temperatures are used, and cooling is generally applied directly to the tissue being treated. In rehabilitation, milder cooling is used to control inflammation, pain, and edema; to reduce spasticity; to control symptoms of multiple sclerosis; and to facilitate movement" @cameronPhysicalAgentsRehabilitation2018 
+
+
+# Mechanism
+
+There are 3 main physiological effects of cryotherapy:
+
+1. [Hemodynamic Effects](#hemodynamic-effects)
+1. [Neuromuscular effects](#neuromuscular-effects)
+1. [Metabolic Effects](#metabolic-effects)
+
+## Hemodynamic Effects
+
+
+### Initial Bloow Flow Decrease
+Cold application results decreased blood flow due to vasoconstriction which can persist for up to 15-20 minutes @cameronPhysicalAgentsRehabilitation2018.
+Cold temperature *directly* causes vaosoconstriction by activating cutaneous cold receptors, which stimulate the smooth muscles in the blood vessels @cameronPhysicalAgentsRehabilitation2018.
+Indirectly, cold application *indirectly* cause vasoconstriction by decreasing the production and release of mediators of vasodilation (histamines, prostaglandins, etc) and cause reflexive activation of sympathetic adrenergic neurons which causes vasoconstriction @cameronPhysicalAgentsRehabilitation2018.
+Lastly, cold application is theorizied to increase blood viscocity, which increases resistance to flow, therefore decreasing circulatory rate @cameronPhysicalAgentsRehabilitation2018.
+The combination of direct vasoconstriction, vasodilator reduction, sympathetic adrenergic activation, and increase in blood viscosity all result in a reduction of blood flow @cameronPhysicalAgentsRehabilitation2018.
+
+### Later Blood Flow Increase
+
+Cold-Induced Vasodilation (CIVD) refers to vasodilation following exposure to cold for long periods of time or when tissue temperatures reach <10&deg;C (50&deg;F) @cameronPhysicalAgentsRehabilitation2018.
+
+
+## Neuromuscular Effects
+
+## Metabolic Effects
+
+
+
+# Indication
+Cryotherapy is indicated for:
+
+- Acute trauma
+- Pain relief
+- Fever reduction
+- Prophylactic
+- Control [multiple sclerosis]({{< var ref-multiple-sclerosis.path >}}) symptoms
+
+# Precaution
+
+- Hypersensitivity
+- BP
+- Compression
+- Older/younger patients
+
+# Contraindications
+
+Cryotherapy should NOT be performed if the patient is:
+
+- Hypersensitive to cold temperature
+- Blood gels
+- Raynaud's Syndrome
+- Regenerating nerves
+- Decreased circulation
+
+# Cryotherapy Interventions
+
+- Cold/ice packs: stored at 10-32&deg; F, must use thin wet towel between pack and skin, use for 15-20 minutes
+- Vapocoolant spray: fluori-methane cooling spray applied to skin (in parallel with muscle fibers) for 6 seconds
+- Cold compression unit (game ready): 50-59&deg; C - 20 min to 1 hour or continuous
+- Cold Cream: menthol creams that use gait theory
+- Cold/ice bath: 13-18&deg;C /55-64&deg; F
+- Contrast bath: 3min hot/1 min cold x 3 (12 min total) 

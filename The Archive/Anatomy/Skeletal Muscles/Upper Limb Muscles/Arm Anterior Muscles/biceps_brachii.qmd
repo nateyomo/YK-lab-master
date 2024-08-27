@@ -1,0 +1,150 @@
+---
+title: Biceps Brachii
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Biceps Brachii (Long head)]({{< var ref-biceps-brachii-long-head.path >}}) | {{< var ref-biceps-brachii-long-head.origin >}} | {{< var ref-biceps-brachii-long-head.insertion >}} | {{< var ref-biceps-brachii-long-head.nerve >}} | {{< var ref-biceps-brachii-long-head.action >}} |
+| [Biceps Brachii (Short head)]({{< var ref-biceps-brachii-short-head.path >}}) | {{< var ref-biceps-brachii-short-head.origin >}} | {{< var ref-biceps-brachii-short-head.insertion >}} | {{< var ref-biceps-brachii-short-head.nerve >}} | {{< var ref-biceps-brachii-short-head.action >}} |
+: {.striped .hover}
+
+
+# Long Head
+
+## Origin {#origin}
+
+- Supraglenoid tubercle of scapula [@gilroyAtlasAnatomy2020; @neumannKinesiologyMusculoskeletalSystem2017]
+- Adjacent rim of Glenoid Labrum @neumannKinesiologyMusculoskeletalSystem2017
+
+## Insertion {#insertion}
+
+- Radial tuberosity @gilroyAtlasAnatomy2020
+- Bicipital aponeurosis @gilroyAtlasAnatomy2020
+
+
+## Innervation {#innervation}
+
+[Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) [@gilroyAtlasAnatomy2020; @neumannKinesiologyMusculoskeletalSystem2017]
+
+# Action {#action}
+
+- **Shoulder**: Flexion
+- **GHJ**: Abduction, Internal rotation, Stabilization of humeral head during deltoid contraction @gilroyAtlasAnatomy2020
+- **Elbow**: Flexion; Supination @gilroyAtlasAnatomy2020
+
+
+
+
+:::{.callout-note}
+How does the Biceps Brachii Long head function as a GHJ stabilizer?
+
+- “Cadaver studies strongly suggest that the long head of the biceps restricts anterior translation of the humeral head” @neumannKinesiologyMusculoskeletalSystem2017  
+- “force generated in the muscle resists superior translation of the humeral head—an important force needed to control the natural arthrokinematics of abduction” @neumannKinesiologyMusculoskeletalSystem2017 
+:::
+
+:::{.callout-note}
+ 
+"When the elbow is flexed, the biceps brachii acts as a powerful supinator because the lever arm is almost perpendicular to the axis of pronation/supination." @gilroyAtlasAnatomy2020
+:::
+
+# Short Head
+
+## Origin {#origin}
+
+- Coracoid process of Scapula @gilroyAtlasAnatomy2020
+
+## Insertion {#insertion}
+
+- Radial tuberosity @gilroyAtlasAnatomy2020
+- Bicipital aponeurosis @gilroyAtlasAnatomy2020
+
+
+
+## Innervation {#innervation}
+
+[Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) @gilroyAtlasAnatomy2020
+
+## Action {#action}
+
+- **Shoulder**: flexion @gilroyAtlasAnatomy2020
+- **GHJ**: Abduction, Internal rotation, Stabilization of humeral head during deltoid contraction @gilroyAtlasAnatomy2020
+- **Elbow**: Flexion, Supination @gilroyAtlasAnatomy2020
+
+
+
+:::{.callout-note}
+Note: When the elbow is flexed, the biceps brachii acts as a powerful supinator because the lever arm is almost perpendicular to the axis of pronation/supination. @gilroyAtlasAnatomy2020
+:::
+
+# Anatomy
+
+- Biceps Brachii Long Head tendon moves laterall from its origin, makes a right angle to place it in the anterior aspect of the humerus @duttonDuttonOrthopaedicExamination2020
+    - This turn may cause abnormal wearing of the tendon @duttonDuttonOrthopaedicExamination2020
+
+## Tendon
+The tendon of the Long Head of the Biceps Brachii “...crosses over the humeral head as it courses distally toward the intertubercular groove on the anterior humerus” @neumannKinesiologyMusculoskeletalSystem2017
+
+# Clinical Relevance
+
+The biceps may have a role in GHJ stabilization @itoiStabilisingFunctionBiceps1993 
+
+# Dysfunction
+
+Biceps dysfunction is difficult to diagnose
+"One confounding factor is that there is no known pain pattern specific for the biceps tendon. Although biceps tendon pain can radiate down the front of the shoulder, pain into the front of the shoulder can be secondary to a variety of causes, including rotator cuff injury" @gillPhysicalExaminationPartial2007
+
+## From Gill 2007
+
+
+
+"Biceps tendon lesions have been long recognized as a potential source of shoulder pain" @gillPhysicalExaminationPartial2007
+
+<!-- move to shoulder MSK
+
+partial tears of the biceps tendon can be a frequent finding in the painful or stiff shoulder @gillPhysicalExaminationPartial2007
+
+Biceps tendon lesions frequently have been found to be associated with subacromial impingement and rotator cuff tears @gillNeurologicComplicationsCOVID192023
+
+Add table 3
+
+Add table 4
+-->
+
+### Palpation test
+
+- signs of biceps tendon injury.
+- Eliciting point tenderness by palpation of the biceps tendon in the biceps groove 3 to 6 cm below the anterior acromion with the arm in approximately 10° of internal rotation @gillPhysicalExaminationPartial2007
+- area of point tenderness should move as the arm rotates internally and externall @gillPhysicalExaminationPartial2007 
+- Positive test: "pain elicited in the bicipital groove to deep pressure in the involved shoulder compared with no pain elicited with similar pressure to the bicipital groove of the opposite shoulder" @gillPhysicalExaminationPartial2007
+- "Overall, tenderness on palpation had a sensitivity of 53%, a specificity of 54%, an accuracy of 54%, and a likelihood ratio of 1.13" @gillPhysicalExaminationPartial2007
+
+# Palpation
+
+
+
+# Tests
+
+- Speed's Test
+- Palpation
+
+- Speeds + Biceps palpation
+    - "If the patient had a positive Speed’s test and pain with biceps palpation, the combined positive tests yielded a sensitivity of 68%, a specificity of 49%, an accuracy of 59%, and a likelihood ratio of 1.31" @gillPhysicalExaminationPartial2007
+
+"Two commonly used techniques for making the diagnosis of biceps tendinitis are Speed’s test and palpation that elicits tenderness over the bicipital groove." @gillPhysicalExaminationPartial2007
+
+
+## Speed's Test
+
+- Patient standing with the elbow extended and the forearm in supination, the arm was elevated to 90° and extended slightly horizontally @gillPhysicalExaminationPartial2007
+- Pt resists the downward force applied by the examiner @gillNeurologicComplicationsCOVID192023
+- Positive: Pain was localized to the bicipital groove area in the anterior shoulder @gillNeurologicComplicationsCOVID192023
+
+## Possible tests for biceps injury
+
+- Some researchers suggest that the lift-off test can be positive for pts with biceps tendon injury @gillPhysicalExaminationPartial2007
+- Theorizing that attempting to lift the affected arm off the back might provoke pain or weakness secondary to biceps tendon tear @gillPhysicalExaminationPartial2007
+
+"Only the lift-off test and the belly press test had a likelihood ratio of more than 2.0. These 2 tests had low sensitivities (0.28 and 0.17, respectively) but high specificity (0.89 and 0.92, respectively)" @gillNeurologicComplicationsCOVID192023

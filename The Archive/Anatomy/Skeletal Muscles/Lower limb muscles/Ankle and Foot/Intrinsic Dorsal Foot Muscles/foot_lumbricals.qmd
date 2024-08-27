@@ -1,0 +1,42 @@
+---
+title: Foot Lumbrical Muscles
+---
+
+:::{layout-ncol="2"}
+![Schematic of 2nd layer of Plantar Intrinsic Foot Muscles @gilroyAtlasAnatomy2020 </br> 1: Quadratus Plantae </br> 2: Lumbricals </br> 3: Flexor Hallucis Brevis </br> 4: Adductor hallucis </br> 5: Flexor digiti minimi </br> 6: Opponens digiti minimi </br> 7: Plantar interossei </br> 8: Dorsal Interossei](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.21a schematic intrinsic 2nd layer foot muscles.png)
+
+![2nd and 4th Layers of Intrinsic Plantar Foot Muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.22a intrinsic 2nd and 4th layer foot muscles.png)
+:::
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Lumbricals (Foot)]({{< var ref-foot-lumbricals.path >}}) | {{< var ref-foot-lumbricals.origin >}} | {{< var ref-foot-lumbricals.insertion >}} | {{< var ref-foot-lumbricals.nerve >}} | {{< var ref-foot-lumbricals.action >}} |
+: {.striped .hover}
+
+# Origin {#origin}
+
+Medial borders of tendons of [FDL]({{< var ref-flexor-digitorum-longus.path >}}) @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+
+Dorsal aponeurosis of toes 2-5 @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+- **1st lumbrical (2nd toe)**: [Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
+- **2-4 Lumbricals (3rd-5th toes)**: [Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
+
+
+# Action {#action}
+
+- **MTP 2-5**: Flexion @gilroyAtlasAnatomy2020
+- **IP 2-5**: Extension @gilroyAtlasAnatomy2020
+- **Toes 2-5**: Adducts toes 2-5 towards big toe  @gilroyAtlasAnatomy2020
+
+
+
+
+# MMT 
+

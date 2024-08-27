@@ -1,0 +1,30 @@
+---
+title: Construct Validity
+---
+
+
+# Construct Validity
+
+- [Correlation coefficient (r)]({{< var ref-correlation-coefficient.path >}})
+
+Categories of construct validity: Convergent and divergent validity are used to provide evidence that a test or measure accurately reflects construct (or outcome) rather than some other construct
+
+
+For example: 
+if you want to know if a new measure of pain intensity accurately measures pain (construct) instead of anxiety (different construct) then your PICOS question should ask about construct validity of the new measure
+If scores on the new measure are significantly associated with pain intensity scores on the NPRS = provides evidence of convergent validity ( both tests give similar results for similar construct = pain intensity)
+Conversely if scores on the new measure are not significantly correlated with scores on the anxiety questionnaire, then there is evidence of divergent validity (good divergent validity means no correlation with a different construct)
+How to demonstrate construct validity:
+Measure the correlation (str of association) between the new measure with existing measures of either the same construct (testing convergent validity) or different construct (testing divergent validity) 
+
+
+how well a test measures the concept it was designed to evaluate.
+
+# Assessing Construct Validity
+
+- Identify the constructs and their operational definitions
+    - What is the abstract characteristic or concept being measured (construct)?
+    - What methods are used to define and or measure this construct (operational definition) 
+- Is the operational definition a reasonable/clinically meaningful reflection of the construct?
+    - Does the operational definition adequately represent the construct
+    - Are the construct and its operational definition a good match for my PICO question and meaningful for my pt? (External validity)

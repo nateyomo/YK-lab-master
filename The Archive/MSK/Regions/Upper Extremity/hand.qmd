@@ -1,0 +1,45 @@
+---
+title: MSK of the Hand
+---
+
+
+
+# Examination
+
+:::{.callout-note}
+See table 18.2 of Dutton for physical findings on the hand @duttonDuttonOrthopaedicExamination2020 
+:::
+
+![Table 18.6 Hand and Finger Deformities and Their Possible Causes @duttonDuttonOrthopaedicExamination2020](/The Archive/MSK/Regions/Upper Extremity/images/table18.6 hand deformities dutton.png)
+
+# Special Tests
+
+### Provocation Tests
+
+- Scapholunate Shear Test. The patient is positioned in sitting with their forearm supinated. With one hand, the clinician grasps the scaphoid. With the other hand, the clinician grasps the lunate between the thumb and the index finger (Fig. 18-54). The lunate and scaphoid are then sheared in an anterior (palmar) and then posterior (dorsal) direction. Laxity and reproduction of the patient’s pain are positive signs for this test. @duttonDuttonOrthopaedicExamination2020
+
+### Tendon special tests
+
+- The Integrity of the Central Slip (Extensor Hood Rupture). The patient flexes the finger to 90 degrees at the PIP joint over the edge of the table. The patient is then asked to extend the PIP joint, while the clinician palpates the middle phalanx (Fig. 18-57). The absence of extension force at the PIP joint and fixed extension at the distal joint indicates complete rupture of the central slip. No diagnostic accuracy @duttonDuttonOrthopaedicExamination2020
+
+### Ligament Special Tests
+
+- Lunotriquetral Shear (Reagan) Test. This test is designed to assess the integrity of the lunotriquetral ligament. The clinician grasps the triquetrum between the thumb and the second finger of one hand and the lunate with the thumb and second finger of the other hand. The lunate is moved posteriorly (dorsally) with the thumb of one hand, while the triquetrum is pushed palmarly in the anteroposterior (AP) plane by the index finger of the other hand (Fig. 18-44). Crepitation, clicks, or discomfort in this area suggests injury to the ligament. @duttonDuttonOrthopaedicExamination2020
+- The Pisotriquetral Shear Test. The pisotriquetral shear test assesses the integrity of the pisotriquetral articulation. The clinician stabilizes the wrist with the fingers posterior (dorsal) to the triquetrum and the thumb over the pisiform. The pisiform is rocked back and forth in a medial and lateral direction. A positive test is manifested with pain during this maneuver. No diagnostic accuracy studies have been performed to determine the sensitivity and specificity of this test.
+- Pivot Shift Test of the Midcarpal Joint. The patient is positioned in sitting with the elbow flexed to 90 degrees and the forearm pronated. The clinician uses one hand to stabilize the forearm while using the other hand to take the patient’s hand into full radial deviation (Fig. 18-59). The patient’s hand is then taken into full ulnar deviation. A positive test results if the capitate is felt to shift away from the lunate and indicates an injury to the anterior capsule and interosseous ligaments. No diagnostic accuracy studies have been performed to determine the sensitivity and the specificity of this test.
+- Scaphoid Shift Test for Carpal Instability. The scaphoid shift maneuver examines the dynamic stability of the wrist, in particular, the integrity of the scapholunate ligament. The patient is positioned in sitting with their elbow in approximately 90 degrees of flexion, the forearm slightly pronated, and the wrist ulnarly deviated. The clinician grasps the wrist from the radial side and stabilizes the scaphoid tubercle with the thumb and the posterior (dorsal) aspect of the scaphoid with the index finger. The clinician uses the other hand to grasp the metacarpals. Starting in ulnar deviation and slight extension, the wrist is moved into radial deviation and slight flexion. As the wrist is brought passively into radial deviation, the normal flexion of the proximal row forces the scaphoid tubercle into an anterior (palmar) direction (into the clinician’s thumb). The clinician attempts to prevent the anterior (palmar) motion of the scaphoid. When the scaphoid is unstable, its proximal pole is forced to sublux posteriorly (dorsally).22 Pain at the posterior (dorsal) wrist or a clunk suggests instability. The results are compared with the other hand. The results from the scaphoid shift test should be used with caution, as the test can be positive in up to one-third of uninjured individuals. One study looked at the movements of the carpal bones during the scaphoid shift test radiographically in 60 wrists and found that pain associated with subluxation of the scaphoid during the shift test is a significant finding, and that radiographic analysis of the test may confirm a positive result when dynamic scaphoid instability is suspected.22
+- Gamekeeper’s or Skier’s Thumb. The patient is positioned in sitting. The clinician stabilizes the patient’s hand with one hand and takes the patient’s thumb into extension with the other hand. While maintaining the thumb into extension, the clinician applies a valgus stress to the MCP joint of the thumb to stress the UCL (Fig. 18-60). A positive test is present if the valgus movement is greater than 30–35 degrees, indicating a complete tear of the UCL and the accessory collateral ligaments.
+- Murphy Sign. The patient is asked to make a fist. If the head of the third metacarpal is level with the second and fourth metacarpals, the sign is positive for the presence of a lunate dislocation.
+
+### Neurovascular Special Teests
+
+- Allen Test. The Allen test is used to determine the patency of the vessels supplying the hand. The clinician compresses both the radial and ulnar arteries at the wrist (Fig. 18-61), and then asks the patient to open and clench the fist three to four times to drain the venous blood from the hand. The patient is then asked to hold the hand open while the clinician releases the pressure on the ulnar artery and then the radial artery. The fingers and palm should be seen to regain their normal pink color. This procedure is repeated with the radial artery released and compression on the ulnar artery maintained. Normal filling time is usually less than 5 seconds. A distinct difference in the filling time suggests the dominance of one artery filling the hand.
+- Tinel (Percussion) Test for CTS. The Tinel test is used to assist in the diagnosis of CTS. The area over the median nerve is tapped gently at the anterior (palmar) surface of the wrist (Fig. 18-62). If this produces tingling in the median nerve distribution, then the test is positive. Variations exist among studies on the location and number of taps necessary to elicit a positive response, and in some studies the test is performed by tapping the median nerve in 20 degrees of wrist extension, while others tap along the path of the median nerve up to where the median nerve enters the carpal tunnel.
+- APB Weakness for CTS. The patient is positioned in sitting with their hand supported by the clinician. The clinician asked the patient to touch the pads of the thumb and small finger together. After asking the patient to keep the pads of the thumb and small finger together, the clinician applies a strong force in order to resist thumb abduction (Fig. 18-63). A positive test is a weakness in some abduction with resisted testing as compared to the other hand. Studies performed to determine weakness in the APB are relatively consistent, demonstrating moderate diagnostic accuracy.
+
+
+# Pathologies
+
+- Gamekeeper's Thumb (Skier's Thumb)
+
+

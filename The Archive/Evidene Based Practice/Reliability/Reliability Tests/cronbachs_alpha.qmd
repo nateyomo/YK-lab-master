@@ -1,0 +1,34 @@
+---
+title: Cronbach's Alpha (&alpha;)
+subtitle: A Psychometric measure of internal consistency
+---
+
+:::{.callout title="AKA"}
+
+- Coefficient Alpha (&alpha;)
+:::
+
+
+- Cronbach’s alpha (α) is a measure of the [internal consistency]({{< var ref-reliability.internal-consistency >}}) of multiple items or questions within a single survey
+- Used for surveys/questionnaires
+
+# Scoring
+
+Values range from 0.00 (not reliable) to 1.00 (perfectly reliable) 
+
+| Score | Reliability |
+|-|-|
+| 0.00 – 0.20 | Poor |
+| 0.21 – 0.40 | Fair |
+| 0.41 – 0.60 | Moderate |
+| 0.61 – 0.80 | Good |
+| 0.81 – 1.00 | Excellent |
+
+: "Rule of thumb" Quick interpretation of reliability {.striped .hover}
+
+# Scoring
+
+# Interpretation
+
+- You want internal consistency results (i.e. [Cronbach's Alpha (&alpha;)]({{< var ref-reliability.cronbachs-alpha >}})) to be high, we do not want it to be too high.
+- An (&alpha;) greater than about 0.90 may indicate unnecessary redundancy among the items and means that some of them can be eliminated without jeopardizing the reliability of the scale.

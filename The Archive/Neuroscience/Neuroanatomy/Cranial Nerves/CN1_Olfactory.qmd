@@ -1,0 +1,56 @@
+---
+title: "CN I: Olfactory nerve"
+---
+
+```{mermaid}
+flowchart TD
+  A[Nose] -- smell --> B["Cribriform plate"]
+  B --> C["Olfactory Sulci"]
+  C -- Skips Thalamus --> D["Olfactory Tract"]
+  D --> E[Olfactory Bulb]
+  
+  E --> F[Insula gustation but i wrote that this was wrong]
+  E --> G[Piriform Cortex]
+  E --> H[Amygdala]
+  E --> I[Entorhinal Cortex]
+
+  F --> J{Gustation}
+  G --> K{Olfaction processing}
+  H --> L{Emotion of Fear}
+  I --> M{Formation of Memory}
+
+```
+
+
+![Central Olfactory Structures](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig18.6 central olfactory structures blumenfeldNeuroanatomyClinicalCases2022.png)
+
+
+# Pathway:
+## First order neurons:
+1. Smell is detected by specialized chemoreceptors on bipolar primary sensory neurons found in the olfactory neuroepithelium @blumenfeldNeuroanatomyClinicalCases2022
+1. Olfactory nerve (made up of axons combined with other receptor cell axons) @blumenfeldNeuroanatomyClinicalCases2022
+1. Pass through Cribriform plate of Ethmoid bone @blumenfeldNeuroanatomyClinicalCases2022
+1. Terminate on the olfactory bulb (main relay station of olfactory pathway) @blumenfeldNeuroanatomyClinicalCases2022
+
+## Second order neurons:
+1. Olfactory tract
+1. Split: Medial & Lateral striae
+    1. Medial Stria: Projects to subcallosal gyrus
+    1. Lateral Stria: continues on to Parahippocampal gyrus
+
+# Relevant Structures
+The olfactory nerve does not have peripheral ganglia
+
+Olfactory cortex: no single structure
+- Piriform cortex:
+    - Located: Below lateral olfactory stria
+    - Function: Olfactory processing
+- [Amygdala]({{< var ref-amygdala.path >}}):
+    - Located: Anterior to Temporal/Inferior horn of Lateral Ventricle
+    - Function: Emotion & Fear
+- Entorhinal cortex:
+    - Location: Anterior part of Parahippocampal gyrus
+    - Function: Formation of Memory
+
+# Dysfunction
+- [Anosmia]({{< var ref-anosmia.path >}})

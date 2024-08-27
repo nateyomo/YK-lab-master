@@ -1,0 +1,24 @@
+---
+title: Heat-shock protein 90 (Hsp90)
+---
+
+
+# Direct Effects
+
+# Indirect effects
+
+
+# Abnormal Expression
+
+Abnormal expression of Hsp90 has been attributed to pulmonary arterial hypertension (PAH) @kokenyPPARgTGFvMajorRegulators2021.
+
+
+# Interplay
+
+Hsp90 may have a strong interaction with PPAR-&gamma; @kokenyPPARgTGFvMajorRegulators2021.
+Hsp90 can play a role to stabilize PPAR-&gamma; in liver cells and adipocytes @kokenyPPARgTGFvMajorRegulators2021.
+Thus when Hsp90 expression is increased, the PPAR-&gamma; experiences improvements in stability and levels.
+Hsp90 overexpression diminishes PPAR-&gamma; degredation @kokenyPPARgTGFvMajorRegulators2021.
+The opposite effect is also true, when Hsp90 is inhibited, PPAR-&gamma; levels are decreased @kokenyPPARgTGFvMajorRegulators2021.
+
+

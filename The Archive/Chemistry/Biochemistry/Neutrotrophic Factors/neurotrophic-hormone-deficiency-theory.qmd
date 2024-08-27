@@ -1,0 +1,73 @@
+---
+title: Neurotrophic Hormone Deficiency Theory
+---
+
+
+# Overview
+{{< meta title >}} was originally proposed by Appel et al., (1981) and is a modification to the Accelerated Aging Theory. This theory suggests that accelerated aging to particular neural areas is due to the presence of certain extrinsic factors @appelUnifyingHypothesisCause1981. The areas with these extrinsic factors experiencing accelerated aging (Degeneration) and are the  common underlying cause of [ALS]({{< var ref-amyotrophic-lateral-sclerosis.path >}}), Parkinsonism, and Alzheimer's Disease.
+
+
+# Commonalities of ALS, PD, and AD 
+To understand this theory, one must first understand the overlapping concepts of each of these diseases. 
+
+- All 3 diseases have changes in presynaptic neuronal input with secondary alterations of the target tissue @appelUnifyingHypothesisCause1981
+- All 3 diseases sporadically occur later in life and the incidence increases with age @appelUnifyingHypothesisCause1981
+- All 3  diseases have a familial form that occurs in 5-10% of patients @appelUnifyingHypothesisCause1981
+- Heavy metal intoxication is a secondary cause of these diseases @appelUnifyingHypothesisCause1981
+
+
+## Presynaptic neuron changes + Target tissue alterations
+
+- [ALS]({{< var ref-amyotrophic-lateral-sclerosis.path >}}) has changes in Betz cells, CN motor neurons, and anterior horn cells @appelUnifyingHypothesisCause1981
+- PD includes changes in Substantia nigra neurons @appelUnifyingHypothesisCause1981
+- Alzheimer's disease includes changes in the cholinergic input from nucleus basalis and septal neurons to cortex and hippocampus @appelUnifyingHypothesisCause1981
+
+## Secondary Heavy Metal Onset 
+- ALS: Lead @appelUnifyingHypothesisCause1981
+- PD: Manganese @appelUnifyingHypothesisCause1981
+- Alzheimer's Disease: Aluminum (evidence is weak) @appelUnifyingHypothesisCause1981
+
+# Accelerated Aging Theory
+The Neurotrophic Hormone Deficiency Theory adds onto the accelerated aging theory.
+The accelerated aging theory refers to the idea that the relevant neural areas are experiencing accelerated aging, and therefore and degenerating faster @appelUnifyingHypothesisCause1981. 
+
+## Advantages of the theory
+
+1. This theory explains why external causes such as viral nor abnormal factors have yet to be discovered for these 3 diseases.
+1. This theory helps to explain why there is a prevailing and consistent genetic incidence of ALS, PD, AD @appelUnifyingHypothesisCause1981
+1. Accelerated aging explains why disease incidence worsens with age @appelUnifyingHypothesisCause1981
+1. Lastly, this theory explains why external toxic factors such as heavy metal toxicity, trauma, viruses, infections, and vascular disease may increase the progression of these diseases
+
+## Disadvantages
+
+- It should be noted that this theory does not provide specific insight as to the selective vulnerability of these neuronal networks @appelUnifyingHypothesisCause1981.
+- This theory does not offer meaningful and potentially useful therapeutic approahes to ALS, PD, or dementia/AD @appelUnifyingHypothesisCause1981.
+
+# Mechanism
+Neurotrophic Hormone Deficiency Theory adds to the accelerated aging idea by suggesting that the areas that undergo accelerated aging is based on intrinsic neuronal properties @appelUnifyingHypothesisCause1981. 
+Specifically, this theory hypothesizes that that each disease (ALS, PD, AD), experiences degeneration due to diminished availability of a specific neurotrophic hormone @appelUnifyingHypothesisCause1981. 
+This neurotrophic hormone is normally released by the postsynaptic cell, taken up by the presynaptic terminal, and exerting its effect by retrograde transport up the presynaptic axon to the soma and nucleus @appelUnifyingHypothesisCause1981.
+
+## Practical examples of this theory
+
+### ALS
+In ALS, if the muscle cells fail to release appropriate or enough motor neurotrophic hormones then there will be a failure in the anterior horn cells @appelUnifyingHypothesisCause1981.
+Gradually, this will result in a gradual cessation of anterior horn cell function, resulting in cell death @appelUnifyingHypothesisCause1981.
+In the upp motor neurons, Betz cells would result from diminished release of neurotrophic hormone from the target neurons @appelUnifyingHypothesisCause1981.
+The target neurons of Betz cells cannot be defined further due to lack of knowledge on the subject @appelUnifyingHypothesisCause1981.
+
+### PD 
+
+- Striatal cells are unable to provide the requisite dopamine (neurotrophic hormone) @appelUnifyingHypothesisCause1981
+
+
+### Alzheimer's Disease
+
+- Hippocampus and cortical cells fail to supple the cholinergic neurotrophic hormone @appelUnifyingHypothesisCause1981
+
+
+# Implications
+
+If certain neural structures are degrading due to lack of a requisite neurotrophic hormone then restoring hormone levels may restore the failing presynpatic cells @appelUnifyingHypothesisCause1981.
+
+

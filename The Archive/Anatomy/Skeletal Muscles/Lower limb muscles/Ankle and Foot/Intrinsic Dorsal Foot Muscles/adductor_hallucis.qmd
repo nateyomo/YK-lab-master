@@ -1,0 +1,67 @@
+---
+title: Adductor Hallucis
+---
+
+:::{layout-ncol="3"}
+![Schematic of 3rd layer of Plantar Intrinsic Foot Muscles @gilroyAtlasAnatomy2020 </br> 1: Quadratus Plantae </br> 2: Lumbricals </br> 3: Flexor Hallucis Brevis </br> 4: Adductor hallucis </br> 5: Flexor digiti minimi </br> 6: Opponens digiti minimi </br> 7: Plantar interossei </br> 8: Dorsal Interossei](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.21b schematic intrinsic 3rd layer foot muscles.png)
+
+![3rd Layer of Intrinsic Plantar Foot Muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.22b intrinsic 3rd layer foot muscles.png)
+:::
+
+# Overview
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "adductor_hallucis"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Adductor Hallucis Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+3rd layer
+
+# Origin {#origin}
+
+- **Oblique head**: 
+    - Base of 2-4th metatarsals @gilroyAtlasAnatomy2020
+    - Cuboid @gilroyAtlasAnatomy2020
+    - Lateral cuneiform @gilroyAtlasAnatomy2020
+- **Transverse head**: 
+    - MTP joints of toes 3-5 @gilroyAtlasAnatomy2020
+    - Deep transverse lig. @gilroyAtlasAnatomy2020
+
+
+# Insertion {#insertion}
+
+Base of prox phalanx of 1st toe
+
+# Innervation {#innervation}
+
+[Lateral Plantar N. (*deep branch*)]({{< var ref-lateral-plantar-nerve.path >}}) ([S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **1st MTP**: Flexion @gilroyAtlasAnatomy2020
+- **1st Toe**: Adduction @gilroyAtlasAnatomy2020
+- **Transverse head**: supports transverse arch @gilroyAtlasAnatomy2020
+- **Oblique head**: Supports longitudinal arch @gilroyAtlasAnatomy2020
+
+
+
+# MMT 
+

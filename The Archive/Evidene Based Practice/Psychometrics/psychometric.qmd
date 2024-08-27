@@ -1,0 +1,41 @@
+---
+title: Psychometric Properties of Clinical tests
+---
+
+
+| Lab Test | If... | What is the chance that... |
+|-|-|-|
+| Sensitivity | The patient has a disease... | ...a lab result will be positive? |
+| Power | There is a difference between populations... | ...a result will be statistically significant? |
+| Specificity | The patient does not have the disease... | ...a lab result will be negative? |
+| 1-alpha | There is no difference between populations... | ...a result will not be statistically significant? |
+: {.striped .hover}
+
+
+# Understanding Different Psychometrics
+
+## Sensitivity & Reliability
+Sensitivity and Reliability are used to assess the performance of an alternative test *against* the gold standard @monaghanFoundationalStatisticalPrinciples2021a
+
+
+## Predictive Values
+
+- PPV and NPV reflect the proportion of positive and negative results that are true positives and true negatives @monaghanFoundationalStatisticalPrinciples2021.
+- PPV answers the question: "if I have a positive test, what is the probability that I actually have the disease?" @monaghanFoundationalStatisticalPrinciples2021
+- NPV answers the question: "if I have a negative test, what is the probability that I actually don’t have the disease?" @monaghanFoundationalStatisticalPrinciples2021
+
+$$
+\textrm{PPV} = \frac{\textrm{True Positives}}{\textrm{Test Positives}} = \frac{\textrm{True Positives}}{\textrm{True Positives} + \textrm{Test Positives}}
+$$
+
+$$
+\textrm{NPV} = \frac{\textrm{True Negatives}}{\textrm{Test Negatives}} = \frac{\textrm{True Negatives}}{\textrm{True Negatives} + \textrm{Test Negatives}}
+$$
+
+What makes Predictive values unique?
+
+- Unlike sens/specificity, PPV and NPV depend on the pre-test probability (determined by baseline risk factors)
+
+
+
+ (i.e., probability of the presence of the disease before a diagnostic test), which is determined by baseline risk factors such as disease prevalence

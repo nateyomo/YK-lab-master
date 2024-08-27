@@ -1,0 +1,57 @@
+---
+title: Lumbrical Muscles of the Hand
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Lumbricals (Hand)]({{< var ref-lumbricals-hand.path >}}) | {{< var ref-lumbricals-hand.origin >}} | {{< var ref-lumbricals-hand.insertion >}} | {{< var ref-lumbricals-hand.nerve >}} | {{< var ref-lumbricals-hand.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+- **1-2nd Lumbrical**: FDP Tendons (radial sides) @gilroyAtlasAnatomy2020
+- **3-4th Lumbrical**: FDP tendons (bipennate from medial and lateral sides) @gilroyAtlasAnatomy202
+
+
+
+# Insertion {#insertion}
+
+- **1st**: 2nd digit (DDE) @gilroyAtlasAnatomy202
+- **2nd**: 3rd digit (DDE) @gilroyAtlasAnatomy202
+- **3rd**: 4th digit (DDE) @gilroyAtlasAnatomy202
+- **4th**: 5th digit (DDE) @gilroyAtlasAnatomy202
+
+
+
+# Innervation {#innervation}
+
+
+- **1-2nd Lumbrical**: [Median N.]({{< var ref-median-nerve.path >}}) [@gilroyAtlasAnatomy2020; @yangInnervationLumbricalInterosseous2022]
+- **3-4th Lumbrical**: [Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) [@gilroyAtlasAnatomy2020; @yangInnervationLumbricalInterosseous2022]
+- ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
+
+
+
+
+
+# Action {#action}
+
+- **2-5 MCP**: Flexion @gilroyAtlasAnatomy2020
+- **2-5 PIP, DIP**: Extension @gilroyAtlasAnatomy2020
+
+
+
+
+# Notes
+
+
+
+# Examination
+
+- Bunnell-Littler Test
+- Claw hand

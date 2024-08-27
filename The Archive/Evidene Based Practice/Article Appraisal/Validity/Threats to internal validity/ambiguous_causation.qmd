@@ -1,0 +1,22 @@
+---
+title: Ambiguous Causation
+subtitle: A cause of study bias
+---
+
+Ambiguous causation refers to when correlations/associations between variables are incorrectly interpreted as causal effects.
+Ambiguous causation is an error committed by researchers when creating inferences from data. Researchers could take a correlation between "A" and "B" and then state that "A causes B" but even though there is a correlation, we cannot determine causation from correlation information alone.
+
+:::{.callout title="Example"}
+
+- Study concludes that reducing shoulder pain improves physical activity participation based on a negative correlation between pain and activity levels 
+- Researchers are performed ambiguous causation since they stated that shoulder pain *causes* them to decrease activity level.
+- Inferring this causation is premature since people who exercise more may hurt less since exercise may reduce pain.
+- We cannot determine whether exercise reduces pain or reducing pain improves exercise since either could be true
+
+How does this effect treatment effects?
+
+- We are not able to determine whether treatment effects are over/under estimated since correlations do **not** provide evidence of cause and effect tx effects.
+
+
+:::
+

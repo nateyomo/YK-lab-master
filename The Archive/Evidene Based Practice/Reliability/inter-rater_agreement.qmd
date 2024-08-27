@@ -1,0 +1,14 @@
+---
+title: Inter-Rater Agreement (IRA)
+---
+
+## Inter-rater Agreement (IRA) {#IRA}
+
+- Agreement is defined as the degree to which scores/ratings are identical
+- IRA indices, therefore, relate to the extent to which different raters assign the same precise value for each @gisevInterraterAgreementInterrater2013
+
+:::{.callout title="Tests of inter-rater agreement"}
+
+- Strictly IRA measures: Bland-Altman plots @gisevInterraterAgreementInterrater2013
+- others have been used in the literature as measures of both IRA and IRR (eg, Cohen's kappa) @gisevInterraterAgreementInterrater2013
+:::

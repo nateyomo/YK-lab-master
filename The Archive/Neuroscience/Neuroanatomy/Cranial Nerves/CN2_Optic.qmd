@@ -1,0 +1,44 @@
+---
+title: CN II Optic Nerve
+---
+
+```{mermaid}
+flowchart TD
+  A[Retina] -- Vision --> B[Optic Canal]
+  B --> C[\Optic Chiasm/]
+  C --> D[Lateral Geniculate nucleus of the Thalamus]
+  C --> E[Extrageniculate pathways]
+  
+  D --> F[Optic Radiation]
+  E --> F
+
+  F --> G[Visual Cortex]
+  G --> H{Vision}
+```
+
+# Overview
+CNII Optic Nerve is the only cranial nerve that is used to transmit information about vision to the brain.
+CNII is considered part of the CNS since it is myelinated using oligodendrocytes
+
+# Pathway
+
+Optic tract
+
+- Left optic tract: 
+    - Fibers: Left temporal (lateral) retina
+    - Fibers: Right nasal (medial) retina
+- Right optic tract
+    - Fibers: right temporal retina
+    - Fibers: Left nasal retina
+- Optic tract -> Lateral geniculate nucleus (relay system in thalamus) -> Optic radiation
+    - Upper optic radiation: Fibers from Superior Retinal Quadrants (inferior visual field) -> visual cortex
+    - Lower Optic Radiation: Fibers from Inferior retinal quadrants (superior visual field) -> Visual cortex
+
+1. Retinal photoreceptors
+2. Retinal bipolar neurons
+3. (Synapse) Retinal ganglion cells
+4. Optic nerve (Optic canal)
+5. (Decussate) Optic chiasm
+6. Optic tract
+7. (Synapse) Lateral geniculate nucleus in Thalamus -> 
+8. Optic radiations -> Occipital cortex

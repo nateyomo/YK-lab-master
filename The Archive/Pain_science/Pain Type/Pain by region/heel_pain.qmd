@@ -1,0 +1,12 @@
+---
+title: Heel Pain
+---
+
+
+# Common Causes
+
+# Adolescent Heel Pain
+
+[Sever's Disease (Calcaneal Apophysitis)]({{< var ref-calcaneus-bone.apophysitis >}}) is one of the most common causes of heel pain @smithSeverDiseaseCalcaneal2024.
+
+

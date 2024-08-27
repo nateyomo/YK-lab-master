@@ -1,0 +1,21 @@
+---
+title: Posterior Cutaneous Nerve of the Thigh
+---
+
+
+# Roots
+
+[S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}) @gilroyAtlasAnatomy2020
+
+# Pathway
+
+
+
+# Motor innervation
+
+# Cutaneous Innervation
+
+- Inferior clunial nn. @gilroyAtlasAnatomy2020
+- Perineal branches @gilroyAtlasAnatomy2020
+
+# Dysfunction 

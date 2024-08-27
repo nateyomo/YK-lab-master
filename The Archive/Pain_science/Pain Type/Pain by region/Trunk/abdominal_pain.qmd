@@ -1,0 +1,9 @@
+---
+title: Abdominal Pain
+---
+
+
+:::{.callout-note}
+
+- Welzack Chapter 53 A Clinical Perspective on Abdominal Pain @mcmahonWallMelzackTextbook2013
+:::

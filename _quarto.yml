@@ -1,0 +1,92 @@
+project:
+  type: website
+  output-dir: docs
+
+execute:
+  freeze: auto
+  error: true
+  cache: false
+
+#filters:
+ # - lightbox
+
+lightbox: auto
+
+author:
+- id: NGY
+  number: 1
+  name: 
+    given: Nathaniel
+    family: Yomogida
+  affiliation:
+    - Doctor of Physical Therapy
+    - B.S. in Kinesiology
+  degrees:
+    - B.S.
+    - SPT
+- id: CAK
+  number: 2
+  name: 
+    given: Chloë
+    family: Kerstein
+  affiliation:
+    - Doctor of Physical Therapy
+    - B.A. in Neuroscience
+    #- San Diego State University
+    #- Pomona College
+  degrees:
+    - B.S.
+    - SPT
+publisher: Yomogida-Kerstein Laboratory
+
+website:
+  favicon: "/images/brain-favicon.png"
+  page-navigation: true
+  search:
+    keyboard-shortcut: ["?", "H"]
+  title: "YK Lab"
+  site-url: https://nateyomo.github.io/Yomogida-Kerstein-Lab
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: The Archive/archive_index.qmd
+        text: Archive
+      - href: guide.qmd
+        text: Guide
+      - href: journal club index.qmd
+        text: Journal Club
+      - about.qmd
+      - href: contact.qmd
+        text: Contact
+
+citation:
+  type: post-weblog
+appendix-cite-as: display
+
+bibliography: The Archive/Bibliography/NGY CAK JVC Bibliography.bib
+csl: The Archive/Bibliography/american-medical-association.csl
+
+format:
+  html:
+    toc: true
+    toc-title: Contents
+    toc-location: right
+    number-sections: false
+    tbl-cap-location: top
+    theme:
+      light: cosmo
+      dark: darkly
+    mainfont: helvetica
+    fontsize: 14px
+    css: styles.css
+  #pdf:
+    #toc: true
+    #number-sections: true
+    #link-citations: true
+    #link-bibliography: true
+    #error: true
+  #typst:
+   #error: true
+   #toc: true
+

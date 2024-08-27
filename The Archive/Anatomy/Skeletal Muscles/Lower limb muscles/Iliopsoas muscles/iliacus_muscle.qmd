@@ -1,0 +1,23 @@
+---
+title: Iliacus Muscle
+---
+
+
+# Origin {#origin}
+Iliac fossa
+
+# Insertion {#insertion}
+Femur (lesser trochanter)
+
+# Innervation {#innervation}
+
+[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}})) @gilroyAtlasAnatomy2020 
+
+# Action {#action}
+
+- **Hip joint**: flexion and external rotation
+- **L/S**: unilateral contraction (with the femur fixed) flexes the trunk laterally to the same side; bilateral contraction raises the trunk from the supine position
+
+
+
+# Overview

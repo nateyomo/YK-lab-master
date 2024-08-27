@@ -1,0 +1,73 @@
+---
+title: Product-Moment Correlation Coefficient (r)
+---
+
+:::{.callout-note title="AKA"}
+
+- Pearson Product-Moment Correlation Coefficient (r)
+:::
+
+# Purpose
+Determine linear relationship between two continuous random variables @schoberCorrelationCoefficientsAppropriate2018
+
+Measure: Strength of the linear relationship (Covariance) @schoberCorrelationCoefficientsAppropriate2018
+
+- Results in Correlation Coefficient
+
+
+# Results
+
+The correlation coefficient (r) is the main result of a correlation.
+It is computed as the ratio of covariance between the variables to the product of their standard deviations.
+
+
+# Interpretation
+
+-1 to +1 @schoberCorrelationCoefficientsAppropriate2018
+
+| Strength | Value |
+|----------|-------|
+| Negligible | 0.00–0.10 @schoberCorrelationCoefficientsAppropriate2018 |
+| Weak | 0.10–0.39 @schoberCorrelationCoefficientsAppropriate2018 |
+| Moderate | 0.40–0.69 @schoberCorrelationCoefficientsAppropriate2018 |
+| Strong | 0.70–0.89 @schoberCorrelationCoefficientsAppropriate2018 |
+| Very strong | 0.90–1.00 @schoberCorrelationCoefficientsAppropriate2018 |
+| Perfect Correlation | -1 or +1 @schoberCorrelationCoefficientsAppropriate2018 |
+
+: Pearson product-moment correlation ($\rho$) interpretation {.striped .hover}
+
+
+
+# Interpretation
+
+Perfect correlation
+
+- -1 or +1
+- All the data points lie exactly on the straight line
+
+:::{.callout-note collapse="false"}
+You should always graph your results to ensure you arent missing correlations that **are not** linear
+:::
+
+![Graphs of varying  "r" values (From figure 1 of Schober et al. 2018 @schoberCorrelationCoefficientsAppropriate2018)](/The Archive/Evidene Based Practice/Multivariate Data Analysis/images/fig1 schoberCorrelationCoefficientsAppropriate2018.png)
+
+NOTE: these can be used by researchers to misrepresent data that is not linearly correlated @schoberCorrelationCoefficientsAppropriate2018
+
+Significance
+
+
+- T-Test?
+- P-value = correlation differs significantly from Zero
+
+# Compared to other analyses
+
+[see the comparison to other correlation statistical analyses]({{< var ref-comparison-correlation-analysis.path >}})
+
+:::{.callout-warning}
+"Many studies give the product–moment correlation coefficient (r) between the results of two measurement methods as an indicator of agreement. However, correlation studies the relationship between one variable and another, not the differences, and it is not recommended as a method for assessing the comparability between methods" @giavarinaUnderstandingBlandAltman2015 
+:::
+
+
+# Resources
+
+{{< video https://youtu.be/k7IctLRiZmo >}}

@@ -1,0 +1,7 @@
+---
+title: Hawkins-Kennedy Test
+---
+
+"The arm of the patient is passively flexed up to 90 degrees in the plane of the scapula. The arm is stabilized and the forearm is forced into IR (Fig. 16-54). In a systematic review and meta-analysis, Hegedus et al.121 demonstrated a sensitivity of 80% for the Hawkins-Kennedy test for SIS but overall poor specificity. It is thus unlikely that the Neer sign and Hawkins tests are identifying an actual condition but are more likely to be reproducing symptoms that may include underlying RC pathology.8" @duttonDuttonOrthopaedicExamination2020
+
+"Kennedy-Hawkins sign test was performed with the patient standing. The affected arm was forward-flexed 90° and then forcibly medially rotated. This test was considered positive if the patient complained of pain into the deltoid or anterior shoulder during the maneuver" @gillPhysicalExaminationPartial2007

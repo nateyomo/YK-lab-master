@@ -1,0 +1,120 @@
+---
+title: "Amyotrophic Lateral Sclerosis (ALS)"
+ 
+---
+
+:::{.callout title="Resources"}
+
+- Suzanne - Ch14 P546 @martinNeurologicInterventionsPhysical2021a 
+:::
+
+# How to study ALS 
+To study ALS, I would begin with a 5 minute video to get a quick overview and lay the mental foundation for the future topics such as: [Khan academy ALS video](https://www.youtube.com/watch?v=tKDET9t8VTI).
+
+The textbooks I recommend for further research or reference is:
+
+- (PT Specific) Physical rehabilitation - O'Sullivan @osullivanPhysicalRehabilitation2019
+- Neuromuscular disorders by Amato @amatoNeuromuscularDisorders2016
+- Umphred's neurological rehabilitation @lazaroUmphredNeurologicalRehabilitation2019
+- Continuum by AAN @goutmanDiagnosisClinicalManagement2017
+
+Lastly, I would then recommend going into true evidence based practice by using scientific articles to find up to date information on the topic.
+
+# introduction
+
+What does "Amyotrophic Lateral Sclerosis" even mean?
+
+- a --> no
+- myo --> muscle
+- Trophic --> Nourishment
+Thus Amyotrophic means "no muscle nourishment"
+
+Amyotrophic lateral sclerosis (ALS), AKA Lou Gehrig’s disease, is the most common and devastatingly fatal motor neuron disease (MND) among adults @osullivanPhysicalRehabilitation2019. ALS is characterized by the degeneration and loss of motor neurons in the spinal cord, brainstem, and brain, resulting in UMN and LMN clinical signs and symptoms @osullivanPhysicalRehabilitation2019. Recently, ALS is being recategorized as a multisystem disorder/syndrome with variable pathological involvement of extra-motor networks and connections, in addition to the LMNs and UMNs @osullivanPhysicalRehabilitation2019
+
+# Epidemiology
+
+:::{.callout-note}
+see Wolfson et al. (2023) @wolfsonGlobalPrevalenceIncidence2023  for updated 2023 global metrics
+:::
+
+
+## Age
+ALS can occur at any age but onset generally occurs in the mid-to-late 50s @osullivanPhysicalRehabilitation2019.
+
+## Gender
+Most studies have found that the disease affects men slightly more than women, with an approximate ratio of 1.7:1. After age 65, the gender difference decreases @osullivanPhysicalRehabilitation2019.
+
+## Family History
+About 5% to 10% of individuals have a family history of ALS (familial ALS, [FALS]) @osullivanPhysicalRehabilitation2019.
+Familial ALS is phenotypically and genetically heterogeneous @osullivanPhysicalRehabilitation2019.
+
+Most cases of FALS are autosomal dominant @osullivanPhysicalRehabilitation2019. Regardless, recessive and X-linked forms have been described @osullivanPhysicalRehabilitation2019. For example, the rare juvenileonset ALS is reported to be inherited in an autosomal recessive pattern @osullivanPhysicalRehabilitation2019. 
+
+### FALS Categorization
+FALS is categorized by mode of inheritance and further subcategorized by specific gene or chromosomal locus@osullivanPhysicalRehabilitation2019. 
+
+The very large majority of adult individuals with ALS have no family history of the disease (sporadic ALS) @osullivanPhysicalRehabilitation2019. 
+
+:::{.callout-note}
+A very small percentage of individuals with sporadic ALS do have a mutation in SOD1
+:::
+
+Over 20 chromosomal regions and a number of identified genes have been linked to ALS. 20% of hereditary ALS cases are attributed to one of 100+ mutations in [superoxide dismutase 1 (SOD1)]({{< var ref-sod1.path >}}) @osullivanPhysicalRehabilitation2019. 
+~50% of individuals with an SOD1 ALS variant are symptomatic by 46yrs, and 90% are symptomatic by 70 years of age @osullivanPhysicalRehabilitation2019. 
+
+## Onset
+
+- ~70% to 80% of individuals develop limb-onset ALS, with initial involvement in the extremities @osullivanPhysicalRehabilitation2019. 
+- 20% to 30% develop bulbar-onset ALS, with initial involvement in the bulbar muscles @osullivanPhysicalRehabilitation2019. 
+- Bulbar-onset ALS is more common in middle-aged women, and initial symptoms may include difficulty speaking, chewing, or swallowing @osullivanPhysicalRehabilitation2019
+
+| Subtype  | Nervous system pathology  |
+|--------|--------|
+| ALS  | Degeneration of the corticospinal tracts, neurons in the motor cortex and brainstem, and anterior horn cells in the spinal cord   |
+| Primary lateral sclerosis   | Degeneration of upper motor neurons   |
+| Progressive bulbar palsy | Degeneration of motor neurons of cranial nerves IX to XII   |
+| Progressive muscular atrophy | Loss or chromatolysis of motor neurons of the spinal cord and brainstem   |
+
+: Motor Neuron Diseases (MNDs) @osullivanPhysicalRehabilitation2019 {#tbl-motorneurondiseases .striped .hover}
+
+# Etiology
+
+Etiology for ALS is unknown, apart from the few hereditary cases @osullivanPhysicalRehabilitation2019.
+Current theories attribute ALS to be the summation of multiple mechanisms including: [oxidative stress]({{< var ref-oxidative-stress.path >}}), aberrant RNA processing, exogenous neurotoxicity, excitotoxicity, impaired axonal transportation, axonal dysfunction, mitochondrial disruption, protein misfolding, protein aggregation, apoptosis, and lifestyle factors that contribute to neuronal degeneration @osullivanPhysicalRehabilitation2019.
+
+## Disease-Causing mutations
+
+### SOD1 Mutation
+
+Mutations in [SOD1 gene]({{< var ref-sod1.path >}}) impact [Superoxide dismutases (SOD)]({{< var ref-superoxide-dismutases-group.path >}}) function, resulting in a *hypothesized* accumulation of free radicals that can lead to neurodegeneration @osullivanPhysicalRehabilitation2019.
+
+:::{callout.note}
+Most mutations in FALS have shown only modest reductions in enzyme activity @osullivanPhysicalRehabilitation2019. Leading researchers to believe that a mutant SOD1 protein may have actively toxic properties @osullivanPhysicalRehabilitation2019.
+:::
+
+## Glutamate
+
+A deficiency in [EAAT2]({{< var ref-EAAT2-excitatory-amino-acid-transporter-2.path >}}) results in excess [glutamate]({{< var ref-glutamate.path >}}) in the motor cortex and spinal cord @osullivanPhysicalRehabilitation2019. Excess [glutamate]({{< var ref-glutamate.path >}}) has been theorized to result in neurodegeneration via excitotoxicity @osullivanPhysicalRehabilitation2019
+
+## Neurofilament clumping
+A histopathologic characteristic of ALS is neurofilament proteins clumping into spheroids @osullivanPhysicalRehabilitation2019. 
+
+## Autoimmune reaction
+Several studies have demonstrated an autoimmune reaction contributing to the etiology of ALS @osullivanPhysicalRehabilitation2019.
+
+- Wolfgang et al., (1973) found serum factors that were toxic to anterior horn motor neurons in patients with ALS @osullivanPhysicalRehabilitation2019
+- Smith et al., (1992) identified antibodies to calcium channels in ALS patients @osullivanPhysicalRehabilitation2019
+
+## Neurotrophic Factor Deficiency 
+Some researchers hypothesize that a deficiency in neurotrophic factors:  ["Neurotrophic Hormone Deficiency Theory"]({{< var ref-neurotrophic-hormone-deficiency-theory.path >}}) @osullivanPhysicalRehabilitation2019. Studies on isolated motor neurons have demonstrated that neurotrophic factors are important in motor neuron survival @osullivanPhysicalRehabilitation2019. Although there is a theoretical link, results from post-mortem studies have been inconclusive @osullivanPhysicalRehabilitation2019.
+
+## Other Theories
+Other theories have been devised to explain the onset of ALS, but these have limited or indirect evidence @osullivanPhysicalRehabilitation2019.
+
+- Exogenous or environmental factors @osullivanPhysicalRehabilitation2019
+- Apoptosis @osullivanPhysicalRehabilitation2019
+- Viral infection @osullivanPhysicalRehabilitation2019
+
+# References{-}
+:::{#refs}
+:::

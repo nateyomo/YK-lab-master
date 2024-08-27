@@ -1,0 +1,108 @@
+---
+title: Headache (Overview)
+---
+
+Headache is one of the most common neurologic symptoms
+
+# Risk Factors
+
+- Gender: Women 3:1
+- Occupation: White collar workers > Blue collar workers
+
+# Pathophysiology
+
+The brain parenchyma lacks nociceptors, thus the headache must be referred from other sources @blumenfeldNeuroanatomyClinicalCases2022.
+Headache symptoms are caused by mechanical traction, inflammation, and/or irritation of innervated structures in the head @blumenfeldNeuroanatomyClinicalCases2022.
+These structures include:
+
+- Blood vessels @blumenfeldNeuroanatomyClinicalCases2022
+- Meninges @blumenfeldNeuroanatomyClinicalCases2022
+- Scalp @blumenfeldNeuroanatomyClinicalCases2022
+- Skull @blumenfeldNeuroanatomyClinicalCases2022
+
+
+The supratentorial dura (most of the intracranial cavity) is innervated by the trigeminal nerve (CN V), while the dura of the posterior fossa is innervated mainly by CN X, but also by CN IX and the first three cervical nerves. The close anatomical relation between pain systems in the spinal trigeminal nucleus and the dorsal horn of the first few cervical nerve roots (see Figure 14.5C,D) may explain the common co-occurrence of headache and neck pain.
+
+
+# Classification
+
+::: {.columns}
+::: {.column}
+## Primary headache
+
+- Migraine
+- Cluster headache 
+- Cervicogenic Headache (Trigeminal autonomic cephalgias)
+- Tension-type headache
+:::
+::: {.column}
+## Secondary headache
+
+- Head trauma @blumenfeldNeuroanatomyClinicalCases2022
+- Intracranial hemorrhage @blumenfeldNeuroanatomyClinicalCases2022 
+- Cerebral infarct @blumenfeldNeuroanatomyClinicalCases2022 
+- Carotid or vertebral artery dissection @blumenfeldNeuroanatomyClinicalCases2022 
+- Venous sinus thrombosis @blumenfeldNeuroanatomyClinicalCases2022
+- Reversible cerebral vasoconstriction syndrome @blumenfeldNeuroanatomyClinicalCases2022
+- Post-ictal headache @blumenfeldNeuroanatomyClinicalCases2022 
+- Hydrocephalus @blumenfeldNeuroanatomyClinicalCases2022 
+- Idiopathic intracranial hypertension (pseudotumor cerebri) @blumenfeldNeuroanatomyClinicalCases2022
+- Low CSF pressure Toxic or metabolic derangements @blumenfeldNeuroanatomyClinicalCases2022 
+- Meningitis @blumenfeldNeuroanatomyClinicalCases2022 
+- Epidural abscess @blumenfeldNeuroanatomyClinicalCases2022 
+- Vasculitis @blumenfeldNeuroanatomyClinicalCases2022
+- Neoplasm @blumenfeldNeuroanatomyClinicalCases2022
+- Trigeminal and other cranial neuralgias @blumenfeldNeuroanatomyClinicalCases2022
+- Disorders of the eyes, ears, sinuses, teeth, joints, or scalp @blumenfeldNeuroanatomyClinicalCases2022
+- Psychiatric disorders @blumenfeldNeuroanatomyClinicalCases2022
+:::
+:::
+
+# Primary Headaches
+
+
+
+:::{layout-ncol="4"}
+
+### Cervicogenic
+
+- Unilateral
+- Ramhorn pain pattern w neck ext
+- Non throbbing
+- Moderate non excruciating pain
+
+### Migraine
+
+- Drop in serotonin levels causing trigeminal n to release substances (neuropeptides) which travel to the brain’s meninges. Cause BV’s to become dilated and inflamed resulting in a HA. 
+- 4-72 hours, generally less than 24 hours
+- Unilateral usually, but can be bilateral
+- [Read more]({{< var ref-migraine.path >}})
+
+### Tension Type Headache
+
+- Bilateral
+- Periorbital, temporal , occipital
+- Dull ache, heavy weight, mod to severe
+- Can to trigger point release= typically stress and tension precipitating factors
+- Do not wake up with this, as day moves on it builds (usually d/t muscle tension)
+- [Read more]({{< var ref-tension-type-headache.path >}})
+
+### Cluster
+
+- Cluster headache
+- Unilateral
+- Temporal, frontal , retrooribtal, occipital 
+- Unknown cause
+- Diagnosis: Need at least 5 attacks unilaterally, lasting 15 min to 3 hours
+- [Read more]({{< var ref-headache.cluster >}})
+
+
+
+
+
+# Examination
+
+- Neurodynamic testing
+- Spurling's Test
+- Distraction test
+- Valsalva test

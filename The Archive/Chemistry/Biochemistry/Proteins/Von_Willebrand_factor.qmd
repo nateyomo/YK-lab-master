@@ -1,0 +1,12 @@
+---
+title: Von Willebrand Factor (vWF)
+---
+
+# Overview
+
+- vWF is a multimeric plasma protein present in blood plasma and platelets and produced in endothelium, megakaryocytic and subendothelial tissues @hassanStructureFunctionWillebrand2012
+- Facilitates hemostasis by stabilizing coagulation factor VII (a clotting protein, helps in platelet adhesion) and recruiting platelets to injured vessel wall or thrombi through interaction with GPIb-α @hassanStructureFunctionWillebrand2012
+
+# Clinical significance
+
+- Increase in vWF in the blood = indicator of endothelial injury @hassanStructureFunctionWillebrand2012

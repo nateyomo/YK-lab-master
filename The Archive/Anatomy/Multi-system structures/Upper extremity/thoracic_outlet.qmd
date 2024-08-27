@@ -1,0 +1,19 @@
+---
+title: Thoracic Outlet
+---
+
+The thoracic oulet refers to the space bordered by the first thoracic rib, [clavicle]({{< var ref-clavicle-bone.path >}}), [superior border of scapula]({{< var ref-scapula-bone.superior-border >}})
+
+# Pathway of structures
+
+
+- [Subclavian A]({{< var ref-subclavian-artery.path >}}) and [Inf trunk of the Brachial plexus]({{< var ref-brachial-plexus.inferior-trunk >}})
+    - Pass behind clavicle, into [costoclavicular space]({{< var ref-costoclavicular-space.path >}})
+    - Then passes then over [first rib]({{< var ref-1st-rib.path >}})
+    - Through [Ant]({{< var ref-anterior-scalene.path >}}) and [Middle scalene]({{< var ref-middle-scalene.path >}})
+    - Joined by subclavian vein
+
+# Dysfunction
+
+Thoracic Outlet Syndrome
+

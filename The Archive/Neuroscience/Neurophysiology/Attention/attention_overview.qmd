@@ -1,0 +1,12 @@
+---
+title: Attention
+---
+
+
+
+# Types
+
+- [Selective]({{< var ref-attention.selective >}}): The ability to attend to a task despite all of the other stimuli around
+- [Sustained]({{< var ref-attention.sustained >}}): The ability to maintain consistent response during a continuous activity
+- [Divided]({{< var ref-attention.divided >}}): The capacity to respond to 2+ stimuli
+- [Alternating]({{< var ref-attention.alternating >}}): The ability to move flexibly between tasks and respond appropriately to demands of each

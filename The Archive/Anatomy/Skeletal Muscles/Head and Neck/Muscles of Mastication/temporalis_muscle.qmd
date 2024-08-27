@@ -1,0 +1,34 @@
+---
+title: Temporalis muscle
+---
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Temporalis muscle]({{< var ref-temporalis.path >}}) | {{< var ref-temporalis.origin >}} | {{< var ref-temporalis.insertion >}} | {{< var ref-temporalis.nerve >}} | {{< var ref-temporalis.action >}} |
+
+# Origin {#origin}
+Temporal fossa (inferior temporal line) @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+Coronoid process of mandible (apex and medial surface) @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Mandibular (V~3~) divison of CN V via deep temporal nn]({{< var ref-cn5.path >}}) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+**Vertical fibers**: Elevate mandible; **Horizontal Fibers**: Retract (retrude) mandible; **Unilateral Fibers:** Lateral movement of mandible (chewing)  @gilroyAtlasAnatomy2020
+
+
+:::{.callout title="Neumann explanation"}
+"The temporalis is a flat, fan-shaped muscle that fills much of the concavity of the temporal fossa of the skull (see Fig. 11.17B). The superficial surface of the muscle is covered by and partially adhered to a relatively thick sheet of fascia, which limits the ease of palpating the belly of the muscle. From its cranial attachment, the temporalis forms a broad tendon that narrows distally as it passes through a space formed between the zygomatic arch and the lateral side of the skull (see Fig. 11.5). The muscle attaches distally to the coronoid process and to the anterior edge and medial surface of the ramus of the mandible (see Fig. 11.2). Bilateral contractions of the temporalis muscles elevate the mandible, producing a very effective biting force.91 The more oblique posterior fibers elevate and retrude the mandible. Similar to the masseter, the temporalis courses slightly medially as its approaches its distal attachment. Unilateral contraction of the temporalis, therefore, as when chewing in a side-to-side manner, causes slight ipsilateral excursion of the mandible (see Fig. 11.18). As explained for the masseter, the effectiveness of the temporalis for producing ipsilateral excursion is enhanced when the muscle is activated from a position of contralateral excursiona natural, cyclic kinematic pattern used while chewing." @neumannKinesiologyMusculoskeletalSystem2017
+:::
+
+# Palpation
+Temporalis is a thin sheet so use light pressure
+
+
+
+# Clinical Significance

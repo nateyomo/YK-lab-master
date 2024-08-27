@@ -1,0 +1,6 @@
+---
+title: Force Couple
+---
+
+
+A Force-Couple refers to two or more muscles that individually act in different linear directions, but when combined, can producing a *net* torque in the same rotary direction @neumannKinesiologyMusculoskeletalSystem2017

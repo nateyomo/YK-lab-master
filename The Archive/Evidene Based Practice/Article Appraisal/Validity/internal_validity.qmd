@@ -1,0 +1,52 @@
+---
+title: Internal Validity
+---
+
+
+Internal validity refers to the possibility that the the conclusions drawn from the results of the study accurately reflect the experiment itself @simMeasurementValidityPhysical1993.
+Internal validity determines whether the study was setup in a way that will accurately answer the initial question without influence of other variables.
+
+:::{.callout title="What is a study with internal validity?"}
+"If a study is internally valid, this means that any effects/changes or lack thereof in the dependent variable can be directly attributed to the manipulation of the independent variable" -Polgar & Thomas @simMeasurementValidityPhysical1993.
+:::
+
+# Types
+
+- Statistical Validity
+- Face Validity
+- Criterior-related Validity: 
+    - Concurrent Validity
+    - Predictive validity
+    - Prescriptive validity
+- Content validity
+- Construct validity
+- Convergent
+- Discriminant (Divergent)
+
+
+
+# Threats to Internal Validity {#threat}
+
+
+:::{layout-ncol="3"}
+
+### Systematic Error
+
+- [Attrition Effects]({{< var ref-error.systematic.attrition-effect >}})
+- [Maturation Bias]({{< var ref-error.systematic.maturation-bias >}}) refers to the error of assuming group change over time is due to the independent variable and not natural improvement over time. 
+
+
+- [Selection bias / selection effects]({{< var ref-study-effect.selection >}})
+- [Testing Effects]({{< var ref-error.systematic.testing-effect >}}): Systematic error created by a problem with the experimental setup that will create a difference in one group and not the other.
+- Ambiguous Causation: Error that occurs when researchers incorrectly interpret correlations/associations between variables as causal effects.
+- History Effects
+- Regression of the Mean
+
+
+
+:::
+
+
+
+
+

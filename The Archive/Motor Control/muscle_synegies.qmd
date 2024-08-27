@@ -1,0 +1,26 @@
+---
+title: Muscle Synergies
+---
+
+Muscle synergies refers to the hypothesis that the central nervous system (CNS) simplifies the planning and production of movement by using a combination of a limited number of spatial and/or temporal modules @brambillaPhasicTonicMuscle2023
+
+
+
+
+# Tonic & Phasic
+
+:::{.callout-note title="From MSK 2 lecture"}
+- Tonic vs phasic muscles
+    - Tonic muscles: those that hold u in the fetal position, usually flexion synergyish , more spastic
+        - “Phylogenetically older”. 
+        - you should STRETCH these muscles
+    - Phasic muscles: ones that open you (ie ER, supination): the opposite as above, ie ) traps: long and weak, constantly need to strengthen for better posture and function. 
+        - You should STRENGTHEN 
+    - Treatment:
+        An idea is if you have poor mm length on a tonic muscle, strengthen the opposite phasic muscles to reduce tone in the tonic muscle
+
+:::
+
+
+Read this article for more information about tonic/phasic muscles: @brambillaPhasicTonicMuscle2023
+

@@ -1,0 +1,13 @@
+---
+title: Percentage of Variation
+---
+
+:::{.callout title="AKA"}
+
+- Variation percentage
+:::
+
+Percentage of variations is the difference between two numbers, divided by the first number, then multiplied by 100
+
+
+

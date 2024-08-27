@@ -1,0 +1,5 @@
+---
+title: Diagnostic Accuracy
+---
+
+Diagnostic accuracy measures tell us about the ability of a test to discriminate between and/or predict disease and health @eusebiDiagnosticAccuracyMeasures2013

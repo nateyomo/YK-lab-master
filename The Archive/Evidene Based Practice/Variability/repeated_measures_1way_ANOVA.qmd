@@ -1,0 +1,15 @@
+---
+title: Repeated Measures One-way ANOVA
+---
+
+# One-way vs Repeated One-way
+
+The difference between ordinary and repeated-measures ANOVA is the same as the difference between the unpaired and paired t tests @motulskyIntuitiveBiostatisticsNonmathematical2018. 
+
+# When to Use
+
+Repeated measures ANOVA should be applied in three kinds of experiments:
+
+1. **Multiple measurements in multiple groups**: Measurements are made repeatedly for each subject, perhaps before, during, and after an intervention, and these repeated measurements make up the groups being compared by ANOVA @motulskyIntuitiveBiostatisticsNonmathematical2018.
+1. **Matched sets (AKA Blocks)**: Subjects are matched for variables (i.e. age, postal code, or diagnosis) and each subject in the set receives a different intervention (or placebo) @motulskyIntuitiveBiostatisticsNonmathematical2018.
+1. **Multiple treatments performed sequentially or parallel**: Experiment performed several times with different interventions (or a control and several treatments) handled in parallel @motulskyIntuitiveBiostatisticsNonmathematical2018.

@@ -1,0 +1,28 @@
+---
+title: Adjusted age in pediatrics
+---
+
+
+The adjusted age is used to determine the age a premature child would be if they had been born "on time" (40 weeks of gestation).
+This is an important calculation since it will help the clinician understand how developed the child should be at this point in time.
+A premature baby may be 1 year old, but if they were born 8 weeks premature, then their level of development should be at 10 months.
+
+# Calculation
+
+Adjusted age = Chronological age - (Prematurity)
+
+Adjusted age = Chronological age - (Full term - Actual term)
+
+Adjusted age = Chronological age - (40 weeks - Actual term)
+
+:::{.callout title="Example Calculation"}
+Baby who was born at 30 weeks of gestation on june 6 and the current date is December 10th
+
+Chronological age: 7 months 0 weeks 4 days
+
+Prematurity = (40 - 30 weeks of gestation) = 10 weeks premature
+
+Adjusted age = Chronological age - 10weeks
+
+Adjusted age = 4mo 2 weeks 4 days
+:::

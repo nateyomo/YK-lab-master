@@ -1,0 +1,40 @@
+---
+title: Lipid panel
+---
+
+
+
+| Value | Interpretation |
+|-|-|
+| <100 | Optimal |
+| 100-129 | Near optimal/Above optimal |
+|130-159 |Borderline High |
+|160-189 | High |
+| $\ge190$ | Very High |
+: LDL Cholesterol Interpretation {.striped .hover}
+
+
+| Value | Interpretation |
+|-|-|
+| <200 | Optimal |
+| 200-239 | Borderline High |
+| $\ge240$ | High (Hypercholesterolemia) |
+: Total Cholesterol (TC) Values {.striped .hover}
+
+
+| Value | Interpretation |
+|-|-|
+| <40 | Low |
+| $\ge60$ | Optimal |
+: HDL Cholesterol Values {.striped .hover}
+
+
+
+
+| Value | Interpretation |
+|-|-|
+| <150 | Optimal |
+| 150-199 | Borderline high |
+| 200-499 | High |
+| $\ge500$ | Very High |
+: Triglyceride Values {.striped .hover}

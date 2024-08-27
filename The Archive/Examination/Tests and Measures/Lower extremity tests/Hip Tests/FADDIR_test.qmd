@@ -1,0 +1,20 @@
+---
+title: FADDIR Test
+---
+
+:::{.callout title="AKA"}
+
+- Flexion Adduction Internal Rotation test (FADDIR Test)
+- Anterior impingement test @wongPhysicalExaminationHip2022
+:::
+
+"This provocative maneuver is used to assess presence of FAI and labral pathology (Table 1). This phenomenon was first noted by Reinhold Ganz in early descriptions of FAI [18]. The test has been described in both the supine and lateral recumbent position (with the affected side up). The examiner passively brings the hip into flexion, adduction, and internal rotation (Figure 4). Reproduction of pain is considered a positive test and diagnostic of FAI [16,19,20]. One study of patients with symptomatic hip pain evaluated the diagnostic accuracy of the anterior impingement test and FADDIR test, which they found to be 80%; however, their specificity was quite low at 26% and 24%, respectively [21]. Often a combination of physical exam maneuvers throughout a range of motion is the best way to dynamically stress the hip on exam to potentially reproduce the symptoms causing discomfort, and this was reflected in their same study, as the most specific maneuver was passive hip range of motion in an internally rotated and neutrally flexed hip [21]. When testing FADDIR specifically in 90° of hip flexion, this maneuver is sometimes referred to as the anterior impingement test [16,22]." @wongPhysicalExaminationHip2022
+
+
+# Psychometrics
+
+| Psychometric | Score |
+|-|-|
+| Sensitivity | 59-100% @wongPhysicalExaminationHip2022 |
+| Specificity | 10-100% @wongPhysicalExaminationHip2022 |
+| inter-rater reliability | 96% @wongPhysicalExaminationHip2022 |

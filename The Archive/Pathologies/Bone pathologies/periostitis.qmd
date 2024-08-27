@@ -1,0 +1,5 @@
+---
+title: Periostitis
+---
+
+Periostitis refers to a type of [stress injury]({{< var ref-stress-reactions-and-fractures.path >}}) involving inflammation of the **periosteum**

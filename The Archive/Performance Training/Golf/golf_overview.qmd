@@ -1,0 +1,11 @@
+---
+Title: Golf
+---
+
+# Golf swing
+
+A study found that amateurs use 90% peak muscle activity whereas professionals use 80% peak muscle activity @mchardyGolfInjuriesReview2006.
+This is something that should be avoided since it causes amateurs to place excessive load on the lumbar spine @mchardyGolfInjuriesReview2006.
+
+# Injuries
+[See "Golf Injuries"]({{< var ref-golf-injuries.path >}})

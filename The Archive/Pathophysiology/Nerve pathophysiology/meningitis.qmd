@@ -1,0 +1,12 @@
+---
+title: Meningitis
+subtitle: Inflammation and swelling of the meninges
+---
+
+
+
+# Causes
+
+## Infections
+
+- [Lyme Disease]({{< var ref-meningitis.lyme >}}) @roosNeurologicComplicationsLyme2021

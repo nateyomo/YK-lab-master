@@ -1,0 +1,71 @@
+---
+title: Total Hip Arthroplasty Anterior Approach
+---
+
+
+
+
+# Inpatient Rehab
+
+Currently, most THA patients are on "home rehabilitation programs" and are discharged the same day.
+
+## Precautions
+
+::: {.panel-tabset}
+
+## Kaiser
+
+1. Do NOT extend your leg behind the trunk
+    - Do NOT place your leg too far behind the trunk while walking
+    - Do NOT bridge
+    - Do NOT lie on your stomach
+1. Do NOT turn your surgical leg **outward** in bed or when turning while walking
+
+## Casa Colina
+
+1. Do NOT hyperextend at the hip
+1. Do NOT point the toes in or out
+1. Do NOT cross the legs or ankles
+1. Keep legs shoulder width apart
+1. Keep the surgical leg in front while transferring
+
+:::
+
+## AD Gait Training
+
+
+:::{layout-ncol="2"}
+### Forward walking
+
+1. Slide walker forward
+1. Move the surgical leg inside the walker
+1. bring the non-surgical leg to meet the surgical leg
+
+
+### Backward walking
+
+1. Non-surgical leg
+1. Surgical leg
+1. Slide the walker
+
+:::
+
+## AD Stair Training
+
+*"Up with good, down with bad"*
+
+:::{layout-ncol="2"}
+### Ascending
+
+Lead with your non-surgical leg going upi
+
+### Descending
+
+Lead with your surgical leg going down
+
+
+:::
+
+
+
+## Exercise program

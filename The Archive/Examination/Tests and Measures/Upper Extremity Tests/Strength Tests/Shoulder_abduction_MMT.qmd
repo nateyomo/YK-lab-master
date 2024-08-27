@@ -1,0 +1,8 @@
+---
+title: Shoulder Abduction MMT
+---
+
+
+# Accuracy
+
+Shoulder abduction MMT could only detect asymmetrical strength in shoulders when the involved shouulder was $\leq 78.9\%$ as strong compared to the non-involved side @nagatomiShoulderManualMuscle2017.

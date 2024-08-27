@@ -1,0 +1,42 @@
+---
+title: Surfing (Overview)
+---
+
+
+Fundamentals (1&2) as described by Brad Gerlach
+
+- Takeoff
+- Bottom Turn
+- Top Turn
+- Cutback
+- Tube Ride
+- Floater
+- Basic Air
+- Speed generation
+
+Fundamentals 3 as described by Brad Gerlach
+
+- Advanced Takeoff (FS & BS)
+- Advanced Bottom Turn (FS & BS)
+- Carve (FS & BS)
+- Advanced Cutback (FS & BS)
+- Advanced Tube Ride (FS & BS)
+- Advanced Floater (FS & BS)
+- Blowtail (FS & BS)
+- FS Layback
+- BS Top Turn
+
+
+
+
+# Duck dive
+{{< video https://www.youtube.com/watch?v=ELxAvt5eIJI >}}
+
+
+# Top Turn
+
+{{< video https://www.youtube.com/watch?v=SiLgfcAu6Gc >}}
+
+# Bottom Turn
+
+{{< video https://www.youtube.com/watch?v=HAH4QFu6iiQ >}}

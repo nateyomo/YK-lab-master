@@ -1,0 +1,34 @@
+---
+title: Acute Pain
+---
+
+:::{.callout-note}
+
+- Welzack Chapter 13 Autonomic, Endocrine, and Immune Interactions in Acute and Chronic Pain @mcmahonWallMelzackTextbook2013
+:::
+
+
+# Definition
+
+## Problems with traditional acute/chronic classification 
+
+Traditionally, Acute vs chronic pain has been defined based on an arbitrary time frame (3mo or 6mo) @ballantyneBonicaManagementPain2019.
+These criteria do not take into consideration
+
+- Intensity of pain @ballantyneBonicaManagementPain2019
+- Severity @ballantyneBonicaManagementPain2019
+- Nature of its impact on functioning or treatment-seeking behaviors @ballantyneBonicaManagementPain2019
+- Whether pain must be present every day @ballantyneBonicaManagementPain2019
+- How frequent it occurs in this interval @ballantyneBonicaManagementPain2019
+
+## New Classification
+A new classification was proposed conceptualizing acute and chronic pain on two dimensions: time and physical pathology @ballantyneBonicaManagementPain2019
+
+![Pictorial representation of acute and chronic pain @ballantyneBonicaManagementPain2019](/The Archive/Pain_science/images/fig2.1 Bonica acute vs chronic pain classification.png)
+
+Acute pain is the physiologic response to and experience of noxious stimuli that can become pathologic, is normally sudden in onset, is time-limited, and motivates behaviors to avoid potential or actual tissue injury @ballantyneBonicaManagementPain2019. 
+Pain is elicited by the injury of body tissues and activation of nociceptive transducers at the site of local tissue damage @ballantyneBonicaManagementPain2019. 
+The local injury alters the response characteristics of the nociceptors and perhaps their central connections and the autonomic nervous system in the region @ballantyneBonicaManagementPain2019. 
+In general, the state of acute pain lasts for a relatively limited time and remits when the underlying pathology resolves @ballantyneBonicaManagementPain2019. 
+This type of pain often serves as the impetus to seek health care, and it occurs following trauma, some disease processes, and invasive interventions @ballantyneBonicaManagementPain2019.
+

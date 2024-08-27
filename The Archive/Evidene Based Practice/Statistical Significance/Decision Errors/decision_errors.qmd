@@ -1,0 +1,67 @@
+---
+title: Decision Errors
+---
+
+
+
+
+
+
+# Type I Error {#type1}
+
+:::{layout-ncol="3"}
+### Overview
+- Occurs when the null hypothesis is true and you mistakenly reject it @aronStatisticsPsychology2013.
+
+### Significance Level
+
+- &alpha; refers to the chance of making a Type I Error (significance level)
+    - Lower &alpha; results in lower chance of Type I Error
+- Quantifying Type I error: p-value indicates the chance of making a type I Error
+    - p-value: 0.20 = 20% &alpha;
+    - p-value: 0.05 = 5% &alpha;
+
+### Prevention
+
+- Lower &alpha; is a way to prevent type I Error
+- Setting a lower signifiance level (p-value cutoff) decreases &alpha;
+
+:::
+
+
+# Type II Error {#type2}
+
+:::{layout-ncol="3"}
+
+### Overview
+
+- Type II Error occurs when the research hypothesis is true, but you erroneously conclude it is false (accept the null hypothesis) 
+- This occurs when the results are not extreme enough to be considered statistically significant @aronStatisticsPsychology2013.
+
+### Risk
+
+- Extremely low significance levels increase &beta; and chance to make a type II error @aronStatisticsPsychology2013
+
+### Significance Level
+
+- &beta; refers to the probability of making a type II error @aronStatisticsPsychology2013.
+- Higher p-cutoff score decreases &beta; (chance of making type II error) @aronStatisticsPsychology2013
+
+### Prevention
+
+- Setting a lenient signifiance level ($p < 0.10$ or $p < 0.20$) is a way to decrease chance of type II error (&beta;) @aronStatisticsPsychology2013
+
+:::
+
+::: {.callout-caution}
+Do not confuse &beta; when referring to type II error with "Standardized regressing coefficient (&beta;)" @aronStatisticsPsychology2013
+:::
+
+
+
+
+# Balancing Type I and II Error
+
+As seen above, if you decrease your p-value cutoff score, you are increasing &alpha; but decreasing &beta; @aronStatisticsPsychology2013.
+Thus it is impossible to fully prevent the chance of making Type I **and** type II error.
+Finding a balance between these two errors is the key to a good study.

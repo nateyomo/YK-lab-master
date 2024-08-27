@@ -1,0 +1,25 @@
+---
+title: Superoxide Dismutases
+---
+
+"Superoxide dismutases (SOD)" refer to a group of enzymes that catalyze the ____ reaction, which eliminates oxygen free radicals implicated in neurodegeneration @osullivanPhysicalRehabilitation2019. 
+
+:::{.callout-note}
+These oxygen free radicals are produced in normal cell metabolism, but nonetheless are still implicated in neurodegeneration @osullivanPhysicalRehabilitation2019
+:::
+
+hat, although products of normal cell metabolism, have been implicated in neurodegeneration. 
+
+
+
+# Types
+There are 3 human SOD isoform:
+
+1. Cytosolic copper-zinc superoxide dismutase ([CuZnSOD]({{< var ref-CuZnSOD-copper-zinc-superoxide-dismutase.path >}})) @osullivanPhysicalRehabilitation2019
+2. Mitochondrial manganese superoxide dismutase (MnSOD) @osullivanPhysicalRehabilitation2019
+3. Extracellular superoxide dismutase (ECSOD) @osullivanPhysicalRehabilitation2019
+
+SOD1, a gene on chromosome 21, encodes CuZnSOD. Genetic studies of individuals with adult-onset FALS have determined that about 20% of these individuals have mutations in SOD1; however, the primary gene defect is unknown. When the SOD enzyme activity is decreased, as has been observed in individuals with FALS with SOD1 mutations, free radicals may accumulate causing damage
+
+# Pathological implications
+

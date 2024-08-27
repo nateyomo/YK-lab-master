@@ -1,0 +1,11 @@
+---
+title: Oculocervicokinetic Reeducation
+---
+
+(exercises to address eye, head coordination to improve cervicocephalic anesthesia- ability to relocate accurately the head on the trunk after active mvmt in the horizontal plane) will be used @saturnoValidityReliabilityGuidelines2003
+
+
+# Indications
+
+- [Cervicoccephalic Anesthesia]({{< var ref-cervicocephalic-anesthesia.path >}}) @saturnoValidityReliabilityGuidelines2003
+- [Chronic Neck Pain]({{< var ref-n >}}) @saturnoValidityReliabilityGuidelines2003

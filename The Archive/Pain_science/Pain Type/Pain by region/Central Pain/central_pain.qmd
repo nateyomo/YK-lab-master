@@ -1,0 +1,12 @@
+---
+title: Central Pain
+---
+
+:::{.callout-note}
+
+- Welzak Chapter 69 Central Pain @mcmahonWallMelzackTextbook2013 
+:::
+
+# Summary
+
+"Central pain is defined as pain arising as a direct consequence of a lesion or disease affecting the somatosensory system in the central nervous system (CNS) and can be due to multiple causes such as stroke, injury, inflammation, congenital abnormalities, and immunological disorders. Although the underlying causes differ, central pain conditions seem to share the same two basic clinical characteristics: (1) partial or complete loss of sensation to spinothalamic functions, such as cold, warm, and pinprick sensitivity, and (2) development of hypersensitivity in body parts that have been deprived of their normal somatosensory information as a result of the CNS lesion. The pain may occur immediately or be delayed for weeks or months after the CNS lesion and can be both spontaneous and evoked, as well as both superficial and deep. Many patients with central pain complain of unpleasant sensations rather than frank pain. The pain is often described as burning, pricking, lancinating, icy, tearing, cutting, and squeezing, but no specific set of descriptors permits the diagnosis of central pain. Diagnosis requires a careful history and clinical examination, including a sensory examination, often supplemented by imaging studies to document a relevant pain-provoking lesion within the somatosensory system of the CNS. Quantitative sensory testing may occasionally be helpful to document the combination of both sensory loss and associated hypersensitivity in the body parts affected by pain. The mechanisms of central pain are not known, but the main hypotheses are (1) disinhibition, (2) sensitization, and (3) neuroplastic “maladaptive” changes in cell populations or structures within the CNS because of the loss of normal somatosensory input. Management of central pain is based on pharmacological and non-pharmacological strategies, both aiming at reducing symptoms and signs of neuronal hyperexcitability in the CNS." @mcmahonWallMelzackTextbook2013

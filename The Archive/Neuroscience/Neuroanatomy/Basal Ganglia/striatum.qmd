@@ -1,0 +1,21 @@
+---
+title: Striatum 
+---
+
+Primary input center of the basal nuclei
+
+Composed of the two input nuclei of the BG:
+
+- [Caudate Nucleus]({{< var ref-caudate-nucleus.path >}})
+- [Putamen]({{< var ref-putamen.path >}})
+
+
+
+
+
+# Interventions
+
+
+- Exercise is associated with increases in responsivity of the ventral striatum @sacheliExerciseIncreasesCaudate2019 
+    - Problem: This article based the conclusion off of percent change which has inherent issues
+

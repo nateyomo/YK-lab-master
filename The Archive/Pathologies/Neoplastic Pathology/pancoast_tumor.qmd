@@ -1,0 +1,11 @@
+---
+title: Pancoast Tumor
+---
+
+
+# Cervical Radiculopathy
+
+:::{.callout-note}
+
+- Vargo MM, Flood KM. Pancoast tumor presenting as cervical radiculopathy. Arch Phys Med Rehabil. 1990;71(8):606-609.
+:::

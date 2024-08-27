@@ -1,0 +1,26 @@
+---
+title: Blood Flow Restriction Training for Neurologic Populations
+---
+
+
+# Do PTs believe BFR should be used in Neuro Populations? 
+
+Cross-Sectional Survey study by Manago
+- States they found little evidence for BFR training in people with neuro conditions @managoClinicalUseBlood2022 
+- 112 PTs and other health care professionals who reported using BFR in the past 5 years were chosen via an anonymous online survey @managoClinicalUseBlood2022 
+- 89% believed BFR was safe in people with neuro conditions  @managoClinicalUseBlood2022 
+- 38% reported that they used BFR for people neuro conditions  @managoClinicalUseBlood2022 
+- Benefits noted: strength @managoClinicalUseBlood2022 
+- Conclusion: despite lack of evidence, many health care professionals (mostly PTs) believed clinical use of BFR with neuro conditions may be common @managoClinicalUseBlood2022. 
+
+# Systematic Review on Effectiveness of BFR in Pts with Neuro disorders  
+
+Vinolo-Gil MJ, Rodríguez-Huguet M, Martin-Vega FJ, Garcia-Munoz C, Lagares-Franco C, Garcia-Campanario I. Effectiveness of Blood Flow Restriction in Neurological Disorders: A Systematic Review. Healthcare (Basel). 2022 Nov 30;10(12):2407. doi: 10.3390/healthcare10122407. PMID: 36553931; PMCID: PMC9778162.
+
+
+
+# Risk
+
+:::{.callout-note}
+See "A Useful Blood Flow Restriction Training Risk Stratification for Exercise and Rehabilitation" @nascimentoUsefulBloodFlow2022 
+:::

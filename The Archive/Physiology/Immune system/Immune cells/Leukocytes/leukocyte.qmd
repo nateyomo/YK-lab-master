@@ -1,0 +1,21 @@
+---
+title: Leukocytes
+---
+
+Leukocytes are also known as white blood cells @nelsonLehningerPrinciplesBiochemistry2021
+
+"including macrophages and lymphocytes, all of which develop from undifferentiated stem cells in the bone marrow. Leukocytes can leave the bloodstream and patrol the tissues, each cell producing one or more proteins capable of recognizing and binding to molecules that might signal an infection" @nelsonLehningerPrinciplesBiochemistry2021
+
+
+# Subsystems
+
+The immune system is made up of 2 complementary systems: the **humoral immune system** and the **cellular immune system** @nelsonLehningerPrinciplesBiochemistry2021.
+
+## Humoral Immune System
+
+The humoral system's name, *humor*, which is latin for "fluid" @nelsonLehningerPrinciplesBiochemistry2021.
+The humoral system is directed at items int he bodily fluid, such as bacterial infections, extracellular viruses in the body fluid, and individual foreign proteins @nelsonLehningerPrinciplesBiochemistry2021.
+
+## Cellular Immune System
+The cellular immune system is directed at host cells which have viral infections, parasites, and foreign tissues @nelsonLehningerPrinciplesBiochemistry2021.
+

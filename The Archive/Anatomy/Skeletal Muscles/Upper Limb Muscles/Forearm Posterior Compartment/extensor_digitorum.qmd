@@ -1,0 +1,36 @@
+---
+title: Extensor Digitorum (ED)
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Extensor Digitorum]({{< var ref-extensor-digitorum.path >}}) | {{< var ref-extensor-digitorum.origin >}} | {{< var ref-extensor-digitorum.insertion >}} | {{< var ref-extensor-digitorum.nerve >}} | {{< var ref-extensor-digitorum.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+- Lateral epicondyle of humerus (*Common head of ED, EDM, ECU*) @gilroyAtlasAnatomy2020
+
+
+# Insertion {#insertion}
+
+Dorsal digital expansions of 2-5 digits @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **Wrist**: Extension @gilroyAtlasAnatomy2020
+- **MCP, PIP, DIP 2-5**: Extension/abduction @gilroyAtlasAnatomy2020
+
+
+
+
+# Notes

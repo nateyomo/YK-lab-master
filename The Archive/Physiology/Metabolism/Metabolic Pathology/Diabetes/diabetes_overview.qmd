@@ -1,0 +1,10 @@
+---
+title: Diabetes Overview
+---
+
+# Endocrine
+
+- Pathophysiology of Type 2 Diabetes Mellitus (Williams Endocrinology Ch34  @melmedWilliamsTextbookEndocrinology2020)
+- Therapeutics of Type 2 Diabetes Mellitus (Williams Endocrinology Ch35  @melmedWilliamsTextbookEndocrinology2020)
+- Type 1 Diabetes Mellitus (Williams Endocrinology Ch36  @melmedWilliamsTextbookEndocrinology2020)
+- Complications of Diabetes Mellitus (Williams Endocrinology Ch37  @melmedWilliamsTextbookEndocrinology2020)

@@ -1,0 +1,14 @@
+---
+title: Specificity
+subtitle: True negative rate
+---
+
+
+Negative predictive value reflect the proportion of positive and negative results that are true negatives @monaghanFoundationalStatisticalPrinciples2021.
+NPV answers the question: "if I have a negative test, what is the probability that I actually don’t have the disease?" @monaghanFoundationalStatisticalPrinciples2021
+
+
+# Clinical Significance
+
+One should use specificity (and sensitivity) as a way to assess the performance of a diagnostic test @monaghanFoundationalStatisticalPrinciples2021.
+To predict whether a particular person will truly have the disease based on a positive or negative test result, one should use [Positive predicitve value (PPV)]({{< var ref-psychometric.predictive-value.positive >}}) and [Negative predictive value (NPV)]({{< var ref-psychometric.predictive-value.negative >}}) @monaghanFoundationalStatisticalPrinciples2021.

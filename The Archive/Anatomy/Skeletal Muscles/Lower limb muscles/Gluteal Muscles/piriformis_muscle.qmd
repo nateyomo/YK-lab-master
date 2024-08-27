@@ -1,0 +1,58 @@
+---
+title: Piriformis Muscle
+---
+
+# OIAN
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "piriformis"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Piriformis Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Origin {#origin}
+Anterior surface of sacrum
+
+# Insertion {#insertion}
+
+Apex of the greater trochanter of the femur
+
+# Innervation {#innervation}
+
+Direct branches from sacral plexus [S1]({{< var ref-nerve-root.s1 >}}) and [S2]({{< var ref-nerve-root.s2 >}})
+
+# Action {#action}
+
+- Hip: External rotation, abduction, and extension of the hip joint
+- Stabilizes the hip joint
+
+
+# Overview
+
+
+# Pathologies
+
+- Piriformis Syndrome (Piriformis caused sciatica)
+- Piriformis Tendinitis
+
+
+## Piriformis tendinitis
+
+"Tenderness to deep palpation near the hook of the greater trochanter. Pain reproduced by piriformis stretch" @duttonDuttonOrthopaedicExamination2020 

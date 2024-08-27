@@ -1,0 +1,162 @@
+---
+title: Multidirectional Shoulder Instability (MDI)
+---
+
+
+Multidirectional instability (MDI) of the shoulder has many definitions within medical literature.
+Originally, MDI was described by Neer and Foster as shoulder instability/dislocations in 2 or more directions with little to no trauma [@longoMultidirectionalInstabilityShoulder2015; @klaptoczEffectivenessConservativeTreatment2021]
+
+# Epidemiology
+
+- Generally, MDI patients are young people who provoke a shoulder subluxation @klaptoczEffectivenessConservativeTreatment2021 
+    - Most commonly seen in the 20s and 30s @johnsonMultidirectionalShoulderInstability2024 
+    - Less common past 40 years old due to age related physiologic changes causing stiffening of the shoulder joint @johnsonMultidirectionalShoulderInstability2024 
+
+# Risk Factors
+
+"Multidirectional instability can be influenced by a number of coexisting anatomical factors. Neer and Foster [1] believe that the main cause of instability in an excessively large, loose joint capsule, while other authors also draw attention to morphological changes in the glenoidal cavity and failure of the glenohumeral ligament [2–4]. Ligamentous laxity, upon which this disease develops, may be congenital. In such case, the symptoms usually appear on both sides or are acquired through repetitive microtrauma during sports activities." @klaptoczEffectivenessConservativeTreatment2021 
+
+# Etiology
+
+There are two primary causes of Multidirectional Instability of the shoulder (MDI):
+
+1. Repetive Microtrauma [@johnsonMultidirectionalShoulderInstability2024; @longoMultidirectionalInstabilityShoulder2015]
+1. Generalized Connective Tissue Laxity [@johnsonMultidirectionalShoulderInstability2024; @longoMultidirectionalInstabilityShoulder2015]
+
+:::{layout-ncol="2"}
+
+### Repetitive Microtrauma
+
+- Repetitive microtrauma can lead to long term increases in glenohumeral volume and lead to decreased stability @longoMultidirectionalInstabilityShoulder2015
+- Repetitive Microtrauma is most commonly seen in overhead (OH) athletes @johnsonMultidirectionalShoulderInstability2024
+    - Baseball Pitchers @johnsonMultidirectionalShoulderInstability2024
+    - Volleyball @johnsonMultidirectionalShoulderInstability2024
+    - Gymnasts @johnsonMultidirectionalShoulderInstability2024
+    - Swimmers @johnsonMultidirectionalShoulderInstability2024
+
+### General CT Laxity
+
+- General laxity can caused by a number of disorders:
+    - Ehler-Danlos Syndrome @johnsonMultidirectionalShoulderInstability2024 
+    - Marfan Syndrome @johnsonMultidirectionalShoulderInstability2024
+    - Osteogenesis Imperfecta @johnsonMultidirectionalShoulderInstability2024
+    - Benign Joint Hypermobility Syndrome @johnsonMultidirectionalShoulderInstability2024
+    - And more
+:::
+
+# Pathophysiology
+
+- MDI can be described as an imbalance between the factors associated with shoulder mobility and shoulder stability resulting in an inability to maintain congruency of the glenohumeral joint @johnsonMultidirectionalShoulderInstability2024. 
+- Shoulder stabilizers:
+    - Static Stabilizers
+         Glenoid @johnsonMultidirectionalShoulderInstability2024 
+        - Glenoid labrum complex @johnsonMultidirectionalShoulderInstability2024
+        - Glenohumeral ligaments @johnsonMultidirectionalShoulderInstability2024 
+        - Negative joint pressure @johnsonMultidirectionalShoulderInstability2024 
+    - Dynamic Stabilizers
+        - Rotator Cuff @johnsonMultidirectionalShoulderInstability2024 
+        - Biceps Brachii Long Head @johnsonMultidirectionalShoulderInstability2024 
+
+
+
+# Clinical Presentation
+
+- The leading symptoms 
+    - Pain @klaptoczEffectivenessConservativeTreatment2021 
+    - Upper limb instability and disability with an abnormal movement pattern @klaptoczEffectivenessConservativeTreatment2021 
+
+# Associated Injuries
+
+- associated capsulolabral or bony lesions were reported in 16 studies @longoMultidirectionalInstabilityShoulder2015 
+- A bony lesion was found in 24 shoulders @longoMultidirectionalInstabilityShoulder2015 
+
+
+
+# Examination
+
+"Objective measures of glenohumeral laxity are not necessarily indicative of instability or the need for surgical management. Only when compensatory mechanisms fail may structural deficiencies become apparent, and patients may experience symptomatic instability. There is no pathognomonic finding for MDI, and no standardized criteria in the literature define MDI." @longoMultidirectionalInstabilityShoulder2015 
+
+- Sulcus sign was used in 3 of the studies @longoMultidirectionalInstabilityShoulder2015 
+
+## Joint Mobility
+
+- GHJ Hyperlaxity
+    - Present in 85% of patients with UPS @renUnstablePainfulShoulder2013 
+
+:::{.callout-note}
+Shoulder joint laxity itself is not a sign of concern. The clinician should be looking for joint laxity in the presence of pain @johnsonMultidirectionalShoulderInstability2024.
+:::
+
+## Aggravating Tests
+
+- Anterior Apprehension Test
+- Posterior and Anterior Load & Shift Test @johnsonMultidirectionalShoulderInstability2024
+    - Can be positive in these patients
+- Sulcus Sign/Test
+    - The most consistent finding in MDI @johnsonMultidirectionalShoulderInstability2024
+    - Indicative of a loose rotator interval @johnsonMultidirectionalShoulderInstability2024
+    
+- Gagey Hyperabduction Test
+
+## Easing Tests
+
+- Jobe Relocation Test @renUnstablePainfulShoulder2013 
+
+## Patient Reported Outcomes
+
+- Rowe Score
+- Single Assessment Numeric Evaluation (SANE) score 
+
+# DDX
+
+Other pathologies should be ruled out before diagnosing a patient with MDI:
+
+- Unidirectional instability @johnsonMultidirectionalShoulderInstability2024
+- Cervical spine disease @johnsonMultidirectionalShoulderInstability2024
+- Os Acromiale @johnsonMultidirectionalShoulderInstability2024
+- [Thoracic Outlet Syndrome]({{< var ref-thoracic-outlet.syndrome >}}) @johnsonMultidirectionalShoulderInstability2024
+
+# Prognosis
+
+MDI is considered to have a good prognosis and that is why long periods of physical therapy (3-6 months) are generally recommended before invasive treatment @johnsonMultidirectionalShoulderInstability2024.
+
+# Management
+
+Tests for goal setting
+
+- ER/IR Ratio
+- Modified ROWE Score
+- 
+
+## Surgical managements
+
+- 372 (43%) shoulders MDI was managed arthroscopically @longoMultidirectionalInstabilityShoulder2015 
+- 226 (26%) shoulders,18,21,24-27,31,33 an open capsular shift procedure was used @longoMultidirectionalInstabilityShoulder2015 
+- Bankart repair in 5 (0.6%) shoulders @longoMultidirectionalInstabilityShoulder2015 
+- Anterior or posterior hamstring graft reconstruction in 3 (0.3%) shoulders @longbrakeMyelinOligodendrocyteGlycoprotein2022 
+- Posterior bone block and posterior shift in 2 (0.2%) shoulders @longoMultidirectionalInstabilityShoulder2015 
+- reported arthroscopic thermal capsular shrinkage for MDI @longoMultidirectionalInstabilityShoulder2015 
+- 55 (6%) shoulders, reported arthroscopic laser-assisted capsulorrhaphy @longoMultidirectionalInstabilityShoulder2015 
+- Arthroscopic plication was performed in the remaining 268 (31%) shoulders @longoMultidirectionalInstabilityShoulder2015 
+- Forty-seven shoulders15 also underwent thermal capsular shrinkage after arthroscopic plication because the capsule was considered insufficiently tightened @longoMultidirectionalInstabilityShoulder2015
+
+
+# Conservative Management
+
+- 29% of the participants underwent conservative management in @longoMultidirectionalInstabilityShoulder2015 
+
+In physical therapy, the primary approach with treatment will be to correct the imbalance between shoulder stabilization and shoulder mobility by focusing on the dynamic stabilizers of the shoulder @johnsonMultidirectionalShoulderInstability2024.
+
+- Training RTC
+- Training Periscapular musculature
+- CKC exercises should be implemented to improve neuromuscular co-contraction during coordinated movements @johnsonMultidirectionalShoulderInstability2024
+
+:::{.callout-note}
+Conservative treatment is recommended for 3-6 months before more aggressive and invasive treatments should be considered @johnsonMultidirectionalShoulderInstability2024
+:::
+
+"In all patients presenting with MDI, a first rehabilitative course is warranted. Neer stated that initial treatment of MDI should consider a change in lifestyle, use within pain limits, and exercises below the horizontal to strengthen the rotator and deltoid muscles" @longoMultidirectionalInstabilityShoulder2015 
+
+"The nonsurgical goal is to improve the efficiency of dynamic glenohumeral stabilizers. Strengthening of the rotator cuff may improve concavity compression with improved humeral head centering, leading to a functional reduction of instability.8 Proprioceptive exercise programs, scapulothoracic training, and core stability are the main columns of nonsurgical management. Motivated patients with appropriate protocols typically respond well and may not need further management.9 However, variable results have been reported." @longoMultidirectionalInstabilityShoulder2015
+
+@klaptoczEffectivenessConservativeTreatment2021 

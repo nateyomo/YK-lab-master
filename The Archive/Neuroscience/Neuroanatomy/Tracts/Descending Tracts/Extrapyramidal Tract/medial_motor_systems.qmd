@@ -1,0 +1,45 @@
+---
+title: Medial Motor Systems
+---
+
+# Medial Motor Systems
+
+Medial motor systems refer to the 4 descending spinal tracts:
+
+- [Medial Corticospinal tract]({{< var ref-medial-corticospinal-tract.path >}}) @blumenfeldNeuroanatomyClinicalCases2022
+- [Vestibulospinal tracts (VSTs)]({{< var ref-vestibulospinal-tract.path >}}) @blumenfeldNeuroanatomyClinicalCases2022
+    - [Medial VST]({{< var ref-vestibulospinal-tract.medial >}}) @blumenfeldNeuroanatomyClinicalCases2022
+    - [Lateral VST]({{< var ref-vestibulospinal-tract.lateral >}})  @blumenfeldNeuroanatomyClinicalCases2022
+- [Reticulospinal tracts]({{< var ref-reticulospinal-tract.path >}})  @blumenfeldNeuroanatomyClinicalCases2022
+- [Tectospinal tracts]({{< var ref-tectospinal-tract.path >}}) @blumenfeldNeuroanatomyClinicalCases2022
+
+:::{.callout-note}
+All of these tracts besides Medial Corticospinal tract are [extrapyramidal tracts]({{< var ref-extrapyramidal-tracts.path >}})
+:::
+
+![Somatotopic organization of medial and lateral motor system Projections to Anterior Horn Cells @blumenfeldNeuroanatomyClinicalCases2022](/The Archive/Neuroscience/Neuroanatomy/Tracts/images/fig.6.7 Blumenfeld somatotopic organization of medial and lateral motor systems.png)
+
+# Pathway
+
+The medial motor systems descend ipsilaterally or bilaterally.
+
+
+Some extend only to the upper few cervical segments (see Table 6.3; Figure 6.11C–E).
+The number of segments each extend vary:
+
+- The [Lateral VST]({{< var ref-vestibulospinal-tract.lateral >}}) extends the entire cord @blumenfeldNeuroanatomyClinicalCases2022
+- The [Reticulospinal tracts]({{< var ref-reticulospinal-tract.path >}}) extends the entire cord @blumenfeldNeuroanatomyClinicalCases2022
+- The [Medial Corticospinal tract]({{< var ref-medial-corticospinal-tract.path >}}) extends to the cervical and upper thoracic cord @blumenfeldNeuroanatomyClinicalCases2022
+- The [Medial VST]({{< var ref-vestibulospinal-tract.medial >}}) extends to the cervical and upper thoracic cord @blumenfeldNeuroanatomyClinicalCases2022
+- The [Tectospinal tracts]({{< var ref-tectospinal-tract.path >}}) only extends to the cervical cord @blumenfeldNeuroanatomyClinicalCases2022
+
+
+# Function
+
+The medial motor systems send motor efferent to the proximal axial and girdle muscles which allow for:
+
+- Postural tone @blumenfeldNeuroanatomyClinicalCases2022
+- Balance  @blumenfeldNeuroanatomyClinicalCases2022
+- Orienting movements of the head and neck @blumenfeldNeuroanatomyClinicalCases2022
+- Automatic gait-related movements  @blumenfeldNeuroanatomyClinicalCases2022 
+

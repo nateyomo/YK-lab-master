@@ -1,0 +1,19 @@
+---
+title: Cyriax Release Maneuver
+---
+
+# Technique
+
+- The patient is seated with elbows flexed to 90°
+- Place towels under elbows to created passive shoulder girdle elevation
+- Support the patient's spine and instruct them to maintain a neutral head position
+- The forearms and wrists are positioned in neutral
+- Hold this position until peripheral symptoms are produced
+- Patient should allow symptoms to occur as tolerated up to 30 minutes
+- Observe for symptom decrease over time @hooperpart2ThoracicOutletSyndrome2010a
+
+![Cyriax Maneuver from Hooper et al. @hooperpart2ThoracicOutletSyndrome2010a](/The Archive/Interventions/Upper Extremity/images/hooperpart2 fig1 cyriax release maneuver.jpeg)
+
+# Indications
+
+- Helps with [thoracic outlet syndrome]({{< var ref-thoracic-outlet.syndrome >}}) @hooperpart2ThoracicOutletSyndrome2010a

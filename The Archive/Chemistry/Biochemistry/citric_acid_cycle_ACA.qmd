@@ -1,0 +1,14 @@
+---
+title: Citric Acid Cycle (CAC)
+---
+
+:::{.callout title="AKA"}
+
+- Kreb's Cycle
+- Citric Acid Cycle
+- Tricarboxylic acid (TCA) cycle
+:::
+
+:::{.callout}
+CHAPTER 16 THE CITRIC ACID CYCLE @nelsonLehningerPrinciplesBiochemistry2021
+:::

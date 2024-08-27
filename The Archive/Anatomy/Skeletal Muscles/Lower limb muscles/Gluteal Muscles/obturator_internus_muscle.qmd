@@ -1,0 +1,57 @@
+---
+title: Obturator Internus Muscle (OI)
+---
+
+# Overview
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "obturator_internus"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Obturator Internus Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+
+# Origin {#origin}
+
+Inner surface of the obturator membrane and its bony boundaries @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+Medial surface of the greater trochanter @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+Sacral plexus ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+- External rotation and extension of the hip joint (also active in abduction, depending on the joint’s position) @gilroyAtlasAnatomy2020
+- Stabilizes hip joint -DrK
+
+
+
+# Function
+
+
+“Ultrasound ­guided EMG analysis of the obturator internus and several other external rotator muscles in 10 human subjects.98 The obturator internus was usually the first muscle to become active during a gradually increasing isometric effort to abduct and externally rotate the hip.” @neumannKinesiologyMusculoskeletalSystem2017
+
+
+# Stretch
+
+Child's Pose stretch can be used to stretch the Obturator Internus muscle.
+By cueing the knees to stay straight instead of moving into hip ER, this better stretches the obturator internus.

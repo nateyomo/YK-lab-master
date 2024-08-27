@@ -1,0 +1,38 @@
+---
+title: Abductor Pollicis Brevis (APB)
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Abductor Pollicis Brevis]({{< var ref-abductor-pollicis-brevis.path >}}) | {{< var ref-abductor-pollicis-brevis.origin >}} | {{< var ref-abductor-pollicis-brevis.insertion >}} | {{< var ref-abductor-pollicis-brevis.nerve >}} | {{< var ref-abductor-pollicis-brevis.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+- Flexor retinaculum @gilroyAtlasAnatomy2020
+- Scaphoid @gilroyAtlasAnatomy2020
+- Trapezium @gilroyAtlasAnatomy2020
+
+
+
+# Insertion {#insertion}
+
+Lateral side of base of 1st proximal phalanx
+(*via radial seasamoid*) @gilroyAtlasAnatomy2020
+
+
+
+# Innervation {#innervation}
+[Recurrent Br. of Median N.]({{< var ref-recurrent-branch-of-median-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020 
+# Action {#action}
+
+**1st CMC**: Abduction @gilroyAtlasAnatomy2020
+
+
+
+# Notes

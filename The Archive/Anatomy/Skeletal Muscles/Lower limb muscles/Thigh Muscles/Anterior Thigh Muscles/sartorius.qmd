@@ -1,0 +1,58 @@
+---
+title: Sartorius Muscle
+---
+
+:::{layout-ncol="2"}
+
+![Schematic of Anterior Thigh Muscles @gilroyAtlasAnatomy2020 </br> 1: Sartorius </br> 2: Rectus Femoris </br> 3: Vastus Medialis </br> 4: Vastus Lateralis </br> Vastus Intermedius](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24a anterior thigh muscles schematic.png)
+
+![Superficial Layer of Anterior Thigh Muscle @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24b anterior thigh muscles superficial layer.png)
+
+:::
+
+# Overview
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "sartorius"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Sartorius Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Origin {#origin}
+[ASIS]({{< var ref-coxal-bone.asis >}})
+
+# Insertion {#insertion}
+
+Medial to the Tibial Tuberosity ([Pes Anserine]({{< var ref-pes-anserine >}})) @gilroyAtlasAnatomy2020
+
+
+# Nerve
+[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}})) @gilroyAtlasAnatomy2020 
+
+# Action {#action}
+
+- **Hip**: Flexion, ER, ABD @gilroyAtlasAnatomy2020 
+- **Knee**: Flexion, IR @gilroyAtlasAnatomy2020 
+
+
+
+# Overview
+
+"sartorius, the longest muscle in the body, originates at the anterior­superior iliac spine (see Fig. 12.26). This thin, fusiform muscle courses distally and medially across the thigh to attach on the medial surface of the proximal tibia (see Fig. 13.7). The name sartorius is based on the Latin root sartor, referring to a tailor’s position of cross­legged sitting, which happens to describe the muscle’s combined action of hip flexion, external rotation, and abduction." @neumannKinesiologyMusculoskeletalSystem2017

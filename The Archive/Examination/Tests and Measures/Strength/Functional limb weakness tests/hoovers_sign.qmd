@@ -1,0 +1,29 @@
+---
+title: Hoover's Sign
+subtitle: Special test for Functional limb weakness
+---
+
+![Hoover’s sign is considered positive if there is weakness of hip extension (left) which returns to normal with contralateral hip flexion against resistance (right) @bennettPracticalReviewFunctional2021.](/The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/images/bennettPracticalReviewFunctional2021 fig1 hoovers sign.png)
+
+# Purpose
+
+A clinician can check for [Hoover's sign]({{< var ref-hoovers-sign.path >}}) in order to differentaite between general hip extension weakness and *functional* hip extension weakness.
+
+# Technique
+
+*assuming the L hip is demonstrating weakness*
+
+- Patient goes into hip extension against resistance with L leg
+- Test patient's ability to perform resisted hip flexion on the *right* leg which indirectly tests hip extension on the left leg.
+- If the patient has L hip extension weakness against direct resistance, but has sufficient strength against resistance with R hip flexion, this is considered positive
+
+
+# to Organize
+
+"Hoover’s sign was also tested in every subject. In the supine position, the patient is told to lift one extended leg, and the examiner exerts an opposing downward pressure on the lifted leg. At the same time, the examiner places his other hand under the heel of the unlifted leg, and evaluates the synergic downward pressure by exerting an opposing upward force. " @sonooAbductorSignReliable2004
+
+"Hoover’s original description indicated that the sign is composed of two separate tests.8 The first, here named Hoover’s test 1, examines the complementary opposition of the paretic leg when the sound leg is lifted. This downward pressure is compared against the strength of the hip extensor manually tested beforehand. The paresis was judged to be non-organic if the paretic leg exerted full downward opposition, stronger than the manually tested strength. The paresis was judged to be organic if the downward pressure was equally weak to the manually tested strength. When the manually tested strength of the hip extensor was full, this test was not diagnostic. " @sonooAbductorSignReliable2004
+
+"Hoover’s test 2 examines the complementary opposition of the sound leg when the patient lifts or attempts to lift the paretic leg. When the sound leg exerts only weak downward pressure and is passively lifted by the examiner’s hand, the paresis is judged to be non-organic. A normally strong downward opposition of the sound leg suggests organic paresis. When the manually tested strength of the hip flexor is full, this test is not diagnostic. " @sonooAbductorSignReliable2004
+
+"We judged that Hoover’s sign as a whole indicated nonorganic paresis if at least one of the two tests suggested nonorganic paresis, because both phenomena indicating nonorganic paresis were unlikely to occur in organic paresis." @sonooAbductorSignReliable2004

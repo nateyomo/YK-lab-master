@@ -1,0 +1,46 @@
+---
+title: Stroke
+---
+
+:::{.callout title="Resources"}
+
+- Suzanne - Ch11 Stroke @martinNeurologicInterventionsPhysical2021a 
+:::
+
+
+# Motor control
+
+Focus on "forced use" facilitation to encourage use of impaired side.
+
+
+# Lateropulsion
+
+- Lateropulsion
+- Pusher Syndrome
+
+# Symptoms
+
+## Pain
+
+Central pain (See )
+
+## Weakness
+
+- [Hemiparetic arm](/The Archive/Neuroscience/Neuropathology/Stroke/hemiparetic_arm.qmd)
+
+
+# Secondary Impairments & Problems
+
+:::{.callout-note title="In class notes"}
+
+- DVT/ PE
+- Decreased ROM
+- Contractures
+- Depression
+- Shoulder Subluxation/ Pain
+- Decreased Endurance
+- Generalized Weakness
+- Atrophy
+- Multiple System Deconditioning
+- Pain: Bed sores, Tight Muscles
+:::

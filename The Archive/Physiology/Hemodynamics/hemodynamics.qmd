@@ -1,0 +1,31 @@
+---
+title: Hemodynamics
+---
+
+
+# Stroke volume
+
+- 55-100 ml/beat
+- Three factors that can affect it=
+    - Preload: Max volume of blood in L ventricle (LVEDV = L ventricular end diastolic volume)2
+    - Inotropy: ability of ventricle to contract 
+    - Afterload: force L ventricle must generate during systole to overcome aortic p to open aortic valve
+
+# Cardiac output
+
+- Amount of blood d/c’d from L or R ventricle per minute
+
+$$ 
+\textrm{Cardiac Output} = (\textrm{Stroke Volume}) \times (\textrm{Heart Rate})
+$$
+
+- Average adult: 4-5 L/min
+
+# Ejection fraction
+
+- Percent of blood emptied from ventricle during systole
+- Average = 60-70%
+
+$$
+\textrm{Ejection Fraction} = \frac{\textrm{Stroke Volume}}{\textrm{Left Ventricular End Diastolic Volume (LVEDV)}}
+$$

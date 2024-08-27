@@ -1,0 +1,162 @@
+---
+title: Acetabular Labral Tear
+---
+
+<!--
+(physiotherapy[mesh] OR "physical therapy") AND ("acetabular labrum" OR "hip labrum" OR "acetabular labral"))
+
+RSS: https://pubmed.ncbi.nlm.nih.gov/rss/search/12GmDGiSiGA9an2dCnaxh7UeJzoUuW2XY3nhnH1ddqVM3ddQTt/?limit=15&utm_campaign=pubmed-2&fc=20240818001845
+-->
+
+
+
+# Dutton
+
+"Acetabular Labral Tear Labral tears of the hip are more common than previously thought. In patients with mechanical hip pain, the prevalence of labral tears has been reported to be as high as 90%.7,173 In studies of people with a tear of the labrum, researchers have attributed the injury to a variety of causes.44 Mechanical impingement and/or instability of the femoroacetabular joint are believed to be common causes of labral chondral pathology. Direct trauma, sporting activities, and certain movements of the hip including torsional or twisting movements have been cited to cause labral tears.44 However, a large percentage of labral tears are not associated with any known specific event or cause and may occur insidiously.168" @duttonDuttonOrthopaedicExamination2020
+
+"Acetabular labral tears represent the most common cause for mechanical hip symptoms. In a recent study, they were found to be the cause of groin pain in more than 20% of athletes presenting with groin pain.174" @duttonDuttonOrthopaedicExamination2020
+
+
+# Etiology
+
+Two common types of scenarios have been recognized:
+
+1. "A young person with a twisting injury to the hip, usually an external rotation force in a hyperextended position. " @duttonDuttonOrthopaedicExamination2020
+1. "An older person with a history of hip and/or acetabular dysplasia, or the result of repeated pivoting and twisting." @duttonDuttonOrthopaedicExamination2020
+
+# Etiology
+
+"Etiology. Tears can be degenerative, dysplastic, traumatic, or idiopathic. Degenerative tears can also be seen in association with inflammatory arthropathies. Traumatic labral tears often present with immediate sharp pain and mechanical symptoms such as catching, locking, or clicking.2 In the cases of an insidious onset, a dull type pain is described as intermittent sharp pain occurring with certain movements; typically, hip internal or external rotation.176" @duttonDuttonOrthopaedicExamination2020
+
+# Classification
+
+Labral tears can be classified according to:
+
+1. Location @duttonDuttonOrthopaedicExamination2020
+1. Etiology @duttonDuttonOrthopaedicExamination2020
+1. Type @duttonDuttonOrthopaedicExamination2020 
+
+# Type
+
+Labral tears have been classified into four types: @duttonDuttonOrthopaedicExamination2020
+
+1. Radial flap (the most common type)
+1. Radial fibrillated
+1. Longitudinal peripheral (least common)
+1. Abnormally mobile
+
+## Seldes' Types
+
+Alternatively, Seldes et al. created two classifications for acetabular labral tears based on the anatomical and histological features of the tear @duttonDuttonOrthopaedicExamination2020.
+
+1. [Type 1 Tears](#type-1-tears)
+1. [Type 2 Tears](#type-2-tears)
+
+Both type 1 and type 2 tears are "associated with chondrocyte proliferation and hyalinization of the labral fibrocartilage along the edges of the defect" @duttonDuttonOrthopaedicExamination2020.
+Following a labral tear, the base of the tear adjacent to the attachment site is associated with increased microvascularity @duttonDuttonOrthopaedicExamination2020.
+In addition, osteophyte formation is occassionally observed in labral tears @duttonDuttonOrthopaedicExamination2020. 
+
+
+
+## Type 1 Tears {#type-1-tear}
+
+Type 1 tears refer to an acetabular labral injury where the labrum is detached from the articular cartilage surface @duttonDuttonOrthopaedicExamination2020.
+Typically, type 1 tears occur in the "transition zone" between the transition zone between the labrum and the articular hyaline cartilage @duttonDuttonOrthopaedicExamination2020.
+They are perpendicular to the articular surface and, in some cases, extend to the subchondral bone @duttonDuttonOrthopaedicExamination2020.
+
+## Type 2 Tears {#type-2-tears}
+
+Type 2 tears consist of one or more cleavage planes of variable depth within the substance of the labrum.25 @duttonDuttonOrthopaedicExamination2020
+
+# Location
+
+Acetabular labral tears have 3 main locations:
+
+1. Anterior
+1. Posterior
+1. Superior
+
+:::{.callout-note}
+It should be noted that anterior and anteriorsuperior acetabular tears are the most common @duttonDuttonOrthopaedicExamination2020.
+:::
+
+
+## Anterior Tear
+
+These tears are more common with degenerative hip diseases or acetabular dysplasia @duttonDuttonOrthopaedicExamination2020.
+The anterior aspect of the labrum is subjected to higher forces and therefore greater stresses compared to the other aspects of the labrum, resulting in a higher prevalence of tears @duttonDuttonOrthopaedicExamination2020.
+For example, the since the acetabulum and femoral head are oriented anteriorly, the femoroacetabular joint has the least bony constraint anteriorly and thus relies on the connective tissue of the joint capsule, acetabular labrum, and ligaments to maintain stability @duttonDuttonOrthopaedicExamination2020.
+
+
+# History
+
+## Mechanical symptoms
+
+A labral lesion causes a decrease in intraarticular joint pressure @duttonDuttonOrthopaedicExamination2020 and an increase in joint laxity @duttonDuttonOrthopaedicExamination2020.
+These two femoroacetabular joint changes result in a variety of mechanical symptoms:
+
+- Buckling @duttonDuttonOrthopaedicExamination2020
+- Catching @duttonDuttonOrthopaedicExamination2020
+- Twinges @duttonDuttonOrthopaedicExamination2020
+- Clicking @duttonDuttonOrthopaedicExamination2020
+- Painful clicking @duttonDuttonOrthopaedicExamination2020
+- Locking @duttonDuttonOrthopaedicExamination2020
+- Instability @duttonDuttonOrthopaedicExamination2020
+
+## Traumatic History
+
+According to Dutton, acetabular labral tears **may** or **may not** include a history of trauma @duttonDuttonOrthopaedicExamination2020.
+For those who have a history of trauma, the severity of the trauma to the femoroacetabular joint ranges from "very mild" to "severe" @duttonDuttonOrthopaedicExamination2020.
+These femoroacetabular injuries generally involve a femoroacetabular joint stress combined with rotation @duttonDuttonOrthopaedicExamination2020.
+
+## Pain history
+Pain associated with acetabular labral tears can present in many different locations:
+
+- Anterior groin (most common) @duttonDuttonOrthopaedicExamination2020
+- Lateral thigh @duttonDuttonOrthopaedicExamination2020
+- Posterior thigh @duttonDuttonOrthopaedicExamination2020
+- Medial knee @duttonDuttonOrthopaedicExamination2020
+
+:::{.callout-note}
+Pain can present in one area by itself or a combination of areas @duttonDuttonOrthopaedicExamination2020
+:::
+
+Pain onset can be acute and quick or gradual @duttonDuttonOrthopaedicExamination2020.
+
+
+The nature of the pain is generally "sharp" and associated with a clicking, snapping, catching or locking sensation @duttonDuttonOrthopaedicExamination2020.
+
+## Aggravations
+
+Movements that involve forced hip adduction with associated ER or IR generally aggravate this pain @duttonDuttonOrthopaedicExamination2020.
+
+
+
+
+
+# Risk Factors
+
+
+
+
+# Prognosis
+
+# Diagnosis
+
+Diagnosis of acetabular labral tear can generally be determined based on the the history and physical examination, regardless, the diagnosis is often delayed or is often misdiagnosed @duttonDuttonOrthopaedicExamination2020.
+Delayed diagnosis or misdiagnosis if primarily due to the variable clinical presentations of labral tears @duttonDuttonOrthopaedicExamination2020.
+
+# Physical Examination
+
+"On examination, ROM of the hip may or may not be limited, but, in those cases where it is not limited, there may be pain at the extremes.25 There is little information regarding the sensitivity, specificity, or likelihood ratios associated with a single clinical test or a cluster of tests in diagnosing a labral tear.176 Generally speaking, the combined movement of flexion and rotation causes pain in the groin. More precisely, the specific maneuvers that may cause pain in the groin include"
+
+## Provocative tests
+
+- Scour Test @wongPhysicalExaminationHip2022 
+- Internal Rotation Over Pressure (IROP) @wongPhysicalExaminationHip2022 
+- Posterior Impingement Test @wongPhysicalExaminationHip2022 
+- FABER Test @wongPhysicalExaminationHip2022 
+- Stinchfield Test @wongPhysicalExaminationHip2022 
+- Thomas Test @wongPhysicalExaminationHip2022 
+    - Thomas test can be positive for labral pathology when a click is palpated or pain is elicited @wongPhysicalExaminationHip2022
+- 

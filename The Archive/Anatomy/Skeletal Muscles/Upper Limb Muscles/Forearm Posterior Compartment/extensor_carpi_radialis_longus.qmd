@@ -1,0 +1,39 @@
+---
+title: Extensor Carpi Radialis Longus (ECRL)
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Extensor Carpi Radialis Longus]({{< var ref-extensor-carpi-radialis-longus.path >}}) | {{< var ref-extensor-carpi-radialis-longus.origin >}} | {{< var ref-extensor-carpi-radialis-longus.insertion >}} | {{< var ref-extensor-carpi-radialis-longus.nerve >}} | {{< var ref-extensor-carpi-radialis-longus.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+- Lateral supracondylar ridge of humerus @gilroyAtlasAnatomy2020
+- Lateral intermuscular septum @gilroyAtlasAnatomy2020
+
+
+
+# Insertion {#insertion}
+
+Base of 2nd metacarpal @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Radial N.]({{< var ref-radial-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **Elbow**: Weak flexion @gilroyAtlasAnatomy2020
+- **Wrist**: Extension and Radial deviation @gilroyAtlasAnatomy2020
+
+
+
+
+
+# Notes

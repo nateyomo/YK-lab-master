@@ -1,0 +1,89 @@
+---
+title: Basal ganglia
+---
+
+# Principal nuclei
+There are 5 principal basal ganglia nuclei.
+
+1. [Caudate Nucleus]({{< var ref-caudate-nucleus.path >}})
+1. [Putamen]({{< var ref-putamen.path >}})
+1. [Globus Pallidus]({{< var ref-globus-pallidus.path >}})
+1. [Subthalamic Nucleus]({{< var ref-subthalamic-nucleus.path >}})
+1. [Substantia Nigra]({{< var ref-substantia-nigra.path >}}) (in midbrain)
+
+Lentiform nucleus: Putamen + Globus Pallidus
+striatum: Caudate Nucleus + Putamen
+
+# Types of Nuclei
+3 type of nuclei: 
+
+1. Input nuclei
+1. Output nuclei
+1. Intrinsic nuclei
+
+## Input Nuclei
+
+- Receives info from cortex, thalamus
+- Examples: striatum: Caudate Nucleus & Putamen
+
+## Output Nuclei
+
+- Sends BG info to the Thalamus
+- E.G.: Globus Pallidus internus & Substantia Nigra (pars reticulata)
+
+## Intrinsic Nuclei
+
+- Connect input & Output nuclei
+- E.G.: Globus Pallidus externus, ST nucleus, Substantia Nigra (Pars compacta)
+
+
+
+ 
+# Function 
+
+- Through extensive motor & sensory cortical connections > Influences executive motor function (motor hierarchy)
+    - BG decide whether or not to execute movement
+    - Streamlines the movement
+- Organize all cortical activity into one behavioral output
+ 
+## Practical function:
+
+- Learning & Cognition:
+- Integration of motor output
+- Regulates emotional aspects of Behavior
+
+# Pathway
+
+1. Direct
+1. Indirect pathway
+1. Substantonigral pathway
+
+- Result = Measured and coordinated motor output
+
+## Direct Pathway
+
+- Direct = facilitates goal-oriented movement
+
+Striatum disinhibits the thalamus which results in *more* excitation of the 
+
+## Indirect Pathway
+
+- Indirect = Suppress all competing movement
+
+
+Dopamine from the Sn Pars Compacta functions to inhibit the striatum.
+Thus dopamine causes disinhibition of the GPe and therefore this causes disinhibition of the thalamus.
+
+
+
+# Dysfunction
+
+:::{.callout-note title="DPT 836"}
+Lesions result in difficulty initiating, continuing, or stopping movement
+:::
+
+
+# Pathologies
+
+- [Parkinson's Disease (PD)]({{< var ref-parkinsons-disease.path >}})
+- Huntington's Disease (HD)

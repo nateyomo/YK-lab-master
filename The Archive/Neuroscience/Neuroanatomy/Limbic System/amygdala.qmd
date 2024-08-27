@@ -1,0 +1,11 @@
+---
+title: Amygdala
+---
+
+Receives input
+- Smell
+    - input: [CN 1]({{< var ref-cn1.path >}})
+    - output: Emotion of Fear
+
+# Location
+Housed in the Uncus

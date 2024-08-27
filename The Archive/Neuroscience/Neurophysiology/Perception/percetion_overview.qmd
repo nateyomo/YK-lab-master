@@ -1,0 +1,36 @@
+---
+title: Perception
+subtitle: The integration of sensory impressions into information that is psychologically meaningful
+---
+
+
+- the integration of sensory impressions into information that is psychologically meaningful
+- Perception allows you to select the appropriate stimuli
+- (sensory or environmental), interpret them, and then respond accordingly
+
+:::{.callout title="Example"}
+Universal visual perception is an example of perception
+
+For example, a smile is perceive as pleasant 
+select appropriate stimuli
+:::
+
+# Types of Perception
+## Visual-Perception {#visual-perception}
+
+Visual perception refers to the brain’s ability to make sense of what the eyes see
+
+:::{.callout-important}
+Common visual impairments that can be mistaken for visual perceptual deficiencies:
+
+- Blindness in one eye
+- Bitemporal hemianopia
+- Homonymous hemianopia
+- Quadrantanopia
+- Homonymous hemianopia
+:::
+
+
+# Perceptual Deficits
+
+

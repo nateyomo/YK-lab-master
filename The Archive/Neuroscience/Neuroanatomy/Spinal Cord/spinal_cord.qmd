@@ -1,0 +1,95 @@
+---
+title: Spinal Cord
+---
+
+# Pathway
+
+The spinal cord exits the foramen magnum and extends to approximately the L1 vertebral level @osullivanPhysicalRehabilitation2019.
+
+# Composition
+
+The spinal cord is made up of both white and gray matter.
+
+## White matter
+
+- The white matter is solely composed of myelinated nerves
+- The majority of the white matter consists of the [ascending (sensory) tracts]({{< var ref-ascending-tracts.path >}}) and [descending (motor) tracts]({{< var ref-descending-tracts.path >}}) @osullivanPhysicalRehabilitation2019.
+- The rest of the white matter is composed of myelinated axons of interneurons.
+
+## Gray matter
+
+The gray matter is found in the center of the spinal cord with a butterfly shaped horizontal cross section.
+The gray matter has 3 divisions:
+
+1. Ventral (Anterior) horn 
+1. Intermediate Zone 
+1. Dorsal (posterior) horn 
+
+# Cross- Section
+
+![Spinal Cord Cross section @osullivanPhysicalRehabilitation2019](/The Archive/Neuroscience/Neuroanatomy/Spinal Cord/images/osullivan fig20.1 spinal cord cross section.png)
+
+
+- Dorsal Section: Contains neurons involved in sensory function @osullivanPhysicalRehabilitation2019
+- Middle portion: contains interneurons @osullivanPhysicalRehabilitation2019
+- Ventral section: contains neurons involved in motor function (anterior horn cells) that project to the peripheral muscles @osullivanPhysicalRehabilitation2019
+
+# Spinal Nerve Roots
+
+- 31 pairs of spinal nerves: 
+
+:::{layout-ncol="3"}
+
+### Cervical    
+
+- 8 pairs
+- Exit horizontally (relatively) @osullivanPhysicalRehabilitation2019
+- C1-C7 Exit above their corresponding vertebrae @osullivanPhysicalRehabilitation2019
+- C8 exits below the C7 vertebrae @osullivanPhysicalRehabilitation2019
+
+### Thoracic
+
+- 12 pairs
+- Exit downwardly @osullivanPhysicalRehabilitation2019
+- Do not correspond to vertebral level @osullivanPhysicalRehabilitation2019
+
+### Lumbar
+
+- 5 lumbar
+- Exit downwardly @osullivanPhysicalRehabilitation2019
+- Do not correspond to vertebral level @osullivanPhysicalRehabilitation2019
+
+### Sacral
+
+- 5 sacral
+- Exit downwardly @osullivanPhysicalRehabilitation2019
+- Do not correspond to vertebral level @osullivanPhysicalRehabilitation2019
+
+### Coccygeal
+
+- 1 coccygeal
+- Exit downwardly @osullivanPhysicalRehabilitation2019
+- Do not correspond to vertebral level @osullivanPhysicalRehabilitation2019
+:::
+
+# Nerve root direction
+
+![Relationship between the spinal cord and nerve roots @osullivanPhysicalRehabilitation2019](/The Archive/Neuroscience/Neuroanatomy/Spinal Cord/images/osullivan fig20.2 spinal cord and nerve roots.png)
+
+One should take note that the nerve root direction changes as you descend the spinal cord.
+This is due to differing rates of growth of the spinal cord and vertebral column during development.
+Since the vertebral column elongates at a faster rate than the spinal cord, the spinal cord is essentially "drawn upward" @osullivanPhysicalRehabilitation2019.
+In adults the spinal cord technically ends at L1 in the conus medullaris, but due to the elongation of the vertebral column, the nerve roots must travel inferiorly at an almost vertical direction @osullivanPhysicalRehabilitation2019.
+This grouping of individual nerve roots travelling inferiorly creates the appearance of a "horse's tail" and is referred to as the "Cauda Equina @osullivanPhysicalRehabilitation2019."
+
+::: {.callout-tip title="Clinical Significance"}
+Due to the differing lengths of the spinal cord and vertebral column, more caudal injuries of the vertebral column will not directly correspond to the neurologic level of injury (NLI) @osullivanPhysicalRehabilitation2019.
+:::
+
+
+
+# Surrounding structures
+
+
+
+## Vertebral bodies

@@ -1,0 +1,34 @@
+---
+title: Motor Recovery
+---
+
+- Motor recovery: the reacquisition of movement skills lost through injury @osullivanImprovingFunctionalOutcomes2016
+    - Highly variable and individualized @osullivanImprovingFunctionalOutcomes2016
+    - Is often not possible @osullivanImprovingFunctionalOutcomes2016
+
+
+# Types of recovery
+
+- [Spontaneous recovery]({{< var ref-spontaneous-recovery.path >}})
+- 
+
+## Spontaneous recovery
+
+[Read more about spontaneous recovery]
+- Motor recovery can occur through [Spontaneous recovery]({{< var ref-spontaneous-recovery.path >}}) @osullivanImprovingFunctionalOutcomes2016
+
+## Function-induced recovery
+
+Function-induced recovery (use-dependent cortical reorganization): refers to the nervous system’s ability to modify itself in response to changes in activity and the environment @osullivanImprovingFunctionalOutcomes2016.
+
+:::{.callout-note}
+Note: Stimulation early after injury is important to prevent learned nonuse
+:::
+
+Interventions
+Patients 1+ year post-stroke respond positively to functional task-oriented training using CIMT.
+Locomotor training using partial body weight support, a treadmill, and early assisted limb movements has also been shown to promote function induced recovery (see Chapter 10: Interventions to Improve Locomotor Skills and Case Study 3)
+The elements essential for success with these interventions are that 
+(1) practice is task specific and 
+(2) practice is intense, with steady increases in duration and frequency. 
+For example, in CIMT, the patient with stroke practices grasping and manipulating objects during daily tasks using the more affected UE 4 to 6 hours per day, every day. The less-affected UE may be constrained with a mitt, thereby preventing all attempts at compensatory movements.

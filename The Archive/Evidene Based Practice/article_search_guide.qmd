@@ -1,0 +1,129 @@
+---
+title: Guide to Searching Articles
+---
+
+# Search Filtering
+
+Goal < 50 abstracts with a search
+
+## PICOS Terms
+
+- Add one term at a time, combined w AND, no long phrases
+- Key terms only
+- Too many results: add pico terms, more specific pico terms, use filters
+- Too few results: remove one or more PICO terms, use less specific PICO terms, search MeSH terms, search for related populations, interventions, outcomes that can be generalized, search alternative databases
+
+
+
+
+## What is a productive Search
+
+
+1. Phrase question in PICOs format 
+1. Identify simple and specific search terms from PICOs question
+1. Combine search terms (including synonyms)
+1. Search for results
+1. Modify (broaden or narrow) search terms based on quality and number of results…search again…  (Goal < 50 abstracts) 
+1. Filter results by optimal study design to identify highest quality studies first
+1. Select relevant article(s) based on best match with PICOs question:
+    - Study design (internal validity) 
+    - Population (external validity)
+    - Intervention/Indicators and Outcomes (construct/external validity)
+
+## Limit a search
+
+- Article Type 
+    - Interventions: (meta‐analysis, systematic review, randomized controlled trial, clinical trial)
+    - Diagnosis:
+    - Prognosis: cohort, prospective cohort, etc?
+- Species: Humans > animal studies
+- Publication Date: Not recommended unless there are significant medical advances
+- Language: English
+- Sex: Not recommended
+- Age: Not recommended
+
+# Pubmed search guide
+
+<details>
+- Quotation marks:
+    - No quotations around key terms: Automatically search for related MESH terms
+    - Using quotations around key terms: Searches for an exact term or phrase
+    - Always use quotation marks when searching with abbreviations or clinical jargon
+- Wildcards (*)
+    - Use wildcard "*" to truncate search terms
+    - "therap*" will search for: therapy, therapist, therapies, therapeutic, etc.
+
+
+## Pubmed Boolean operators
+Linking Terms with boolean operators: AND/OR/NOT
+
+- Must use all caps
+- Keep terms simple.  Avoid multiple word phrases!!
+
+Using the "AND" Function:
+
+
+Using the "OR" Function:
+- Parantheses: only required when grouping terms with "OR"
+
+:::{.callout title="Syntax example" collapse="true"}
+Improper syntax: "Physical therapy OR rehabilitation AND pain OR function"
+
+Proper syntax: (physical therapy OR rehabilitation) AND (pain OR function) 
+:::
+
+
+Using the "NOT" Function: 
+
+
+## Keyword vs MeSH Terms
+
+- Keyword: Single term selected by you
+    - Not standardized
+    - PubMed will search only for the “keyword” (must be in quotes)
+    - Useful to narrow down results to a very specific topic
+        - “Neck Disability Index”, “NDI”
+- MeSH: Medical Subject Heading
+    - Standardized vocabulary used by PubMed to determine which keywords will be recognized (default search)
+    - PubMed will search for MeSH term and all relevant subheadings within that term
+    - Useful to avoid missing relevant articles when there are many synonyms for your search term 
+
+## Pubmed Clinical Queries
+
+
+- Filter: Preset filters and search terms that automatically limit your search to relevant studies for questions about:
+    - Etiology
+    - Diagnosis
+    - Prognosis
+    - Therapy
+    - Clinical prediction rules
+- Enter PICO search terms as you normally would, then select type of question 
+- Scope:  
+    - Broad search = more articles to choose from but some not relevant to question
+    - Being with the "broad" option then move to "narrow" if there are too many articles
+- Can use for interventions, prognosis, outcomes! 
+
+:::{.callout-note title="How to find Clinical Queries in Pubmed"}
+
+1. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/)
+1. Find → Clinical queries
+1. Put in picos terms
+1. Choose filter
+1. Choose scope
+
+:::
+
+</details>
+
+# Scanning Articles
+
+Begin by scanning article titles and abstracts to find a good match.
+Key items to look for:
+
+- Good match between your clinical question and the study design (S - external validity)
+- Compare your patient to the study population (P - internal validity)
+- Intervention/indicator/ and outcomes you want to use for your patient compared to those used in the study (I/O - construct validity)
+
+:::{.callout-warning}
+Studies should NOT be selected based on whether they report the results you expect or hope for (e.g., positive treatment effects, valid measure, etc.) as this will bias your search.
+:::

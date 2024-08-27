@@ -1,0 +1,54 @@
+---
+title: Sacral Plexus
+---
+
+
+| Nerve | Roots | Motor Innervation | Cutaneous Innervation |
+|-|-|-|-|
+| [Superior Gluteal N.]({{< var ref-superior-gluteal-nerve.path >}}) | {{< var ref-superior-gluteal-nerve.roots >}} | {{< var ref-superior-gluteal-nerve.motor >}} | {{< var ref-superior-gluteal-nerve.cutaneous >}} |
+| [Inferior Gluteal N.]({{< var ref-inferior-gluteal-nerve.path >}}) | {{< var ref-inferior-gluteal-nerve.roots >}} | {{< var ref-inferior-gluteal-nerve.motor >}} | {{< var ref-inferior-gluteal-nerve.cutaneous >}} |
+| [Posterior Cutaneous Nerve of the Thigh]({{< var ref-posterior-cutaneous-nerve-of-the-thigh.path >}}) | {{< var ref-posterior-cutaneous-nerve-of-the-thigh.roots >}} | {{< var ref-posterior-cutaneous-nerve-of-the-thigh.motor >}} | {{< var ref-posterior-cutaneous-nerve-of-the-thigh.cutaneous >}} |
+| [Sciatic N.]({{< var ref-sciatic-nerve.path >}}) | {{< var ref-sciatic-nerve.roots >}} | {{< var ref-sciatic-nerve.motor >}} | {{< var ref-sciatic-nerve.cutaneous >}} |
+| [Common Fibular N.]({{< var ref-common-fibular-nerve.path >}}) | {{< var ref-common-fibular-nerve.roots >}} | {{< var ref-common-fibular-nerve.motor >}} | {{< var ref-common-fibular-nerve.cutaneous >}} |
+| [Tibial N.]({{< var ref-tibial-nerve.path >}}) | {{< var ref-tibial-nerve.roots >}} | {{< var ref-tibial-nerve.motor >}} | {{< var ref-tibial-nerve.cutaneous >}} |
+| [Pudendal N.]({{< var ref-pudendal-nerve.path >}}) | {{< var ref-pudendal-nerve.roots >}} | {{< var ref-pudendal-nerve.motor >}} | {{< var ref-pudendal-nerve.cutaneous >}} |
+: {.striped .hover}
+
+
+
+- [Superior Gluteal nerve]({{< var ref-superior-gluteal-nerve.path >}}) ({{< var ref-superior-gluteal-nerve.roots >}})
+- [Inferior Gluteal nerve]({{< var ref-inferior-gluteal-nerve.path >}}) ({{< var ref-inferior-gluteal-nerve.roots >}})
+- [Posterioro Cutaneous Nerve of the Thigh]({{< var ref-posterior-cutaneous-nerve-of-the-thigh.path >}}) ({{< var ref-posterior-cutaneous-nerve-of-the-thigh.roots >}})
+- [Pudendal nerve]({{< var ref-pudendal-nerve.path >}}) ({{< var ref-pudendal-nerve.roots >}})
+- [Sciatic nerve]({{< var ref-sciatic-nerve.path >}}) ({{< var ref-sciatic-nerve.roots >}})
+- [Common Fibular nerve]({{< var ref-common-fibular-nerve.path >}}) ({{< var ref-common-fibular-nerve.roots >}})
+- [Tibial nerve]({{< var ref-tibial-nerve.path >}}) ({{< var ref-tibial-nerve.roots >}})
+
+# Motor Innervation
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "sacral_plexus_direct_branches"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Direct Muscle Innervations of the Sacral Plexus"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Dysfunction
+
+"The sacral plexus arises from lower levels (L4–S4) of the spinal cord and supplies the perineum and, via the large sciatic nerve, the posterior thigh, entire leg and most of the foot" @gilroyAtlasAnatomy2020 

@@ -1,0 +1,44 @@
+---
+title: Mediopatellar Plica Test (MPP Test)
+---
+
+
+# Purpose and Mechanics
+
+Test Purpose: The MPP is found on the medial femoral condyle in knee extension and when the inferiormedial patellofemoral joint experiences a manual force, the pathologic MPP is forced between the patella and medial femoral condyle @kimRelationshipMPPTest2007 .
+
+At 90&deg; of flexion, the the entrapped MPP moves away from the medial condyle and ceases to be TTP @kimRelationshipMPPTest2007 .
+
+# Technique
+:::{layout-ncol="2"}
+### Patient position
+
+- Supine with knee extended @kimRelationshipMPPTest2007 
+
+### Clinician
+
+- Apply a manual force to the inf/med patellofrmoal joint via the thumb @kimRelationshipMPPTest2007 
+- Ask about tenderness @kimRelationshipMPPTest2007 
+:::
+
+# Scoring
+
+Positive
+
+- (+) Pain / tenderness that diminishes with 90&deg; knee flexion @kimRelationshipMPPTest2007 
+
+### Negatives
+
+
+### False Positives
+
+- Fat pad synovial fringe entrapments @kimRelationshipMPPTest2007 
+- Localized synovitis on the medial peripatellar region @kimRelationshipMPPTest2007
+- 
+
+# Psychometrics
+
+| Test | Sens | Spec | PPV | NPV | LR+ | LR- | Accuracy Value |
+|-|-|-|-|-|-|-|-|
+| MPP Test | 0.895 @kimRelationshipMPPTest2007 | 0.887 @kimRelationshipMPPTest2007 | 0.785 @kimRelationshipMPPTest2007 | 0.944 @kimRelationshipMPPTest2007 | | | 0.89 @kimRelationshipMPPTest2007 |
+: Psychometrics of different Plica Syndrome Tests {.striped .hover}

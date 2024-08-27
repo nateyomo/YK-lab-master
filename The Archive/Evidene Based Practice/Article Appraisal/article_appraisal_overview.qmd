@@ -1,0 +1,9 @@
+---
+title: Article Appraisal (Overview)
+---
+
+Sampling
+
+- If sampling methods are not stated and cannot be inferred, you should error on the side of caution by assuming the most biased sampling method (i.e. convenience sampling) was used thereby reducing external validity.
+
+Once you determine that a study has adequate construct, external and internal validity only then is it worth it to evaluate author’s conclusions and statistical results 

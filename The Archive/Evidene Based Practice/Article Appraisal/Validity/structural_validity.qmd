@@ -1,0 +1,11 @@
+---
+title: Structural Validity
+---
+
+[Structural validity]({{< var ref-validity.structural >}}) is a subdomain of [construct validity]({{< var ref-validity.construct >}}) that uses factor analysis to test if a measure captures the hypothesized dimensionality of a construct @politAssessingMeasurementHealth2015. 
+
+According to COSMIN, structural validity is an *aspect* of [construct validity]({{< var ref-validity.construct >}}) and only serves to *supplement* [hypothesis-testing validity]({{< var ref-validity.hypothesis-testing >}}) @politAssessingMeasurementHealth2015.
+Structural validity **cannot** replace hypothesis-testing validity @politAssessingMeasurementHealth2015.
+
+
+The COSMIN group recommends that structural validations be undertake using confirmatory factor analysis (CFA), rather than exploratory factor analysis (EFA) because confirmatory factor analysis can be used to test explicit hypotheses about an instrument’s structure. Exploratory factor analysis, by contrast, is largely a tool for exploring the dimensionality of a set of items, and for identifying items to revise or eliminate. In the sample of nursing articles, factor analysis was undertaken in 85 studies (81.0%), and exploratory factor analysis was used exclusively in 51 of these (60.0%). The remaining studies that involved factor analysis used either confirmatory factor analysis alone (18 studies), or used both exploratory and confirmatory factor analyses (16 studies)."

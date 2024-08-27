@@ -1,0 +1,10 @@
+---
+citation: false
+---
+
+Welcome to the Yomogida & Kerstein Lab website
+
+- [**The Archive**](The Archive/archive_index.qmd): A database for information, ranging from anatomy, microbiology, neurology, Patient examination, and rehabilitation.
+- [**About**](about.qmd): Read more about the authors of the site
+- [**Guide**](guide.qmd): The best ways to use and read this website
+- [**Journal club**](journal club index.qmd): A blog where we will post summaries of interesting articles

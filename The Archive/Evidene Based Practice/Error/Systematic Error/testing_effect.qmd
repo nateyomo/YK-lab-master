@@ -1,0 +1,16 @@
+---
+title: Testing Effects
+subtitle: A threat to internal validity
+
+---
+
+A testing effect is the result of a problem with the experimental setup that will create a systematic error in one group and not the other.
+
+For tests without control groups, repeated testing that may influence test outcomes regardless of the intervention such as learning or fatigue
+
+:::{.callout title="Example"}
+
+- A study designed to measure shoulder strength following an intervention
+- The experimental group receives 3 warm‐up trials prior to testing but the control group does not
+- The warmup is not part of the intervention, and therefore creates a testing effect that will overestimate tx effects due to improved performance following the practice/warmup trials
+:::

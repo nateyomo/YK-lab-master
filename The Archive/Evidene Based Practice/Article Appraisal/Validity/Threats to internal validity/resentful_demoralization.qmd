@@ -1,0 +1,22 @@
+---
+title: Resentful Demoralization
+---
+
+When patients are aware of which treatment group they are in, researchers hope they do not change their behavior.  Unfortunately this is not always the case, patients may become discouraged (**Resentful demoralization**) or work extra hard ([Compensatory rivalry]({{< var ref-bias.compensatory-rivalry >}})).
+
+
+Resentful demoralization occurs when patients are aware of what treatment group they are in, assume this treatment is inferior, and become demoralized causing them to change their behavior and give up on participating.
+
+
+:::{.callout title="Example"}
+
+- Study comparing exercise (control) vs exercise + manual therapy (Experimental)
+- Patients assigned to an exercise only control group are aware that they will not receive additional hands on treatment with shoulder mobilization.
+- Control group patients become discouraged and give up or Overestimate treatment effects if pts in control group give up bc they think they're getting a bad treatment.
+:::
+
+
+
+# Effects on conclusion
+
+Resentful Demoralization generally occurs in the control group and this results in an overestimation of true treatment effects

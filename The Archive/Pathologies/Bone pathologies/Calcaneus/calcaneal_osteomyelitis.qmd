@@ -1,0 +1,8 @@
+---
+title: Calcaneal Osteomyelitis
+---
+
+
+# Objective findings
+
+- [Heel-Up Sign]({{< var ref-heel-up-sign.path >}})

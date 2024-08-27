@@ -1,0 +1,38 @@
+---
+title: Hip Abductor sign
+subtitle: Special test for Functional limb weakness
+---
+
+
+
+
+![Schematic explanation of the abductor sign. </br> (A) and (D): abduction of both legs; </br> (B) and (E): </br> abduction of the sound leg; </br> (C) and (F): abduction of the paretic leg, for organic and non-organic left leg paresis (the paretic left leg is shadowed). </br> Black arrow represents the internal force abduction force, the grey hand mark represents the examiner’s hand; and the grey arrow represents the direction of the adduction force exerted by the examiner’s hand opposing the patient’s leg; the white arrow represents the direction of movement of the leg; the white circle represents a leg that does not move; the bold white arrow represents movement of the unabducted leg used for diagnosis; and the bold white circle represents non-movement of the unabducted leg used for diagnosis @sonooAbductorSignReliable2004.](/The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/images/sonooAbductorSignReliable2004 fig1 hip abductor sign schematic.png)
+
+# Technique
+
+- The examiner told the patient to abduct each leg in turn, as strongly as possible @sonooAbductorSignReliable2004.
+- Observe the behavior of the unabducted leg, which was initially placed in an adducted position along the midline @sonooAbductorSignReliable2004.
+- Direct the patient’s attention solely to the *abducted* leg, away from the *unabducted* leg @sonooAbductorSignReliable2004
+
+::: {.columns}
+::: {.column}
+## Organic
+
+"In organic paresis, when the patient was told to abduct the sound leg, the sound leg remained fixed in an abducted position, whereas the paretic leg, which must normally exert a synergic abducting force to oppose the examiner’s hand, was overpowered and moved in the hyperadducting direction (fig 1B and 2A). When he was told to abduct the paretic leg, it was overpowered by the examiner’s hand, whereas the sound leg exerted a strong synergic force and remained fixed in its original position (fig 1C and 2B) " @sonooAbductorSignReliable2004
+
+
+:::
+::: {.column}
+## Non-Organic
+
+"In non-organic paresis, however, different phenomena are observed. When the patient is told to abduct the sound leg, the entire movement set to ‘‘abduct the sound leg’’ is normally strong.
+Thus not only is abduction of the sound leg strong, but the synergic opposition of the ‘‘paretic leg’’ is also strong, and the latter remains fixed in its original position (fig 1E and 2C). When the patient is told to abduct the paretic leg, the entire movement set becomes weak. Therefore, not only the abducting paretic leg, but also the opposing ‘‘sound leg’’ becomes weak, and the latter moves towards the hyperadducting direction overpowered by the examiner’s hand (fig 1F and 2D)." @sonooAbductorSignReliable2004
+:::
+:::
+
+
+
+
+
+# Results
+

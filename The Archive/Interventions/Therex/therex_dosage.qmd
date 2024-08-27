@@ -1,0 +1,37 @@
+---
+title: Dosage of Therapeutic Exercise
+---
+
+# Quick Guide
+
+:::{layout-ncol="4"}
+### Strength
+
+
+- 3 sets x 8‐12 reps
+- 3‐4 days per week
+- Progress with +5%BW weighted vest when able to complete 3 sets with and RPE <15/20 and no form failure
+- Monitor RPE and quad/hip extensor strength with dynamometer
+
+### Neuromotor Control
+
+- 5 sets x 5‐10 reps from elevated surface with blocked practice distributed throughout PT session/day. Verbal and manual cues provided for Immediate feedback on motor performance
+- Once daily
+- When able to complete 5 sets with RPE < 11/20 and no verbal cueing, progress with 1) increases in task complexity (reduced surface height > variety of surfaces > dual tasking) and 2) distributed practice with delayed feedback on motor performance
+- Monitor RPE, level of assistance, and need for cueing
+
+### Cardiorespiratory
+
+- 1 set x 15‐20 reps or until form failure
+- 5 days per week
+- Progress speed and reduce breaks, adding +1 set when able to complete prior set(s) within 70‐80% HRmax
+- Monitor HR and number of repetitions completed to onset of form failure
+
+### Flexibility
+
+- 3 x 30 sec static holds at end range ankle DF in seated position with knees flexed to achieve maximum DF with heels in contact with floor
+- Minimum once daily
+- Progress with +10 sec hold time at increasing end\ range when able to hold position with <2/10 increase in stretch pain. When able to hold 60 sec, progress to DF stretch with knee extended and overpressure with theraband
+- Monitor NPRS and DF ROM with goniometer
+
+:::

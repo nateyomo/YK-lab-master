@@ -1,0 +1,15 @@
+---
+title: Coxal bone
+---
+
+# Landmarks
+
+## Anterior Superior Iliac Crest (ASIS) {#asis}
+
+Origins
+
+- TFL
+
+## Anterior Inferior Iliac Crest (AIIS) {#aiis}
+- [Rectus Femoris]({{< var ref-rectus-femoris.path >}})
+

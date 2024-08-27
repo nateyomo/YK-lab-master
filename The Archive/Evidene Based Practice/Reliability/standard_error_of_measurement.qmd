@@ -1,0 +1,13 @@
+---
+title: Standard Error of Measurement (SEM)
+subtitle: Estimation of the distribution of someone's true score on a measure
+---
+
+# Use
+
+- Could be used as an alternative to Minimially Important Difference (MID) @rejasStandardErrorMeasurement2008
+
+# Calculation
+
+The SEM was estimated for each scale by multiplying the baseline standard deviation of the scale by the square root of one minus its reliability coefficient @rejasStandardErrorMeasurement2008
+

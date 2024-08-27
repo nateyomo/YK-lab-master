@@ -1,0 +1,17 @@
+---
+title: Index of Nerves
+---
+
+# Trunk Nerves
+
+- [Suboccipital Nerve]({{< var ref-suboccipital-nerve.path >}})
+- [Spinal nn.]({{< var ref-spinal-nerves.path >}})
+
+# Upper Extremity Nerves
+
+- [Axillary nerve]({{< var ref-axillary-nerve.path >}})
+- [Lateral Pectoral nerve]({{< var ref-lateral-pectoral-nerve.path >}})
+- [Medial Pectoral nerve]({{< var ref-medial-pectoral-nerve.path >}})
+- Subscapular nerve
+    - [Upper Subscapular nerve]({{< var ref-subscapular-nerve.upper >}})
+- [Suprascapular nerve]({{< var ref-suprascapular-nerve.path >}})

@@ -1,0 +1,8 @@
+---
+title: Innate Immunity
+---
+
+
+"The innate immune system responds almost immediately to microbes and injured cells, and repeated exposures induce virtually identical innate immune responses. The receptors of innate immunity are specific for structures that are common to groups of related microbes and do not distinguish fine differences among microbes. The principal components of innate immunity are (1) physical and chemical barriers, such as epithelia and antimicrobial chemicals produced at epithelial surfaces; (2) phagocytic cells (neutrophils, macrophages), dendritic cells (DCs), mast cells, natural killer (NK cells), and other innate lymphoid cells; and (3) blood proteins, including components of the complement system and other mediators of inflammation. Many innate immune cells, such as DCs, some macrophages, and mast cells, are tissue resident, and they function as sentinels to keep watch for microbes that may invade the tissues. The innate immune response combats microbes by two main strategies—by recruiting phagocytes and other leukocytes that destroy the microbes, in the process called inflammation; and by blocking viral replication or killing virusinfected cells by mechanisms distinct from inflammatory reactions. We will discuss the features, mechanisms, and components of innate immunity in Chapter 4." @abbasCellularMolecularImmunology2022 
+
+

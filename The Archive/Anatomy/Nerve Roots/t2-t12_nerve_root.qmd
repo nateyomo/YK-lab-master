@@ -1,0 +1,40 @@
+---
+title: T2-T12 Nerve Rootes (T2-T12)
+---
+
+
+
+# Motor Innervation
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "root_identifier"  # or "group_identifier"
+filter_patterns <- "T2|T3|T4|T5|T6|T7|T8|T9|T10|T11|T12"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "T2-12 Nerve Root Skeletal Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Lesions
+
+"Lesions affecting the thoracic roots and spinal nerves are difficult to diagnose because thoracic and abdominal muscles are difficult to evaluate and there are no muscle stretch reflexes subserved by these levels. Therefore, clinical diagnosis relies predominantly on sensory symptoms and signs." @brazisLocalizationClinicalNeurology2022 
+
+"Thoracic nerves supply (by way of the intercostal nerves) the intercostal and abdominal muscles, which function predominantly in elevation and depression of the ribs, contraction of the abdomen, and flexion of the trunk. Thoracic nerve lesions result in intercostal muscle paralysis, which causes retraction of the costal interspace during inspiration and bulging of the interspace during cough or a Valsalva maneuver. Lower thoracic and upper lumbar root lesions may result in excessive protrusion of the abdomen during inspiration. When the abdominal muscles are affected there may be difficulty in rising from a recumbent position, and if these muscles are paralyzed unilaterally the umbilicus is pulled toward the normal side during inspiration or head elevation against resistance (while the patient is in the prone position). When there is bilateral lower abdominal muscle paresis below or at the T10 level, this maneuver results in elevation of the umbilicus (Beevor sign). Sensory disturbances are often predominantly or solely subjective. The patient complains of severe burning paresthesias or lightning-like pains. These occur in a unilateral or bilateral segmental distribution (radiating around the thorax or abdomen) and are precipitated by any maneuver that causes increased intraspinal pressure or stretching of the dorsal root (coughing, sneezing, Valsalva maneuver, neck flexion, spine movements). There may be sensory loss in the thoracic dermatome involved, but because of the overlapping cutaneous supply by adjacent nerve roots, complete section of a single dorsal root results in little or no sensory loss. An abdominal pseudohernia may be caused by herpes zoster truncal T12 radiculoneuropathy [19]." @brazisLocalizationClinicalNeurology2022 
+
+"Axillary pain may be a heralding sign of neoplasm involving the upper thoracic root [32]. Pain in the armpit that is severe or progressive may be indicative of a malignant pathology, and evaluation should target the upper thoracic root regions." @brazisLocalizationClinicalNeurology2022 
+
+"A benign condition of unknown etiology, termed notalgia paresthetica, has been described in which burning, pruritus, and paresthesias develop over an area (approximately the size of the palm of the hand) at the medial margin of the scapula [27]. Decreased sensitivity to pain may occur in this area, which is likely in the territory of the dorsal branches of roots T2 to T6." @brazisLocalizationClinicalNeurology2022 

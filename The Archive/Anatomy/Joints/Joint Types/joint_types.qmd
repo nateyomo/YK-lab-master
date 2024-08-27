@@ -1,0 +1,77 @@
+---
+title: Joint Types
+---
+
+# Structural Classification
+
+- Synarthrosis (fibrous or amphiarthrosis)
+- Diarthrosis (synovial joints)
+
+
+::: {.columns}
+::: {.column}
+### Synarthrosis (Fibrous)
+Characteristics:
+
+- Bones held together by dense, irregular connective tissue.
+- Little or no movement.
+- Transmits and disperses forces between bones.
+
+Examples:
+
+- Skull sutures
+- Teeth
+- Distal tib/fib
+- Interosseus membranes (Forearm, leg)
+:::
+::: {.column}
+### Synarthosis (amphiarthrosis/cartilaginous) {#synarthrosis}
+Characteristics:
+
+- Bones held together by fibrocartilage or hyaline cartilage.
+- Allow restrained movement
+- Absorbs, transmits, & disperses forces.
+
+Examples:
+
+- Spine interbody joint
+- Pubic symphysis
+
+:::
+
+::: {.column}
+
+### Diarthrosis: Synovial {#diarthrosis}
+
+Characteristics:
+
+- Fluid‐filled joint cavity between bones.
+- “Synovial Joints” – presence of synovial membrane.
+- Designed for movement!
+
+Examples:
+
+- Majority of Upper and Lower extremity joints.
+
+“7 features”
+
+1. Synovial Fluid
+1. Articular cartilage
+1. Articular capsule
+1. Synovial membrane
+1. Capsular ligaments
+1. Blood vessels
+1. Sensory nerves
+
+:::
+:::
+
+
+
+
+
+
+# Mechanical Classification
+
+Mechanical Classifications only apply to synovial joints.
+Read more about Synovial joint mechanical classifications.

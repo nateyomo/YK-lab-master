@@ -1,0 +1,10 @@
+---
+title: Responsiveness
+subtitle: The ability of an instrument to detect change over time in the construct to be measured.
+---
+
+
+Responsiveness refers to the ability of an instrument to detect change over time in the construct to be measured.
+
+# Measures of Responsiveness
+

@@ -1,0 +1,28 @@
+---
+title: Functional characterization of nociceptors
+---
+
+In human skin, for example, there exist nociceptors that respond only to mechanical, only to cold thermal, or only to hot thermal stimuli as well as those that are insensitive to both mechanical and heat stimuli (mechanically insensitive or sleeping nociceptors) @ballantyneBonicaManagementPain2019
+
+The most abundant is the polymodal nociceptor, which responds to mechanical, thermal, and chemical stimuli. In general, nociceptors that innervate skin have the broadest range of modality selectivity @ballantyneBonicaManagementPain2019
+
+
+nociceptors innervating deeper structures tend to be less modality-selective and more polymodal in character.
+For example, mechanical sensitivity is a prominent feature of visceral and joint nociceptors because stimuli adequate for their activation include hollow organ distension and overrotation, respectively @ballantyneBonicaManagementPain2019.
+
+Many of these nociceptors also respond to chemical and/or thermal stimuli as well, although the functional significance of thermal sensitivity in deep tissues is uncertain @ballantyneBonicaManagementPain2019.
+
+
+An important characteristic of polymodal nociceptors, whether the modalities of stimulation to which they respond are two or all three, is that when sensitized (e.g., by an inflammatory insult), responses to the other modality or modalities of stimuli to which it responds are all increased
+
+
+# Mechanosensitivity
+
+Nociceptors with low mechanical thresholds for response and those with very high mechanical thresholds for response (i.e., sleeping nociceptors) are both clinically important. 
+
+Mechanosensitive sensory neurons with low thresholds for response have long been classified as "non-nociceptors" (because it was considered that nociceptors had to have response thresholds in the noxious range) @ballantyneBonicaManagementPain2019.
+
+Some mechanosensitive skin, joint, and many visceral sensory neurons have low thresholds for response (i.e., in the nonnoxious range) but possess characteristics that suggest an important role in pain.
+
+- First: these low-threshold receptors encode stimulus intensity well into the noxious range and, moreover, typically give greater responses to all intensities of stimulation than do nociceptors with high mechanical thresholds for response @ballantyneBonicaManagementPain2019.
+- Second: they sensitize after tissue insult. Unlike nociceptors with low mechanical thresholds, mechanically insensitive or sleeping nociceptors normally provide no information to the central nervous system but after tissue insult become spontaneously active and mechanosensitive @ballantyneBonicaManagementPain2019.

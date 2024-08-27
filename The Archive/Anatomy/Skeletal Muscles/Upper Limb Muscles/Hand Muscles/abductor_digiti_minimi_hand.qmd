@@ -1,0 +1,35 @@
+---
+title: Abductor Digiti Minimi (ADM)
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Abductor Digiti Minimi (hand)]({{< var ref-abductor-digiti-minimi-hand.path >}}) | {{< var ref-abductor-digiti-minimi-hand.origin >}} | {{< var ref-abductor-digiti-minimi-hand.insertion >}} | {{< var ref-abductor-digiti-minimi-hand.nerve >}} | {{< var ref-abductor-digiti-minimi-hand.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+Pisiform @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+
+- Medial side of base of 5th proximal phalanx @gilroyAtlasAnatomy2020
+- Dorsal digital expansion of 5th digit @gilroyAtlasAnatomy2020
+
+
+
+# Innervation {#innervation}
+
+[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **5th MCP**: Flexion, Abduction @gilroyAtlasAnatomy2020
+- **5th PIP, DIP**: Extension @gilroyAtlasAnatomy2020
+
+# Notes

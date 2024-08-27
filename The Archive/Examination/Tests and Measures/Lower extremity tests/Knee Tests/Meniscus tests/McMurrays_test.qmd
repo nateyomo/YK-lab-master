@@ -1,0 +1,44 @@
+---
+title: McMurray's Test
+subtitle: Special test for Knee Meniscus dysfunction
+---
+
+:::{.callout-caution}
+Clinical Directors and CIs have advised against the use of this test, in favor of other tests such as [Apley's Test]({{< var ref-meniscus.test.apleys.path >}}) or [Thessaly's Test]({{< var ref-meniscus.test.thessalys.path >}})
+:::
+
+
+# Meniscus Bias
+
+:::{layout-ncol="2"}
+
+### Lateral Meniscus
+
+- IR + Varus stress
+
+### Medial Meniscus
+
+- ER + Valgus
+
+
+:::
+
+# Psychometrics
+
+## Adults
+
+| Psychometric  | Value |
+|-|-|
+| Sensitivity | {{< var ref-meniscus.test.mcmurrays.sens >}} @hegedusPhysicalExaminationTests2007 |
+| Specificity | {{< var ref-meniscus.test.mcmurrays.spec >}} @hegedusPhysicalExaminationTests2007 |
+: Psychometric Properties of McMurray's Test {.striped .hover}
+
+## Pediatric Patients
+
+| Psychometric  | Value |
+|-|-|
+| [Sensitivity]({{< var ref-psychometric.sensitivity >}}) | {{< var ref-meniscus.test.mcmurrays.pediatric.sens >}} @hegedusPhysicalExaminationTests2007 |
+| [Specificity]({{< var ref-psychometric.specificity >}}) | {{< var ref-meniscus.test.mcmurrays.pediatric.spec >}} @hegedusPhysicalExaminationTests2007 |
+| [PPV]({{< var ref-psychometric.predictive-value.positive >}}) | {{< var ref-meniscus.test.mcmurrays.pediatric.ppv >}} @hegedusPhysicalExaminationTests2007 |
+| [NPV]({{< var ref-psychometric.predictive-value.negative >}}) | {{< var ref-meniscus.test.mcmurrays.pediatric.npv >}} @hegedusPhysicalExaminationTests2007 |
+: Psychometric Properties of McMurray's Test {.striped .hover}

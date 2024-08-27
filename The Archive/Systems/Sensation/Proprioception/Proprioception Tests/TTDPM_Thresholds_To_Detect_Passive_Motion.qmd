@@ -1,0 +1,6 @@
+---
+title: Threshold To Detect Passive Motion (TTDPM) Test
+Subtitle: A test for Proprioception
+---
+
+Used in this SR to measure improvements in proprioception @arumugamEffectsNeuromuscularTraining2021 

@@ -1,0 +1,78 @@
+---
+title: The Throwing Athlete
+---
+
+Baseball pitching
+
+
+
+# Injuries
+
+Most injuries occur at max IR position (from MSK2)
+
+
+
+# Considerations
+
+## Kinetic chain contributions
+
+- Ground leg, hips, trunk are force generators
+    - 50-54% of force and kinetic energy
+- Shoulder is a funnel and force regulator 
+- Arm is a force delivery mechanism
+- 20% dec in kinetic energy delivered from the hip and trunk necessitates a 34% inc in rotational velocity at the shoulder to deliver the same amt of resultant force to the hand
+
+
+## Stable base/regional interdependence
+
+- Scap base and biomechanics 
+    - Example: protraction → negatiev effects
+- RTC lose length tension relationship
+- Lose force generation capacity and stability aspect
+- Mid trap, rhomboids, low trap, serratus– altered length tension relationship too in protraction
+
+
+## What is normal AROM
+
+- “Normal” might be >180°
+- Someone like a gymnast may require 190° to perform their sport.  By not helping them reach this ROM, you may be putting them at risk
+
+## Other breakdowns in the kinetic chain?
+
+- Core weakness/control deficits?
+    - Greater shoulder dysfunction is correlated with greater stability deficiency (hazar et al 2014)
+- LE deficits
+    - Limitations to hip flexion and Ir at 90 of hip flexion were risk factors for elbow injury
+    - Altered hip Rotational rom has effect on amount of ER torqueue and horiz add ROM
+
+
+# Important Assessments
+
+
+## Mobility
+
+- Even 5° GIRD = increased risk for injury and subsequent shoulder surgery
+    - GIRD Criteria: total of 180° of shoulder ROM (ER + IR = 180°)
+    - ER : IR ratio we would love to see 2:3 (he said even a 3:4 would be good) 
+    - ER will never match the IR strength, but needed to help w deceleration load
+
+## Strength, power and endurance
+
+- Normative data (athlete) - ER/IR ratio 72-76%, ER torque to body weight ratio of 19-23% , IR torque to body weight ratio of 26=32% , bilateral comparison of ER 95-100% and bilateral comparison of IR 100-115%
+- Scap dyskinesia and dysfunction = reduced shoulder strength
+
+## LE, core and stability assessments
+
+- Patient with UCL tears demonstrated dec’d performance for stance and lead lower extremities during the Y balance test
+
+# Predictors of Throwing ability
+
+- Best predictor: Modified pullup (Inverse row) @negreteCanUpperExtremity2011
+- 2nd best predictor: Pushups in 15 sec @negreteCanUpperExtremity2011
+
+
+# Performance Training
+
+- Medicine ball plyometric training increased throwing velocity  (McEvoy & Newton 1993)
+- Improvements of isolated shoulder power of internal rotators measured with isokinetics and improvement in throwing performance tests (Fortun et al 1990)
+

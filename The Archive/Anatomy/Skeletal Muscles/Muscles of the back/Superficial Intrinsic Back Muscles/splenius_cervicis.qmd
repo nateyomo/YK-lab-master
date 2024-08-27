@@ -1,0 +1,39 @@
+---
+title: Splenius Cervicis
+---
+
+# OIAN
+![Superficial intrinsic back muscles Right side posterior view @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Superficial Intrinsic Back Muscles/images/gilroyatlas 3.8ab schematic superficial intrinsic back mm.png)
+
+![Superficial intrinsic back muscles posterior view @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Superficial Intrinsic Back Muscles/images/gilroyatlas 3.10a superficial intrinsic back mm .png)
+
+| Muscle  | Origin  | Insertion | Nerve | Action |
+|--------|----------|-----------|-------|--------|
+|[Splenius Cervicis]({{< var ref-splenius-cervicis.path >}}) | {{< var ref-splenius-cervicis.origin >}} | {{< var ref-splenius-cervicis.insertion >}} | {{< var ref-splenius-cervicis.nerve >}} | {{< var ref-splenius-cervicis.action >}} |
+
+: Splenius Cervicis OIAN {.striped .hover}
+
+
+## Origin {#origin}
+T3-T6/T7 (SP) @gilroyAtlasAnatomy2020
+
+
+## Insertion {#insertion}
+C1–C3/4 (TP) @gilroyAtlasAnatomy2020
+
+## Innervation {#innervation}
+[Spinal nn. C1-C6]({{< var ref-spinal-nerves.path >}}) (Post rami, lateral branches) @gilroyAtlasAnatomy2020
+
+## Action {#action}
+
+- **BIL:** Extends C/S and head @gilroyAtlasAnatomy2020
+- **UNIL:** I/L head SB and Rotation @gilroyAtlasAnatomy2020
+
+# Muscle groups
+Splenius cervicis is part of the [Superficial intrinsic back muscle group]({{< var ref-oians >}})
+
+
+# Palpation
+
+
+# Clinical significance

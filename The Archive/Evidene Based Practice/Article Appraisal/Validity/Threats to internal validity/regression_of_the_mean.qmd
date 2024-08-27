@@ -1,0 +1,69 @@
+---
+title: Regression of the mean
+subtitle: A threat to internal validity
+---
+
+:::{.callout title="AKA"}
+
+- Regression toward mediocrity
+:::
+
+Regression towards the mean (RTM) refers to the statistical tendency for extreme scores to move or regress toward the mean value with repeated measurements @streinerRegressionOfTheMean2016.
+Regression of the mean can usually cause an underestimation of treatment effects  due to greater potential for improvement in extreme scores in the control group.
+Regression toward the mean states that if a score deviates from the mean on one occasion, then a subsequent measurement will be closer to the average @streinerRegressionOfTheMean2016
+
+
+
+
+
+:::{.callout title="Example"}
+Patients in control group have significantly higher pain scores at baseline compared to patients in experimental group
+Example of Selection & Regression of the mean
+:::
+
+
+
+
+:::{.callout title="Example"}
+
+- A study chooses participants whether they are above or below a cut-off score @streinerRegressionOfTheMean2016.
+- Due to measurement error
+:::
+
+
+# Explanation
+According to measurement theory, the observed score ($X_o$) is the sum of the "True score" ($X_T$) and some error ($e$).
+Measurement error ($e$) of the instrument may cause some individuals to erroneously be considered outside of the cut-off point and individuals who truly fit the criteria and excluded.
+Simultaneously, ($e$) can cause individuals who do not truly meet the criteria to be erroneously scored an extreme score far from their mean and therefore included in the participants.
+Once the study begins and more data points are taken over time, these individuals who were improperly included will begin to "regress" towards their mean score.
+
+:::{.callout-note}
+True score ($X_T$) refers to the score if there were no error.
+True score does **not** refer to the accuracy of the score.
+:::
+
+# Factors affecting RTM
+
+- Reliability: The less reliable the scale, the greater the RTM @streinerRegressionOfTheMean2016
+
+# Calculation
+
+- $T_2$: Predicted score at time 2
+- $r$: Test retest reliability
+- $T_1$: Score at time 1
+- ($T_1 - \overline{X}$): How much a score deviates from the mean
+- 
+
+$$
+T_2 = \overline{X} + r(T_1 - \overline{X})
+$$
+
+How to interpret this result:
+
+- This does **not** indicate that a score will change @streinerRegressionOfTheMean2016
+- This calculation shows the magnitude that RTM can affect the results @streinerRegressionOfTheMean2016
+
+# Resources
+
+- To read more about RTM see: Streiner (2001) Regression toward the mean: its etiology, diagnosis, and treatment @streinerRegressionMeanIts2001
+- Deep dive: Campbell (1999) A PRIMER ON REGRESSION ARTIFACTS @campbellPrimerRegressionArtifacts2003

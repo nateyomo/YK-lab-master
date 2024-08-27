@@ -1,0 +1,37 @@
+---
+title: Mandible (bone)
+---
+
+
+
+
+# Attachment sites
+
+## Foramen Ovale
+
+Mandibular nerve exits the skull via the foramen ovale
+
+## Inferior border
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Platysma muscle]({{< var ref-platysma.path >}}) | {{< var ref-platysma.origin >}} | {{< var ref-platysma.insertion >}} | {{< var ref-platysma.nerve >}} | {{< var ref-platysma.action >}} |
+: Muscular attachments for the inferior border of the mandible @gilroyAtlasAnatomy2020 {.striped .hover}
+
+
+## Mandibular condyle {#mandibular-condyle}
+
+The mandibular condyle is flattened from front to back, with its medial-lateral length twice as long as its anterior-posterior length @neumannKinesiologyMusculoskeletalSystem2017.
+The mandibular condyle and the articular disc form the inferior joint cavity of the TMJ @neumannKinesiologyMusculoskeletalSystem2017.
+
+- Structure
+- The condyle is generally convex
+- The medial and lateral poles project short distances from the condyle @neumannKinesiologyMusculoskeletalSystem2017.
+    - The medial pole is more prominent than the lateral pole (tpically) @neumannKinesiologyMusculoskeletalSystem2017.
+- The articular surface of the mandibular condyle is lined with a thin but dense layer of fibrocartilage.
+    - Fibrocartilage is better at absorbing mastication forces and has superior healing attributes, which is important for the unqiue demands of the [TMJ]({{< var ref-temperomandibular-joint.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+
+## Mandibular Fossa {#mandibular-fossa}
+The mandibular fossa of the temporal bone is divided into two surfaces: articular and nonarticular. The articular surface of the fossa is formed by the articular eminence, occupying the sloped anterior wall of the fossa (see Figs. 11.5 and 11.10). The articular eminence functions as a load-bearing surface and therefore consists of thick compact bone, lined with fibrocartilage. Full opening of the mouth requires that each condyle slides forward across the articular eminence.56 Excessive shear and compression at this interface may eventually cause fragmentation of the fibrocartilage, a common indicator of early degenerative arthritis at the TMJ.
+The slope of the articular eminence is, on average, 55 degrees from the horizontal plane.36 The steepness of the slope partially determines the kinematic path of the condyle during opening and closing of the mouth. 
+The nonarticular surface of the mandibular fossa consists of a very thin layer of bone and fibrocartilage that occupies much of the superior (dome) and posterior walls of the fossa (see Fig. 11.5). According to Okeson,77 this thin region is not an adequate loadbearing surface. A large upward force applied to the chin can fracture this region of the fossa, possibly even sending bone fragments into the cranium.

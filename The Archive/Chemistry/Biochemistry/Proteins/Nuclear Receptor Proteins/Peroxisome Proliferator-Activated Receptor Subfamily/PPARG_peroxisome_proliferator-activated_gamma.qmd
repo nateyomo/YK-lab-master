@@ -1,0 +1,53 @@
+---
+title: Peroxisome Proliferator-Activated Gamma (PPAR-&gamma;)
+---
+
+type II nuclear receptor, initially recognized in adipose tissue for its role in fatty acid storage and glucose metabolism
+
+It promotes lipid uptake and adipogenesis by increasing insulin sensitivity and adiponectin release.
+
+
+# Function
+
+PPAR-&gamma; has 3 primary functions
+
+1. Regulate anabolism of the adipose tissue @kokenyPPARgTGFvMajorRegulators2021
+1. Important role in glucose metabolism @kokenyPPARgTGFvMajorRegulators2021
+1. Important role in cardiac development @kokenyPPARgTGFvMajorRegulators2021 
+
+
+# Relationship to TGF-&beta;
+another superfamily, the transforming growth factor beta (TGF-&beta;), and its receptors, all of which play a major role in *Pulmonary artierial hypertension* and kidney failure
+
+
+TGF-&beta; is a multifunctional cytokine that drives inflammation, fibrosis, and cell differentiation while PPARγ activation reverses these adverse events in many models
+
+
+# Genes
+
+In humans, the PPAR-&gamma; gene contains nine exons spanning over 100 kilobases located on *chromosome 3* @kokenyPPARgTGFvMajorRegulators2021
+
+# Gene regulation
+
+PPAR-&gamma; can regulate target genes by forming a heterodimer with the retinoid X receptor (RXR) @kokenyPPARgTGFvMajorRegulators2021
+
+# Mutations
+
+Mutations in PPAR-&gamma; gene have been associated with:
+
+1. Lipid homeostasis dysfunction @kokenyPPARgTGFvMajorRegulators2021
+1. Glucose homeostasis dysfunction @kokenyPPARgTGFvMajorRegulators2021
+
+Which lead to secondary pathologies of:
+
+1. Obesity @kokenyPPARgTGFvMajorRegulators2021
+1. Type 2 Diabetes Mellitus (T2DM) @kokenyPPARgTGFvMajorRegulators2021
+1. Thyroid Cancer @kokenyPPARgTGFvMajorRegulators2021
+
+# Facilitators
+
+- Heat-shock protein 90 (Hsp90)
+
+# Inhibitors
+
+- TGF-&beta;1 @kokenyPPARgTGFvMajorRegulators2021

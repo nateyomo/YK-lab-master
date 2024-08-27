@@ -1,0 +1,22 @@
+---
+title: Two-Way ANOVA
+---
+
+# Purpose
+
+A two-way analysis of variance is designed to address three main questions: 
+
+1. Does the additive model hold? @navidiStatisticsEngineersScientists2015 
+2. If so, is the mean outcome the same for all levels of the row factor? @navidiStatisticsEngineersScientists2015
+3. If so, is the mean outcome the same for all levels of the column factor? @navidiStatisticsEngineersScientists2015
+
+
+# Assumptions
+
+The standard two-way ANOVA hypothesis tests are valid under the following conditions: 
+
+1. The design must be complete @navidiStatisticsEngineersScientists2015. 
+2. The design must be balanced @navidiStatisticsEngineersScientists2015. 
+3. The number of replicates per treatment, K , must be at least 2 @navidiStatisticsEngineersScientists2015. 
+4. Within any treatment, the observations Xij1,...,XijK are a simple random sample from a normal population @navidiStatisticsEngineersScientists2015. 
+5. The population variance is the same for all treatments. We denote this variance by $\sigma^2$  @navidiStatisticsEngineersScientists2015.

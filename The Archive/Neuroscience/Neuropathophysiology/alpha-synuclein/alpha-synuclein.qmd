@@ -1,0 +1,15 @@
+---
+title: "&alpha;-Synuclein (&alpha;-syn)"
+
+---
+
+
+&alpha;-synuclein refers to highly soluble unfolded protein that accumulates in Lewy bodies and Lewy neurites in [Parkinson's disease (PD)]({{< var ref-parkinsons-disease.path >}}) and other synucleinopathies.
+
+
+# Causes
+
+- Several studies have given different reasons for abnormal aggregation of α-syn @montalban-rodriguezGutBrainRole2024.
+- For example, researchers have found mutations of the A30P, E46K, and A53T proteins, as well as duplications of the SNCA gene, which encodes α-syn @montalban-rodriguezGutBrainRole2024
+- Oxidative stress is an important factor for the aggregation of α-syn to form Lewy’s bodies @montalban-rodriguezGutBrainRole2024.
+- Defects in ubiquitination have also been described as a cause for abnormal degradation of the protein by neuronal proteasomes @montalban-rodriguezGutBrainRole2024.

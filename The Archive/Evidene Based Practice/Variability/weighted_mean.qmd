@@ -1,0 +1,35 @@
+---
+title: Weighted Mean
+---
+
+
+# Significance
+
+Weighted means are very common in statistics, especially when studying populations.
+
+
+# Calculation
+
+## Weighted mean for percentages
+
+- Exam 1: 15 % of your grade
+- Exam 2: 40 % of your grade
+- Exam 3: 45 % of your grade
+
+Exam grades:
+
+- Exam 1 Grade: 80%
+- Exam 2 Grade: 90%
+- Exam 3 Grade: 100%
+
+What is your final weighted average for the class?
+
+Step 1: Multiply the numbers in your data set by the weight
+
+$$
+\textrm{Weight of an exam} = \textrm{Exam Weight} \times \textrm{Exam Grade}
+$$
+
+$$
+\textrm{Weight of Exam 1} = (0.15) \times (0.80)
+$$

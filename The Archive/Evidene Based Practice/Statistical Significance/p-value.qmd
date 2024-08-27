@@ -1,0 +1,24 @@
+---
+title: P-value
+subtitle: A test of significance
+---
+
+# Definition
+
+- *p*-value is the tail probability calculated using a test statistic @chenRolesChallengesMerits2023
+
+
+# Calculation
+
+To define it formally, let us use an example. A psychologist was interested in estimating the average fluid intelligence (Gf) in a specific age group. Suppose Gf follows a normal distribution, and we denote Xi as the Gf score for an individual i  ̨ f1; 2; :::g, then
+
+
+- i.i.d: Indicates independent and identically distributed
+
+![Significance level (type I error), type II error, and power. The significance level (type I error or &alpha;) is a predetermined value (say 0.05), which quantifies the probability of observing extreme values given that the null hypothesis is true (red shades). The type II error (or b) quantifies the probability of failing to reject the null hypothesis given that the alternative hypothesis is true (blue shades). The power (or $1-\beta$) quantifies the probability of rejecting the null hypothesis given that the alternative hypothesis is true (dashed shades). The value ($1-\alpha$) quantifies the probability of failing to reject the null hypothesis when it is true (represented by the white area, not completely shown, under the null hypothesis curve) @chenRolesChallengesMerits2023](\The Archive/Evidene Based Practice/Statistical Significance/images/chen fig3 p-value error.png)
+
+
+
+# p hacking
+
+"We define p hacking as taking inappropriate steps, whether consciously or innocently, to obtain significant p value(s) in science. Compared with misuses discussed below, which are not completely unfounded but not ideal, p hacking is, in general, inappropriate statistical practice, and one should strive to avoid it." @chenRolesChallengesMerits2023 

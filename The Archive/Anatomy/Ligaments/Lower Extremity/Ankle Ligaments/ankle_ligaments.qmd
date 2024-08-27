@@ -1,0 +1,13 @@
+---
+title: Ankle Ligaments
+---
+
+
+# Lateral Ankle Ligaments
+
+| Ligament  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Anterior Talofibular Ligament]({{< var ref-anterior-talofibular-ligament.path >}}) | {{< var ref-anterior-talofibular-ligament.origin >}} | {{< var ref-anterior-talofibular-ligament.insertion >}} | {{< var ref-anterior-talofibular-ligament.nerve >}} | {{< var ref-anterior-talofibular-ligament.action >}} |
+| [Posterior Talofibular ligament]({{< var ref-posterior-talofibular-ligament.path >}}) | {{< var ref-posterior-talofibular-ligament.origin >}} | {{< var ref-posterior-talofibular-ligament.insertion >}} | {{< var ref-posterior-talofibular-ligament.nerve >}} | {{< var ref-posterior-talofibular-ligament.action >}} |
+| [Calcaneofibular lig.]({{< var ref-calcaneofibular-ligament.path >}}) | {{< var ref-calcaneofibular-ligament.origin >}} | {{< var ref-calcaneofibular-ligament.insertion >}} | {{< var ref-calcaneofibular-ligament.nerve >}} | {{< var ref-calcaneofibular-ligament.action >}} |
+: Lateral Ligaments of the Ankle {.striped .hover}

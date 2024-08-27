@@ -1,0 +1,5 @@
+---
+title: "&alpha;-synucleinopathies"
+---
+
+"Importantly, GI symptoms (hypersalivation, dyspepsia, constipation, abdominal pain, or defecatory dysfunction) are common non-motor manifestations of PD with at least one of them present in 60–80% of PD patients [1,2]. In support of Braak’s hypothesis, several research groups propose that these non-motor symptoms may indicate the onset of α-syn pathology" @montalban-rodriguezGutBrainRole2024

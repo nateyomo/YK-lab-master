@@ -1,0 +1,100 @@
+---
+title: CNIII Oculomotor Nerve
+---
+
+```{mermaid}
+flowchart TD
+  A[Interpeduncular fossa of Midbrain] --> B[Oculomotor Nucleus]
+  
+  
+  B -- Somatic motor --> C[Superior ORbital fissure]
+  C --> D[Extraocular muscles]
+  D --> E{Somatic Motor}
+  
+  A --> F[Edinger-Westphal Nucleus]
+  F -- Parasympathetic Efferent --> C
+  C --> G[Ciliary ganglion]
+  G -- Postganglionic parasympathetic fibers --> H{GVE: Sphincter pupillae & Ciliary muscles}
+
+```
+
+
+
+
+# Overview
+
+- CNIII refers to nerve fibers containing somatic motor fibers running to extraocular muscles of the eye as well as parasympathetic efferent fibers running to the muscles in the lens.
+- CNIII is myelinated by Schwann cells and is therefore considered part of the PNS.
+
+
+
+# Pathway
+
+- CNIII travels with [CN IV]({{< var ref-cn4.path >}}) and [VI]({{< var ref-cn6.path >}}) through the cavernous sinus @blumenfeldNeuroanatomyClinicalCases2022.
+
+- Next, these three nerves leave the skull through the superior orbital fissure to synapse and innervate the [extraocular muscles]({{< var ref-extraocular-muscles.path >}}) @blumenfeldNeuroanatomyClinicalCases2022.
+- CN III also carries parasympathetics to the pupillary constrictor and to the ciliary muscle of the lens @blumenfeldNeuroanatomyClinicalCases2022.
+
+# Function
+## Somatic motor control of Extraocular muscles
+
+- Superior Recti
+- Medial Recti
+- Inferior Recti
+- Inferior Oblique
+
+
+## Parasympathetic efferent to lens
+
+
+![Cranial Nerve Sympathetic Pathways (from Blumenfield Figure 12.6 @blumenfeldNeuroanatomyClinicalCases2022)](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.6 cranial nerve parasympathetic pathways blumenfield2022.png)
+
+
+# Dysfunction
+
+# Clinical Presentation
+
+::: {.columns}
+::: {.column}
+### Diploplia
+:::
+::: {.column}
+
+:::
+:::
+
+::: {.columns}
+::: {.column}
+### Ptosis
+:::
+::: {.column}
+
+- levator palpebral ptosis damage to lev palp results in no AP
+:::
+:::
+
+
+::: {.columns}
+::: {.column}
+### Mydriasis
+:::
+::: {.column}
+
+- Loss of parasympathetic innervation of Constrictor Pupillae
+:::
+:::
+
+::: {.columns}
+::: {.column}
+### Down & Out Gaze
+:::
+::: {.column}
+
+:::
+:::
+
+
+
+
+
+

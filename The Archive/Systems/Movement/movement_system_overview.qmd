@@ -1,0 +1,14 @@
+---
+title: Movement System
+---
+
+
+# Voluntary Movement
+
+- [Lateral Corticospinal tract (LCST)]({{< var ref-lateral-corticospinal-tract.path >}}) @osullivanPhysicalRehabilitation2019
+
+
+# Head and Neck
+
+Head and neck positioning is performed by the medial vestibulospinal tract
+

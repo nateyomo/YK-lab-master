@@ -1,0 +1,54 @@
+---
+title: Tibiofemoral Joint
+---
+
+"The tibiofemoral joint consists of the distal end of the femur and the proximal end of the tibia (Fig. 20-1). The tibiofemoral joint has great demands placed on it in terms of both stability and mobility. The femur is the largest bone in the body and represents approximately 25% of a person’s height.2 Its distal aspect (Fig. 20-1) is composed of two femoral condyles that are separated by an intercondylar notch or fossa. The intercondylar notch serves to accept the anterior cruciate ligament (ACL) and the posterior cruciate ligament (PCL)." @duttonDuttonOrthopaedicExamination2020
+
+"The femoral condyles (see Fig. 20-1) project posteriorly from the femoral shaft. The smaller lateral femoral condyle is ball-shaped and faces outward, whereas the elliptical-shaped medial femoral condyle faces inward. The lateral condyle serves as the origin of the popliteus, whereas the lateral epicondyle serves as the origin of the lateral head of the gastrocnemius and the lateral collateral ligament (LCL). The medial epicondyle (see Fig. 20-1) serves as the insertion site for the adductor magnus, the medial head of the gastrocnemius, and the medial collateral ligament (MCL)." @duttaRanksumTestClustered2016
+
+"The anteroposterior length of the adult medial femoral condyle is on average 1.7 cm greater than that of its lateral counterpart, resulting in an increased length of the articular surface on the medial femoral condyle as compared with that of the lateral femoral condyle.1 Thus, the articulating surfaces are asymmetric, yet work in unison.4 The distal and the posterior portion of the femoral condyles articulate with the tibia." @duttonDuttonOrthopaedicExamination2020
+
+"The proximal tibia (see Fig. 20-2) is composed of two plateaus separated by the intercondylar eminence, including the medial and lateral tibial spines. The tibial plateaus are concave in a mediolateral direction. In the anteroposterior direction, the medial tibial plateau is also concave, whereas the lateral is convex, producing more asymmetry and an increase in lateral mobility. The medial plateau has a surface area that is approximately 50% greater than that of the lateral plateau, and its articular surface is three times thicker.1 The concavity of the tibial plateaus is accentuated by the presence of the menisci (see later)." @duttonDuttonOrthopaedicExamination2020 
+
+# Biomechanics
+
+"The tibiofemoral joint, or knee joint, is a ginglymoid, or modified hinge joint, which has six degrees of freedom. For example, during gait it rotates about the sagittal, transverse, and coronal axes (i.e., osteokinematics), and translates in the sagittal, transverse, and coronal planes (i.e., arthrokinematics). The bony configuration of the knee joint complex is geometrically inappropriate and lends little inherent stability to the joint. Joint stability is, therefore, reliant on the static restraints of the joint capsule, ligaments, and menisci, and the dynamic restraints of the quadriceps, hamstrings, and gastrocnemius. Since the ligaments share tensile load-carrying functions with the musculotendinous units, these structures can be considered to complement each other’s functions directly. The PCL is located very near the long axis of tibial rotation and has been described as the main stabilizer of the knee." @duttonDuttonOrthopaedicExamination2020 
+
+"The most common knee motions consist of flexion and extension in the sagittal plane, coupled with other motions such as varus and valgus motions, and external and internal rotation. This is because the longitudinal axis of the knee is not perpendicular to the sagittal plane but lies along a line that connects the origins of the collateral ligaments on the medial and lateral femoral epicondyles." @duttonDuttonOrthopaedicExamination2020 
+
+"All the motions about the tibiofemoral joint consist of a rolling, gliding, and rotation of the femoral condyles and the tibial plateaus (Fig. 20-5). This rolling, gliding, and rotation occur almost simultaneously, albeit in different directions, and serve to maintain joint congruency." @duttonDuttonOrthopaedicExamination2020 
+
+- "Flexion and extension occur with a mediolateral translation around a mediolateral axis. In the relaxed standing position, with the knee straight or slightly flexed, the vector force is behind the knee; therefore, there is a tendency for further knee flexion unless the quadriceps contracts." @duttonDuttonOrthopaedicExamination2020 
+- "A varus–valgus angulation occurs with anteroposterior translation around an anteroposterior axis." @duttonDuttonOrthopaedicExamination2020 
+- "External and internal rotation of the joint occurs with superior–inferior translation around a superoinferior axis and transverse plane. The available range of motion (ROM) in rotation is dependent on the flexionextension position of the knee.37 The amount of rotation progressively increases from no rotation at the terminal extension to 70 degrees of rotation (40 degrees of external rotation and 30 degrees of internal rotation) available at 90 degrees of flexion. The amount of available rotation decreases as further flexion occurs." @duttonDuttonOrthopaedicExamination2020 
+
+
+"During the initial 30 degrees of knee flexion, the LCL provides a greater contribution to resisting tibial varus, and the PMTC provides a greater contribution to resisting tibial external rotation and posterior translation.32,38 For flexion to be initiated from a position of full extension, the knee joint must first be “unlocked.” As mentioned previously, the service of locksmith is provided by the popliteus muscle, which acts to internally rotate the tibia with respect to the femur, enabling flexion to occur." @duttonDuttonOrthopaedicExamination2020 
+
+"During flexion of the knee, the femur rolls posteriorly and glides anteriorly, with the opposite motion occurring during extension of the knee. This arrangement resembles a twin wheel, rolling on a central rail. Available knee flexion can vary between 120 and 160 degrees, depending on the position of the hip and the girth of the soft tissues around the leg and the thigh." @duttonDuttonOrthopaedicExamination2020 
+
+"From 30 to 5 degrees of WB knee extension (moving toward full knee extension), the lateral condyle of the femur, together with the lateral meniscus, becomes congruent, moving the axis of movement more laterally. The tibial glide now becomes much greater on the medial side, which produces internal rotation of the femur, and the ligaments, both extrinsic and intrinsic, start to tighten near terminal extension. At this point, the cruciate ligaments become crossed and are tightened." @duttonDuttonOrthopaedicExamination2020 
+
+"In the last 5 degrees of extension, rotation is the only movement accompanying extension. This rotation is referred to as the “screw home” mechanism and is a characteristic motion in the normal knee, in which during terminal knee extension the tibia externally rotates relative to the femur (Fig. 20-3). This motion is known to be a complex function of surface geometry of the menisci, tension in the ligamentous structures, and the action of muscles. This external rotation of the tibia through swing into stance allows for the tibia and foot to be in the correct alignment at initial contact.39 Interestingly, the screw home mechanism is reduced in ACL-deficient knees, which could be attributed to a reduction in passive tension developed during terminal stance, thereby influencing the sensation of knee instability in these individuals." @duttonDuttonOrthopaedicExamination2020 
+
+"Knee hyperextension is usually available from 0 to 15 degrees.41 During knee hyperextension, the femur does not continue to roll anteriorly but instead tilts forward. This creates anterior compression between the femur and the tibia. In the normal knee, bony contact does not limit hyperextension as it does at the elbow. Rather, hyperextension is checked by the soft-tissue structures. When the knee hyperextends, the axis of the thigh runs obliquely inferiorly and posteriorly, which tends to place the ground reaction force anterior to the knee. In this position, the posterior structures are placed under tension, which helps to stabilize the knee joint, negating the need for quadriceps muscle activity." @duttonDuttonOrthopaedicExamination2020 
+
+# Capsular Pattern
+
+"The normal capsular pattern of the knee joint is a gross limitation of flexion and slight limitation of extension. The ratio of flexion to extension is roughly 1:10; thus, 5 degrees of limited extension corresponds to a 45–60-degree limitation of flexion. The causes of a capsular pattern in the knee are the same as for any other joint. These include traumatic arthritis, rheumatoid and reactive arthritis, osteoarthrosis, monarticular and steroid-sensitive arthritis, crystal synovitis or gout, hemarthrosis, and septic arthritis." @duttonDuttonOrthopaedicExamination2020 
+
+# Closed vs Open Chain
+
+"Open-kinetic chain (OKC) and closed-kinetic chain (CKC) exercises have different effects on tibial translation and ligamentous strain and load:" @duttonDuttonOrthopaedicExamination2020 
+
+- "During active OKC knee extension, the shear component produced by unopposed contraction of the quadriceps depends on the angle of knee flexion, increasing as the knee flexion angle increases." @duttonDuttonOrthopaedicExamination2020 
+- "During CKC exercises for the lower extremity, the flexion moment arms of the knee and the hip increase as a squat is performed." @duttonDuttonOrthopaedicExamination2020
+
+# Dysfunction
+
+:::{.callout-note title="ACL Deficient Knees"}
+
+"The transition from NWB to WB has been found to produce a threefold increase of anterior translation of the tibia relative to the femur in the ACL-deficient knee compared with the contralateral normal knees." @duttonDuttonOrthopaedicExamination2020
+:::
+
+

@@ -1,0 +1,26 @@
+---
+title: Erb's Palsy
+subtitle: Upper Obstetrical Brachial Plexus Palsy
+---
+
+- Upper Obstetrical brachial palsy of the [brachial plexus]({{< var ref-brachial-plexus.path >}}) involving [C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), and usually [C7]({{< var ref-nerve-root.c7 >}}) Nerve roots @duttonDuttonOrthopaedicExamination2020.
+- Upper obstetrical brachial palsy is also called "Erb's Palsy" @duttonDuttonOrthopaedicExamination2020 
+- The majority of cases of obstetric brachial plexus palsy involve "Erb's Palsy" @duttonDuttonOrthopaedicExamination2020.
+- Erb's Palsy lesions are always supraclavicular @duttonDuttonOrthopaedicExamination2020.
+
+# Clinical Presentation
+
+Infants with Erb's Palsy will demonstrate a "Waiter's Tip posture" @duttonDuttonOrthopaedicExamination2020 
+
+## Waiter's Tip Posture
+
+Waiter's tip posture refers to a position of the paralyzed limb @duttonDuttonOrthopaedicExamination2020. 
+This posture occurs due to paralysis and later atrophy of the deltoid, biceps, brachialis, and brachioradialis muscles @duttonDuttonOrthopaedicExamination2020.  
+
+- The GHJ will be internally rotated at the side of the chest @duttonDuttonOrthopaedicExamination2020 
+- The elbow has 2 variations depending on level of nerve root damage:
+    - Elbow Extension is due to paralysis of [C5]({{< var ref-nerve-root.c5 >}}) & [C6]({{< var ref-nerve-root.c6 >}}) @duttonDuttonOrthopaedicExamination2020
+    - Slightly flexed due to paralysis of [C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), & [C7]({{< var ref-nerve-root.c7 >}})
+- The forearm is pronated @duttonDuttonOrthopaedicExamination2020 
+- The wrist and the fingers are flexed @duttonDuttonOrthopaedicExamination2020 
+

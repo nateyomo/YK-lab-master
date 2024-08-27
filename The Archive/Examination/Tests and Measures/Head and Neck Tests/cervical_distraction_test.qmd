@@ -1,0 +1,36 @@
+---
+title: Cervical Distraction Test
+---
+
+
+# Purpose
+
+# Technique
+
+
+- Patient positioned in supine @duttonDuttonOrthopaedicExamination2020
+- Clinician is standing at the head of the patient @duttonDuttonOrthopaedicExamination2020
+- Place one hand around the occiput (lumbrical grip) @duttonDuttonOrthopaedicExamination2020
+- Using the other hand, the clinician wraps the hand gently around the patient’s head @duttonDuttonOrthopaedicExamination2020
+- Apply a traction force @duttonDuttonOrthopaedicExamination2020 
+
+# Grading
+
+This test is graded by assessing the patient's symptoms
+
+- Negative test: Same/increased symptoms
+- Positive test: Reduced symptoms @duttonDuttonOrthopaedicExamination2020
+    - Indicative of some form of foraminal compression @duttonDuttonOrthopaedicExamination2020
+    - [Z-joint irritation]({{< var ref-z-joint-irritation.path >}}) @duttonDuttonOrthopaedicExamination2020
+
+# Validity
+
+| | Value | Note |
+|-|-|-|
+| Specificity | {{< var ref-cervical-distraction-test.specificity >}} @duttonDuttonOrthopaedicExamination2020 | |
+| Sensitivity | {{< var ref-cervical-distraction-test.sensitivity >}} @duttonDuttonOrthopaedicExamination2020 | |
+: Validity {.striped .hover}
+
+
+
+

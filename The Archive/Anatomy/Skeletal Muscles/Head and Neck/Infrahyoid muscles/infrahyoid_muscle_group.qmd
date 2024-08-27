@@ -1,0 +1,9 @@
+---
+title: Infrahyoid muscle group
+---
+
+
+So what fixes the hyoid bone in place you ask?
+INFRAHYOID muscles - sternohyoid, sternothyroid, thyrohyoid, omohyoid (inferior hyoid to sternum, thyroid cartilage, scapula) 
+
+- help with speech, [swallowing]({{< var ref-swallowing.path >}}), and tongue movements

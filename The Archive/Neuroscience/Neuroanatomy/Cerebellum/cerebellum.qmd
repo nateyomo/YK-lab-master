@@ -1,0 +1,17 @@
+---
+title: Cerebellum
+---
+
+
+
+
+# Dysfunction
+
+:::{.callout-note title="DPT 836"}
+Lesions result in issues with movement coordination, equilibrium, and postural and proximal stability
+:::
+
+
+# Symptoms
+
+- [Cerebellar Ataxic Gait]({{< var ref-gait.symptom.cerebellar-ataxic >}})

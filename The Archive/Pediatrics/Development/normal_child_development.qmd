@@ -1,0 +1,423 @@
+---
+title: Normal Child Development
+---
+
+
+# Why should we care about normal development?
+
+- Need a baseline for “normal” to identify problems
+- Identifies atypical behavior
+
+# Developmental sequence 
+
+
+:::{.callout title="Darrah et al. (1998)"}
+
+Darrah et al 1998, tested motor skills of 45 infants every month from 2 weeks to time of independent walking
+
+- Ton of variability is what he found
+- Created Alberta Infant Motor Scale (AIMS)
+- LARGE variation in motor skills in first year
+- All pts will present differently, Examination is a snapshot of what happens in that moment
+    - Could differ (dependent on emotion, sleepiness, etc) 
+- So may not be entirely accurate– must keep in mind
+:::
+
+# Variability in Development
+
+## Intrinsic and Extrinsic factors
+
+- **Individual**:  physiology (ie height weight of baby), temperament, cognition 
+<details>
+(one with lower cognition will have less motivation to move)
+</details>
+
+- **Environment**: immediate microsystem → womb, family, home, surroundings, peers 
+<details>
+    - (could also be in utero environment, was there trauma w their pregnant person)
+</details>
+
+- **Exosystem**: extended family, neighborhood, school
+- **Macrosystem**: community, economic system, culture 
+
+
+# Theories in child development
+
+[Read more about theories in child development]({{< var ref-overview-theories-of-child-development.path >}})
+
+
+# Year 1 Development
+
+## Neonate (Sub-1 month)
+
+- Motor ability:
+    - Gross motor- Flexion dominates posture, random movements with little control, reflexive movement
+    - Fine motor- hands generally fisted (indwelling or outdwelling thumb → does not make a difference) 
+    - Their muscle tone is springy
+- Feeding: every 2-4 hours, breast or bottle feeding only
+- Cognitive ability:
+    - Cognition- attends to sound, begins to track (used to being around background noise, quiet is odd) 
+- WB surface:on face 
+- Interests
+    - Don't care about toys (visual acuity is not high)
+    - They just want to be held and talked to
+
+Tests:
+
+- They will recoil back to flexion position if stretched out → if they don't , can be a problem 
+- NO vertebral discs
+- some ossification
+- lots of cartilage in babies
+
+## Month 1
+
+- Motor
+    - Gross motor: increased extension and mobility, cont. Random mvmts, attempts head control
+    - Fine motor: open and closes hands, reflexive grasp
+    - Fidgety movement still
+    - Start to move out of physiological flexion 
+- Feeding: begins to anticipate feeding
+- Cognition: 
+    - Eye tracking is smoother
+    - Eye is more accurate than hand
+    - More visual tracking: They are checking things out
+    - Can start to swipe at things
+- WB:
+    - Weight bearing more at trunk (moves cephalocaudal) 
+
+## Month 2
+
+- Motor
+    - Gross motor: brief head control, more variable extremity mvmt
+    - Fine motor: beginning to swipe at toys, hands more open
+- Feeding: cont. breast/bottle feeding
+- Phonation: begins cooing
+- Cognition:
+    - May track 180$^\circ$
+    - More attempts to explore world 
+
+Assessment
+
+- Hard to tell if there are true delays, bc there are lots of asymmetries as babies start to move across gravity
+- This age- start to see some asymmetries: 
+    - Can swat at one thing not other side
+    - head turned more to one side
+    - may or may not be indicative of an issue --> just watch it 
+
+## Month 3
+
+- Motor
+    - Gross motor: symmetry and midline orientation, head steadier
+        - Movement happens from midline out (prox to distal)
+        - Starting to also see hands coming together at midline
+        - Lots of hands to the mouth
+    - Fine motor: 
+        - Swipes at object
+        - Gross grasp
+    - Oral motor: strong hand to mouth
+- Functions
+    - Phonation: more variety of sound
+- Cognition
+    - Consistently tracking 180$^\circ$
+    - Exploring world with their hands
+- WB: 
+    - Head comes off of surface
+    - Head ext 45-90$^\circ$ in prone (more post chain activation)
+
+Assessment
+
+- If there's a chance of visual problems (ie result of prematurity → retinopathy) need to pay attention to that
+    - if not developing as it should, will affect their development 
+- Pseudoneglect: If always turning head to one side, could develop pseudo neglect 
+    - Introduce their other side to these types of children 
+
+## Month 4
+
+Motor
+
+- Gross motor
+    - Controlled, purposeful movement
+    - May not WB in standing
+- Fine motor: Symmetrical and accurate reaching
+
+Functions
+
+- Feeding: May begin eating solids from spoon
+    - Some babies eat solid foods → variable on parents
+    
+    - Can help Rolling up kitchen towels to provide positioning assistance w feeding
+- Phonation - may start babbling (when strong enough torso/core strength ) 
+
+Cognition
+
+- [Object permanence]({{< var ref-object-permanence.path >}}) develops
+- Improved visual control 
+
+Assessment: 
+
+Is the baby safe to eat solids?: Is your baby able to sit up, maintain head control, are they able to be in a safe position, can they get enough chin tuck to safely swallow foods
+
+## Month 5
+
+Motor:
+
+- Gross motor: beginning to roll and prop sit briefly, head control should be presents in all positions
+    - Nice palmar grasp - can reach for things 
+    - Good upright sitting position 
+- Fine motor- refined reach with improved eye hand coordination , uses palmer grasp 
+
+Functions:
+
+- Feeding - may start to munch solids, bite soft foods
+    - May or may not see feeding
+- Phonation - babbling, vowel consonants sounds
+
+Cognition
+
+- Smiles at mirror image
+
+
+## Month 6
+
+- Gross motor - more functional and active , sits, rolls, bouncing on feet
+- Fine motor - transferring objects, radial or palmar grasp
+- Feeding - begin large finger foods and cup cont. breast/bottle
+- Phonation - babbles longer, more variety
+- Cognition - beginning cause and effect
+    - Can be bouncing and dancing a lil 
+    - Transferring objects 
+- Some babies are on hands and knees (in quadruped) rocking or pushing backward
+
+
+## Month 7
+
+Motor
+
+- Gross motor - wider variety between babies , beginning mobility skills - push to sit , quad crawling, pull to [stand]({{< var ref-standing-pediatric.path >}}), cruising
+- Fine motor - UE free in sitting, radial palmar grasp (grasping more on thumb side) , rakes small objects
+
+Functions
+
+- Feeding: more variable jaw and tongue mvmts 
+- Phonation - cont’d babbling, more vowel - consonant sounds
+
+Cognition
+
+- Cognition - responds to name 
+:::{.callout-tip}
+These babies respond to the name their family calls them, not necessarily their birth name. You should ask the family what they call the baby day to day.
+:::
+
+- Walking on hands and knees , bear walking, some may [stand]({{< var ref-standing-pediatric.path >}})
+- Some cruising on furniture 
+- For good development- thing figure out lots of ways to move  (variability) 
+- Children w atypical development–> paucity of mvmt, lack of variability, 1 way to crawl/walk, if not available they do not know what to do
+
+
+## Month 8 {#month-8}
+
+Gross motor - very busy and active babies, improved pull to [stand]({{< var ref-standing-pediatric.path >}}) and cruising 
+Fine motor - uses a radial digital grasp (like an OK sign almost, a pinch) and a scissor grasp and a scissor grasp w. Small objects 
+Feeding - holds bottle, finger feeds
+Phonation - repeats consonant vowel string in syllables
+Cognition -familiar /unfamiliar items 
+They’re ON THE MOVE! 
+
+Transportation:
+
+- [Crawling]({{< var ref-crawling.path >}}) = on bellies like army crawling
+- [Creeping]({{< var ref-creeping.path >}}) =  hands and knees crawling
+
+## Month 9
+
+- Gross motor - skill level differences between babies continues to inc, creeping mode of transport, [cruising]({{< var ref-cruising-pediatric.path >}}) (stand/walking along furniture)  laterally
+- Fine motor - inf pincer grasp emerging
+
+
+## Month 10
+
+Motor
+
+- Gross motor- cruising progression  (can go across gaps of furniture, single leg balance, weight shift to one leg prepares for walking = PRE gait activities!) 
+- Fine motor- pincer grasp, “three-jaw chuck”, reaching across midline
+
+Functions
+
+- Feeding- finger feeding, use of cup
+- Phonation- playing more with sounds, pitches, inflections
+    - May have vocalizations that mirror the language vocal pattern 
+
+Cognition
+
+- Goal directed play
+- Container play
+- Follow simple commands
+    - ie: give me block
+    
+
+Assessment
+
+- Assess simple command comprehension
+    - May need to add a visual prompt w hand to help understand 
+
+## Month 11
+
+- Gross motor: may begin independent standing and walking
+- Fine motor: uses both hands to clap, neat pincer grasp
+- Some may start walking (not a predictor of anything) 
+
+Assessment
+
+-  If we are not seeing some of these things, go back and give child more support
+- Give them some lateral trunk support, change angle of pelvis, give a more stable base so they can now do distal mobility (prox stability →leads to distal mobility) 
+
+## Month 12
+
+Motor
+
+Gross motor: many babies are walking independently by 12 months
+Fine motor: superior or fine pincer grasp, more manipulation of objects
+
+Function
+
+- Feeding: 
+    - Drinks from cup but still spills
+    - Lip closure with spoon feeding
+- Phonation: beginning to approximate words/jargons
+
+Cognition
+
+- Able to follow directions
+    - One step directions only (can follow a one step command)
+        - "Bring me the ball"
+        - "Go get shoes"
+
+
+# Toddler & Preschool Development
+
+## Month 12-18
+
+- Gross motor (generally walking):
+    - Locomotion: Independent ambulation, walks fast, stairs w rail
+    - Needs some single leg stance ability  → or in prep for 
+        - More time in SLS, important ⇒ main balance center: glute meds
+    - Must have pre walking skills mastered: stepping, balance, environmental responses
+        - Look at surface changes, some kids don't like certain surfaces
+        - Shoes vs barefoot
+
+
+Fine motor
+
+- beginning to "draw"
+- stacking cubes
+
+Feeding: independent w spoon
+
+Cognition
+
+- Language: 10 word vocab
+
+:::{.callout}
+Limited vocabular could include things like "ba" to refer to a ball
+:::
+
+Cognition has developed to include imitative play: Banana = phone
+
+When kids are mastering one skill, they are experiencing one skill down the line
+
+
+## Months 18-24
+
+Gross Motor:
+
+- Locomotion: 
+    - Attempts to run but does not achieve flight, some steps unsupported
+    - Gait: 
+        - Heel strike
+        - Reciprocal arm swing (closer to 24 months)
+
+Fine Motor:
+
+- Scribble
+- Turns pages of book
+- Stacks 4 cubes
+
+Feeding: Uses cup and spoon
+
+:::{.callout-note}
+
+- SLPs no longer recommend sippy cups
+- Open cup or straw
+:::
+
+Language:
+
+- More understandable
+- Combines words 
+
+
+
+## Year 2
+
+Gross motor:
+
+- Running
+    - Unable to vary speed
+    - Achieves flight
+- Stairs alone
+    - Tries to jump up and down from step
+- Gait
+    - Dependent on "Gait Age"
+    - Heel strike
+
+Fine motor:
+
+- Stack 6 cubes
+- Turn doorknobs
+- Vertical stroke w crayon, 
+
+Feeding: spills less from cup
+
+
+## Year 3
+
+:::{.callout-note}
+All of this depends!
+:::
+
+Gross motor:
+
+- Stairs: Independent
+- Balance: Can SLS
+- Tricycle 30-36 mos
+- Gait: more mature gait pattern
+
+Fine motor:
+
+- Cuts with scissors
+- Undresses
+- Begins to dress independently
+
+
+## Year 4
+
+- Gross motor - running is more smooth/ fluid , jumps well, hops on one foot (solid milestone, makes assumptions that they have met other skills)
+- Fine motor- cuts around pictures, simple puzzles, button and unbutton
+
+## Year 5
+
+- Gross motor, running mature, jump rope and kick ball well (within vicinity of target)
+    - Can they do 2 things at the same time basically
+- Fine motor- print letters, dresses independently
+
+
+# School aged (5+)
+
+## Year 7-8
+7-8 years = longer attention span
+
+## Year 9-10
+9-10 years = increased strength and endurance
+
+## Year 11-12
+11-12 years= nearly adult skills

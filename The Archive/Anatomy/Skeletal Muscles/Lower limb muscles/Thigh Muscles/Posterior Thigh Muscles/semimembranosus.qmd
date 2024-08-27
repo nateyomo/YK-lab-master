@@ -1,0 +1,60 @@
+---
+title: Semimembranosus
+---
+
+
+# Overview
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "semimembranosus"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Semimembranosus Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Origin {#origin}
+Ischial tuberosity @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+- Medial tibial condyle @gilroyAtlasAnatomy2020 
+- Oblique popliteal lig. @gilroyAtlasAnatomy2020 
+- Popliteus fascia @gilroyAtlasAnatomy2020 
+
+
+
+# Innervation {#innervation}
+[Tibial N. (*Tibial division of Sciatic N.*)]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) (L5–S2) @gilroyAtlasAnatomy2020 
+
+
+# Action {#action}
+
+- **Hip**: Extension @gilroyAtlasAnatomy2020
+- **Pelvic Stabilization**: Sagittal plane @gilroyAtlasAnatomy2020
+- **Knee**: Flexion and Internal rotation @gilroyAtlasAnatomy2020 
+
+
+
+
+
+# Overview
+
+"The semimembranosus attaches distally to the posterior side of the medial condyle of the tibia. Additional distal attachments of this muscle include the MCL, both menisci, and the oblique popliteal ligament. For most of its course, the sinewy semitendinosus tendon lies posterior to the semimembranosus muscle. Just proximal to the knee, however, the tendon of the semitendinosus courses anteriorly toward its distal attachment on the anteriormedial aspect of tibia. Both heads of the biceps femoris attach primarily to the head of the fibula, with lesser insertions to the lateral collateral ligament, the capsule of the proximal tibiofibular joint, and the lateral tubercle of the tibia.265" @neumannKinesiologyMusculoskeletalSystem2017 
+
+
+"The semimembranosus muscle (Fig. 19-8) arises from the lateral facet of the ischial tuberosity and the ischial ramus. This muscle inserts into the posteromedial aspect of the medial tibial condyle and has a key expansion that reinforces the posteromedial corner of the knee capsule. The semimembranosus pulls the meniscus posteriorly, and internally rotates the tibia on the femur, during knee flexion, although its primary function is to extend the hip and flex the knee." @duttonDuttonOrthopaedicExamination2020

@@ -1,0 +1,12 @@
+---
+title: Spontaneous recovery
+---
+
+
+Spontaneous recovery refers to the restoration of function in neural tissues initially lost after injury, resulting from naturally occurring repair processes within the CNS @osullivanImprovingFunctionalOutcomes2016
+
+:::{.callout-note}
+## Example of spontaneous recovery
+For example, the patient with stroke regains some motor function approximately 2 to 3 weeks after insult as cerebral edema resolves @osullivanImprovingFunctionalOutcomes2016
+:::
+

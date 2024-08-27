@@ -1,0 +1,10 @@
+---
+title: Schema
+---
+
+Schema: serve to provide a basis for movement decisions and are stored in memory for the reproduction of movement @osullivanImprovingFunctionalOutcomes2016
+
+Schema can be divided into Recall schema and recognition schema
+
+- Recall schema: the relationship among past parameters, past initial conditions, and the movement outcomes produced by these combinations @osullivanImprovingFunctionalOutcomes2016
+- Recognition schema: the relationship among past initial conditions, past movement outcomes, and the sensory consequences produced by these combinations  @osullivanImprovingFunctionalOutcomes2016

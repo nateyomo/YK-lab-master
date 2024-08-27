@@ -1,0 +1,15 @@
+---
+title: Temperature Sensation
+---
+
+
+
+
+
+
+# Pathway
+
+
+- [Spinothalamic tract]({{< var ref-spinothalamic-tract.path >}}): Noxious Temperature stimuli
+- [Trigeminothalamic Tract]({{< var ref-trigeminothalamic-tract.path >}}): Noxious temperature stimuli for the face
+- _______: Non-noxious temperature stimuli?

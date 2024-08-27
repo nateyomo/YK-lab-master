@@ -1,0 +1,279 @@
+---
+title: Thoracic Outlet Syndrome (TOS)
+---
+
+
+
+
+# Epidemiology
+
+Age:
+
+- TOS majority is between the ages of 20-50 y/o (neuro) @hooperPart1ThoracicOutletSyndrome2010
+- Women are 3-4x more likely to develop neurogenic TOS @hooperPart1ThoracicOutletSyndrome2010
+
+# Types
+
+- Neurogenic (95%) @duttonDuttonOrthopaedicExamination2020
+- Venous (4%) @duttonDuttonOrthopaedicExamination2020
+- Arterial (1%) @duttonDuttonOrthopaedicExamination2020
+
+## Neurogenic
+
+:::{.callout-note title="Neurogenic classification"}
+True neurogenic TOS is classified as TOS with objective findings of nerve compression @hooperpart2ThoracicOutletSyndrome2010a
+
+TOS with no specific pathological evidence is classified as disputed TOS @hooperpart2ThoracicOutletSyndrome2010a.
+:::
+
+- The [inferior trunk of the brachial plexus]({{< var ref-brachial-plexus.inferior-trunk >}}) is the most commonly compressed neural structure in TOS @duttonDuttonOrthopaedicExamination2020
+
+- Lower plexus (c8,t1) irritation: Symptoms on ulnar side of arm, hand, ant shoulder, axillary regions @hooperPart1ThoracicOutletSyndrome2010
+
+- Upper plexus (C5, 6, 7): Ant aspect of neck from clavicle to mandible, ear, mastoid, occasionally radiating into the side of the face @hooperPart1ThoracicOutletSyndrome2010
+
+## Venous
+
+2nd most common cause of TOS (4%) @duttonDuttonOrthopaedicExamination2020
+
+## Arterial
+
+3rd (least) most common cause of TOS (1% of cases) @duttonDuttonOrthopaedicExamination2020
+
+
+
+# Causes
+
+Although TOS is affected my multiple variables, there are a few structures that directly compress the structures:
+
+- Tumor
+- [1st rib elevation]({{< var ref-1st-rib.elevation >}})
+- Pec minor tight (especially at full elevation)
+- Ant/mid scalene
+- Cervical rib approximation
+- Clavicle (movement)
+
+## Clavicle
+
+- Clavicular mvmt can cause TOS @hooperPart1ThoracicOutletSyndrome2010
+- ACJ (coracoclavicular lig complex ) tension loads during arm elevation, if compromised, can load the nerve tissue @hooperPart1ThoracicOutletSyndrome2010
+- SCJ limitations or subluxations can lead to clavicular dysfunction @hooperPart1ThoracicOutletSyndrome2010
+
+
+# Entrapments
+
+There are 3 main entrapments:
+
+- Interscalene triangle @duttonDuttonOrthopaedicExamination2020
+- Costoclavicular interval @duttonDuttonOrthopaedicExamination2020
+- Thoraco-coraco-pectoral space: As it passes thru coracoid process, pec minor, clavipectoral fascia to enter axillary fossa @duttonDuttonOrthopaedicExamination2020
+
+## Interscalene triangle Entrapment
+
+- Tight scalenes, injury of scalene or scapular suspensory muscles  @duttonDuttonOrthopaedicExamination2020
+- Fibromuscular bands in scalenes or between long transverse processes of the lower cervical vertebrae @duttonDuttonOrthopaedicExamination2020
+- Entrapment here can result from cervical rib presence  @duttonDuttonOrthopaedicExamination2020
+- [Subclavian vein]({{< var ref-subclavian-vein.path >}}) not involved (bc passess anterior to ant scalene) @duttonDuttonOrthopaedicExamination2020
+
+## Costoclavicular interval Entrapment
+
+- Between ribcage and posterior aspect of clavicle, entrapment can occur here with:
+    - clavicle depression, 
+    - Rib elevation caused by scalene hypertonicity
+    - Repetitive shoulder abd
+    - First rib clavicle deformity
+    - Post Fracture callus formation of first rib or clavicle
+
+## Thoraco-coraco-pectoral space Entrapment
+
+This entrapment occurs as As it passes thru coracoid process, pec minor, clavipectoral fascia to enter axillary fossa
+
+- Subclavian artery/vein become axillary A/V
+- Neurovascular bundle compromised with elevation, abduction, especially if ER is added with motion
+- Pec minor tendon compression = associated with shoulder hyperabduction
+
+:::{.callout-note title="Double Crush Syndrome"}
+[Double crush syndrome]({{< var ref-double-crush-syndrome.path >}}) refers to peripheral nerve pain caused by 2 or more entrapment sites.
+
+The entrapment sites include the 3 main TOS entrapment sites, but double crush syndrome requires less pressure at each site to produce symptoms @duttonDuttonOrthopaedicExamination2020.
+:::
+
+# Symptoms
+
+- Mild to limb threatening @duttonDuttonOrthopaedicExamination2020
+- CC - diffuse arm and shoulder pain, especially with arm elevation beyond 90 degrees @duttonDuttonOrthopaedicExamination2020
+- Symptoms: pain localized in neck, face, head UE, chest,shoulder, axilla, UE paresthesia, numbness, weak, heaviness, fatigability, swelling, ulceration, raynauds, discoloration  @duttonDuttonOrthopaedicExamination2020
+
+
+Symptom location:
+
+- Paresthesia in the upper limb (98%)
+- Neck pain (88%)
+- Trapezius pain (92%)
+- Shoulder and/or arm pain(88%)
+- Supraclavicular pain(76%)
+- Chest pain (72%)
+- Occipital headache (76%)
+- Paresthesias in all five fingers (58%)
+- 4th and 5th fingers only (26%)
+- 1-3rd fingers (14%)
+
+# Clinical Examination
+
+Clinical examination: 
+- Rounded shoulders, forward head, inc thoracic kyphosis, posterior tilt, downward rotation, depression of scapulae @hooperPart1ThoracicOutletSyndrome2010
+- Supraclavicular fullness = first rib prominence indicator or soft tissue swelling @hooperPart1ThoracicOutletSyndrome2010
+- Look for:
+    - Cyanosis, edema = venous @hooperPart1ThoracicOutletSyndrome2010
+    - Paleness - vascular compromise @hooperPart1ThoracicOutletSyndrome2010
+- Palpate the supraclavicular fossa @hooperPart1ThoracicOutletSyndrome2010
+    - Pain = indicator @hooperPart1ThoracicOutletSyndrome2010
+    - SB away, palpate post to pulsation of subclavian artery @hooperPart1ThoracicOutletSyndrome2010
+- If cervical spine, shoulder and TOS testing = negative, peripheral compression neuropathy is suspected @hooperPart1ThoracicOutletSyndrome2010
+- Doppler and angiography - arterial TOS tests @hooperPart1ThoracicOutletSyndrome2010
+- Venous TOS: venous ultrasound, scintillation scans, plethysmography,  @hooperPart1ThoracicOutletSyndrome2010
+- Nerve conduction velocities and electromyography - neurogenic @hooperPart1ThoracicOutletSyndrome2010
+
+
+
+# Diagnosis
+
+- Inspect spine, thorax, shoulder, UE for postural abnormalities, shoulder asymmetry, mm atrophy, large breasts, obesity, drooping shoulder girdle @duttonDuttonOrthopaedicExamination2020
+- Palpate supraclavicular fossa for fibromuscular bands, percussion for brachial plexus irritability, auscultation for vascular bruits @duttonDuttonOrthopaedicExamination2020
+- AROM and PROM of neck/shoulder
+- Neuro exam
+- [Respiration]({{< var ref-respiration.path >}}): Determine if patient is using abdominanl diaphragmatic breathing
+- Assess suspensory mm: middle/upper traps, lev scap, SCM (typically found to be weak) @duttonDuttonOrthopaedicExamination2020
+- Assess scapulothoracic mm (ant/mid scalene, subclavius, pec minor or major) @duttonDuttonOrthopaedicExamination2020
+    - Found to be short in TOS @duttonDuttonOrthopaedicExamination2020
+- First rib position or presence of cervical rib @duttonDuttonOrthopaedicExamination2020
+- Clavicle position @duttonDuttonOrthopaedicExamination2020
+    - Post fx? @duttonDuttonOrthopaedicExamination2020
+- Scapula position @duttonDuttonOrthopaedicExamination2020
+- Peripheral nerve tests/cervical radiculopathy tests @duttonDuttonOrthopaedicExamination2020
+
+
+- Symptoms vary @hooperPart1ThoracicOutletSyndrome2010
+- Diagnoses of the 2 vascular forms of TOS are accepted in all healthcare circles @hooperPart1ThoracicOutletSyndrome2010
+- Neurogenic TOS are difficult to diagnose bc there is not standard objective test to confirm clinical impressions @hooperPart1ThoracicOutletSyndrome2010
+- Diagnosis of exclusion @hooperPart1ThoracicOutletSyndrome2010
+- Diagnosis of entrapment neuropathies of the upper limb does not exclude TOS @hooperPart1ThoracicOutletSyndrome2010
+- [Double crush]({{< var ref-double-crush-syndrome.path >}}) is observed in 50% of cases @hooperPart1ThoracicOutletSyndrome2010
+
+
+# Testing
+
+
+
+- Tests for compromise at the [Interscalene Triangle]({{< var ref-interscalene-triangle.path >}})
+    - [Adson’s Vascular Test]({{< var ref-tos-adsons-vascular-test.path >}}) (Tests Vasculature) @hooperPart1ThoracicOutletSyndrome2010
+    - [Supraclavicular pressure test (Tinel's Test)]({{< var ref-tinels-test.brachial-plexus >}}) (Tests Brachial plexus) @hooperPart1ThoracicOutletSyndrome2010
+- [Costoclavicular Space]({{< var ref-costoclavicular-space.path >}})
+    - [Costoclavicular Test]({{< var ref-tos-costoclavicular-test.path >}}) @hooperPart1ThoracicOutletSyndrome2010
+- Thoraco-coraco-pectoral gate 
+    - [Wright Test (Hyperabduction Maneuver)]({{< var ref-tos-wright-test.path >}}) @hooperPart1ThoracicOutletSyndrome2010
+- Loading the plexus thru TOS container
+    - [Roos Test]({{< var ref-tos-roos-stress-test.path >}}) @hooperPart1ThoracicOutletSyndrome2010
+- Unloading the brachial plexus through the TOS container
+    - [Cyriax test]({{< var ref-tos-cyriax-test.path >}}) @hooperPart1ThoracicOutletSyndrome2010
+    - [Passive Shoulder Shrug]({{< var ref-tos-passive-shoulder-shrug-test.path >}}) (Rules out TOS)
+- Neural tissue thru thoracic outlet under a tension load
+    - [Upper limb tension tests (ULTT)]({{< var ref-ultt.overview >}}) @hooperPart1ThoracicOutletSyndrome2010
+
+:::{.callout-caution}
+- Little reliability with these tests (despite widespread use) @duttonDuttonOrthopaedicExamination2020
+- With all of these tests: (+) test = diminution or disappearance of pulse or neuro symptoms @duttonDuttonOrthopaedicExamination2020
+:::
+
+## Validity
+
+TOS maneuvers have low false positive rates when:
+
+- A positive test is defined as pain after adson’s test, costoclavicular maneuver or supraclavicular pressure  @plewaFalsepositiveRateThoracic1998
+- Discontinuation of elevated arm stress test d/t pain @plewaFalsepositiveRateThoracic1998
+- Pain in same arm with >=2 maneuvers @plewaFalsepositiveRateThoracic1998
+- Any symptom in the same arm with >= 3 maneuvers @plewaFalsepositiveRateThoracic1998
+
+So there are a lot of false positives for these various tests, IN ISOLATION, EXCEPT with pain (lower false positives for SCP, CCM, AT) @plewaFalsepositiveRateThoracic1998
+If there is a discontinuation of EAST d/t pain = low false positive rate (most ppl dont stop it , even if they feel some pain, but if they need to stop d/t pain then that has a low false positive rate) @plewaFalsepositiveRateThoracic1998
+Less false positives for combinations of these tests @plewaFalsepositiveRateThoracic1998
+
+
+Gillard et al showed a cluster of 2 provocative tests displayed the highest sensitivity (90%) while a cluster of 5 tests increased the specificity of TOS to 84% @hooperPart1ThoracicOutletSyndrome2010
+
+# DDX
+
+- MI, arthritis, fibromyalgia, cervical disk disease, stenosis, MS, causalgia, carpal tennul, pancoast tumor @plewaFalsepositiveRateThoracic1998
+
+
+ULTTs can be used to understand whether a patient is suffering from TOS or [double crush syndrome]({{< var ref-double-crush-syndrome.path >}})
+
+
+# Intervention
+
+
+**Joint mobs**: Grade 1-2 used for pain relief for acute conditions @duttonDuttonOrthopaedicExamination2020
+
+## Costoclavicular space mobility
+
+Restoring mobility to the first rib can inc the costoclavicular space and reduce imposed load on neurovascular structures in teh thoracic outlet container @hooperpart2ThoracicOutletSyndrome2010a
+
+- Studies reported dec’d TOS symptoms by restoring mobility of first rib thru manual therapy @hooperpart2ThoracicOutletSyndrome2010a
+
+- Encouraging diaphragmatic breathing helps reduce overuse of scalenes during breathing
+Accessory muscle of breathing (scalene)
+Vigorous aerobic activities may inc scalene activity and elevation of first rib, so careful use of aerobic activities may help reduce symptoms, especially early in the rehab
+Mobilization of SCJ and ACJ is necessary to restore normal end range arthrokinematics of clavicle during elevation activities
+End range limits of DGJ motion can lead to compromise of costoclavicular space as well
+Can be addressed w mobs in the elevated arm position (ie humerus gliding ant, post and inf) 
+
+
+First rib mobilization
+
+
+CVJ mobilization 
+
+
+# Rehabilitation
+
+## Conservative Management
+
+When should you advise conservative treatment over surgery?
+
+- Conservative measures shld be attempted for pt w/ disputed neuro TOS before surgery is considered but arterial or venous TOS should be treated with surgery to avoid loss of limb @hooperpart2ThoracicOutletSyndrome2010a.
+- Hooper et al found success in conservative management in disputed neuro TOS patients at both short term (76-100%) and long term (59-88%) @hooperpart2ThoracicOutletSyndrome2010a.
+
+When should you advise against conservative therapy?
+
+- Conservative therapy is not recommended for venous or arterial TOS since there is a high chance of limb loss following complications @hooperpart2ThoracicOutletSyndrome2010a.
+- Poor outcomes w conservative therapy (Novak et al ) → obesity, workers compensation, double crush pathology involving the carpal or cubital tunnel.
+
+Patient education
+
+Sleep hygiene
+- Avoid provocative positions during night if pain is position dependent @hooperpart2ThoracicOutletSyndrome2010a
+- Place pillows between arm and body w/ side lying or place under each arm when lying supine @hooperpart2ThoracicOutletSyndrome2010a
+- [Cyriax Release Maneuver]({{< var ref-cyriax-release-maneuver.path >}}): Can unload the neurovascular structures prior to sleeping @hooperpart2ThoracicOutletSyndrome2010a
+
+Manual Techniques
+
+- Traction could help  @hooperpart2ThoracicOutletSyndrome2010a
+
+
+## Pharmacological options
+
+Possible Options:
+
+- NSAIDs @hooperpart2ThoracicOutletSyndrome2010a
+- Botulinum toxin (ant to middle scalenes) @hooperpart2ThoracicOutletSyndrome2010a
+    - 64% of subjects had a min 50% decrease in pain, numbness, fatigue for at least one month following injection  @hooperpart2ThoracicOutletSyndrome2010a
+
+
+- Can take up to 2-3 hours
+- Pt education– informing pt about disease process, potential prognosis 
+- Compliance to exercise program is important for determining outcomes of conservative therapy 
+
+
+# Prognosis
+
+Release phenomenon: release of tension/compression of perineural blood supply to brachial plexus and return of normal sensation = prognostic indicator of favorable outcome @hooperPart1ThoracicOutletSyndrome2010

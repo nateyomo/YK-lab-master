@@ -1,0 +1,8 @@
+---
+title: Ceiling Effect
+---
+
+
+# Definition
+
+Ceiling effect refers to "a situation in which many scores pile up at the high end of a distribution (creating skewness to the left) because it is not possible to have a higher score." @aronStatisticsPsychology2013 

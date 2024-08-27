@@ -1,0 +1,22 @@
+---
+title: Double Crush Syndrome
+---
+
+<q> Double crush syndrome refers to a distinct compression at two or more
+locations along the course of a peripheral nerve that can coexist and synergistically increase symptom intensity.
+In addition, dissatisfactionafter treatment at one site may be the result of persistent pathology at
+another site along a peripheral nerve </q>
+@kaneDoubleCrushSyndrome2015 
+
+
+
+# Interventions
+
+<q> When a loss of neural mobility is present, neural mobilizations are incorporated in order to improve gliding of the neural tissue in relation to its surroundings and minimize tension and adhesion formation.
+These techniques are especially important in cases of a double crush phenomenon. </q> @hooperPart1ThoracicOutletSyndrome2010
+
+
+# Causes
+
+Occurs in 50% of [Thoracic outlet syndrome]({{< var ref-thoracic-outlet.syndrome >}}) cases @hooperPart1ThoracicOutletSyndrome2010
+

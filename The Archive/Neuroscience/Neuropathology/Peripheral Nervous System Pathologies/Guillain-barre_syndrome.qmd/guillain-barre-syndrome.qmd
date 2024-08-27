@@ -1,0 +1,72 @@
+---
+title: Guillain-Barre Syndrome
+---
+
+
+:::{.callout title="Resources"}
+
+- See Guillain-Barre Syndrome section on p1289 of @ropperAdamsVictorPrinciples2023 
+- Suzanne - Ch14 p.547 @martinNeurologicInterventionsPhysical2021a 
+:::
+
+
+# Types
+
+:::{layout-ncol="3"}
+### Typical GBS
+
+### Acute Axonal GBS
+
+- Acute areflexic polyneuropathy clinically similar to typical GBS but characterized pathologically by widespread and severe axonal degeneration @ropperAdamsVictorPrinciples2023.
+- In their initial report they described five patients with a rapid evolution of polyneuropathy and slow and poor recovery. Unlike the common form of demyelinating GBS, muscle atrophy became apparent relatively early in the axonal form (within weeks). The defining feature was the presence of numerous electrically inexcitable motor nerves and signs of extensive denervation. This finding could also signify a distal demyelinating block from which complete recovery is possible (Triggs et al). Nevertheless, most cases of abrupt and severe denervating paralysis, particularly if postinfectious, are caused by the axonal form of GBS (Ropper, 1986b)
+
+:::
+
+# Clinical Presentation
+
+## Onset
+
+:::{layout-ncol="3"}
+### Sx Location
+
+
+- Whereas in most patients the paralysis ascends from legs to trunk, to arms, and then to cranial regions @ropperAdamsVictorPrinciples2023
+- Portions of the typical clinical picture of GBS appear in isolated or abortive form and are a source of diagnostic confusion @ropperAdamsVictorPrinciples2023. 
+- In some cases, "the pharyngeal-cervical-brachial muscles may be affected first or constitute the entire illness, causing difficulty in swallowing with neck and proximal arm weakness" @ropperAdamsVictorPrinciples2023
+
+### Timing
+Symptoms reach peak of severity within 10 to 14 days
+
+
+Ptosis, often with ophthalmoplegia, may be added. The differential diagnosis then includes myasthenia gravis, diphtheria, and botulism and a lesion affecting the central portion of the cervical spinal cord and lower brainstem." @ropperAdamsVictorPrinciples2023
+
+# Symptoms
+
+## Gait
+
+- [Steppage Gait]({{< var ref-gait.symptom.steppage >}})
+
+
+
+# Examination
+
+## GBS Disability Scale
+
+| Score | Description |
+|-|-|
+|0 | A healthy State |
+| 1 | Minor symptoms and capable of running |
+|2| Able to walk 10m or more without assistance but unable to run|
+|3| Able to walk 10m across an open space with help|
+|4| Bedridden or chairbound|
+|5| Requiring assisted ventilation for at least part of the day|
+|6| Dead|
+: {.striped .hover}
+
+
+# Treatment
+
+
+# NMES
+
+<!-- https://pubmed.ncbi.nlm.nih.gov/rss/search/10IsjDYWWF_gcMotPRddXTsTgONIL7GbGY6IOwc8l2qBhjkQuQ/?limit=100&utm_campaign=pubmed-2&fc=20240812163522 -->

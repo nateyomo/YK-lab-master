@@ -1,0 +1,44 @@
+---
+title: Opioids
+---
+
+
+- Opioid: any compound that binds an opioid receptor
+- Opiate: compounds derived from opium poppies
+- Narcotic: legal term often meaning opioids but may also refer to any substance with addiction/abuse potential
+- Endorphins: Endogenous opioids (Enkephalins, dynorphins, etc.)
+
+
+
+:::{layout-ncol="3"}
+
+### Natural Alkaloids
+
+- Derived from Opium poppy (morphine, codeine, thebaine)
+- Laudanum
+
+### Semi-synthetics
+
+- Use a chemical process to alter the opium poppy
+- Hydromorphone
+- Hydrocodone
+- Oxycodone
+- Buprenorphine
+
+### Synthetics
+
+- No use of natural alkaloids, just replicate the structure within a laboratory setting
+    - Methadone
+    - Fentanyl
+:::
+
+
+
+# Misuse
+
+
+
+# Tolerance
+
+- Different body regions develop intolerance at different rates
+- For example you may need a higher dose to achieve the same level of decreased pain, but your pulmonary or cardiac system is still very sensitive

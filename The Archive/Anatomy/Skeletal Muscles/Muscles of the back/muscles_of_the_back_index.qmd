@@ -1,0 +1,91 @@
+## Suboccipitals
+
+| Muscle  | Origin  | Insertion | Nerve | Action |
+|-|-|-|-|-|
+| [Rectus Capitis Posterior Major]({{< var ref-rectus-capitis-posterior-major.path >}}) | {{< var ref-rectus-capitis-posterior-major.origin >}} | {{< var ref-rectus-capitis-posterior-major.insertion >}} | {{< var ref-rectus-capitis-posterior-major.nerve >}} | {{< var ref-rectus-capitis-posterior-major.action >}} |
+|[Rectus Capitis Posterior Minor]({{< var ref-rectus-capitis-posterior-minor.path >}}) | {{< var ref-rectus-capitis-posterior-minor.origin >}} | {{< var ref-rectus-capitis-posterior-minor.insertion >}} | {{< var ref-rectus-capitis-posterior-minor.nerve >}} | {{< var ref-rectus-capitis-posterior-minor.action >}} |
+| [Obliquus Capitis Superior]({{< var ref-obliquus-capitis-superior.path >}}) | {{< var ref-obliquus-capitis-superior.origin >}} | {{< var ref-obliquus-capitis-superior.insertion >}} | {{< var ref-obliquus-capitis-superior.nerve >}} | {{< var ref-obliquus-capitis-superior.action >}} |
+| [Obliquus Capitis Inferior]({{< var ref-obliquus-capitis-inferior.path >}}) | {{< var ref-obliquus-capitis-inferior.origin >}} | {{< var ref-obliquus-capitis-inferior.insertion >}} | {{< var ref-obliquus-capitis-inferior.nerve >}} | {{< var ref-obliquus-capitis-inferior.action >}} |
+: Suboccipital muscle group {.striped .hover }
+
+## Prevertebral Muscles
+- [Longus capitis]({{< var ref-longus-capitis.path >}})
+- [Longus Colli Cervicis]({{< var ref-longus-colli-cervicis.path >}})
+- [Rectus Capitis anterior]({{< var ref-rectus-capitis-anterior.path >}})
+- [Rectus Capitis Lateralis]({{< var ref-rectus-capitis-lateralis.path >}})
+
+| Muscle  | Origin  | Insertion | Nerve | Action |
+|--------|----------|-----------|-------|--------|
+| [Longus Capitis]({{< var ref-longus-capitis.path >}}) | {{< var ref-longus-capitis.origin >}} | {{< var ref-longus-capitis.insertion >}} | {{< var ref-longus-capitis.nerve >}} | {{< var ref-longus-capitis.action >}} |
+| [Longus colli cervicis]({{< var ref-longus-colli-cervicis.path >}}) | {{< var ref-longus-colli-cervicis.origin >}} | {{< var ref-longus-colli-cervicis.insertion >}} | {{< var ref-longus-colli-cervicis.nerve >}} | {{< var ref-longus-colli-cervicis.action >}} |
+| [Rectus Capitis Anterior]({{< var ref-rectus-capitis-anterior.path >}}) | {{< var ref-rectus-capitis-anterior.origin >}} | {{< var ref-rectus-capitis-anterior.insertion >}} | {{< var ref-rectus-capitis-anterior.nerve >}} | {{< var ref-rectus-capitis-anterior.action >}} |
+| [Rectus Capitis Lateralis]({{< var ref-rectus-capitis-lateralis.path >}}) | {{< var ref-rectus-capitis-lateralis.origin >}} | {{< var ref-rectus-capitis-lateralis.insertion >}} | {{< var ref-rectus-capitis-lateralis.nerve >}} | {{< var ref-rectus-capitis-lateralis.action >}} |
+
+: Prevertebral muscle group {.striped .hover}
+
+
+
+## Superficial intrinsic back Muscles
+- [Serratus posterior superior]({{< var ref-serratus-posterior-superior.path >}})
+- [Serratus posterior inferior]({{< var ref-serratus-posterior-inferior.path >}})
+- [Splenius capitis]({{< var ref-splenius-capitis.path >}})
+- [Splenius cervicis]({{< var ref-splenius-cervicis.path >}})
+
+| Muscle  | Origin  | Insertion | Nerve | Action |
+|--------|----------|-----------|-------|--------|
+|[Serratus Posterior Superior]({{< var ref-serratus-posterior-superior.path >}}) | {{< var ref-serratus-posterior-superior.origin >}} | {{< var ref-serratus-posterior-superior.insertion >}} | {{< var ref-serratus-posterior-superior.nerve >}} | {{< var ref-serratus-posterior-superior.action >}} |
+|[Serratus Posterior Inferior]({{< var ref-serratus-posterior-inferior.path >}}) | {{< var ref-serratus-posterior-inferior.origin >}} | {{< var ref-serratus-posterior-inferior.insertion >}} | {{< var ref-serratus-posterior-inferior.nerve >}} | {{< var ref-serratus-posterior-inferior.action >}} |
+|[Splenius Capitis]({{< var ref-splenius-capitis.path >}}) | {{< var ref-splenius-capitis.origin >}} | {{< var ref-splenius-capitis.insertion >}} | {{< var ref-splenius-capitis.nerve >}} | {{< var ref-splenius-capitis.action >}} |
+|[Splenius Cervicis]({{< var ref-splenius-cervicis.path >}}) | {{< var ref-splenius-cervicis.origin >}} | {{< var ref-splenius-cervicis.insertion >}} | {{< var ref-splenius-cervicis.nerve >}} | {{< var ref-splenius-cervicis.action >}} |
+
+: Superficial intrinsic back Muscles OIANs {.striped .hover}
+
+## Intermediate intrinsic back muscles (Erector Spinae)
+- Iliocostalis
+    - [Iliocostalis Cervicis]({{< var ref-iliocostalis-cervicis.path >}})
+    - [Iliocostalis Thoracis]({{< var ref-iliocostalis-thoracis.path >}})
+    - [Iliocostalis lumborum]({{< var ref-iliocostalis-lumborum.path >}})
+- Longissimus
+    - [Longissimus Capitis]({{< var ref-longissimus-capitis.path >}})
+    - [Longissimus Cervicis]({{< var ref-longissimus-cervicis.path >}})
+    - [Longissimus Thoracis]({{< var ref-longissimus-thoracis.path >}})
+- Spinalis
+    - [Spinalis Cervicis]({{< var ref-spinalis-cervicis.path >}})
+    - [Spinalis Thoracis]({{< var ref-spinalis-thoracis.path >}})
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Iliocostalis cervicis]({{< var ref-iliocostalis-cervicis.path >}}) | {{< var ref-iliocostalis-cervicis.origin >}} | {{< var ref-iliocostalis-cervicis.insertion >}} | {{< var ref-iliocostalis-cervicis.nerve >}} | {{< var ref-iliocostalis-cervicis.action >}} |
+| [Iliocostalis thoracis]({{< var ref-iliocostalis-thoracis.path >}}) | {{< var ref-iliocostalis-thoracis.origin >}} | {{< var ref-iliocostalis-thoracis.insertion >}} | {{< var ref-iliocostalis-thoracis.nerve >}} | {{< var ref-iliocostalis-thoracis.action >}} |
+| [Iliocostalis lumborum]({{< var ref-iliocostalis-lumborum.path >}}) | {{< var ref-iliocostalis-lumborum.origin >}} | {{< var ref-iliocostalis-lumborum.insertion >}} | {{< var ref-iliocostalis-lumborum.nerve >}}  | {{< var ref-iliocostalis-lumborum.action >}} |
+| [Longissimus Capitis]({{< var ref-longissimus-capitis.path >}}) | {{< var ref-longissimus-capitis.origin >}} | {{< var ref-longissimus-capitis.insertion >}} | {{< var ref-longissimus-capitis.nerve >}} | {{< var ref-longissimus-capitis.action >}} |
+| [Longissimus Cervicis]({{< var ref-longissimus-cervicis.path >}}) | {{< var ref-longissimus-cervicis.origin >}} | {{< var ref-longissimus-cervicis.insertion >}} | {{< var ref-longissimus-cervicis.nerve >}} | {{< var ref-longissimus-cervicis.action >}} |
+| [Longissimus Thoracis]({{< var ref-longissimus-thoracis.path >}}) | {{< var ref-longissimus-thoracis.origin >}} | {{< var ref-longissimus-thoracis.insertion >}} | {{< var ref-longissimus-thoracis.nerve >}}  | {{< var ref-longissimus-thoracis.action >}} |
+| [Spinalis Cervicis]({{< var ref-spinalis-cervicis.path >}}) | {{< var ref-spinalis-cervicis.origin >}} | {{< var ref-spinalis-cervicis.insertion >}} | {{< var ref-spinalis-cervicis.nerve >}} | {{< var ref-spinalis-cervicis.action >}} |
+| [Spinalis Thoracis]({{< var ref-spinalis-thoracis.path >}}) | {{< var ref-spinalis-thoracis.origin >}} | {{< var ref-spinalis-thoracis.insertion >}} | {{< var ref-spinalis-thoracis.nerve >}} | {{< var ref-spinalis-thoracis.action >}} |
+
+: Erector Spinae OIAN {.striped .hover}
+
+
+## Transversospinalis Muscles 
+
+| Muscle | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Rotatores Breves]({{< var ref-rotatores-breves.path >}}) | {{< var ref-rotatores-breves.origin >}} | {{< var ref-rotatores-breves.insertion >}} | {{< var ref-rotatores-breves.nerve >}} | {{< var ref-rotatores-breves.action >}} |
+| [Rotatores Longi]({{< var ref-rotatores-longi.path >}}) | {{< var ref-rotatores-longi.origin >}} | {{< var ref-rotatores-longi.insertion >}} | {{< var ref-rotatores-longi.nerve >}} | {{< var ref-rotatores-longi.action >}} |
+| [Multifidi]({{< var ref-multifidi.path >}}) | {{< var ref-multifidi.origin >}} | {{< var ref-multifidi.insertion >}} | {{< var ref-multifidi.nerve >}} | {{< var ref-multifidi.action >}} |
+| [Semispinalis Capitis]({{< var ref-semispinalis-capitis.path >}}) | {{< var ref-semispinalis-capitis.origin >}} | {{< var ref-semispinalis-capitis.insertion >}} | {{< var ref-semispinalis-capitis.nerve >}} | {{< var ref-semispinalis-capitis.action >}} |
+| [Semispinalis Cervicis]({{< var ref-semispinalis-cervicis.path >}}) | {{< var ref-semispinalis-cervicis.origin >}} | {{< var ref-semispinalis-cervicis.insertion >}} | {{< var ref-semispinalis-cervicis.nerve >}} | {{< var ref-semispinalis-cervicis.action >}} |
+| [Semispinalis Thoracis]({{< var ref-semispinalis-thoracis.path >}}) | {{< var ref-semispinalis-thoracis.origin >}} | {{< var ref-semispinalis-thoracis.insertion >}} | {{< var ref-semispinalis-thoracis.nerve >}} | {{< var ref-semispinalis-thoracis.action >}} |
+
+: Transversospinalis Muscles OIAN {.striped .hover}
+
+
+## Deep Segmental Back Muscles 
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Interspinales Cervicis]({{< var ref-interspinales-cervicis.path >}}) | {{< var ref-interspinales-cervicis.origin >}} | {{< var ref-interspinales-cervicis.insertion >}} | {{< var ref-interspinales-cervicis.nerve >}} | {{< var ref-interspinales-cervicis.action >}} |
+| [Interspinales Lumbora]({{< var ref-interspinales-lumbora.path >}}) | {{< var ref-interspinales-lumbora.origin >}} | {{< var ref-interspinales-lumbora.insertion >}} | {{< var ref-interspinales-lumbora.nerve >}} | {{< var ref-interspinales-lumbora.action >}} |
+
+: Deep Segmental Back Muscles OIAN {.striped .hover}

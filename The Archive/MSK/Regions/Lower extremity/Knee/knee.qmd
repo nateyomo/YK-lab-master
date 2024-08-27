@@ -1,0 +1,65 @@
+---
+title: Musculoskeletal Approach to the Knee
+---
+
+
+# Anatomy
+
+- Tibiofemoral joint
+- Patellofemoral Joint
+
+
+:::{.callout-note title="Find an area for this"}
+"There are three fat pads located at the anterior knee: the quadriceps fat pad, the prefemoral fat pad, and the infrapatellar (Hoffa) fat pad. The fat pads of the knee house neurovascular projections. The functions of the fat pads include the following: ▶ Synovial fluid secretion ▶ Joint stability ▶ Neurovascular supply ▶ Occupiers of dead space" @duttonDuttonOrthopaedicExamination2020
+:::
+
+# Blood Supply
+
+"The major blood supply to this area comes from the femoral (see Chapter 19), popliteal, and genicular arteries."
+
+- "Popliteal. Before bifurcating into the anterior and posterior tibial arteries, the popliteal artery normally courses beneath and between the medial and lateral heads of the gastrocnemius, adjacent to the plantaris and popliteus muscles, and through the tendinous arch of the soleus.34,35 Alteration of these normal structural relationships can cause compression of the popliteal artery—popliteal artery entrapment syndrome (see Chapter 5)." @duttonDuttonOrthopaedicExamination2020 
+- "Genicular. The descending genicular artery arises from the femoral artery, just before it passes through the adductor hiatus and immediately divides into the saphenous branch of descending genicular artery and the articular branches of descending genicular artery. The superior medial genicular artery and the superior lateral genicular artery both arise from the popliteal artery. The middle genicular artery is a small branch of the popliteal artery that originates inferior or distal to both of the superior genicular arteries. Arising from the middle genicular artery are the inferior medial and inferior lateral genicular arteries" @duttonDuttonOrthopaedicExamination2020 
+
+# Innervation {#innervation}
+
+"The knee joint is innervated by the posterior articular branch of the posterior tibial nerve, which is formed from all five anterior divisions (L4, L5, and S1–S3) of the sacral plexus (see below), and the terminal branches of the obturator and femoral nerves.23 The course and distribution of the femoral nerve are described in Chapter 3. The lateral portion of the capsule is innervated by the recurrent peroneal branch of the common fibular (peroneal) nerve, which is formed by the upper four posterior divisions (L4, L5, and S1, S2) of the sacral plexus (see below). The saphenous nerve is the largest cutaneous branch of the femoral nerve (L2–L4). It leaves the subsartorial canal approximately 8–10 cm above the medial condyle of the knee and gives off branches to the medial aspect of the knee. Entrapment of the saphenous nerve during its course here can occur because of direct trauma, genu valgus, or knee instability, resulting in saphenous neuritis. The sciatic nerve (see Chapter 3) provides motor branches to the hamstrings and all muscles below the knee.33 It also provides the sensory innervation to the posterior thigh and entire leg and foot below the knee (except the medial aspect, which is innervated by the saphenous nerve).33" @duttonDuttonOrthopaedicExamination2020 
+
+# Kinematics
+
+## Knee rotation
+
+"Active axial rotation in either direction is freest with the knee partially flexed. This axial rotation action of the hamstrings can be appreciated by palpating the tendons of semitendinosus and biceps femoris behind the knee as the leg is actively internally and externally rotated repeatedly. This is performed while the subject sits with the knee flexed 70 to 90 degrees. As the knee is gradually extended, the pivot point of the rotating lower leg shifts from the knee to the hip. At full extension, active rotation at the knee is restricted because the knee is mechanically locked and most ligaments are pulled taut. Furthermore, the moment arm of the hamstrings for internal and external rotation of the knee is reduced significantly in full extension." @neumannKinesiologyMusculoskeletalSystem2017
+
+:::{layout-ncol="2"}
+### Internal Rotation
+
+- Semimembranosus @neumannKinesiologyMusculoskeletalSystem2017
+- Semitendinosus @neumannKinesiologyMusculoskeletalSystem2017
+
+### External Rotation
+
+- Biceps Femoris @neumannKinesiologyMusculoskeletalSystem2017
+
+
+:::
+
+# Valgus
+
+:::{layout-ncol="3"}
+### Kinematics
+Valgus consists of femoral IR and Adduction, concomitant contralateral pelvic drop @dischiaviRethinkingDynamicKnee2019
+
+
+
+# Injury prediction
+
+
+# Interventions
+
+- Tibial IR Interventions
+
+
+# Examination
+
+## Special Tests
+

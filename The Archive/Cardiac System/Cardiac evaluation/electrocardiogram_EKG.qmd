@@ -1,0 +1,35 @@
+---
+title: Electrocardiogram (EKG)
+---
+
+- AKA
+    - EKG
+    - ECG
+
+
+
+
+
+# Ventricle Signs & Symptoms
+## Premature Ventricular contraction
+
+- <3 PVCs is considered normal
+    - Ask about symptoms (continue if no symptoms)
+    - Make sure 
+- 3+
+    - Stop treating?
+    - Alert nurse/Doctor?
+- Variables
+    - Caffeine
+    - Other drugs
+
+# Atrial Signs & Symptoms
+
+## Atrial Flutter
+
+## Atrial Fibrillation
+
+- Subjective
+    - Often no symptoms
+
+

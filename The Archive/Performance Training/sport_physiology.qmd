@@ -1,0 +1,60 @@
+---
+title: Sport Physiology
+---
+
+
+
+# Gender
+
+## Hormone Differences
+
+- [Testosterone]({{< var ref-testosterone.path >}}) causes increased protein deposition, especially in muscles, which causes men to have more muscle then women due to increased testosterone levels @hallGuytonHallTextbook2021
+- [Estrogen]({{< var ref-estrogen.path >}})
+
+## Strength
+:::{layout-ncol="3"}
+### Strength per CSA
+
+- There is virtually *no* difference in gender when measured in terms of strength (peak force duriing maximal contraction) per square centimeter of cross-sectional area @hallGuytonHallTextbook2021 
+    - 3 and 4 Kg/cm^2^ @hallGuytonHallTextbook2021
+- Thus, the majority of differences in absolute muscle performance is due to the increased muscle to BW ratio of men than women @hallGuytonHallTextbook2021 
+
+### Overall Muscle strength
+
+- Compared to BW?
+- Females are typically $\frac{2}{3} \textrm{to} \frac{3}{4}$ the value of men @hallGuytonHallTextbook2021
+:::
+
+## Pulmonary Function
+
+:::{layout-ncol="3"}
+### Pulmonary Ventilation
+
+- Females are typically $\frac{2}{3} \textrm{to} \frac{3}{4}$ the value of men @hallGuytonHallTextbook2021
+:::
+
+## Cardiac Function
+
+:::{layout-ncol="3"}
+### Cardiac Output
+
+- Females are typically $\frac{2}{3} \textrm{to} \frac{3}{4}$ the cardiac output of men @hallGuytonHallTextbook2021
+:::
+
+## Sport Differences
+
+:::{layout-ncol="2"}
+
+### Better male performance
+
+- In marathons, the top female performer ran 11% slower than the top male performer @hallGuytonHallTextbook2021.
+
+### Better Female Performance
+
+- For other events, however, women have at times held records faster than men—for example, for the two-way swim across the English Channel, for which the availability of extra fat seems to be an advantage for heat insulation, buoyancy, and extra long-term energy." @hallGuytonHallTextbook2021 
+
+:::
+
+# Age
+
+

@@ -1,0 +1,74 @@
+---
+title: Vertebrobasilar Insufficiency 
+---
+
+# Overview
+
+Vertebrobasilar insufficiency occurs when both [basilar arteries]({{< var ref-basilar-artery.path >}}) are occluded.
+
+# Clinical Manifestations 
+
+The clinical manifestations of VBI are difficult to distinguish from other causes of brainstem ischemia (see later) and can include any or all of the following: 
+
+- Dizziness @duttonDuttonOrthopaedicExamination2020
+- Visual disturbance @duttonDuttonOrthopaedicExamination2020
+- Drop attacks (a sudden loss of postural tone without loss of consciousness) @duttonDuttonOrthopaedicExamination2020
+- Ataxia @duttonDuttonOrthopaedicExamination2020
+- Dysarthria @duttonDuttonOrthopaedicExamination2020
+- Dysphagia @duttonDuttonOrthopaedicExamination2020
+- Hemiplegia @duttonDuttonOrthopaedicExamination2020
+- Hemianesthesia @duttonDuttonOrthopaedicExamination2020
+- Nausea @duttonDuttonOrthopaedicExamination2020
+- Ringing in the ears @duttonDuttonOrthopaedicExamination2020
+
+:::{.callout-note}
+Terret et al. (2001) suggested the pneumonic "**5D**'s **A**nd **3N**'s" for remembering the common signs and symptoms of VBI @duttonDuttonOrthopaedicExamination2020. 
+
+- 5D's: Dizziness, Drop attack, Diplopia, Dysarthria, Dysphagia @duttonDuttonOrthopaedicExamination2020
+- 1xA: Ataxia of gait @duttonDuttonOrthopaedicExamination2020
+- 3N's: Nausea, Numbness, Nystagmus @duttonDuttonOrthopaedicExamination2020
+:::
+
+There is no single consistent pattern for VBI @duttonDuttonOrthopaedicExamination2020.
+The most common presenting symptoms are vertigo, nausea, and headache that can be subtle, intermittent, and even chronic in nature @duttonDuttonOrthopaedicExamination2020.
+
+## Head & Neck Pain
+
+
+## Vertigo & Dizziness
+Dizziness is the **most common** symptom of VBI, but is rarely found in isolation @duttonDuttonOrthopaedicExamination2020.
+The dutton textbook mentions vertigo but does not provide any sources or explanation as to why this was mentioned @duttonDuttonOrthopaedicExamination2020.
+
+## Headache
+A headache due to VBI commonly manifests with a gradual onset @chenVertebralArteryDissection2018. The headache generally has a unilateral occipital or frontotemporal pattern [@chenVertebralArteryDissection2018; @duttonDuttonOrthopaedicExamination2020].
+
+The headache is typically described as gradual onset that is mostly unilateral and involves the frontotemporal region
+
+## Other Symptoms 
+These signs and symptoms have been linked directly or indirectly to VBI:
+
+- Wallenberg, horner, and similar syndromes @duttonDuttonOrthopaedicExamination2020
+- Bilateral or Quadrilateral parasthesia @duttonDuttonOrthopaedicExamination2020
+- Hemiparasthesia @duttonDuttonOrthopaedicExamination2020
+- Scotoma (a permanent or temporary area of depressed or absent vision) @duttonDuttonOrthopaedicExamination2020
+- Periodic loss of consciousness (LOC) @duttonDuttonOrthopaedicExamination2020
+- Lip/perioral anesthesia @duttonDuttonOrthopaedicExamination2020
+- Hemifacial paralysis/anesthesia @duttonDuttonOrthopaedicExamination2020
+- Hyperreflexia @duttonDuttonOrthopaedicExamination2020
+- (+) Babinski, Hoffman, or Oppenheim signs @duttonDuttonOrthopaedicExamination2020
+- Clonus @duttonDuttonOrthopaedicExamination2020
+- Gait ataxia @duttonDuttonOrthopaedicExamination2020
+- Dysphasia @duttonDuttonOrthopaedicExamination2020
+
+
+# Tests 
+The gold standard test for VBI is conventional angiography @duttonDuttonOrthopaedicExamination2020
+
+## Physical tests
+[Vertebrobasilar Insufficiency Test]({{< var ref-VBI-vertebrobasilar-insufficiency-test.path >}})
+
+
+# DDX 
+Spontaneous intracranial hypotension is a common DDX for VBI, but differs since it generally presents with a gradual onset orthostatic headache near the occipital regions @chenVertebralArteryDissection2018
+These headaches are orthostatic since the low volume of CSF d/t leakage allows the brain to displace downwards when standing @chenVertebralArteryDissection2018.
+This displacement causes the headache symptoms to worsen when standing and to relieve when laying down @chenVertebralArteryDissection2018.

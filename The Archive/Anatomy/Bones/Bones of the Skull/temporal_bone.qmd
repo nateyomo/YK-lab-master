@@ -1,0 +1,13 @@
+---
+title: Temporal bone (Petrous and Squamous parts)
+---
+
+# Attachment sites
+
+## Mastoid process
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Sternocleidomastoid]({{< var ref-sternocleidomastoid.path >}}) | {{< var ref-sternocleidomastoid.origin >}} | {{< var ref-sternocleidomastoid.insertion >}} | {{< var ref-sternocleidomastoid.nerve >}} | {{< var ref-sternocleidomastoid.action >}} |
+
+: {.striped .hover}

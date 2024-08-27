@@ -1,0 +1,9 @@
+---
+title: Trigeminal-Autonomic Reflex
+---
+
+
+
+# Pathologies
+
+- [Cluster headaches]({{< var ref-headache.cluster >}})

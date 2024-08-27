@@ -1,0 +1,13 @@
+---
+title: Movement Analysis
+---
+
+
+
+# Approaches to movement analysis
+
+
+- SFMA: 
+    - Standardized movement analysis that can be used for reference, but overreliance can create "cookie cutter" rehab plans.
+    - This should not replace your clinical reasoning.
+

@@ -1,0 +1,34 @@
+---
+title: Correlation Coefficient (r)
+subtitle: Strength of association between different ratings of the same thing
+---
+
+Correlation coefficient (r) reflects the Direction and magnitude of linear association between variables
+
+Limitations:
+
+- Only gives info on How closely associated the numbers are (if one increases or decreases, the other does as well)
+- Does NOT give info on how well those actual values agree (level of agreement?)
+
+
+
+# Scoring
+
+# Interpretation
+
+
+
+Direction (regardless of magnitude):
+
+- Positive correlation (+r): as one variable increases, the other variable increases
+- Negative correlation (‐r): as one variable increases, the other variable decreases
+    - AKA inverse correlation
+
+Magnitude (regardless of direction):
+
+- (r) values range from: 0.00 (no association) to 1.00 (perfect association)
+- The closer (r) is to 1.00, the stronger the association between variables
+
+
+
+

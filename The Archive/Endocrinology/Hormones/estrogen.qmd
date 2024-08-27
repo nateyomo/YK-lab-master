@@ -1,0 +1,30 @@
+---
+title: Estrogen
+---
+
+
+"The female sex hormone estrogen probably also accounts for some of the difference between female and male performance, although not nearly so much as testosterone. Estrogen increases the deposition of fat in the female, especially in the breasts, hips, and subcutaneous tissue. At least partly for this reason, the average young (age 16–19 years) nonathletic female has about 34% body fat composition, in contrast to the nonathletic young male (age 16–19 years), who has about 23% (Figure 85-1). The average percentages for body fat are higher in older men and women and have increased substantially over the past 20 to 30 years as the prevalence of obesity has risen in populations of most developed countries. In the United States, for example, the prevalence of obesity in now approximately 37% of the adult population. Increased body fat composition is a detriment to the highest levels of athletic performance in events in which performance depends on speed or on the ratio of total body muscle strength to body weight." @hallGuytonHallTextbook2021 
+
+
+# Secretion
+
+
+## Gender Differences
+
+
+## Age Differences
+
+
+# Function
+
+
+
+# Resultant Gender Differences
+
+:::{.callout-note}
+Estrogen can impact phenotypical differences between gender, *but* not as much as the resultant differences due to [testosterone]({{< var ref-testosterone.path >}})
+:::
+
+Estrogen accounts for some of the gender differences between female and males @hallGuytonHallTextbook2021. 
+
+Since estrogen increases the deposition of fat the average young (age 16–19 years) nonathletic female has about 34% body fat composition whereas a nonathletic young male (age 16–19 years), who has about 23% @hallGuytonHallTextbook2021.

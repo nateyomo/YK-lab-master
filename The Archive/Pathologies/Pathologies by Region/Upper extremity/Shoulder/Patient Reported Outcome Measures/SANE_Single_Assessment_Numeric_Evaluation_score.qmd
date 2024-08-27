@@ -1,0 +1,18 @@
+---
+title: Single Assessment Numeric Evaluation (SANE) Score
+---
+
+
+
+
+
+# Questionnaire
+
+1. How would you rate your affected joint/region of interest today as a percentage of normal?
+    - 0% to 100% scale with 100% being normal
+1. How would you rate your opposite side today as a percentage of normal?
+    - 0% to 100% scale with 100% being normal
+
+# Validity
+
+May be a simpler alternative to the ROWE score @ladermannSingleAssessmentNumeric2021 

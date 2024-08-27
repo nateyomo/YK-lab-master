@@ -1,0 +1,36 @@
+---
+title: Evidence based Examination 
+subtitle: Using evidence to guide your examination
+---
+
+Within one's examination we want to select diagnostic tests/outcome measures to:
+
+- Rule in/out a diagnosis
+- Reliably measure severity of impairment, functional limitation, or disability
+- Detect meaningful change (for goal setting) 
+- Accurately determine prognosis
+
+# Optimal study design
+
+When searching for studies to answer your clinical question, study design depends on type of psychometric property evaluated
+
+:::{.callout-tip title="Search helper"}
+Use the term for the psychometric property itself instead of using search terms for study design
+:::
+
+
+
+
+# Rule in / Rule out
+Diagnostic validity
+Diagnostic accuracy, etc
+
+# Reliably measure severity
+
+
+# Detect meaningful change
+Detect clinically meaningful chane over time for goal setting
+
+# Prognosis
+
+To determine prognosis, cliniciancs should find a reliable indicator to measure prognosis

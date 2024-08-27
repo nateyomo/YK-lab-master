@@ -1,0 +1,62 @@
+---
+title: Correlation (Statistical overview)
+---
+
+
+# Definition
+## Correlation
+
+"Correlation is a statistical technique that can show whether, and how strongly, pairs of variables are related. There are several different correlation techniques, including the Pearson or product-moment correlation" @giavarinaUnderstandingBlandAltman2015 
+
+
+Monotonic association between 2 variables(Schober et al., 2018)
+
+1. one variable increases → other increases
+1. One variable increases → Other Decreases
+
+## Variance
+
+Measure of the variability of a single variable @schoberCorrelationCoefficientsAppropriate2018
+
+:::{.callout collapse="false"}
+### Covariance vs Variance
+Covariance is similar to variance, but whereas variance describes the variability of a single variable @schoberCorrelationCoefficientsAppropriate2018
+:::
+
+
+## Covariance
+
+Defined as the Degree to which the change in 1 continuous variable is associated with the change in another continuous variable @schoberCorrelationCoefficientsAppropriate2018
+
+Covariance is a measure of how 2 variables vary together @schoberCorrelationCoefficientsAppropriate2018
+
+:::{.callout collapse="false"}
+### Covariance vs Variance
+Covariance is similar to variance, but whereas variance describes the variability of a single variable @schoberCorrelationCoefficientsAppropriate2018
+:::
+
+## Intra-class Coefficient (ICC)
+
+- 0-1 (higher is better)
+- Correlations between repeated measurements within a class of data @liljequistIntraclassCorrelationDiscussion2019
+
+## Correlation coefficient
+Describes Strength & Direction of association between variables 
+
+## Coefficient of Determination (R^2)
+Proportion of variance in 1 variable that is accounted for by the other @schoberCorrelationCoefficientsAppropriate2018 .
+
+
+## Linear correlation
+
+[See more about linear correlation]({{< var ref-linear-correlation.path >}})
+
+
+
+# Interpretation
+
+See We considered a correlation coefficient of .00–0.30 to be very weak, 0.31–0.50 weak, 0.51–0.70 moderate, 0.71–90 strong and 0.91–1.00 very strong as proposed by Mukaka
+
+:::{.callout-note}
+Mukaka MM. Statistics corner: A guide to appropriate use of correlation coefficient in medical research. Malawi Med J. 2012;24(3):69–71.
+:::

@@ -1,0 +1,75 @@
+---
+title: Effects of Cold Bath Post-Exercise
+date: 1/21/24
+---
+
+# Article
+
+Xiao et al. @xiaoEffectsColdWater2023 (2023) Effects of cold water immersion after exercise on fatigue recovery and exercise performance--meta analysis @xiaoEffectsColdWater2023
+
+# Question
+
+# Study Construct
+
+- Systematic review (SR)
+- 20 study SR
+- Subjective indicators:
+    - Delayed onset muscle soreness (DOMS)
+    - Rate of perceived exertion (RPE)
+- Objective measures:
+    - Countermovement jump (CMJ)
+    - Blood plasma markers
+        - [Creatine kinase (CK)](#results)
+        - [Lactate/lactate dehydrogenase (LDH)](#results)
+        - [C reactive protein](#results)
+        - [IL-6](#results)
+
+## Methods
+
+Methods of the studies included
+
+- Independent variable
+    - studies included
+        - CWI immersion to the iliac crest/umbilicus
+        - Temperatures from 5-15$\textdegree$C. 
+    - Other studies included CWI submerged to mid sternal level and shoulder level at 6-15$\textdegree$C.
+
+
+# Results
+
+## DOMS/VAS Results
+
+Muscle soreness and fatigue recovery status was characterized by this study as "Delayed-onset muscle soreness (DOMS)" and was quantified using a VAS scale.
+
+The experimental (CWI) group demonstrated a decline in DOMS (VAS scale) significantly lower VAS at 0 h and 24 hr, but showed no difference at 48 h @xiaoEffectsColdWater2023.
+
+## RPE Results
+
+Ratings of perceived exertion (RPE) scale is a subjective measure of muscle soreness and fatigue recovery status @xiaoEffectsColdWater2023.
+
+Decline in RPE immediately (0/1-10 scales) at 0 hours (none at 24 or 48 h)
+Reduced CMJ immediately (at 0 hr)
+
+## Creatine Kinase Results
+
+- [Creatine kinase (CK)]({{< var ref-creatine-kinase.path >}}) lowered at 24 hr, (no difference at 0 or 48 h)
+
+## Lactate results
+
+- Lactate lowered at 24 and 48 h. 
+
+## IL-6 Results
+
+IL-6 was used as a marker of post-exercise inflammation @xiaoEffectsColdWater2023
+
+No evidence that CWI impacts IL6 during 48 hours @xiaoEffectsColdWater2023
+
+## C Reactive protein results
+
+[C-reactive protein (CRP)]({{< var ref-c-reactive-protein.path >}}) is an indicator of infectious or inflammatory condition @xiaoEffectsColdWater2023
+
+No evidence that CWI impacts CRP during 48 hours @xiaoEffectsColdWater2023
+
+## Fatigue Recovery Results
+
+They found that water temp and CWI sites have no effect on fatigue recovery

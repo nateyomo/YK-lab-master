@@ -1,0 +1,40 @@
+---
+title: Medial Pterygoid muscle
+---
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Medial Pterygoid]({{< var ref-medial-pterygoid.path >}}) | {{< var ref-medial-pterygoid.origin >}} | {{< var ref-medial-pterygoid.insertion >}} | {{< var ref-medial-pterygoid.nerve >}} | {{< var ref-medial-pterygoid.action >}} |
+
+# Origin {#origin}
+**SF Head:** Maxilla (tuberosity); **Deep head:** Medial surface of lateral pterygoid plate and pterygoid fossa @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+Pterygoid tuberosity on medial surface of the mandibular angle @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Mandibular (V~3~) divison of CN V via medial pterygoid n.]({{< var ref-cn5.path >}}) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+**BIL:** Elevates mandible with masseter and contributes to protrusion; **UNIL:** Small grinding movements  @gilroyAtlasAnatomy2020
+
+:::{.callout title="neummann explanation"}
+"The medial pterygoid muscle arises from two disproportionatelysized heads (Fig. 11.19A). The much larger deep head attaches on the medial surface of the lateral pterygoid plate of the sphenoid bone (see Figs. 11.5 and 11.6). The smaller superficial head attaches to a region of the posterior side of the maxilla, just above the third molar (compare perspectives of Figs. 11.6 and 11.7).99 Both heads course nearly parallel with the masseter muscle and attach on the internal surface of the ramus, near the angle of the mandible (compare perspectives of Figs. 11.2 and 11.4). The actions of the two heads of the medial pterygoid are essentially identical. Acting bilaterally, the medial pterygoid elevates and, to a limited extent, protrudes the mandible. Because of the oblique line of force of the muscle, a unilateral contraction of the medial pterygoid produces a very effective contralateral excursion of the mandible" @neumannKinesiologyMusculoskeletalSystem2017
+:::
+
+:::{.callout title="Interaction between Medial pterygoid and masseter"}
+"T he medial pterygoid and masseter muscles form a functional sling around the angle of the mandible (Fig. 11.20). Simultaneous contractions of these muscles can exert a powerful biting force that is directed through the jaw and ultimately between the upper and lower molars.57 The maximal biting force in this region averages about 422 N (95 lb) in the adult, twice that generated between the incisors.61 Acting on the internal and external sides of the mandible, the masseter and medial pterygoid also produce an important sideto-side force between the upper and lower molars. As shown in Fig. 11.18, simultaneous contraction of the right medial pterygoid and left masseter produces left lateral deviation. Contraction of these muscles in this synergistic fashion can produce a very effective shear force between the molars and food, on both sides of the mouth. The combined muscular action is very effective at grinding and crushing food before swallowing.articular disc. The inferior head attaches within the pterygoid fossa and adjacent neck of the mandible. A third head of the muscle has also been proposed, based on the multiple pattern of distal attachments."
+
+"The precise action and role of the two heads of the lateral pterygoid muscle during mastication is controversial and not completely understood.74,106 The lack of understanding partially reflects the muscle’s deep location and subsequent technical challenge to electromyographic study. It is generally agreed, however, that unilateral contraction of both heads of the lateral pterygoid produces contralateral excursion of the mandible (see Fig. 11.18). Furthermore, unilateral muscle contraction rotates the ipsilateral condyle anterior-medially within the horizontal plane—a typical kinematic component of contralateral excursion (reviewed in Fig 11.14B). Usually a given right or left lateral pterygoid muscle contracts synergistically with other muscles during mastication. For example, as depicted in Fig. 11.18, a biting motion that involves left lateral excursion is controlled by the right lateral and medial pterygoid muscles and, to a lesser extent, by the left masseter and temporalis."
+
+"Bilateral contraction of both heads of the lateral pterygoid muscle produces a strong protrusion of the mandible.61 As fully described ahead in the discussion of muscular control of opening and closing of the mouth, the two heads of the lateral pterygoid are active at different phases of opening and closing of the mouth. (For this and other morphologic considerations, some authors have argued that the two heads of the lateral pterygoid are actually separate muscles.28) Most sources suggest that the inferior head is the primary depressor of the mandible, especially during resisted opening of the mouth.65,74,77,82 The superior head, in contrast, helps control the tension within the disc and its position during resisted closure of the jaw.65,74 This action is especially important during resisted, unilateral closure of the jaw, such as when biting down on a hard piece of candy."
+:::
+
+# Palpation
+
+Intraoral: Posterior and medial to mandibular molars (have subject deviate away)
+
+# Clinical Significance

@@ -1,0 +1,41 @@
+---
+title: Extensor Digitorum Brevis (EDB)
+---
+
+:::{layout-ncol="2"}
+![Schematic of Intrinsic Dorsal Muscles of the foot </br> 1: Extensor digitorum brevis </br> 2: Extensor hallucis brevis @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.19a schematic of intrinsic dorsal foot muscles.png)
+
+![Intrinsic Dorsal Muscles of the foot @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.19b intrinsic dorsal foot muscles.png)
+:::
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Extensor Digitorum Brevis]({{< var ref-extensor-digitorum-brevis.path >}}) | {{< var ref-extensor-digitorum-brevis.origin >}} | {{< var ref-extensor-digitorum-brevis.insertion >}} | {{< var ref-extensor-digitorum-brevis.nerve >}} | {{< var ref-extensor-digitorum-brevis.action >}} |
+: Extensor Digitorum Brevis OIAN {.striped .hover}
+
+
+
+# Origin {#origin}
+
+Calcaneus (lateral dorsal surface) @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+
+Bases of middle phalanges of digits 2-4 @gilroyAtlasAnatomy2020
+
+
+
+# Nerve
+
+[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+**MTP/PIP 2-4**: Extension @gilroyAtlasAnatomy2020
+
+# MMT 
+
+"The EDL and the EDB muscles produce the motion of extension at the MTP and IP joints of the lateral four digits from a flexed position." @duttonDuttonOrthopaedicExamination2020
+
+- Apply resistance dorsal surface of the proximal and distal phalanges into toe flexion @duttonDuttonOrthopaedicExamination2020 

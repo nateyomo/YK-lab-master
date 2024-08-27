@@ -1,0 +1,20 @@
+---
+title: Passive Shoulder Shrug Test
+subtitle: A special test for ruling out thoracic outlet syndrome
+---
+
+The Passive Shoulder Shrug test is a special test designed to rule out [thoracic outlet syndrome]({{< var ref-thoracic-outlet.syndrome >}}) in patients with symptoms consistent with [TOS]({{< var ref-thoracic-outlet.syndrome >}}) @duttonDuttonOrthopaedicExamination2020.
+The passive movement of this maneuver is designed to slacken the soft tissues/brachial plexus, which should relieve TOS symptoms @duttonDuttonOrthopaedicExamination2020.
+
+# Technique
+
+- Patient positioned seated with arms folded
+- Clinician stands behind patient
+- Clinician grasps patient's elbows and passively elevates the shoulders superiorly and anteriorly
+    - Hold for 30 sec
+- Ask patient about changes in symptoms
+
+
+# Validity
+
+No diagnostic accuracy studies have been performed to determine the sensitivity and specificity of this test

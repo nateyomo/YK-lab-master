@@ -1,0 +1,199 @@
+---
+title: Glenohumeral Joint
+---
+
+# Overview
+
+
+# Position
+
+- Glenoid fossa tilted upwardly at 5 degrees
+- Humerus 
+    - → angle of inclination: 135&deg; (frontal plane)
+    - → angle of retroversion 30&deg; (tranverse plane)
+
+- GHJ alignment/normal ROM
+    - ⅓ of humeral head protruding in front of acromion
+
+## Closed Pack
+
+- 90&deg; abd
+- Max ER
+
+## Open Pack
+
+
+# Capsular pattern
+
+1. External Rotation
+1. Abduction
+1. Flexion
+1. Internal Rotation
+
+
+# Ligaments
+
+- Superior GHJ Lig: Taught add, inf, AP translation
+- Middle: taught in ER and ant translation
+- Inferior: 90 deg of abd, ant fibers: ER, post fibers: IR
+- Coracohumeral: ER and ADD
+
+
+# Stabilization
+
+## Passive Stabilizers
+
+- Labrum
+- Joint capsule
+- Ligaments
+- Negative intraarticular pressure
+- Supraspinatus
+- Inclined plane of scapula
+
+
+
+## Flexion
+
+Normal: 120&deg; of **pure** GHJ flexion
+
+
+## Extension
+
+55&deg;
+
+## Abduction
+
+120&deg; of **pure** GHJ Abduction
+
+## Adduction
+
+ADD: 75-85&deg;
+
+## Internal Rotation
+
+
+
+## External Rotation
+
+
+# IR ER Ratio
+
+
+- When adducted, the shoulder should display: 75-85 IR and 60-70 ER
+- When Abducted to 90&deg; one should expect more ER=90 deg
+
+
+
+# Notes
+
+
+"The G-H joint is a true synovial joint that connects the upper extremity to the trunk, as part of the upper kinetic chain. The G-H joint is described as a ball and socket joint—the humeral head forms roughly half a ball or sphere (Fig. 16-1), whereas the glenoid fossa forms the socket. " @duttonDuttonOrthopaedicExamination2020
+
+"The head of the humerus faces medially, posteriorly, and superiorly with the axis of the head forming an angle of 130–150 degrees with the long axis of the humerus (Fig. 16-2).3 In the frontal plane, the head of the humerus is angled posteriorly (retroverted) by 30–40 degrees.3 The joint capsule of the G-H joint is lax inferiorly to permit full elevation of the arm. " @duttonDuttonOrthopaedicExamination2020
+
+"The glenoid fossa of the scapula faces laterally, superiorly, and anteriorly at rest and inferiorly and posteriorly when the arm is in the dependent position (Fig. 16-3). The glenoid fossa is flat and covers only one-third to one-fourth of the surface area of the humeral head.3 This arrangement allows for a great deal of mobility but little in the way of articular stability. However, the glenoid fossa is made approximately 50% deeper (doubling the depth of the glenoid fossa across its equatorial line), and more concave by a ring of fibrous cartilage and dense fibrous collagen called a labrum.3 The labrum, which enhances joint stability by increasing the humeral head contact areas, forms a part of the articular surface and is attached to the margin of the glenoid cavity and the joint capsule.3 It is also attached to the lateral portion of the biceps anchor superiorly.4 In addition, approximately 50% of the fibers of the long head of the biceps (LHB) brachii originate from the superior labrum (the remainder originates from the superior glenoid tubercle), with four different variations identified, and continue posteriorly to become a periarticular fiber bundle, making up the bulk of the labrum.3,4 Because the humeral head is larger than the glenoid (Fig. 16-3), at any point during elevation, only 25–30% of the humeral head is in contact with the glenoid, with the greatest contact occurring during elevation rather than at the extremes. Contact between the humeral head and glenoid fossa is significantly reduced when the humerus is positioned in:" @duttonDuttonOrthopaedicExamination2020
+
+- adduction, flexion, and internal rotation (IR) @duttonDuttonOrthopaedicExamination2020
+- abduction and elevation @duttonDuttonOrthopaedicExamination2020
+- adducted at the side, with the scapula rotated downward @duttonDuttonOrthopaedicExamination2020
+
+"Although the labrum provides some stability for the G-H joint, additional support is provided by both dynamic and static mechanisms. The dynamic mechanisms include the muscles of the rotator cuff (RC) (supraspinatus, infraspinatus, teres minor, and subscapularis muscles) (Fig. 16-4) and a number of muscle force couples described later. The static mechanisms, which include reinforcements of the joint capsule, joint cohesion and geometry, and ligamentous support, are also described later." @duttonDuttonOrthopaedicExamination2020 
+
+"The scapula (Fig. 16-1) functions as a stable base from which G-H mobility can occur. The scapula is a flat blade of bone that is oriented to contribute to stability: it lies along the thoracic cage at 30 degrees to the frontal plane (Fig. 16-2), 3 degrees superiorly relative to the transverse plane to augment functional reaching motions above shoulder height, and 20 degrees forward in the sagittal plane.3 This orientation results in arm elevation occurring in a plane that is 30–45 degrees anterior to the frontal plane. When elevation of the arm occurs in this plane, the motion is referred to as scapular plane abduction or scaption." @duttonDuttonOrthopaedicExamination2020
+
+
+:::{.callout-tip title="Clinical Pearl"}
+"It has been recommended that many strengthening exercises for the shoulder joint complex be performed in the scapular plane. Reasons for this include:" @duttonDuttonOrthopaedicExamination2020
+
+- "When the limb is positioned in the plane of the scapula, the mechanical axis of the G-H joint is in line with the mechanical axis of the scapula, and movement of the humerus in this plane is less limiting than in the frontal or sagittal planes because the G-H capsule is not twisted.5" @duttonDuttonOrthopaedicExamination2020 
+- "Because the RC muscles originate on the scapula and attach to the humerus, the length-tension relationship of these muscles is improved in this position." @duttonDuttonOrthopaedicExamination2020
+:::
+
+
+"The scapula’s wide and thin configuration allows for its smooth gliding along the thoracic wall and provides a large surface area for muscle attachments both distally and proximally.3 In all, 16 muscles gain attachment to the scapula (Table 16-1). Six of these muscles, including the trapezius, rhomboids, levator scapulae, and serratus anterior, support and move the scapula, while nine of the other ten (the omohyoid is not included) are concerned with G-H motion."  @duttonDuttonOrthopaedicExamination2020 
+
+"Posteriorly, the scapula is divided by the elevated scapula spine into two unequally sized muscle compartments. The supraspinous fossa is small and serves as the site of origin for the supraspinatus muscle (see Fig. 16-4). The infraspinous fossa gives attachment for the downward-acting infraspinatus and teres minor muscles (see Fig. 16-4), important muscles for the stabilization of the humeral head (see “Muscles of the Shoulder Complex” section). The infraspinatus and supraspinatus fuse near their insertions and cannot be separated, and the teres minor and infraspinatus merge inseparably just proximal to the musculotendinous junction.6 The supraspinatus tendon is made up of 6–9 structurally independent parallel fascicles separated by an endotendon and a lubricant that facilitates gliding.7 The RC tendons are also merged with the capsule of the shoulder and the coracohumeral and G-H ligaments. This interweaving of the RC with the G-H joint ligamentous and capsular tissues negates the possibility of isolated testing of individual structures.6 This structural arrangement also improves resistance to failure when the RC is under load because (a) tension in one muscle may be distributed over a wide area and (b) it reduces stress within the tendon during extremes of movement.8" @duttonDuttonOrthopaedicExamination2020 
+
+
+# Tissues That Reinforce or Deepen Joint
+
+- Joint capsule and associated GH capsular ligaments @neumannKinesiologyMusculoskeletalSystem2017
+- Coracohumeral ligament @neumannKinesiologyMusculoskeletalSystem2017
+- Rotator cuff muscles (subscapularis, supraspinatus, infraspinatus, and teres minor) @neumannKinesiologyMusculoskeletalSystem2017
+- Long head of the biceps brachii @neumannKinesiologyMusculoskeletalSystem2017
+- Glenoid labrum @neumannKinesiologyMusculoskeletalSystem2017
+
+# Socket
+
+The coracoacromial ligament the labrum serve to functionally enlarges the GHJ socket @duttonDuttonOrthopaedicExamination2020 
+
+# Capsule {#capsule}
+
+
+## Anatomy
+
+:::{layout-ncol="3"}
+### Attachments
+
+- Lateral attachment: Anatomical neck of the humerus @duttonDuttonOrthopaedicExamination2020
+- Medial attachment: Periphery of the glenoid and its labrum @duttonDuttonOrthopaedicExamination2020 
+
+### Histology
+
+- Fibrous @duttonDuttonOrthopaedicExamination2020 
+
+### Synovial Membrane
+
+- The GH capsule is lined with a synovial membrane (synovium) that extends from the *Glenoid Labrum* down to the humeral neck @duttonDuttonOrthopaedicExamination2020
+- This membrane secretes synovial joint fluid into the joint cavity @duttonDuttonOrthopaedicExamination2020
+- This "synovium" extends from the 
+:::
+
+## Reinforcements
+
+- The anterior capsule is reinforced by the the superior, middle, and inferior G-H ligaments @duttonDuttonOrthopaedicExamination2020
+
+## Function
+
+- The posterior capsule tenses and provides passive stability during GHJ flexion, GHJ abduction, and GHJ Internal Rotation @duttonDuttonOrthopaedicExamination2020.
+    - This is especially true for the Superior segment and Middle segment @duttonDuttonOrthopaedicExamination2020
+
+# Considerations
+
+- Age is negatively correlated with GH joint capsule strength @duttonDuttonOrthopaedicExamination2020
+    - The older the patient, the weaker the GH Joint Capsule @duttonDuttonOrthopaedicExamination2020 
+
+"The fibrous portion of the capsule is very lax and has several recesses, depending on the position of the arm. At its inferior aspect, the capsule forms an axillary recess, which is both loose and redundant. The recess permits normal elevation of the arm, although it can also be the site of adhesions when the shoulder is immobilized in adduction. The anterior aspect of the joint capsule is reinforced by three ligaments (Z ligaments), which are described in the next section. The tendons of the RC (supraspinatus, infraspinatus, teres minor, and subscapularis) reinforce the superior, posterior, and anterior aspects of the capsule, as does the LHB tendon." @duttonDuttonOrthopaedicExamination2020
+
+# Innervation {#innervation}
+
+[Suprascapular nerve]({{< var ref-suprascapular-nerve.path >}}) provides sensory and sympathetic afferent fibers to the GHJ @duttonDuttonOrthopaedicExamination2020
+
+
+# Osteokinematics
+
+## Flexion
+
+- Passive Stabilizers
+    - Posterior capsule (especially Middle and Superior Segments) @duttonDuttonOrthopaedicExamination2020 
+
+## Extension
+
+## Adduction
+
+## Abduction
+
+- Passive Stabilizers
+    - Posterior capsule (especially Middle and Superior Segments) @duttonDuttonOrthopaedicExamination2020
+
+## Internal Rotation
+
+- Passive Stabilizers
+    - Posterior capsule (especially Middle and Superior Segments) @duttonDuttonOrthopaedicExamination2020
+
+## External Rotation
+
+
+# Examination
+
+- GIRD

@@ -1,0 +1,19 @@
+---
+title: Fibula
+---
+
+
+"The long and thin fibula is located lateral and parallel to the tibia (Fig. 14.3). The fibular head can be palpated just lateral to the lateral condyle of the tibia. The slender shaft of the fibula transfers only about 10% of body weight through the leg; most of the weight is transferred through the thicker tibia. " @neumannKinesiologyMusculoskeletalSystem2017
+
+
+# Lateral Malleolus
+
+Malleolus comes from root *malleus* which is latin for "hammer" @neumannKinesiologyMusculoskeletalSystem2017. 
+The lateral malleolus acts as a pulley for the tendons of the [Fibularis Longus]({{< var ref-fibularis-longus.path >}}) and [Fibularis Brevis]({{< var ref-fibularis-brevis.path >}}) @neumannKinesiologyMusculoskeletalSystem2017.
+
+The medial surface of the lateral malleolus forms the lateral aspect of the mortise that articulates with the talus in the TCJ @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+
+
+# Load

@@ -1,0 +1,14 @@
+---
+title: Tibia
+---
+
+
+
+
+
+# Landmarks
+
+# Anteromedial tibia
+
+- [Pes Anserine]({{< var ref-pes-anserine.path >}})
+

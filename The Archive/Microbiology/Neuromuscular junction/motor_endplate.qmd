@@ -1,0 +1,8 @@
+---
+title: Motor Endplate
+---
+
+The motor endplate is a part of the *neuromuscular junction* @hallGuytonHallTextbook2021.
+The motor endplate refers to the multiple branching nerve terminals that invaginate upon the surface of the muscle fiber, but does not penetrate the muscle fiber plasma membrane @hallGuytonHallTextbook2021.
+The motor endplate is covered by one or more Schwann cells that insulate it from the surrounding fluids @hallGuytonHallTextbook2021.
+

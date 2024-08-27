@@ -1,0 +1,51 @@
+---
+title: Human Locomotion
+---
+
+
+
+The foundational elements of bipedal locomotion include 
+
+1. The appropriate alignment, strength, and control of the lower extremities (LEs) and trunk to support body mass @osullivanImprovingFunctionalOutcomes2016
+1. The ability to generate locomotor rhythm @osullivanImprovingFunctionalOutcomes2016
+1. Dynamic balance control (the ability to maintain stability and orientation with the center of mass [COM] over the base of support [BOS] while parts of the body are in motion) @osullivanImprovingFunctionalOutcomes2016
+1. The propulsion of the body in the intended direction; and (5) the adaptability of locomotor responses to changing task and environmental demands @osullivanImprovingFunctionalOutcomes2016
+
+
+# Factors that affect Locomotor interventions
+
+- The presenting pathology @osullivanImprovingFunctionalOutcomes2016
+- Weightbearing status @osullivanImprovingFunctionalOutcomes2016
+- Body/structure impairments and activity limitations that affect movement @osullivanImprovingFunctionalOutcomes2016
+
+
+# Areas to Assess
+
+:::{layout-ncol="3"}
+
+### Postural alignment and balance control
+
+### Joint integrity and mobility
+
+### Motor function
+
+- (motor control and motor learning) @osullivanImprovingFunctionalOutcomes2016
+
+### Muscle performance
+
+- Strength
+- Power
+- Endurance
+
+### range of motion (ROM)
+
+
+### Sensory function
+
+- DCML
+- Vestibular
+- Visual System
+- Central sensory integration (the capacity of the brain to organize, interpret, and use sensory information) @osullivanImprovingFunctionalOutcomes2016
+- The patient’s ability to use sensory input from the skin and musculoskeletal system to assist in locomotor control @osullivanImprovingFunctionalOutcomes2016
+:::
+

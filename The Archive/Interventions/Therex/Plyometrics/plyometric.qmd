@@ -1,0 +1,59 @@
+---
+title: Plyometric
+---
+
+:::{.callout title="Resources"}
+
+- Davies - Current Concepts of Plyometric Exercise @daviesCurrentConceptsPlyometric2015
+:::
+
+
+# Scientific mechanisms
+
+## Physiological Basis
+
+## Mechanical Basis
+
+
+## Neurophysiological Basis
+
+The proprioceptors of the body include the muscle spindle, the Golgi tendon organ (GTO), and the mechanoreceptors located in joint capsules and ligaments. 
+
+Stimulation of these receptors can cause facilitation, inhibition, and modulation of both agonist and antagonistic muscles.7,65-67
+
+When the muscle spindle is stretched, there is an increase in afferent nerve firing @daviesCURRENTCONCEPTSPLYOMETRIC2015.
+
+The strength of the signal that is sent to the spinal cord from the muscle spindle is dependent on the rate of the applied stretch @daviesCURRENTCONCEPTSPLYOMETRIC2015.
+The faster the rate of the stretch, the stronger the neurological signal sent from the muscle spindle, and as a result, the greater the efferent muscle contraction (the shortening cycle of the plyometric movement). 
+The other mechanoreceptor that plays a significant role in the plyometric stretch-shorten cycle is the GTO. The function of the GTO is to act as a protective reflex preventing over-contraction or too much tension in the muscle. Thus, the GTO assists with modulating forces during plyometric exercises. Consequently, the purpose of plyometric training is to increase the excitability of the neurologic receptors for improved reactivity of the neuromuscular system while desensitizing the GTO.66-69 Explosive plyometric exercises may improve the neural efficiency through enhancement of neuromuscular coordi-
+
+
+
+# Basics
+
+:::{layout-ncol="3"}
+
+### Eccentric Pre-Stretch (Davies et al 2015)
+
+- Stretches the muscle spindle of the muscle-tendon unit and the non-contractile tissue within the muscle @daviesCurrentConceptsPlyometric2015
+- This will enhance the resultant concentric muscle contraction @daviesCurrentConceptsPlyometric2015
+- Effected by magnitude, rate, and duration of the stretch @daviesCurrentConceptsPlyometric2015 
+
+### Amoritization Phase (Time to Rebound)
+
+- Time delay between overcoming the negative work of the eccentric pre-stretch to generating the force production and accelerating in the direction of the plyometric movement pattern @daviesCurrentConceptsPlyometric2015 
+- The shorter this phase, the more effective and powerful the plyometric movement because the stored energy is used efficiently in the transition @daviesCurrentConceptsPlyometric2015 
+
+### Concentric Shortening Phase 
+
+- Resultant power production performance phase; describes what actually happens during the plyometric activity @daviesCurrentConceptsPlyometric2015 
+
+::: 
+
+
+
+
+
+# Eccentric Plyometrics
+
+Push-Jerk is a form of *eccentric* plyometric since you are using power to pull yourself under the bar

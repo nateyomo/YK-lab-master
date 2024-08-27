@@ -1,0 +1,14 @@
+---
+title: Voluntary Movement
+---
+
+
+# Extremities
+
+[Lateral Corticospinal tract (LCST)]({{< var ref-lateral-corticospinal-tract.path >}}) @osullivanPhysicalRehabilitation2019
+
+
+
+# Axial Musculature
+
+[Medial Corticospinal Tract (MCST)]({{< var ref-medial-corticospinal-tract.path >}})

@@ -1,0 +1,12 @@
+---
+title: Neutrophils
+---
+
+Resources:
+
+- Ch10 @cavaillon2018inflammation
+
+# Overview
+
+- Neutrophils are pathogen fighting immune cells @mayadasMultifacetedFunctionsNeutrophils2014
+- Function: ability to be recruited to sites of infection, recognize and phagocytose microbes, and kill pathogens through cytotoxic mechanisms @mayadasMultifacetedFunctionsNeutrophils2014

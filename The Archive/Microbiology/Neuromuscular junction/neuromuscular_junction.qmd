@@ -1,0 +1,24 @@
+---
+title: Neuromuscular Junction
+---
+
+
+:::{layout-ncol="2"}
+
+![Longitudinal section through the end plate @hallGuytonHallTextbook2021](/The Archive/Physiology/Muscle/images/fig7.1a hallGuytonHallTextbook2021.png)
+
+![Surface view of the end plate @hallGuytonHallTextbook2021](/The Archive/Physiology/Muscle/images/fig7.1b hallGuytonHallTextbook2021.png)
+
+:::
+![Electron micrographic appearance of the contact point between a single axon terminal and the muscle fiber membrane @hallGuytonHallTextbook2021](/The Archive/Physiology/Muscle/images/fig7.1c hallGuytonHallTextbook2021.png)
+
+
+The neuromuscular junction consists of a large myelinated nerve terminating onto a muscle fiber @hallGuytonHallTextbook2021.
+As the nerve fiber terminates, it forms the motor endplate @hallGuytonHallTextbook2021.
+The motor endplate is made up of multiple branching nerve terminals that invaginate upon the surface of the muscle fiber, but does not penetrate the muscle fiber plasma membrane @hallGuytonHallTextbook2021.
+The muscle fiber membrane invaginated by the motor endplate is known as the synaptic gutter or trough @hallGuytonHallTextbook2021.
+
+"The invaginated membrane is called the synaptic gutter or synaptic trough, and the space between the terminal and the fiber membrane is called the synaptic space or synaptic cleft, which is 20 to 30 nanometers wide. At the bottom of the gutter are numerous smaller folds of the muscle membrane called subneural clefts, which greatly increase the surface area at which the synaptic transmitter can act." @hallGuytonHallTextbook2021 
+
+"In the axon terminal are many mitochondria that supply adenosine triphosphate (ATP), the energy source used for synthesis of a transmitter, acetylcholine, which excites the muscle fiber membrane. Acetylcholine is synthesized in the cytoplasm of the terminal but is absorbed rapidly into many small synaptic vesicles, about 300,000 of which are normally in the terminals of a single end plate. In the synaptic space are large quantities of the enzyme acetylcholinesterase, which destroys acetylcholine a few milliseconds after it has been released from the synaptic vesicles." @hallGuytonHallTextbook2021 
+

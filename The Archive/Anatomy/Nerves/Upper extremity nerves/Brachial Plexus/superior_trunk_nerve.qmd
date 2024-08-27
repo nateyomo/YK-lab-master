@@ -1,0 +1,10 @@
+---
+title: Superior Trunk of the Brachial Plexus
+---
+
+# Origin {#origin}
+The superior trunk originates from [C5]({{< var ref-nerve-root.c5 >}}) and [C6]({{< var ref-nerve-root.c6 >}}).
+
+# Peripheral nerve
+
+- Nerve to Subclavius ({{< var ref-nerve-to-subclavius.roots >}}) originates from the [Superior Trunk]({{< var ref-brachial-plexus.superior-trunk >}}) @duttonDuttonOrthopaedicExamination2020

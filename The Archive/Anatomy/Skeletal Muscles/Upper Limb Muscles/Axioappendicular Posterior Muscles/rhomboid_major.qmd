@@ -1,0 +1,40 @@
+---
+title: Rhomboid Major
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Rhomboid Major]({{< var ref-rhomboid-major.path >}}) | {{< var ref-rhomboid-major.origin >}} | {{< var ref-rhomboid-major.insertion >}} | {{< var ref-rhomboid-major.nerve >}} | {{< var ref-rhomboid-major.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+SP T1–T4 @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+
+Medial border of scapula (*below scapular spine*) @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Dorsal Scapular N.]({{< var ref-dorsal-scapular-nerve.path >}}) ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+**STJ**: Retraction, Downward rotation, Stabilization @gilroyAtlasAnatomy2020 
+
+
+
+# Notes
+
+
+# Function
+
+The Serratus Anterior (along with the rhomboids) serves to aid in scapular stability during arm elevation @duttonDuttonOrthopaedicExamination2020 
+
+![Superior View of the shoulder: You can see how the rhomboids and SA both actively stabilize the scapulothoracic joint by pulling the scapula towards the thoracic wall @duttonDuttonOrthopaedicExamination2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/images/Dutton fig16.2 Superior aspect of shoulder.png)

@@ -1,0 +1,91 @@
+---
+title: Scapula (Bone)
+---
+
+
+
+# Sites
+
+## Spine of Scapula
+
+"The spine of the scapula provides a continuous line of attachments for the supporting trapezius muscle along its upper border, whereas the deltoid muscle, which suspends the humerus, gains origin from its lower border." @duttonDuttonOrthopaedicExamination2020 
+
+<details>
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Lower Trapezius]({{< var ref-lower-trapezius.path >}}) | {{< var ref-lower-trapezius.origin >}} | {{< var ref-lower-trapezius.insertion >}} | {{< var ref-lower-trapezius.nerve >}} | {{< var ref-lower-trapezius.action >}} |
+: {.striped .hover}
+</details>
+
+
+
+## Superior border {#superior-border}
+
+One of the borders of the [thoracic outlet]({{< var ref-thoracic-outlet.path >}}) @duttonDuttonOrthopaedicExamination2020
+
+## Supraspinous fossa
+
+<details>
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Supraspinatus]({{< var ref-supraspinatus.path >}}) | {{< var ref-supraspinatus.origin >}} | {{< var ref-supraspinatus.insertion >}} | {{< var ref-supraspinatus.nerve >}} | {{< var ref-supraspinatus.action >}} |
+
+: Muscles attachments to Supraspinous fossa of scapula {.striped .hover}
+</details>
+
+## Infraspinous fossa
+
+<details>
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Infraspinatus]({{< var ref-infraspinatus.path >}}) | {{< var ref-infraspinatus.origin >}} | {{< var ref-infraspinatus.insertion >}} | {{< var ref-infraspinatus.nerve >}} | {{< var ref-infraspinatus.action >}} |
+</details>
+
+## Lateral border of Scapula
+
+<details>
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Infraspinatus]({{< var ref-infraspinatus.path >}}) | {{< var ref-infraspinatus.origin >}} | {{< var ref-infraspinatus.insertion >}} | {{< var ref-infraspinatus.nerve >}} | {{< var ref-infraspinatus.action >}} |
+</details>
+
+## Subscapular fossa of scapula
+
+<details>
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Subscapularis]({{< var ref-subscapularis.path >}}) | {{< var ref-subscapularis.origin >}} | {{< var ref-subscapularis.insertion >}} | {{< var ref-subscapularis.nerve >}} | {{< var ref-subscapularis.action >}} |
+
+: Muscular attachments of the Subscapular Fossa {.striped .hover}
+
+</details>
+
+
+## Coracoid process {#coracoid-process}
+
+"The coracoid process (see Fig. 16-3) projects forward like a crow’s beak, for which it is named. This forward position provides an efficient lever whereby the small pectoralis muscle can help to stabilize the scapula. In addition, the process serves as a point of origin for the coracobrachialis and the short head of the biceps muscle" @duttonDuttonOrthopaedicExamination2020
+
+<details>
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Coracobrachialis]({{< var ref-coracobrachialis.path >}}) | {{< var ref-coracobrachialis.origin >}} | {{< var ref-coracobrachialis.insertion >}} | {{< var ref-coracobrachialis.nerve >}} | {{< var ref-coracobrachialis.action >}} |
+| **Insertions** | | | | |
+| [Pectoralis Minor]({{< var ref-pectoralis-minor.path >}}) | {{< var ref-pectoralis-minor.origin >}} | {{< var ref-pectoralis-minor.insertion >}} | {{< var ref-pectoralis-minor.nerve >}} | {{< var ref-pectoralis-minor.action >}} |
+
+: Coracoid process muscular attachments {.striped .hover}
+</details>
+
+## Acromion
+
+- Part of the [Acromioclavicular joint]({{< var ref-acromioclavicular-joint.path >}})
+
+"A prominent feature of the scapula is the large overhanging acromion (see Fig. 16-3), which, along with the coracoacromial ligament and the previously mentioned labrum, functionally enlarges the G-H socket. The position of the acromion also places the deltoid muscle in a dominant position to provide muscular support during elevation of the arm. The morphology of the acromion is variable with three types having been described—(1) a relatively flat undersurface (Type I), (2) a slightly convex undersurface (Type II), and (3) a hooked shape (Type III), with a 2018 study finding that individuals with a type III acromion had almost three times greater odds for an RTC tear as compared to those with a type I or II, concluding that a larger acromial index is associated with a greater likelihood of an RTC tear.9 This despite an earlier study in 2011 that concluded that the type of acromion was not found to have an important role in the etiology of chronic impingement syndrome.10" @duttonDuttonOrthopaedicExamination2020 
+
+<details>
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| Insertions | | | ||
+| [Middle Trapezius]({{< var ref-middle-trapezius.path >}}) | {{< var ref-middle-trapezius.origin >}} | {{< var ref-middle-trapezius.insertion >}} | {{< var ref-middle-trapezius.nerve >}} | {{< var ref-middle-trapezius.action >}} |
+: Coracoid process muscular attachments {.striped .hover}
+</details>

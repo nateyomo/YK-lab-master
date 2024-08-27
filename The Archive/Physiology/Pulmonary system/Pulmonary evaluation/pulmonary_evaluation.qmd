@@ -1,0 +1,257 @@
+---
+title: Pulmonary Evaluation
+---
+
+# Subjective
+
+Patient history/chart review—as per all patients
+
+## Environment
+
+- Environmental or occupational toxins
+
+## History
+
+- Smoking history
+- History of pneumonia, thoracic procedures or surgery
+- History of assisted ventilation or mechanical ventilation
+- History or current reports of dyspnea
+- History of baseline sputum production
+    - Color
+    - Consistency (is it sticky, thin, fluid)  (if smelly– cld indicate infection)
+    - Amount
+- Sleeping position, number of pillows
+
+# Physical Exam
+
+## Observation
+
+- General appearance, alertness
+- Ease of phonation
+- Skin color
+- Posture and chest shape
+- Breathing pattern
+- Supplemental O2 needs (nasal cannula, mask, ventilator etc)
+- Surgical incisions
+
+
+## Auscultation
+
+:::{layout-ncol="2"}
+
+### Normal
+
+- [Example](http://www.easyauscultation.com/lung-sounds.aspx)
+- Tracheal or bronchial (normal, named where u should hear them)
+- Bronchovesicular
+- Vesicular
+
+### Abnormal
+
+- Adventitious (crackles, rales)
+- Added (showing up in areas where they should not be) 
+- Location: Abnormal if heard outside normal location or changed in some way
+- Bronchial (where should be vesicular):
+    - Could mean there is fluid or secretion consolidation; pneumonia
+- Decreased or diminished
+    - Hypoventilation, severe congestion, emphysema
+- Absent
+    - Pneumothorax or lung collapse (emergency situation- chest tube needed)
+- Adventitious breath sounds:
+    - Continuous
+        - Wheezes
+        - Rhonchi
+        - Stridor
+    - Discontinuous
+        - Crackles
+:::
+
+
+### Documentation
+
+- Location: (base, Right vs Left etc)
+- Phase of respiration (inspiration, expiration)
+- Comparison to opposite lung
+
+
+
+
+
+## Pulmonary Palpation
+
+- Presence of fremitus (where u can feel chest pain/congestion location) 
+- Presence of pain, tenderness
+- Skin temp (ie could mean pneumonia on R vs L) 
+- Bony abnormalities, rib fx
+- Chest expansion (try to breathe in to my hands, PT - put your hands around bottom of rib cage on side) 
+
+
+## Cough Evaluation
+
+- Effectiveness
+- Control
+- Quality
+- Frequency
+- Sputum Production
+- Hemoptysis
+
+:::{layout-ncol="3"}
+
+### Effectiveness
+
+- Effectiveness (clearing secretions) → weak cough = hear junk in lungs, they cant cough well, OR sci injury, cant produce enough force to clear secretions)
+- Example: SCI may not be able to produce enough force to clear their airway
+
+### Control
+
+- Control (start and stop cough)-- can they voluntarily cough then stop?
+
+### Quality
+
+- Wet vs Dry
+- Cough and if you hear wet stuff, or is it dry
+
+### Frequency
+
+- Do they cough every couple of min
+- Do they cough w activity
+- etc 
+
+### Sputum Production
+
+- look what they are coughing up 
+- Color
+- Quantity
+- Odor
+- Consistency– tenacious, clinging to sides of someone's lungs– sticky, clay, silly putty 
+
+
+### Hemoptysis
+
+- Color: Dark red vs. bright red (blood)
+    - Dark red= after surgery (like a scab type)
+    - Bright red= someone actively bleeding. Can make difference in if you continue clearance or no 
+- Volume
+    - <5ml CAN continue airway clearance techniques (about a teaspoon) 
+    - .>5ml—unclear
+        - Autogenic drainage (gentle) 
+            - Focused on breathing– can use in combo w postural drainage, but focused on moving it up the mucociliary ladder she says
+        - Active cycle of breathing
+:::
+
+
+## Oximetry
+
+- Signs and symptoms of hypoxemia (cld indicate lack of o2)
+    - Tachypnea
+    - Tachycardia
+    - Restlessness
+    - Malaise
+    - Impaired judgment
+    - Incoordination
+    - Vertigo
+    - Nausea
+    - Labored respiration
+    - Cardiac dysrhythmia
+    - Confusion
+
+## Arterial blood gas
+
+- Acid base balance (pH) – ie respiratory or metabolic alkalosis or acidosis can affect it) 
+- Ventilation (CO2)
+- Oxygenation (O2) 
+- Imbalances due to pulmonary or metabolic reasons
+    - Acidosis 
+        - Respiratory or metabolic 
+    - Alkalosis
+        - Respiratory or metabolic
+
+Normal ABG values 
+
+- PaO2 >80 mmHg
+- PaCO2 35-45 mmHg
+- pH 7.35-7.45
+- HCO3 → 22-26 mEq/liter
+
+```{mermaid}
+flowchart TD
+
+  pH[pH] --> low-ph[Low pH]
+  pH --> normal-ph[Normal pH]
+  pH --> high-pH[High pH]
+
+  low-ph --> acidemia[Acidemia]
+  acidemia --> highPCO2[high PCO2]
+  acidemia --> lowHCO3[Low HCO3]
+  highPCO2 --> respiratory-acidosis[Respiratory Acidosis]
+  lowHCO3 --> metabolic-acidosis[Metabolic Acidosis]
+
+  normal-ph --> normal-acid-base[No abnormally or Mixed Acid-base Disorder]
+
+  high-pH --> alkalemia[Alkelemia]
+  alkalemia --> low-PCO2[Low PCO2]
+  alkalemia --> high-HCO3[High HCO3]
+  low-PCO2 --> respiratory-alkalosis[Respiratory Alkalosis]
+  high-HCO3 --> metabolic-alkalosis[Metabolic Alkalosis]
+```
+
+:::{.callout-note}
+Another step after metabolic vs respiratory== compensated vs uncompensated (dont need to know but interesting) 
+:::
+
+## Venous Blood gases
+
+- Also called mixed blood gases
+- Less common that ABG
+- Provides info about body’s metabolic workload/efficiecy
+- Large inc in Sv CO2 (in venous system= co2)
+    - Inefficient/deconditioned peripheral mm
+    - Overall deconditioning
+
+## Chest X-rays
+
+Diagnosis and monitor progression
+
+## Sputum analysis
+
+- (cough sputum in clean tube) 
+- Identify organisms in lungs for treatment
+- Indications
+    - Rise in pt temp
+    - Change in sputum color or consistency
+    - Sterile containers req’d 
+    - PT may assist  or collect during bronchopulmonary hygiene 
+
+
+## Bronchoscopy
+
+- Directly visualize and aspirate the bronchopulmonary tree (trying to see blockage, and try to clear) 
+    - If struggling to maintain appropriate O2 ventilation 
+    - Pts are FATIGUED after this 
+    - Box 4-2 , p 71 for indications
+- Fatigue post procedure
+
+
+# Pulmonary Function Tests
+
+- Measures lung volumes, capacities, flow rates
+- Distinguishes between obstructive or restrictive dx
+- Determines contribution of pulmonary function to activity limitations
+- Compare between normal and previous test results
+- **TOTAL LUNG CAPACITY INC** = Obstructive! - widened rib cage, lots of capacity, not good air exchange at alveoli 
+- Reduced total lung capacity  - restrictive 
+
+
+
+
+# Pulmonary Embolism
+
+## Diagnosing PE
+
+- V/Q scan (if u see this scan, WITHHOLD PT TXT, bc cld have PE) 
+    - Rule out pulmonary embolism
+    - Looking for mismatch in ventilation and perfusion
+- Computed tomographic pulmonary angiography (CT-PA) (if u see this scan, WITHHOLD PT TXT, bc cld have PE) 
+    - Direct visualization of pulmonary artery
+    - Rapid detection of thrombus
+    - Now preferred method of diagnosing PE

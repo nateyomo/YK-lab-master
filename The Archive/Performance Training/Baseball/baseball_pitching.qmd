@@ -1,0 +1,19 @@
+---
+title: Baseball Pitching
+---
+
+
+The key to efficient pitching mechanics is to connect the global kinetic chain as it spirals from the ground up toward the hand in a form of kinetic linking @dischiaviRethinkingDynamicKnee2019
+
+
+Tension increases as energy moves up the kinetic chain. However, when there is a loss of system tension (eg, with a lax anterior shoulder capsule or poor scapular stability), adequate transfer of force to the ball is lost (loss of stored energy), and the velocity of the ball is decreased @dischiaviRethinkingDynamicKnee2019
+
+
+# Pitching Biomechanics
+
+- Wind Up: Initial Movement to Maximum Knee Lift
+- Early Cocking: Maximum Knee Lift to Lead Foot Contact
+- Late Cocking: Lead Foot Contact to Maximal Shoulder ER
+- Acceleration: Maximal Shoulder ER to Ball Release
+- Deceleration: Ball Release to Maximum Shoulder IR
+- Follow Through: Maximum Shoulder IR to Body Stops Moving

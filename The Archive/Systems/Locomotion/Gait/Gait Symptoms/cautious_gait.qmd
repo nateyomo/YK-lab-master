@@ -1,0 +1,19 @@
+---
+title: Cautious Gait
+---
+
+Cautious gait is a complex gait disorder originating from dysfunction at the CNS.
+
+# Gait
+
+Cautious gait is characterized by a normal or mildly widened base, a shortened stride, slowness of walking, and turning *en bloc* @brazisLocalizationClinicalNeurology2022.
+
+With this gait strategy, the center of gravity remains within the limits of the base of support @brazisLocalizationClinicalNeurology2022. 
+
+:::{.callout-note}
+This is not always a pathological gait, sometimes it is necessary due to the environment. For example, walking on an icy street may force normal individuals to adopt a similar gait pattern to minimize the risk of falling @brazisLocalizationClinicalNeurology2022.
+:::
+
+# Clinical Presentation
+
+This gait disorder is seen mainly in older people. It may represent a milder or compensatory phase of any of the disorders causing poor balance and is not localizing @brazisLocalizationClinicalNeurology2022

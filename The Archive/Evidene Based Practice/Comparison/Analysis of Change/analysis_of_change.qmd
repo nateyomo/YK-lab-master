@@ -1,0 +1,124 @@
+---
+title: Analysis of Change
+---
+
+![Calvin & Hobbes - Bill Waterson @wattersonCompleteCalvinHobbes2012](/The Archive/Evidene Based Practice/Analysis of Change/images/calvin and hobbes - change - bill waterson.jpeg){width="60%"}
+
+# Absolute Change
+
+Absolute change (&Delta;y) is the simplest metric with which to assess change @curran-everettAnalysisOfChange2015. 
+
+$$
+\Delta y = y_f - y_i
+$$
+
+
+
+## Problems
+
+The absolute change (&Delta; y) may depend, in part, on the initial value $y_i$ @curran-everettAnalysisOfChange2015.
+
+:::{layout-ncol="2"}
+### Variation between groups
+- If $y_i$ varies substantially **between** groups suppose $y_i$ represents the initial diameter of arteries and arterioles then larger values of &Delta;y are likely to be associated with larger values of $y_i$ @curran-everettAnalysisOfChange2015.
+
+### Variation within groups
+- Oppositely, if yi varies **within** a group
+- Example: suppose now that $y_i$ represents the initial blood pressure of healthy controls
+- For mathematical reasons alone, if $y_i$ is smaller, then $y_f$ can increase more: @curran-everettAnalysisOfChange2015
+    - The lower you start, the higher you can climb.
+- If $y_i$ is bigger, then $y_f$ can decrease more:
+    - the higher you start, the farther you can fall @curran-everettAnalysisOfChange2015.
+
+:::
+
+## Solution
+
+- 
+
+# Standardized Absolute change
+
+$$
+\textrm{Standardized Absolute Change} = \frac{\Delta y}{y_i} = \frac{y_f - y_i}{y_i}
+$$
+
+:::{.callout-note}
+Often, this ratio is rescaled to [percent change (%&Delta;)](#percent-change-(δ)), by multiplying by 100 @curran-everettAnalysisOfChange2015
+:::
+
+# Percent Change (%&Delta;)
+
+
+$$
+\textrm{Percent Change} = \textrm{Standardized Absolute Change} \times 100\% = \frac{\Delta y}{y_i} \times 100\%
+$$
+
+## Problems
+
+:::{layout-ncol="3"}
+### Undefined Results
+If the initial value happens to be 0, then the percent change is undefined @curran-everettAnalysisOfChange2015.
+
+### Infinity
+And, as yi gets smaller and smaller, %&Delta; gets bigger and bigger, approaching $\infty$ or $1 - \infty$ depending on whether $y_f$ increases or decreases from $y_i$ @curran-everettAnalysisOfChange2015.
+:::
+
+### Direction of comparison guides magnitude
+
+:::{layout-ncol="2"}
+
+
+### Increasing
+
+- $y_i = 1$
+- $y_f = 2$
+- $\frac{\Delta y}{y_i} \times 100 \% = \frac{2-1}{1} \times 100 \% = \textbf{100\%}$
+- We can conclude that $y_f$ is 100% greater than $y_i$ @curran-everettAnalysisOfChange2015
+
+### Decreasing
+
+- $y_i = 2$
+- $y_f = 1$
+- $\frac{\Delta y}{y_i} \times 100 \% = \frac{1 - 2}{2} \times 100 \% = \textbf{50\%}$
+- We can conclude that the $y_f$ is 50% less than $y_i$.
+:::
+
+We can resolve this logical dissonance using [Symmetrized Percent change](#symmetrized-percent-change)
+
+@curran-everettAnalysisOfChange2015 
+
+
+## Symmetrized Percent Change
+
+Symmetrized %&Delta; is better behaved mathematically than is %&Delta; @curran-everettAnalysisOfChange2015.
+
+$$
+\textrm{Symmetrized Percent Change} = \frac{y_f - y_i}{y_f + y_i} \times 100\% = \frac{\Delta y}{y_f + y_i} \times 100\%
+$$
+
+- If $y_i$ happens to be 0, then the symmetrized %&Delta; is 100% @curran-everettAnalysisOfChange2015.
+- If $y_i$ differs from 0 and $y_f = 0$, then the symmetrized %&Delta; is $-100\%$ @curran-everettAnalysisOfChange2015.
+- As with %&Delta;,if $y_f = y_i$, then the symmetrized %&Delta; is 0% @curran-everettAnalysisOfChange2015.
+And a pleasing property (24) is that, for some pair of initial and final values, the magnitude of the symmetrized percent change is unaffected by the direction of the comparison @curran-everettAnalysisOfChange2015.
+
+$$
+\frac{y_f - y_i}{y_f + y_i} \times 100\% = \frac{2-1}{1+2} \times 100\% = 33\%
+$$
+
+$$
+\frac{y_f - y_i}{y_f + y_i} \times 100\% = \frac{1-2}{2+1} \times 100\%
+$$
+
+
+## Percent Change vs Symmetrized Percent Change
+
+- These two metrics of relative change purport to account for differences in the initial value @curran-everettAnalysisOfChange2015.
+- Similar to other ratios, if there is no relationship between &Delta;y and $y_i$, then the mere calculation of %&Delta; and symmetrized %&Delta; creates a relationship @curran-everettAnalysisOfChange2015.
+If there is a relationship between &Delta;y and $y_i$, then the calculation of %&Delta; and symmetrized %&Delta; exaggerates the strength of that relationship @curran-everettAnalysisOfChange2015.
+
+
+
+# Which test to use?
+
+![Metrics of change plotted against initial value @curran-everettAnalysisOfChange2015](/The Archive/Evidene Based Practice/Analysis of Change/images/curran-everettExplorationsStatisticsAnalysis2015 fig1.png){width="80%"}
+

@@ -1,0 +1,12 @@
+---
+title: Gluteal Tendinopathy
+---
+
+
+
+
+# Tests
+
+## Ruling in
+
+[External Derotation Test]({{< var ref-external-derotation-test.path >}})

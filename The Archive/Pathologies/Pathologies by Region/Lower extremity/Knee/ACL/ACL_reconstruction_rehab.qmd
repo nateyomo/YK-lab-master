@@ -1,0 +1,30 @@
+---
+title: Rehabilitation of ACLR
+---
+
+
+
+
+# Interventions
+
+
+# Rehabilitation phases
+
+
+# Return to Sports
+
+## Potential Criteria
+
+:::{layout-ncol="3"}
+
+### Strength
+
+
+### Limb Symmetry (LSI)
+
+- $>$ 90%
+
+### Cerebellar Functional Testing
+
+
+:::

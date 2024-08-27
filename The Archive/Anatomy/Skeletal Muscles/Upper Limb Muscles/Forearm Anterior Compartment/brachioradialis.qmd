@@ -1,0 +1,43 @@
+---
+title: Brachioradialis
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Brachioradialis]({{< var ref-brachioradialis.path >}}) | {{< var ref-brachioradialis.origin >}} | {{< var ref-brachioradialis.insertion >}} | {{< var ref-brachioradialis.nerve >}} | {{< var ref-brachioradialis.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+- Lateral Humerus (*Superior to lateral supracondylar ridge*) @gilroyAtlasAnatomy2020
+- Lateral intermuscular septum @gilroyAtlasAnatomy2020
+
+
+
+# Insertion {#insertion}
+
+Styloid process of the Radius @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Radial N.]({{< var ref-radial-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **Elbow**: Flexion @gilroyAtlasAnatomy2020
+- **Forearm**: Initiates pronation and supination @gilroyAtlasAnatomy2020
+
+
+
+
+
+# Notes
+
+# Reflex {#reflex}
+
+Brachioradialis reflex can be used to assess the C6 nerve root @hongReliabilityDiagnosticAccuracy2022. 

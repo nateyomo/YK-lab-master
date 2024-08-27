@@ -1,0 +1,111 @@
+---
+title: Spinal Level Reflexes
+---
+
+# Overview
+
+- Onset: birth or earlier
+- Integration: 1-2 months ( 2 exceptions)
+
+
+# Proprioceptive Placing
+
+:::{layout-ncol="3"}
+### Timing
+
+- Onset: 
+    - UE: birth
+    - LE- 35 weeks gestational age
+- Integration: 2 months
+
+### Testing
+
+- Test position: Hold infant vertical 
+- Test procedure: Brush dorsum of hand/foot against table
+- Positive response: Lifts hand/foot on table
+- Negative response: Hand/foot remains relaxed
+
+### Significance
+
+- Significance: precursor to hand/food placement in activities 
+- Foot placing is elicited by touching the shinbone and the dorsal side of the foot against a hard surface such as the edge of a table. The newborn makes a quick lifting motion, as if to step onto the table. This reaction is present between the 3rd and 6th month of age.
+:::
+
+# Flexor Withdrawal
+
+:::{layout-ncol="3"}
+### Timing
+Onset: 28 weeks GA
+Integration: 1-2 months
+
+### Testing
+
+- Test position: supine , head in midline
+- Test procedure: noxious stimulus to sole of foot
+- Positive response: none or volitional withdrawal from stimulus
+
+### Significance
+Significance: develops protective balance between flexor and extensor, persistence interferes with weight bearing and walking
+:::
+
+{{< video https://www.youtube.com/watch?v=p4vM8ca8QZU >}}
+
+# Crossed Extension
+
+:::{layout-ncol="3"}
+### Timing
+
+- Onset : 28 weeks 
+- Integration: 1-2 months
+
+### Testing
+
+- Test position: supine, test LE extend
+- Test procedure: noxious stimulus to sole of foot
+- Positive response: flexion of stimulated leg and then extension of oppo leg w adduction
+- Negative response: no mvmt of flexed leg
+
+### Significance
+
+- Persistence interferes with weight bearing and walking
+:::
+
+# Palmar grasp
+
+:::{layout-ncol="3"}
+
+### Timing
+
+- Onset:  28 wks GA-weak, 36 wks GA-full response
+- Integration: 4-7 months
+
+### Testing
+
+- Test position:  Supine, head in midline
+- Test procedure: Pressure on palm of hand
+- Positive response:  Fingers flex and grasp finger (baby can be lifted off surface)
+- Negative response:  Hand remains relaxed
+
+### Significance
+
+- Signif: persistence interferes with volitional grasp and release
+:::
+
+# Plantar grasp {#plantar-grasp}
+
+:::{layout-ncol="3"}
+### Timing
+
+- Onset 28 weeks
+- Integration 9 months
+
+### Testing
+
+- Test position: supine, head in midline, LE relaxed
+- Test procedure: supported standing on feet or pressure on sole of foot just distal to MT heads
+- Positive response: flexion or curling of toes
+- Negative response: toes remain relaxed
+
+### Significance
+Persistence interferes w stance, balance and walking
+:::

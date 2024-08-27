@@ -1,0 +1,11 @@
+---
+title: Lewy Bodies
+---
+
+Lewy Bodies refer to alpha-synuclein cytoplasmic inclusions, which are misfolded proteins that clump together @osullivanPhysicalRehabilitation2019. 
+
+
+
+:::{.callout-note}
+“Physical manifestation of lewy bodies in the brain, whereas Dementia is the cognitive manifestation of lewy bodies in the brain” -Adria Thompson
+:::

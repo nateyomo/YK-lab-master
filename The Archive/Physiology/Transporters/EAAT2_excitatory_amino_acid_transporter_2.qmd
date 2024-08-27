@@ -1,0 +1,11 @@
+---
+title: Excitatory amino acid transporter 2 (EAAT2)
+---
+
+
+- a specific glutamate transporter protein @osullivanPhysicalRehabilitation2019
+
+
+# Deficiency 
+- A deficiency in EAAT2 is correlated with excitoxicity and neurodegeneration @osullivanPhysicalRehabilitation2019
+    - This has been attributed as a factor that impacts [ALS]({{< var ref-amyotrophic-lateral-sclerosis.path >}}) progression @osullivanPhysicalRehabilitation2019

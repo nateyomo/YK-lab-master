@@ -1,0 +1,8 @@
+---
+title: Subacute Combined Degeneration of the Spinal Cord
+---
+
+
+
+
+"Subacute combined degeneration is degeneration of the spinocerebellar tracts, corticospinal tracts, and the dorsal column due to a prolonged vitamin B12 deficiency. Physiologically, vitamin B12 is synthesized by microorganisms and stored in the liver on average from three to five years. Because of the extended storage duration, vitamin B12 deficiency develops over long periods. Common causes of vitamin B12 deficiency are malnutrition (veganism, improper diet), lack of intrinsic factor (gastric bypass surgery, pernicious anemia), malabsorption (Crohn's disease), and overgrowth of microorganisms (bacterial, Diphyllobothrium latum). The hematological presentation of vitamin B12 deficiency is macrocytic anemia, similar to the presentation of folate (vitamin B9) deficiency. However, the crucial difference between the two is that neurological symptoms are present in vitamin B12 deficiency" @kohNeuroanatomySpinocerebellarDorsal2024 

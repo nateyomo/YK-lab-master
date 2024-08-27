@@ -1,0 +1,24 @@
+---
+title: History Effects
+---
+
+History effects refer to a systematic error cause when a study recruits individuals but neglects to monitor or report certain variables that could impact results.
+History effects has the potential to overestimate or underestimate treatment effects.
+
+:::{.callout title="Example"}
+
+- Patients are included in a study regardless of type or dose of analgesic medications, which are **not** standardized, monitored, or reported
+- Describes history effects, which have the potential to overestimate treatment effects if analgesic medication uses higher in the treatment group compared to the control group
+
+How does this effect the results?
+
+- Whichever group has a higher dose and prevalence of analgesics will have improved results.
+- If the control group uses more analgesics, then the treatment effects will be underestimated.
+- If the experimental group receives more analgesics, the treatment effects will be overestimated.
+
+:::
+
+
+# Prevention
+
+History effects can be ruled out using a control group.

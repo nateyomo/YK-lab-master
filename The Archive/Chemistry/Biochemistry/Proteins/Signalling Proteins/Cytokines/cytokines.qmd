@@ -1,0 +1,17 @@
+---
+title: Cytokines
+---
+
+
+# Clinical significance
+
+Chemokines and cytokines may have a role in patients who develop cognitive symptoms during an acute infectious disease that persist after the disease despite eradication of the pathogen @roosNeurologicComplicationsLyme2021
+
+
+
+## Disc Degeneration
+
+:::{.callout-note}
+
+- Role of cytokines in intervertebral disc degeneration: pain and disc content @risbudRoleCytokinesIntervertebral2014
+:::

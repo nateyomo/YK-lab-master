@@ -1,0 +1,9 @@
+---
+title: Knee Extensor Mechanism
+---
+
+
+# Knee Extension Moment Arm
+
+"At least three factors affect the length of the knee extension moment arm across the sagittal plane range of motion. These include (1) the shape and position of the patella, (2) the shape of the distal femur (including the depth and slope of the trochlear groove), and (3) the migrating medial-lateral axis of rotation at the knee (referred to as the evolute earlier in this chapter). Exactly how the changing length of the internal moment arm influences the shape of the extensor torque–joint angle curve, such as that depicted in Fig. 13.26, is uncertain. It is technically difficult to isolate the effects of leverage from those of changing muscle length: both factors simultaneously change throughout the range of motion, and both directly or indirectly affect knee extension torque." @neumannKinesiologyMusculoskeletalSystem2017 
+

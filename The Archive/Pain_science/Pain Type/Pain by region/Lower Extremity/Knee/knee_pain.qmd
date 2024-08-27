@@ -1,0 +1,10 @@
+---
+title: Knee Pain
+---
+
+
+
+
+# Medial knee pain
+
+Medial knee pain can be caused by [acetabular labral tear]({{< var ref-acetebular-labral-tear.path >}})

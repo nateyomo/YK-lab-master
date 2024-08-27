@@ -1,0 +1,27 @@
+---
+title: Overview of Cartilage
+---
+
+
+# Types
+
+- Articular (Hyaline) Cartilage
+- Fibrocartilage
+
+# Remodeling
+
+Cartilage remodels in response to mechanical demands.
+
+:::{layout-ncol="2"}
+### Reduced stress (immobilization):
+
+- Decreased mass
+- Decreased volume
+- Decreased strength
+
+### Increased stress (exercise)
+
+- Increased mass
+- Increased volume
+- Increased strength
+:::

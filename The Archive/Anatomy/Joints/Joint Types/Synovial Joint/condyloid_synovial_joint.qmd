@@ -1,0 +1,22 @@
+---
+title: Condyloid Joint
+subtitle: Mechanical class of Synovial joints
+---
+
+# Movement
+
+Condyloid joints are biplanar, but have a primary and secondary movement.
+These joints have more ROM in the primary direction compared to the secondary direction.
+This biplanar movement is achieved through the shallow concavity of the joint surfaces
+
+# Parallel
+
+
+# Examples
+
+- MTP Joints
+    - 1&deg; Flex/ext
+    - 2&deg; Abduction/adduction
+- Tibiofemoral joint
+    - 1&deg; Flex/ext
+    - 2&deg; rotation

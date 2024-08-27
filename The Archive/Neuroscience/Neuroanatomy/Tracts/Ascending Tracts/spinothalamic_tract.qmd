@@ -1,0 +1,46 @@
+---
+title: Spinothalamic Tract
+---
+
+
+
+
+
+# Decussation
+Lateral spinothalamic tracts ascend two to four segments on the same side before crossing and the descending motor tract decussating in the medulla @osullivanPhysicalRehabilitation2019
+
+
+::: {.callout-note title="Clinical Significance"}
+
+Since the spinothalamic tract moves up a few segments before decussating, symptoms of a hemisection (brown-sequard syndrome) begin several dermatome segments below the level of injury @osullivanPhysicalRehabilitation2019
+:::
+
+
+- Noxious stimuli enter dorsal horn in lissauer's tract, ascend or descend 1-2 segments before synapsing in second order neurons in nucleus proprius or substantia gelatinosa 
+- Path continues to thalamus and then cortex for interpretation
+- Sensation, emotional and cognitive 
+
+# Lateral spinothalamic tract
+- Perceives discriminative aspects of pain
+- Location, intensity, quality 
+
+# Ventral spinothalamic tract
+
+- Perceives crude touch and emotional info that contributes to anxiety producing aspects of pain
+- Pathway
+    - Ascends 1-2 spinal segments in lissaur’s tract then crosses, from there continues as lateral or ant spinothalamic 
+
+# Pathway
+
+- A major relay for the spinothalamic tract and DCML is in the ventral posterior lateral nucleus (VPL) of the thalamus, but the spinothalamic and DCML synapse at separate neurons within the VPL @blumenfeldNeuroanatomyClinicalCases2022
+- Information from the spinothalamic tract leave the VPL and is conveyed via the thalamic somatosensory radiations to the primary somatosensory cortex (see Figure 6.1, areas 3, 1, and 2) in the postcentral gyrus (see Figure 7.2)
+- *Pain and temp of the face is carried by the trigeminothalamic tract @blumenfeldNeuroanatomyClinicalCases2022 
+
+
+“There are also spinothalamic projections to other thalamic nuclei, including intralaminar thalamic nuclei (central lateral nucleus) and medial thalamic nuclei such as the mediodorsal nuclei (see Figure 7.2). These projections probably participate together with the spinoreticular tract in a phylogenetically older pain pathway responsible for conveying the emotional and arousal aspects of pain. The spinoreticular tract terminates on the medullary–pontine reticular formation, which in turn projects to the intralaminar thalamic nuclei (centromedian nucleus). Unlike the VPL, which projects specifically in a somatotopic fashion to the primary sensory cortex, the intralaminar nuclei project diffusely to the entire cerebral cortex and are thought to be involved in behavioral arousal (see the section on the thalamus later in this chapter).” @blumenfeldNeuroanatomyClinicalCases2022
+
+# Lesion
+
+- Since the spinothalamic tract ascends ipsilaterally for 1-2 segments before decussating and continuing contralaterally, its lesions have a unique pattern.
+- A hemi cord lesion, such as brown-Sequard syndrome, will have pain and temperature loss following the dermatome of 1-2 segments on the side ipsilateral to the lesion since the ipsilateral spinothalamic tract has not yet decussated.
+- All segments 1-2 below will have contralateral loss of pain and temperature since the spinothalamic tract of the contralateral side has already decussated and is thus affected by the lesion @blumenfeldNeuroanatomyClinicalCases2022.

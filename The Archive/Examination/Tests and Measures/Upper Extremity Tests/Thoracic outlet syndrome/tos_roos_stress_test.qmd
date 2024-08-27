@@ -1,0 +1,29 @@
+---
+title: Roos Stress Test
+subtitle: A special test for thoracic outlet syndrome
+---
+
+- AKA
+    - Roos Stress Test
+    - Elevated arm stress test (EAST)
+
+The Roos Stress test is a special test that rules in thoracic outlet syndrome by loading the plexus thru TOS container @hooperPart1ThoracicOutletSyndrome2010.
+
+# Technique
+
+- Patient is seated
+- Arm is in 90&deg; Abduction and 90&deg; Elbow flexion
+- Patient performs slow finger clenching for 3 min
+
+# Interpretation
+
+:::{.callout-note}
+Patient may display reduced/obliterated radial pulse and have an audible infraclavicular bruit but these are not considered positive tests @duttonDuttonOrthopaedicExamination2020
+:::
+
+
+- (+) Patient unable to maintain arms in start position for 3 min @duttonDuttonOrthopaedicExamination2020
+- (+) Involved side symptoms @duttonDuttonOrthopaedicExamination2020
+    - Pain
+    - Heaviness
+    - Numbness/tingling

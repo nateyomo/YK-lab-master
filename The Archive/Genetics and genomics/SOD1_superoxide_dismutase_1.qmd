@@ -1,0 +1,20 @@
+---
+title: "Superoxide Dismutase 1 (SOD1)"
+---
+
+# Overview
+Superoxide Dismutase 1 (SOD1) refers to a specific gene on chromosome 21 @osullivanPhysicalRehabilitation2019.
+
+# Function
+
+## Prevention of Neuronal Degeneration
+SOD1 encodes for enzymes such as [CuZnSOD]({{< var ref-CuZnSOD-copper-zinc-superoxide-dismutase.path >}}). [CuZnSOD]({{< var ref-CuZnSOD-copper-zinc-superoxide-dismutase.path >}}) along with the [other SOD isoforms]({{< var ref-superoxide-dismutases-group.path >}}) play a role in removing oxygen free radicals from the body @osullivanPhysicalRehabilitation2019. Gene mutations lead to less activity of CuZnSOD, resulting in accumulation of free radicals and resulting in neuronal degeneration @osullivanPhysicalRehabilitation2019.
+
+Most mutations in FALS have shown only modest reductions in enzyme activity @osullivanPhysicalRehabilitation2019. Leading researchers to believe that a mutant SOD1 protein may have actively toxic properties @osullivanPhysicalRehabilitation2019.
+
+
+# Mutation
+## Amyotrophic Lateral sclerosis
+
+- One of 100s of mutations in SOD1 have been linked to hereditary [ALS]({{< var ref-amyotrophic-lateral-sclerosis.path >}}) @osullivanPhysicalRehabilitation2019.
+- Studies of patients with adult-onset FALS have determined that about 20% of these individuals have mutations in SOD1 @osullivanPhysicalRehabilitation2019

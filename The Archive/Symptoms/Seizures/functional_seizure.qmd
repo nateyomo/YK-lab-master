@@ -1,0 +1,50 @@
+---
+title: Functional Seizure
+---
+
+
+# Examination
+
+::: {.columns}
+::: {.column}
+### Yes/No Test
+
+In the yes/no test, the patient is asked to say "yes" when they detect a stimulus and "no" when they do not detect a stimulus. 
+A response of "no" immediately after a stimulus may indicate a nonorganic sensory loss.
+A response of "no" would suggest that a functional disorder is not present, as a truly anesthetic patient would not feel anything and therefore would not respond.
+:::
+::: {.column}
+
+
+:::
+:::
+
+
+
+::: {.columns}
+::: {.column}
+### Forced choice test
+
+In the [Forced-Choice test]({{< var ref-forced-choice-test.path >}}), the patient is asked to distinguish between a sharp or dull stimulus, and an upward or downward movement of a toe or finger. 
+A percentage of correct responses in a series of trials that is less than that observed by chance may indicate nonorganic sensory loss.
+:::
+::: {.column}
+
+:::
+:::
+
+# DDX
+
+Signs of functional/dissociative seizures: 
+
+- Longer duration >90 seconds @bennettPracticalReviewFunctional2021.
+- Fluctuating course @bennettPracticalReviewFunctional2021.
+- Asynchronous movements  @bennettPracticalReviewFunctional2021.
+- Side to side head or body movement  @bennettPracticalReviewFunctional2021.
+- Closed eyes  @bennettPracticalReviewFunctional2021.
+- Memory of the event @bennettPracticalReviewFunctional2021.
+
+Signs for epileptic seizures
+
+- Post ictal confusion @bennettPracticalReviewFunctional2021.
+- Stertorous breathing @bennettPracticalReviewFunctional2021.

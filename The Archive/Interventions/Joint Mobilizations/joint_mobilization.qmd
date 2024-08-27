@@ -1,0 +1,18 @@
+---
+title: Joint Mobilization
+---
+
+
+
+# Grades
+
+## Maitland
+
+| Grade | Description |
+|-|-|
+| 1 | Small amp <br> Within resistance free range ($<$R1) |
+| 2 | Large amp <br> Within resistance free range ( $<$R1) |
+| 3 | Large amp <br> Into resistance (R1) |
+| R1 | The point at which resistance became perceptible |
+| 4 | Small amp <br>  Into resistance (Past R1) |
+| 5 | High velocity low amplitude thrust (HVLT) |

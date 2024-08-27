@@ -1,0 +1,18 @@
+---
+title: Statistical Conclusion Validity
+---
+
+- Inappropriate statistical tests?
+    - Increased chance of inaccurate conclusions
+- Poor/unknown reliability of outcome measures?
+    - Increased chance of measurement error Inflated error rate?
+    - Increased chance of Type 1 error
+    - Type 1 errors are only possible for statistically significant results (but these results are wrong/incorrect) mistakenly reject null hypothesis 
+    - Most likely in studies that report significant results with p values just below 0.05 where multiple comparisons are made without statistical correction (e.g. Bonferroni etc.)
+    - Usually caused by differences due to chance
+- Low statistical power?
+    - Increased chance of Type 2 error
+    - Type 2 error: fails to reject null (accepts null) that is actually false (says theres no significance when there actually is) 
+    - Small sample sizes are particularly susceptible:  have lower power, making it more difficult to detect
+    - Most likely in studies with small sample size (<20 subjects/group) that report non‐significant results with p values just above 0.05
+

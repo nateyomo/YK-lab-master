@@ -1,0 +1,10 @@
+---
+title: Crawling (Pediatrics)
+---
+
+Crawling referes to when a baby moves on their belly, like army crawling.
+
+
+# Development
+
+This function develops around [8 months]({{< var ref-normal-child-development.month8 >}})

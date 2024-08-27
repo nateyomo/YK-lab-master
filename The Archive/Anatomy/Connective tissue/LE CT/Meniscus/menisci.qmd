@@ -1,0 +1,93 @@
+---
+title: Menisci
+---
+
+# Overview
+
+
+# Histology
+
+
+- Fibrocartilage
+- Type 1 collagen
+- Mod gags
+
+# Function
+
+- Helps with shock absorption
+- Increase joint congruency
+- Reduces friction
+
+# Medial Meniscus
+
+Medial meniscus attaches to semimembranosus and mcl and capsule and patella (injured 2x more than lat menisci)
+
+# Pivoting
+
+- Loose connection to tibia allows pivoting during mvmt (L>M)
+    - Coronary ligs
+    - Transverse ligs
+
+# Muscle attachments
+
+- Stabilize menisci w mvmt
+- Quadriceps
+- semimembranosus to both, popliteus to lateral
+
+# Blood supply
+
+Peripheral from synovial membrane adn capsule
+Internal avascular 
+Aneural except near horns
+
+
+# Injury
+
+Medial meniscus is injured 2x more than lateral meniscus.
+
+
+
+# Unorganized Notes
+
+
+"The word meniscus comes from the Greek word mēniskos, meaning “crescent,” diminutive of mēnē, meaning “moon.”23 The lateral and medial menisci (Fig. 20-2), attached on the top of the tibial plateaus, lie between the articular cartilage of the femur and the tibia. Both menisci are recognized as being vital for the normal function and long-term health of the knee joint. The characteristic crescent shape of the medial and lateral menisci is achieved between the 8th and 10th week of gestation.1 The unique and complex structure of the menisci makes treatment and repair challenging and, if left untreated, may lead to degenerative joint changes.24 The blood supply of the meniscus, which is key to successful meniscal recovery or repair, comes from the perimeniscal capsular arteries, which are branches of the lateral, medial, and middle genicular arteries, which in turn are branches of the popliteal artery.1 Although the developing menisci are highly vascular throughout, by adulthood this vascularity has significantly reduced such that only the outer 10–25% of the lateral meniscus (with the exception of the P-L corner of the lateral meniscus adjacent to the popliteus tendon) and the outer 10–30% of the medial menisci are vascularized (referred to as the red zone), which allows these areas to have the potential for healing.1 The remaining inner portions of the menisci (65–75%) are considered avascular and have less potential to heal. These inner portions receive nourishment from the synovial fluid by diffusion or mechanical pumping (i.e., joint motion).23 However, despite the lack of vascularity to the inner portions, tears involving the avascular zone may heal. This healing capacity may be improved with the addition of a fibrin clot or with such techniques as trephination (making a burr hole)." @duttonDuttonOrthopaedicExamination2020 
+
+
+# Ligament
+
+"The transverse genicular ligament serves as a link between the lateral and medial menisci." @duttonDuttonOrthopaedicExamination2020 
+
+
+# Function
+
+"The menisci assist in a number of functions, including load transmission, shock absorption, joint lubrication and nutrition, secondary mechanical stability (particularly the posterior horn of the medial meniscus that blocks anterior translation of the tibia on the femur),25 and the guiding of movements." @duttonDuttonOrthopaedicExamination2020
+
+## Load Transmission 
+
+"The meniscus is viscoelastic, with greater stiffness at higher deformation rates. Many studies have confirmed the role of the menisci in load transmission by showing decreased contact area and increased peak articular stresses following partial or total meniscectomy. WB produces axial forces across the knee, which compress the menisci, resulting in “hoop” (circumferential) stresses. By converting joint loading forces to radial-directed hoop stresses on their circumferential collagen fibers, and taking advantage of their viscoelastic nature, the menisci transmit approximately 50% of the joint load when the knee is in extension, and approximately 90% when the knee is in flexion.14 The lateral meniscus carries 70% of the compressive load in the lateral compartment, compared with just 40% of the medial meniscus in its respective compartment.25" @duttonDuttonOrthopaedicExamination2020 
+
+## Shock Absorption
+
+"Because of their viscoelastic nature, the menisci are able to assist in shock absorption. During the normal gait pattern, the articular surface of the knee bears up to six times the body weight, with over 70% of that load borne by the medial tibial plateau.25 The medial tibial plateau bears most of this load during stance when the knee is extended, with the lateral tibial plateau bearing more of the much smaller loads imposed during the swing phase. This is compensated for by the fact that the medial tibial plateau has a surface area roughly 50% larger than the lateral plateau, and articular cartilage that is approximately three times thicker than the lateral articular cartilage.1" @duttonDuttonOrthopaedicExamination2020 
+
+## Joint Lubrication
+
+"The menisci assist in joint lubrication by helping to compress synovial fluid into the articular cartilage, which reduces frictional forces during WB. A meniscectomy increases the coefficient of friction within the knee, thereby increasing the stresses on the articular surfaces." @duttonDuttonOrthopaedicExamination2020 
+
+## Joint Stability
+
+"The menisci deepen the articulating surfaces of tibial plateaus. This increases the stability of the knee, especially during axial rotation and valgus–varus stresses.14 If the ACL is intact, the menisci do not significantly contribute to anteroposterior stability. However, in an ACLdeficient knee, the posterior horn of the medial meniscus functions as a secondary restraint to an anteroposterior translation by wedging between the femur and the tibia. In contrast, the increased mobility of the lateral meniscus prevents it from contributing to anteroposterior stability.26 This difference helps to explain the higher incidence of medial meniscus tears seen in ACL-deficient knees.26" @duttonDuttonOrthopaedicExamination2020 
+
+## Proprioception
+
+"Mechanoreceptors have been identified in the anterior and posterior horns of the menisci.27 The presence of these mechanoreceptors would seem to suggest that the menisci are capable of detecting proprioceptive information in the knee joint, thus playing an important afferent role in the sensory feedback mechanism of the knee.23" @duttonDuttonOrthopaedicExamination2020 
+
+## Guiding Movement
+
+"During flexion and extension of the knee, the menisci move posteriorly and anteriorly, respectively. The lateral meniscus has greater mobility because it does not attach to the LCL, and, as mentioned previously, its capsular attachment is interrupted by the passage of the popliteus tendon. The posterior medial corner of the medial meniscus has the least amount of motion because it is constrained by its attachment to the tibial plateau by the meniscotibial portion of the posterior oblique ligament, which has been reported to be more prone to injury.23 During knee motion, the menisci move on the tibial plateau with the femoral condyles to maintain joint congruence. The femur, accompanied by the menisci, rolls anteriorly on the tibia during extension and posteriorly during flexion (Fig. 20-3)." @duttonDuttonOrthopaedicExamination2020 
+
+
+- "During flexion of the knee, the menisci move posteriorly. The medial meniscus is moved about 5 mm by the pull of the semimembranosus tendon, and the lateral meniscus is pulled about 11 mm by the popliteus, resulting in an external rotation of the tibia." @duttonDuttonOrthopaedicExamination2020 
+- "During extension, the menisci move anteriorly." @duttonDuttonOrthopaedicExamination2020 
+- "During external rotation of the tibia, the menisci will follow the displacement of the femoral condyles, which means that the medial meniscus is pushed posteriorly, and the lateral meniscus is pulled anteriorly. During internal rotation, the opposite occurs. These rotations are conjunct, integral with flexion and extension, but can also be adjunct and independent, best demonstrated with the knee semiflexed. Conjunct external rotation of the tibia on the femur during the last stages of knee extension is part of a locking mechanism called the “screw home” mechanism, described later." @duttonDuttonOrthopaedicExamination2020 
+- "The medial coronary ligament is stretched during external rotation of the tibia, whereas the lateral coronary ligament is stretched during internal rotation of the tibia." @duttonDuttonOrthopaedicExamination2020 

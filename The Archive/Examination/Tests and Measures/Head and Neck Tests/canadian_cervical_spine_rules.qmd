@@ -1,0 +1,44 @@
+---
+title: Canadian Cervical Spine Rules
+---
+
+
+# Rule not applicable if:
+
+- Non-trauma cases
+- GCS <15
+- Unstable vital signs
+- Age < 16 years
+- Acute paralysis
+- Known vertebral disease
+- Previous C/S surgery
+- Pregnant
+
+# High Risk Factors
+
+- Age >= 65y/o 
+- Dangerous mechanism
+    - Fall from elevation (>=3ft or >=5 stairs)
+    - Axial load to the head 
+    - MVC at high speeds (>100km/hr or 60 mph), rollover, or ejection
+    - Motorized recreational vehicle
+    - Bike struck or collision
+- New parasthesias in extremities
+- C/S rotation < 45&deg;
+
+# Low Risk factors
+
+If the patient presents with these, you should rule down the necessity for radiography:
+
+- Simple rear-end MVC
+- Tolerates sitting position in ED 
+- Ambulatory at any time
+- Delayed onset of pain
+- Absence of midline C/S tenderness
+
+:::{.callout-caution title="Simple MVC exclusions"}
+- Pushed into oncoming traffic
+- hit by bus or large truck
+- Rollover
+- 
+:::

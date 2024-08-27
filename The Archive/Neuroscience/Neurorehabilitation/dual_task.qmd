@@ -1,0 +1,113 @@
+---
+title: Dual Tasking
+---
+
+Dual tasking is defined as concurrent performance of 2 tasks that can be performed independently and have distinct and separate goals.
+Each task can be measured independently as a single task.
+
+
+# Dual Task Effect (DTE)
+
+- Measure performance of each task in isolation *single task*
+    - Gait alone, 
+    - Cognitive task alone
+- Measure performance of each task while performed concurrently (dual task)
+
+How to measure DTE:
+
+- Absolute measures: single task and dual task parameters (ie gait speed)
+- Relative measures: dual task effect (cost/benefit)
+- DTE (%) = ((+- (dual task - single task)/ single task ))x100
+- Motor cognitive tasks
+- Motor motor tasks
+
+$$
+\textrm{Dual Task Effect (5)} = \frac{}{} 
+$$
+
+
+# Indications
+
+Dual tasking improves:
+
+- Progression of parkinsons, 
+- Risk of dementia
+
+
+# Dual task T&M
+
+- Cognitive Four Square Step Test: CFSST
+    - (similar to how tug has a cognitive tug ) 
+- Serial 3s subtraction
+- Spell a 6 or 7 letter word backwards
+- Digit span recall
+- 6 word recall (words presented prior, 1 min to memorize)
+- 6 word generation (pt picks category, names words during)
+- Remembered sequence with direction change
+- DT cost in terms of %, a function of time loss +/- cognitive %
+
+
+# Why Dual tasking is important
+
+- Dual tasking cannot be avoided in real life, 
+- Ability to tolerate a distraction 
+    - Can **habituate** or improve w training
+    - Can draw awareness to the impact of distractions
+- Improves independence
+- TRAINABLE
+
+# Neurophysiology
+
+- Primary attention center
+    - DLPFC: DORSOLATERAL PREFRONTAL CORTEX
+    - Allocates attention according to your perception about what’s going on at that time
+- If had the ability to proceduralize a task before injury
+    - They should be able to use DLPFC
+    - The more we ask a pt to think about a task, the more we ask them to be cogntiively aware
+- When we ask someone to dual task
+    - Absorb DLPFC resources so that they are constrained or forced to use procedural memory centers (PreMotor, BG, cerebellum, SMA)
+    - Natural centers to process the task
+
+# Types of Dual tasking
+
+- Manual
+- Visual
+- Cognitive
+- Auditory
+
+## Manual
+Dual tasking in gait: Manual
+
+- Zipping, buttoning/unbottoning a shirt, jacket
+- Pouring water
+- Texting
+
+## Visual
+
+- Add coins presented to total
+- 2-3 d shape rotation
+- Face to name matches (novel)
+
+## Cognitive
+
+- Relaying directions (from here to my home)
+- Explain favorite sport
+- Generate a list of sports teams, red items, etc
+
+## Auditory
+
+- Encoding/recalling grocery list for later recall
+- Listening/ Talking to friend
+
+
+# Taxonomy
+
+Resource of type of task (single task vs dual) 
+
+- Task novelty 
+- Complexity low vs high 
+    - Dependent on ability
+
+:::{.callout}
+Start with lowest complexity, choose a task with minimal novelty
+:::

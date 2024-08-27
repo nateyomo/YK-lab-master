@@ -1,0 +1,86 @@
+---
+title: Constraint Induced Movement Therapy (CIMT)
+---
+
+:::{.callout-note title="Books to read"}
+
+- O'sullivan - Ch12 CIMT @osullivanImprovingFunctionalOutcomes2016 
+:::
+
+CIMT is a method of forced-use designed to Promote Increased Use of an impaired UE.
+This intervention can be applied in the clinic and at home.
+
+
+# Mechanism
+
+CIMT works through two main mechanisms: 
+
+- Learned Nonuse
+- Use-Dependent Brain Plasticity
+
+
+# Results
+
+
+
+# Indications
+
+:::{.callout-note title="Notes from class"}
+
+Research supports use for Mild to Moderate UE
+Hemiparesis
+:::
+
+# Main elements
+
+:::{.callout-note title="Class notes"}
+
+1. Intensive Training of the More-Impaired UE for
+Multiple days
+2. Training with a behavioral technique termed
+Shaping
+3. Applying a “Transfer Package” of adherenceenhancing behavioral methods designed to transfer
+gains made in the research laboratory or clinical
+setting to the patient’s real-world environment
+4. Inducing the patient to use the more-impaired UE
+during waking hours over the course of tx, usually
+by restraining the less-impaired UE
+
+:::
+
+# Task Oriented Training
+
+Task oriented training includes:
+
+1. Shaping @osullivanImprovingFunctionalOutcomes2016 
+1. Task practice @osullivanImprovingFunctionalOutcomes2016 
+
+
+:::{.callout-note title="Example"}
+participant is executing a shaping task involving unscrewing a nut from a bolt (A) at a lower level of complexity, with the bolt placed closer to her, and (B) at a higher level of complexity, with the bolt placed farther away. @osullivanImprovingFunctionalOutcomes2016 
+:::
+
+# Adherence-enhancing behavioral strategies
+
+(i.e., transfer package)
+
+- Daily administration of the Motor Activity Log (MAL) @osullivanImprovingFunctionalOutcomes2016 
+- Home diary @osullivanImprovingFunctionalOutcomes2016 
+- Problem-solving to overcome apparent barriers to use of the more-affected UE in the real-world situation @osullivanImprovingFunctionalOutcomes2016 
+- Behavioral contract @osullivanImprovingFunctionalOutcomes2016 
+- Caregiver contract @osullivanImprovingFunctionalOutcomes2016 
+- Written home skill assignment with check-off list to determine adherence @osullivanImprovingFunctionalOutcomes2016 
+- Home practice @osullivanImprovingFunctionalOutcomes2016 
+- Daily schedule @osullivanImprovingFunctionalOutcomes2016 
+- Weekly phone calls for the first month after treatment to administer the MAL and problem-solve @osullivanImprovingFunctionalOutcomes2016 
+
+
+# Constraining use of the more-affected UE
+
+- Mitt restraint @osullivanImprovingFunctionalOutcomes2016 
+- Any method to continually remind the participant to use the more-affected UE @osullivanImprovingFunctionalOutcomes2016 
+
+
+# CPG / Effectiveness
+
+See [Strokaengine's recommendations](https://strokengine.ca/en/interventions/constraint-induced-movement-therapy-upper-extremity/#ResultsTable)

@@ -1,0 +1,19 @@
+---
+title: Froment's Sign
+subtitle: Special Test for Ulnar nerve motor function
+---
+
+
+"This is more of a sign than a test and may present as a complaint from the patient who reports an inability to pinch between the index finger and the thumb without flexion occurring at the DIP joint (Fig. 18-70). " @duttonDuttonOrthopaedicExamination2020 
+
+# Mechanism
+
+Ulnar nerve lesion, resulting in weakness of Adductor pollicis brevis and FPB Short head muscles @duttonDuttonOrthopaedicExamination2020.
+The weakness of these two, causes the FPL to become overactive and flex the DIP.
+
+# Scoring
+A Positive Froment Sign occurs when the patient cannot keep their thumb adducted during the pinch.
+
+# Interpretation 
+
+Positive test indicates an ulnar nerve entrapment at the elbow or at the wrist @duttonDuttonOrthopaedicExamination2020.

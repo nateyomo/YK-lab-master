@@ -1,0 +1,9 @@
+---
+title: Copper-Zinc Superoxide dismutase (CuZnSOD)
+---
+
+Copper-Zinc Superoxide dismutase (CuZnSOD) is one of 3 human isoforms of the [Superoxide Dismutases (SOD) group]({{< var ref-superoxide-dismutases-group.path >}}) @osullivanPhysicalRehabilitation2019. 
+
+
+# Genetics
+CuZnSOD is encoded by the [SOD1 gene]({{< var ref-sod1.path >}})

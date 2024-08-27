@@ -1,0 +1,13 @@
+---
+title: Index of Surfing
+---
+
+
+- [Surfing (Overview)]({{< var ref-surfing-overview.path >}})
+- [Surfing technical terms]({{< var ref-surfing-definitions.path >}})
+- [Paddling for Surfing]({{< var ref-surfing-paddling.path >}})
+- [Surfing Takeoff]({{< var ref-surfing-takeoff.path >}})
+- [Surf trick: Aerials]({{< var ref-surfing-aerials.path >}})
+- [Surf trick: Carve]({{< var ref-surfing-carve.path >}})
+- [Surf Trick: Cutback]({{< var ref-surfing-cutback.path >}})
+- [Surf Resources]({{< var ref-surfing-resources.path >}})

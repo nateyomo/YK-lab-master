@@ -1,0 +1,64 @@
+---
+title: Medial Meniscus
+---
+
+# Overview
+
+
+# Histology
+
+The menisci are made up of fibrocartilage consisting primarily of [Type I collagen]({{< var ref-type-1-collagen.path >}}) and a moderate amount of [GAGs]({{< var ref-glycosaminoglycans.path >}})
+
+
+# Function
+
+- Helps with shock absorption
+- Increase joint congruency
+- Reduces friction
+
+
+
+
+
+# Pivoting
+
+- Loose connection to tibia allows pivoting during mvmt (L>M)
+    - Coronary ligs
+    - Transverse ligs
+
+# Muscle attachments
+
+- Stabilize menisci w mvmt
+- Quadriceps
+- semimembranosus to both, popliteus to lateral
+
+# Blood supply
+
+Peripheral from synovial membrane adn capsule
+Internal avascular 
+Aneural except near horns
+
+
+
+
+
+# Anatomy
+
+## Attachments
+
+The medial meniscus is attached to the:
+
+- Semimembranosus
+- MCL
+- capsule
+- Patella 
+
+# Injury
+
+Medial meniscus is injured 2x more than lateral meniscus.
+
+# Notes
+
+"The crescent-shaped, or U-shaped, medial meniscus (see Fig. 20-2), with the wider separation of its anterior and posterior horns, is larger and thicker than its lateral counterpart and sits in the concave medial tibial plateau.25 The medial meniscus is significantly wider posteriorly than anteriorly. It is attached to the anterior and posterior tibial plateau by coronary ligaments. These ligaments connect the outer meniscal borders with the tibial edge and restrict movement of the meniscus. The medial meniscus also has an attachment to the deeper portion of the MCL and the knee joint capsule. The horns of the lateral meniscus are closer together than those of the medial, which makes the former almost circular and the latter nearly semilunar (see Fig. 20-2). The anterior horn is attached to the tibial plateau near the intercondylar fossa anterior to the ACL.1 There is significant variability in the attachment location of the anterior horn of the medial meniscus.23 The posterior horn of the medial meniscus, which is attached to the posterior intercondylar fossa of the tibia between the lateral meniscus and the PCL, receives a piece of the semimembranosus tendon.23 " @duttonDuttonOrthopaedicExamination2020 
+
+"The transverse genicular ligament serves as a link between the lateral and medial menisci." @duttonDuttonOrthopaedicExamination2020 

@@ -1,0 +1,36 @@
+---
+title: Volleyball Hit Technique
+---
+
+
+# Indoor
+
+Spike Arm Swing Techniques of Olympics Male and Female Elite Volleyball Players (1984-2021) @giatsisSpikeArmSwing2022
+
+
+
+
+# Biomechanics
+
+"They found players to use approximately 160° to 163° of combined external rotation during the cocking phase of the spike, and ball contact to occur at 130° to 133° of abduction." @ellenbeckerSportTherapyShoulder2017 
+
+# Analysis
+
+Subdivided into
+
+- Wind-up phase @challoumasVolleyballAthleteShoulder2017
+- Cocking phase @challoumasVolleyballAthleteShoulder2017
+- Acceleration phase @challoumasVolleyballAthleteShoulder2017
+- Follow through phase @challoumasVolleyballAthleteShoulder2017
+
+::: {.callout-note}
+The take off phase and landing phase should also be considered
+:::
+
+# Variability
+
+- There is ittle inter-individual variety in the **acceleration** and **follow through** phases (Coleman et al., 1993; Oka et al., 1976; Selinger and Ackermann-Blount, 1986) @challoumasVolleyballAthleteShoulder2017
+- There are different techniques applied during the **wind-up** and **cocking phase** (Seminati et al., 2015) @challoumasVolleyballAthleteShoulder2017
+
+
+"Seminati et al. (2015) analyzed the kinematics of different arm swing techniques. Based on their experimental findings of unfavorable range of motion and trajectories of the humerus in traditional techniques, they hypothesized that alternative techniques might be less harmful for the shoulder joint." @challoumasVolleyballAthleteShoulder2017

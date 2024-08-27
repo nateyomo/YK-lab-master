@@ -1,0 +1,16 @@
+---
+title: Inferior Trunk of the Brachial Plexus
+---
+
+# Origin {#origin}
+The inferior trunk originates from nerve roots [C8]({{< var ref-nerve-root.c8 >}}) and [T1]({{< var ref-nerve-root.t1 >}}).
+
+
+# Function
+
+- 4th-5th fingers of hand @duttonDuttonOrthopaedicExamination2020
+- Motor innervation to intrinsic hand muscles @duttonDuttonOrthopaedicExamination2020
+
+# Dysfunction
+
+The inferior trunk is the most COMMONLY compressed neural structure in TOS @duttonDuttonOrthopaedicExamination2020

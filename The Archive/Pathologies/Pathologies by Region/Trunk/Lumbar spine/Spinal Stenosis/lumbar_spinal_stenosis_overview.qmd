@@ -1,0 +1,21 @@
+---
+title: Lumbar Spinal Stenosis
+---
+
+There are 3 main types of Lumbar Spinal stenosis
+
+1. [Central Stenosis]({{< var ref-lumbar-central-stenosis >}}): Narrowing and impingement of the spinal cord in the *central canal*.
+1. [Lateral Recess Stenosis]({{< var ref-lumbar-lateral-recess-stenosis >}}): Narrowing and impingement of the nerve root as it exits the central canal and before it leaves the foramen.
+1. [Foraminal Stenosis]({{< var ref-lumbar-foraminal-stenosis >}}): Narrowing and subsequent impingement of the nerve roots at the foramen
+
+
+
+
+# Therex
+
+Therapeutic exercise is one of the numerous interventions that have been proposed for the conservative management of patients with lumbar spinal stenosis. Several authors advocate only the use of Williams flexion exercises because of the neuroforaminal narrowing that occurs with lumbar extension. However, the prescribed program may need to be modified so that it does not exacerbate any coexisting orthopaedic conditions, such as osteoarthritis of the hips or knees while still being effective.162 In a randomized clinical trial by Whitman et al.,200 two physical therapy programs were compared for 58 patients with lumbar spinal stenosis:
+
+
+manual therapy (eclectic, consisting of techniques such as those described by Maitland,201 Greenman,202 and Whitman et al.203), body-weight-supported treadmill walking, and exercise group;
+
+lumbar flexion exercises, a treadmill-walking program, and subtherapeutic ultrasound group.

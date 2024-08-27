@@ -1,0 +1,14 @@
+---
+title: Meniscus Joint Line Palpation Test
+---
+
+
+
+# Psychometrics
+
+# Psychometrics
+| Psychometric  | Value |
+|-|-|
+| [Sensitivity]({{< var ref-psychometric.sensitivity >}}) | {{< var ref-meniscus.test.joint-line-palpation.sens >}} @hegedusPhysicalExaminationTests2007 |
+| [Specificity]({{< var ref-psychometric.specificity >}}) | {{< var ref-meniscus.test.joint-line-palpation.spec >}} @hegedusPhysicalExaminationTests2007 |
+: Psychometric Properties of Joint Line Palpation Test {.striped .hover}

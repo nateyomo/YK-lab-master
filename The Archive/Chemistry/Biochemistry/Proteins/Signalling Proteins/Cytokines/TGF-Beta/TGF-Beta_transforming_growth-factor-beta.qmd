@@ -1,0 +1,12 @@
+---
+title: Transforming Growth Factor Beta (TGF-&beta;)
+---
+
+
+TGF-&beta; is a multifunctional cytokine that drives inflammation, fibrosis, and cell differentiation @kokenyPPARgTGFvMajorRegulators2021 
+
+
+
+# Relationship to PPAR-&gamma;
+
+While TGF-&beta; facilitates inflammation, fibrosis, and cell differentiation, PPAR-&gamma; functions to reverse these adverse events @kokenyPPARgTGFvMajorRegulators2021

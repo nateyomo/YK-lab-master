@@ -1,0 +1,16 @@
+---
+title: Bunnell-Litler Test
+---
+
+
+
+
+# Technique
+
+- Test PIP flexion ROM in MCP neutral (0&deg; extension)
+- Test PIP flexion ROM in MCP flexion (90&deg;)
+
+# Interpretation
+
+- IF the PIP is limited in both MCP ranges, it is a capsular issue
+- If the PIP is limited in in MCP neutral but has *more* range in MCP flexion, it is a lumbrical issue

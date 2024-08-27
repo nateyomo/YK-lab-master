@@ -1,0 +1,52 @@
+---
+title: Effect of Stress on Cervical muscle activity 
+date: 1/24/24
+---
+
+# Article
+
+Shahidi et al. (2013) Differential effects of mental concentration and acute psychosocial stress on cervical muscle activity and posture @shahidiDifferentialEffectsMental2013
+
+# Article question
+
+Does a psychological stressor affect cervical muscle activity and posture?
+
+# Study construct
+
+- Population: 
+    - 60 healthy office workers
+    - Higher proportion of women d/t a higher incidence of female office workers developing pain
+    - No hx of neck pain in previous year
+    - Worked at least 30 h a week, 75% of workday at the computer
+
+
+- Electromyography
+- Muscles observed: 
+    - [Upper trapezius]({{< var ref-upper-trapezius.path >}})
+    - [Cervical extensors]({{< var ref-neck-msk.path >}})
+    - [Sternocleidomastoid]({{< var ref-sternocleidomastoid.path >}})
+- Seated posture
+- Low stress (LS) condition + mental concentration
+- High stress (HS) condition + mental concentration and psychosocial stress
+
+- Constant variables:
+    - Asked to do a Psychomotor task: 
+        - operation span (OpSpan) test: complex arithmetic problems while memorizing and selecting lists of 2-8 words in sequential order using a computer mouse with their dominant arm.
+- Intervention: Repeated under low and high stress conditions with a 15 min rest break
+- Dependent variable:
+    - Task performance scored 0-40, higher = better accuracy
+    - Seated posture
+    - Low stress (LS) condition + mental concentration
+    - High stress (HS) condition + mental concentration and psychosocial stress
+
+
+# Statistical analysis
+
+Demographic characteristics of participants in the experimental and control sessions were compared using independent [t-tests]({{< var ref-t-test.path >}}) for continuous variables and [chi-squared tests]({{< var ref-chi-square-test.path >}}) for categorical variables @shahidiDifferentialEffectsMental2013.
+
+Cervical angle, RPP, and STAI-State scores were analyzed using a one-way repeated measures analysis of variance (ANOVA) to compare baseline, LS, and HS conditions @shahidiDifferentialEffectsMental2013. 
+Post hoc comparisons using Tukey's HSD procedure were performed for outcomes with significant main effects @shahidiDifferentialEffectsMental2013. 
+
+[Paired T-Tests]({{< var ref-t-test.path >}}) were used to compare the ormalized activity of UT, CE, and SCM muscles across the two stress conditions @shahidiDifferentialEffectsMental2013. 
+
+[Pearson's correlation coefficients]({{< var ref-pearson-product-moment-correlation.path >}}) were used to assess the association between change in muscle activity, cervical angle, and task duration between test conditions @shahidiDifferentialEffectsMental2013.

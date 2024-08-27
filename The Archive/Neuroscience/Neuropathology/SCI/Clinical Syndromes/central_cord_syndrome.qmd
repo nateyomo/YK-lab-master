@@ -1,0 +1,50 @@
+---
+title: Central Cord Syndrome
+---
+
+# Epidemiology
+
+- Most common spinal cord syndrome @osullivanPhysicalRehabilitation2019
+
+# Etiology
+
+- Generally occurs from hyperextension injuries to the cervical region
+- Congenital or degenerative narrowing of the spinal canal
+    - The compressive forces give rise to hemorrhage and edema, producing damage to the most central aspects of the cord. 
+    
+# Clinical Presentation
+
+
+:::{layout-ncol="3"}
+
+### UE Impacts
+
+- More severe UE neurological impairment due to central location
+
+### Motor > Sensory
+
+- Varying degrees of sensory impairment @osullivanPhysicalRehabilitation2019
+- Sensory tends to be less severe than motor deficits @osullivanPhysicalRehabilitation2019
+
+### Completeness
+
+- With complete preservation of sacral tracts, normal sexual, bowel, and bladder function may be retained @osullivanPhysicalRehabilitation2019. 
+
+:::
+
+# Prognosis
+
+:::{layout-ncol="2"}
+
+### Functional Tasks
+
+- Mod-severe impairments @osullivanPhysicalRehabilitation2019
+- Functional tasks tend to be limited due to:
+    - Some distal UE weakness @osullivanPhysicalRehabilitation2019
+    - Loss of fine motor control @osullivanPhysicalRehabilitation2019
+
+### Ambulation
+
+- Typically recover the ability to ambulate @osullivanPhysicalRehabilitation2019
+
+:::

@@ -1,0 +1,28 @@
+---
+title: Object Permanence
+subtitle: Cognitive function of knowing objects continue to exist when not observed
+---
+
+Knowing that objects continue to exist when they cannot be directly observed or sensed is called “object permanence" @anObjectPermanenceRelationship2022
+
+
+
+
+:::{.callout title="Example"}
+For example, when a ball rolls under a couch and out of sight, infants who have object permanence understand that the ball exists. They may persist in attaining the ball by moving their body in various ways to look for and reach it even though it is hidden from view @anObjectPermanenceRelationship2022
+:::
+
+# Function
+
+"This fundamental cognitive skill is important for working memory and allows us to form and retain mental representations of objects" @anObjectPermanenceRelationship2022
+
+"As a cognitive construct, object permanence is intimately connected to perceptual motor experiences including object exploration and self-mobility" @anObjectPermanenceRelationship2022
+
+# Measures
+
+A scale was developed to measure object permanence (Object Permanence Scale [OPS]) @anObjectPermanenceRelationship2022
+
+# Dysfunction
+
+- Compared with typical development, infants with motor delays were also delayed in development of object permanence @anObjectPermanenceRelationship2022
+- Infants demonstrated increased understanding over time and as sitting skills improved

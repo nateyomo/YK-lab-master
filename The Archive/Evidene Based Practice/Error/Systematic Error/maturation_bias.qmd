@@ -1,0 +1,19 @@
+---
+title: Maturation Bias
+---
+
+Maturation bias refers to systematic error created by the lack of a control group.
+
+Maturation bias is likely to overestimate treatment effects.
+
+:::{.callout title="Example"}
+
+- Single‐group study design concludes that a 4‐week PT intervention is effective based on significant improvements in shoulder disability after treatment compared to before treatment.
+- This is an example of maturation bias, and the researchers do not know how much of the healing is from the intervention or normal healing.
+- This is likely to overestimate treatment effects due to the absence of a control group. That might have healed fully or partially on their own without treatment
+:::
+
+
+# Prevention
+
+Maturation effects can be ruled out using a control group.

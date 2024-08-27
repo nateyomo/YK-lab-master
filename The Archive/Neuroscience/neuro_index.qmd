@@ -1,0 +1,30 @@
+---
+title: "Index of Neuro archives"
+
+---
+
+## Neuroanatomy
+
+[Neuroanatomy]({{< var ref-index-neuroanatomy.path >}})
+
+
+
+
+## Neurophysiology
+### Neuro Symptoms
+
+- [Anosmia]({{< var ref-anosmia.path >}})
+
+### Special Senses
+
+- [Gustation]({{< var ref-gustation.path >}})
+- [Olfaction]({{< var ref-olfaction.path >}})
+
+## Neuropathology
+
+### PNS Pathologies
+
+- [Bell's Palsy]({{< var ref-bell-palsy.path >}})
+
+### CNS Pathologies
+

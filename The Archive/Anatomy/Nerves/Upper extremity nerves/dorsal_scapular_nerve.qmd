@@ -1,0 +1,61 @@
+---
+title: Dorsal Scapular Nerve
+---
+
+# Origin {#origin}
+
+- The dorsal scapular nerve is innervated by the [C5 Nerve Root]({{< var ref-nerve-root.c5 >}}) @duttonDuttonOrthopaedicExamination2020.
+- The dorsal scapular nerve frequently shares a trunk with the [Long Thoracic Nerve]({{< var ref-long-thoracic-nerve.path >}}) @duttonDuttonOrthopaedicExamination2020. 
+- The Dorsal Scapular Nerve comes off of the C5 nerve root *prior* to the formation of the [Superior Trunk]({{< var ref-brachial-plexus.superior-trunk >}})
+
+
+# Path
+
+"The former passes through the scalenus medius anterior internally, and scalenus posterior laterally, with the presence of some tendinous tissues" @duttonDuttonOrthopaedicExamination2020 
+
+
+# Innervation {#innervation}
+
+The posterior (dorsal) scapular nerve provies motor innervation to the rhomboids and the levator scapulae muscles @duttonDuttonOrthopaedicExamination2020.
+
+
+# Motor Innervation
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "dorsal_scapular_nerve"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Dorsal Scapular n. Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Levator Scapulae]({{< var ref-levator-scapulae.path >}}) | {{< var ref-levator-scapulae.origin >}} | {{< var ref-levator-scapulae.insertion >}} | {{< var ref-levator-scapulae.nerve >}} | {{< var ref-levator-scapulae.action >}} |
+| [Rhomboid Major]({{< var ref-rhomboid-major.path >}}) | {{< var ref-rhomboid-major.origin >}} | {{< var ref-rhomboid-major.insertion >}} | {{< var ref-rhomboid-major.nerve >}} | {{< var ref-rhomboid-major.action >}} |
+| [Rhomboid Minor]({{< var ref-rhomboid-minor.path >}}) | {{< var ref-rhomboid-minor.origin >}} | {{< var ref-rhomboid-minor.insertion >}} | {{< var ref-rhomboid-minor.nerve >}} | {{< var ref-rhomboid-minor.action >}} |
+: {.striped .hover}
+
+# Dysfunction
+
+## Causes
+Dorsal scapular nerve lesions can result from trauma or from a forward posture of the head and the neck @duttonDuttonOrthopaedicExamination2020.
+Forward posture can place increased tension on the anterior cervical spine which can produce hypertonicity and/or hypertrophy of the [Middle Scalene muscle]({{< var ref-middle-scalene.path >}}) @duttonDuttonOrthopaedicExamination2020.
+
+## Clinical Presentation
+Patients with dorsal scapular nerve impingement will complain of scapular pain radiating to the lateral shoulder and arm @duttonDuttonOrthopaedicExamination2020 

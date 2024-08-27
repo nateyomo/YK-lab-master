@@ -1,0 +1,12 @@
+---
+title: Seizure Overview
+---
+
+
+
+# Types
+
+
+## Functional Seizures
+
+[Functional seizures]({{< var ref-functional-seizure.path >}}) are a symptom of [Functional neurological disorders]({{< var ref-functional-neurological-disorder.path >}})

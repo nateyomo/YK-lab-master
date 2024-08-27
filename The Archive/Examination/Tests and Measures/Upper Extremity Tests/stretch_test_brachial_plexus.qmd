@@ -1,0 +1,22 @@
+---
+title: Stretch Test
+subtitle: Brachial Plexus Special Test
+---
+
+
+# Technique
+
+- Patient is positioned in sitting or standing @duttonDuttonOrthopaedicExamination2020
+- Ask patient to:
+    - Raise the ipsilateral arm @duttonDuttonOrthopaedicExamination2020
+    - Then to contraolateral head side bend @duttonDuttonOrthopaedicExamination2020
+- Pt in sitting/standing and asked to raise arm on involved side and then side bend to uninvolved side @duttonDuttonOrthopaedicExamination2020
+
+# Grading
+
+- Positive test: Pain + paresthesia along the involved arm @duttonDuttonOrthopaedicExamination2020
+    - Interpretation: Indicative of a [brachial plexus irritation]({{< var ref-brachial-plexus-irritation.path >}}) @duttonDuttonOrthopaedicExamination2020
+
+# Video Resources
+
+{{< video https://youtu.be/NswpZqnfmfQ >}}

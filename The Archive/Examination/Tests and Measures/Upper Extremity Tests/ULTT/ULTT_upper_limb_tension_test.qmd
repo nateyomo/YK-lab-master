@@ -1,0 +1,32 @@
+---
+title: Upper Limb Tension Tests
+---
+
+# Purpose
+
+The ULTT is designed to recreate symptons of neuropathy in peripheral nerves by aggravating the peripheral nerves of the upper limb via elongation.
+
+The upper limb tension tests are maneuvers that can be used as qualitative and quantitative diagnostic and outcome measures.
+In addition, these maneuvers can be used as an intervention.
+
+# Grading
+
+- Normal responses: deep stretch/ache in cubital fossa, ant/radial aspect of forearm/radial aspect of hand, or in the anterior shoulder area. Sensation felt down radial aspect of forearm, median distribution of the hand @duttonDuttonOrthopaedicExamination2020.
+
+- Positive findings: reproduction of symptoms or a sensitizing test in the ipsilateral quadrant that alters the symptoms @duttonDuttonOrthopaedicExamination2020.
+
+# DDX between peripheral nerves
+
+
+<!--
+# DDX Entrapment vs Double crush syndrome
+
+Double crush syndrome refers to a peripheral nerve entrapment or compression that occurs at two or more sites @kaneDoubleCrushSyndrome2015.
+ULTTs can help clinicians differentiate between a single entrapment compared to multiple entrapments ([double crush syndrome]({{< var ref-double-crush-syndrome.path >}})).
+
+The location of the patient's symptoms during a ULTT, is the primary way to differentiate between [double crush]({{< var ref-double-crush-syndrome.path >}}) and nerve entrapment.
+-->
+
+
+
+

@@ -1,0 +1,21 @@
+---
+title: Dorsal Spinocerebellar Tract (DSCT)
+---
+
+
+:::{.callout title="AKA"}
+
+- Posterior Spinocerebellar Tract
+- Dorsal Spinocerebellar Tract
+- Flechsig tract
+:::
+
+
+
+
+
+# Dysfunction
+
+
+- [Subacute Combined Degeneration]({{< var ref-subacute-combined-degeneration-of-the-spinal-cord.path >}}) @kohNeuroanatomySpinocerebellarDorsal2024 
+- Demyelination due to [Vitamin E deficiency]({{< var ref-vitamin-e.deficiency >}}) @kohNeuroanatomySpinocerebellarDorsal2024

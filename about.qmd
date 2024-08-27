@@ -1,0 +1,16 @@
+---
+title: "About"
+citation: false
+---
+
+:::{layout-ncol="2"}
+
+# Nathaniel Yomogida, SPT
+
+Founder and Editor
+
+# Chloë Kerstein, SPT
+
+Founder and Head Researcher
+
+:::

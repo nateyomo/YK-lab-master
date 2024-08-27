@@ -1,0 +1,212 @@
+---
+title: Surfing Aerials
+---
+
+
+# Favorite Surfing Aerial Videos
+
+{{< video https://www.youtube.com/watch?v=r5QPd_XUwLY&pp=ygUJaWRpb3QgYm94 >}}
+
+
+# Notes on how to begin hitting aerials
+
+Speed and timing are the main prerequisite skills combined with a wave that allows for a couple pumps (speed) and becomes vertical enough for one to launch off of.
+
+## Speed
+- If you go too fast you will be sent to the moon and lose control.
+- The goal is to launch while but only slightly off the wave and controlled.
+    - 1/5 m is the starting goal here.
+
+## Timing
+
+- Look for small wedging end sections
+- Like a waist/chest high wave with a nice little waist high wedge launch ramp. 
+
+You need a wave that will let you get a few pumps for speed, then is vertical enough to actually let you launch up and out over it, not a mushy wall that's really slopey. If you need to stall up and wait for the section to start closing out. If you watch pros they'll frequently stomp the tail and wait for the wave to wall up more, then pump down the line a few times before launching off the lip.
+
+As far as how long it takes, it just depends on the person and I think more importantly age. I learned to surf around 8-10 and didn’t learn to do a real air until 8th grade. So however long that is was my time taken. Im 30 now and still trying to learn how to do new grabs and rotations. Also, I think as a kid its a bit easier as you are trying to one up all your friends etc and have 8hr surf days and endless energy haha.
+
+## What kind of waves are best for learning?
+
+
+- Waves that throw a nice lip
+- Not too big heavy or shallow, so you can get enough energy to go up in the air from the wave. 
+
+Probably a good size to start is like waist to chest high. You don't need super long waves, you just need the right section that throws a nice lip and you need to time it right. I'd recommend practicing stalling up high on the wave next to the white water while you wait for the close out section to stand up, then pump and get some speed and hit the lip at the right time and you'll do an air. It's all about timing. You want the lip to hit you forward toward the beach so you don't go out the back of the wave. Having a super light board will help too because it's very quick and lighter so it will go in the air easier.
+
+# Be Careful!
+Launching higher and higher on aerials without "soft landings" is a great way to break your board into many pieces.
+
+When you launch high, go for a grab. This technique allows you to bail and toss the board to the side safely
+
+
+# Frontside Air
+
+{{< video https://youtu.be/ekgfptN7tQk >}}
+
+The front side air was analyzed extensively by Forsyth et al. in 2018 @forsythUnderstandingSuccessfulUnsuccessful2018.
+
+Forsyth broke the movement down into 4 phases:
+
+1. Approach
+1. Take-off
+1. Airborne
+1. Landing
+
+Forsyth identified 3 critical features of the FS air:
+
+1. Landing with the feet greater than hip width apart @forsythUnderstandingSuccessfulUnsuccessful2018
+1. Landing with the lead ankle in a dorsiflexed position @forsythUnderstandingSuccessfulUnsuccessful2018
+1. Landing with the total body centre of mass over the centre of the surfboard @forsythUnderstandingSuccessfulUnsuccessful2018
+
+## Chronological Movement analysis
+
+Preparatory phase:
+The preparatory phase parallels the “approach phase” from Forsyth et al., (2018).
+In this phase, we assume the surfer is already standing on the surfboard and riding the wave.
+The preparatory phase begins before the surfer performs the bottom turn to perform the aerial (Forsyth et al 2018).
+The surfer must determine when he should time the initiation of the aerial as well as how much speed he should have.
+Based on these decisions, the surfer will either “pump” to increase speed or “stall” to decrease speed
+Once the surfer is at his/her desired speed, they will perform the bottom turn which will decide his/her initial trajectory up the wave and towards the “lip.”
+The surfer should keep their center of mass low and toward the board.
+As the surfer rides up towards the “lip” (the top of the breaking wave) they should keep their “toeside” rail (edge of the surfboard) submerged in order to increase depth of the “triple extension” movement, so they can launch into the air (Forsyth 2018).
+
+### Take-off Phase
+
+- The movement phase includes both “take-off” and “airborne” phases in Forsyth’s 4 phase model of surfing aerials (Forsyth 2018).
+- As the surfer rides up the lip, the preparatory phase ends and the movement phase begins.
+The takeoff to airborne phase can be broken down into one mental idea: Compressing yourself and the board into the wave as if the wave was a spring, then “bouncing” off that spring into the air and away from the wave.
+- To “take-off” the surfer shifts their COM towards their back foot by performing hip and knee flexion in the lead leg and simultaneously extending the rear knee and plantar flexing the rear ankle.
+    - This weight shift will raise the “nose” (Front end of the surfboard) 
+- There is also a rotation component that is added to the extension moment.
+    - As the surfer flexes his lead leg and extends his rear leg, he/she should be rotating away from the rear leg (relative external hip rotation) as well as contralateral rotation (away from the rear leg) at the spine
+
+:::{.callout-note}
+According to Forsyth et al., the surfer should “swing their arms upward and use the moment of the lip to accelerate him/herself upward and forward relative to the wave.” @forsythUnderstandingSuccessfulUnsuccessful2018
+I agree that one should use trunk and UE momentum to propel themselves forward and upward, but I believe this result comes from multiple structures rotating away from the rear leg in the transverse and sagittal plane, rather than swinging your arms upward in the sagittal plane.
+:::
+
+
+### Airborne Phase
+
+Once the surfer has left the wave, the airborne phase has begun
+
+- Once the surfer has left the surface of the wave, they should perform hip flexion and knee flexion in order to bring their lower limbs toward their chest @forsythUnderstandingSuccessfulUnsuccessful2018.
+- This is done to allow the surfboard to carry momentum as well so it stays connected to the surfer’s feet.
+- Although the board will be pushing off the wave with you after the previous action, there is nothing “gluing” the board to your feet
+- Thus, during the flight phase, the surfer needs to keep his/her COM and COG over the board.
+- This is accomplished by keeping one’s chest over the knees and extending the lower extremities into the board to maintain contact with the board until the landing phase.
+- This allows them to gain maximum elevation whilst ensuring they are prepared to land in a stable position
+
+
+### Landing phase
+
+The landing phase is the 4th and final phase described by Forsyth et al., @forsythUnderstandingSuccessfulUnsuccessful2018
+
+The recovery phase coincides with Forsyth’s final phase, the “landing phase” and begins when the surfboard makes contact with the wave (Forsyth 2018).
+In the last phase (airborne phase) the surfer was extending his/her lower extremities into the board to maintain contact
+In this phase, the surfer continues to extend at the hips and knees, not only to maintain contact witht he board, but also to increase the ROM of eccentric triple extension during the landing
+Increased ROM allows the surfer to absorb the vertical forces for a longer period of time
+The surfer should land with almost full extension, but careful not to place the knees into hyperextension.
+To absorb the vertical loads, the surfer will eccentrically move through triple extension.
+The surfer should lean their trunk over their lead knee in order to maintain his COM within his BOS. 
+This brings their center of mass forward over the board in an attempt to successfully complete the maneuver
+Keeping the center of mass toward the front foot is important since the surfboard will be pushed forward by the wave, thus the surfer’s BOS will be moving anteriorly under a stationary COM during landing.
+
+:::{.callout-note}
+It should benotd that Forsyth et al., identified 52 performance variables that likely contribute to successful or unsuccessful aerial performance (Forsyth 2018).
+:::
+
+
+## Critical Features
+
+- Critical features
+    - Critical Feature (i): Landing with lead ankle in dorsiflexion @forsythUnderstandingSuccessfulUnsuccessful2018
+    - Critical Feature (ii): Landing with feet greater than hip width apart @forsythUnderstandingSuccessfulUnsuccessful2018
+    - Critical Feature (iii): Landing with the total body centre of mass over the centre of the surfboard @forsythUnderstandingSuccessfulUnsuccessful2018
+
+
+
+### Lead ankle
+<q>
+Critical Feature (i): Landing with lead ankle in dorsiflexion. 
+During landing tasks, athletes aim to move through the greatest available range of joint motion in order to dampen the impact forces they experience27. This is typically characterised by athletes displaying a plantar flexed ankle at initial ground contact to enable the largest possible range of ankle joint motion during the subsequent landing thereby increasing the time over which the impact forces are absorbed
+
+Results of the present study, however, have shown that landing an aerial with the lead (front) ankle in a dorsiflexed position at initial board-wave contact, rather than a plantar flexed position, was significantly associated with a successful landing
+
+Explanation: This apparently contradictory finding can be explained by the need for a surfer to maintain contact with their surfboard throughout the final stages of the airborne phase and into the landing phase of the aerial manoeuvre
+</q> @forsythUnderstandingSuccessfulUnsuccessful2018
+
+### Rear ankle
+<q> During the airborne phase, plantar flexion of the rear ankle would result in downward movement of the surfboard tail. As there is a need to maintain constant contact with the surfboard, this downward movement of the surfboard tail would assist in keeping the nose of the surfboard up, leaving the lead ankle in a dorsiflexed position </q> @forsythUnderstandingSuccessfulUnsuccessful2018
+
+:::{.callout-note title="Rear ankle coupled movements"}
+"Dorsiflexing the ankle is also likely to be coupled with knee flexion, which would ensure the surfer’s total body centre of mass remains within their base of support, as well as over the centre of buoyancy of the surfboard" @forsythUnderstandingSuccessfulUnsuccessful2018
+:::
+
+### Base of Support
+
+<q>
+A wider base of support enhances stability when performing a discrete skill, and was also evident when landing aerials in surfing. 
+A wide base of support provides a greater area over which a surfer’s total body centre of gravity can travel before generating a perturbing torque.
+This increased tolerance for error is particularly useful when trying to land on a largely unpredictable surface such as a wave.
+A wide stance also helps the surfer position their centre of mass closer to the centre of buoyance of the surfboard, as discussed below (see Critical Feature (iii))
+<q> @forsythUnderstandingSuccessfulUnsuccessful2018 
+
+
+### Center of Mass (COM)
+
+The third clinical feature described by Forsyth (2018) was "Landing with the total body centre of mass over the centre of the surfboard" @forsythUnderstandingSuccessfulUnsuccessful2018
+
+<q>
+was Due to the relative unpredictability of surfing and the open nature of a surfing environment, ensuring a surfer lands over the centre of their surfboard is essential to limit the effect of any unexpected perturbations, which might occur because of the changing water surface. Positioning the total body centre of mass directly above the centre of buoyancy of the surfboard reduces the potential to generate any destabilising torques31 during landing. The effect of not adhering to this critical feature was evident in the FS Air Reverse when athletes landed with their total body centre of mass over the nose of the surfboard, which was significantly associated with unsuccessful performance of the manoeuvre (see Table 4).
+</q> @forsythUnderstandingSuccessfulUnsuccessful2018 
+
+
+
+
+
+
+Q3: What injuries may be associated or caused by repeating this motion?  Why?
+
+There is not much research on injuries due to repeated motion of this movement. The main risk of this movement is the landing that requires much power to absorb the landing while maintaining stability on an unstable surface. For these reasons, Forsyth found that there was an association between performing aerials and acute lower limb injury (Forsyth 2018).
+
+“When landing an aerial manoeuvre, surfers are required to absorb and arrest high forces and impact velocities as they fall from the air and make contact with the surface of the wave. A surfer’s ability to successfully perform and control these landings may influence the forces experienced across the lower limb joints” (Forsyth 2018). 
+
+## Injury prevention
+
+Forsyth et al., found an association between decreased static ankle ROM with restricted ankle ROM during landing, thus improving ankle ROM in this population would decrease ankle injuries or injuries secondary to these immobile ankles @forsythUnderstandingSuccessfulUnsuccessful2018. 
+
+## Performance Training
+
+**Takeoff phase training**
+
+- D2 Flexion medicine backwards shoulder throws
+<details>
+
+    - Have the patient stand in their surfing stance and equally distribute their weight between each leg
+    - Give them a medicine ball to hold in both hands
+    - Shift weight towards their lead surfing leg, squat, and rotate towards their rear leg
+    - Instruct the surfer to shift their weight towards the rear leg, while exploding out of the squat and throwing the medicine ball over their rear shoulder
+</details>
+
+**Landing phase**
+
+- Depth drops
+<details>
+
+    - Instruct the patient to load their weight over their lead leg, in order to simulate proper landing mechanics.
+    - Have the patient land and place their trunk weight over 
+</details>
+
+
+
+# FS Air-Reverse
+
+
+<q>
+For the FS Air Reverse, five critical features were identified: (i) landing with the lead ankle in a dorsiflexed position, (ii) landing with the chest over the lead knee, (iii) landing with the total body centre of mass over the centre of the surfboard, (iv) moving through a large range of trunk flexion (>45°) throughout the landing phase, and (v) having an apparent gaze directed at the water in front of the hips.
+</q> @forsythUnderstandingSuccessfulUnsuccessful2018
+
+
+

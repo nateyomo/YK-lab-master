@@ -1,0 +1,41 @@
+---
+title: Brachialis
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Brachialis]({{< var ref-brachialis.path >}}) | {{< var ref-brachialis.origin >}} | {{< var ref-brachialis.insertion >}} | {{< var ref-brachialis.nerve >}} | {{< var ref-brachialis.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+Distal 1/2 of Anterior humerus @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+
+- Coronoid process @DrKusenose 
+- Ulnar tuberosity @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+- [Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) @gilroyAtlasAnatomy2020
+- [Radial N.]({{< var ref-radial-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), Minor) @gilroyAtlasAnatomy2020
+
+
+
+# Action {#action}
+
+**Elbow**: Flexion @gilroyAtlasAnatomy2020
+
+# MMT 
+
+Brachialis is biased when flexing the elbow while maintaining full pronation
+
+
+
+# Notes

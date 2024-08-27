@@ -1,0 +1,160 @@
+---
+title: Median Nerve
+---
+
+
+# Origin {#origin}
+
+C6-T1 @gilroyAtlasAnatomy2020
+
+
+# Motor Branches
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "median_nerve"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Median n. Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Pronator Teres]({{< var ref-pronator-teres.path >}}) | {{< var ref-pronator-teres.origin >}} | {{< var ref-pronator-teres.insertion >}} | {{< var ref-pronator-teres.nerve >}} | {{< var ref-pronator-teres.action >}} |
+| [Flexor Carpi Radialis]({{< var ref-flexor-carpi-radialis.path >}}) | {{< var ref-flexor-carpi-radialis.origin >}} | {{< var ref-flexor-carpi-radialis.insertion >}} | {{< var ref-flexor-carpi-radialis.nerve >}} | {{< var ref-flexor-carpi-radialis.action >}} |
+| [Palmaris Longus]({{< var ref-palmaris-longus.path >}}) | {{< var ref-palmaris-longus.origin >}} | {{< var ref-palmaris-longus.insertion >}} | {{< var ref-palmaris-longus.nerve >}} | {{< var ref-palmaris-longus.action >}} |
+| [Flexor Digitorum Superficialis]({{< var ref-flexor-digitorum-superficialis.path >}}) | {{< var ref-flexor-digitorum-superficialis.origin >}} | {{< var ref-flexor-digitorum-superficialis.insertion >}} | {{< var ref-flexor-digitorum-superficialis.nerve >}} | {{< var ref-flexor-digitorum-superficialis.action >}} |
+:Direct Muscular branches of Median N. {.striped .hover}
+
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Flexor Digitorum Profundus]({{< var ref-flexor-digitorum-profundus.path >}}) | {{< var ref-flexor-digitorum-profundus.origin >}} | {{< var ref-flexor-digitorum-profundus.insertion >}} | {{< var ref-flexor-digitorum-profundus.nerve >}} | {{< var ref-flexor-digitorum-profundus.action >}} |
+| [Flexor Pollicis Longus]({{< var ref-flexor-pollicis-longus.path >}}) | {{< var ref-flexor-pollicis-longus.origin >}} | {{< var ref-flexor-pollicis-longus.insertion >}} | {{< var ref-flexor-pollicis-longus.nerve >}} | {{< var ref-flexor-pollicis-longus.action >}} |
+| [Pronator Quadratus]({{< var ref-pronator-quadratus.path >}}) | {{< var ref-pronator-quadratus.origin >}} | {{< var ref-pronator-quadratus.insertion >}} | {{< var ref-pronator-quadratus.nerve >}} | {{< var ref-pronator-quadratus.action >}} |
+: Indirect Muscular branches of Median N. (via anterior interosseous n.) {.striped .hover}
+
+
+Recurrent br. @gilroyAtlasAnatomy2020
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Opponens Pollicis]({{< var ref-opponens-pollicis.path >}}) | {{< var ref-opponens-pollicis.origin >}} | {{< var ref-opponens-pollicis.insertion >}} | {{< var ref-opponens-pollicis.nerve >}} | {{< var ref-opponens-pollicis.action >}} |
+| [Abductor Pollicis Brevis]({{< var ref-abductor-pollicis-brevis.path >}}) | {{< var ref-abductor-pollicis-brevis.origin >}} | {{< var ref-abductor-pollicis-brevis.insertion >}} | {{< var ref-abductor-pollicis-brevis.nerve >}} | {{< var ref-abductor-pollicis-brevis.action >}} |
+| [Flexor Pollicis Brevis]({{< var ref-flexor-pollicis-brevis.path >}}) | {{< var ref-flexor-pollicis-brevis.origin >}} | {{< var ref-flexor-pollicis-brevis.insertion >}} | {{< var ref-flexor-pollicis-brevis.nerve >}} | {{< var ref-flexor-pollicis-brevis.action >}} |
+:Indirect branches of Median N. (via recurrent br.) {.striped .hover}
+
+
+Indirect Muscular brs. via common palmar digital nn. @gilroyAtlasAnatomy2020
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Lumbricals (Hand)]({{< var ref-lumbricals-hand.path >}}) | {{< var ref-lumbricals-hand.origin >}} | {{< var ref-lumbricals-hand.insertion >}} | {{< var ref-lumbricals-hand.nerve >}} | {{< var ref-lumbricals-hand.action >}} |
+:Indirect branches of Median N. (common palmar digital nn.) {.striped .hover}
+
+
+# Sensory Branches
+
+- Articular brs.: Capsules of the elbow and wrist joints 
+- Palmar br. of median n. (thenar eminence) 
+- Communicating br. to ulnar n. 
+- Common palmar digital nn. 
+- Proper palmar digital nn.
+
+
+# Pathway
+
+1. Branches off of the medial and lateral cords just distal to the coracoid process
+1. Enters the axilla into the anterior compartment
+1. In the medial brachium, the median nerve travels with the brachial artery along the medial intermuscular septum
+1. Crosses the elbow in the cubital fossa medial to the biceps tendon and brachial artery
+1. Dives between the heads of the pronator teres into the anterior compartment of the antebrachium
+1. Passes through the fibrous arch of flexor digitorum superficialis
+1. Gives off the [Anterior Interosseous Nerve]({{< var ref-anterior-interosseous-nerve.path >}})
+1. Dives deep to the flexor/pronator mass descending the antebrachium in the anterior compartment
+1. Runs along the anterior surface of the interosseus membrane
+1. Terminates in the anterior capsule of the carpals
+1. Median nerve continues down the antebrachium deep to flexor digitorum superficialis and superficial to flexor digitorum profundus
+1. Crosses the wrist at the carpal tunnel where it branches into the RECURRENT BRANCH and PALMER DIGITAL BRANCH of the median nerve.
+
+# Entrapment Sites
+
+1. Ligament of Struthers
+1. Pronator Teres Syndrome
+1. Anterior Interosseous Syndrome
+1. Carpal Tunnel Syndrome
+
+## Ligament of Struthers
+
+Ligament of Struthers: present in 1% of population and is an alternate attachment site of the
+pronator teres (rather than the medial epicondyle). The ligament is found at the distal- medial humerus near the Arcade of Struthers
+-May include sensory and motor loss in a median nerve distribution. Muscles receiving motor innervation from both the median nerve and the anterior interosseous nerve will be affected as this entrapment is proximal to the any peripheral branching. 
+-Can include vascular symptoms due to brachial artery passing under ligament along with nerve 
+
+Tinnel’s over the median nerve at the Cubital Fossa (here the nerve lies medial to the brachial artery and biceps
+Tendon)
+
+
+## Pronator Teres Syndrome
+
+Pronator Teres Syndrome:
+Entrapment as it passes through the two heads of pronator teres
+
+Same motor and sensory loss as described above
+Mechanical compression over the pronator teres muscle
+
+## Anterior Interosseous Syndrome
+
+Anterior Interosseous Syndrome: Entrapment after the anterior interosseous nerve branches off of the median nerve
+
+### Clinical Presentation 
+
+- Motor impairment in the pronator quadratus, medial 1⁄2 of FDP and flexor pollicis longus
+- No sensory loss
+
+### Testing
+
+“Okay” Sign: when asked to make an “okay” symbol, a patient will demonstrate pad- to-pad approximation of the distal phalanx of the first and second digits rather than tip- to-tip contact (due to weak of the FDP & FPL)
+
+## Carpal Tunnel Syndrome
+
+- Entrapment within carpal tunnel
+- **Very common**
+
+### Clinical Presentation
+
+- Sensory loss over the palmar surface of the hand in a median nerve distribution
+- Can have motor weakness of thenar muscles and 1⁄2 lumbricals
+
+### Evaluation
+
+- Tinel’s at carpal tunnel
+
+
+
+
+# Examination
+
+- Wrist Flexion and Median Nerve Compression @duttonDuttonOrthopaedicExamination2020
+- Median Nerve Compression Test/Pressure Provocation Test. 
+    - The clinician sits opposite to the patient and holds the patient’s hand with the clinician’s thumbs directly over the course of the median nerve as it passes under the flexor retinaculum between the FCR and the palmaris longus. The clinician places gentle sustained pressure with the thumbs for 15 seconds to 2 minutes. The clinician then removes the pressure and questions the patient on the relief of symptoms, which may take a few minutes. A positive test is the reproduction of pain, paresthesia, or numbness distal to the site of compression during the compression in the distribution of the median nerve. @duttonDuttonOrthopaedicExamination2020
+- ULTT1
+- ULTT2a
+- Phalen's Test
+- Reverse Phalen's
+- Tinel's Test

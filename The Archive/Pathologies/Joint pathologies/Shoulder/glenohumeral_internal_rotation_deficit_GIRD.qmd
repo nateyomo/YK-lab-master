@@ -1,0 +1,40 @@
+---
+title: Glenohumeral Internal Rotation Deficit (GIRD)
+---
+
+GIRD refers to a $\leq 20^\circ$ loss of GHJ IR in the throwing shoulder compared with the nonthrowing shoulder @kellerGlenohumeralInternalRotation2018
+
+GIRD refers to a loss of $\leq 20^\circ$ IR between the throwing shoulder and the non-throwing shoulder @duttonDuttonOrthopaedicExamination2020.
+Normally the difference should be within 18–20 degrees.
+
+# Pathophysiology 
+
+Shortening of the posterior capsule causes a loss of shoulder IR, which predisposes baseball pitchers to a higher potential for shoulder injury @duttonDuttonOrthopaedicExamination2020.
+
+# Etiology
+"This repetitive overhead motion in skeletally immature athletes leads to osseous adaptations initially, but with skeletal maturity, the torque and force experienced through the shoulder leads to changes in range of motion, specifically increased external rotation and decreased internal rotation, which could lead to glenohumeral internal rotation deficit." @kellerGlenohumeralInternalRotation2018 
+
+
+# Significance
+
+Wilk et al. demonstrated that pitchers with GIRD are almost twice as likely to be injured than those without GIRD @kellerGlenohumeralInternalRotation2018
+
+
+# Calculation
+
+| Item | j |
+|-|-|
+| GHJ IR Deficit (GIRD) | Difference in IR between shoulders |
+| GHJ ER Gain (GERG) | Difference in ER between shoulders |
+: {.striped .hover}
+
+$$
+\textrm{GIRD} = (\textrm{IR ROM Throwing shoulder}) - (\textrm{IR ROM C/L shoulder})
+$$
+
+$$
+\textrm{GERG} = (\textrm{ER ROM Throwing shoulder}) - (\textrm{ER ROM C/L shoulder})
+$$
+
+
+$\frac{\textrm{GIRD}}{\textrm{GERG}} > 1$ is associated with high risk of shoulder injury @duttonDuttonOrthopaedicExamination2020. 

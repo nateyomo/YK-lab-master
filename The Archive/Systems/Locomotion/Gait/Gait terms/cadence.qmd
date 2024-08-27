@@ -1,0 +1,17 @@
+---
+title: Cadence
+subtitle: Number of steps per unit time
+---
+
+
+Normal cadence is the number of steps taken per unit of time @osullivanImprovingFunctionalOutcomes2016
+
+# Normal Range
+
+Normal range for cadence is 91 to 138 steps per minute @osullivanImprovingFunctionalOutcomes2016. 
+
+# Increased Cadence
+
+Increased cadence is accompanied by a shorter step length and decreased duration of the period of double support @osullivanImprovingFunctionalOutcomes2016. 
+
+Running occurs when the period of double support disappears, typically at a cadence of 180 steps per minute.

@@ -1,0 +1,36 @@
+---
+title: Ascending Tracts
+---
+
+![Spinal Cord Cross section @osullivanPhysicalRehabilitation2019](/The Archive/Neuroscience/Neuroanatomy/Spinal Cord/images/osullivan fig20.1 spinal cord cross section.png)
+
+# Primary Tracts
+
+:::{layout-ncol="3"}
+
+### Dorsal Column Medial Lemniscus (DCML)
+
+[Dorsal column medial lemniscus (DCML)]({{< var ref-dorsal-column-medial-lemniscus.path >}})
+
+- [Proprioception]({{< var ref-proprioception.path >}}) @osullivanPhysicalRehabilitation2019
+- [Vibratory sensation]({{< var ref-sensation.vibratory >}}) @osullivanPhysicalRehabilitation2019
+- Deep touch @osullivanPhysicalRehabilitation2019
+- Discriminative touch @osullivanPhysicalRehabilitation2019
+
+### Anterolateral system
+
+- Consisting of
+    - Spinothalamic @osullivanPhysicalRehabilitation2019
+    - Spinoreticular @osullivanPhysicalRehabilitation2019
+    - Spinotectal tracts @osullivanPhysicalRehabilitation2019
+- Conveys 
+    - Pain @osullivanPhysicalRehabilitation2019
+    - Temperature @osullivanPhysicalRehabilitation2019
+    - Crude touch @osullivanPhysicalRehabilitation2019
+
+### Dorsal and ventral spinocerebellar tracts
+
+- Unconscious proprioception @osullivanPhysicalRehabilitation2019
+
+:::
+

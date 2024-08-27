@@ -1,0 +1,50 @@
+---
+title: Palmar Interossei of the Hand
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Palmar Interossei (Hand)]({{< var ref-palmar-interossei-hand.path >}}) | {{< var ref-palmar-interossei-hand.origin >}} | {{< var ref-palmar-interossei-hand.insertion >}} | {{< var ref-palmar-interossei-hand.nerve >}} | {{< var ref-palmar-interossei-hand.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+Base of prox phalanx and extensor expansion of digits 2,4,5
+
+- **1st**: 2nd metacarpal (ulnar side) @gilroyAtlasAnatomy2020
+- **2nd**: 4th metacarpal (radial side) @gilroyAtlasAnatomy2020
+- **3rd**: 5th metacarpal (radial side) @gilroyAtlasAnatomy2020
+
+
+
+# Insertion {#insertion}
+
+Palmar surface of metacarpals 2,4,5
+
+- **1st**: 2nd DDE, 2nd proximal phalanx (base) @gilroyAtlasAnatomy2020
+- **2nd**: 4th DDE, 4th proximal phalanx (base) @gilroyAtlasAnatomy2020
+- **3rd**: 5th DDE, 5th proximal phalanx (base) @gilroyAtlasAnatomy2020
+
+
+
+# Innervation {#innervation}
+
+[Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020 
+
+# Action {#action}
+
+2nd, 4th, and 5th digits: • MCP joints: flexion • Proximal and distal IP joints: extension and adduction toward 3rd digit
+
+- **2,4,5 MCP**: Flexion @gilroyAtlasAnatomy2020
+- **2,4,5 PIP, DIP**: Extension, Adduction @gilroyAtlasAnatomy2020
+
+
+
+
+
+# Notes

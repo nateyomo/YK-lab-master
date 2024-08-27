@@ -1,0 +1,16 @@
+---
+title: Rotator Cuff Tendinopathy
+---
+
+
+
+# Risk Factors
+
+- Anatomic abnormalities in the [Intertubercular Groove]({{< var ref-humerus-bone.intertubercular-groove >}}) are associated with RTC tendinopathy @duttonDuttonOrthopaedicExamination2020 
+
+
+
+# Considerations
+
+The Transverse Ligament is now believed to be continuous with RTC tendons and the Coracohumeral Ligament @duttonDuttonOrthopaedicExamination2020.
+In addition, the presence of free nerve endings in the Transverse Ligament indicate that it could be a source of pain in the shoulder @duttonDuttonOrthopaedicExamination2020.

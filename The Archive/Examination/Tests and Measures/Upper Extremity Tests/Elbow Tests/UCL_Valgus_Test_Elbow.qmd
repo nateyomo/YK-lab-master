@@ -1,0 +1,11 @@
+---
+title: UCL Valgus Test
+---
+
+:::{.callout title="AKA"}
+
+- Moving Valgus Test
+- Valgus Test
+:::
+
+"Medial (Ulnar) Collateral Ligament (Valgus Test) The patient is positioned in supine, with their head supported. The clinician stabilizes the distal humerus with one hand and palpates the distal forearm with the other. The anterior band of the MCL tightens in the range of 20–120 degrees of flexion, becoming lax in full extension, before tightening again in hyperextension. The posterior bundle is taut in flexion beyond 55 degrees. The anterior band is tested by flexing the elbow to between 20 and 30 degrees to unlock the olecranon from its fossa, as a valgus stress is applied continuously (Fig. 17-37). The posterior band is best tested using a “milking” maneuver. The patient is seated, and the arm is positioned in shoulder flexion, elbow flexion beyond 55 degrees, and forearm supination. The clinician pulls downward on the patient’s thumb (Fig. 17-38). This maneuver generates a valgus stress on the flexed elbow. A positive sign is indicated by the reproduction of pain. The tests are repeated on the opposite extremity and the findings compared. No diagnostic accuracy studies have been performed to determine the sensitivity or specificity of this test." @duttonDuttonOrthopaedicExamination2020 

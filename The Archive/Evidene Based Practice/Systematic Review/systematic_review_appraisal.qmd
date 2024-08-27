@@ -1,0 +1,32 @@
+---
+title: How to appraise and apply a Systematic Review and Meta-Analysis
+---
+
+
+# Why you should use an SR and meta-analysis
+
+"When searching for evidence to answer a clinical question, it is preferable to seek a systematic review, especially one that includes a meta-analysis. Single studies are liable to be unrepresentative of the total evidence and be misleading.8 Collecting and appraising multiple studies require time and expertise that practitioners may not have. Systematic reviews include a greater range of patients than any single study, potentially enhancing confidence in applying the results to the patient at hand." @muradHowReadSystematic2014 
+
+
+"Meta-analysis of a body of evidence includes a larger sample size and more events than any individual study, leading to greater precision of estimates, facilitating confident decision making. Metaanalysis also provides an opportunity to explore reasons for inconsistency among studies." @muradHowReadSystematic2014 
+
+"A key limitation of systematic reviews and meta-analyses is that they produce estimates that are as reliable as the studies summarized. A pooled estimate derived from meta-analysis of randomized trials at low risk of bias will always be more reliable than that derived from a meta-analysis of observational studies or of randomized trials with less protection against bias." @muradHowReadSystematic2014 
+
+
+# Judgment
+
+## Was the Methodology of the Systematic Review Credible?
+
+### Did the Review Explicitly Address a Sensible Clinical Question?
+
+- SRs for therapeutic questions should follow the PICOS format which outlines the Population, Intervention, Comparisons, Outcomes, and study design @muradHowReadSystematic2014
+- When a Meta-Analysis is conducted, the broadness is particularly important (because of heterogeneity) @muradHowReadSystematic2014
+
+
+"These 4 questions represent a gradually narrowing focus in terms of patients, interventions, and outcomes. Clinicians will be uncomfortable with a meta-analysis of the first question and likely of the second. Combining the results of these studies would yield an estimate of effect that would make little sense or be misleading. Comfort level in combining studies increases in the third and fourth questions, although clinicians may even express concerns about the fourth question because it combines symptomatic and asymptomatic populations." @muradHowReadSystematic2014 
+
+"What makes a meta-analysis too broad or too narrow? Clinicians need to decide whether, across the range of patients, interventions or exposures, and outcomes, it is plausible that the intervention will have a similar effect. This decision will reflect an understanding of the underlying biology and may differ between individuals; it will only be possible, however, when systematic reviewers explicitly present their eligibility criteria." @muradHowReadSystematic2014 
+
+### Was the Search for Relevant Studies Exhaustive?
+
+"Systematic reviews are at risk of presenting misleading results if they fail to secure a complete or representative sample of the available eligible studies. For most clinical questions, searching a single database is insufficient. Searching MEDLINE, EMBASE, and the Cochrane Central Register of Controlled Trials may be a minimal requirement for most clinical questions6 but for many questions will not uncover all eligible articles. For instance, one study demonstrated that searching MEDLINE and EMBASE separately retrieved, respectively, only 55% and 49% of the eligible trials.9 Another study found that 42% of published meta-analyses included at least 1 trial not indexed in MEDLINE.10 Multiple synonyms and search terms to describe each concept are needed." @muradHowReadSystematic2014 

@@ -1,0 +1,76 @@
+---
+title: Popliteus Muscle
+---
+
+:::{layout-ncol="2"}
+![Schematic of Deep Flexors of the Posterior Compartment of the Leg </br> 1: Tibialis Posterior </br> 2: FDL </br> 3: FHL </br> 4: Popliteus @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.24a Schematic Posterior compartment of the leg deep flexors.png)
+
+![Deep Flexors of the Posterior Compartment of the Leg @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.24b Posterior compartment of the leg deep flexors.png)
+:::
+
+# Overview
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "popliteus"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Popliteus Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Origin {#origin}
+
+- Lateral femoral condyle @gilroyAtlasAnatomy2020 
+- Lateral Meniscus (post. horn) @gilroyAtlasAnatomy2020
+
+
+# Insertion {#insertion}
+Posterior tibial surface (*above the origin at the soleus*)
+
+
+
+# Nerve
+
+[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **Knee**: flexes and unlocks the knee by externally rotating the femur on the fixed tibia @gilroyAtlasAnatomy2020 
+
+# Biomechanics
+
+- OKC: IR rotates tibia on femur
+- CKC: ER rotates femur on tibia
+
+
+# "Key" to the Knee
+
+"T he exact functions of the popliteus muscle are still not fully recognized, despite research dating back many decades.17 The muscle has received more recent orthopedic interest in the context of surgically reconstructing the posterior-lateral corner of the knee.281 The deep location of the popliteus makes it difficult to study via surface EMG electrodes, although this has been done.281 Many of the proposed functions of this muscle described herein are based on anatomic location and line of force." @neumannKinesiologyMusculoskeletalSystem2017 
+
+"The popliteus is generally believed to be an internal rotator and flexor of the knee joint. As the extended and locked knee prepares to flex, the popliteus provides an important internal rotation torque that helps mechanically unlock the knee.7 (Recall that the knee is mechanically locked by a combination of extension and external rotation of the joint.) Unlocking the knee to flex into a squat position, for example, requires that the femur externally rotates slightly over a relatively fixed tibia. The ability of the popliteus to externally rotate the femur (and hence internally rotate the knee) is apparent by observing the muscle’s oblique line of force as it crosses behind the knee" @neumannKinesiologyMusculoskeletalSystem2017 
+
+"The popliteus muscle’s oblique line of pull furnishes it with the most favorable leverage of all the knee flexor muscles for producing axial rotation on an extended knee. The line of force of the other knee flexor muscles is nearly vertical when the knee is extended, which greatly minimizes their axial rotation torque potential. Because of the popliteus muscle’s enhanced leverage to initiate internal rotation of the locked knee, it has been referred to as the key to the knee." @neumannKinesiologyMusculoskeletalSystem2017 
+
+"Another function of the popliteus is to help dynamically stabilize both the lateral and the medial sides of the knee. Along with other tissues within the posterior-lateral corner of the knee, the popliteus, by way of its strong intracapsular tendon, provides a significant resistance to a varus load applied to the knee. The popliteus also stabilizes the medial side of the knee by decelerating and limiting excessive external rotation of the knee. This action, performed through eccentric activation, may reduce the stress placed on the medial collateral ligament, posterior-medial capsule, and anterior cruciate ligament." @neumannKinesiologyMusculoskeletalSystem2017 
+
+"The popliteus has been long recognized as a general static stabilizer of the knee in a partial squat position. This proposed action, which has been advanced by studies using indwelling and surface EMG electrodes, may assist the posterior cruciate ligament in resisting a forward slide of the femur relative to the tibia when holding a partial-squat position." @neumannKinesiologyMusculoskeletalSystem2017
+
+
+"The popliteus is a triangular muscle located deep to the gastrocnemius within the popliteal fossa (see Fig. 13.9). By a strong intracapsular tendon, the popliteus attaches proximally to the lateral condyle of the femur, between the lateral collateral ligament and the lateral meniscus (see Figs. 13.8 and 13.12). Just inferior to the knee joint, fibers from the tendon of the popliteus connect to the adjacent posterior edge of the lateral meniscus and to the head of the fibula (via the popliteofibular ligament; see Fig. 13.8).198 More distally, the popliteus has an extensive attachment to the posterior side of the tibia." @neumannKinesiologyMusculoskeletalSystem2017 
+
+"The popliteus originates from the lateral femoral condyle near the LCL. The muscle has several attachments, including the lateral aspect of the lateral femoral condyle, the posteromedial aspect of the head of the fibula, and the posterior horn of the lateral meniscus.1 The larger base of this triangular muscle inserts obliquely into the posterosuperior part of the tibia above the soleal line. The muscle has several important functions, including the reinforcement of the posterior third of the lateral capsular ligament and the unlocking of the knee during flexion from terminal knee extension.1 It performs the latter task by internally rotating the tibia on the femur (a good example of an arcuvial muscle), preventing impingement of the posterior horn of the lateral meniscus by drawing it posteriorly, and, with the PCL, preventing a posterior glide of the tibia. Since knee joint injury frequently involves some component of transverse-plane rotation and the popliteus muscle has been described as an important, primary, dynamic, transverse-plane, rotatory knee joint stabilizer, an understanding of its function in relation to other P-L knee joint structures is important.32 Attached to the popliteus tendon is the popliteofibular ligament, which forms a strong attachment to the popliteal tendon and the fibula. This ligament adds to P-L stability. A medial portion of the popliteus penetrates the joint, becoming intracapsular with the lateral meniscus. This part of the popliteus tendon is pain sensitive, and an injury here can often mimic a meniscal injury on the lateral aspect of the joint line. Differentiation between these two lesions can be elucidated with the reproduction of pain with resisted flexion in an extended and externally rotated position of the tibia if the popliteus is involved." @duttonDuttonOrthopaedicExamination2020 

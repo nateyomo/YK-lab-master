@@ -1,0 +1,87 @@
+---
+title: "Copper [Cu]"
+sidebar: "physiology"
+---
+
+# Overview
+- Copper(Cu) is the 26th element in abundance in the crust of the earth @collinsCopper2011.
+- 29th periodic element
+- 2 stable and 9 radioactive isotopes @collinsCopper2011
+
+# Macro clinical perspective
+- Cu is only needed in only trace amounts in humans. Total Cu in the body is >100 mg @collinsCopper2011. The skeleton and muscles account for 1/2 of the Cu in the body @collinsCopper2011.
+
+- Most Cu in the body exists copper almost always exists in biological systems bound to proteins @collinsCopper2011. Free copper in cells and in the body is extremely low @collinsCopper2011
+- High [Cu] is related to metabolic activity of organs @collinsCopper2011. Kidney and liver have the highest [Cu], followed by the brain (~5 µg/g), then the heart @collinsCopper2011.
+
+# Copper metabolism
+## Copper absorption
+- Copper absorption is considerably higher than for that of other trace elements (~55-75%) @collinsCopper2011
+
+- Relative amount of copper in the diet seems to be inversely correlated with percent intestinal absorption @collinsCopper2011. Percent absorption increases during states of deficiency @collinsCopper2011.
+- Copper absorption occurs mainly in the upper small intestine @collinsCopper2011
+
+## Copper Bioavailability
+- Dietary factors (i.e. iron, vitamin C, and Zinc) have been reported to exert adverse effects on the bioavailability of copper @collinsCopper2011
+
+- Other factors impact Copper's bioavailability, such as lead poisoning, hemochromatosis, and excessive ingestion of soft drinks @collinsCopper2011
+
+# Function
+Through copper's enzymes (Multi-copper oxidases) copper has the unique ability to convert O~2~ into H~2~O without producing oxidative “exhaust” @vashchenkoMulticopperOxidasesHuman2013. This allows our bodies to manage O~2~ without being negatively affected by its toxic and highly reactive nature @vashchenkoMulticopperOxidasesHuman2013
+
+## Metabolic Functions
+Copper plays a crucial role in energy transformation in the body @collinsCopper2011. Copper impacts this process by acting as a cofactor for cytochrome c oxidase (Terminal enzyme in the electron transport chain) @collinsCopper2011
+
+## Iron utilization
+Copper is important in the normal utilization of iron in the body @collinsCopper2011. From Intestinal iron absorption, iron release from stores (e.g. in macrophages of liver and spleen), iron incorporation into hemoglobin, and even preventing anemia @collinsCopper2011.
+
+## Vascular function
+- Blood coagulation is assisted by copper @collinsCopper2011. 
+- Blood pressure control @collinsCopper2011
+- Cross-linking of connective tissues in arteries @collinsCopper2011
+
+## Cardiac function
+- Cross-linking of CT in heart @collinsCopper2011
+
+## Skeleton
+- Cross-linking of CT in bones @collinsCopper2011
+
+## Oxidative damage defense
+- Defense against oxidative damage @collinsCopper2011
+
+## Myelination
+- Myelination of brain and spinal cord @collinsCopper2011
+
+## Reproduction
+- Copper has a function in reproduction @collinsCopper2011
+
+## Hormone synthesis
+- Copper plays a role in hormone synthesis @collinsCopper2011
+
+# Multi-Copper Oxidases (MCOs)
+3 Multi-Copper oxidases have been detected in humans: @vashchenkoMulticopperOxidasesHuman2013
+
+1. Ceruloplasmin @vashchenkoMulticopperOxidasesHuman2013
+2. Hephaestin @vashchenkoMulticopperOxidasesHuman2013
+3. Zyklopen @vashchenkoMulticopperOxidasesHuman2013
+
+All 3 of these enzymes  have a high specificity towards iron with the resulting ferroxidase activity being associated with ferroportin (the only known iron exporter protein in humans.) @vashchenkoMulticopperOxidasesHuman2013
+
+
+
+Ferroportin exports iron as Fe2+, but transferrin, the major iron transporter protein of blood, can bind only Fe3+ effectively. Iron oxidation in enterocytes is mediated mainly by hephaestin thus allowing dietary iron to enter the bloodstream @vashchenkoMulticopperOxidasesHuman2013
+
+## Ceruloplasmin
+Function: Release of iron from the liver relies on ferroportin and the ferroxidase activity of ceruloplasmin which is found in blood in a soluble form @vashchenkoMulticopperOxidasesHuman2013
+
+## Hephaestin
+Iron oxidation in enterocytes is mediated mainly by hephaestin thus allowing dietary iron to enter the bloodstream @vashchenkoMulticopperOxidasesHuman2013
+
+## Zyklopen
+Zyklopen is involved in iron efflux from placental trophoblasts during iron transfer from mother to fetus @vashchenkoMulticopperOxidasesHuman2013
+
+
+
+# References {-}
+::: {#refs}
+:::

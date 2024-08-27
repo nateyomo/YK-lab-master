@@ -1,0 +1,11 @@
+---
+title: Vascular Endothelial Growth Factor (VEGF)
+---
+
+
+
+
+# Overview
+
+- Represents a growth factor with pro-angiogenic activity, with mitogenic and anti apoptotic effect on endothelial cells, increasing the vascular permeability, promoting cell migration @melincoviciVascularEndothelialGrowth2018
+- Regulates normal and pathological angiogenic (growth of blood vessels) processes @melincoviciVascularEndothelialGrowth2018

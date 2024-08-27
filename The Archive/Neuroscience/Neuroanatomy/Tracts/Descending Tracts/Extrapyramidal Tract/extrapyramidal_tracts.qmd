@@ -1,0 +1,17 @@
+---
+title: Extrapyramidal Tracts
+---
+
+
+There are 4 extrapyramidal tracts:
+
+- [Rubrospinal Tract]({{< var ref-rubrospinal-tract.path >}}) @blumenfeldNeuroanatomyClinicalCases2022
+- [Vestibulospinal tracts (VSTs)]({{< var ref-vestibulospinal-tract.path >}}) @blumenfeldNeuroanatomyClinicalCases2022
+    - [Medial VST]({{< var ref-vestibulospinal-tract.medial >}}) @blumenfeldNeuroanatomyClinicalCases2022
+    - [Lateral VST]({{< var ref-vestibulospinal-tract.lateral >}})  @blumenfeldNeuroanatomyClinicalCases2022
+- [Reticulospinal tracts]({{< var ref-reticulospinal-tract.path >}})  @blumenfeldNeuroanatomyClinicalCases2022
+- [Tectospinal tracts]({{< var ref-tectospinal-tract.path >}}) @blumenfeldNeuroanatomyClinicalCases2022
+
+:::{.callout-note}
+All of these tracts besides the Rubrospinal tract are [medial motor systems]({{< var ref-medial-motor-systems.path >}}) @blumenfeldNeuroanatomyClinicalCases2022
+:::

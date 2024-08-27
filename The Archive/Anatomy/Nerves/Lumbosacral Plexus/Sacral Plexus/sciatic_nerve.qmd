@@ -1,0 +1,44 @@
+---
+title: Sciatic Nerve
+---
+
+
+# Roots
+
+# Pathway
+
+# Motor innervation
+
+## Direct Branches
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "sciatic_nerve"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Sciatic n. Direct Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+- Semitendinosus @gilroyAtlasAnatomy2020
+- Semimembranosus @gilroyAtlasAnatomy2020
+- Biceps femoris (long head) @gilroyAtlasAnatomy2020
+- Adductor magnus (medial part) @gilroyAtlasAnatomy2020
+
+# Cutaneous Innervation
+
+# Dysfunction

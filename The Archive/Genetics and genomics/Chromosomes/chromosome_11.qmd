@@ -1,0 +1,6 @@
+---
+title: Chromosome 11
+---
+
+
+"It is not possible, however, to exclude all influence of the nuclear genome in the suppression of tumorigenicity. Saxon and co-workers showed that the microcell transfer of Chromosome 11 suppressed tumorigenicity in HeLa cells (Saxon et al., 1986). They suggested that a tumor suppressor gene could be present on Chromosome 11. These findings also suggest an interaction between Chromosome 11 and mitochondria (Seyfried, 2012d). Is it possible that a gene on Chromosome 11 facilitates mitochondrial respiration thus suppressing tumorigenicity in the HeLa cells? (Seyfried, 2012d). It is also interesting that defects on Chromosome 11 have been associated with the Wilms kidney tumor and with childhood neuroblastoma. Further studies will be needed to determine if tumorigenic suppression involves interactions between mitochondrial respiration and genes on Chromosome 11." @seyfriedCancerMitochondrialMetabolic2015.

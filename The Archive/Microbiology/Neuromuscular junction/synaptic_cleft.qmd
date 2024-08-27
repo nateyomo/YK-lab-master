@@ -1,0 +1,22 @@
+---
+title: Synaptic Cleft
+---
+
+:::{.callout title="AKA"}
+
+- Synaptic Space @hallGuytonHallTextbook2021
+- Synaptic Cleft @hallGuytonHallTextbook2021
+:::
+
+![Electron micrographic appearance of the contact point between a single axon terminal and the muscle fiber membrane @hallGuytonHallTextbook2021](/The Archive/Physiology/Muscle/images/fig7.1c hallGuytonHallTextbook2021.png)
+
+The synaptic cleft refers to the space between the terminal and the fiber membrane @hallGuytonHallTextbook2021.
+The synaptic cleft is 20 to 30 nanometers wide @hallGuytonHallTextbook2021.
+
+
+
+# Role in Excitation
+
+![ACh being released into the synapti cleft after nerve depolarization @hallGuytonHallTextbook2021](/The Archive/Physiology/Muscle/images/fig7.2 hallGuytonHallTextbook2021.png)
+
+When the nerve is excited, ACh is released into the synaptic cleft @hallGuytonHallTextbook2021.

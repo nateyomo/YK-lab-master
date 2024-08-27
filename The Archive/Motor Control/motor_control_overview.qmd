@@ -1,0 +1,35 @@
+---
+title: Motor control (Overview)
+---
+
+Motor control is defined as the underlying substrates of neural, physical, and behavioral aspects of movement @osullivanImprovingFunctionalOutcomes2016
+
+Subtypes:
+
+- Reactive motor control: Movements are adapted in response to ongoing feedback (e.g., muscle stretch causes an increase in muscle contraction in response to a forward weight shift) @osullivanImprovingFunctionalOutcomes2016
+- Proactive (anticipatory) motor control: Movements are adapted in advance of ongoing movements via feedforward mechanisms (e.g., the postural adjustments made in preparation for catching a heavy, large ball) @osullivanImprovingFunctionalOutcomes2016.
+
+
+# Terminology
+
+- Motor plan: an idea or plan for purposeful movement that is made up of component motor programs
+- Motor program: an abstract representation that, when initiated, results in the production of a coordinated movement sequence @osullivanImprovingFunctionalOutcomes2016
+- [Motor learning]({{< var ref-motor-learning.path >}}): a set of internal processes associated with feedback or practice leading to relatively permanent changes in the capability for motor skill @osullivanImprovingFunctionalOutcomes2016
+- [Motor recovery]({{< var ref-motor-recovery.path >}}): the reacquisition of movement skills lost through injury Schema: a set of rules, concepts, or relationships formed on the basis of experience @osullivanImprovingFunctionalOutcomes2016
+- [Schema]({{< var ref-schema.path >}}): serve to provide a basis for movement decisions and are stored in memory for the reproduction of movement @osullivanImprovingFunctionalOutcomes2016
+    - [Recall schema]({{< var ref-recall-schema.path >}}): the relationship among past parameters, past initial conditions, and the movement outcomes produced by these combinations @osullivanImprovingFunctionalOutcomes2016
+    - [Recognition schema]({{< var ref-recognition-schema.path >}}): the relationship among past initial conditions, past movement outcomes, and the sensory consequences produced by these combinations  @osullivanImprovingFunctionalOutcomes2016
+- Task analysis: a process of determining the underlying abilities and structure of a task or occupation @osullivanImprovingFunctionalOutcomes2016
+- Task organization: how the components of a task are interrelated or interdependent @osullivanImprovingFunctionalOutcomes2016
+    - Low organization: Task components are relatively independent @osullivanImprovingFunctionalOutcomes2016.
+    - High organization: Task components are highly interrelated @osullivanImprovingFunctionalOutcomes2016.
+
+
+# Motor recovery
+
+[Motor recovery]({{< var ref-motor-recovery.path >}}) refers to the reacquisition of movement skills lost through injury @osullivanImprovingFunctionalOutcomes2016.
+
+# Motor Compensation
+
+[Motor compensation]({{< var ref-motor-compensation.path >}}) differs from motor recovery since refers to changing motor plans instead of regaining old methods.
+[Motor compensation]({{< var ref-motor-compensation.path >}}) refers to the performance of an old movement in a new manner that can be achieved through [adaptive compensation]({{< var ref-adaptive-compensation.path >}}) or [behavioral substitution]({{< var ref-behavioral-substitution.path >}}) @osullivanImprovingFunctionalOutcomes2016.

@@ -1,0 +1,143 @@
+---
+title: Approaches to Neurorehabilitation
+---
+
+# Incorporation into practice
+
+Contemporary practice combines:
+
+1. The Remedial/ Restorative Approach
+2. The Functional/ Adaptive/ Compensatory Approach
+
+Education:
+
+- Education on what deficits are
+- Which should be performed with assistance, supervision
+
+Feedback:
+
+- Feedback is essential
+- Teach family how to provide verbal cueing and feedback
+- Bandwidth feedback
+- Eliminate knowledge of performance, just give knowledge of results 
+
+Environment:
+
+- Setting up the environment
+- Changing the environment
+
+Patient autonomy:
+
+- Allowing pt to have a role in decision making!!!!
+
+Impact of managed care:
+
+- We do not have time to address all underlying processes
+- Educate, be creative and resourceful
+
+
+# Different Approaches
+## Retraining Approach {#retraining-approach}
+
+The retraining approach @osullivanPhysicalRehabilitation2019
+
+- Improving underlying skills the pt has lost (NOT a function) @osullivanPhysicalRehabilitation2019
+    - Skills will transfer over to function (practice pegs a bunch of times, later you should be able to grab items)  @osullivanPhysicalRehabilitation2019
+- Transfer of training approach → practice on one task with cognitive/perceptual req’s will enhance other tasks with similar perceptual demands @osullivanPhysicalRehabilitation2019.
+- Assume: skills learned for one task can generalize to others @osullivanPhysicalRehabilitation2019.
+- No specific practice done with the actual task trying you are to improve, instead practice is w/ specifically selected perceptual exercises @osullivanPhysicalRehabilitation2019.
+
+
+## Sensory integrative approach {#sensory-integrative-approach}
+
+- Eyres developed theory to explain relation between neural functioning and behavior of children w sensorimotor/learning problems @osullivanPhysicalRehabilitation2019
+- Production of desired motor responses facilitate sensory integration, which enhances ability to produce higher level behaviors @osullivanPhysicalRehabilitation2019.
+- Assumption of Treatment: by offering opportunities for controlled sensory input, therapist can promote normal CNS processing of sensory info, and elicit a specific motor response @osullivanPhysicalRehabilitation2019.
+- Controlled sensory input of sensory info followed by a desired motor response in order to integrate sensations provided by the PT @osullivanPhysicalRehabilitation2019.
+
+Indication:
+
+- Adults @osullivanPhysicalRehabilitation2019
+    - Highly debated for adults @osullivanPhysicalRehabilitation2019
+    - Adults: includes handling or directed sensory stimulation for a desired motor response @osullivanPhysicalRehabilitation2019
+    - In isolation does not work well for adults @osullivanPhysicalRehabilitation2019
+- USED AND fairly effective in children @osullivanPhysicalRehabilitation2019
+    - Introduce sensation to give sensations meaning to the child @osullivanPhysicalRehabilitation2019
+
+
+:::{.callout title="Example"}
+Visual, auditory, tactile, changing body position, 
+:::
+
+
+## Neurofunctional Approach (#neurofunctional-approach)
+
+- Based on principles of skill (higher level ) learning theories
+- NO transfer of training
+- Practice every day in its true context in order to recover function
+- Learning by DOING
+    - No matter what it looks like, learn from mistakes
+    - Just do it 
+- Real world TASKS not processes
+- Compensatory skills taught if effort do not justify gains
+
+
+## Rehabilitative / Compensatory (functional) Approach {#rehabilitative-compensatory-functional-approach}
+
+- MOST WIDELY USED for adults w/ perceptual deficits
+- Direct repetitive practice of specific functional skills that are impaired
+- Address the functional problem OVER AND ABOVE THE treatment of its underlying cause
+- Educate pt on deficits, provide external cueing and REPEAT
+- Give them what they need to make it successful
+- Compensation and adaptation
+- May have limitations in transfer of techniques to other tasks bc underlying causes not being addressed
+- Person must have some baseline level of cognition in order to understand their deficit → bc big part is education on this deficit
+- Provide whatever they need to eliminate deficit, and REPEAT
+    - ie) strength deficit
+
+:::{.callout title="R hip abd weakness"}
+
+1. Give walker
+1. Teach them how to use it
+1. Repeat
+
+(don't do clamshells, or treat impairment) 
+:::
+
+:::{.callout title="Compensation example (patient approach)"}
+
+Teach pt w/ left visual field cut to look left, scan room, give instructions or cues to remember after making them aware of deficit
+:::
+
+:::{.callout title="Adaptation example (environmental alteration)"}
+
+Patient with L/R Discrimination deficits
+
+Place red tape on all right shoes
+:::
+
+## Cognitive Rehabilitation and the Quadraphonic Approach {#quadraphonic-approach}
+
+- Cognition, not all motor
+- Train pt how to structure and organize the info
+- Encourage SELF ASSESSMENT 
+    - Why and how did u do it that way?
+    - Ask about their response
+    - THEY ARE INVOLVED in thinking part of mvmt
+    - Metacognition
+- Address memory, high language disorders, info processing, problem solving, awareness, judgment, decision making, perceptual dysfunction
+- Multi context treatment approach to cognition
+    - Dynamic interplay between characteristics of the pt , the task and the environment of which it is performed
+
+
+Strategies:
+
+- Analyze characteristics of task to determine if transfer of training occurred
+- Interventions inc pt self awareness , promote self assessment
+- Relate new info or skills to previously learned ones
+- Use the multiple environments to enhance transfer of training
+
+Quadraphonic approach:
+- Takes cognitive rehab model (and some of neurofunctional approach) and expands it
+- HOLISTIC perspective
+- Therapist can apply both micro and macro perspectives for eval/treatemtn

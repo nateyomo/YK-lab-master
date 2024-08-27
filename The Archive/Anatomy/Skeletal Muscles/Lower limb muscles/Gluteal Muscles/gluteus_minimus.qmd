@@ -1,0 +1,54 @@
+---
+title: Gluteus Minimus Muscle
+---
+
+
+# Overview
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "gluteus_minimus"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Gluteus Minimus Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Origin {#origin}
+
+Ilium (gluteal surface below the origin of gluteus medius) @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+
+Greater trochanter of the femur (anterolateral surface) @gilroyAtlasAnatomy2020
+
+
+# Innervation {#innervation}
+
+The gluteus maximus muscle is innervated by nerve roots [L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), and [S1]({{< var ref-nerve-root.s1 >}}), via the [Superior gluteal nerve]({{< var ref-superior-gluteal-nerve.path >}})  @gilroyAtlasAnatomy2020
+
+
+
+# Action {#action}
+
+- Entire muscle: abducts the hip, stabilizes the pelvis in the coronal plane @gilroyAtlasAnatomy2020
+- Anterior fibers: flexion and internal rotation @gilroyAtlasAnatomy2020 
+- Posterior fibers: extension and external rotation @gilroyAtlasAnatomy2020 
+
+ 
+
+

@@ -1,0 +1,158 @@
+---
+title: Reliability
+---
+
+Reliability relates to the extent of variability and error inherent
+in a measurement and can be interpreted as the extent to which measurements can be replicated @kooGuidelineSelectingReporting2016.
+Reliability reflects not only degree of correlation but also agreement between measurements @kooGuidelineSelectingReporting2016.
+
+
+Reliability is NOT the same as [validity]({{< var ref-validity.path >}})
+
+"in order to improve reliability, attempts must be made to remove random error" @simMeasurementValidityPhysical1993
+
+# Significance of Reliability
+
+1. One cannot be confident in the results of a scale with poor reliability @streinerReliabilityStatisticsCommentarySeries2016a.
+
+:::{.callout title="Example of Poor reliability"}
+
+- If a person’s score is 10 on 1 occasion and 15 on another (again assuming the person has not changed) @streinerReliabilityStatisticsCommentarySeries2016a
+- If 1 rater gives a score of 7 and another a score of 12, we wouldn’t be sure which, if either, score is correct @streinerReliabilityStatisticsCommentarySeries2016a.
+- Similarly, if the items of a scale are not related to each other, we would not be sure just what it is that the scale is measuring (assuming that the scale is measuring a homogeneous construct) @streinerReliabilityStatisticsCommentarySeries2016a.
+:::
+
+# Misconceptions
+
+Reliability is sometimes used synonymously with ‘precision,’‘agreement,’ and ‘repeatability,’ but these are  misslabeling the concept @streinerReliabilityStatisticsCommentarySeries2016a.
+
+
+# Non-mathematical explanation
+
+Reliability is made up of 2 parts: Correlation and Agreement.
+:::{layout-ncol="2"}
+### Correlation
+
+- Correlation refers to the fact that there is a pattern between results.
+- For example, results iwth high correlation would mean that Test 2 is always greater than test 1.
+    - Or Test 2 is always slightly smaller than test 1.
+
+### Agreement
+
+- Agreement quantifies the *magnitude* of difference from Test 1 and Test 2.
+- It does not indicate whether the results follow a similar pattern, but how much they differ from eachother.
+
+
+:::
+
+# Calculation
+
+Reliability is the proportion of the total variance ($\sigma_Total^2$) in scores that is due to differences among people @streinerReliabilityStatisticsCommentarySeries2016a.
+
+$$
+Reliability = \frac{\sigma_s^2}{\sigma_s^2 + \sigma_e^2} = \frac{\sigma_s^2}{\sigma_Total^2}
+$$
+
+| Symbol | Meaning |
+|-|-|
+| $\sigma_s^2$ | Subject variability [@streinerReliabilityStatisticsCommentarySeries2016a; @gisevInterraterAgreementInterrater2013] |
+| $\sigma_e^2$ | Measurement error [@streinerReliabilityStatisticsCommentarySeries2016a;@gisevInterraterAgreementInterrater2013] |
+| $\sigma_Total^2$ | Total variance [@streinerReliabilityStatisticsCommentarySeries2016a;@gisevInterraterAgreementInterrater2013] |
+
+
+:::{.callout-note}
+- Terms such as ‘precision,’‘agreement,’ and ‘repeatability’ focus solely on the fact that the error term should be as small as possible @streinerReliabilityStatisticsCommentarySeries2016a.
+- These terms ignore the fact that reliability also depends on the variability among people @streinerReliabilityStatisticsCommentarySeries2016a.
+:::
+
+:::{.callout-note title="Subject variability implications"}
+
+- If there is no variability between participants ( $\sigma_s^2$ ) then $\sigma_s^2 = 0$ the reliability is 0 @streinerReliabilityStatisticsCommentarySeries2016a.
+    - The reliability of a scale reflects its ability to differentiate among people and if it cannot, then the reliability is 0 and the scale is useless @streinerReliabilityStatisticsCommentarySeries2016a.
+- Another implication about $\sigma_s^2$ is that reliability is not a fixed property, but rather dependent on the sample being studied.
+    - Reliability is is very dependent on the sample in which it is determined @streinerReliabilityStatisticsCommentarySeries2016a.
+    - Example: Applying a depression scale to ER patients vs outpatient psychiatric patients
+        - The ER Patients would consist of people who have very low depression to extremely high depression (suicidally depressed) @streinerReliabilityStatisticsCommentarySeries2016a.
+            - This sample has a very high patient variability ( $\sigma_s^2$ ) and thus a higher reliability score @streinerReliabilityStatisticsCommentarySeries2016a
+        - The outpatient psychiatric patients would likely have moderate levels of depression (those with high depression would be administered to a hospital) @streinerReliabilityStatisticsCommentarySeries2016a.
+            - Thus there will be low patient variability ($\sigma_s^2$) and the reliability will be lower @streinerReliabilityStatisticsCommentarySeries2016a.
+:::
+
+# Types of Reliability
+
+:::{layout-ncol="3"}
+
+### Inter-rater Reliability
+
+- [Inter-rater reliability (IRR)]({{< var ref-inter-rater.reliability >}}): Consistency of a measure assessed by multiple raters
+
+### Inter-rater Agreement
+
+[Inter-rater agreement (IRA)]({{< var ref-inter-rater.agreement >}}) measures the variation in results of a test when performed by *different* assessors on the same patient at the same time point.
+
+### Intra-rater Reliability
+
+[Intra-rater reliability]({{< var ref-reliability.intrarater >}}) measures the variation of results of an assessor across multiple time points.
+
+### Test-Retest Reliability
+
+[Test-Retest Reliability]({{< var ref-reliability.test-retest >}}) measures the reliability of the *instrument* across multiple time points.
+
+### Internal Consistency
+
+- [Internal Consistency]({{< var ref-reliability.internal-consistency >}})
+
+:::
+
+# Reliability Coefficients
+
+:::{.callout title="Outdated measures of reliability" collapse="true"}
+
+- Historically, Pearson correlation coefficient, paired t test, and Bland-Altman plot have been used to evaluate reliability @kooGuidelineSelectingReporting2016.
+- These tests only measure correlation and disregard variance, thus are  are nonideal measures of reliability @kooGuidelineSelectingReporting2016.
+:::
+
+
+Common reliability statistics include:
+
+- [Percent agreement]({{< var ref-reliability.percent-agreement >}})
+- [Kappa Coefficient]({{< var ref-reliability.kappa-coefficient >}})
+- [Krippenndorff's Alpha]({{< var ref-reliability.kriffindorffs-alpha >}})
+- [Cronbach's Alpha]({{< var ref-reliability.cronbachs-alpha >}})
+- [Correlation Coefficient]({{< var ref-correlation-coefficient.path >}})
+- [Intra-Class Correlation Coefficient]({{< var ref-reliability.icc >}})
+
+
+
+
+
+# Scoring {#scoring}
+
+Values range from 0.00 (not reliable) to 1.00 (perfectly reliable) 
+
+| Score | Reliability |
+|-|-|
+| 0.00 – 0.20 | Poor |
+| 0.21 – 0.40 | Fair |
+| 0.41 – 0.60 | Moderate |
+| 0.61 – 0.80 | Good |
+| 0.81 – 1.00 | Excellent |
+
+: "Rule of thumb" Quick interpretation of reliability {.striped .hover}
+
+For reliability measures, the confidence interval defines a range in which the true coefficient lies with a given probability @zapfMeasuringInterraterReliability2016
+
+For a result to show that reliability is better than chance at a confidence level of 95%, the lower limit of the CI must be above 0.6 @zapfMeasuringInterraterReliability2016.
+
+
+# Interpretation
+
+:::{.callout title="How High Should Reliability be?"}
+How high should reliability be? 
+
+- Scales used in new, underdeveloped research areas should have a minimum reliability of 0.70 @streinerReliabilityStatisticsCommentarySeries2016a.
+- Scales coming from mature areas of research, the minimum is 0.80 @streinerReliabilityStatisticsCommentarySeries2016a.
+- and if the scale is to be used for clinical purposes the minimum is 0.90 @streinerReliabilityStatisticsCommentarySeries2016a.
+:::
+
+*Poor-moderate reliability are not good for clinical decision making since you are likely to get a different result everytime you test your patient, regardless of status

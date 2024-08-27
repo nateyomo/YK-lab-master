@@ -1,0 +1,62 @@
+---
+title: Vertebrobasilar Insufficiency Test
+---
+
+A test to rule in [vertebrobasilar insufficiency (VBI)]({{< var ref-VBI-vertebrobasilar-insufficiency.path >}})
+
+
+# When should you screen?
+According to Dutton (2020) @duttonDuttonOrthopaedicExamination2020, there is a low risk of iatrogenic stroke when applying passive therapeutic maneuvers to the cervical spine @duttonDuttonOrthopaedicExamination2020.
+Thus this passive screening as well as AROM screening is recommended prior to any therapeutic maneuver, especially cervical HVLATs @duttonDuttonOrthopaedicExamination2020. 
+
+# Technique
+
+- Begin with patient sitting
+- Instruct the patient to rotate the head to each side @duttonDuttonOrthopaedicExamination2020
+
+:::{.callout-note}
+If the patient becomes dizzy during rotation; it is sometimes possible to implicate or exclude the vestibular apparatus of the inner ear as the source of dizziness.
+
+Simply have the patient stand and perform relative end-range head rotation by turning their body while the clinician holds the head steady @duttonDuttonOrthopaedicExamination2020.
+Since this is relative head rotation, the semicircular canals are not disturbed and if the patients symptoms are recreated then you can rule out vestibular involvement @duttonDuttonOrthopaedicExamination2020.
+:::
+
+## Factors to consider during testing
+
+1. Inherent redundancy of blood supply—collateral circulation @duttonDuttonOrthopaedicExamination2020
+2. Morphology of the vertebral artery at the atlantoaxial level 
+3. Biomechanics of upper cervical spine—concurrent contralateral side bending with cervical rotation @duttonDuttonOrthopaedicExamination2020 
+4. The nonvascular causes of dizziness (cervicogenic dizziness and benign paroxysmal positional vertigo) @duttonDuttonOrthopaedicExamination2020 
+5. The amount of cervical rotation to be used @duttonDuttonOrthopaedicExamination2020 
+6. Medical history (transient ischemic attack, cerebrovascular accident, cardiac risk factors, cervical spondylosis) @duttonDuttonOrthopaedicExamination2020 
+7. Psychometric properties of vertebral artery testing (0% sensitivity) @duttonDuttonOrthopaedicExamination2020 
+8. Force to be applied 9. Potential risk of injury with manipulation (thrust, rotational techniques vs. nonthrust, nonrotational techniques) @duttonDuttonOrthopaedicExamination2020
+
+## Grading 
+A positive VA test is one in which signs or symptoms change @duttonDuttonOrthopaedicExamination2020. 
+Even subtle changes such as a significant delay in verbal responses to questions of orientation with some inconsistency of answers, changes in pupil size, and nystagmus are all considered positive VBI tests @duttonDuttonOrthopaedicExamination2020.
+
+# What to do after a Positive result?
+Patients who demonstrate symptoms associated with VBI should be referred to the PCP for further investigation @duttonDuttonOrthopaedicExamination2020.
+
+In theory, a clinician should even refer patients with a negative subjective history and negative findings with the initial test for additional passive physical examination (stress tests) of the vertebrobasilar system to further assess the potential for VBI, but this is not always practical @duttonDuttonOrthopaedicExamination2020.
+
+## What if I am uncertain if my patient has VBI 
+If the VBI test is negative and the patient is not experiencing symptoms, but you are still concerned about your patient, here are the steps you should take. You should avoid Grade V mobilizations (HVLAT) @duttonDuttonOrthopaedicExamination2020. One should introduce the application of incrementally greater movements and loads or investigate VA flow using Doppler sonography or an magnetic resonance arthrogram (MRA) scan before performing a grade V technique in the cervical spine @duttonDuttonOrthopaedicExamination2020.
+The clinician should consider avoiding placing the patient’s cervical spine in the extremes of rotation and side bending in both the examination and the subsequent intervention, which would obviate the need for these tests @duttonDuttonOrthopaedicExamination2020.
+
+## What if I still want to perform a cervical mobilization?
+First, you should opt for a grade I-IV mob rather than a grade V thrust technique @duttonDuttonOrthopaedicExamination2020.
+One should follow the Australian Physiotherapy Association’s Protocol for Premanipulative Testing of the Cervical Spine (although this cannot be viewed as a prescriptive guideline) @duttonDuttonOrthopaedicExamination2020.
+
+- Australian Physiotherapy Association’s Protocol recommends that the clinician should maintain the immediate premobilization position for >=10sec to test the patency of the vertebrobasilar system @duttonDuttonOrthopaedicExamination2020.
+- Clinical testing for VBI should stop once (+) signs or symptoms are noted @duttonDuttonOrthopaedicExamination2020.
+- Throughout the tests, one should observe for possible nystagmus or changes in pupil size and should have the patient count backward to assess his or her quality of speech @duttonDuttonOrthopaedicExamination2020.
+- The patient should be instructed to report any changes in symptoms (even seemingly insignificant changes) @duttonDuttonOrthopaedicExamination2020.
+
+
+::: {.callout-caution}
+The sensitivity of these premanipulative protocols are unclear @duttonDuttonOrthopaedicExamination2020. 
+Multiple studies have found these protocols to have a poor prediction values @duttonDuttonOrthopaedicExamination2020.
+:::
+

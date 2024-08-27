@@ -1,0 +1,73 @@
+---
+title: Intertransversarii Muscle
+---
+
+# OIAN
+
+![Posterior view of the deep segmental back muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/images/313b Deep intrinsic back muscles.png)
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Anterior Intertransversarii cervices]({{< var ref-anterior-intertransversarii-cervices.path >}}) | {{< var ref-anterior-intertransversarii-cervices.origin >}} | {{< var ref-anterior-intertransversarii-cervices.insertion >}} | {{< var ref-anterior-intertransversarii-cervices.nerve >}} | {{< var ref-anterior-intertransversarii-cervices.action >}} |
+| [Posterior Intertransversarii Cervices]({{< var ref-posterior-intertransversarii-cervices.path >}}) | {{< var ref-posterior-intertransversarii-cervices.origin >}} | {{< var ref-posterior-intertransversarii-cervices.insertion >}} | {{< var ref-posterior-intertransversarii-cervices.nerve >}} | {{< var ref-posterior-intertransversarii-cervices.action >}} |
+| [Medial Intertransversarii Lumbora]({{< var ref-medial-intertransversarii-lumbora.path >}}) | {{< var ref-medial-intertransversarii-lumbora.origin >}} | {{< var ref-medial-intertransversarii-lumbora.insertion >}} | {{< var ref-medial-intertransversarii-lumbora.nerve >}} | {{< var ref-medial-intertransversarii-lumbora.action >}} |
+| [Lateral Interspinales Lumbora]({{< var ref-interspinales-lumbora.path >}}) | {{< var ref-interspinales-lumbora.origin >}} | {{< var ref-interspinales-lumbora.insertion >}} | {{< var ref-interspinales-lumbora.nerve >}} | {{< var ref-interspinales-lumbora.action >}} |
+
+: Intertransversarii Muscles OIAN {.striped .hover}
+
+# Anterior Intertransversarii cervices
+## Origin {#origin}
+C2-C7: Anterior tubercles of inferiorly adjacent vertebrae @gilroyAtlasAnatomy2020
+
+## Insertion {#insertion} 
+C2-C7: Anterior tubercles of superiorly adjacent vertebrae @gilroyAtlasAnatomy2020
+
+## Innervation {#innervation}
+[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
+
+## Action {#action}
+- **BIL**: Stabilizes and extends cervical and lumbar vertebrae @gilroyAtlasAnatomy2020
+- **UNIL**: I/L SB cervical and lumbar spines @gilroyAtlasAnatomy2020
+
+# Posterior Intertransversarii Cervices
+## Origin {#origin}
+C2-C7: Posterior tubercles of inferiorly adjacent vertebrae @gilroyAtlasAnatomy2020
+
+## Insertion {#insertion} 
+C2-C7: Posterior tubercles of superiorly adjacent vertebrae @gilroyAtlasAnatomy2020
+
+## Innervation {#innervation}
+[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
+
+## Action {#action}
+- **BIL**: Stabilizes and extends cervical and lumbar vertebrae @gilroyAtlasAnatomy2020
+- **UNIL**: I/L SB cervical and lumbar spines @gilroyAtlasAnatomy2020
+
+
+# Medial Intertransversarii Lumbora 
+## Origin {#origin}
+L1-L5: Mammillary process of inferiorly adjacent vertebrae @gilroyAtlasAnatomy2020
+
+## Insertion {#insertion} 
+C2-C7: Mammillary process of superiorly adjacent vertebrae @gilroyAtlasAnatomy2020
+
+## Innervation {#innervation}
+[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
+
+## Action {#action}
+- **BIL**: Stabilizes and extends cervical and lumbar vertebrae @gilroyAtlasAnatomy2020
+- **UNIL**: I/L SB cervical and lumbar spines @gilroyAtlasAnatomy2020
+
+# Lateral Intertransversarii Lumbora
+## Origin {#origin}
+L1-L5: TP of inferiorly adjacent vertebrae @gilroyAtlasAnatomy2020
+
+## Insertion {#insertion} 
+C2-C7: TP of superiorly adjacent vertebrae @gilroyAtlasAnatomy2020
+
+## Innervation {#innervation}
+[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
+
+## Action {#action}
+- **BIL**: Stabilizes and extends cervical and lumbar vertebrae @gilroyAtlasAnatomy2020
+- **UNIL**: I/L SB cervical and lumbar spines @gilroyAtlasAnatomy2020

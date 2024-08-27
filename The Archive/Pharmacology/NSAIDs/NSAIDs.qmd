@@ -1,0 +1,20 @@
+---
+title: Non-steroidal anti-inflammatory drugs (NSAIDs)
+---
+
+# Types
+
+- Naproxen Sodium: Aleve
+
+# Side Effects
+
+- Atrial Flutter or Fibrillation @schmidtNonsteroidalAntiinflammatoryDrug2011
+
+
+
+"NSAID use in pain-free individuals with healthy muscle reduces regenerative capacities,2,3 mitochondrial function,8 and protein synthesis9 of the exercised skeletal muscle in response to exercise, leading to reduced muscle growth and performance adaptations" @shahidiAnalgesicMedicationUse2021
+
+
+# Impaired Exercise Adaptation
+
+"Several mechanisms have been proposed to explain impairments in the adaptive response to exercise after NSAID and opioid use. In NSAIDs, there is a reduction in satellite cell differentiation,3 a process that is essential for muscle regeneration. There is also inhibition of cyclooxygenase activity, which is thought to be necessary for muscle growth, and, lastly, attenuation of mitochondrial function,8 which reduces endurance capacity of muscle. In human studies, the influence of NSAIDs is less clear. In healthy older adults, NSAIDs protected against inflammation-induced muscle weakness and age-related muscle loss,13 despite no improvement in muscle size.14 Opioids are known to decrease corticospinal excitability15,16 and increase exercise-induced central fatigue through intracortical inhibition,17 which could have a substantial effect on motor drive and muscle activation during exercise. Remarkably, however, the specific impact of opioids, muscle relaxants, and central nervous system inhibitors on muscle physiology is largely unknown.18,19" @shahidiAnalgesicMedicationUse2021

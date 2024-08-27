@@ -1,0 +1,37 @@
+---
+title: Pronator Quadratus
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Pronator Quadratus]({{< var ref-pronator-quadratus.path >}}) | {{< var ref-pronator-quadratus.origin >}} | {{< var ref-pronator-quadratus.insertion >}} | {{< var ref-pronator-quadratus.nerve >}} | {{< var ref-pronator-quadratus.action >}} |
+: {.striped .hover}
+
+
+
+# Origin {#origin}
+
+Distal 1/4 of ulna (anterior surface) @gilroyAtlasAnatomy2020
+
+
+# Insertion {#insertion}
+
+Distal ¼ of radius (anterior surface) @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+[Anterior Interosseous N.]({{< var ref-anterior-interosseous-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **Forearm**: Pronation @gilroyAtlasAnatomy2020
+- **Distal RU**: Stabilization @gilroyAtlasAnatomy2020
+
+
+
+
+
+# Notes

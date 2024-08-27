@@ -1,0 +1,85 @@
+---
+title: Muscles of the Head and Neck
+---
+
+## Muscles of Facial Expression
+
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|----------|--------|-------|-----|--------|
+| **Calvaria** | | | | |
+| [Occipitofrontalis (Frontal belly)]({{< var ref-occipitofrontalis.path >}}) | {{< var ref-occipitofrontalis.origin >}} | {{< var ref-occipitofrontalis.insertion >}} | {{< var ref-occipitofrontalis.nerve >}} | {{< var ref-occipitofrontalis.action >}} |
+| **Palpebral Fissure and Nose** | | | | |
+| [Procerus]({{< var ref-procerus.path >}}) | {{< var ref-procerus.origin >}} | {{< var ref-procerus.insertion >}} | {{< var ref-procerus.nerve >}} | {{< var ref-procerus.action >}} |
+| [Orbicularis Oculi]({{< var ref-orbicularis-oculi.path >}}) | {{< var ref-orbicularis-oculi.origin >}} | {{< var ref-orbicularis-oculi.insertion >}} | {{< var ref-orbicularis-oculi.nerve >}} | {{< var ref-orbicularis-oculi.action >}} |
+| [Nasalis]({{< var ref-nasalis.path >}}) | {{< var ref-nasalis.origin >}} | {{< var ref-nasalis.insertion >}} | {{< var ref-nasalis.nerve >}} | {{< var ref-nasalis.action >}} |
+| [Levator Labii superioris alaeque nasi]({{< var ref-levator-labii-superioris-alaeque-nasi.path >}}) | {{< var ref-levator-labii-superioris-alaeque-nasi.origin >}} | {{< var ref-levator-labii-superioris-alaeque-nasi.insertion >}} | {{< var ref-levator-labii-superioris-alaeque-nasi.nerve >}} | {{< var ref-levator-labii-superioris-alaeque-nasi.action >}} |
+| **Ear** | | | | |
+| [Anterior Auricular Muscle]({{< var ref-anterior-auricular-muscle.path >}}) | {{< var ref-anterior-auricular-muscle.origin >}} | {{< var ref-anterior-auricular-muscle.insertion >}} | {{< var ref-anterior-auricular-muscle.nerve >}} | {{< var ref-anterior-auricular-muscle.action >}} |
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Superior Auricular Muscle]({{< var ref-superior-auricular-muscle.path >}}) | {{< var ref-superior-auricular-muscle.origin >}} | {{< var ref-superior-auricular-muscle.insertion >}} | {{< var ref-superior-auricular-muscle.nerve >}} | {{< var ref-superior-auricular-muscle.action >}} |
+| [Posterior Auricular Muscle]({{< var ref-posterior-auricular-muscle.path >}}) | {{< var ref-posterior-auricular-muscle.origin >}} | {{< var ref-posterior-auricular-muscle.insertion >}} | {{< var ref-posterior-auricular-muscle.nerve >}} | {{< var ref-posterior-auricular-muscle.action >}} |
+| **Mouth** | | | | |
+| [Zygomaticus major]({{< var ref-zygomaticus-major.path >}}) | {{< var ref-zygomaticus-major.origin >}} | {{< var ref-zygomaticus-major.insertion >}} | {{< var ref-zygomaticus-major.nerve >}} | {{< var ref-zygomaticus-major.action >}} |
+| [Zygomaticus Minor]({{< var ref-zygomaticus-minor.path >}}) | {{< var ref-zygomaticus-minor.origin >}} | {{< var ref-zygomaticus-minor.insertion >}} | {{< var ref-zygomaticus-minor.nerve >}} | {{< var ref-zygomaticus-minor.action >}} |
+| [Levator Labii superioris alaeque nasi]({{< var ref-levator-labii-superioris-alaeque-nasi.path >}}) | {{< var ref-levator-labii-superioris-alaeque-nasi.origin >}} | {{< var ref-levator-labii-superioris-alaeque-nasi.insertion >}} | {{< var ref-levator-labii-superioris-alaeque-nasi.nerve >}} | {{< var ref-levator-labii-superioris-alaeque-nasi.action >}} |
+| [Levator Labii superioris]({{< var ref-levator-labii-superioris.path >}}) | {{< var ref-levator-labii-superioris.origin >}} | {{< var ref-levator-labii-superioris.insertion >}} | {{< var ref-levator-labii-superioris.nerve >}} | {{< var ref-levator-labii-superioris.action >}} |
+| [Depressor labii inferioris]({{< var ref-depressor-labii-inferioris.path >}}) | {{< var ref-depressor-labii-inferioris.origin >}} | {{< var ref-depressor-labii-inferioris.insertion >}} | {{< var ref-depressor-labii-inferioris.nerve >}} | {{< var ref-depressor-labii-inferioris.action >}} |
+| [Levator Anguli Oris]({{< var ref-levator-anguli-oris.path >}}) | {{< var ref-levator-anguli-oris.origin >}} | {{< var ref-levator-anguli-oris.insertion >}} | {{< var ref-levator-anguli-oris.nerve >}} | {{< var ref-levator-anguli-oris.action >}} |
+| [Depressor Anguli Oris]({{< var ref-depressor-anguli-oris.path >}}) | {{< var ref-depressor-anguli-oris.origin >}} | {{< var ref-depressor-anguli-oris.insertion >}} | {{< var ref-depressor-anguli-oris.nerve >}} | {{< var ref-depressor-anguli-oris.action >}} |
+| [Buccinator]({{< var ref-buccinator.path >}}) | {{< var ref-buccinator.origin >}} | {{< var ref-buccinator.insertion >}} | {{< var ref-buccinator.nerve >}} | {{< var ref-buccinator.action >}} |
+| [Orbicularis Oris]({{< var ref-orbicularis-oris.path >}}) | {{< var ref-orbicularis-oris.origin >}} | {{< var ref-orbicularis-oris.insertion >}} | {{< var ref-orbicularis-oris.nerve >}} | {{< var ref-orbicularis-oris.action >}} |
+| [Risorius]({{< var ref-risorius.path >}}) | {{< var ref-risorius.origin >}} | {{< var ref-risorius.insertion >}} | {{< var ref-risorius.nerve >}} | {{< var ref-risorius.action >}} |
+| [Mentalis muscle]({{< var ref-mentalis-muscle.path >}}) | {{< var ref-mentalis-muscle.origin >}} | {{< var ref-mentalis-muscle.insertion >}} | {{< var ref-mentalis-muscle.nerve >}} | {{< var ref-mentalis-muscle.action >}} |
+| **Neck** | | | | |
+| [Platysma muscle]({{< var ref-platysma.path >}}) | {{< var ref-platysma.origin >}} | {{< var ref-platysma.insertion >}} | {{< var ref-platysma.nerve >}} | {{< var ref-platysma.action >}} |
+
+: Muscles of Facial Expression OIAN {.striped .hover}
+
+
+
+::: {.callout-note collapse="true"}
+# Innervation {#innervation}
+
+*There are no bony insertions for the muscles of facial expression @gilroyAtlasAnatomy2020
+
+**All muscles of facial expression are innervated by the facial nerve (CN VII) via temporal, zygomatic, buccal, mandibular, or cervical branches arising from the parotid plexus @gilroyAtlasAnatomy2020
+:::
+
+## Muscles of Mastication
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|----------|--------|-------|-----|--------|
+| [Masseter muscle]({{< var ref-masseter.path >}}) | {{< var ref-masseter.origin >}} | {{< var ref-masseter.insertion >}} | {{< var ref-masseter.nerve >}} | {{< var ref-masseter.action >}} |
+| [Temporalis muscle]({{< var ref-temporalis.path >}}) | {{< var ref-temporalis.origin >}} | {{< var ref-temporalis.insertion >}} | {{< var ref-temporalis.nerve >}} | {{< var ref-temporalis.action >}} |
+| [Lateral Pterygoid]({{< var ref-lateral-pterygoid.path >}}) | {{< var ref-lateral-pterygoid.origin >}} | {{< var ref-lateral-pterygoid.insertion >}} | {{< var ref-lateral-pterygoid.nerve >}} | {{< var ref-lateral-pterygoid.action >}} |
+| [Medial Pterygoid]({{< var ref-medial-pterygoid.path >}}) | {{< var ref-medial-pterygoid.origin >}} | {{< var ref-medial-pterygoid.insertion >}} | {{< var ref-medial-pterygoid.nerve >}} | {{< var ref-medial-pterygoid.action >}} |
+: Muscles of Mastication OIAN {.striped .hover}
+
+
+## Muscles of the Neck
+
+### Superficial Neck Muscles
+
+- Platysma
+- Sternocleidomastoid
+- Trapezius
+
+### Nuchal muscles (Intrinsic back muscles)
+
+| Muscle  | Origin  | Insertion | Nerve | Action |
+|--------|----------|-----------|-------|--------|
+| [Semispinalis Capitis]({{< var ref-semispinalis-capitis.path >}}) | {{< var ref-semispinalis-capitis.origin >}} | {{< var ref-semispinalis-capitis.insertion >}} | {{< var ref-semispinalis-capitis.nerve >}} | {{< var ref-semispinalis-capitis.action >}} |
+| [Semispinalis Cervicis]({{< var ref-semispinalis-cervicis.path >}}) | {{< var ref-semispinalis-cervicis.origin >}} | {{< var ref-semispinalis-cervicis.insertion >}} | {{< var ref-semispinalis-cervicis.nerve >}} | {{< var ref-semispinalis-cervicis.action >}} |
+|[Splenius Capitis]({{< var ref-splenius-capitis.path >}}) | {{< var ref-splenius-capitis.origin >}} | {{< var ref-splenius-capitis.insertion >}} | {{< var ref-splenius-capitis.nerve >}} | {{< var ref-splenius-capitis.action >}} |
+|[Splenius Cervicis]({{< var ref-splenius-cervicis.path >}}) | {{< var ref-splenius-cervicis.origin >}} | {{< var ref-splenius-cervicis.insertion >}} | {{< var ref-splenius-cervicis.nerve >}} | {{< var ref-splenius-cervicis.action >}} |
+| [Longissimus Capitis]({{< var ref-longissimus-capitis.path >}}) | {{< var ref-longissimus-capitis.origin >}} | {{< var ref-longissimus-capitis.insertion >}} | {{< var ref-longissimus-capitis.nerve >}} | {{< var ref-longissimus-capitis.action >}} |
+| [Longissimus Cervicis]({{< var ref-longissimus-cervicis.path >}}) | {{< var ref-longissimus-cervicis.origin >}} | {{< var ref-longissimus-cervicis.insertion >}} | {{< var ref-longissimus-cervicis.nerve >}} | {{< var ref-longissimus-cervicis.action >}} |
+| [Iliocostalis cervicis]({{< var ref-iliocostalis-cervicis.path >}}) | {{< var ref-iliocostalis-cervicis.origin >}} | {{< var ref-iliocostalis-cervicis.insertion >}} | {{< var ref-iliocostalis-cervicis.nerve >}} | {{< var ref-iliocostalis-cervicis.action >}} |
+| [Rectus Capitis Posterior Major]({{< var ref-rectus-capitis-posterior-major.path >}}) | {{< var ref-rectus-capitis-posterior-major.origin >}} | {{< var ref-rectus-capitis-posterior-major.insertion >}} | {{< var ref-rectus-capitis-posterior-major.nerve >}} | {{< var ref-rectus-capitis-posterior-major.action >}} |
+|[Rectus Capitis Posterior Minor]({{< var ref-rectus-capitis-posterior-minor.path >}}) | {{< var ref-rectus-capitis-posterior-minor.origin >}} | {{< var ref-rectus-capitis-posterior-minor.insertion >}} | {{< var ref-rectus-capitis-posterior-minor.nerve >}} | {{< var ref-rectus-capitis-posterior-minor.action >}} |
+| [Obliquus Capitis Superior]({{< var ref-obliquus-capitis-superior.path >}}) | {{< var ref-obliquus-capitis-superior.origin >}} | {{< var ref-obliquus-capitis-superior.insertion >}} | {{< var ref-obliquus-capitis-superior.nerve >}} | {{< var ref-obliquus-capitis-superior.action >}} |
+| [Obliquus Capitis Inferior]({{< var ref-obliquus-capitis-inferior.path >}}) | {{< var ref-obliquus-capitis-inferior.origin >}} | {{< var ref-obliquus-capitis-inferior.insertion >}} | {{< var ref-obliquus-capitis-inferior.nerve >}} | {{< var ref-obliquus-capitis-inferior.action >}} |
+
+: Nuchal muscles (Intrinsic back muscles) {.striped .hover}

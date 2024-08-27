@@ -1,0 +1,19 @@
+---
+title: Zygoapophyseal Joint
+---
+
+- Also known as
+    - Z-joint
+
+
+# Cervical Z-Joints
+
+## Dysfunction
+
+### Z-joint irritation {#z-joint-irritation}
+
+Tests for irritation
+
+- [Cervical Distraction Test]({{< var ref-cervical-distraction-test.path >}})
+
+

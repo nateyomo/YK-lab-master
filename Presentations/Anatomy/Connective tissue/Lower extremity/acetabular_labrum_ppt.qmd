@@ -1,0 +1,53 @@
+---
+title: "Acetabular Labrum"
+format: revealjs
+---
+
+<!--
+Hip Labrum
+
+What is it 
+What is it made of
+Function
+Dysfunction / injury
+Anterior tear
+Posterior tear
+
+Treatment goals
+- biomech?
+- bloodflow?
+- strengthening stabilizers?
+- 
+
+How does it heal
+vascularity?
+
+rehabilitation
+
+CPG
+
+-->
+
+
+## Overview
+
+
+
+## Histology
+
+
+## Anatomy
+
+## Examination
+
+## Special tests
+
+@reimanDiagnosticAccuracyClinical2015 
+
+
+# Rehabilitation
+
+## Surgery vs Physical therapy
+
+- Hip Arthroscopy Versus Physical Therapy for the Treatment of Symptomatic Acetabular Labral Tears in Patients Older Than 40 Years: A Randomized Controlled Trial @martinHipArthroscopyPhysical2021 
+

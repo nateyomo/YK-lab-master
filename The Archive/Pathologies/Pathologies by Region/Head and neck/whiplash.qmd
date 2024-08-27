@@ -1,0 +1,108 @@
+---
+title: Whiplash Associated Disorders (WAD)
+---
+
+# Overview
+
+Sudden acceleration-deceleration mechanism of energy transfer to the neck.
+May result from rear-end or side impact (did not include front impact) of MVC but can also occur through diving and other mishaps. Impact may result in bony or soft tissue injuries, which in term may lead to a variety or clinical manifestations
+
+
+# Etiology
+
+- Motor vehicle accident (MVA)
+- Sporting injuries involving a blow to the head or neck, or a heavy landing
+- Pulls and thrusts on the arms
+- Falls, landing on the trunk or shoulder
+
+- MVA
+- Sports w blow to head
+- etc
+
+# Pathophysiology
+
+# Classification
+
+## Hyperextension injury
+
+- Trunk is forced upward relative to the head 
+- C/S undergoes sigmoid (S-shaped) deformation. Head is moved upward and backward
+- Vertebral bodies separate anteriorly and zygapophyseal joint impact posteriorly
+
+
+## Hyperflexion injury
+
+
+- Damaged incurred by cervical side-bending traumas depending on whether the head hits and object or the shoulder
+
+:::{.callout-note}
+Hyperflexion injuries are generally less severe than hyperexten sion due to amount of head excursion limited by chin striking chest
+:::
+
+
+# Symptom sources
+
+- Soft tissue structures
+- Joint capsule & ligaments
+- Zygapophyseal joint
+- Central or peripheral neurologic systems
+- Intervertebral disc
+- Posterior (dorsal) root ganglia
+- Vascular structures (VB artery)
+- Visceral structures
+
+# Symptoms
+
+- Mechanism of onset linked to trauma
+or whiplash
+- Shoulder girdle or UE pain (referred)
+- Nonspecific concussive s/sx
+- Dizziness/nausea
+- HA, concentration or memory
+difficulties, confusion
+- Hypersensitivity to mechanical,
+thermal, acoustic, odor or light stimuli
+- Heightened affective distress
+
+# Examination
+
+- C/S AROM
+- [CRLF Test]({{< var ref-cervical-rotation-lateral-flexion-test.path >}})
+- Upper cervical segment mobility testing
+- (+) Cranial cervical flexion test
+
+- Palpation
+    - Point tenderness may include myofascial trigger points
+- Sensorimotor impairments:
+    - Altered muscle activation patterns
+    - Proprioceptive deficits
+    - Postural balance or control
+
+Pain examination:
+
+- Pressure Pain sensitivity:
+    - (+) Pressure algometry
+- Referred pain: Neck and referred pain reproduced by provocation of the involved cervical segments
+- ROM
+    - Pain with mid-range motion that is worse at end-range
+
+Muscular impairments
+
+- Weak neck flexor mm endurance test
+- Strength and endurance deficits of neck mm
+
+
+
+
+# Acute Management
+
+- Return to normal, non provocative pre-accident activities ASAP
+- Minimize use of C-collar
+- Postural and mobility exercises to decrease pain and increase ROM
+- Recovery expected 2-3 months
+
+# Chronic Management
+
+- Pt education and focus on reassurance, encouragement, prognosis and pain management
+- Mobilization combined with individualized, progressive submax exercise program
+including CT strengthening, endurance, flexibility and coordination using principles of CBT

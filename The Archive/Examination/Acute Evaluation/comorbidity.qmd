@@ -1,0 +1,10 @@
+---
+title: Comorbidity
+---
+
+
+
+# Tests and measures
+
+validated Charlson index was used to determine the degree of comorbidity @celliBodymassIndexAirflow2004 
+

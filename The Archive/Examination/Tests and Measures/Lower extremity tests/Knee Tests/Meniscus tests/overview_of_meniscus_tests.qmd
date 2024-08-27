@@ -1,0 +1,29 @@
+---
+title: Overview of Meniscus Tests
+---
+
+
+
+# Psychometrics
+
+## Adult Patients
+
+| Test  | [Sensitivity]({{< var ref-psychometric.sensitivity >}}) | [Specificity]({{< var ref-psychometric.specificity >}}) |
+|-|-|-|
+| [McMurray's Test]({{< var ref-meniscus.test.mcmurrays.path >}}) | {{< var ref-meniscus.test.mcmurrays.sens >}} @hegedusPhysicalExaminationTests2007 | {{< var ref-meniscus.test.mcmurrays.spec >}} @hegedusPhysicalExaminationTests2007 |
+| [Apley's Test]({{< var ref-meniscus.test.apleys.path >}}) | {{< var ref-meniscus.test.apleys.sens >}} @hegedusPhysicalExaminationTests2007 | {{< var ref-meniscus.test.apleys.spec >}} @hegedusPhysicalExaminationTests2007 |
+| [Thessaley's Test]({{< var ref-meniscus.test.thessalys.path >}}) | {{< var ref-meniscus.test.thessalys.sens >}} | {{< var ref-meniscus.test.thessalys.spec >}} |
+| [Joint Line Palpation]({{< var ref-meniscus.test.joint-line-palpation.path >}}) | {{< var ref-meniscus.test.joint-line-palpation.sens >}} @hegedusPhysicalExaminationTests2007 | {{< var ref-meniscus.test.joint-line-palpation.spec >}} @hegedusPhysicalExaminationTests2007 |
+
+: Psychometric Properties of Different Meniscus Tests {.striped .hover}
+
+
+## Pediatric Patients
+
+| Test  | [Sensitivity]({{< var ref-psychometric.sensitivity >}}) | [Specificity]({{< var ref-psychometric.specificity >}}) | [PPV]({{< var ref-psychometric.predictive-value.positive >}}) | [NPV]({{< var ref-psychometric.predictive-value.negative >}}) | 
+|-|-|-|-|-|
+| [McMurray's Test]({{< var ref-meniscus.test.mcmurrays.path >}}) | {{< var ref-meniscus.test.mcmurrays.pediatric.sens >}} | {{< var ref-meniscus.test.mcmurrays.pediatric.spec >}} | {{< var ref-meniscus.test.mcmurrays.pediatric.ppv >}} | {{< var ref-meniscus.test.mcmurrays.pediatric.npv >}} |
+| [Apley's Test]({{< var ref-meniscus.test.apleys.path >}}) | {{< var ref-meniscus.test.apleys.pediatric.sens >}} | {{< var ref-meniscus.test.apleys.pediatric.spec >}} | | |
+| [Thessaley's Test]({{< var ref-meniscus.test.thessalys.path >}}) | {{< var ref-meniscus.test.thessalys.pediatric.sens >}} | {{< var ref-meniscus.test.thessalys.pediatric.spec >}} | | |
+| [Joint Line Palpation]({{< var ref-meniscus.test.joint-line-palpation.path >}}) | {{< var ref-meniscus.test.joint-line-palpation.pediatric.sens >}} | {{< var ref-meniscus.test.joint-line-palpation.pediatric.spec >}} | | |
+: Psychometric validity of Meniscus Tests for Pediatric patients {.striped .hover}

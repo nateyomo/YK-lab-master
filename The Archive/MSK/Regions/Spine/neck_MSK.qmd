@@ -1,0 +1,345 @@
+---
+title: Musculoskeletal Mechanics of the Neck and Head
+---
+
+
+# Anatomy
+
+## Muscles
+
+Superficial layer:
+
+- Traps
+- SCM
+- Lev scap
+- Rhomboids
+- scalenes
+
+Deeper layer:
+
+- Splenius capitis
+- Semispinalis Capitis
+- Longissimus Capitis
+
+Deepest layer: 
+
+- Links cervical and thoracic vertebrae
+
+<details>
+
+| Muscle  | Origin  | Insertion | Nerve | Action |
+|--------|----------|-----------|-------|--------|
+|[Splenius Cervicis]({{< var ref-splenius-cervicis.path >}}) | {{< var ref-splenius-cervicis.origin >}} | {{< var ref-splenius-cervicis.insertion >}} | {{< var ref-splenius-cervicis.nerve >}} | {{< var ref-splenius-cervicis.action >}} |
+| [Semispinalis Cervicis]({{< var ref-semispinalis-cervicis.path >}}) | {{< var ref-semispinalis-cervicis.origin >}} | {{< var ref-semispinalis-cervicis.insertion >}} | {{< var ref-semispinalis-cervicis.nerve >}} | {{< var ref-semispinalis-cervicis.action >}} |
+| [Longissimus Cervicis]({{< var ref-longissimus-cervicis.path >}}) | {{< var ref-longissimus-cervicis.origin >}} | {{< var ref-longissimus-cervicis.insertion >}} | {{< var ref-longissimus-cervicis.nerve >}} | {{< var ref-longissimus-cervicis.action >}} |
+
+: Deepest Layer OIAN {.striped .hover}
+</details>
+
+## Intervertebral Disc (IVD)
+
+- 5x discs in C/S @duttonDuttonOrthopaedicExamination2020
+- First IVD between C2 and 3 @duttonDuttonOrthopaedicExamination2020
+
+:::{.callout-note}
+Named after vert above it @duttonDuttonOrthopaedicExamination2020
+:::
+
+The main dysfunction at the IVD is a [herniation]({{< var ref-cervical-disc-herniation.path >}})
+
+# Kinematics
+
+## Head Flexion
+
+**Osteokinematics**: Flexion: 45-50 deg
+
+**Arthrokinematics**:
+
+- Initial phase: begins in low c spine(C4-7) , 
+- Second phase: occurs initially in C0-2 then c2-3, C3-4
+
+- Flexion is described as an anterior osteokinematic rock (tilt) of the superior vertebra in the sag- ittal plane, a superoanterior glide of both superior facets of the zygapophyseal joints, and an anterior translation slide of the superior vertebra on the IVD
+- Uncovertebral joint: anterior spin @duttonDuttonOrthopaedicExamination2020
+
+Restriction: Anterior osteokinematic motion restricted by: PLL, interspinous, lig flavum, and extensor mm
+
+## Head Extension
+
+<details>
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Rectus Capitis Posterior Major]({{< var ref-rectus-capitis-posterior-major.path >}}) | {{< var ref-rectus-capitis-posterior-major.origin >}} | {{< var ref-rectus-capitis-posterior-major.insertion >}} | {{< var ref-rectus-capitis-posterior-major.nerve >}} | {{< var ref-rectus-capitis-posterior-major.action >}} |
+|[Rectus Capitis Posterior Minor]({{< var ref-rectus-capitis-posterior-minor.path >}}) | {{< var ref-rectus-capitis-posterior-minor.origin >}} | {{< var ref-rectus-capitis-posterior-minor.insertion >}} | {{< var ref-rectus-capitis-posterior-minor.nerve >}} | {{< var ref-rectus-capitis-posterior-minor.action >}} |
+| [Obliquus Capitis Superior]({{< var ref-obliquus-capitis-superior.path >}}) | {{< var ref-obliquus-capitis-superior.origin >}} | {{< var ref-obliquus-capitis-superior.insertion >}} | {{< var ref-obliquus-capitis-superior.nerve >}} | {{< var ref-obliquus-capitis-superior.action >}} |
+| [Obliquus Capitis Inferior]({{< var ref-obliquus-capitis-inferior.path >}}) | {{< var ref-obliquus-capitis-inferior.origin >}} | {{< var ref-obliquus-capitis-inferior.insertion >}} | {{< var ref-obliquus-capitis-inferior.nerve >}} | {{< var ref-obliquus-capitis-inferior.action >}} |
+| [Sternocleidomastoid]({{< var ref-sternocleidomastoid.path >}}) | {{< var ref-sternocleidomastoid.origin >}} | {{< var ref-sternocleidomastoid.insertion >}} | {{< var ref-sternocleidomastoid.nerve >}} | {{< var ref-sternocleidomastoid.action >}} |
+
+: {.striped .hover}
+</details>
+
+Arthrokinematics:
+
+- Posterior osteokinematic sagittal rock, an inferoposterior glide and approximation of the superior facets of the zygapophyseal joints, and a posterior translation of the vertebra on the disk.
+- Uncovertebral joint undergoes a posterior arthrokinematic spin
+osteokinematic motion of extension is restricted by anterior prevertebral mm and ALL
+
+## Head Lateral SB
+
+Osteokinematics: Side bend: 40 deg
+
+:::{.callout-note}
+Sidebending: closer to 75 in supine because of hte muscles that limit SB with gravity: traps, scalenes, SCM (all are more lengthened in standing/sitting bc gravity pulling at insertions)(Harper 2023)
+:::
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Sternocleidomastoid]({{< var ref-sternocleidomastoid.path >}}) | {{< var ref-sternocleidomastoid.origin >}} | {{< var ref-sternocleidomastoid.insertion >}} | {{< var ref-sternocleidomastoid.nerve >}} | {{< var ref-sternocleidomastoid.action >}} |
+| I/L SB | | | | |
+| [Obliquus Capitis Superior]({{< var ref-obliquus-capitis-superior.path >}}) | {{< var ref-obliquus-capitis-superior.origin >}} | {{< var ref-obliquus-capitis-superior.insertion >}} | {{< var ref-obliquus-capitis-superior.nerve >}} | {{< var ref-obliquus-capitis-superior.action >}} |
+: {.striped .hover}
+
+Arthrokinematics
+
+- Superoanterior glide of contra superior facet
+posteroinferior glide of ipsi facet
+- C/L translation of vertebra on disk
+- Inferomedial glide of ipsi uncovertebral joint, superolateral glide of contral uncovertebral joint
+Limited by contra scalenes, intertransverse ligs, facet jt motions limited by joint capsule and translation limited by IVD
+
+
+## Head rotation
+
+Rotation 70-90 deg
+Virtually all rotation in UPPER C/S occurs between Atlas & Axis
+
+
+<details>
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| C/L head rotators | | | | |
+| [Obliquus Capitis Superior]({{< var ref-obliquus-capitis-superior.path >}}) | {{< var ref-obliquus-capitis-superior.origin >}} | {{< var ref-obliquus-capitis-superior.insertion >}} | {{< var ref-obliquus-capitis-superior.nerve >}} | {{< var ref-obliquus-capitis-superior.action >}} |
+| [Sternocleidomastoid]({{< var ref-sternocleidomastoid.path >}}) | {{< var ref-sternocleidomastoid.origin >}} | {{< var ref-sternocleidomastoid.insertion >}} | {{< var ref-sternocleidomastoid.nerve >}} | {{< var ref-sternocleidomastoid.action >}} |
+| I/L Head Rotators | | | | |
+| [Rectus Capitis Posterior Major]({{< var ref-rectus-capitis-posterior-major.path >}}) | {{< var ref-rectus-capitis-posterior-major.origin >}} | {{< var ref-rectus-capitis-posterior-major.insertion >}} | {{< var ref-rectus-capitis-posterior-major.nerve >}} | {{< var ref-rectus-capitis-posterior-major.action >}} |
+|[Rectus Capitis Posterior Minor]({{< var ref-rectus-capitis-posterior-minor.path >}}) | {{< var ref-rectus-capitis-posterior-minor.origin >}} | {{< var ref-rectus-capitis-posterior-minor.insertion >}} | {{< var ref-rectus-capitis-posterior-minor.nerve >}} | {{< var ref-rectus-capitis-posterior-minor.action >}} |
+| [Obliquus Capitis Inferior]({{< var ref-obliquus-capitis-inferior.path >}}) | {{< var ref-obliquus-capitis-inferior.origin >}} | {{< var ref-obliquus-capitis-inferior.insertion >}} | {{< var ref-obliquus-capitis-inferior.nerve >}} | {{< var ref-obliquus-capitis-inferior.action >}} |
+
+: {.striped .hover}
+</details>
+
+### Arthrokinematics
+
+
+
+Muscles:
+Global neck mm: SCM and semispinalis capitis and splenius captius
+Local neck: longus captius and colli, semispinalis cervicis, multifidus
+longus colli and post neck mm for a sleeve that supports spinal segments during mvmt
+
+:::{.callout-tip}
+*same as sidebending motions
+:::
+
+
+
+## Coupled Motion
+
+- C0-C2: Opposite
+- C3-T3: Same
+- T4-L5: opposite
+
+:::{.callout-note}
+Coupled motion has been observed to change with age
+:::
+
+
+# Joints
+
+
+## OA Joint
+
+[Occipitoatlanto joint]({{< var ref-occipitoatlanto-joint.path >}})
+
+OA joint
+Hypermobility is considered a diagnosis
+If range of rotation exceeds 8 degrees → stability testing necessary
+
+
+## AA Joint
+
+[Atlantoaxial joint]({{< var ref-atlantoaxial-joint.path >}})
+
+Pure axial rotation
+60% of total rotation in CS is here
+
+
+
+# Kinematics
+
+## Flexion
+
+Greatest at lower C/S (C5-C6)
+
+Least flexion at C2,3
+
+
+## Extension
+
+
+
+## Rotation
+
+AA Joint performs pure axialrotation
+
+Rotation and SB are [coupled motions](#coupled-motion)
+
+
+## Lateral flexion (SB)
+Rotation and SB [coupled motions](#coupled-motion)
+
+
+
+## Coupled motion {#coupled-motion}
+
+Upper c spine: Sb and rotation — type 1 motion, OPPOSITE MOTION
+Regardless of posture
+Mid cervical: c3-c7
+Same direction
+More type 1 motion: Changes in couple patterns 
+
+
+:::{.callout-tip title="Clinical signifiance"}
+
+- If c spine motion is limited w sb and rotation to same side
+- 0 mid/lower c facet is suspected (restriction) 
+- Assess A/PROM
+- Soft tissue
+:::
+
+# Posture
+
+Cervical Lordosis
+
+- C4/5 is midpoint of curve
+- COG for skull is ant to foramen magnum
+
+
+
+# Dysfunction
+
+## Vestibular and Visual symptoms
+
+- Upper c spine has more connections to vestib and visual systems than low c spine
+- So upper c spine dysfunction can cause more balance/visual disturbances
+
+
+## Sensorimotor control
+
+
+:::{.callout-tip}
+Wearing a hard collar for 5 days has been shown to lead to altered eye mvmt control, increased postural sway and disturbed head neck awareness in healthy people @kristjanssonSensorimotorFunctionDizziness2009
+
+:::
+
+
+# Examination
+
+## Screening
+
+
+:::{.callout title="Canada C-spine rules"}
+
+- Age >= 65
+- Dangerous mech: 
+    - Fall from >=3 feet or 5 stairs
+    - Axial load to head (ie diving)
+    - MVC high speed >= 100 km/hr, 60 mph
+    - Bike collision w object
+    - Motorized rec vehicles
+- <= 45 deg of rotation
+- New onset of neural sx (paresthesias in extremities)
+:::
+
+Warning signs of cervical region:
+
+- Subjective
+    - Unexplained weight loss
+    - SB away from painful  side that causes pain (if this is the only motion causing pain)
+    - Evidence of compromise of 2-3 spinal nerve roots
+- Pain
+    - Gradual inc in pain
+    - Expansion of pain in terms of the regions involved
+    - Arm pain in pt younger than 35 or pt for more than 6 months
+- ROM: Spasms w PROM
+- Motor
+    - painful/weak resistive testing
+    - Limited scapular elevation
+    - T1 palsy (weakness / atrophy of the intrinsic mm of hand)
+- Visual disturbances
+- Hoarseness
+- Horner syndrome–
+- VBI and cervical myelopathy 
+
+## ROM
+
+- Upper C/S isolate rotation
+    - Cervical rotation Full Flexion
+
+
+## Special Tests
+
+- [VBI Test]({{< var ref-VBI-vertebrobasilar-insufficiency-test.path >}})
+- [Sharp-Purser Test]({{< var ref-sharp-purser-test.path >}})
+- [Alar Ligament Test]({{< var ref-alar-ligament-test.path >}})
+- Tectorial Membrane integrity
+- [Spurling's Test]({{< var ref-spurlings-test.path >}})
+- TOS
+    - [Allen's Maneuver]({{< var ref-tos-allen-maneuver.path >}}) (*should be performed before other TOS tests*)
+    - [CRLF Test (Lindgren's test)]({{< var ref-cervical-rotation-lateral-flexion-test.path >}})
+    - [Adson's Test]({{< var ref-tos-adsons-vascular-test.path >}}) (TOS)
+    - [ROOS Test]({{< var ref-tos-roos-stress-test.path >}})
+- Canadian C-Spine Rules
+
+
+## Provocative tests
+
+- Disk herniation
+- Vertebral end plate fracture
+- Vertebral body fracture 
+
+
+
+
+## Cervical Radiculopathy
+
+Wainner et al 2003 Cervical radiculoapthy diagnostic tests
+
+- Positive ULTT1 (median nerve) 
+- Involved sign cervical rotation range of motion < 60 deg
+ Positive distraction test
+- Positive spurlings test
+- 4/4 = 99 % specific, 30 x more likely to have cervical radiculopathy
+- ¾ = 94% specific, 6 x more likely to have cervical radiculopathy 
+
+
+# DDX
+
+Reproduction of Pain with Cervical Distraction
+
+- Spinal lig tear
+- Annulus fibrosis (AF) Tear or inflammation
+- Mm spasm
+- Large disk herniation
+- Dural irritability
+
+Compression
+
+- Arthritis
+- Nerve root irritation
+- Herniation
+- Vert end plate fx
+- vertebral body fx
+
+Bearing down
+
+- Reproduction of pain = C/s herniation

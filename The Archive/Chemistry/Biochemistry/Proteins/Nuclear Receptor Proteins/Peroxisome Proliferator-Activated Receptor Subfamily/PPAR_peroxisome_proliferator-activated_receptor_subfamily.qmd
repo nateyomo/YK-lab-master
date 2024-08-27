@@ -1,0 +1,25 @@
+---
+title: Peroxisome Proliferator-Activated Receptor Subfamily (PPAR)
+---
+
+PPAR-&alpha;, PPAR-&delta;, PPAR-&gamma; are ligand-activated transcription factors of the PPAR nuclear receptor superfamily that function to regulate metabolic homeostasis of the cell @kokenyPPARgTGFvMajorRegulators2021
+
+- Subfamily of nuclear receptors
+- PPARs form heterodimers with retinoid X receptors (RXRs) and these heterodimers regulate transcription of various genes
+
+# Subtypes
+
+There are three known subtypes:
+
+1. PPAR-alpha
+1. PPAR-delta
+1. PPAR-gamma
+
+## PPAR-&gamma;
+
+PPAR-&gamma; has 3 primary functions
+
+1. Regulate anabolism of the adipose tissue @kokenyPPARgTGFvMajorRegulators2021
+1. Important role in glucose metabolism @kokenyPPARgTGFvMajorRegulators2021
+1. Important role in cardiac development @kokenyPPARgTGFvMajorRegulators2021
+

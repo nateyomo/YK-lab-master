@@ -1,0 +1,34 @@
+---
+title: Triangular Fibrocartilage Complex (TFCC)
+---
+
+Connects
+
+
+
+# Dysfunction
+
+
+
+# Clinical Presentation
+
+
+
+## Etiology
+
+## Subjective
+
+- Location of pain
+
+
+# Examination
+
+:::{layout-ncol="3"}
+### Palpation
+Palpate at the ulnocarpal joint to palpate the TFCC
+
+:::
+
+# Pathologies
+
+- [TFCC PAthology]("/The Archive/Pathologies/Pathologies by Region/Upper extremity/Wrist pathologies/TFCC_pathology.qmd")

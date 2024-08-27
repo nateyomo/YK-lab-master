@@ -1,0 +1,52 @@
+---
+title: Lateral Plantar Nerve
+---
+
+
+# Roots
+
+# Pathway
+
+# Branches
+
+# Motor innervation
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "lateral_plantar_nerve"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Lateral Plantar n. Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+- Flexor hallucis brevis (lateral head) @gilroyAtlasAnatomy2020 
+- Quadratus plantae @gilroyAtlasAnatomy2020 
+- Abductor digiti minimi @gilroyAtlasAnatomy2020 
+- Flexor digiti minimi brevis @gilroyAtlasAnatomy2020 
+- Opponens digiti minimi @gilroyAtlasAnatomy2020 
+- 2nd to 4th lumbricals @gilroyAtlasAnatomy2020 
+- 1st to 3rd plantar interossei @gilroyAtlasAnatomy2020 
+- 1st to 4th dorsal interossei @gilroyAtlasAnatomy2020 
+- Adductor hallucis @gilroyAtlasAnatomy2020
+
+
+# Cutaneous Innervation
+
+Proper plantar digital nn. @gilroyAtlasAnatomy2020
+
+# Dysfunction

@@ -1,0 +1,94 @@
+---
+title: Interventions to improve sitting
+---
+
+# Static Sitting
+
+see ch5 @osullivanImprovingFunctionalOutcomes2016
+
+## Varying UE/LE Support
+
+See ch5 @osullivanImprovingFunctionalOutcomes2016
+
+
+## Varying BOS
+
+Varying the BOS: Long-sitting, Short-sitting, Side-sitting @osullivanImprovingFunctionalOutcomes2016
+
+
+## Applying Resistance to Promote Stability
+
+
+# Dynamic Sitting
+
+## Active Weight Shifts
+
+
+Adding resistance ch5 @osullivanImprovingFunctionalOutcomes2016
+
+## Voluntary movement & Task Orientation
+
+# Resisted Limb Movements
+
+:::{.callout-warning title="Contraindications"}
+For patients lacking stabilization, resistance may be contraindicated and the clinician should focus on active movements @osullivanImprovingFunctionalOutcomes2016.
+:::
+
+A clinician can add resistance to the extremities with a variety of changes.
+
+## Changes
+
+- Enhances control of the limbs @osullivanImprovingFunctionalOutcomes2016
+- Enhanes automatic trunk control
+
+:::{layout-ncol="2"}
+
+### Enhancement of limb control
+
+- This is helpful when working with patients who are experiencing extremity weakness (i.e. brain injury)
+- You should use this in order to simultaneously work balance and limb strengthening
+
+### Automatic Trunk Control
+
+- By making the focus on the limb, this brings attention *away* from the trunk @osullivanImprovingFunctionalOutcomes2016
+- Patients will need to train automatic control when they begin to perform seated and standing ADLs @osullivanImprovingFunctionalOutcomes2016
+:::
+
+
+## Regression
+
+
+
+
+
+
+## Complexity
+The therapist typically starts with unilateral movements and progresses to combination (bilateral and reciprocal) movements @osullivanImprovingFunctionalOutcomes2016
+
+## PNF Patterns Progression
+
+:::{layout-ncol="2"}
+
+### Unilateral Patterns
+
+- Unilateral PNF patterns are often used initially, when dynamic control is lacking or when one extremity is used for support @osullivanImprovingFunctionalOutcomes2016. 
+- Even if the C/L arm is not being used for support, it can still be used as a counterbalance, thus reducing the requisite trunk control, which is why unilateral patterns are considered easier.
+
+### Bilateral Patterns
+
+- As the patient's control improves, progress to bilateral patterns, which will be more challenging @osullivanImprovingFunctionalOutcomes2016.
+Examples:
+    - [Chop]({{< var ref-proprioceptive-neuromuscular-facilitation.chop >}})/[reverse chop]({{< var ref-proprioceptive-neuromuscular-facilitation.reverse-chop >}}) @osullivanImprovingFunctionalOutcomes2016
+    - [lift]({{< var ref-proprioceptive-neuromuscular-facilitation.lift >}})/[reverse lift]({{< var ref-proprioceptive-neuromuscular-facilitation.reverse-lift >}}) @osullivanImprovingFunctionalOutcomes2016
+    
+::: 
+
+Examples
+
+
+
+<q>
+In addition, there is a weight shift from one side (buttock) to the other. Emphasis is on using the combined arm movements to enhance control and range of the trunk movements. See Chapter 3: Proprioceptive Neuromuscular Facilitation for a description of patterns and techniques.
+
+flexion with rotation) combined with bilateral asymmetrical patterns of both UEs. In addition, there is a weight shift from one side (buttock) to the other. Emphasis is on using the combined arm movements to enhance control and range of the trunk movements. See Chapter 3: Proprioceptive Neuromuscular Facilitation for a description of patterns and techniques.
+@osullivanImprovingFunctionalOutcomes2016 </q>

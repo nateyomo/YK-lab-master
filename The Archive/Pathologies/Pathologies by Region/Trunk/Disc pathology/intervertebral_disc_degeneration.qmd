@@ -1,0 +1,12 @@
+---
+title: Intervertebral Disc Degneration (IVDD)
+---
+
+# Mechanisms
+
+## Immune considerations
+
+:::{.callout-note}
+
+- An in-depth analysis of the immunomodulatory mechanisms of intervertebral disc degeneration @songIndepthAnalysisImmunomodulatory2022 
+:::

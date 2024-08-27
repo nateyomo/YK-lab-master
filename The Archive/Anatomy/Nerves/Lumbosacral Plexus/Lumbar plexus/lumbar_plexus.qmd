@@ -1,0 +1,44 @@
+---
+title: Lumbar Plexus
+---
+
+| Nerve | Roots | Motor Innervation | Cutaneous Innervation |
+|-|-|-|-|
+| [Iliohypogastric N.]({{< var ref-iliohypogastric-nerve.path >}}) | {{< var ref-iliohypogastric-nerve.roots >}} | {{< var ref-iliohypogastric-nerve.motor >}} | {{< var ref-iliohypogastric-nerve.cutaneous >}} |
+| [Ilioinguinal N.]({{< var ref-ilioinguinal-nerve.path >}}) | {{< var ref-ilioinguinal-nerve.roots >}} | {{< var ref-ilioinguinal-nerve.motor >}} | {{< var ref-ilioinguinal-nerve.cutaneous >}} |
+| [Genitofemoral N.]({{< var ref-genitofemoral-nerve.path >}}) | {{< var ref-genitofemoral-nerve.roots >}} | {{< var ref-genitofemoral-nerve.motor >}} | {{< var ref-genitofemoral-nerve.cutaneous >}} |
+| [Lateral Cutaneous Nerve of the Thigh]({{< var ref-lateral-cutaneous-nerve-of-thigh.path >}}) | {{< var ref-lateral-cutaneous-nerve-of-thigh.roots >}} | {{< var ref-lateral-cutaneous-nerve-of-thigh.motor >}} | {{< var ref-lateral-cutaneous-nerve-of-thigh.cutaneous >}} |
+| [Obturator N.]({{< var ref-obturator-nerve.path >}}) | {{< var ref-obturator-nerve.roots >}} | {{< var ref-obturator-nerve.motor >}} | {{< var ref-obturator-nerve.cutaneous >}} |
+| [Femoral N.]({{< var ref-femoral-nerve.path >}}) | {{< var ref-femoral-nerve.roots >}} | {{< var ref-femoral-nerve.motor >}} | {{< var ref-femoral-nerve.cutaneous >}} |
+: {.striped .hover}
+
+
+
+# Direct Branches
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "lumbar_plexus_direct_branches"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Direct Lumbar Plexus Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Dysfunction
+
+“The lumbar plexus arises from higher levels (L1–L4) of the spinal cord and supplies muscles of the abdominal wall and anterior and medial thigh.” @gilroyAtlasAnatomy2020 

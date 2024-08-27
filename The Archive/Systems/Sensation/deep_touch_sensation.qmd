@@ -1,0 +1,7 @@
+---
+title: Deep Touch (Sensation)
+---
+
+
+[DCML Tract]({{< var ref-dorsal-column-medial-lemniscus.path >}}) @osullivanPhysicalRehabilitation2019
+

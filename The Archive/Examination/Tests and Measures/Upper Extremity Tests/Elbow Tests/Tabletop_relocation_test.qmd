@@ -1,0 +1,6 @@
+---
+title: Tabletop Relocation Test
+---
+
+
+"This test imposes an axial load through the arm while the patient is extending the elbow with the forearm supinated. The patient performs a press-up on the edge of a table using one arm, with the forearm positioned in supination. In the presence of instability, apprehension occurs at about 40 degrees flexion. The maneuver is repeated while the clinician presses his or her thumb on the radial head, preventing any subluxation. The test is considered positive for posterolateral rotatory instability if the thumb pressure relieves the apprehension." @duttonDuttonOrthopaedicExamination2020 

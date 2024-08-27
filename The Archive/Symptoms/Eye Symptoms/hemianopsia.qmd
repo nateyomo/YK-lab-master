@@ -1,0 +1,7 @@
+---
+title: Hemianopsia
+---
+
+# DDX 
+
+- Comparing hemianopsia from [neglect]({{< var ref-neglect.path >}})

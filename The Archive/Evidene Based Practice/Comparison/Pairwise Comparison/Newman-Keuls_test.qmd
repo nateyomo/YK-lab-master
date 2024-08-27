@@ -1,0 +1,21 @@
+---
+title: Newman-Keuls Test
+subtitle: An outdated and faulty test to compare multiple groups
+---
+
+
+Newman-Keuls (NK) Test is a *proposed* statistical analysis for pairwise comparisons among a set of treatment means, which has since become outdated @shafferControllingFalseDiscovery2007. 
+
+
+
+# Issues
+
+:::{layout-ncol="2"}
+### Does not account for Family-wise error rate
+A problem with Newman-Keuls Test and the reason it does not have contemporary use is the fact that it does not account for "[family-wise error rate (FWER)]({{< var ref-error.random.family-wise >}})" at the nominal level @shafferControllingFalseDiscovery2007.
+Resulting in possibly inflated Type 1 error rate @shafferControllingFalseDiscovery2007
+
+### Confidence Intervals
+Newman-Keuls Tests cannot compute CIs @motulskyIntuitiveBiostatisticsNonmathematical2018
+
+:::

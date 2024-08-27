@@ -1,0 +1,179 @@
+---
+title: Intra-class Correlation Coefficient (ICC)
+---
+
+Intra‐class correlation coefficient (ICC) is a modified pearson correlation coefficient that indexes both degree of correlation and agreement between two measurements @kooGuidelineSelectingReporting2016.
+
+The ICC is the most comprehensive measure of reliability since it depends on level of agreement (like kappa) and on the correlation between 2 measures (like correlation coefficient)
+
+<q>
+It is sensitive for example to the extent to which subjects (individuals) keep their ranking order in repeated measurements.
+Moreover, itmay indicate the ability of an experimental method to detect and measure systematic differences between subjects. This ability islimited since those differences may be more or less masked by individual variations of
+</q>
+
+# How to use this test
+
+Dr. Monroe stated that ICC is the most comprehensive form of reliability.
+If the ICC is high, then you do not need to examine the other statistical results.
+If the ICC is low, then 
+
+
+# Models
+
+## One-Way Random-Effects Model
+
+- Either participants or evaluators are random
+- This is not very common
+
+In this model, each subject is rated by a different set of raters who were randomly chosen from a larger population of possible raters.
+Practically, this model is rarely used in clinical reliability analysis because majority of the reliability studies typically involve the same set of raters to measure all subjects.
+An exception would be multicenter studies for which the physical distance between centers prohibits the same set of raters to rate all subjects. Under such circumstance, one set of raters may assess a subgroup of subjects in one center and another set of raters may assess a subgroup of subjects in another center, and hence, 1-way random-effects model should be used in this case.
+
+
+## Two-Way Random
+
+- both the patients and researchers are random
+
+
+## Two-Way Mixed
+
+- Most common
+- Raters are fixed (not random)
+
+# Type
+
+- Consistency
+- Absolute agreement
+
+## Consistency
+
+- Evaluating any potential or level of linear relationship between instructors
+
+## Absolute Agreement
+
+- Evaluates how close the raters were in terms of their scores
+- Not interested in linear relationship
+- Focuses on whether raters have close or identical ratings
+
+
+
+# ICC Forms
+
+10 forms of ICC based on the “Model” (1-way random effects, 2-way random effects, or 2-way fixed effects), the “Type” (single rater/ measurement or the mean of k raters/measurements), and the “Definition” of relationship considered to be important (consistency or absolute agreement) @kooGuidelineSelectingReporting2016.
+
+
+
+
+
+
+# Choosing the Right ICC Form
+
+:::{.callout title="How to choose the right form" collapse="true"}
+There are 4 guiding questions
+
+1. Do we have the same set of raters for all subjects? @kooGuidelineSelectingReporting2016
+1. Do we have a sample of raters randomly selected from a larger population or a specific sample of raters? @kooGuidelineSelectingReporting2016
+1. Are we interested in the reliability of single rater or the mean value of multiple raters? @kooGuidelineSelectingReporting2016
+1. Do we concern about consistency or agreement? @kooGuidelineSelectingReporting2016
+
+The first 2 questions guide the “Model” selection, question 3 guides the “Type” selection, and the last question guides the “Definition” selection @kooGuidelineSelectingReporting2016
+:::
+
+
+
+# Calculation
+
+:::{.callout title="Symbols and Abbreviations" collapse="true"}
+- Model 1 = one-way random model (no bias)
+- Model 2 = two-way random model (random bias)
+- Model 3 = two-way mixed model (fixed bias)
+- *n* = number of subjects (targets)
+- *k* = number of measurements (conditions, raters)
+- *i* = subject index (i = 1,…, n)
+- *j* = measurement index (j = 1,…, k)
+- *N* = number of simulated matrices
+- < … > = average value obtained in simulation
+- &mu; = population mean of subject's scores
+- $r_i$ = deviation from mean for subject i
+- $c_j$ = bias in measurement j
+- $v_{ij}$ = "noise" = error in measurement *j* for subject i (Model 1)
+- $e_{ij}$ = error in measurement j for subject i, Model 2 and Model 3
+- $rcij$ = interaction in measurement j for subject i, Model 2 and Model 3
+- $v_{ij}$ = "noise" = eij + rcij (Model 2 and Model 3)
+- $\sigma_r^2$ σr2 = variance of $r_i$
+- $\sigma_c^2$ = variance of $c_j$
+- $\sigma_e^2$ = variance of $e_{ij}$
+- $\sigma_{rc}^2$ = variance of $rc_{ij}$
+- $\sigma_v^2$ = variance of $v_{ij}$ ($= \sigma_c^2 + \sigma_e^2$ in Model 2 and Model 3)
+- $\rho_1$ = population ICC, Model 1
+- $\rho_{2A}$ = absolute agreement population ICC, Model 2
+- $\rho_{2C}$ = consistency population ICC, Model 2
+- $\rho_{3A}$ = absolute agreement population ICC, Model 3
+- $\rho_{3C}$ = consistency population ICC, Model 3
+- *MST* = mean square total
+- *MSWS* = mean square within subjects
+- *MSBS* = mean square between subjects
+- *MSWM* = mean square within measurements
+- *MSBM* = mean square between measurements
+- *MSE* = mean square error
+- $\textrm{F} = \frac{\textrm{MSBM}}{\textrm{MSE}} = \textrm{F-value}$
+- ICC(1) ≡ ICC(1,1) = sample ICC formula, Model 1
+- ICC(A,1) ≡ ICC(2,1) = sample ICC formula, absolute agreement, Model 2 and 3
+- ICC(C,1) ≡ ICC(3,1) = sample ICC formula, consistency, Model 2 and 3
+:::
+
+
+However, modern ICC is calculated by mean squares (ie, estimates of the population variances based on the variability among a given set of measures) obtained through analysis of variance.
+
+- ($\sigma_s^2$) = Variance of Interest @liljequistIntraclassCorrelationDiscussion2019
+- ($\sigma_e^2$) = Unwanted variance @liljequistIntraclassCorrelationDiscussion2019
+
+$$
+\textrm{ICC} = \frac{\sigma_s^2}{\sigma_s^2 + \sigma_e^2} = \frac{(\textrm{Variance of Interest})}{(\textrm{Variance of Interest}) + (\textrm{Unwanted Variance})}
+$$
+
+Alternative equation from @gisevInterraterAgreementInterrater2013
+
+$$
+\textrm{ICC} = \frac{\sigma_s^2}{\sigma_s^2 + \sigma_e^2} = \frac{(\textrm{Between subject variance})}{(\textrm{Between subject variance}) + (\textrm{Within subject Variance})}
+$$
+
+:::{.callout-note}
+the word "subject" in the previous equation likely refers to "rater" since this test assesses [inter-rater reliability]({{< var ref-inter-rater.reliability >}})
+:::
+
+
+What happens when the unwanted variance ($\sigma_e^2$) is equal to or larger than the variance of interest ($\sigma_s^2$) (for example, the variance between subjects)?
+
+We will use an example of this, with variance of interst being "5" and unwanted variance being "6"
+$$
+\textrm{ICC} = \frac{(Variance of Interest)}{(Variance of Interest) + (Unwanted Variance)} = \frac{(5)}{(5) + (6)} = \frac{5}{11} = 0.455
+$$
+
+
+
+
+As a result, the reliability (ICC) of the method will be poor, resulting with a value of 0.455 @liljequistIntraclassCorrelationDiscussion2019.
+
+# Output
+
+An ICC will generally provide a single measure and average measure output for ICC.
+
+
+Single 
+
+# Scoring
+
+Values range from 0.00 (not reliable) to 1.00 (perfectly reliable) 
+
+| Score | Reliability |
+|-|-|
+| 0.00 – 0.20 | Poor |
+| 0.21 – 0.40 | Fair |
+| 0.41 – 0.60 | Moderate |
+| 0.61 – 0.80 | Good |
+| 0.81 – 1.00 | Excellent |
+
+: "Rule of thumb" Quick interpretation of reliability {.striped .hover}
+
+# Interpretation

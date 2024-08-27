@@ -1,0 +1,573 @@
+---
+title: Functional Neurologic Disorder (FND)
+---
+
+:::{.callout-note title="Related readings"}
+- HYSTERIA @ropperAdamsVictorPrinciples2023
+- BRIQUET DISEASE @ropperAdamsVictorPrinciples2023
+- SOMATIZATION DISORDER @ropperAdamsVictorPrinciples2023
+- PSYCHOGENIC NEUROLOGIC DISORDER @ropperAdamsVictorPrinciples2023
+:::
+
+# History of FND
+
+## Conversion Disorder
+
+These disorders were traditionally termed "Conversion disorder" by Freud and his followers to describe the conversion of "psychic energy" into physical symptoms @ropperAdamsVictorPrinciples2023
+
+
+# Psychogenic Neurologic Disorder
+
+2 types of clinical psychogenic neurologic disorders: 
+
+:::{.callout-note}
+Both of these disorders are considered to have no physical explanation of symptoms @ropperAdamsVictorPrinciples2023
+:::
+
+:::{layout-ncol="2"} 
+
+### Chronic illness + Classical Hysteria
+
+- A chronic illness marked by multiple and often dramatically presented symptoms and somatic abnormalities of “classic hysteria,”
+- Predominantly in women (there is potential sexism and acquisition bias in this categorization but we report our and our colleagues contemporary experience) and 
+
+### Compensation Neurosis
+
+- Inexplicable disability or symptomology
+- Individual is  obtaining compensation, influencing litigation, avoiding military duty or imprisonment, or for the manipulation of some other interpersonal or societal situation.
+    - This latter state has been called compensation neurosis, compensation hysteria, or hysteria with sociopathy, in other words, malingering.
+- Predominantly of men but also of women who
+:::
+
+
+# Pathophysiology Framework of FND
+
+:::{.callout-note}
+Through studies, it has been shown that functioning of brain is different than feigning @bennettPracticalReviewFunctional2021.
+:::
+
+FND has been described as dysfunction across brain circuits @draneFrameworkUnderstandingPathophysiology2020.
+Of these brain circuits, 5 constructs have been created @draneFrameworkUnderstandingPathophysiology2020.
+
+1. [Emotion processing (Salience)](#emotion-processing)
+1. [Agency](#agency)
+1. [Attention](#attention)
+1. [Interoception](#interoception)
+1. [Predictive processing/inference](#predictive-processing-inference)
+
+## Emotion processing (salience) {#emotion-processing}
+
+Dysfunction in the emotional processing construct manifests as emotional reactivity, deficits in emotional awareness (ie physiological arousal in absence of emotional arousal), amplification of FND symptoms in some mood states (ie panic, shame), aberrant salience processing, etc @draneFrameworkUnderstandingPathophysiology2020.
+
+## Agency {#agency}
+
+Dysfunction in Agency manifests as impairment in belief/circuit around: Pt is agent of action/Free will → produces voluntary movement @draneFrameworkUnderstandingPathophysiology2020.
+Movement lacking self agency is experienced as involuntary @draneFrameworkUnderstandingPathophysiology2020.
+These involuntary movements are clinically deemed functional tremors or functional seizures, but the brain areas generating these movements are the same ones involved in the production of voluntary movements @draneFrameworkUnderstandingPathophysiology2020.
+
+## Attention {#attention}
+
+Attentional perseveration is defined as the "tendency to focus on a physiological system to the neglect of other systems, and an impaired ability to adaptively, volitionally shift attention @draneFrameworkUnderstandingPathophysiology2020."
+This concept is analogous to hemineglect syndrome wher patients *can* attend to his/her unaffected body parts but this focus is considerably difficult and requires conscious effort @draneFrameworkUnderstandingPathophysiology2020.
+Likewise, patients wtiAllocate attentional resources to threat stimuli (ie angry faces) (especially those with functional seizures)
+
+## Interoception {#interoception}
+*Interoception* refers to a process by which the nervous system senses/interprets/integrades internal body signals into conscious and unsconscious perceptions of sensation @draneFrameworkUnderstandingPathophysiology2020.
+In FND, the percetion produced through interoception can be abnormally enhanced or diminished @draneFrameworkUnderstandingPathophysiology2020.
+Abnormal interoception sensations can materialize as attenuated visual, auditory, or skin sensitivity @draneFrameworkUnderstandingPathophysiology2020. 
+Abnormal interoception can impact movements and result in tremors, dystonia, seizures, and weakness @draneFrameworkUnderstandingPathophysiology2020.
+
+## Predictive processing/inference {#predictive-processing-inference}
+
+*Predictive processing/inference* refers to the process by which a person generates beliefs about cause/effects of events within/outside body @draneFrameworkUnderstandingPathophysiology2020.
+Environmental conditions can rapidly alter this process @draneFrameworkUnderstandingPathophysiology2020.
+FND patients with this dysfunction can demonstrate erroneous perceptual inference (about sensorimotor or emotionally valenced phenomena), and their beliefs become reality @draneFrameworkUnderstandingPathophysiology2020.
+
+:::{.callout-note title="items that need to be cleaned up and added to the paragraph"}
+Deficits in decision making and sensory processing @draneFrameworkUnderstandingPathophysiology2020.
+Prior history dominates ongoing perspectives @draneFrameworkUnderstandingPathophysiology2020.
+
+:::
+
+:::{.callout title="Examples"}
+
+- Someone who expects weather to be cold will wear a winter jacket even on a sunny day in summer @draneFrameworkUnderstandingPathophysiology2020.
+- Functional leg weakness → pt does not sense that limb IS there, opposite of phantom limb syndrome @draneFrameworkUnderstandingPathophysiology2020.
+:::
+
+
+## Abnormal sensory input {#abnormal-sensory-input}
+updated by sensory input that indicates it IS there
+
+
+# Subjective {#subjective}
+
+## History
+
+:::{.callout-note}
+Due to the importance of MOI and risk factors, the subjective should Focus on predisposing, precipitating and perpetuating factors! @bennettPracticalReviewFunctional2021
+
+:::
+
+
+- Adverse experience in childhood/recently? (very common)
+    - Attachment theory (life growing up) 
+- Consider: Social/cultural norms, life experiences, religion, language, stress 
+- Psychological comorbidities
+- Comorbidities
+
+## Other medical evaluation
+
+- Beliefs about the medical system
+- Low rate of misdiagnosis → did a doctor diagnose? @bennettPracticalReviewFunctional2021
+    - IBS? Chronic pain syndromes? CRPS? @bennettPracticalReviewFunctional2021
+- Imaging
+
+
+## Mechanism of onset
+- What did you notice when it first started (emotions? Events? Drug side effects? Dissociation? infection?)  @bennettPracticalReviewFunctional2021
+- What are your triggers now? (if any) @bennettPracticalReviewFunctional2021
+
+
+
+## Functional limb Weakness {#functional-limb-weakness}
+
+- Functional limb weakness
+    - Does it feel like the body does not belong to them? @bennettPracticalReviewFunctional2021
+    - Any sensory disturbances associated with it? @bennettPracticalReviewFunctional2021
+    - Collapsing weakness? @bennettPracticalReviewFunctional2021
+    - Any falls?
+- Expect: voluntary movements are hard while automatic ones are preserved. Also expect that there is a global pattern- affects flexors/extensors equally @bennettPracticalReviewFunctional2021
+
+## Involuntary movements
+
+- Functional tremor?
+    - aggs/eases?
+- Functional seizure: @bennettPracticalReviewFunctional2021
+    - any urinary incontinence/physical injury?
+    Seizure plan?
+    - Any precursors like autonomic arousal? → note: 
+
+:::{.callout-note}
+functional seizures can be seen as an involuntary, learned brain “reflex” that gets rid of unpleasant sensations. Can explain to patients this way. 
+:::
+
+:::{.callout-note}
+Side note: No medications (seizure meds) should be used as it can exacerbate events → as much as 40% of pts with functional seizures can improve with meds (however, likely placebo effect) @bennettPracticalReviewFunctional2021
+:::
+
+## Functional dystonia
+
+- Presence
+- Aggravating factors
+- Easing factors
+
+## Urinary retention/scan negative cauda equina
+
+- CBT usual tx @bennettPracticalReviewFunctional2021
+
+## Functional cognitive symptoms
+
+- Memory problems? @bennettPracticalReviewFunctional2021
+
+:::{.callout-note}
+Memory problems in FND are likely d/t attentional deficits (lapses in concentration) @bennettPracticalReviewFunctional2021
+:::
+
+- Metacognitive error is prominent in the form of catastrophic negative self evaluation of one’s own cognitive performance (up to 24% of pts attending memory clinics may have functional cognitive disorder) @bennettPracticalReviewFunctional2021
+- Examination of behavior and language during consultation discriminates functional from degenerative cognitive symptoms – those with functional cognitive disorder are likely to attend meetings alone, be distressed, give rich/specific accounts of memory failures compared to those with neurodegenerative disease @bennettPracticalReviewFunctional2021
+- CBT helpful, contextualizing memory lapses that fall within normal, tackle unhelpful avoidance, and excessive/counterproductive use of memory aids/strategies (think post its etc). Also treat comorbid anxiety/depression as common @bennettPracticalReviewFunctional2021.
+
+## Other symptoms
+
+- Fatigue? Sleep disturbance? Concentration symptoms? @bennettPracticalReviewFunctional2021
+- Speech problems (dysarthria, mutism, foreign accent syndrome), sensory problems (numbness/positive sensory symptoms, especially with motor symptoms) , hearing loss/sensitivity, visual loss/diplopia, globus, PPPD (chronic dizziness) @bennettPracticalReviewFunctional2021
+
+:::{.callout-note title="APTA Recommendations"}
+
+Per APTA may be beneficial to ask: 
+
+- Does the disorder produce more attention from a spouse?
+- Does the disorder mean that the patient does not have to return to a job that she/he did not like?
+- Is the amount of money received with disability insurance more, or more secure, than what the patient might get by working?
+- Does the patient know how to get a job or what job she/he has sufficient expertise to do?
+
+:::
+
+:::{.callout-warning title="APTA's red flags"}
+
+Per APTA- Red Flags suggesting FMD
+
+- Adult age of onset
+- Paroxysmal tremor as predominant clinical feature
+- High phenomenological variability between episodes
+- Rapid and maximal severity
+- Precipitation of attack or increase in symptom severity during examination
+- Atypical and variable duration of attacks
+- Presence of multiple atypical triggers
+- Altered level of responsiveness
+- Presence of odd precipitating factors
+- Presence of unusual relieving maneuvers
+- Additional functional physical signs or medically unexplained somatic symptoms
+- Atypical response to medication
+- Presence of somatization
+
+:::
+
+
+# Objective {#objective}
+
+## Functional limb weakness {#functional-limb-weakness-objective}
+
+:::{.callout-note}
+Note/Pt edu: Functional leg weakness → pt does not sense that limb IS there, opposite of phantom limb syndrome. Abnormal brain prediction that leg is not there, which overrides/fails to be updated by sensory input that indicates it IS there @bennettPracticalReviewFunctional2021
+:::
+
+### Hoover’s sign
+::: {.columns}
+::: {.column}
+A clinician can check for [Hoover's sign]({{< var ref-hoovers-sign.path >}}) in order to differentaite between general hip extension weakness and *functional* hip extension weakness.
+
+Technique (assuming the L hip is demonstrating weakness):
+
+- Patient goes into hip extension against resistance with L leg
+- Test patient's ability to perform resisted hip flexion on the *right* leg which indirectly tests hip extension on the left leg.
+- If the patient has L hip extension weakness against direct resistance, but has sufficient strength against resistance with R hip flexion, this is considered positive
+
+[Read more about Hoover's Sign]({{< var ref-hoovers-sign.path >}})
+:::
+
+::: {.column}
+![Hoover’s sign @bennettPracticalReviewFunctional2021.](/The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/images/bennettPracticalReviewFunctional2021 fig1 hoovers sign.png)
+:::
+:::
+
+
+### Hip Abductor Sign
+
+::: {.columns}
+::: {.column}
+Weakness of hip abduction that returns to normal with contralateral hip abduction against resistance 
+:::
+::: {.column}
+![Hip Abductor sign @sonooAbductorSignReliable2004.](/The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/images/sonooAbductorSignReliable2004 fig1 hip abductor sign schematic.png)
+:::
+:::
+
+
+### Arm Drop Test
+
+@APTA
+
+In the arm drop test, the patient is placed in the supine position. The examiner ensures that the patient's face is shielded (in case of an organic etiology) and lifts the patient's plegic arm, suspending it over the patient's face, then abruptly allowing the arm to fall. The patient will deflect the arm from hitting the face in the case of FMD.79
+
+Functional limb weakness should be treated with [patient education](#functional-limb-weakness-1)
+
+## Functional Tremor
+
+In the arms, ask the patient to copy a rhythmical movement made between finger/thumb using their better hand @bennettPracticalReviewFunctional2021.
+In the legs, ask the patient to copy foot tapping @bennettPracticalReviewFunctional2021.
+And in the neck, have the patient follow movements of your hand with their tongue @bennettPracticalReviewFunctional2021.
+
+In a functional tremor, one should expect to see variable frequency (not amp) tremor that changes dramatically during externally cued rhythmic movements @bennettPracticalReviewFunctional2021.
+If the tremor on the other hand stops, entrains to the same rhythm, or pt has difficulty copying movement → consider functional tremor @bennettPracticalReviewFunctional2021.
+
+
+:::{.callout title="Other distraction maneuvers via APTA"}
+
+- Finger tapping movements at different speeds
+- Side-to-side tongue movements
+- Counting-serial 7 backward
+- Contralateral rhythmic ballistic movements
+
+:::
+
+
+:::{.callout-note}
+While a functional tremor will entrain with distraction, an organic tremor will typically increase in amplitude with distraction. Entrainment can result in remission in FMD during distraction maneuvers with uninvolved limbs
+:::
+
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+library(gt)
+
+# Create a data frame with your data
+df <- data.frame(
+  Item = c(
+    "Frequency variability",
+    "Entrainment or full suppressability",
+    "Distractibility",
+    "Tonic coactivation",
+    "Ballistic suppression",
+    "Dual task interference",
+    "Increase amplitude with weight loading",
+    "\"Whack-a-mole\" sign",
+    "Other functional signs or phenotypes"
+  ),
+  Phenotype = c(
+    "Tremor frequency changes throughout examination",
+    "Tremor either disappears (suppressability) or adopts the frequency of a repetitive task elsewhere (entrainment)",
+    "Tremor amplitude attenuates when attention is driven away from affected body part",
+    "Co-contraction of antagonistic muscles immediately prior to reemergence of tremor",
+    "Brief arrest of tremor with performance of a ballistic movement in the opposite limb",
+    "Disruption in tremor frequency and amplitude when simultaneously executing a competing task",
+    "Tremor amplitude increases with increasing weight applied to limbs",
+    "Spread of tremor to another body part when restrained by the examiner's hand",
+    "Give-away weakness, non-dermatomal hypoesthesia, associated functional gait disorder, functional dystonia, etc"
+  ),
+  stringsAsFactors = FALSE
+)
+
+# Create the GT table with row groups
+gt_table <- df %>%
+  gt() %>%
+  tab_header(
+    title = md("**Other presentations of functional tremors**")
+  ) %>%
+  tab_row_group(
+    label = "Universal features",
+    rows = 1:4
+  ) %>%
+  tab_row_group(
+    label = "Optional Features",
+    rows = 5:9
+  ) %>%
+  fmt_markdown(columns = vars(Phenotype)) %>%
+  tab_source_note(
+    source_note = md("Source: @schwingenschuhFunctionalTremor2022")
+  ) %>%
+  tab_options(row_group.background.color = "#f0f0f0")
+
+# Display the table
+gt_table
+
+```
+
+:::{.callout-note}
+Many movement disorders worsen with stress/disappear with sleep → do not rely on these sx for a diagnosis
+:::
+
+
+## Functional Dystonia {#functional-dystonia}
+
+Functional dystonia can presenta s fixed abnormal posture, but other forms are usually mobile @bennettPracticalReviewFunctional2021
+
+Can present as:
+
+- Inverted/PF ankle
+- Flexion of fingers
+- Face dystonia (jaw deviation to one side + contraction of platysma + lip curl down/upward + facial weakness + contraction of orbicularis oculi can be present + eyebrow lowered on affected side @bennettPracticalReviewFunctional2021)
+
+Functional dystonia commonly results in secondary symptoms of pain which can severely impede with ADLs @bennettPracticalReviewFunctional2021.
+
+## Functional Seizures {#functional-seizures}
+
+Signs of functional/dissociative seizures: 
+
+- Longer duration >90 seconds @bennettPracticalReviewFunctional2021.
+- Fluctuating course @bennettPracticalReviewFunctional2021.
+- Asynchronous movements  @bennettPracticalReviewFunctional2021.
+- Side to side head or body movement  @bennettPracticalReviewFunctional2021.
+- Closed eyes  @bennettPracticalReviewFunctional2021.
+- Memory of the event @bennettPracticalReviewFunctional2021.
+
+Signs for epileptic seizures
+
+- Post ictal confusion @bennettPracticalReviewFunctional2021.
+- Stertorous breathing @bennettPracticalReviewFunctional2021.
+
+## Functional Sensory symptoms {#functional-sensory-symptoms}
+
+::: {.columns}
+::: {.column}
+### Yes/No Test
+:::
+::: {.column}
+In the **yes/no test**, the patient is asked to say "yes" when they detect a stimulus and "no" when they do not detect a stimulus. 
+A response of "no" immediately after a stimulus may indicate a nonorganic sensory loss.
+A response of "no" would suggest that a functional disorder is not present, as a truly anesthetic patient would not feel anything and therefore would not respond.
+:::
+:::
+
+
+
+::: {.columns}
+::: {.column}
+### Forced choice test
+:::
+::: {.column}
+In the Forced-Choice test, the patient is asked to distinguish between a sharp or dull stimulus, and an upward or downward movement of a toe or finger. 
+A percentage of correct responses in a series of trials that is less than that observed by chance may indicate nonorganic sensory loss.
+:::
+:::
+
+
+
+
+
+# Interventions {#interventions}
+
+:::{.callout-note}
+Note: many have negative experiences with healthcare → education is key about their brain/NS functioning. Never use a “nothing wrong” accusation.
+Finding a root cause is uncommon, as it is multifactorial
+:::
+
+# Patient Education {#patient-education}
+
+## Communication of diagnosis/understanding 
+
+:::{.callout-tip title="Example"}
+“FND is a problem with the functioning of the NS, a problem with the software, not the hardware” @bennettPracticalReviewFunctional2021
+:::
+
+## Limb weakness {#limb-weakness-pt-ed}
+
+:::{.callout-tip title="Example"}
+*After Hoover's sign*
+
+”Did you see how your leg returned briefly to normal when I did that test (Hoover's sign). That shows us that there is a problem with the way your brain is sending the signal to your leg (voluntary movement), but the automatic movements are still okay”@bennettPracticalReviewFunctional2021.
+:::
+
+## Limb blindness {#limb-blindenss-patient-education}
+
+:::{.callout-tip title="Example"}
+“Have you heard of phantom limb syndrome? That's when someone has an amputation, but their brain still thinks the limb is there. FND is a bit like the opposite, the leg/vision/sensation is there but the brain thinks it isn't anymore. The map of that part of the body in the brain has gone wrong” @bennettPracticalReviewFunctional2021.
+:::
+
+## Weakness/movements
+
+:::{.callout-tip title="Example"}
+"Functional brain scans have shown that the brain is working too hard in FND. Normally we shouldn't have to think about how to move our arms our legs. As soon as our brains start to work on this too hard it goes wrong. It's similar to thinking about your feet when you are climbing upstairs, or trying too hard to fall asleep at night" @bennettPracticalReviewFunctional2021.
+:::
+
+## Seizures
+
+:::{.callout-tip title="Example"}
+"Functional seizures are when the brain goes into a trance-like state called “dissociation” suddenly, all by itself. This is the medical word for being cut off or distant from your surroundings. That's a bit like the feeling you have just before your seizures sometimes. We think it does this as a “reflex” response – sometimes to get rid of a horrible feeling that many people report just before. After a while, it will often happen for no reason and when people are most relaxed" @bennettPracticalReviewFunctional2021.
+:::
+
+## Dystonia
+
+:::{.callout-tip title="Example"}
+"Your brain thinks that the foot is straight even though it's turned inwards. That's why it's hard for you to keep it in a straight position" @bennettPracticalReviewFunctional2021.
+:::
+
+:::{.callout-note}
+Cervical dystonia clinical pearl from ReActive PT instagram page:
+
+- Skipping with scarves
+- Scarves are a great external focus for eyes/head movement (great for automatic head movements) 
+- Postural responses : bouncing, skipping, dancing, moving on a tilt board/bosu can all help with automatic responses
+- Postural righting responses = automatic head movement
+
+:::
+
+## Associated pain
+
+:::{.callout-tip title="Example"}
+"Chronic pain is usually due to an 'increased volume knob' in the pain pathways throughout the nervous system, but especially the brain. This is called ‘central sensitisation’ and, like FND, is also a problem with abnormal nervous system functioning" @bennettPracticalReviewFunctional2021.
+:::
+
+## Prognosis
+
+:::{.callout-note}
+“It is not an easy problem to put right, many factors affect it, but there is a potential to improve and many do make a full recovery” @bennettPracticalReviewFunctional2021.
+:::
+
+### How physical therapy can help
+
+:::{.callout-tip title="Example"}
+"Physiotherapy can help 'retrain' the brain in FND. It works best when we can use those principles of distraction that I showed you. 
+A physiotherapist may ask you to try to speed up the movement or do it in an unusual way, to music or in a mirror. 
+Somewhere in your brain we think the automatic movements are in there, and we need to coax them out" @bennettPracticalReviewFunctional2021.
+:::
+
+## Psychologists
+
+:::{.callout-note}
+"It is common in FND for people to have problems like anxiety and depression. This can be a consequence of having the symptoms but, in many, it is already there for other reasons. FND symptoms make people fearful of falling and being injured and of being embarrassed. For some, there are things that have happened which may explain why your brain is vulnerable to going wrong in this way and could be worth exploring. I think a psychiatric/psychological assessment could be helpful. What do you think?" @bennettPracticalReviewFunctional2021
+:::
+
+## Patient Resources
+
+:::{layout-ncol="3"}
+
+[{{< iconify ph video size=5x >}} </br> Neurosymptoms.org](https://neurosymptoms.org/en/){.btn .btn-outline-primary .btn role="button"}
+
+[{{< iconify streamline global-learning size=5x >}} </br> FND Hope](https://fndhope.org/){.btn .btn-outline-primary .btn role="button"}
+
+[{{< iconify streamline global-learning size=5x >}} </br> FND Action](https://www.fndaction.org.uk/){.btn .btn-outline-primary .btn role="button"}
+
+:::
+
+
+# Functional MOTOR disorder (FMD) (what PT treats!)
+
+:::{.callout-note}
+based on @nielsenPhysiotherapyFunctionalMotor2015 
+:::
+
+
+## Consensus recommendations
+
+1. Education (normalize illness beliefs, reduce abnormal self directed attention, break down learned patterns of abnormal movement) @nielsenPhysiotherapyFunctionalMotor2015.
+1. Demonstrate normal movement can occur (through automatic pathways) @nielsenPhysiotherapyFunctionalMotor2015.
+1. Retrain movement with diverted attention @nielsenPhysiotherapyFunctionalMotor2015.
+1. Change maladaptive behaviors related to symptoms @nielsenPhysiotherapyFunctionalMotor2015.
+
+## General Treatment Principles
+
+1. Build trust before challenging the patient @nielsenPhysiotherapyFunctionalMotor2015.
+1. Limit hands on treatment, facilitate- do not support  @nielsenPhysiotherapyFunctionalMotor2015.
+1. Encourage early WB (bed strength does not correlate with ability to walk/stand) @nielsenPhysiotherapyFunctionalMotor2015.
+1. Foster independence/self management with goals @nielsenPhysiotherapyFunctionalMotor2015.
+1. Goal directed rehab - focus on functional/automatic movements (ie walking) rather than impairments (weakness) and controlled (requiring lots of attention) movement (like strength/non automatic movements) @nielsenPhysiotherapyFunctionalMotor2015.
+1. Minimize use of maladaptive patterns/positions (retrain with correct biomechanics) @nielsenPhysiotherapyFunctionalMotor2015.
+1. Avoid adaptive equipment/aids unless absolutely necessary (never recommend splints) @nielsenPhysiotherapyFunctionalMotor2015.
+1. Challenge / recognize unhelpful thought patterns @nielsenPhysiotherapyFunctionalMotor2015.
+1. Develop a relapse prevention plan @nielsenPhysiotherapyFunctionalMotor2015.
+1. *NEVER* say psychogenic/conversion disorder, use functional movement disorder or weakness/paralysis/tremor/dystonia etc @nielsenPhysiotherapyFunctionalMotor2015.
+1. Acknowledge that their symptoms are real, and not imagined @nielsenPhysiotherapyFunctionalMotor2015.
+1. Acknowledge that these symptoms are common and you FREQUENTLY see patients with these symptoms (trust is huge, they need to buy in completely) @nielsenPhysiotherapyFunctionalMotor2015.
+1. Explain that their symptoms can get better : the problem is with NS functioning and not actual physical damage to the NS @nielsenPhysiotherapyFunctionalMotor2015.
+1. Explain that FMD is diagnosed with clinical signs which demonstrate normal movement is possible, and physical therapy can help coax out the automatic movements that were once within your brain.  (through distraction, music, etc) @nielsenPhysiotherapyFunctionalMotor2015.
+    - Clinical signs: hoovers, hip abductor sign, abolishing tremor with rhythmical movements @nielsenPhysiotherapyFunctionalMotor2015.
+1. Explain a wide variety of factors can cause symptoms → physical illness, injury, psych factors like anxiety/depression/trauma @nielsenPhysiotherapyFunctionalMotor2015.
+    - PT can retrain the NS to regain control over movement @nielsenPhysiotherapyFunctionalMotor2015.
+
+## Language
+
+- Correctly remove blame/fault/voluntariness @nielsenPhysiotherapyFunctionalMotor2015.
+    - “Brain is attending to your body in an abnormal way, your tests show that your muscles are capable of movement, but we have to retrain your nervous system to allow that movement to happen” @nielsenPhysiotherapyFunctionalMotor2015.
+- To cue “ALLOW your leg to come forward”, do not say: “step your leg forward” @nielsenPhysiotherapyFunctionalMotor2015.
+
+## Treatment ideas
+
+- Retrain movement through diverted attention @nielsenPhysiotherapyFunctionalMotor2015.
+    - Minimize self focused attention by distracting/preventing the patient from cognitively controlling movement and to stimulate automatically generated movement @nielsenPhysiotherapyFunctionalMotor2015.
+    - Can be achieved by altering focus of motor attention, such as thinking about a different part of the movement or trying FAST, RHYTHMICAL, UNFAMILIAR, OR UNPREDICTABLE MOVEMENT @nielsenPhysiotherapyFunctionalMotor2015.
+    - Distraction
+        - Conversation, music, mental tasks (like math) @nielsenPhysiotherapyFunctionalMotor2015.
+        - Task oriented exercises are preferred (effective, translate directly into improved function, encourage implicit motor control) @nielsenPhysiotherapyFunctionalMotor2015.
+        - WB/automatic postural responses like sitting on an unstable surface- like a therapy ball @nielsenPhysiotherapyFunctionalMotor2015.
+    - OTHER ideas to normalize movement: @nielsenPhysiotherapyFunctionalMotor2015.
+
+
+
+# Treatment Plan
+
+
+
+## Mechanism
+
+## Symptoms
+
+:::{.callout-note}
+functional seizures can be seen as an involuntary, learned brain “reflex” that gets rid of unpleasant sensations. Can explain to patients this way. 
+:::
+
+

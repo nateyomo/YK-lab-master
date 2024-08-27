@@ -1,0 +1,17 @@
+---
+title: Glycolysis
+---
+
+:::{.callout title="Readings"}
+
+- Ch 14 GLYCOLYSIS, GLUCONEOGENESIS, AND THE PENTOSE PHOSPHATE PATHWAY @nelsonLehningerPrinciplesBiochemistry2021
+:::
+
+{{< video https://www.youtube.com/watch?v=gggC9vctvBQ&t=573s&pp=ygUVbmluamEgbmVyZCBnbHljb2x5c2lz >}}
+
+
+
+
+# Glycolysis Regulation
+
+{{< video https://www.youtube.com/watch?v=xoqyF6DJZ-Y&pp=ygUVbmluamEgbmVyZCBnbHljb2x5c2lz >}}

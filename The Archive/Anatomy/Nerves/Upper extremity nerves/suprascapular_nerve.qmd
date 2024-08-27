@@ -1,0 +1,104 @@
+---
+title: Suprascapular nerve
+---
+
+![The Brachial Plexus @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Upper extremity nerves/images/gilroyatlas fig28.11 brachial plexus course.png)
+![Brachial Plexus @duttonDuttonOrthopaedicExamination2020](/The Archive/Anatomy/Nerves/Upper extremity nerves/images/fig3.9 Brachial Plexus Dutton.png)
+
+# Anatomy
+
+# Origin {#origin}
+The [suprascapular nerve]({{< var ref-suprascapular-nerve.path >}}) originates from nerve roots {{< var ref-suprascapular-nerve.roots >}} via the [Superior Trunk]({{< var ref-brachial-plexus.superior-trunk >}}) at Erb’s point @duttonDuttonOrthopaedicExamination2020.
+
+## Path
+
+The suprascapular nerve comes off the [Superior Trunk]({{< var ref-brachial-plexus.superior-trunk >}}) and travels inferiorly and laterally posterior to the brachial plexus, parallel to the *omohyoid muscle*, and inferior to the trapezius to the superior edge of the scapula then through the suprascapular notch @duttonDuttonOrthopaedicExamination2020.
+The suprascapular artery and vein initially run with the suprascapular nerve, but deviate and run superior to the transverse suprascapular ligament over the suprascapular notch @duttonDuttonOrthopaedicExamination2020.
+
+## Termination
+
+- After passing through the notch, the nerve supplies motor innervation to the [supraspinatus muscle]({{< var ref-supraspinatus.path >}}) @duttonDuttonOrthopaedicExamination2020. 
+- The nerve also gives off afferent articular branches to the GHJ and ACJ [@gilroyAtlasAnatomy2020; @duttonDuttonOrthopaedicExamination2020].
+- The suprascapular nerve then passes inferiorly to the scapular spine via the spinoglenoid notch to provide motor innervation to the [infraspinatus muscle]({{< var ref-infraspinatus.path >}}) [@gilroyAtlasAnatomy2020; @duttonDuttonOrthopaedicExamination2020].
+
+
+
+
+# Motor Innervation
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "suprascapular_nerve"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Suprascapular n. Direct Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Supraspinatus]({{< var ref-supraspinatus.path >}}) | {{< var ref-supraspinatus.origin >}} | {{< var ref-supraspinatus.insertion >}} | {{< var ref-supraspinatus.nerve >}} | {{< var ref-supraspinatus.action >}} |
+| [Infraspinatus]({{< var ref-infraspinatus.path >}}) | {{< var ref-infraspinatus.origin >}} | {{< var ref-infraspinatus.insertion >}} | {{< var ref-infraspinatus.nerve >}} | {{< var ref-infraspinatus.action >}} |
+: Suprascapular nerve motor innervation {.striped .hover}
+
+# Joint innervation
+
+- Suprascapular nerve provides sensory and sympathetic afferent fibers to the GHJ @duttonDuttonOrthopaedicExamination2020
+- Suprascapular nerve provides sensory and sympathetic afferent fibers to the ACJ @duttonDuttonOrthopaedicExamination2020
+- Suprascapular nerve provides sensory and sympathetic afferent fibers to 2/3 of the "shoulder capsule" @duttonDuttonOrthopaedicExamination2020
+
+# Cutaneous Innervation
+
+The suprascapular nerve has cutaneous branches, which provide sensation to the proximal $\frac{1}{3}$ of the arm, but their distribution overlaps with that of the supraclavicular and axillary nerves @duttonDuttonOrthopaedicExamination2020. 
+
+
+# Injury
+
+Compression, traction, or laceration can all cause injury to the suprascapular nerve @duttonDuttonOrthopaedicExamination2020.
+
+## Compression Injury
+A direct trauma at Erb’s point can cause a compression-type injury @duttonDuttonOrthopaedicExamination2020.
+Compression neuropathy of the suprascapular nerve commonly occurs at the scapular notch under the transverse scapular ligament or at the spinoglenoid notch @duttonDuttonOrthopaedicExamination2020.
+Compression at either of these notches occurs through extraneural inflammation, lipoma or cyst development, scarring following distal clavicle resection, or ligament entrapment @duttonDuttonOrthopaedicExamination2020.
+Ligament entrapment can be caused from an acute trauma resulting from a fall on an outstretched hand (FOOSH), scapular fracture, or overuse injuries due to repetitive overhead motions @duttonDuttonOrthopaedicExamination2020. 
+
+:::{.callout-important}
+Entrapment of the suprascapular nerve is easily misdiagnosed as rotator cuff tendinitis, RTC tear, or cervical disk disease @duttonDuttonOrthopaedicExamination2020
+:::
+
+# Clinical Presentation
+
+Pain due to suprascapular nerve entrapment can radiate to the lateral neck or posterior and lateral aspects of the glenohumeral joint capsule @duttonDuttonOrthopaedicExamination2020. 
+
+
+As the suprascapular nerve is a mixed nerve, the patient presentation can include motor and sensory symptoms:
+
+1. A dull, deep ache at the posterior and lateral aspects of the shoulder, which may have a burning quality @duttonDuttonOrthopaedicExamination2020
+1. Muscle atrophy and weakness of the supraspinatus and infraspinatus @duttonDuttonOrthopaedicExamination2020
+1. Compensatory GHJ changes due to supraspinatus weakness, such as increased scapular elevation during arm elevation @duttonDuttonOrthopaedicExamination2020.
+    - This may produce impingement-like findings and complicate the diagnosis @duttonDuttonOrthopaedicExamination2020
+1. Full external rotation of the G-H joint and passive horizontal adduction are painful @duttonDuttonOrthopaedicExamination2020
+
+
+# Intervention
+
+## Conservative
+
+"Conservative intervention includes rest, ice, analgesics, and a series of perineural injections of corticosteroid to help reduce neural inflammation. A home exercise program of scapular pivoter strengthening (see Chapter 16), scapulohumeral coordination exercises (see Chapter 16), and activity-specific training may be indicated" @duttonDuttonOrthopaedicExamination2020
+
+## Surgical
+
+"Surgical intervention, involving neurolysis, cyst removal, or the excision of the transverse scapular ligament is indicated if symptoms persist" @duttonDuttonOrthopaedicExamination2020

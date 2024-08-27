@@ -1,0 +1,24 @@
+---
+title: Dermatome Testing
+---
+
+
+| Level | Root | Pain & Sensory Change | Motor Weakness | Abnormal Reflexes |
+|-|-|---|--|-|
+| C4/C5 | C5 | Deltoid @hongReliabilityDiagnosticAccuracy2022 <br> Lateral arm @hongReliabilityDiagnosticAccuracy2022 | Deltoid @hongReliabilityDiagnosticAccuracy2022 <br> Biceps @hongReliabilityDiagnosticAccuracy2022 | Bicep reflex @hongReliabilityDiagnosticAccuracy2022 |
+| C5/C6 | C6 | Radial forearm to thumb and index finger @hongReliabilityDiagnosticAccuracy2022 | Biceps @hongReliabilityDiagnosticAccuracy2022 <br> Wrist extensor @hongReliabilityDiagnosticAccuracy2022 | Bicep reflex @hongReliabilityDiagnosticAccuracy2022 <br> Brachioradialis reflex @hongReliabilityDiagnosticAccuracy2022 |
+| C6/C7 | C7 | Midradial forearm to index and middle finger @hongReliabilityDiagnosticAccuracy2022 | Wrist Flexor @hongReliabilityDiagnosticAccuracy2022 <br> Tricep @hongReliabilityDiagnosticAccuracy2022 | Triceps reflex @hongReliabilityDiagnosticAccuracy2022 |
+| C7/T1 | C8 | Ulnar forearm to ring and little finger @hongReliabilityDiagnosticAccuracy2022 | Hand Intrinsic @hongReliabilityDiagnosticAccuracy2022 <br> Finger Flexor @hongReliabilityDiagnosticAccuracy2022 | N/a @hongReliabilityDiagnosticAccuracy2022 |
+
+: {.striped .hover}
+
+
+
+# Psychometrics
+
+
+:::{.callout-note title="Read later"}
+Reliability and Diagnostic Accuracy of Standard Dermatomes and Myotomes for Determining the Pathologic Level in Surgically Verified Patients With Cervical Radiculopathy @hongReliabilityDiagnosticAccuracy2022 
+:::
+
+

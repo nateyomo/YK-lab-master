@@ -1,0 +1,14 @@
+---
+title: Transverse Ligament of the Humerus
+---
+
+
+Forms the roof of the [intertubercular groove]({{< var ref-humerus-bone.intertubercular-groove >}}) @duttonDuttonOrthopaedicExamination2020
+
+
+
+# Function
+
+Traditionally, the transverse ligament was believed to play a role in LH biceps tendon stability, but recent literature contradicts this @duttonDuttonOrthopaedicExamination2020.
+The Transverse Ligament is now believed to be continuous with RTC tendons and the Coracohumeral Ligament @duttonDuttonOrthopaedicExamination2020.
+In addition, the presence of free nerve endings in the Transverse Ligament indicate that it could be a source of pain in the shoulder @duttonDuttonOrthopaedicExamination2020.

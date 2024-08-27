@@ -1,0 +1,19 @@
+---
+title: Patient-Specific Functional Scale (PSFS)
+---
+
+The PSFS is a qualitative measure used to 
+
+# Application
+
+The patient is asked to nominate 3 activities that they have difficulty performing due to their condition @clelandPsychometricPropertiesSelected2012.
+Next, the patient rates each activity on a scale from 0-10, with 0 representing an inability to perform the activity and 10 representing the ability to perform the activity at their prior level of function (PLOF) @clelandPsychometricPropertiesSelected2012.
+The final score is an average of the three activity scores @clelandPsychometricPropertiesSelected2012.
+
+{{< pdf "/The Archive/Examination/Tests and Measures/Patient Reported Outcomes/images/Patient-specific_Functional_scale_pdf.pdf" width=100% height=500 >}}
+
+
+
+# Spinal Stenosis
+
+

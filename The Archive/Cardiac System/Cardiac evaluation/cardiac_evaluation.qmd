@@ -1,0 +1,87 @@
+---
+title: Cardiac Evaluation
+---
+
+:::{.callout-tip title="Dr. Tuttle's preffered Tests"}
+
+- [EKG]({{< var ref-electrocardiogram.path >}})
+- [Heart Sounds]({{< var ref-heart-sounds.path >}})
+- [Lung sounds]({{< var ref-lung-sounds.path >}})
+:::
+
+
+# Subjective
+
+The subjective should be performed initially and you should instruct the patient to alert you if their symptoms change
+
+- Ask pt about chest pain:
+    - Location, radiation
+    - Character, quality
+    - Frequency
+    - Aggravating and alleviating factors
+    - Precipitating factors
+
+# Physical Exam
+
+## Observation
+
+- Skin: Facial color, skin color, tone, diaphoresis
+- Edema in extremities
+- Respiratory rate, ease of respiration
+
+## Palpation
+
+- Pulses - quality, HR, rhythm
+- Pitting edema
+
+
+## Blood pressure
+
+- Multiple positions
+- Document
+
+
+
+# Diagnostic and laboratory measures
+
+## Oximetry
+
+## ECG
+
+## Complete blood count (CBC)
+
+## Coagulation profiles
+
+- Prothrombin time (PT)
+    - If someone has a PT of 2.5 = HIGHER risk of bleeding (keep in mind to not bump them into anything or fall)
+- Partial thromboplastin time (PTT)
+- INR: International normalized ratio
+    - >3 = bleeding risk
+
+## Blood lipids
+
+- May be falsely elevated after MI for 6 weeks
+
+## C-reactive protein (CRP)
+
+[C-Reactive Protein (CRP)]({{< var ref-c-reactive-protein.path >}}) serum amount is a marker of acute inflammation
+
+| Value | Risk |
+|-|-|
+| <1mg/L | Low |
+| 1.0 - 3.0 mg/L | Average |
+| >3.0 mg/L | High |
+: Interpertation of CRP Values {.striped .hover}
+
+
+Test validity: High sensitivity CRP (hs-CRP) = predictive of recurrent coronary events
+
+# More biochemical markers
+
+- [Creatine kinase]({{< var ref-creatine-kinase.path >}}): CK and CK-MB 
+- [Troponin]({{< var ref-troponin.overview.path >}})
+    - [Troponin T (cTnT)]({{< var ref-troponin.ctnt.path >}})
+    - [Troponin I (cTnI)]({{< var ref-troponin.ctni.path >}})
+- Arterial Blood Gas Measurements
+- Chest Radiography 
+    - CHF

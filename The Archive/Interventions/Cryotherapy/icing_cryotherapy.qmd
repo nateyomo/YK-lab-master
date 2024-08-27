@@ -1,0 +1,84 @@
+---
+title: Icing as a modality and intervention
+---
+
+
+
+
+# Contusion
+
+In a study by Singh (2017) @singhEffectsTopicalIcing2017b, topical icing disrupted inflammation and some aspects of angiogenesis/revascularization, but did not result in differences in capillary density or muscle growth @singhEffectsTopicalIcing2017b.
+
+
+::: {.callout-note collapse="true"}
+# Singh et al. (2017) Effects of Topical Icing on Inflammation, Angiogenesis, Revascularization, and Myofiber Regeneration in Skeletal Muscle Following Contusion Injury @singhEffectsTopicalIcing2017b
+
+- Independent variable: Icing vs sham treatment over 5 min, 
+- Dependent variable: presence of [neutrophils]({{< var ref-neutrophil.path >}}) and [macrophages]({{< var ref-macrophage.path >}}); expression of CD34, von Willebrands factor (vWF), vascular endothelial growth factor (VEGF), and nestin; vessel volume; capillary density; and myofiber regeneration in skeletal after muscle contusion injury in rats
+    - Muscle tissue was collected 1, 3, 7, and 28 d after injury
+- Population
+    - Rats @singhEffectsTopicalIcing2017b
+    - n = 80 @singhEffectsTopicalIcing2017b
+- Methods:
+    - 5 min after contusion:
+        - ice group had an ice block for 20 min and massaged with a figure-8 motion @singhalPosteriorReversibleEncephalopathy2021
+        - Sham: massaged at room temp. @singhEffectsTopicalIcing2017b
+    - Euthanasia: Groups of 10 rats from each group were euthanized at 1, 3, 7, and 28 days to take muscle biopsies
+
+Results
+
+|   | Sham | Topical Ice group | 
+|------|--------|-------|
+| Day 1 | | |
+| Neutrophils (day 1) | More abundant | Less abundant |
+| Day 3 | | |
+| Necrosis after 3 days | Nearly cleared | Several necrotic areas |
+| Macrophage (day 3) | found in necrotic tissue | Not as prominent |
+| Day 7 | | |
+| Necrosis (Day 7) | Necrosis cleared in mm tissue in both | |
+| 28 days | | |
+| Necrosis (Day 28) | Normal tissue almost restored & inflammatory cell influx was mostly resolved | |
+
+: Results from Singh et al., (2017) @singhEffectsTopicalIcing2017b {.striped .hover}
+
+
+|   | Sham | Topical Ice group | 
+|------|--------|-------|
+| Neutrophils (day 1) | More abundant | Less abundant |
+| Neutrophils (day 3) | Less | More abundant in mm |
+| Neutrophils (day 7) | None | None |
+| Neutrophils (day 28) | None | None |
+
+: Neutrophil Results from Singh et al., (2017) @singhEffectsTopicalIcing2017b {.striped .hover}
+
+|   | Sham | Topical Ice group | 
+|------|--------|-------|
+| Macrophage (day 1) | More abundant | Less |
+| Macrophage (day 3) | More abundant | Less |
+| Macrophage (day 7) | Less | More abundant |
+| Macrophage (day 28) | Less | More abundant |
+
+: Macrophage Results from Singh et al., (2017) @singhEffectsTopicalIcing2017b {.striped .hover}
+
+- Statistical analysis: 
+
+
+Macrophages: more abundant in sham day 1 and 3, whereas more abundant in icing group day 7 and 28
+CD34 (measure of capillary density): percent of CD34 stained area was greater in muscle from sham group than icing on days 3 and 7, but after 28 days, the icing group had a greater percent of CD34 than the sham group. 
+
+vWF: percent of vWF stained area was greater in muscle from the sham group than icing at day 3 and 7 post injury. 
+VEGF: percent of VEGF stained area was greater in muscle from sham group vs icing group at 3 days post injury. 
+Nestin (measure of maturing endothelial cells): area of nestin was greater in mm from sham than icing 3 days post injury but by day 7, greater in mm from icing group than sham. 
+
+Micro-CT (vessel volume in mm): greater in sham than icing day 3. No difference between groups by day 28.
+Number of capillaries per fiber and the number of capillaries per mm^2 at 28 day post injury did not differ between groups
+Day 7: centrally nucleated regenerating mm fibers present in sham, only a few in icing group
+Percentage of regenerating fibers relative to number of fibers was greater in the icing group than in sham 28 d post injury and no difference at 7 days. 
+
+Answer: Compared to sham, Icing attenuated and/or delayed neutrophil and macrophage infiltration, expression of vWF, VEGF and nestin, and change in vessel volume within muscle 7 days after injury. Icing did not influence capillary density in mm 28 days post injury. The percentage of immature myofibers relative to the total number of fibers was greater in the icing group than sham 28 d after injury. Myofiber CSA did not differ between groups after 7 or 28 days.
+
+Conclusion: Icing disrupted inflammation and some aspects of angiogenesis/revascularization. 
+However, this did not result in differences in capillary density or muscle growth.
+
+
+:::

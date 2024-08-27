@@ -1,0 +1,58 @@
+---
+title: Attrition Effects
+---
+
+Attrition refers to the loss of participants in a study.
+Attrition effects refers to a type of [systematic error]({{< var ref-error.systematic >}}) and associated bias that arises from systematic differences in the way participants are lost from a study @nunanCatalogueBiasAttrition2018. 
+
+
+:::{.callout-note}
+Random attrition overall results in a reduction in overall data for analysis, which will not result in attrition effects @nunanCatalogueBiasAttrition2018.
+:::
+
+
+
+
+
+
+:::{.callout-note}
+A differential loss of pts from one group to another d/t reasons that might impact treatment outcomes such as poor motivation or adverse treatment effects. -Dr. Monroe
+
+Monroe stated this, but I am unsure how this can cause poor motivation if the patients are blinded.
+:::
+
+# Determining Significant Attrition
+
+| Loss to follow-up | Study Impact |
+|-|-|
+| $\leq 5\%$ | Unlikely to introduce bias @nunanCatalogueBiasAttrition2018
+| $5-20\%$ | Might be a source of bias |
+| $20\%$ | Concerning possibility of bias|
+: Schulz and Grimes Attrition Bias Guide @nunanCatalogueBiasAttrition2018 {.hover}
+
+Although this quick guide is useful, one should also distinguish between overall attrition rates and whether those without follow-up data are different from those with data @nunanCatalogueBiasAttrition2018.
+
+
+<!--
+# Impact
+
+Whether the attrition effect overemphasizes or underemphasizes the results depends on the individual study.
+
+:::{layout-ncol="2"}
+
+### Overemphasize 
+
+- If patients experience negative results from an intervention, they could leave the study and only the patients with positive responses are followed up
+
+
+### Underemphasize
+:::
+-->
+
+
+
+
+
+# Prevention
+
+An intention-to-treat analysis should be used to mitigate attrition effects.

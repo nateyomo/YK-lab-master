@@ -1,0 +1,28 @@
+---
+title: CNIV Trochlear Nerve
+---
+
+
+```{mermaid}
+flowchart TB
+  Lmidbrain[L Tegmentum of Midbrain] --> Decussate[Decussate]
+  Decussate[Decussate] --> Ltrochlearnucleus[L Trochlear Nucleus]
+  
+  Ltrochlearnucleus --> LSOF[L Superior Orbital fissure]
+  LSOF -- Somatic Motor --> LSOM{L Superior Oblique Muscle}
+  
+
+  RA[R tegmentum of the midbrain] --> Decussate[Decussate]
+  Decussate --> Rtrochlearnucleus[R Trochlear Nucleus]
+  Rtrochlearnucleus --> RSOF[R Superior Orbital fissure]
+  RSOF -- somatic motor --> RSOM{R Superior Oblique Muscle}
+
+```
+
+
+# Pathway
+-	Exits from the Tegmentum in the Dorsal Midbrain at the level of the inferior colliculus (Near midline & ventral to cerebral aqueduct) @blumenfeldNeuroanatomyClinicalCases2022
+- Trochlear nucleus
+- (Decussate) & exit Midbrain ->cavernous sinus -> Superior orbital fissure -> Superior oblique muscle
+
+Axons leave nucleus & Travel dorsally -> Decussate & Exit midbrain on dorsal surface -> Enter cavernous sinus -> Travel through superior orbital fissure -> Superior oblique muscle

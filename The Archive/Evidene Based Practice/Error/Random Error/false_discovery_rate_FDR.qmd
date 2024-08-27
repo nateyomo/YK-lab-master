@@ -1,0 +1,13 @@
+---
+title: False Discovery Rate (FDR)
+---
+
+
+false discovery rate (FDR) is the expected value of V/R, where V is the number of true hypotheses that are rejected (i.e. the number of false rejections) and R is the total number of rejected hypotheses @shafferControllingFalseDiscovery2007
+
+
+
+total R is known and equals V þ S, where S is the number of rejections of false hypotheses, i.e. of correct rejection
+
+
+Due to this definition, $FDR \leq FWER$, since if FWER = a, V/R is zero with probability $1 - \alpha$ and between 0 and 1 with probability a, and thus its expected value is $\leq \alpha$ @shafferControllingFalseDiscovery2007

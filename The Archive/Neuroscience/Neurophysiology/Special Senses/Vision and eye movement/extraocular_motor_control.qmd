@@ -1,0 +1,80 @@
+---
+title: Extraocular Motor Control (CNIII, IV, VI)
+---
+
+# Resources
+- Blumenfield Ch12, Ch13 @blumenfeldNeuroanatomyClinicalCases2022
+
+
+
+# Overview
+
+[CN III Oculomotor nerve]({{< var ref-cn3.path >}}), [CN IV Trochlear Nerve]({{< var ref-cn4.path >}}), and [CN VI Abducens Nerve]({{< var ref-cn6.path >}}) are responsible for controlling the [extraocular muscles]({{< var ref-extraocular-muscles.path >}}) @blumenfeldNeuroanatomyClinicalCases2022.
+
+- [CN VI Abducens Nerve]({{< var ref-cn6.path >}}) innervates the Lateral Rectus Muscle, which functions to abduct the eye laterally in the horizontal direction @blumenfeldNeuroanatomyClinicalCases2022.
+- [CN IV Trochlear Nerve]({{< var ref-cn4.path >}}) innervates the Superior Oblique muscle, which acts through a trochlea (pulley-like structure) to rotate the top of the eye medially and downward @blumenfeldNeuroanatomyClinicalCases2022.
+- [CN III Oculomotor nerve]({{< var ref-cn3.path >}}) innervates all the other extraocular muscles to perform the rest of the eye's movements.
+
+## Cranial Nerve Nuclei
+
+- The [oculomotor nucleus]({{< var ref-oculomotor-nucleus.path >}}) (CN III) and the [Trochlear nucleus]({{< var ref-trochlear-nucleus.path >}}) (CN IV) are located in the midbrain
+- The [abducens nucleus]({{< var ref-abducens-nucleus.path >}}) (CN VI) is found in the pons @blumenfeldNeuroanatomyClinicalCases2022. 
+
+## Nerve Pathways
+
+<!--
+::: {layout-ncol=3}
+
+!["Ventral view of Surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.2A Surface anatomy of the brainstem and cranial nerves blumenfield2022.png)
+
+!["Dorsal view of Surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.2B Surface anatomy of the brainstem and cranial nerves blumenfield2022.png)
+
+!["Lateral view of the surface Anatomy of the brainstem and cranial nerves (from fig12.2 of Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022)"](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.2C Surface anatomy of the brainstem and cranial nerves blumenfield2022.png)
+:::
+-->
+
+Exit:
+
+- CN III exits the midbrain **ventrally** in the interpeduncular fossa @blumenfeldNeuroanatomyClinicalCases2022.
+- CN IV exits the midbrain **dorsally** from the inferior tectum @blumenfeldNeuroanatomyClinicalCases2022. 
+- CN VI exits the pons ventrally at the pontomedullary junction @blumenfeldNeuroanatomyClinicalCases2022.
+
+Pathway:
+
+- All 3 of these nerves traverse the cavernous sinus and then leave the skull through the superior orbital fissure to synapse and innervate the [extraocular muscles]({{< var ref-extraocular-muscles.path >}}) @blumenfeldNeuroanatomyClinicalCases2022.
+
+
+# Dysfunction
+Dysfunction of these nerves commonly presents as diploplia or extraocular muscle paralysis @rongiesPhysiotherapyPostinfectionInjury2019.
+
+
+# Viral Damage
+Although a rarely used option, physical therapy (PT) can be effective to rehabilitate CN III and VI damage and even has advantages over traditional approaches @rongiesPhysiotherapyPostinfectionInjury2019.
+Theoretically, physical therapy is better than traditional options since it is non-invasive and does not utilize first-pass metabolism drugs @rongiesPhysiotherapyPostinfectionInjury2019.
+
+## Case study: Rongies (2019)
+A case study by Rongies et al., (2019) @rongiesPhysiotherapyPostinfectionInjury2019 discussed and outlined the physical therapy rehabilitation of a patient who experienced [CN III]({{< var ref-cn3.path >}}), IV, and VI damage resulting in extraocular muscle paralysis due to bacterial infection @rongiesPhysiotherapyPostinfectionInjury2019.
+The patient received natural and synthetic antibiotics and steroids to resolve the acute signs of infection, but this did not yield any functional improvement @rongiesPhysiotherapyPostinfectionInjury2019.
+Rongies et al., found full and rapid resolution of extraocular paralysis and diploplia using periorbital hydrocortisone iontophoresis, visuomotor exercises combined with intense ideomotor stimulation @rongiesPhysiotherapyPostinfectionInjury2019.
+
+Interventions
+
+- Iontophoresis
+    - Iontophoretic treatment of various ophthalmic conditions @rongiesPhysiotherapyPostinfectionInjury2019.
+    - Used as a means of noninvasive, transdermal drug delivery
+    - Performed in the orbital region affected by extraocular muscle palsy ( The selected technique of ocular iontophoresis was indirect, through a closed eyelid) @rongiesPhysiotherapyPostinfectionInjury2019.
+    - Drug: Corhydron 100 [hydrocortisone] at 50 mg/5mL of a sodium chloride solution as a solvent @rongiesPhysiotherapyPostinfectionInjury2019.
+    - The procedure used direct (or galvanic) current.
+    - Duration of each single iontophoresis procedure was 20 minutes @rongiesPhysiotherapyPostinfectionInjury2019
+    - Pt position: Upright sitting position with head and forearms supported (to enable observation of autonomic nervous system related adverse effects) @rongiesPhysiotherapyPostinfectionInjury2019.
+- Exercise
+    - Exercise performed immediately after iontophoresis @rongiesPhysiotherapyPostinfectionInjury2019.
+    - 30-minute set of PT supervised exercises @rongiesPhysiotherapyPostinfectionInjury2019.
+    - Breaks
+        - Allowed if: 1. Pt reported feeling of muscle fatigue or 2. distinct deceleration of eyeball movements was observed
+        - Frequency of breaks: gradually decreased from every several seconds to every 2 minutes
+    - Exercise Type: Attempts to follow with the gaze an object (patient’s hand) moving diagonally in space (in alternate pattern), with additional simultaneous ideomotor stimulation @rongiesPhysiotherapyPostinfectionInjury2019.
+    - The amplitude of movement progressively increased during the rehabilitation sessions. The patient performed his exercises in sitting and standing positions positions which improved comfort by avoiding forced position. His head was still. Each exercise session was conducted in setting that limited the patient's distraction. The patient was advised to perform these exercises at home 2-3 times a day. The outcome measures for this study were the range of eye movement, reaction times during eye movement and muscle endurance, in comparison with these in the unaffected eye. The results were evaluated visually by 3 independent researchers who were not involved in the process of treatment. The range of movement improvement has been documented in the picture.
+- Results:
+    - Rongies used daily physical therapy and the patient regained distinct movement within 4 days @rongiesPhysiotherapyPostinfectionInjury2019.
+    - By session 16, the patient displayed complete return of function in all paralyzed muscles @rongiesPhysiotherapyPostinfectionInjury2019.

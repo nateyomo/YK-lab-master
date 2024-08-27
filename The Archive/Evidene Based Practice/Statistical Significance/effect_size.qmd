@@ -1,0 +1,128 @@
+---
+title: Effect Size
+subtitle: The magnitude of difference between two groups
+---
+
+# Overview
+
+- Effect size is a measure of the difference between sample means @aronStatisticsPsychology2013.
+- Effect size could be considered "How much something changes *after* a specific intervention" @aronStatisticsPsychology2013.
+- Effect size measures the extent to which two samples do **not** overlap @aronStatisticsPsychology2013.
+- Often Abbreviated "d" (Cohen's d)
+
+# Types of Effect Size
+
+
+## Raw Score Effect Size
+Raw score effect size provides the literal mean difference between mean group scores @aronStatisticsPsychology2013.
+
+| Symbol | Meaning |
+|-|----|
+| $\mu_1$ | Sample 1 mean @aronStatisticsPsychology2013 |
+| $\mu_2$ | Sample 2 mean @aronStatisticsPsychology2013
+$$
+\textrm{Raw Score Effect Size} = \mu_1 - \mu_2
+$$
+
+## Standardized Effect Size
+The standardized effect size is the raw score effect size divided by the standard deviation of its respective population @aronStatisticsPsychology2013.
+
+| Symbol | Meaning |
+|-|----|
+| d | Cohen's D (Effect Size) @aronStatisticsPsychology2013 |
+| $\mu_1$ | Sample 1 mean @aronStatisticsPsychology2013 |
+| $\mu_2$ | Sample 2 mean @aronStatisticsPsychology2013
+| $\sigma$ | Standard Deviation of the Population |
+
+$$
+\textrm{d} = \frac{\mu_1 - \mu_2}{\sigma}
+$$
+
+Standardized Effect size allows one to compare effect sizes between different measures.
+For example, standardized effect size allows a researcher to compare a pain scale from 0-43 to another pain scale which ranges from 0-10 @aronStatisticsPsychology2013.
+
+::: {.callout-note}
+
+- Notice that you are using standard deviation of the population (&sigma;) **not** standard deviation of the distribution of means ($\sigma_M$) @aronStatisticsPsychology2013
+- In addition you are only concerned with *one* population's standard deviation @aronStatisticsPsychology2013.
+- In hypothesis testing, all of your participants should be from the same overall population @aronStatisticsPsychology2013.
+:::
+
+# Example
+
+:::{layout-ncol="2"}
+
+### Experiment A results:
+
+- Control group mean: 200
+- Experimental group mean: **220**
+- Raw Score Effect size: $220-200=\textbf{20}$
+- Standardized Effect size: $\textrm{d} = \frac{\mu_1 - \mu_2}{\sigma} =\frac{220-200}{48} = \textbf{0.416}$
+
+### Experiment B Results
+
+- Control group mean: 200
+- Experimental group mean: **210**
+- Raw Score Effect size: $210-200=\textbf{10}$
+- Standardized Effect size:  $\textrm{d} = \frac{\mu_1 - \mu_2}{\sigma} = \frac{210-200}{48} = \textbf{0.208}$
+:::
+
+:::{layout-ncol="2"}
+
+![Experiment A Effect size compares the means of the control group (200) with the experimental group (220)](/The Archive/Evidene Based Practice/Statistical Significance/images/aron fig6.2a effect size.png)
+
+![Experiment B Effect size compares the means of the control group (200) with the experimental group (210)](/The Archive/Evidene Based Practice/Statistical Significance/images/aron fig6.2b effect size.png)
+
+:::
+
+When comparing these two experiments, we can visually see that Experiment A has a much larger effect size.
+
+<!--
+# Eta Squared ($\eta^2$)
+
+Eta squared measures the proportion of variance that a given variable accounts for out of the total variance in an ANOVA model. It is calculated as:
+
+
+$$
+
+\eta^2 = \frac{\textrm{SS}_\textrm{effect}}{(\textrm{SS}_\textrm{total})} 
+
+$$
+
+where:
+
+SSeffect: The sum of squares of an effect for one variable.
+SStotal: The total sum of squares in the ANOVA model.
+When there is only one predictor variable in the model (i.e. a one-way ANOVA), then the value for eta squared and partial eta squared will be equal.
+
+# Partial Eta Squared ($\eta^2$)
+
+
+Partial eta squared is a way to measure the effect size of different variables in ANOVA models.
+
+It measures the proportion of variance explained by a given variable of the total variance remaining after accounting for variance explained by other variables in the model.
+
+How to Calculate Partial Eta Squared
+The formula to calculate Partial eta squared is as follows:
+
+$$
+
+\textrm{partial} \space \eta^2 = \frac{\textrm{SS}_\textrm{effect}}{(\textrm{SS}_\textrm{effect} + \textrm{SS}_\textrm{error})} 
+
+$$
+
+- $\textrm{SS}_\textrm{effect}$: The sum of squares of an effect for one variable.
+- $\textrm{SS}_\textrm{error}$: The sum of squares error in the ANOVA model.
+
+Interpretation
+
+- The value for Partial eta squared ranges from 0 to 1
+- Values closer to 1 indicate a higher proportion of variance that can be explained by a given variable in the model after accounting for variance explained by other variables in the model.
+- The following rules of thumb are used to interpret values for Partial eta squared:
+
+| $\eta^2$ | Interpretation |
+|-|-|
+|0.01 | Small effect size |
+|0.06 | Medium effect size |
+| 0.14 or higher | Large effect size |
+-->

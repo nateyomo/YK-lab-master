@@ -1,0 +1,19 @@
+---
+title: Softball Throwing
+---
+
+
+# Predictor for throwing distance
+
+- Correlations between performance on ALL tests
+- CKC Row ("modified pull-up test") was best predictor of performance on the softball throw for distance @negreteCanUpperExtremity2011
+
+
+
+| Predictor | Correlation to throw Score |
+|-|-|
+|Modified pull up score| 0.7 @negreteCanUpperExtremity2011|
+|Push-up Score | 0.63 @negreteCanUpperExtremity2011 |
+| Shot put (Dominant arm) | 0.46 @negreteCanUpperExtremity2011 |
+| Shot put (Non-dominant arm) | 0.45 @negreteCanUpperExtremity2011 |
+| Davies CKC | 0.33 @negreteCanUpperExtremity2011 |

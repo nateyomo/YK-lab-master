@@ -1,0 +1,31 @@
+---
+title: Bones of the Skull
+---
+
+#### Neurocranium
+
+- Ethmoid bone (cribriform plate)
+- Frontal bone
+- Occipital bone
+- Parietal bone
+- Sphenoid bone
+- Temporal bone (petrous and squamous parts)
+
+#### Visccerocranium
+
+- Ethmoid bone
+- Hyoid bone
+- Inferior nasal concha
+- Lacrimal bone
+- Mandible
+- Maxilla
+- Nasal bone
+- Palatine bone
+- Sphenoid bone (pterygoid process)
+- Temporal bone
+- Vomer
+
+::: {.callout-note collapse="true"}
+# Neurocranium vs Viscerocranium
+Most of the ethmoid bone is in the viscerocranium; most of the sphenoid bone is in the neurocranium. The temporal bone is divided between the two @gilroyAtlasAnatomy2020
+:::

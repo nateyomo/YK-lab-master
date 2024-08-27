@@ -1,0 +1,35 @@
+---
+title: "Chronic Low Back Pain"
+---
+
+:::{.callout-note title="Books to reference"}
+
+- Acute & Chronic LBP CPG - George et al. @georgeInterventionsManagementAcute2021
+- Bonicas CHAPTER 73 Chronic Low Back Pain @ballantyneBonicaManagementPain2019
+- Bonicas CHAPTER 74 Surgery for Low Back Pain @ballantyneBonicaManagementPain2019
+:::
+
+
+# Chronic Low Back Pain (No radiating sx)
+
+
+## Therex
+- Grade A @georgeInterventionsManagementAcute2021
+
+Some of the exercises that were given a grade of A include:
+
+- MM strengthening & endurance @georgeInterventionsManagementAcute2021
+- Multimodal exercise @georgeInterventionsManagementAcute2021
+- Specific trunk mm activation → coordination, strength, endurance @georgeInterventionsManagementAcute2021
+- Aerobic @georgeInterventionsManagementAcute2021
+- Aquatic @georgeInterventionsManagementAcute2021
+- General @georgeInterventionsManagementAcute2021
+
+
+# Chronic Low back Pain + Leg sx
+Defined by George et al.,  as back pain lasting more than 6 weeks with associated buttock and/or leg pain @georgeInterventionsManagementAcute2021.
+
+## Rehab goals
+- Centralize symptoms @georgeInterventionsManagementAcute2021
+- Reduce Pain @georgeInterventionsManagementAcute2021
+- Reduce Disability @georgeInterventionsManagementAcute2021

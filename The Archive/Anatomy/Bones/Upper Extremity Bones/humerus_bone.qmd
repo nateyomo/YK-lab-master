@@ -1,0 +1,141 @@
+---
+title: Humerus (bone)
+---
+
+
+
+# Sites
+
+## Humeral Head
+
+- LAteral attachment of [GH capsule]({{< var ref-glenohumeral-joint.capsule >}}) @duttonDuttonOrthopaedicExamination2020 
+- The humeral head landmark is divided by an imaginary line that separates the humeral head from the rest of the humerus @duttonDuttonOrthopaedicExamination2020
+
+## Deltoid tuberosity
+
+<details>
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Anterior Deltoid]({{< var ref-deltoid-muscle-anterior.path >}}) | {{< var ref-deltoid-muscle-anterior.origin >}} | {{< var ref-deltoid-muscle-anterior.insertion >}} | {{< var ref-deltoid-muscle-anterior.nerve >}} | {{< var ref-deltoid-muscle-anterior.action >}} |
+| [Lateral Deltoid]({{< var ref-deltoid-muscle-lateral.path >}}) | {{< var ref-deltoid-muscle-lateral.origin >}} | {{< var ref-deltoid-muscle-lateral.insertion >}} | {{< var ref-deltoid-muscle-lateral.nerve >}} | {{< var ref-deltoid-muscle-lateral.action >}} |
+| [Posterior Deltoid]({{< var ref-deltoid-muscle-posterior.path >}}) | {{< var ref-deltoid-muscle-posterior.origin >}} | {{< var ref-deltoid-muscle-posterior.insertion >}} | {{< var ref-deltoid-muscle-posterior.nerve >}} | {{< var ref-deltoid-muscle-posterior.action >}} |
+
+: Deltoid Muscles OIAN {.striped .hover}
+</details>
+
+## Greater Tubercle
+
+- Located on the lateral neck of humerus @duttonDuttonOrthopaedicExamination2020 
+- Separated from Lesser tubercle via the intertubercular groove @duttonDuttonOrthopaedicExamination2020 
+- The greater tubercle of the humerus serves as an attachment site for some of the tendons of the RTC @duttonDuttonOrthopaedicExamination2020
+    - Supraspinatus [@duttonDuttonOrthopaedicExamination2020; @gilroyAtlasAnatomy2020]
+    - Infraspinatus [@duttonDuttonOrthopaedicExamination2020; @gilroyAtlasAnatomy2020]
+    - Teres Minor [@duttonDuttonOrthopaedicExamination2020; @gilroyAtlasAnatomy2020]
+
+
+
+
+<details>
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Supraspinatus]({{< var ref-supraspinatus.path >}}) | {{< var ref-supraspinatus.origin >}} | {{< var ref-supraspinatus.insertion >}} | {{< var ref-supraspinatus.nerve >}} | {{< var ref-supraspinatus.action >}} |
+| [Infraspinatus]({{< var ref-infraspinatus.path >}}) | {{< var ref-infraspinatus.origin >}} | {{< var ref-infraspinatus.insertion >}} | {{< var ref-infraspinatus.nerve >}} | {{< var ref-infraspinatus.action >}} |
+| [Teres Minor]({{< var ref-teres-minor.path >}}) | {{< var ref-teres-minor.origin >}} | {{< var ref-teres-minor.insertion >}} | {{< var ref-teres-minor.nerve >}} | {{< var ref-teres-minor.action >}} |
+:  {.striped .hover}
+</details>
+
+## Lesser Tubercle
+
+- Located on the lateral neck of humerus @duttonDuttonOrthopaedicExamination2020 
+- Separated from Greater tubercle via the intertubercular groove @duttonDuttonOrthopaedicExamination2020
+- Lesser tubercle serves as an attachment site for part of the RTC (subscapularis) [@duttonDuttonOrthopaedicExamination2020; @gilroyAtlasAnatomy2020].
+
+<details>
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Subscapularis]({{< var ref-subscapularis.path >}}) | {{< var ref-subscapularis.origin >}} | {{< var ref-subscapularis.insertion >}} | {{< var ref-subscapularis.nerve >}} | {{< var ref-subscapularis.action >}} |
+| [Pec Major]({{< var ref-pectoralis-major.path >}}) | {{< var ref-pectoralis-major.origin >}} | {{< var ref-pectoralis-major.insertion >}} | {{< var ref-pectoralis-major.nerve >}} | {{< var ref-pectoralis-major.action >}} |
+: Lesser tubercle of humerus attachment OIAN {.striped .hover}
+
+</details>
+
+## Lateral Epicondyle of Humerus
+
+<!--
+:::{.callout collapse="true"}
+### Lesser Tubercle Muscular attachments
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| | | | | |
+:::
+-->
+
+Dysfunction:
+
+- [Lateral epicondylitis (Tennis elbow)]({{< var ref-lateral-epicondylitis.path >}})
+
+## Humerus in line with crest of less tubercle
+
+<details>
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Coracobrachialis]({{< var ref-coracobrachialis.path >}}) | {{< var ref-coracobrachialis.origin >}} | {{< var ref-coracobrachialis.insertion >}} | {{< var ref-coracobrachialis.nerve >}} | {{< var ref-coracobrachialis.action >}} |
+
+: {.striped .hover}
+</details>
+
+## Intertubercular groove {#intertubercular-groove}
+
+- Provides a passage for the *Biceps Brachii Long Head tendon* to attach to the superior rim of the glenoid fossa @duttonDuttonOrthopaedicExamination2020
+
+:::{layout-ncol="3"}
+
+### Anatomy
+
+- The angle of the walls of the intertubercular groove can vary widely @duttonDuttonOrthopaedicExamination2020
+- Separates the *Greater Tubercle* from the *Lesser Tubercle* @duttonDuttonOrthopaedicExamination2020
+- The roof is formed by the transverse ligament @duttonDuttonOrthopaedicExamination2020
+
+### Function
+
+- Allows the proximal tendon of the biceps Brachii Long Head to travel from its origin on the labrum and supraglenoid notch on the scapula, down the neck of the humerus and to the muscle belly @duttonDuttonOrthopaedicExamination2020 
+
+### Dysfunction
+
+- Anatomic anomalies are associated with:
+    - RTC tendinopathy @duttonDuttonOrthopaedicExamination2020
+    - Bicipital Tendinopathy @duttonDuttonOrthopaedicExamination2020
+:::
+
+## Surgical Neck
+
+- The *Surgical Neck* of the humerus refers to the region inferior to the greater and lesser tuberosities, where the shaft of the humerus joins the upper margins @duttonDuttonOrthopaedicExamination2020. 
+- The [Axillary Nerve]({{< var ref-axillary-nerve.path >}}) and *Posterior Humeral Circumflex Artery* run in close proximity to the medial aspect of the surgical neck @duttonDuttonOrthopaedicExamination2020.
+    - Fractures at the Surgical Neck most commonly cause [Axillary Nerve]({{< var ref-axillary-nerve.path >}}) damage @duttonDuttonOrthopaedicExamination2020.
+- The Surgical Neck of the humerus fractures more commonly than the Anatomical Neck @duttonDuttonOrthopaedicExamination2020.
+
+
+
+
+# Anatomical Changes
+
+- Humeral Retroversion
+
+
+
+
+# Dysfunction
+
+- [Lateral epicondylitis (Tennis elbow)]({{< var ref-lateral-epicondylitis.path >}})
+
+## Fracture
+
+- Proximal humeral fx: Can have associated neural complications
+    - Radial n: Wrist ext & Elbow str
+    - Axillary n: Deltoid weakness
+

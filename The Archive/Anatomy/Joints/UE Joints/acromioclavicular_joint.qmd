@@ -1,0 +1,54 @@
+---
+title: Acromioclavicular Joint (ACJ)
+---
+
+# Overview
+
+
+Coracoacromial
+Roof of GH joint
+AC joint mvmt
+upward/downward rotation
+ant/post tilt
+IR/ER
+
+
+# Kinematics
+
+## Posterior Rotation
+
+Coracoclavicular (Conoid and Trapezoid) helps post rotation
+
+
+Coracoacromial ligament makes up the roof of the GHJ
+
+## Upward rotation
+
+## Downward rotation
+
+## Anterior Tilt
+
+## Posterior Tilt
+
+## Internal Rotation
+
+## External Rotation
+
+
+
+
+# Innervation {#innervation}
+
+[Suprascapular nerve]({{< var ref-suprascapular-nerve.path >}}) provides sensory and sympathetic afferent fibers to the ACJ @duttonDuttonOrthopaedicExamination2020 
+
+# Stabilization
+
+# Dysfunction
+
+# Mobilizations
+
+# Tests
+
+
+
+

@@ -1,0 +1,92 @@
+---
+title: Obturator Nerve
+---
+
+:::{.callout-note}
+Readings
+
+- @iwanagaRevisitingMuscularInnervation2023 
+
+:::
+
+:::{layout-ncol="2"}
+![Cutaneous Distribution of the obturator nerve (Right leg, medial view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/images/gilroyatlas fig34.14 Obturator nerve Cutaneous distribution.png)
+![Obturator nerve (Right leg, anterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/images/gilroyatlas fig34.15 Obturator nerve right side anterior view.png)
+:::
+
+# Roots
+
+[L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})
+
+# Pathway
+
+- Through psoas major, enters medial thigh via obturator canal
+- Sends motor branches to obturator externus before dividing into an anterior and posterior branch, both of which are separated by adductor brevis
+- Descends between adductor longus and brevis towards femoral artery
+- Pierces fascia lata to become cutaneous branch of obturator nerve to supply skin on medial distal part of thigh 
+- Posterior division: Passess behind Obturator Externus muscles and travels anteriorly to partially innervate adductor magnus @gilroyAtlasAnatomy2020 
+
+# Motor innervation
+
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "innervation_identifier"  # or "group_identifier"
+filter_patterns <- "obturator_nerve"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Obturator Nerve Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+
+
+:::{layout-ncol="3"}
+
+### Direct branch
+
+- Obturator externus @gilroyAtlasAnatomy2020
+
+### Anterior division
+
+- Adductor Longus @gilroyAtlasAnatomy2020
+- Adductor Brevis @gilroyAtlasAnatomy2020
+- Gracilis @gilroyAtlasAnatomy2020
+- Pectineus (in some cases) @gilroyAtlasAnatomy2020
+
+### Posterior Branch
+
+- Adductor magnus (partial innervation) @gilroyAtlasAnatomy2020
+
+:::
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Pectineus]({{< var ref-pectineus.path >}}) | {{< var ref-pectineus.origin >}} | {{< var ref-pectineus.insertion >}} | {{< var ref-pectineus.nerve >}} | {{< var ref-pectineus.action >}} |
+| [Gracilis]({{< var ref-gracilis.path >}}) | {{< var ref-gracilis.origin >}} | {{< var ref-gracilis.insertion >}} | {{< var ref-gracilis.nerve >}} | {{< var ref-gracilis.action >}} |
+| [Adductor Longus]({{< var ref-adductor-longus.path >}}) | {{< var ref-adductor-longus.origin >}} | {{< var ref-adductor-longus.insertion >}} | {{< var ref-adductor-longus.nerve >}} | {{< var ref-adductor-longus.action >}} |
+| [Adductor Brevis]({{< var ref-adductor-brevis.path >}}) | {{< var ref-adductor-brevis.origin >}} | {{< var ref-adductor-brevis.insertion >}} | {{< var ref-adductor-brevis.nerve >}} | {{< var ref-adductor-brevis.action >}} |
+| [Obturator Externus]({{< var ref-obturator-externus.path >}}) | {{< var ref-obturator-externus.origin >}} | {{< var ref-obturator-externus.insertion >}} | {{< var ref-obturator-externus.nerve >}} | {{< var ref-obturator-externus.action >}} |
+| [Adductor Magnus]({{< var ref-adductor-magnus.path >}}) | {{< var ref-adductor-magnus.origin >}} | {{< var ref-adductor-magnus.insertion >}} | {{< var ref-adductor-magnus.nerve >}} | {{< var ref-adductor-magnus.action >}} |
+: {.striped .hover}
+
+# Cutaneous Innervation
+
+![Cutaneous Distribtion of the obturator nerve (Right leg, medial view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/images/gilroyatlas fig34.14 Obturator nerve Cutaneous distribution.png)
+
+# Dysfunction
+
+"Obturator Nerve that may be compromised by herniation of intervertebral disks at L4 or L5 as they pass through the intervertebral foramina" @gilroyAtlasAnatomy2020 

@@ -1,0 +1,34 @@
+---
+title: Lumbar Spinal Stenosis
+---
+
+
+Zhang L, Chen R, Liu B, Zhang W, Zhu Y, Rong L. The nerve root sedimentation sign for differential diagnosis of lumbar spinal stenosis: a retrospective, consecutive cohort study. Eur Spine J. 2017;26(10):2512-2519. doi:10.1007/s00586-016-4435-2
+
+
+# Pathophysiology
+
+LSS is characterized by diminished space available for the neural and vascular elements in the lumbar spine @zhangNerveRootSedimentation2017 
+
+# Symptoms
+"When symptomatic, LSS typically causes buttock and/or extremity pain with or without low back pain provoked by upright exercise such as walking or prolonged standing" @zhangNerveRootSedimentation2017 
+
+
+
+# Imaging
+
+:::{layout-ncol="3"}
+### X-Ray
+
+### MRI
+
+- SedSign @zhangNerveRootSedimentation2017 
+    - 
+
+### CT Scan
+
+
+:::
+
+
+

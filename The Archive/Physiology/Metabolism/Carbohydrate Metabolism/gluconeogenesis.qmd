@@ -1,0 +1,10 @@
+---
+title: Gluconeogenesis
+---
+
+:::{.callout title="Readings"}
+
+- Ch 14 GLYCOLYSIS, GLUCONEOGENESIS, AND THE PENTOSE PHOSPHATE PATHWAY @nelsonLehningerPrinciplesBiochemistry2021
+:::
+
+{{< video https://youtu.be/YpV96faQOZc?si=gbP3uUbste-z3NXJ >}}

@@ -1,0 +1,73 @@
+---
+title: Rectus Femoris Muscle
+---
+
+
+:::{layout-ncol="3"}
+
+![Schematic of Anterior Thigh Muscles @gilroyAtlasAnatomy2020 </br> 1: Sartorius </br> 2: Rectus Femoris </br> 3: Vastus Medialis </br> 4: Vastus Lateralis </br> Vastus Intermedius](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24a anterior thigh muscles schematic.png)
+
+![Superficial Layer of Anterior Thigh Muscle @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24b anterior thigh muscles superficial layer.png)
+
+:::
+
+
+# Overview
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "rectus_femoris"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Rectus Femoris Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Origin {#origin}
+
+- [Anterior inferior iliac spine (AIIS)]({{< var ref-coxal-bone.aiis >}}) @gilroyAtlasAnatomy2020
+- Acetabular roof of hip joint @gilroyAtlasAnatomy2020 
+
+# Insertion {#insertion}
+
+Tibial tuberosity (via patellar lig.) @gilroyAtlasAnatomy2020 
+
+# Nerve
+
+[Femoral nerve]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **Hip**: Flexion @gilroyAtlasAnatomy2020
+- **Knee**: Extension @gilroyAtlasAnatomy2020
+
+
+Since the rectus femoris crosses both the hip and knee, "this gives the hip joint substantial significance with respect to the knee extensor mechanism in the examination and intervention" @duttonDuttonOrthopaedicExamination2020
+
+:::{.callout-note}
+"The line of pull of the rectus femoris, with respect to the patella, is at an angle of about 5 degrees with the femoral shaft (see Fig. 20-12)." @duttonDuttonOrthopaedicExamination2020 
+:::
+
+# Force Couple
+
+Erector Spinae and the Rectus Femoris are considered a force couple since both produce anterior pelvic tilt
+
+# Notes
+
+"The rectus femoris attaches to the pelvis near the anterior-inferior iliac spine and immediately superior to the acetabulum. The vastus muscles, however, attach to an extensive part of the femur, particularly the anterior-lateral shaft and the linea aspera (see Fig. 12.5). Although the vastus lateralis has the largest cross-sectional area of the quadriceps muscles, the vastus medialis extends farther distally toward the knee." @neumannKinesiologyMusculoskeletalSystem2017
+
+“The proximal part of the rectus femoris emerges between the limbs of an inverted V formed by the sartorius and tensor fasciae latae (see Fig. 12.26). This large bipennate­shaped muscle has its proximal attachments on the anterior­inferior iliac spine, along the superior rim of the acetabulum, and in the adjacent joint capsule. The relatively robust capsular attachment made by the “reflected” tendon of the rectus femoris has been described as an important stabilizer of the anterior capsule.238 Along with the other members of the quadriceps, the rectus femoris attaches to the tibia via the patellar tendon. The rectus femoris is responsible for about one­third of the total isometric flexion torque at the hip.144 In addition, the rectus femoris is a primary knee extensor. The combined two­joint actions of this important muscle are considered in Chapter 13. The anatomy and function of the pectineus and adductor longus are described in the section on the adductors of the hip.” @neumannKinesiologyMusculoskeletalSystem2017 

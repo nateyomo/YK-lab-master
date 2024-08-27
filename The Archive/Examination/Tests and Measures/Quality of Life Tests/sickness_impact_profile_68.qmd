@@ -1,0 +1,31 @@
+---
+title: Sickness Impact Profile 68
+---
+
+
+
+Recommended for Subacute Stroke patients via ANPT's SCI-EDGE document
+
+
+
+# General Application
+### Reliability
+
+See @nandaSIP68AbbreviatedSickness2003
+
+
+### Validity
+
+See @nandaSIP68AbbreviatedSickness2003
+
+
+
+# SCI Application
+
+### Reliability
+
+
+### Validity
+
+Internal Consistency
+- &alpha; = 0.92 (high) (Post et al. 1996; N=315, 75% male, mixed injury types, mean (SD) time since injury = 3.6 (1.9) years)

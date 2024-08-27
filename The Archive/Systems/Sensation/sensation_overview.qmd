@@ -1,0 +1,51 @@
+---
+title: Sensation System Overview
+---
+
+
+
+
+# Proprioception
+
+Read more about [proprioception]({{< var ref-proprioception.path >}}).
+
+[DCML]({{< var ref-dorsal-column-medial-lemniscus.path >}}) @osullivanPhysicalRehabilitation2019
+
+
+# Vibratory sensation
+
+Read more about [Vibratory sensation]({{< var ref-sensation.vibratory >}}).
+
+- DCML @osullivanPhysicalRehabilitation2019
+
+# Deep touch
+
+[DCML]({{< var ref-dorsal-column-medial-lemniscus.path >}}) @osullivanPhysicalRehabilitation2019
+
+
+
+# Discriminative touch
+
+[DCML]({{< var ref-dorsal-column-medial-lemniscus.path >}}) @osullivanPhysicalRehabilitation2019
+
+
+# Pain
+
+- Anterolateral system
+    - Spinothalamic @osullivanPhysicalRehabilitation2019
+    - Spinoreticular @osullivanPhysicalRehabilitation2019
+    - Spinotectal tracts @osullivanPhysicalRehabilitation2019
+
+# Temperature
+
+- Anterolateral system
+    - Spinothalamic @osullivanPhysicalRehabilitation2019
+    - Spinoreticular @osullivanPhysicalRehabilitation2019
+    - Spinotectal tracts @osullivanPhysicalRehabilitation2019
+
+# Crude touch
+
+- Anterolateral system
+    - Spinothalamic @osullivanPhysicalRehabilitation2019
+    - Spinoreticular @osullivanPhysicalRehabilitation2019
+    - Spinotectal tracts @osullivanPhysicalRehabilitation2019

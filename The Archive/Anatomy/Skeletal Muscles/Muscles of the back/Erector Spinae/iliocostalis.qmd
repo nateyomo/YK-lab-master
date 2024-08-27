@@ -1,0 +1,68 @@
+---
+title: Iliocostalis
+---
+
+# OIAN
+![Schematic view of the intermediate intrinsic muscles of the back (Erector spinae) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Erector Spinae/images/gilroyatlas 3.9a schematic intermediate back muscles.png)
+
+![Intermediate intrinsic muscles of the back / Erector spinae (Posterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Erector Spinae/images/gilroyatlas 310b intermediate back muscles.png){#fig-intermediatebackmm310gilroyAtlasAnatomy2020}
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Iliocostalis cervicis]({{< var ref-iliocostalis-cervicis.path >}}) | {{< var ref-iliocostalis-cervicis.origin >}} | {{< var ref-iliocostalis-cervicis.insertion >}} | {{< var ref-iliocostalis-cervicis.nerve >}} | {{< var ref-iliocostalis-cervicis.action >}} |
+| [Iliocostalis thoracis]({{< var ref-iliocostalis-thoracis.path >}}) | {{< var ref-iliocostalis-thoracis.origin >}} | {{< var ref-iliocostalis-thoracis.insertion >}} | {{< var ref-iliocostalis-thoracis.nerve >}} | {{< var ref-iliocostalis-thoracis.action >}} |
+| [Iliocostalis lumborum]({{< var ref-iliocostalis-lumborum.path >}}) | {{< var ref-iliocostalis-lumborum.origin >}} | {{< var ref-iliocostalis-lumborum.insertion >}} | {{< var ref-iliocostalis-lumborum.nerve >}}  | {{< var ref-iliocostalis-lumborum.action >}} |
+
+: Iliocostalis OIAN {.striped .hover}
+
+
+# Iliocostalis Cervicis
+## Origin {#origin}
+3rd-7th ribs @gilroyAtlasAnatomy2020
+
+## Insertion {#insertion} 
+C4-C6 TP @gilroyAtlasAnatomy2020
+
+## Innervation {#innervation}
+[Spinal nn.]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches) @gilroyAtlasAnatomy2020
+
+## Action {#action}
+
+
+# Iliocostalis Thoracis
+## Origin {#origin} 
+7-12th ribs @gilroyAtlasAnatomy2020
+
+## Insertion {#insertion} 
+1st-6th ribs @gilroyAtlasAnatomy2020
+
+## Innervation {#innervation}
+[Spinal nn.]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches) @gilroyAtlasAnatomy2020
+
+## Action {#action}
+
+# Iliocostalis Lumborum
+## Origin {#origin}
+
+Sacrum, iliac crest, lumbar vertebrae SP; lower thoracic vertebrae TP @gilroyAtlasAnatomy2020
+
+## Insertion {#insertion}
+
+6-12th ribs, thoracolumbar fascia (posterior layer), upper lumbar vertebrae (TP) @gilroyAtlasAnatomy2020
+
+## Innervation {#innervation}
+[Spinal nn.]({{< var ref-spinal-nerves.path >}}) C8-L1 (Post rami, lateral branches) @gilroyAtlasAnatomy2020
+
+## Action {#action}
+
+- **Bilateral:** Extends spine @gilroyAtlasAnatomy2020
+- **Unilateral:** I/L spine lat-flexion @gilroyAtlasAnatomy2020
+
+# Muscle groups
+Iliocostalis is part of the [Intermediate intrinsic back muscles (erector spinae)]({{< var ref-oians >}})
+
+
+# Palpation
+
+
+# Clinical significance

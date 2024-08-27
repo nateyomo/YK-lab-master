@@ -1,0 +1,7 @@
+---
+title: Glycosaminogylcans (GAGs)
+---
+
+::: {.callout-tip}
+Casale J, Crane JS. Biochemistry, Glycosaminoglycans. In: StatPearls. Treasure Island (FL): StatPearls Publishing; March 27, 2023.
+:::

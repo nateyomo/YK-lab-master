@@ -1,0 +1,15 @@
+---
+title: Sphenoid bone
+---
+
+
+# Overview
+
+# Sites
+
+## Foramen Ovale
+
+Trigeminal motor root exits the skull via the [foramen ovale]({{< var ref-foramen-ovale-sphenoid-bone.path >}})
+
+## Meckel's cave
+The motor root of trigeminal nerve enters a cavity in the dura mater overlying the apex of the petrous bone (Meckel cave) @brazisLocalizationClinicalNeurology2022

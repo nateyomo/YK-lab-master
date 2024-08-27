@@ -1,0 +1,36 @@
+---
+title: Likelihood ratio
+---
+
+The likelihood ratio is defined as the probability of obtaining a positive test result in a patient with the disease divided by the probability of obtaining a positive test result in a patient without the disease @motulskyIntuitiveBiostatisticsNonmathematical2018.
+
+# Calculation
+
+$$
+\textrm{+LR} = \frac{(\textrm{Probability of obtaining a positive test in a patient with the disease})}{\textrm{Probability of attaining a positive test in a person without the disease}}
+$$
+
+$$
+\textrm{+LR} = \frac{Sensitivity}{1 - Specificity} = \frac{(\textrm{True Positive Rate})}{(\textrm{False Positive Rate})}
+$$
+
+
+:::{.callout title="Example" collapse="false"}
+
+- Sensitivity: 82%
+- Specificity: 96.3%
+
+$$
+\textrm{+LR} = \frac{Sensitivity}{1 - Specificity} = \frac{0.82}{1-0.963} = 22.2
+$$
+
+Since the +LR is "22.2", this indicates that a person *with* the condition is 22.2x more likely to test positive than someone without the disease @motulskyIntuitiveBiostatisticsNonmathematical2018.
+:::
+
+
+# Likelihood ratio vs Sensitivity
+
+The likelihood ratio is defined as the probability of obtaining a positive test result in a patient with the disease divided by the probability of obtaining a positive test result in a patient without the disease @motulskyIntuitiveBiostatisticsNonmathematical2018.
+
+Sensitivity is the probability of obtaining a positive test result in a patient with the disease @motulskyIntuitiveBiostatisticsNonmathematical2018.
+

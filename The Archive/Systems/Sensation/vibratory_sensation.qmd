@@ -1,0 +1,6 @@
+---
+title: Vibratory sensation
+---
+
+
+- [DCML]({{< var ref-dorsal-column-medial-lemniscus.path >}}) @osullivanPhysicalRehabilitation2019

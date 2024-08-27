@@ -1,0 +1,54 @@
+---
+title: Nerve Symptom DDX
+---
+
+
+# Sensory Dysfunction
+
+
+
+# Motor Dysfunction
+
+:::{layout-ncol="3"}
+### Spinal Cord
+
+- Weakness below the segment
+- Weakness at muscles of different myotomes AND peripheral nerves
+
+### Nerve Root
+
+- Weakness of the same myotome
+- Weakness at different peripheral nerves supplied by the *same* nerve root level
+
+
+### Periphereral Nerve
+
+- Weakness of muscles supplied by the *same* nerve root
+:::
+
+# Deep Tendon Reflex
+
+:::{layout-ncol="3"}
+### Spinal Cord
+
+- Normal DTR above affected segment
+- Hyporeflexive at the segment
+- Hyperreflexive below the segment
+
+### Nerve Root
+
+- Normal DTR above affected segment
+- Hyporeflexive at the segment
+- Normal DTR below the segment
+
+
+### Periphereral Nerve
+
+:::{.callout-caution title="Look up sources on this"}
+- Normal DTR above affected segment
+- Hyporeflexive for the reflex innervated by this nerve
+- Normal DTR below the segment
+:::
+
+
+:::

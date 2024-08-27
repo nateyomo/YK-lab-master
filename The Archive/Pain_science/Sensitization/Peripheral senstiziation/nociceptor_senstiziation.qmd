@@ -1,0 +1,8 @@
+---
+title: Nociceptor Sensitization
+---
+
+:::{.callout-note title="Books to reference on this topic"}
+
+- Bonica's CHAPTER 3 Peripheral Pain Mechanisms and Nociceptor Sensitization @ballantyneBonicaManagementPain2019
+:::

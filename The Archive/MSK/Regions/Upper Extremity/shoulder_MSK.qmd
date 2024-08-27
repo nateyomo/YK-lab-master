@@ -1,0 +1,104 @@
+---
+title: Musculoskeletal Approach to the shoulder
+---
+
+
+
+
+
+# Anatomy
+
+
+## Bones
+
+The Shoulder complex is made up of 3 bones:
+
+1. [Humerus]({{< var ref-humerus-bone.path >}})
+1. [Clavicle]({{< var ref-clavicle-bone.path >}})
+1. [Scapula]({{< var ref-scapula-bone.path >}})
+
+## Joints
+
+The Shoulder complex is made up of 3 joints and 1 pseudo joint:
+
+1. [Sternoclavicular (SCJ)]({{< var ref-sternoclavicular-joint.path >}})
+1. [Acromioclavicular (ACJ)]({{< var ref-acromioclavicular-joint.path >}})
+1. [Glenohumeral Joint (GHJ)]({{< var ref-glenohumeral-joint.path >}})
+1. The Scapulothoracic Joint is considered a "psuedo joint" @duttonDuttonOrthopaedicExamination2020
+
+### 1 Physiologic Area
+
+- Suprahumeral/Subacromial space
+
+
+# Ligaments
+
+
+"(GH Ligs) Together with the coracohumeral ligament, these ligaments form a Z-pattern on the anterior aspect of the shoulder (Fig. 16-6).3 In the midrange of rotation, the G-H ligaments are relatively lax" @duttonDuttonOrthopaedicExamination2020
+
+# Stabilization
+
+## Passive
+
+The shoulder maintains its passive stability by using multiple structures arranged reciprocally so when one structure is lax, the other is tightened @duttonDuttonOrthopaedicExamination2020. 
+This allows the shoulder to have large degrees of freedom and ROM while limiting translation and rotation of the GHJ surfaces @duttonDuttonOrthopaedicExamination2020. 
+
+- GH ligaments 
+- Capsule
+    - Posterior capsule
+- Glenoid labrum
+
+## Active
+
+- GHJ
+    - RTC
+- Shoulder elevation
+    - Rhomboids
+    - SA
+
+# Bursae
+
+According to Dutton @duttonDuttonOrthopaedicExamination2020, the *synovium* of the *GH Joint Capsule* forms multiple bursae in shoulder complex @duttonDuttonOrthopaedicExamination2020. 
+
+- Subacromial bursae (Subdeltoid Bursae) @duttonDuttonOrthopaedicExamination2020
+    - Lies on the superior aspect of the joint @duttonDuttonOrthopaedicExamination2020
+    - Largest bursae of the shoulder complex @duttonDuttonOrthopaedicExamination2020
+
+"It also forms variously sized bursae, the largest of which, the subacromial or subdeltoid bursa, lies on the superior aspect of the joint (see later)." @duttonDuttonOrthopaedicExamination2020 
+
+# Biomechanics
+
+## Arm Elevation
+
+- SCAP UR: end range: post tilt and ER
+    - End position: inf angle at midaxillary line
+- GHJ: humeral elevation and lateral rotation, inf glide of humerus
+- SCJ: elevation and post rotation and retraction
+
+
+
+
+# Diagnosis
+
+
+## Considerations before using special tests:
+
+Special tests for the shoulder have multiple issues.
+
+:::{layout-ncol="3"}
+
+### Poor Gold Standards
+
+- Poor convergent validity: Special tests for the shoulder are based on MRI and ultrasounds, which are poor gold standards @salamhItTimePut2020.
+
+### Poor Tissue Isolation (Specificity)
+
+- In empty can for “ supra” 9 shoulder mm active, 
+- During full can test 8 other mm were active
+
+### Pain is unreliable
+
+- Hyperalgesia: Areas with increased inflammatory markers can cause unrelated areas to be sensitive to certain positions.  For example the subacromial bursa has high concentrations of substance P and pro-inflammatory cytokines and is often aggravated by the Empty can test @salamhItTimePut2020.
+- Allodynia: Pain is not directly related to tissue damage @salamhItTimePut2020.
+:::
+

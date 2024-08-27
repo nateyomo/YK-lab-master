@@ -1,0 +1,28 @@
+---
+title: Talocrural Joint (TCJ)
+---
+
+
+# Osteokinematics
+
+| Movement | Normal ROM|
+|-|-|
+| DF | 20&deg; |
+| PF | 50&deg; |
+: {.striped .hover}
+
+
+# Arthrokinematics
+
+
+
+# Joint Mobility Assessments
+
+## Anterior Glide
+
+
+
+## Posterior Glide
+
+
+"To test the anterior glide of the talocrural joint, the clinician stabilizes the tibia and fibula and draws the talus and foot forward together (Fig. 21-32). Pushing the talus and foot together in a posterior direction on the tibia and fibula (Fig. 21-33) tests the posterior movement. The anterior glide of the talus assesses the joint’s ability to move into plantar flexion, whereas the posterior glide of the talus assesses the joint’s ability to move into dorsiflexion"

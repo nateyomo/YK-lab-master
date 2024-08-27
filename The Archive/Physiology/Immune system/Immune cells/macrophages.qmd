@@ -1,0 +1,17 @@
+---
+title: Macrophages
+---
+
+Resources
+
+- Ch9 @cavaillon2018inflammation
+
+# Overview
+
+- Immune cells
+- Function: Maintenance and defense of host tissues, by sensing and engulfing particles and initiating a pro-inflammatory response @verschoorMacrophage2012
+
+# Interventions
+
+## Response to icing
+[See icing cryotherapy article]({{< var ref-icing-cryotherapy.path >}})

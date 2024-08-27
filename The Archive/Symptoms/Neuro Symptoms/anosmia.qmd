@@ -1,0 +1,50 @@
+---
+title: Anosmia
+---
+
+Anosmia refers to olfactory (smell) loss and can be unilateral or bilateral @blumenfeldNeuroanatomyClinicalCases2022.
+
+
+
+# Testing
+## Testing Unilateral Anosmia
+- Unilateral anosmia is difficult to diagnose since it is a sympton, not a sign, and patients rarely notice this change since the contralateral nostril can compensate @blumenfeldNeuroanatomyClinicalCases2022.
+- To avoid contralateral nostrile compensation, the examiner must test each nostril separately @blumenfeldNeuroanatomyClinicalCases2022.
+
+## Bilateral Anosmia
+- Most patients are aware of bilateral anosmia and may even report decreased taste due to olfaction's contriution to the perception of flavor @blumenfeldNeuroanatomyClinicalCases2022.
+
+# Possible Causes of  Anosmia
+- Head trauma
+- Viral infection
+- Nasal obstruction
+- Neurodegenerative conditions
+- Frontal lobe lesions
+
+## Head Trauma
+
+- Trauma to the head can cause anosmia by damaging the olfactory nerves as they penetrate the cribriform plate of the ethmoid @blumenfeldNeuroanatomyClinicalCases2022.
+
+## Viral infection
+
+- Viral infections can damage the olfactory neuroepithelium @blumenfeldNeuroanatomyClinicalCases2022.
+- Examples include:
+    - Covid-19 @blumenfeldNeuroanatomyClinicalCases2022
+
+## Obstruction
+
+- Obstruction of the nasal passages can impair olfaction @blumenfeldNeuroanatomyClinicalCases2022.
+
+## Neurodegenerative Conditions
+
+- Bilateral anosmia is also seen in [Kallmann syndrome]({{< var ref-kallmann-syndrome.path >}}) (anosmic hypogonadism) @blumenfeldNeuroanatomyClinicalCases2022
+- Parkinson’s disease @blumenfeldNeuroanatomyClinicalCases2022
+- Alzheimer’s disease @blumenfeldNeuroanatomyClinicalCases2022
+
+## Frontal lobe Lesions
+
+- Intracranial lesions that occur at the base of the frontal lobes near the olfactory sulci can interfere with olfaction @blumenfeldNeuroanatomyClinicalCases2022.
+    - Possible lesions in this location include meningioma, metastases, basal meningitis, or less commonly sarcoidosis, a granulomatous inflammatory disorder that occasionally involves the nervous system, often causing cranial neuropathies @blumenfeldNeuroanatomyClinicalCases2022.
+- Frontal lobe deficits are often difficult to detect clinically, especially with small lesions @blumenfeldNeuroanatomyClinicalCases2022.
+- As a result, lesions at the base of the frontal lobes can sometimes grow very large while still causing little symptoms except besides anosmia.
+- Large lesions of the olfactory sulcus region, especially meningiomas, can cause Foster Kennedy syndrome where the patient experiences anosmia, ipsilateral optic atrophy (d/t tumor compression), and contralateral papilledema (d/t elevated intracranial pressure) @blumenfeldNeuroanatomyClinicalCases2022.

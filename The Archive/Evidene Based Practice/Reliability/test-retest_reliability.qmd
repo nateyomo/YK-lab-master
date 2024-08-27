@@ -1,0 +1,41 @@
+---
+title: Test-Retest Reliability
+---
+
+
+Test-Retest reliability reflects the variation in measurements taken by an instrument on the same subject under the same conditions @kooGuidelineSelectingReporting2016.
+In other words, Test-Retest reliability quantifies the similarity of scores when a study participant completes a test at 2 separate instances @streinerReliabilityStatisticsCommentarySeries2016a.
+
+- It is generally indicative of reliability in situations when raters are not involved or rater effect is neglectable, such as self-report survey instrument @kooGuidelineSelectingReporting2016.
+
+# Interpretation
+
+If this test was reliable, we would expect the 2 scores to be similar, if not identical, on both occasions (assuming that the person has not changed in the interim) @streinerReliabilityStatisticsCommentarySeries2016a.
+
+:::{.callout title="What if my scale has low Test-Retest Reliability?"}
+
+- A self administered scale with poor test-retest reliability cannot be changed without altering psychometric validity @streinerReliabilityStatisticsCommentarySeries2016a
+- A clinician-administered scale can be slightly changed by insuring that the instructions are clear and understood by the participant @streinerReliabilityStatisticsCommentarySeries2016a
+:::
+
+
+
+# Duration Between Tests
+
+- When assessing test-retest reliability, the length of time between time 1 and 2 creates an issue since there is a fine balance the researchers must find with time since there is trade-off between 2 competing requirements @streinerReliabilityStatisticsCommentarySeries2016a.
+
+:::{layout-ncol="2"}
+
+### Too Short
+
+- If the duration is too short, the participants will answer the questionnaire by memory in order to appear consistent @streinerReliabilityStatisticsCommentarySeries2016a.
+
+### Too Long
+
+- If the duration is too long, the person's mood, anxiety, symptoms, or whatever we are measuring could change @streinerReliabilityStatisticsCommentarySeries2016a.
+:::
+
+- The usual testretest interval is about 2 weeks, but this can be altered based on a number of factors @streinerReliabilityStatisticsCommentarySeries2016a. 
+- The Longer the scale the less time is required between measurements (the person is less likely to remember all of their answers) @streinerReliabilityStatisticsCommentarySeries2016a.
+- Duration is also determined by how quickly the attribute being tested can change @streinerReliabilityStatisticsCommentarySeries2016a.
+

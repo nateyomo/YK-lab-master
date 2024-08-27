@@ -1,0 +1,66 @@
+---
+title: Scapulothoracic Joint
+---
+
+
+# Alignment
+
+- Vertebral border
+    - Parallel to spine, 2-3 finger width (3’’) from the midline of the thorax
+- Between 2nd and 7th thoracic vertebrae
+- 30&deg; ant to the frontal plane (scapular plane)
+- 10&deg; ant tilt
+- 5-10&deg; upward rotation
+
+# Kinematics
+
+## Upward Rotation
+
+60 deg upward rotation during arm elevation
+
+
+
+
+### Force couple
+
+- Serratus anterior (greatest mechanical advantage for UR)
+- Upper trap (Initiation and throughout)
+- Late phase: Lower trap
+
+### Stabilization
+
+- Middle trap (add / retract) which counteract the protraction force of the Serratus anterior, resulting in stabilization of the scapula
+
+## Downward rotation
+
+## Anterior Tilt
+
+## Posterior Tilt
+
+20&deg; post tilt during arm elevation
+
+## Elevation
+
+Scapular elevation (pure)
+Includes elevation of clavicle at SC and downward rot of scap at AC
+
+
+## Depression
+
+- Lats
+- Pec Minor
+- Lower trapezius
+
+## Internal Rotation
+
+<= 5&deg; IR/ER 
+
+## External Rotation
+
+<= 5&deg
+
+# Stabilization
+
+The Serratus Anterior (along with the rhomboids) serves to aid in scapular stability during arm elevation @duttonDuttonOrthopaedicExamination2020 
+
+![Superior View of the shoulder: You can see how the rhomboids and SA both actively stabilize the scapulothoracic joint by pulling the scapula towards the thoracic wall @duttonDuttonOrthopaedicExamination2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/images/Dutton fig16.2 Superior aspect of shoulder.png)

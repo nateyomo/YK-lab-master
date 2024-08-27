@@ -1,0 +1,19 @@
+---
+title: Reproducibility
+---
+
+:::{.callout-note}
+Reproducibility covers many overlapping concepts.
+:::
+
+
+It is explicitly defined as the variation of the same measurement made on a subject under *changing* conditions @buntingPracticalGuideAssess2019
+
+In real-life practice it also includes changes in:
+
+- measurement method
+- observer (inter-rater reliability)
+- Time frame
+- Instrumentation
+- Location
+- Environment

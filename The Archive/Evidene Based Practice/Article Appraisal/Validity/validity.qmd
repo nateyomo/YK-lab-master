@@ -1,0 +1,140 @@
+---
+title: Validity
+subtitle: Accuracy of a measure
+---
+
+Validity is defined by COSMIN as "the degree to which an instrument truly measures the construct(s) it purports to measure" @politAssessingMeasurementHealth2015 
+
+
+
+| Validity | [Reliability]({{< var ref-reliability.path >}}) |
+|-|-|
+| Deals with the accuracy ofinferences made from measurements @simMeasurementValidityPhysical1993 | Deals with the reproducibility of measurements themselves @simMeasurementValidityPhysical1993 |
+|Concerns the relationship between the measurement and the entity being measured @simMeasurementValidityPhysical1993 | Is a property ofthe measurement (and the person performing it) |
+| Requires independent knowledge ofthe "true" value of the entity being measured @simMeasurementValidityPhysical1993 | Is not dependent on the "true" value ofthe entity being measured @simMeasurementValidityPhysical1993 |
+| Presupposes a certain degree of reliability @simMeasurementValidityPhysical1993 | Does not presuppose validity @simMeasurementValidityPhysical1993 |
+| Is undermined by [systematic error]({{< var ref-error.systematic >}}) @simMeasurementValidityPhysical1993 | Is undermined by [random error]({{< var ref-error.random >}}) @simMeasurementValidityPhysical1993 |
+| Liable, if lacking, to distort or bias relationships among variables @simMeasurementValidityPhysical1993 | Liable, if lacking, to obscure relationships among variables @simMeasurementValidityPhysical1993 |
+: Validity vs Reliability @simMeasurementValidityPhysical1993 {.striped .hover}
+
+
+# 3 Types
+
+There are 3 validity components in both COSMIN and Polt-Yang Taxonomies @politAssessingMeasurementHealth2015 
+
+1. Content/Face Validity @politAssessingMeasurementHealth2015 
+1. Criterion Validity @politAssessingMeasurementHealth2015 
+1. Construct Validity @politAssessingMeasurementHealth2015 
+
+
+## Content/Face Validity
+
+### Content Validity
+[Content validity]({{< var ref-validity.content >}}) is one of the 3 main types of validity and refers to "the degree to which the content of an instrument adequately reflects the construct being measured" @politAssessingMeasurementHealth2015.
+Content validity represents an early method to enhance construct validity of an instrument @politAssessingMeasurementHealth2015.
+
+:::{.callout-caution}
+Claims about the validity of an instrument should never be based exclusively on evidence of adequate content validity @politAssessingMeasurementHealth2015
+:::
+
+### Face Validity
+[Face Validity]({{< var ref-validity.face >}}) is often considered a subdomain of content validity and refers to "the extent to which an instrument looks as though it is a measure of the target construct" @politAssessingMeasurementHealth2015. 
+Face validity is a purely qualitative and subjective judgement made by an examiner.
+
+
+## Criterion Validity
+
+Criterion validity is one of three main components of validity and explains how well the test in question relates to the "gold standard" of the same construct.
+Most patient-reported outcomes have no "gold standard" and thus researchers should determine convergent validity **instead** of criterion validity @politAssessingMeasurementHealth2015.
+
+
+Criterion validity has 2 forms: @politAssessingMeasurementHealth2015
+
+1. Concurrent validity
+1. Predictive Validity
+
+The key feature of a criterion validity approach is that there must be a ‘‘gold standard’’ criterion against which scores on the focal measure can be assessed. 
+
+
+:::{layout-ncol="2"}
+### Concurrent Validity
+[Concurrent Validity]({{< var ref-validity.concurrent >}}) is a type of [criterion validity]({{< var ref-validity.criterion >}}) that tests whether a measure is consistent with the "gold standard," measured at the *same* time @politAssessingMeasurementHealth2015.
+
+### Predictive Validity
+[Predictive Validity]({{< var ref-validity.predictive >}}) is a type of [criterion validity]({{< var ref-validity.criterion >}}) that tests whether a measure can predict the outcome of the gold standard  measured at a *future* point in time @politAssessingMeasurementHealth2015
+:::
+
+## Construct Validity
+
+[Construct Validity]({{< var ref-validity.construct >}}) is one of the 3 main types of [validity]({{< var ref-validity.path >}}) and refers to the "degree to which evidence about a measure’s scores supports the inference that the construct has been appropriately represented" @politAssessingMeasurementHealth2015.
+
+
+### Hypothesis-testing Validity
+[Hypothesis-testing validity]({{< var ref-validity.hypothesis-testing >}}) is a subdomain of [construct validity]({{< var ref-validity.construct >}}) and refers to @politAssessingMeasurementHealth2015 
+
+Hypothesis-testing validity can take many forms:
+
+1. [Convergent validity]({{< var ref-validity.convergent >}}) @politAssessingMeasurementHealth2015
+1. [Divergent (Discriminant) Validity]({{< var ref-validity.divergent >}}) @politAssessingMeasurementHealth2015
+1. [Known groups (Discriminative) Validity]({{< var ref-validity.known-groups >}}) @politAssessingMeasurementHealth2015
+
+:::{layout-ncol="3"}
+### Convergent Validity
+[Convergent Validity]({{< var ref-validity.convergent >}}) is a form of [hypothesis-testing validity]({{< var ref-validity.hypothesis-testing >}}) and is applied in the absence of a gold standard to test "the correlation between scores on the focal measure and scores on a measure of a construct with which conceptual convergence is expected" @politAssessingMeasurementHealth2015
+
+### Divergent Validity
+[Divergent (Discriminant) Validity]({{< var ref-validity.divergent >}}) is a form of [hypothesis-testing validity]({{< var ref-validity.hypothesis-testing >}}) that tests the hypothesis that the outcome measure does not measure any other constructs other than the one intended @politAssessingMeasurementHealth2015
+
+### Known Groups Validity
+[Known Groups (Discriminative) Validity]({{< var ref-validity.known-groups >}}) is a form of [hypothesis-testing validity]({{< var ref-validity.hypothesis-testing >}}) that tests the hypothesis that "the degree to which a measure can discriminate between groups known to differ with regard to the focal construct" @politAssessingMeasurementHealth2015.
+
+:::
+
+### Structural Validity
+[Structural validity]({{< var ref-validity.structural >}}) is a subdomain of [construct validity]({{< var ref-validity.construct >}}) that uses factor analysis to test if a measure captures the hypothesized dimensionality of a construct @politAssessingMeasurementHealth2015. 
+
+
+
+
+### Cross-Cultural Validity
+[Cross-cultural validity]({{< var ref-validity.cross-cultural >}}) is a subdomain of [construct validity]({{< var ref-validity.construct >}}) and refers to @politAssessingMeasurementHealth2015 
+
+Cross-cultural validity is relevant for the validation of a cultural or linguistic adaptation of an instrument @politAssessingMeasurementHealth2015. 
+
+"Concerns the extent to which a translated or adapted measure is equivalent to the original"
+
+"Cross-cultural validity, the third type of construct validity, concerns the extent to which evidence supports the inference that the original and a translated or culturally adapted scale are equivalent. In the sample of 105 nursing studies, a full 36 (34.3%) of them involved efforts to assess the cross-cultural validity of a translated scale."
+
+"In summary, nurse researchers could strengthen their validity claims in instrument studies by testing thoughtful, theory-based hypotheses about the extent to which the measure yields scores that ‘‘behave’’ as predicted in relation to other constructs—or by identifying an appropriate gold standard for a criterion validation. Factor analysis alone as a construct validity strategy does not directly answer the central validity question: Does the scale measure the construct it purports to measure? Exploratory factor analysis is an important tool for finalizing or refining a multi-dimensional instrument, but confirmatory factor analysis should be the method of choice for structural validation."
+
+# Internal & External Validity
+
+
+There are 2 broad types of validity: External and Internal validity @simMeasurementValidityPhysical1993
+
+:::{layout-ncol="2"}
+
+### Internal Validity
+[Internal validity]({{< var ref-validity.internal >}}) refers to the possibility that the the conclusions drawn from the results of the study accurately reflect the experiment itself @simMeasurementValidityPhysical1993.
+
+Includes:
+
+- [Construct validity]({{< var ref-validity.construct >}}): Does the study design correctly answer its research question?
+- [Statistical Conclusion validity]({{< var ref-validity.statistical-conclusion >}}): Were the correct statistical tests used and were they interpreted correctly?
+
+### External Validity
+
+External validity refers to how successfuly one can apply the results of a study on a sample can be generalized to a particular population @simMeasurementValidityPhysical1993.
+
+:::
+
+
+:::{.callout-note}
+Face validity is often identified with content validity since is less applicable to formal scientific testing @simMeasurementValidityPhysical1993.
+:::
+
+
+
+# Improving Validity
+
+"In order to improve validity, attempts must be made primarily to remove systematic error, or bias" @simMeasurementValidityPhysical1993

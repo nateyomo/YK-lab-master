@@ -1,0 +1,41 @@
+---
+title: Latissimus Dorsi
+---
+
+# OIAN
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Latissimus Dorsi]({{< var ref-latissimus-dorsi.path >}}) | {{< var ref-latissimus-dorsi.origin >}} | {{< var ref-latissimus-dorsi.insertion >}} | {{< var ref-latissimus-dorsi.nerve >}} | {{< var ref-latissimus-dorsi.action >}} |
+: {.striped .hover}
+
+# Origin {#origin}
+
+- **Vertebral part**: Spinous processes of T7–T12 vertebrae; thoracolumbar fascia @gilroyAtlasAnatomy2020
+- **Scapular part**: Scapula (inferior angle) @gilroyAtlasAnatomy2020
+- **Costal part**: 9th to 12th ribs @gilroyAtlasAnatomy2020
+- **Iliac part**: Iliac crest (posterior one third) @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+
+Floor of intertubercular groove of humerus @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+[Thoracodorsal n.]({{< var ref-thoracodorsal-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020
+
+
+
+# Action {#action}
+
+- **GHJ**: Internal rotation, adduction, extension @gilroyAtlasAnatomy2020
+- **Respiration**: “cough muscle” @gilroyAtlasAnatomy2020
+
+
+
+# Function
+
+This muscle  adducts and internally rotates the arm and depresses the raised arm @brazisLocalizationClinicalNeurology2022
+
+:::{.callout-note title="Mini lat muscle"}
+The teres major can almost be considered a "mini lat" since it has the same functions
+:::

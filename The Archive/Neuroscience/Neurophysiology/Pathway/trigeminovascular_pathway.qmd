@@ -1,0 +1,16 @@
+---
+title: Trigeminovascular Pathway
+---
+
+
+# Structures
+
+
+The trigeminovascular pathway consists of
+
+
+- Duravascular afferents that have cell bodies in the trigeminal ganglion and that innervate the cerebral vessels and dura mater @weiClusterHeadachePathophysiology2021.
+    - Activation of these durovascular afferents results in referred head pain @weiClusterHeadachePathophysiology2021.
+- Tigeminocervical complex (TCC) 
+    - However, trigeminal ganglion neurons are bipolar and also synapse in the CNS in the trigeminocervical complex (TCC)
+    Consequently, activation of the trigeminovascular pathway projections from the TCC to the thalamus17,18 also results in activation of cortical structures involved in pain processing, such as the frontal cortex, insulae and cingulate cortex5 (Fig. 1a). Activation of the trigeminovascular pathway causes release of neuropeptides from the trigeminal nerve endings. These peptides include calcitonin gene‑related peptide (CGRP), substance P and neurokinin A, although the dural trigeminal innervation is enriched for CGRP19, and substance P is not substantially involved in durovascular nociceptive activation20.

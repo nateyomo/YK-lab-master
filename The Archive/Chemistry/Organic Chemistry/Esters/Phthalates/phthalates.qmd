@@ -1,0 +1,37 @@
+---
+title: Phthalates (PAE)
+subtitle: Phthalic Acid Esters
+---
+
+# Chemical composition
+
+PAEs are compounds synthesized through double esterification of 1,2-benzenedicarboxylic acid (phthalic acid) with linear or branched alcohols @arenaDirectAnalysisPhthalate2022. 
+
+
+
+# Classifications
+
+PAEs are categorized into two categories based on the length of the side chains @arenaDirectAnalysisPhthalate2022.
+
+1. [Low molecular weight PAEs (LMW PAEs)](#lmw-pae)
+1. [High molecular weight PAEs (HMW PAEs)](#hmw-pae)
+
+
+
+## Low molecular weight PAEs {#lmw-pae}
+
+LMW PAEs are characterized by 3 to 6 carbon atoms in the side chain @arenaDirectAnalysisPhthalate2022.
+LMW PAEs are used in polyvinylchloride (PVC) products, medical devices, adhesives, paints, and printing inks @arenaDirectAnalysisPhthalate2022
+
+
+## High Molecular Weight PAEs {#hmw-pae}
+
+Examples of HMW PAEs are diisononyl phthalate (DiNP) and diisodecyl phthalate (DiDP) @arenaDirectAnalysisPhthalate2022.
+HMW PAEs are primarily used to increase plastic softness, flexibility, and durability @arenaDirectAnalysisPhthalate2022.
+
+
+# Toxicology
+
+When ingested, phthalates can have toxic effects.
+Upon breakdown into primary and secondary metabolites, phthalates can act as "endocrine-disrupting compounds" that negatively modulate hormone function and hormonal pathways @arenaDirectAnalysisPhthalate2022.
+

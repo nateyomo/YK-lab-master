@@ -1,0 +1,94 @@
+---
+title: ISNCSCI
+subtitle: International Standards for Neurological Classification of Spinal Cord Injury
+---
+
+The ISNCSCI is a tool used to provide standardized examination information about the sensory and motor impairments for SCI patients.
+
+The ISNCSCI and the ASIA Grade should be used to provide guidance for establishing the prognosis, and is an important tool for clinical research trials.
+
+# Neurologic Level of Injury
+
+Neurological level of injury (NLI) is refers to the most caudal level of the spinal cord with fully intact motor (5/5) and sensory (2/2) function bilaterally @osullivanPhysicalRehabilitation2019.
+
+:::{layout-ncol="2"}
+
+### Motor Level
+
+- Bilateral testing
+- 10 key muscles
+- 6 point scale (0-5)
+- Lowest myotome: Grade of at least 3
+    - Provided all myotomes superiorly are normal (5/5)
+
+
+### Sensory Level
+
+- Bilateral testing
+- Dermatome distributions
+- Sensitivity to 
+    - Light touch
+    - Sharp/dull
+- Scoring
+    - 3 point scale (0-2)
+- Sensory level
+    - The most caudal level with normal light touch and pinprick sensation @osullivanPhysicalRehabilitation2019
+
+:::
+
+# Sacral Sparing
+
+Sacral sparing is determined by sensory function at S4–5 dermatome, ability to feel deep anal pressure, or voluntary anal sphincter contraction. 
+
+:::{.callout-note}
+On the ISNCSCI, writing "no" (negative test) for deep anal pressure (DAP) and voluntary anal sphincter contraction is called a "NOON sign."
+:::
+
+# Completeness
+
+
+:::{layout-ncol="3"}
+
+### Complete
+
+- Anatomically rare @osullivanPhysicalRehabilitation2019
+    - Incomplete anatomical transections can present as neurologically complete @osullivanPhysicalRehabilitation2019
+- ISNCSCI Definition
+    - No sensory or motor function at lowest segments (S4-S5) @osullivanPhysicalRehabilitation2019
+    - No sacral sparing
+
+
+### Incomplete
+
+- Definition
+    - Having motor and/or sensory function below NLI
+    - Includes sensory and/or motor function at S4 and S5
+    - Presence of sacral sparing. 
+
+### Zones of Partial Pressure
+
+- Classification
+    - Motor and/or sensory function below NLI
+    - No sacral sparing
+- Definition
+    - Areas of intact motor and/or sensory function below NLI
+
+:::
+
+
+
+# ASIA Grading
+
+The AIS scale was created to distinguish between types of SCI injury since categorizing patients solely based on completeness or NLI introduces too much variability.
+
+
+# Prognosis
+
+
+
+# Worksheet File
+
+[ISNCSCI Calculator](https://ais.emsci.org/libCGI.cgi?exe=From_ISNCSCI)
+
+
+{{< pdf "/The Archive/Neuroscience/Neuropathology/SCI/SCI Examination/images/ASIA-ISCOS-Worksheet.pdf" >}}

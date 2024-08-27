@@ -1,0 +1,54 @@
+---
+title: Hip Microinstability
+---
+
+
+Microinstability of the hip is defined by Wong et al 2022 as supraphysiologic hip motion that causes pain or discomfort with or without subjective unsteadiness of the joint @wongPhysicalExaminationHip2022.
+
+# Causes
+
+"It is believed to be caused by soft tissue injury or loss and/or bony deficiency related to developmental dysplasia of the hip, connective tissue disorders, trauma, idiopathic causes, and iatrogenic causes" @wongPhysicalExaminationHip2022. 
+
+
+
+"Another group of patients prone to microinstability is those with borderline dysplasia who may have labral hypertrophy[37]. 
+One of the most pertinent iatrogenic causes to consider is after hip arthroscopy, as patients may have a deficient hip capsule, leading to increased motion" @wongPhysicalExaminationHip2022
+
+# Examination
+
+
+
+## Imaging
+"Physical exam is key to the understanding of this process, as microinstability is a dynamic process, which is not easily diagnosed on static imaging modalities." @wongPhysicalExaminationHip2022 
+
+:::{layout-ncol="3"}
+### Ultrasound
+Ultrasound imaging of the hip has shown promise in its ability to reliably and affordably assess microinstability of the hip
+
+### X-Ray
+
+### MRI
+
+### CT Scan
+
+:::
+
+## Physical Exam
+
+"A physical exam for a patient with suspected microinstability should begin no differently than any other examination of the hip, which includes all of the previously discussed topics. Particular focus should be given to excessive range of motion (>60° in either internal or external rotation) and ligamentous laxity, as tested by Beighton’s signs" @wongPhysicalExaminationHip2022  
+
+
+:::{.callout-note title="Beighton Scoring"}
+"The Beighton scoring system assesses joint hypermobility on a 9-point scale: 
+
+- 1 point for each passive hyperextension of the small finger metacarpophalangeal joint past 90°
+- 1 point for each thumb passive apposition to volar forearm
+- 1 point for each elbow hyperextending beyond 10°, 1 point for each knee hyperextending past 10°
+- 1 point for forward flexion of the trunk with the knees fully extended if palms are able to touch the floor. " @wongPhysicalExaminationHip2022 
+
+
+There is no universal agreement for a cutoff value for the Beighton score. Scoring cutoffs vary and are often described as greater than 5 or 6 out of 9 points being consistent with joint hypermobility
+:::
+
+
+In addition to astandard exam of the hip, there are a number of provocative maneuvers that assess apprehension, range of motion, and joint stability.

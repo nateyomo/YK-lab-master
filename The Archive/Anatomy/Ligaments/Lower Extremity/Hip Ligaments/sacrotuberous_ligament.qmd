@@ -1,0 +1,57 @@
+---
+title: Sacrotuberous ligament
+---
+
+
+
+
+Glute max partly originates from this ligament
+
+
+# Muscular Attachment
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "origin_identifier"  # or "group_identifier"
+filter_patterns <- "sacrotuberous_ligament"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Muscles originating from the Sacrotuberous ligament"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "insertion_identifier"  # or "group_identifier"
+filter_patterns <- "sacrotuberous_ligament"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Muscles Inserting onto the Sacrotuberous ligament"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```

@@ -1,0 +1,55 @@
+---
+title: C8 Nerve Root (C8)
+---
+
+
+# Motor Innervation
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "root_identifier"  # or "group_identifier"
+filter_patterns <- "C8"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "C8 Nerve Root Skeletal Muscle Innervations"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# DDX
+
+| Level | Root | Pain & Sensory Change | Motor Weakness | Abnormal Reflexes |
+|-|-|---|--|-|
+| C4/C5 | C5 | Deltoid @hongReliabilityDiagnosticAccuracy2022 <br> Lateral arm @hongReliabilityDiagnosticAccuracy2022 | Deltoid @hongReliabilityDiagnosticAccuracy2022 <br> Biceps @hongReliabilityDiagnosticAccuracy2022 | Bicep reflex @hongReliabilityDiagnosticAccuracy2022 |
+| C5/C6 | C6 | Radial forearm to thumb and index finger @hongReliabilityDiagnosticAccuracy2022 | Biceps @hongReliabilityDiagnosticAccuracy2022 <br> Wrist extensor @hongReliabilityDiagnosticAccuracy2022 | Bicep reflex @hongReliabilityDiagnosticAccuracy2022 <br> Brachioradialis reflex @hongReliabilityDiagnosticAccuracy2022 |
+| C6/C7 | C7 | Midradial forearm to index and middle finger @hongReliabilityDiagnosticAccuracy2022 | Wrist Flexor @hongReliabilityDiagnosticAccuracy2022 <br> Tricep @hongReliabilityDiagnosticAccuracy2022 | Triceps reflex @hongReliabilityDiagnosticAccuracy2022 |
+| C7/T1 | C8 | Ulnar forearm to ring and little finger @hongReliabilityDiagnosticAccuracy2022 | Hand Intrinsic @hongReliabilityDiagnosticAccuracy2022 <br> Finger Flexor @hongReliabilityDiagnosticAccuracy2022 | N/a @hongReliabilityDiagnosticAccuracy2022 |
+
+: {.striped .hover}
+
+
+
+# Lesion
+
+"This nerve root is often compressed by disc herniation at the C7/T1 vertebral level. C8 root involvement results in pain in the medial arm and forearm. With C8 lesions [40], sensory signs and symptoms occur on the medial forearm and hand and on the fifth digit. Paresis occurs predominantly and variably in the following muscles: flexor digitorum superficialis, flexor pollicis longus, flexor digitorum profundus I to IV, pronator quadratus, abductor pollicis brevis, opponens pollicis, flexor pollicis brevis, all lumbricals, flexor carpi ulnaris, abductor digiti minimi, opponens digiti minimi, flexor digiti minimi, all interossei, adductor pollicis, extensor digiti minimi, extensor carpi ulnaris, abductor pollicis longus, extensor pollicis longus and brevis, and extensor indicis (see Chapter 2 for examination methods of these muscles). The finger flexor reflex (C8 T1) may be depressed. Sympathetic fibers destined for the superior cervical ganglia are interrupted, resulting in an ipsilateral Horner syndrome (ptosis, miosis, and anhidrosis)." @brazisLocalizationClinicalNeurology2022 
+
+"There are frequent intradural communicating fibers between neighboring segments of the cervical posterior roots. These connections are most prominent between a specific cervical segment and the next caudal root. A lesion may therefore be falsely localized clinically to a segment one level higher than its actual location." @brazisLocalizationClinicalNeurology2022 
+
+"The theoretical root syndromes discussed earlier are also related to an “idealized” brachial plexus and do not take into consideration the possibility of a prefixed or postfixed plexus (see Chapter 3 )." @brazisLocalizationClinicalNeurology2022 
+
+
+# Examination
+
+"The patient extends the thumb just short of the full range of motion. The clinician stabilizes the patient’s wrist with one hand and applies an isometric force into thumb flexion with the other (Fig. 25-29)." @duttonDuttonOrthopaedicExamination2020 

@@ -1,0 +1,37 @@
+---
+title: Muscles of the Anterior Compartment of the Leg
+---
+
+
+There are 4 muscles that make up the anterior compartment of the leg:
+
+1. [Tibialis Anterior]({{< var ref-tibialis-anterior.path >}})
+1. [Extensor Hallucis Longus]({{< var ref-extensor-hallucis-longus.path >}})
+1. [Extensor Digitorum Longus]({{< var ref-extensor-digitorum-longus.path >}})
+1. [Fibularis Tertius]({{< var ref-fibularis-tertius.path >}})
+
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "group_identifier"
+filter_patterns <- "knee_lower_leg_anterior_compartment"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Muscles of the Anterior Compartment of the Lower Leg"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+The [Fibularis Tertius]({{< var ref-fibularis-tertius.path >}}) is the most anterior muscle out of the 4 @olewnikFibularisTertiusAnatomical2019. 

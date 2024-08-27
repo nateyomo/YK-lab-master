@@ -1,0 +1,59 @@
+---
+title: Gluteus Maximus Muscle
+---
+
+# OIAN
+
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "gluteus_maximus"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Gluteus Maximus Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+# Origin {#origin}
+
+- Sacrum (dorsal surface, lateral part) @gilroyAtlasAnatomy2020
+- Ilium (gluteal surface, posterior part) @gilroyAtlasAnatomy2020
+- Thoracolumbar fascia @gilroyAtlasAnatomy2020
+- [Sacrotuberous lig.]({{< var ref-sacrotuberous-ligament.path >}}) @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+
+- **Upper fibers**: iliotibial tract @gilroyAtlasAnatomy2020
+- **Lower fibers**: gluteal tuberosity @gilroyAtlasAnatomy2020
+
+
+# Innervation {#innervation}
+
+The gluteus maximus muscle is innervated by nerve roots [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}) via the [Inferior gluteal nerve]({{< var ref-inferior-gluteal-nerve.path >}})  @gilroyAtlasAnatomy2020
+
+
+# Action {#action}
+
+- Entire muscle: extends and externally rotates the hip in sagittal and coronal planes @gilroyAtlasAnatomy2020
+- Upper fibers: Hip abduction @gilroyAtlasAnatomy2020 
+- Lower fibers: Hip adduction @gilroyAtlasAnatomy2020 
+
+
+# Overview
+
+The gluteus maxijmus is a primary extensor and external rotator of the hip @neumannKinesiologyMusculoskeletalSystem2017. The gluteus maximus is a secondary hip abductor @neumannKinesiologyMusculoskeletalSystem2017
+The gluteus maximus also plays an important role in stabilization of the SIJ and lumbar spine via its ligamentous and fascial originations @neumannKinesiologyMusculoskeletalSystem2017 

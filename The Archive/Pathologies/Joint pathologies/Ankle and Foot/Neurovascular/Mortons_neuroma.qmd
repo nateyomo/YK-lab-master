@@ -1,0 +1,10 @@
+---
+title: Morton's Neuroma
+subtitle: Interdigital Neuroma
+---
+
+:::{.callout-note title="K Notes"}
+
+- Interdigital neuroma (“mortons neuroma”)
+- Thickened nerves due to fallen transverse arc (between ¾ mets)
+:::

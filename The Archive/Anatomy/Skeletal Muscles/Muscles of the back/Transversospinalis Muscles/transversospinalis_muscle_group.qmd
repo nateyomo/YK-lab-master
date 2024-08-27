@@ -1,0 +1,14 @@
+---
+title: Transversospinalis Muscle Group
+---
+
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Rotatores Breves]({{< var ref-rotatores-breves.path >}}) | {{< var ref-rotatores-breves.origin >}} | {{< var ref-rotatores-breves.insertion >}} | {{< var ref-rotatores-breves.nerve >}} | {{< var ref-rotatores-breves.action >}} |
+| [Rotatores Longi]({{< var ref-rotatores-longi.path >}}) | {{< var ref-rotatores-longi.origin >}} | {{< var ref-rotatores-longi.insertion >}} | {{< var ref-rotatores-longi.nerve >}} | {{< var ref-rotatores-longi.action >}} |
+| [Multifidus]({{< var ref-multifidi.path >}}) | {{< var ref-multifidi.origin >}} | {{< var ref-multifidi.insertion >}} | {{< var ref-multifidi.nerve >}} | {{< var ref-multifidi.action >}} |
+| [Semispinalis Capitis]({{< var ref-semispinalis-capitis.path >}}) | {{< var ref-semispinalis-capitis.origin >}} | {{< var ref-semispinalis-capitis.insertion >}} | {{< var ref-semispinalis-capitis.nerve >}} | {{< var ref-semispinalis-capitis.action >}} |
+| [Semispinalis Cervicis]({{< var ref-semispinalis-cervicis.path >}}) | {{< var ref-semispinalis-cervicis.origin >}} | {{< var ref-semispinalis-cervicis.insertion >}} | {{< var ref-semispinalis-cervicis.nerve >}} | {{< var ref-semispinalis-cervicis.action >}} |
+| [Semispinalis Thoracis]({{< var ref-semispinalis-thoracis.path >}}) | {{< var ref-semispinalis-thoracis.origin >}} | {{< var ref-semispinalis-thoracis.insertion >}} | {{< var ref-semispinalis-thoracis.nerve >}} | {{< var ref-semispinalis-thoracis.action >}} |
+: {.striped .hover}

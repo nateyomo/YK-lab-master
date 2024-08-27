@@ -1,0 +1,100 @@
+---
+title: Odds Ratio (OR)
+---
+
+- Question: How to compare to Relative risk
+
+<!--
+The odds ratio is a ratio of two sets of odds: the odds of the event occurring in an exposed group versus the odds of the event occurring in a non-exposed group @tennyOddsRatio2024
+Odds ratios commonly are used to report case-control studies
+Odds that an outcome will occur given a particular exposure, compared to the odds of the outcome occurring in the absence of that exposure
+OR = odds that a case was exposed / Odds that a control was exposed
+-->
+
+
+
+
+
+
+# Definition
+
+- Odds ratio (OR) is defined as "the ratio of the exposure odds among the case group to the exposure odds among the control group" @robertsResearchTechniquesMade2019
+- The odds ratio (OR) is a measure of how strongly an event is associated with exposure. 
+- Odds that an outcome will occur given a particular exposure, compared to the odds of the outcome occurring in the absence of that exposure
+
+:::{.callout-tip collapse="true"}
+I like to think of odds ratio as the reverse of an RCT
+
+In an RCT, we compare the experimental and control group, which only differ by the independent variable.
+Then the results are measured using dependent variables
+
+An odds ratio compares two groups of people who only differ based on exposure.
+You could think of exposure as the "independent variable."
+When viewing the results, you could view the exposure rates as the "dependent variables."
+Thus when comparing the two using an odds ratio, you are trying to ascertain whether the exposure was statistically significant in outcome rates.
+:::
+
+
+
+# Practical use:
+
+- Odds ratios commonly are used to report case-control studies
+
+# Calculation
+
+- The odds ratio (OR) is a measure of how strongly an event is associated with exposure. 
+- OR = odds that a case was exposed / Odds that a control was exposed
+- The odds ratio is a ratio of two sets of odds: the odds of the event occurring in an exposed group versus the odds of the event occurring in a non-exposed group
+
+| | Disease (Case) | No Disease (Control) |
+|-|-|-|
+| Exposed | A | B |
+| Unexposed | C | D |
+
+
+
+# Interpretation
+
+To interpret the OR, you need to first determine what part of the test is considered the "exposure" and what part of the test is the "outcome."
+
+
+| OR Value | Interpretation |
+|-|-|
+| <1 | Odds of disease lower with exposed than non-exposed |
+| 1 | No difference in odds of disease |
+| >1 | Odds of disease greater in exposed than non-exposed |
+: {.striped .hover}
+
+:::{.callout-note title="Example"}
+
+- An odds ratio of 0.98 indicates that the group who were exposed to the variable were 2% *less* likely to have the outcome.
+- An odds ratio of 1.02 indicates that the group who was exposed to the variable were 2% *more* likely to have the outcome.
+:::
+
+# Example
+
+| Exposure | Present | Absent | Total |
+|-|-|-|-|
+| Present | A <br> (90) | B <br> (210) | A + B <br> (300) |
+|Absent| C <br> (350) | D <br> (350) | C + D <br> (700) | 
+|Total| A + C <br> (440) | B + D <br> (760) | A + B + C + D <br> (1000) |
+: 2x2 Contingency Table @robertsResearchTechniquesMade2019 {.hover .striped}
+
+How to calculate the [Odds Ratio]({{< var ref-odds-ratio.path >}}) for the contingency table:
+$$
+\begin{align*} \textrm{Relative Risk} &=\frac{\frac{A}{(C)}}{\frac{B}{(D)}}
+\\ &=\frac{90}{350}/\frac{210}{350}
+\\ &=\frac{0.26}{0.6}
+\\ &= 0.43
+\end{align*}
+$$
+
+Based on the results of the odds ratio calculation (0.43) we can conclude: 
+
+- The exposed group has 0.43 *times* the *odds* of of exposure to the outcome compared to the control group @robertsResearchTechniquesMade2019.
+- The case group is 57% less likely to have the exposure compared to the control group @robertsResearchTechniquesMade2019 
+
+# Videos
+
+{{< video https://www.youtube.com/watch?v=FVgBQN7ksxM&pp=ygUUb2RkcyByYXRpbyBleHBsYWluZWQ%3D >}}
+{{< video https://www.youtube.com/watch?v=7ymCiLPP9os&pp=ygUUb2RkcyByYXRpbyBleHBsYWluZWQ%3D >}}

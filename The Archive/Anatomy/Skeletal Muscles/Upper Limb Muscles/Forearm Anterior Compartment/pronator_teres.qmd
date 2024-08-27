@@ -1,0 +1,37 @@
+---
+title: Pronator Teres
+---
+
+
+# Overview
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Pronator Teres]({{< var ref-pronator-teres.path >}}) | {{< var ref-pronator-teres.origin >}} | {{< var ref-pronator-teres.insertion >}} | {{< var ref-pronator-teres.nerve >}} | {{< var ref-pronator-teres.action >}} |
+: {.striped .hover}
+
+
+# Origin {#origin}
+
+- **Humeral head**: medial epicondyle of humerus @gilroyAtlasAnatomy2020
+- **Ulnar head**: coronoid process @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+
+Lateral radius (Distal to supinator insertion) @gilroyAtlasAnatomy2020 
+
+
+
+# Innervation {#innervation}
+
+[Median N.]({{< var ref-median-nerve.path >}}) ([C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **Elbow**: Weak flexion @gilroyAtlasAnatomy2020
+- **Forearm**: Pronation @gilroyAtlasAnatomy2020
+
+
+
+
+# Notes

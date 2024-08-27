@@ -1,0 +1,17 @@
+---
+title: Psychosocial index
+---
+
+## Models of Health
+
+- [Biomedical Model]({{< var ref-biomedical-model.path >}})
+- [Biopsychosocial Model]({{< var ref-biopsychosocial-model.path >}})
+
+## Socioeconomics
+
+- Socioeconomic Determinants of health
+
+## Population Health Disparities
+
+- Health disparities in historically marginalized populations
+- Health disparities in LGBT populations

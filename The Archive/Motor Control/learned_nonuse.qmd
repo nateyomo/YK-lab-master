@@ -1,0 +1,21 @@
+---
+title: Learned Nonuse
+---
+
+
+Learned nonuse: Behavioral learned response to paresis associated with preferential use of less affected limbs can interfere with recovery from neurological insult @osullivanImprovingFunctionalOutcomes2016.
+
+:::{.callout-note title:"example"}
+A patient with a stroke who undergoes limited rehabilitation learns to use the less affected extremities to achieve functional goals and fails to use the more affected extremities
+:::
+
+# Prevention
+
+Early exposure to training can prevent learned nonuse and the development of faulty or poor motor patterns @osullivanImprovingFunctionalOutcomes2016.
+
+
+# Treatment
+
+For later rehabilitation to be successful, these faulty patterns must be unlearned while patterns that incorporate the more involved side are recruited @osullivanImprovingFunctionalOutcomes2016.
+
+- There is ample evidence that training is also effective for patients with chronic disability @osullivanImprovingFunctionalOutcomes2016. 

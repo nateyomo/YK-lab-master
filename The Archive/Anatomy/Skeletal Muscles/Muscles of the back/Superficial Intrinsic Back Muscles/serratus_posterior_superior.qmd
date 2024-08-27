@@ -1,0 +1,39 @@
+---
+title: Serratus Posterior Superior
+---
+
+# OIAN
+
+![Superficial intrinsic back muscles Right side posterior view @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Superficial Intrinsic Back Muscles/images/gilroyatlas 3.8ab schematic superficial intrinsic back mm.png)
+
+![Superficial intrinsic back muscles posterior view @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Superficial Intrinsic Back Muscles/images/gilroyatlas 3.10a superficial intrinsic back mm .png)
+
+| Muscle  | Origin  | Insertion | Nerve | Action |
+|--------|----------|-----------|-------|--------|
+|[Serratus Posterior Superior]({{< var ref-serratus-posterior-superior.path >}}) | {{< var ref-serratus-posterior-superior.origin >}} | {{< var ref-serratus-posterior-superior.insertion >}} | {{< var ref-serratus-posterior-superior.nerve >}} | {{< var ref-serratus-posterior-superior.action >}} |
+
+: Serratus Posterior Superior OIAN {.striped .hover}
+
+
+## Origin {#origin}
+- [Nuchal ligament]({{< var ref-nuchal-ligament.path >}}) @gilroyAtlasAnatomy2020
+- C7-T3 SP @gilroyAtlasAnatomy2020
+
+## Insertion {#insertion}
+2-4th ribs (sup border) @gilroyAtlasAnatomy2020
+
+## Innervation {#innervation}
+[Spinal nn. ]({{< var ref-spinal-nerves.path >}}) T2-T5 (Ant ramus) @gilroyAtlasAnatomy2020
+
+## Action {#action}
+
+Elevates ribs
+
+# Muscle groups
+Serratus Posterior Superior is part of the [Superficial intrinsic back muscle group]({{< var ref-oians.path >}})
+
+
+# Palpation
+
+
+# Clinical significance

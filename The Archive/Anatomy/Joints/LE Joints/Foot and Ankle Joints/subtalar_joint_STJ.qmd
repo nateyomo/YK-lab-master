@@ -1,0 +1,18 @@
+---
+title: Subtalar Joint (STJ)
+---
+
+# Osteokinematics
+
+| Movement | Normal ROM|
+|-|-|
+| Inversion | 35&deg; |
+| Eversion | 15&deg; |
+: {.striped .hover}
+
+
+
+
+# Examination
+
+- TTP at sinus tarsi is considered a hallmark sign of STJ inflammation @duttonDuttonOrthopaedicExamination2020 

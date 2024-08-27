@@ -1,0 +1,45 @@
+---
+title: Linear Correlation
+---
+
+# Linear regression vs Pearson product vs Spearman rank coefficient
+
+![Comparison of differing "r" and "$\rho$" values (From figure 3 of Schober et al. 2018 @schoberCorrelationCoefficientsAppropriate2018)](/The Archive/Evidene Based Practice/Multivariate Data Analysis/images/fig3 schoberCorrelationCoefficientsAppropriate2018.png)
+
+
+
+## Linear Regression
+
+Usually when the independent variable is fully controlled @schoberCorrelationCoefficientsAppropriate2018
+
+- 1 independent variable (x)
+- 1 dependent variable (y)
+
+Purpose: estimation of y-values from x-values
+
+
+## Pearson Product Moment Correlation (r)
+
+[Read more about Pearson Product Moment Correlation (r)]({{< var ref-pearson-product-moment-correlation.path >}})
+
+Generally applied when both variables are observed @schoberCorrelationCoefficientsAppropriate2018
+
+- 2 continuous random variables
+
+- Purpose: Correlation Coefficient
+    - Measure strength of the relationship
+    - Conventionally applied when both 
+
+
+## Spearman Rank Coefficient ($\rho$)
+
+[Read more about Spearman Rank Coefficient ($\rho$)]({{< var ref-spearman-rank-coefficient.path >}})
+
+- 2 Continuous random variables
+- 1 variable is ordinal and ranked
+    - Converts non-linear to ranked-linear
+
+Purpose: Correlation Coefficient
+
+
+

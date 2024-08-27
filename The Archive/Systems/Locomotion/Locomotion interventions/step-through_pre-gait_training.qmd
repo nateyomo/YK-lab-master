@@ -1,0 +1,45 @@
+---
+title: Step-Through Gait training
+---
+
+FORWARD AND BACKWARD WALKING The patient practices walking forward and backward as a progression from high-stepping. The therapist focuses on appropriate timing and sequencing, beginning with the weight shift forward and diagonally or backward and diagonally with weight acceptance onto the stance limb. The movements are repeated to allow for a continuous movement sequence.
+
+
+Manual contacts can be used to guide movements and facilitate missing elements. For example, in the presence of a retracted and elevated pelvis (a problem that exists for many patients with stroke and LE spasticity), the therapist can facilitate anterior pelvic elevation during swing by placing the hands on the lateral, superior, and slightly anterior aspect of the pelvis. For backward progression, the therapist’s hand can be placed over the gluteal muscles and posterior thigh to facilitate hip extension. Approximation through the pelvis can be used to facilitate weight acceptance on the stance limb. This also helps to prevent the knee on the stance limb from hyperextending. For forward progression VCs include “Shift forward, and step” and for backward progression, “Shift backward, and step.”
+
+
+
+# Progression
+To progress the activity of walking forward and backward, the therapist can do the following:
+
+:::{layout-ncol="3"}
+
+### Manual Facilitation
+
+- Decrease the amount of manual facilitation, placing increasing demands on active control
+
+### Environment
+
+- Alter the environment by progressing from walking in parallel bars, to next to parallel bars or a wall, to overground walking (i.e., decrease level of assistance)
+- Alter the environment by (1) varying the walking surface from flat to carpeted to irregular (outdoors), (2) including anticipatory timing demands, such as the time required to cross a street at a stoplight, and (3) including goal-directed leisure or occupational requirements (return-to-work skills)
+
+### Step Length
+- Increase the step length from initially reduced to normal
+
+### Cadence
+
+- Change the speed of walking from initially reduced, to normal, to an increased pace
+
+### Acceleration / Deceleration
+
+- Vary the acceleration or deceleration by having the patient practice stopping and starting or turning on cue
+
+### BOS
+- Modify the BOS from feet apart (wide base), to normal, to feet close together (narrow base), to tandem walking (heel-to-toe pattern). Keep in mind that although a wider BOS will provide increased stability, a wider base will also lead to increased weight-shift demands.
+
+### Cognition
+
+- Dual-tasking walking
+    - Walking and talking, walking and turning the head (right or left and up or down), walking holding a tray with a glass of water, and walking while bouncing a ball
+
+:::

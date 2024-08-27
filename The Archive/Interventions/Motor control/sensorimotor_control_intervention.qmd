@@ -1,0 +1,13 @@
+---
+title: Sensorimotor Control
+---
+
+
+Mechanoreceptor input from upper cervical segments (OA, AA, A-c3) from C/S muscles have direct access to the Ventral nerve cord (VNC) and [superior colliculus]({{< var ref-superior-colliculus.path >}}).
+In addition, these input converge in the central cervical nucleus, which has a path to the cerebellum, where vestib, ocular and proprioceptive info is integrated @kristjanssonSensorimotorFunctionDizziness2009.
+Thus, sensorimotor control should be considered for all patients with neck pain @kristjanssonSensorimotorFunctionDizziness2009.
+
+:::{.callout-tip}
+Ventral Nerve Cord (VNC), which integrates sensory input and locomotor output @kristjanssonSensorimotorFunctionDizziness2009
+:::
+

@@ -1,0 +1,30 @@
+---
+title: Criterion-Related Validity
+---
+
+Criterion validity is one of three main components of [validity]({{< var ref-validity.path >}}) and explains how well the test in question relates to the "gold standard" of the same construct.
+Most patient-reported outcomes have no "gold standard" and thus researchers should determine convergent validity **instead** of criterion validity @politAssessingMeasurementHealth2015.
+
+
+Criterion validity has 2 forms: @politAssessingMeasurementHealth2015
+
+1. Concurrent validity
+1. Predictive Validity
+
+:::{.callout-note}
+Some articles reference a 3rd form of criterion validity, known as "prescriptive validity" @simMeasurementValidityPhysical1993. 
+:::
+
+The key feature of a criterion validity approach is that there must be a ‘‘gold standard’’ criterion against which scores on the focal measure can be assessed. 
+
+
+:::{layout-ncol="2"}
+### Concurrent Validity
+[Concurrent Validity]({{< var ref-validity.concurrent >}}) is a type of [criterion validity]({{< var ref-validity.criterion >}}) that tests whether a measure is consistent with the "gold standard," measured at the *same* time @politAssessingMeasurementHealth2015.
+
+### Predictive Validity
+[Predictive Validity]({{< var ref-validity.predictive >}}) is a type of [criterion validity]({{< var ref-validity.criterion >}}) that tests whether a measure can predict the outcome of the gold standard  measured at a *future* point in time @politAssessingMeasurementHealth2015
+
+
+:::
+

@@ -1,0 +1,34 @@
+---
+title: Tinel's Sign
+subtitle: Special test of neuropathy
+---
+
+# Carpal Tunnel {#carpal-tunnel}
+
+# Cubital tunnel syndrome
+
+# Radial nerve entrapment
+
+# Tarsal tunnel syndrome
+
+# Superficial peroneal neuropathy
+
+# Brachial Plexus Version {#brachial-plexus}
+
+- AKA: Supraclavicular pressure test
+- Tests if the brachial plexus is compromised in the [interscalene triangle]({{< var ref-interscalene-triangle.path >}}) @hooperPart1ThoracicOutletSyndrome2010
+
+## Technique
+- Patient is seated @duttonDuttonOrthopaedicExamination2020
+- Ask the pt to to SB neck contralaterally (to uninvolved side) @duttonDuttonOrthopaedicExamination2020
+- Clinician taps or squeezes trunks of brachial plexus using fingers
+
+## Interpretation
+
+- Local pain @duttonDuttonOrthopaedicExamination2020
+    - Indicates cervical plexus lesion @duttonDuttonOrthopaedicExamination2020
+- Tingling along one of the trunks: @duttonDuttonOrthopaedicExamination2020
+    Indicates: Compression/neuroma of one or more trunks of brachial plexus @duttonDuttonOrthopaedicExamination2020
+
+
+

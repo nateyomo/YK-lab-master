@@ -1,0 +1,143 @@
+---
+title: Brachial Plexus
+---
+
+![Brachial Plexus @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Upper extremity nerves/images/gilroyatlas fig28.11 brachial plexus course.png)
+
+![Brachial Plexus @duttonDuttonOrthopaedicExamination2020](/The Archive/Anatomy/Nerves/Upper extremity nerves/images/fig3.9 Brachial Plexus Dutton.png)
+
+# Anatomy
+## Nerve roots
+
+The anterior divisions of 5 nerve roots compose the brachial plexus:
+
+1. [C5]({{< var ref-nerve-root.c5 >}})
+1. [C6]({{< var ref-nerve-root.c6 >}})
+1. [C7]({{< var ref-nerve-root.c7 >}})
+1. [C8]({{< var ref-nerve-root.c8 >}})
+1. [T1]({{< var ref-nerve-root.t1 >}})
+
+## Trunks
+
+The brachial plexus nerve roots become 3 trunks:
+
+1. [Superior Trunk]({{< var ref-brachial-plexus.superior-trunk >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) @duttonDuttonOrthopaedicExamination2020
+1. [Middle Trunk]({{< var ref-brachial-plexus.middle-trunk >}}) ([C7]({{< var ref-nerve-root.c7 >}})) @duttonDuttonOrthopaedicExamination2020
+1. [Inferior Trunk]({{< var ref-brachial-plexus.inferior-trunk >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @duttonDuttonOrthopaedicExamination2020
+
+:::{layout-ncol="3"}
+### Superior Trunk
+
+- Nerve to Subclavius ({{< var ref-nerve-to-subclavius.roots >}}) originates from the [Superior Trunk]({{< var ref-brachial-plexus.superior-trunk >}}) @duttonDuttonOrthopaedicExamination2020
+- The [suprascapular nerve]({{< var ref-suprascapular-nerve.path >}}) ({{< var ref-suprascapular-nerve.roots >}}) originates from the [Superior Trunk]({{< var ref-brachial-plexus.superior-trunk >}}) at Erb’s point @duttonDuttonOrthopaedicExamination2020.
+:::
+
+## Divisions
+
+6 divisions are formed from the 3 trunks:
+
+1. Anterior Division of the Superior Trunk
+1. Posterior Division of the Superior Trunk
+1. Anterior Division of the Middle Trunk
+1. Posterior Division of the Middle Trunk
+1. Anterior Division of the Inferior Trunk
+1. Posterior Division of the Inferior Trunk
+
+## Cords
+
+The divisions then combine to form 3 cords:
+
+1. Lateral cord
+1. Posterior cord
+1. Medial cord
+
+:::{.callout-note}
+These three cords are named for their geographical relationship to the axillary artery @duttonDuttonOrthopaedicExamination2020
+:::
+
+The medial and lateral pectoral nerves extend from the medial and lateral cords, respectively (see Fig. 3-9). They supply the pectoralis major and pectoralis minor muscles. The pectoralis major muscle has dual innervation.1 The lateral pectoral nerve (C5–7), which is more medial in the muscle, travels with the thoracoacromial vessels, and innervates the clavicular and sternal heads. The medial pectoral nerve (C8–T1) shares a course with the lateral thoracic vessels and provides innervation to the sternal and costal heads.1 The main trunk of these nerves can be found near the origin of the vascular supply of the muscle.
+
+
+The thoracodorsal nerve, or middle subscapular nerve, which arises from the posterior cord of the brachial plexus with its motor fiber contributions from C6, C7, and C8 (see Fig. 3-9). This nerve courses along the posterior–lateral chest wall, along the surface of the serratus anterior, and deep to the subscapularis, giving rise to branches that supply the latissimus dorsi. ■ The lower subscapular nerve (C5–6) to the teres major and part of the subscapularis muscle (see Fig. 3-9). ■ Sensory branches of the medial cord (C8–T1 or T1 alone) comprise the medial cutaneous (antebrachial) nerve to the medial surface of the forearm and the medial cutaneous (brachial) nerve to the medial surface of the arm (see Fig. 3-9).1
+
+:::{layout-ncol="3"}
+### Lateral Cord
+
+- Contributions to the [Medial Pectoral Nerve]({{< var ref-medial-pectoral-nerve.path >}}) ({{< var ref-medial-pectoral-nerve.roots >}}) @duttonDuttonOrthopaedicExamination2020
+- Contributions to the [Lateral Pectoral Nerve]({{< var ref-lateral-pectoral-nerve.path >}}) ({{< var ref-lateral-pectoral-nerve.roots >}}) @duttonDuttonOrthopaedicExamination2020
+
+### Posterior Cord
+
+- [Upper Subscapular Nerve]({{< var ref-subscapular-nerve.upper >}}) ({{< var ref-subscapular-nerve.roots >}}) @duttonDuttonOrthopaedicExamination2020
+- [Thoracodorsal Nerve (Middle Subscapular Nerve)]({{< var ref-thoracodorsal-nerve.path >}}) ({{< var ref-thoracodorsal-nerve.roots >}}) @duttonDuttonOrthopaedicExamination2020 
+- [Lower Subscapular Nerve]({{< var ref-subscapular-nerve.lower >}}) ({{< var ref-subscapular-nerve.roots >}}) @duttonDuttonOrthopaedicExamination2020 
+
+### Medial Cord
+
+- Contributions to the [Medial Pectoral Nerve]({{< var ref-medial-pectoral-nerve.path >}}) ({{< var ref-medial-pectoral-nerve.roots >}}) @duttonDuttonOrthopaedicExamination2020
+- Contributions to the [Lateral Pectoral Nerve]({{< var ref-lateral-pectoral-nerve.path >}}) ({{< var ref-lateral-pectoral-nerve.roots >}}) @duttonDuttonOrthopaedicExamination2020
+- Medial cutaneous nerve of the arm ({{< var ref-medial-cutaneous-nerve-of-the-arm.roots >}}) @duttonDuttonOrthopaedicExamination2020 
+- Medial cutaneous nerve of the forearm ({{< var ref-medial-cutaneous-nerve-of-the-forearm.roots >}}) @duttonDuttonOrthopaedicExamination2020 
+
+
+
+:::
+
+## Branches
+
+1. [Musculocutaneous nerve]({{< var ref-musculocutaneous-nerve.path >}}) ({{< var ref-musculocutaneous-nerve.roots >}})
+1. [Axillary nerve]({{< var ref-axillary-nerve.path >}}) ({{< var ref-axillary-nerve.roots >}})
+1. [Radial nerve]({{< var ref-radial-nerve.path >}}) ({{< var ref-radial-nerve.roots >}})
+1. [Musculocutaneous nerve]({{< var ref-musculocutaneous-nerve.path >}}) ({{< var ref-musculocutaneous-nerve.roots >}})
+1. [Musculocutaneous nerve]({{< var ref-musculocutaneous-nerve.path >}}) ({{< var ref-musculocutaneous-nerve.roots >}})
+
+
+# Traumatic Injury
+
+Traumatic injuries to the brachial plexus typically involve a combination of different injuries: @duttonDuttonOrthopaedicExamination2020
+
+1. Compression of spinal nerves @duttonDuttonOrthopaedicExamination2020
+1. Traction injuries of spinal roots and nerves @duttonDuttonOrthopaedicExamination2020
+1. Avulsions of spinal roots @duttonDuttonOrthopaedicExamination2020
+
+:::{.callout-note}
+If the rootlets are disconnected from the spinal cord via trauma, they generally exit the intradural space, but in some rare cases they can remain in the space @duttonDuttonOrthopaedicExamination2020
+:::
+
+
+# Obstetric Lesions
+The main cause of brachial plexus injuries are due to difficulties during childbirth @duttonDuttonOrthopaedicExamination2020.
+
+
+Obstetric brachial plexus palsy is usually caused by stretch (neurapraxia or axonotmesis) and incomplete rupture more often than complete rupture or avulsion @duttonDuttonOrthopaedicExamination2020. 
+
+:::{layout-ncol="3"}
+### Upper Obstetrical Brachial Palsy
+
+- Upper Obstetrical brachial palsy involves [C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), and usually [C7]({{< var ref-nerve-root.c7 >}}) Nerve roots @duttonDuttonOrthopaedicExamination2020.
+- Upper obstetrical brachial palsy is also called "Erb's Palsy" @duttonDuttonOrthopaedicExamination2020 
+- The majority of cases of obstetric brachial plexus palsy involve "Erb's Palsy" @duttonDuttonOrthopaedicExamination2020.
+- Erb's Palsy lesions are always supraclavicular @duttonDuttonOrthopaedicExamination2020.
+
+### Lower Obstetrical Brachial Palsy
+
+- Lower Obstetrical brachial palsy predominantly involves [C8]({{< var ref-nerve-root.c8 >}}) and [T1]({{< var ref-nerve-root.t1 >}}) nerve roots @duttonDuttonOrthopaedicExamination2020.
+- Lower OBstetrical Brachial palsy is a rare birth injury @duttonDuttonOrthopaedicExamination2020 
+- Lower Obstetrical brachial palsy is also known as "Klumpke's Palsy" or "Dejerine-Klumpke Palsy" @duttonDuttonOrthopaedicExamination2020 
+
+### Total Obstetrical Brachial Palsy
+Total Obstetrical brachial palsy predominantly involves [C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}) and [T1]({{< var ref-nerve-root.t1 >}}) nerve roots @duttonDuttonOrthopaedicExamination2020.
+:::
+
+
+"Klumpke’s paralysis is characterized by paralysis and atrophy of the small hand muscles and flexors of the wrist (the so-called claw-hand). Prognosis of this type is more favorable. If the sympathetic rami of T1 are involved, Horner syndrome (ptosis, enophthalmos, facial reddening, and anhydrosis) may be present.25" @duttonDuttonOrthopaedicExamination2020 
+
+# Dysfunction
+
+## Brachial Plexus irritation {#brachial-plexus-irritation}
+
+# Tests and measures
+
+- [Stretch test]({{< var ref-brachial-plexus-stretch-test.path >}})
+- [Cervical Rotation Lateral Flexion Test]({{< var ref-cervical-rotation-lateral-flexion-test.path >}})
+- [Tinel’s Sign]({{< var ref-tinels-test.brachial-plexus >}})

@@ -1,0 +1,56 @@
+---
+title: Statistical Power
+subtitle: The Probability that we will correctly reject the null hypothesis
+---
+
+
+# Overview
+
+:::{layout-ncol="3"}
+
+### Definition
+- Power is the probability that the study will give a significant result **if** the research hypothesis is true @aronStatisticsPsychology2013.
+- In other words, power is the probability that we will correctly reject the null hypothesis.
+- Power is the probability that we will *correctly* get a small p-value.
+
+:::
+
+# Power
+
+{{< video https://youtu.be/Rsc5znwR5FA >}}
+
+# Significance to the reader
+
+- Important for making sense of results that are not significant @aronStatisticsPsychology2013
+- Or results that *are* significant but not *practically* significant @aronStatisticsPsychology2013
+
+# Calculation
+
+- We typically do not have the population mean, thus we must estimate it.
+- 
+
+# Factors influencing Power
+
+- Sample size is directly related to power
+
+
+# Example
+
+- [Interactive example](https://rpsychologist.com/d3/nhst/)
+
+
+# Power Analysis {#power-analysis}
+
+- Tells us how large the sample size is required to have sufficient power
+- Power analysis can be used to avoid "p-hacking"
+
+## How to conduct a power analysis
+
+- Step 1: Choose how much power you want
+- Step 2: Determine significant threshold (&alpha;)
+- Step 3: Estimate effect size (d)
+
+{{< video https://www.youtube.com/watch?v=VX_M3tIyiYk&pp=ygUWc3RhdHNxdWVzdCBlZmZlY3Qgc2l6ZQ%3D%3D >}}
+
+
+

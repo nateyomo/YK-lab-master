@@ -1,0 +1,62 @@
+---
+title: Flexor Hallucis Longus (FHL)
+---
+
+:::{layout-ncol="2"}
+![Schematic of Deep Flexors of the Posterior Compartment of the Leg </br> 1: Tibialis Posterior </br> 2: FDL </br> 3: FHL </br> 4: Popliteus @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.24a Schematic Posterior compartment of the leg deep flexors.png)
+
+![Deep Flexors of the Posterior Compartment of the Leg @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.24b Posterior compartment of the leg deep flexors.png)
+:::
+
+
+# Overview
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "flexor_hallucis_longus"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Flexor hallucis longus (FHL) Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+
+
+# Origin {#origin}
+
+- Fibula (posterior distal two thirds) @gilroyAtlasAnatomy2020
+- IO membrane (adjacent) @gilroyAtlasAnatomy2020
+
+
+# Insertion {#insertion}
+1st distal phalanx (base) @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **TCJ**: PF @gilroyAtlasAnatomy2020
+- **STJ**: INV @gilroyAtlasAnatomy2020
+- **MTP and IP 1st toe**: PF @gilroyAtlasAnatomy2020
+
+
+
+
+# MMT
+
+"The FHB VIDEO and FHL muscles VIDEO produce MTP joint flexion and IP joint flexion. The foot is maintained in midposition. The first metatarsal is stabilized, and resistance is applied beneath the proximal and distal phalanx of the great toe into toe extension." @duttonDuttonOrthopaedicExamination2020 

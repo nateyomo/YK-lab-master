@@ -1,0 +1,15 @@
+---
+title: Ribs (Bone)
+---
+
+# First rib
+[First rib]({{< var ref-1st-rib.path >}})
+
+
+# Muscular attachments
+
+| Muscle  | Origin | Insertion | Nerve | Action |
+|------|--------|-------|----------|--------|
+| [Pectoralis Minor]({{< var ref-pectoralis-minor.path >}}) | {{< var ref-pectoralis-minor.origin >}} | {{< var ref-pectoralis-minor.insertion >}} | {{< var ref-pectoralis-minor.nerve >}} | {{< var ref-pectoralis-minor.action >}} |
+
+: {.striped .hover}

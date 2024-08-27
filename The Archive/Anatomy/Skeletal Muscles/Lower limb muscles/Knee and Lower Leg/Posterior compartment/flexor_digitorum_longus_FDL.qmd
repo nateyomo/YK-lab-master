@@ -1,0 +1,60 @@
+---
+title: Flexor Digitorum Longus (FDL)
+---
+
+:::{layout-ncol="2"}
+![Schematic of Deep Flexors of the Posterior Compartment of the Leg </br> 1: Tibialis Posterior </br> 2: FDL </br> 3: FHL </br> 4: Popliteus @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.24a Schematic Posterior compartment of the leg deep flexors.png)
+
+![Deep Flexors of the Posterior Compartment of the Leg @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.24b Posterior compartment of the leg deep flexors.png)
+:::
+
+# Overview
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/functions.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "flexor_digitorum_longus"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Flexor digitorum longus (FDL) Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+
+# Origin {#origin}
+Tibia (middle third of posterior surface) @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion}
+Bases of 2-5 distal phalanges @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020
+
+
+# Action {#action}
+
+- **TCJ**: PF @gilroyAtlasAnatomy2020
+- **STJ**: INV @gilroyAtlasAnatomy2020
+- **MTP & IP 2-5**: PF @gilroyAtlasAnatomy2020
+
+
+
+
+
+
+# MMT
+
+"The FDL and brevis muscles produce IP joint flexion. The motion is tested with the foot in the anatomic position. If the gastrocnemius muscle is shortened, preventing the ankle from assuming the anatomic position, the knee is flexed. The toes may be tested simultaneously. The foot is held in the midposition, and the metatarsals are stabilized. Resistance is applied beneath the distal and proximal phalanges" @duttonDuttonOrthopaedicExamination2020 

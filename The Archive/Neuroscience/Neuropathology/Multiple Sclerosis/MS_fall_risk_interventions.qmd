@@ -1,0 +1,29 @@
+---
+title: Multiple Sclerosis Fall Risk Interventions
+---
+
+# Backwards Walking Fall Prediction
+
+## Edwards et al. 2020
+| Item  | Study  |
+|--------|----------|
+| n | 38 |
+| Study type | Retrospective Cohort |
+| Measure |  |
+| Dependent variable | "Fall diary" |
+
+: Edwards et al. 2020 @edwardsBackwardWalkingSensitively2020 {.striped .hover}
+
+### Initial measures
+
+Spatiotemporal measures of forward and backwards walking and fall history were collected @edwardsBackwardWalkingSensitively2020.
+
+### Fall Risk Measures
+For the following 6 months after, a fall diary was taken by participants @edwardsBackwardWalkingSensitively2020
+
+### Fall risk contributors (associations)
+
+Between forward vs backward velocity, vs stride length, double support time, age, disease severity and symptom duration, **backwards walking velocity** was the strongest unique predictor of falls
+Accurately classified 76.3% of the cases @edwardsBackwardWalkingSensitively2020
+Forward walking classification of fallers was about 71.1% @edwardsBackwardWalkingSensitively2020
+

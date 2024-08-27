@@ -1,0 +1,87 @@
+---
+title: Post-Concussive Syndrome (PCS)
+subtitle: Concussion symptoms occurring longer than normal
+---
+
+
+
+# Risk Factors
+
+- Complicated TBI has greater risk than uncomplicated @permenterPostconcussiveSyndrome2024
+- Multiple TBIs increases the risk of PCS or Persistent PCS [@permenterPostconcussiveSyndrome2024; @tatorPostconcussionSyndromeDemographics2016]
+- Age
+- Female gender @permenterPostconcussiveSyndrome2024 
+- Psychiatric history @permenterPostconcussiveSyndrome2024 
+- History of chronic pain syndromes @permenterPostconcussiveSyndrome2024 
+- Hx of Migraines @tatorPostconcussionSyndromeDemographics2016
+
+
+:::{layout-ncol="3"}
+
+### Female Gender
+
+- Women are at greater risk for persistent PCS @permenterPostconcussiveSyndrome2024
+- Women are more likely to endorse a headache, irritability, fatigue, and concentration problems @permenterPostconcussiveSyndrome2024
+
+### Older Age
+
+- Increases in age are also associated with a higher risk of PCS @permenterPostconcussiveSyndrome2024
+- It is theorized that minors are less likely to experience PCS due to increased neuroplasticity @permenterPostconcussiveSyndrome2024
+
+
+:::
+
+
+
+# Diagnostic Criteria
+
+There are 2 clinical criteria used to diagnose PCS:
+
+1. International Classification of Diseases, 10th revision (ICD-10)
+1. DSM-IV
+
+:::{.callout-caution}
+Both of which can give varying results, even when applied to the same population @permenterPostconcussiveSyndrome2024 
+:::
+
+
+
+# Epidemiology 
+
+### Severity of TBI
+
+No clear evidence has been found to correlate severity of TBI with risk of PCS @permenterPostconcussiveSyndrome2024
+
+
+
+Variables and measures utilized in order to define a correlation include 
+initial presenting GCS
+Duration of loss of consciousness (LOC)
+post-traumatic memory difficulties or amnesia
+Imaging traumatic abnormalities on CT scan or magnetic resonance imaging (MRI)
+
+On the other hand, there is evidence of at least one research study suggesting that medical history of recent or multiple prior concussion episodes, is an associated risk factor for the development of prolonged symptoms after concussion.
+ 
+
+# Etiology
+
+<q>
+Although the pathophysiology of concussion includes a combination of metabolic, physiologic, and microstructural injuries to the brain. Other theories in the literature have stated a psychogenic origin in nature, however, it is possible that both provide a significant contribution to PCS
+</q>
+
+# Pathphysiology
+
+The symptoms consistent with PCS can all result from autonomic nervous system damage @permenterPostconcussiveSyndrome2024.
+This damage occurs to the white matter tracks between cortical control centers and vagal nerve control via the spinal cord
+This affects both the sympathetic and parasympathetic nervous systems
+
+As a result, patients will often experience symptoms consistent with depression. 
+
+Autonomic nervous system damage also causes difficulties with control of cerebral blood flood, blood pressure, and heart rate 
+
+leading to dizziness, headache, confusion, difficulty with concentration, and orthostatic intolerance.
+
+Decreases in cerebral blood flow at rest in the immediate post-injury period can account for PCS symptoms outlined above. 
+Also, increased cerebral blood flow post-injury can cause headaches, vision changes, and dizziness leading to exercise intolerance. 
+
+Heart rate variability due to damage in the vagal nerve tracts results in disproportionate increases in blood pressure and heart rate during exercise causing early fatigue
