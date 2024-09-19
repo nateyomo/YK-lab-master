@@ -7,3 +7,32 @@ Sampling
 - If sampling methods are not stated and cannot be inferred, you should error on the side of caution by assuming the most biased sampling method (i.e. convenience sampling) was used thereby reducing external validity.
 
 Once you determine that a study has adequate construct, external and internal validity only then is it worth it to evaluate author’s conclusions and statistical results 
+
+
+# Quality Assessment
+
+
+
+
+## Quality Assessment Tool for Studies with Diverse Designs (QATSDD)
+
+- The QATSDD was originally developed for the field of psychology, but has been applied to other fields of health as well @harrisonQualityAssessmentDiverse2021.
+- The QATSDD provides a framework for analyzing the congruency, transparency and organised reporting for research using "post-positivistic" or "positivist" methodology for multiple-methods or mixed-methods designs @harrisonQualityAssessmentDiverse2021.
+- The QATSDD was **not** meant to be used as a filter to include or exclude studies from a review since the the QATSDD cutoffs are **arbitrary** @harrisonQualityAssessmentDiverse2021.
+
+## Quality Assessment for Diverse Studies (QuADS)
+
+- Refined version of the QATSDD meant to better apply to health service research and not just psychology @harrisonQualityAssessmentDiverse2021.
+- QuADS was meant for appraising quality of methods, evidence, and reporting for multi-method and/or mixed-method research @harrisonQualityAssessmentDiverse2021.
+- QuADS tool demonstrates substantial interrater reliability and content and face validity according to Harrison @harrisonQualityAssessmentDiverse2021.
+- Strengths (according to a synthesis by Harrison @harrisonQualityAssessmentDiverse2021)
+    - Perceived strong reliability @harrisonQualityAssessmentDiverse2021.
+    - Perceived strong validity @harrisonQualityAssessmentDiverse2021.
+    - Broad application for diverse study designs @harrisonQualityAssessmentDiverse2021
+    -  Comprehensive list of indicators @harrisonQualityAssessmentDiverse2021
+    - Large variety of disciplines: Psychology, medicine, health sciences, allied health, and health services, etc @harrisonQualityAssessmentDiverse2021
+
+:::{.callout-note}
+If I were to choose one, I would use QuADS over QATSDD
+:::
+

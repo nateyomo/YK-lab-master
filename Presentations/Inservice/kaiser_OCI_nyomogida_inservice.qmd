@@ -1,0 +1,33 @@
+---
+title: Total Joint Repair
+subtitle: Inservice
+author:
+- id: NGY
+  number: 1
+  name: 
+    given: Nathaniel
+    family: Yomogida
+  affiliation:
+    - Yomogida-Kerstein Lab
+  degrees:
+    - B.S.
+    - SPT
+---
+
+# Goals
+
+1. Efficiency
+1. Safety
+
+
+# Hospital length of stay
+
+@gleicherReducingAcuteHospitalization2021
+
+
+# Dropfoot
+
+
+# Anemia
+
+# Orthostatic Hypotension

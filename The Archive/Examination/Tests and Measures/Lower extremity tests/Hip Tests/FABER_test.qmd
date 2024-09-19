@@ -1,7 +1,20 @@
 ---
 title: FABER Test
+subtitle: Hip provocation maneuver
 ---
+
 
 
 "The FABER (flexion, abduction, external rotation) test (Fig. 19-36) is a screening test for hip, lumbar, or SIJ dysfunction, or an iliopsoas spasm (see Chapter 29). If this position recreates groin pain, then iliopsoas and/or intra-articular hip pathology may be present.17 Posterior hip joint pain in this position may indicate a ligamentum teres injury and/or posterior hip impingement."
 
+# Technique
+
+![FABER Test technique @maslowskiDiagnosticValidityHip2010](/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/images/maslowskiDiagnosticValidityHip2010 fig1 faber.png)
+
+"For the flexion abduction external rotation (FABER) maneuver, the subject lays supine with the foot of the tested leg on the knee of opposite leg. The examiner lowers the knee toward the table. Gentle, downward overpressure was exerted by the examiner at the subject’s knee (of the tested limb) and anterior superior iliac spine (of the contralateral limb). The test is considered positive if the maneuver recreates the subject’s pain." @maslowskiDiagnosticValidityHip2010
+
+"For the FABER maneuver (also known as Patrick test) [5], the subject was asked to lie supine with the foot of the tested leg on the knee of opposite leg such that the tested extremity is in a hip flexion, abduction, and external rotation position. The examiner then lowered the ipsilateral knee toward the table. Gentle, downward overpressure was exerted by the examiner at the subject’s ipsilateral knee. Downward pressure was applied at the contralateral anterior superior iliac spine to stabilize the pelvis (Figure 1). The test was considered positive if the maneuver recreated the subject’s ipsilateral hip pain." @maslowskiDiagnosticValidityHip2010
+
+# Interpretation
+
+A positive FABER test can help to rule in an [acetabular labral tear]({{< var ref-acetebular-labral-tear.path > >}}) @wongPhysicalExaminationHip2022.

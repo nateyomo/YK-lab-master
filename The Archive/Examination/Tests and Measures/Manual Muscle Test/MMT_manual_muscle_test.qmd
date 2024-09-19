@@ -3,6 +3,58 @@ title: Manual Muscle Test (MMT)
 ---
 
 
+
+
+"The first editions of two classic textbooks describing muscle strength testing were published in the 1940s by Daniels, Williams, and Worthingham68 and Kendall and Kendall.69" @fruthFundamentalsPhysicalTherapy2018
+
+"One primary difference between these texts is the focus on testing muscles as they work to move a joint in planar motion (acting as a group; Daniels et al.68) or testing muscles based on how each one individually contributes to motion (based on origin, insertion, and action; Kendall et al.69)" @fruthFundamentalsPhysicalTherapy2018
+
+
+# Procedure
+
+1. Consistency in Explanation
+1. [Assess unaffected side first](#assess-unaffected)
+1. [Precise patient positioning](#precise-positioning)
+1. Stabilization
+1. Consistent hand placement
+
+
+## Assess Unaffected side first {#assess-unaffected}
+
+The unaffected side should always be assessed first in order to have a "baseline" to compare the affected side with @fruthFundamentalsPhysicalTherapy2018.
+In addition, this also helps the patient understand what is required of the affected leg, which will help reduce apprehension @fruthFundamentalsPhysicalTherapy2018.
+
+## Precise Positioning {#precise-positioning}
+
+The patient should be positioned precisely in order to determine weaknesses between two extremities or even between sessions.
+In addition, the position should isolate the muscle *and* optimize the muscle's ability to produce a force @fruthFundamentalsPhysicalTherapy2018.
+Lastly, the position should prevent the patient from compensating and altering the movement or be obvious to the clinician when the patient is compensating @fruthFundamentalsPhysicalTherapy2018.
+
+- One-joint muscles (e.g., soleus, gluteus maximus, and pectoralis major) are typically assessed at the end of a joint’s range of motion. 
+- Two-joint muscles (e.g., biceps brachii, rectus femoris, and hamstrings) are typically assessed at the mid-range of joint motion.33,71
+
+## Stabilization
+
+Most commonly, one of your hands will be used to help stabilize the patient while the other hand is used to provide resistive force to the muscle being tested. Providing stabilization for the patient helps to reduce substitutions and increase testing reliability and often allows the patient to feel more comfortable exerting maximal force against examiner resistance.
+
+## Consistent hand placement and force generation
+
+### Lever Arm
+Lever arm: The patient’s ability to resist examiner force has a great deal to do with the length of the lever arm through which the force is applied. The patient will be able to resist force to a greater extent (sometimes much greater) when a short lever arm is used versus a long lever arm (see the Try This! exercise on the following page). Thus, it is imperative that the length of the lever arm is consistent each time the test is performed through the course of rehabilitation. Most commonly, to allow for more sensitive and discriminative grading during MMT, you should use a long lever arm.33,71
+
+### Direction of Force
+"Direction of force: The placement of the hand that provides the testing force, as well as the direction(s) of the force provided, are highly important. Once the limb or body segment is in the optimal testing position, pressure is applied in a direction (or directions) that is directly opposite the line of pull of the muscle. The more precise your direction of force, the better each muscle’s primary action can be elicited. Imprecise direction of examiner-applied force can substantially diminish the accuracy of the test. For example, testing of the tibialis posterior requires the ankle joint to begin in a position of plantar flexion and inversion, with the examiner’s force applied in the directions of dorsiflexion and eversion.72 If the examiner fails to apply adequate force in the direction of dorsiflexion (primarily applying force in the direction of eversion) then the patient’s tibialis anterior would likely attempt to kick in because it is also a strong ankle invertor."
+
+### Speed of Force production
+
+"The resistive force you provide should ramp up over the course of 1–2 seconds, be held 3–5 seconds, and then be ramped down over the course of 1–2 seconds"
+
+### Magnitude of Force
+
+"As mentioned in the Gross Muscle Strength section, you must provide adequate force to overcome the force produced by the patient for any given muscle. The magnitude of force will naturally be different for smaller muscles versus larger ones.57 It should be intuitive that one will not provide the same amount of force when testing the biceps as one would use to test the extensor digitorum of the hand."
+
+# Grading
+
 | Letter | Number | Definition |
 |--|-|--------|
 ||0 | No evidence of contraction|
@@ -15,3 +67,58 @@ title: Manual Muscle Test (MMT)
 | Good (G) | 4 | Movement through complete ROM against gravity and mod resistance |
 | Normal (N) | 5 | Movement through complete test ROM against gravity with MAX resistance|
 : MMT Grading Scale {.striped .hover}
+
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+library(readxl)
+library(gt)
+library(here)
+library(tidytable)
+
+mmt_grade_data <- read_excel(here("The Archive/Examination/Tests and Measures/Manual Muscle Test/manual_muscle_test_table.xlsx"))
+
+mmt_grade_tb <- mmt_grade_data %>%
+    gt() %>%
+    cols_hide(definition) %>%
+    fmt_markdown(columns = "function_of_muscle") %>%
+    tab_header(
+            title = md("Grading Scale"),
+            subtitle = md("Manual Muscle Tests")
+    ) %>%
+    tab_row_group(
+        label = "Against gravity",
+        rows = 1:8) %>%
+    tab_row_group(
+        label = "Horizontal plane",
+        rows = 9:12) %>%
+    tab_row_group(
+        label = "No movement",
+        rows = 13:14) %>%
+    row_group_order(groups = c("Against gravity", "Horizontal plane", "No movement")) %>%
+    cols_label(
+        function_of_muscle = "Definition",
+        numerical_grade = "Numerical",
+        grade_terminology = "Terminology"
+    ) %>%
+    cols_align(
+        align = "left",
+        columns = everything()
+    ) %>%
+    cols_move_to_start(columns = c(numerical_grade, grade_terminology)
+    ) %>%
+    cols_width(
+        numerical_grade ~ px(200),
+        grade_terminology ~ px(200)
+    ) %>%
+    tab_spanner(
+        label = "Grades",
+        columns = c(numerical_grade, grade_terminology)
+    ) %>%
+    tab_source_note(md("Data from Fruth @fruthFundamentalsPhysicalTherapy2018. "))
+
+mmt_grade_tb
+```

@@ -1,0 +1,29 @@
+---
+title: Hip Pathologies
+---
+
+
+# Pain
+
+- [Greater trochanteric pain syndrome]({{< var  >}})
+
+# Joint
+
+- [Hip Osteoarthritis]({{< var ref-hip-osteoarthritis.path >}})
+
+# Labral pathologies
+
+[Acetabular labral tear]({{< var ref-acetebular-labral-tear.path >}})
+
+# Structural pathologies
+
+[Femoroacetabular impingement (FAI)]({{< var ref-femoroacetabular-impingement.path >}})
+
+# Neuromuscular
+
+- [Hip Microinstability]({{< var ref-hip-microinstability.path >}})
+
+# Muscular
+
+- [Gluteal tendinopathy]({{< var ref-gluteal-tendinopathy.path >}})
+- Hip External rotator pathology (joe's)

@@ -1,0 +1,60 @@
+---
+title: Dietary Fiber
+---
+
+# Overview
+
+The theoretical importance of dietary fiber was originally postulated in 1971 @hoStoppingReducingDietary2012.
+A lack of fiber was hypothesized to cause multiple diseases, including diverticulosis, hemorrhoids, and even colorectal cancer @hoStoppingReducingDietary2012.
+This theory has been widely publicized and the idea that dietary fiber is essential for a healthy diet and normal bowel movements is widely accepted @hoStoppingReducingDietary2012.
+Proponents of diets such as the carnivore or "lion" diet have purported that fiber is not essential and possibly even detrimental to health.
+
+# Types of Fiber
+
+## Soluble Fiber
+
+
+## Insoluble Fiber
+
+Insoluble fiber results in: 
+
+1. Increase stool weight @hoStoppingReducingDietary2012
+1. Decreased colonic transit time @hoStoppingReducingDietary2012
+
+# Theoretical Benefits
+
+Those who believe fiber is essential, attribute its benefits with constipation due to the idea that fiber aids in water retention in the colon, making stools less dry and easier to pass @hoStoppingReducingDietary2012.
+
+# Constipation
+
+
+In a prospective study by Ho et al 2012 @hoStoppingReducingDietary2012, 63 cases of idiopathic constipation were followed and asked to go on a "no fiber" diet for 2 weeks @hoStoppingReducingDietary2012. 
+Ho found that patients who stopped or reduced the intake of dietary fiber had statistically and clinically significant improvements in symptoms, whereas patients who continued a high fiber diet demonstrated no change @hoStoppingReducingDietary2012.
+
+Bowel frequency:
+
+- Fiber elimination diets demonstrated a statistically significant (p < 0.001) increase in bowel frequency from once every 3.75 &plusmn; 1.59 days to once a day @hoStoppingReducingDietary2012.
+- Fiber reduction diets demonstrated a statistically significant (p < 0.001) increase in bowel frequency from once every 4.19 &plusmn; 2.09 days to 1 motion per 1.9 &plusmn' 1.21 days @hoStoppingReducingDietary2012.
+- The group that remained on a high fiber diet demonstrated no change in bowel frequency, maintaining a frequency of 1 motion per 6.83 &plusmn; 1.03 days @hoStoppingReducingDietary2012.
+
+
+:::{.callout-caution}
+The group that had remained on a high fiber diet, had a much lower baseline bowel frequency than the other groups.
+One should keep that in mind when interpreting the results, since this group could be significantly different from the other groups.
+:::
+
+There was a statistically significant (p < 0.001) difference in bloating between the 3 groups:
+
+- Fiber elimination: 0%
+- Fiber reduction: 31.3%
+- High fiber: 100%
+
+
+
+
+There was a statistically significant (p < 0.001) difference in "straining to pass stools" between the 3 groups:
+
+- Fiber elimination: 0.00%
+- Fiber reduction: 43.8%
+- High fiber: 100%
+

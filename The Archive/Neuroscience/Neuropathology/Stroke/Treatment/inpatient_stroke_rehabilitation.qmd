@@ -1,0 +1,218 @@
+---
+title: Inpatient Physical therapy for a Stroke
+---
+
+Early functional mobilization is important for stroke outcomes
+
+:::{.callout title="Look at "}
+
+- Mariana de Aquino Miranda J, Mendes Borges V, Bazan R, José Luvizutto G, Sabrysna Morais Shinosaki J. Early mobilization in acute stroke phase: a systematic review. Top Stroke Rehabil. 2023;30(2):157-168. doi:10.1080/10749357.2021.2008595
+
+:::
+
+
+# Overview
+
+## Coordination of acute and long-term care
+
+"To be optimally successful, rehabilitation should be fully integrated with traditional medical care. Therapy should begin as early as possible while the patient is still on the acute medical or neurological unit. Physicians, nurses, and other personnel must be involved. Therapy should not be completely delegated to physical and occupational therapists. Consultations should not be limited to the 30 minutes or so that patients typically spend each day with therapists. Passive and active range-of-motion exercises and other physical therapy should be encouraged by ward personnel. If the patient goes to a rehabilitation unit, the acute-care team should continue to follow the patient whenever possible. Acute medical problems do not suddenly disappear when the patient is transferred. Subsequent strokes and medical complications are common among recuperating patients." @caplanCaplanStrokeClinical2016
+
+
+# Dosage
+
+# Precautions
+
+
+conceptual focus
+
+- Neuromuscular improvement > physical strength
+    - How to achieve neuromuscular changes that reflect functional activities in bed?
+- Sensation in bed?
+    - proprioception
+
+Methods
+
+1. Irradiation
+1. Synergies?
+1. CIMT
+1. BW assisted training via straps connected to hospital lift?
+1. Sara Steady
+
+
+Goal: Find regressions and bed mobility exercises that will help patients work up to functional training (ODI?)
+
+# Interventions
+
+## Task specific training
+
+- Task-specific practice (Veerbeek et al., 2014; Winstein et al., 2014; Fu et al., 2015; Kwakkel et al., 2015; Furlan et al., 2016; Livingston-Thomas et al., 2016; Yue et al., 2017). @maierPrinciplesNeurorehabilitationStroke2019
+
+## CIMT
+@kwakkelConstraintinducedMovementTherapy2015 
+
+
+## Sensory stimulation
+Sensory stimulation might potentially be a critical component of activity-based therapies. @caplanCaplanStrokeClinical2016
+
+# Practice
+
+## Massed practice/repetitive practice
+
+(Middleton and Schwartz, 2012; Veerbeek et al., 2014; Fu et al., 2015; Kwakkel et al., 2015; Furlan et al., 2016; Zhang et al., 2016). @maierPrinciplesNeurorehabilitationStroke2019
+
+## Variable practice
+
+Variable practice (Darekar et al., 2015; Fu et al., 2015; Livingston-Thomas et al., 2016). @maierPrinciplesNeurorehabilitationStroke2019
+
+# Difficulty
+
+Increasing difficulty (Winstein et al., 2014; Fu et al., 2015; Kwakkel et al., 2015; Furlan et al., 2016; Hasan et al., 2016; Livingston-Thomas et al., 2016; Zhang et al., 2017). @maierPrinciplesNeurorehabilitationStroke2019
+
+# Sensory stimulation
+
+Multisensory stimulation (Veerbeek et al., 2014; Livingston-Thomas et al., 2016; Yue et al., 2017). @maierPrinciplesNeurorehabilitationStroke2019
+
+# Feedback
+
+## Explicit Feedback / KOR
+Explicit feedback/knowledge of results (Middleton and Schwartz, 2012; Veerbeek et al., 2014; Darekar et al., 2015; Fu et al., 2015; Renton et al., 2017). @maierPrinciplesNeurorehabilitationStroke2019
+
+## Implicit
+
+Implicit feedback/knowledge of performance (Veerbeek et al., 2014; Darekar et al., 2015; Fu et al., 2015; Zhang et al., 2016; Renton et al., 2017; Yue et al., 2017). @maierPrinciplesNeurorehabilitationStroke2019
+
+# Dosage
+
+- see @frenchRepetitiveTaskTraining2016
+- Dosage/duration (Veerbeek et al., 2014; Winstein et al., 2014; Billinger, 2015; Darekar et al., 2015; Kwakkel et al., 2015; Hasan et al., 2016; Livingston-Thomas et al., 2016; Basso and Lang, 2017; Zhang et al., 2017). @maierPrinciplesNeurorehabilitationStroke2019
+
+
+# Modulate effector selection
+
+Modulate effector selection (Veerbeek et al., 2014; Winstein et al., 2014; Kwakkel et al., 2015; Furlan et al., 2016; Zhang et al., 2017).
+
+# Practice
+
+## Action observation/embodied practice
+
+Action observation/embodied practice (Veerbeek et al., 2014; Fu et al., 2015; Yue et al., 2017).
+
+## Goal oriented practice
+
+Goal-oriented practice (Winstein et al., 2014; Fu et al., 2015; Yue et al., 2017).
+
+## Motor imagery / mental practice
+
+Motor imagery/mental practice (Veerbeek et al., 2014).
+
+# Cueing
+
+Rhythmic cueing (Middleton and Schwartz, 2012; Veerbeek et al., 2014; Zhang et al., 2016).
+
+
+
+# Bed Exercises
+
+
+"Resistance exercise can improve motor control-stability at joints or segments. Patella instability can improve with isokinetic exercise (Hazneci, 2005), whereas scapular stability can improve with progressive resistance exercise (McNeely, 2004)." @fellLifespanNeurorehabilitationPatientcentered2019
+
+
+"PNF techniques that target joint stability through manual resistance, include alternating isometrics (including rhythmic stabilization), slow reversal, and slow reversal hold. These are particularly useful for motor control-stability impairments because they incorporate contractions of both agonists and antagonists, creating a stable, cocontracted joint or segment. In alternating isometrics (see Fig. 24-2AB), resistance is used through specific hand placements on key body parts to facilitate isometric contraction of agonist muscles on one side of the joint or body segment followed by facilitation of antagonistic muscles on the other side of the joint or body segment. Facilitation is given in verbal commands (“Don’t let me move you; hold still”) and by manual contact (touching or resisting the muscles you want to contract)." @fellLifespanNeurorehabilitationPatientcentered2019
+
+"In *rhythmic stabilization* (Fig. 24-3AB), facilitation and resistance are given alternately to agonists then to antagonists while the patient holds a body position to promote cocontraction around the joint. Resistance is increased or decreased depending on the patient’s ability to “hold” and keep the joint or segment from moving." @fellLifespanNeurorehabilitationPatientcentered2019
+
+"The *slow reversal* technique varies from this by facilitating controlled movement (with joint stability at related segments) through a desired range in one direction followed by facilitation of the antagonist, with a reversal of the pattern creating a series of active contractions with successive movement in each direction. *Slow reversal* hold is similar to *slow reversal*, but a cocontraction “hold” is facilitated at the end range of movement (Martin, 2007)." @fellLifespanNeurorehabilitationPatientcentered2019
+
+
+"For all these techniques, manual contact and application of resistance is thought to provide internal feedback in the muscle and joint receptors, helping the patient to sense the position of the joint (e.g., amount of flexion, extension), which facilitates keeping the joint in stable and anatomically correct positions during movement" @fellLifespanNeurorehabilitationPatientcentered2019
+
+"PNF can increase quadriceps and hamstring strength and joint position sense in patients with patellar instability (Hazneci, 2005). In one study, PNF did not improve gait velocity after 4 weeks of neuromuscular exercise (Coughlan, 2007). Additional research is needed to provide guidelines for proprioceptive interventions in patients with neuromotor pathology." @fellLifespanNeurorehabilitationPatientcentered2019
+
+## Scooting
+
+Horizontal: Scooting For increased independence in bed mobility, a patient must be able to maneuver in bed. Scooting is considered a skilled movement in supine. For scooting sideways, begin with the patient in a bridge. With the positions and hand placements described previously in bridging (Figure 34-2A), give input with one hand toward the pelvis (as if shortening the leg) and the other toward the knee (as if lengthening the leg). Maintain the upward direction cue to keep the bridge the entire time until ready to set the hips back down. Work with the patient to control the hips descending back down to the supporting surface (rather than plopping down). Assist the patient in aligning the legs with the new position of the hips; if necessary, lean the knees together so the legs can stay propped up. The patient then aligns the upper body with the lower body by lifting the head and shoulders slightly and shifting the shoulders over. You may cue the patient at the shoulders when needing assistance with upper body alignment.
+
+"In all cases, the patient should be doing as much of the work as possible with the therapist assisting as little as possible. When the patient needs more assistance with maintaining a bridge during the sideways scooting practice, a drawsheet can be used around his pelvis as described previously in bridging, with the addition of shortening and lengthening cues." @fellLifespanNeurorehabilitationPatientcentered2019
+
+"For scooting up in bed, again begin with a bridge. Using the position and hand placements described previously in bridging, give input with the fingers on both hands, simultaneously giving the patient the input to move the buttocks toward the head (pushing lightly toward the patient’s head). The patient can additionally assist by pushing up with both feet and hands to slide upward." @fellLifespanNeurorehabilitationPatientcentered2019
+
+## Rolling
+
+"In addition to scooting, a patient needs to be able to roll in both directions for independence in bed mobility. Although typically used for bed mobility, rolling is also used for dressing in individuals who cannot dress in sitting or standing, for pressure relief in individuals who are unable to bridge, and to decrease general tone when done slowly and rhythmically" @fellLifespanNeurorehabilitationPatientcentered2019 
+
+"Biomechanical factors include a large base of support that can be increased with an arm on the mat and a low center of gravity. The ATNR or TLR will interfere with normal rolling if present, whereas intact righting reflexes will assist with rolling. When moving from supine toward prone, gravity resists the supine-to-sidelying portion of the movement and assists the sidelying-to-prone movement." @fellLifespanNeurorehabilitationPatientcentered2019
+
+"Begin by asking the individual to roll. When the patient presents with hemiparesis, ask him to roll toward the lessinvolved side. What strategy does the patient spontaneously try to use? If possible and appropriate, help the patient to relearn his preferred rolling strategy." @fellLifespanNeurorehabilitationPatientcentered2019 
+
+"Initially, it may be easier for the patient to roll from supine to sidelying “en bloc” (log roll) rather than segmentally. When considering the patient who has experienced a stroke with one side significantly more impaired than the other, rolling onto the weaker side is easier than moving onto the uninvolved side (Franchignoni, 1997; Kafri, 2005). Because the external oblique, pectoralis major, and rectus femoris muscles play significant roles in the ability to roll to either side after a stroke, any activity or isolated muscle strengthening targeting these muscles will contribute to a patient’s overall functional success with rolling (Kafri, 2005)." @fellLifespanNeurorehabilitationPatientcentered2019 
+
+## Bridging
+
+"Bridging is a weight-bearing position for the lower extremities in supine. It is both a developmental and a functional activity essential for independent dressing and moving in bed. When working with a patient, immediately put the bridge into a function, such as lifting to scoot sideways or up in bed. Increased control for the stance phase of gait with pelvic rotation and weight shift in a more isolated movement combination (e.g., hip extension with knee flexion) can also be facilitated using this position. Biomechanical factors to consider are a higher base of support, a smaller center of gravity, and an increased number of joints involved compared with supine."
+
+Assumption of the Position
+
+"Guide and/or resist the patient’s lower extremities into a stable flexed position with feet flat on the supporting surface. Assist the patient in lifting the lower extremity with the fingers on the lateral border of the foot and the lateral popliteal fossa. When some flexion is achieved, move the proximal hand to the anterior knee, below the patella (Fig. 34-1). Place the noninvolved leg over the top of the involved foot to assist the involved leg in bending up, and place the feet flat on the surface (you may provide pressure on the tibia to assist). Placing the assistance anteriorly rather than underneath" @fellLifespanNeurorehabilitationPatientcentered2019
+
+"the leg encourages the patient to do as much of the work of lifting the leg as possible, rather than relying on the therapist to do most of the lifting or using the less-involved limb to lift the more-involved limb. Regarding foot placement, you may start with the feet apart for stability and progress toward a narrower base and/or start closer to the buttocks and progress to farther away" @fellLifespanNeurorehabilitationPatientcentered2019
+
+"A compensatory strategy for the patient is moving the legs into hooklying. The patient can hook the less-involved foot under the more-involved foot and use the strength of the uninvolved leg to pull the involved leg up into hooklying." @fellLifespanNeurorehabilitationPatientcentered2019
+
+"When a patient is unable to lift her buttocks off the supporting surface, you can facilitate the lift. Position yourself facing the patient’s head and straddle her feet. Place your hands on the patient’s distal femur, providing pressure down into the feet (cuing weight-bearing) and lightly pull the femurs forward over the feet. Then give an upward lifting cue with the fingers along the lateral aspects of the distal femur. You may lean your body back to increase weight-bearing into the patient’s feet (Fig. 34-2A)" @fellLifespanNeurorehabilitationPatientcentered2019
+
+"When the patient needs additional assistance, use a drawsheet around the crest of the pelvis, giving the same cues as described previously (Fig. 34-2B). Alternatively, your forearms can be placed on the patient’s femurs with weight-bearing pressure given into the patient’s feet. Then guiding the femurs forward over the feet, simultaneously lift the pelvis with the drawsheet." @fellLifespanNeurorehabilitationPatientcentered2019
+
+# Bed mobility
+
+
+
+# Supine-to-sit 
+
+"Individuals achieve a sitting position in a variety of ways depending on the starting position, the surface, the reason for moving into sitting, and other factors. Many people get into a sitting position from lying down by rolling to their side and then pushing into sitting using their UEs. Some may transition directly into sitting by flexing at the hips, whereas others (primarily children) rise into sitting by getting onto all fours and pushing back into sitting. This functional transition, which could occur multiple times a day depending on patient age, is a good activity for helping the patient learn motor control-stability throughout the movement, especially stability of the trunk and pelvis." @fellLifespanNeurorehabilitationPatientcentered2019 
+
+# Quadriped Position
+
+
+
+"Quadruped position, sometimes called “hands and knees” or “all fours,” can be a very useful functional position for therapeutic intervention activities because it requires neuromotor stability at the trunk and in proximal girdle segments (shoulder and pelvis/hip) as well as the elbow, wrist, and knee. Moving from supine-to-sit (see Fig. 24-16ABCD) may also improve stability by focusing on lateral trunk flexion and rotation of the trunk and stability of the head on the trunk (neck stability). This movement can also be used to facilitate gradations of UE control by going from forearm weight-bearing to extended arm weight-bearing; this is coordinated with lateral trunk flexion for weight shift toward the UE when lying down or toward the hips when coming to sit." @fellLifespanNeurorehabilitationPatientcentered2019
+
+
+
+
+# Sitting balance
+
+# Sit-to-stand
+
+:::{.callout-note}
+
+- See ch36 @fellLifespanNeurorehabilitationPatientcentered2019
+:::
+
+"Once the patient can attain a sitting position, skilled movement from sit-to-stand and the return to sitting, which requires additional segment stability in the trunk and lower extremities, must be achieved. This task, described in greater detail in Chapter 36, is achieved by leaning the trunk forward from sitting, which creates an anterior weight shift to the feet, followed by a lower extremity, extensor concentric push into the standing position (see Fig. 24-17ABC). Trunk stability is needed throughout the transition (without trunk flexion), along with dynamic stability of the hip, knee, and ankle. Depending on their age and ability, some patients also need to use their arms to push themselves into the upright position." @fellLifespanNeurorehabilitationPatientcentered2019
+
+
+"Before beginning the sit-to-stand transfer, the patient who is relearning sit-to-stand may benefit from optimal preparation, including attaining appropriate upright trunk posture in sitting. This consists of bilateral/symmetrical weight-bearing through the pelvis; an erect spine, head, and trunk in midline; and feet flat on the floor with knees flexed beyond 90 degrees. Assess sit-to-stand without arm use first; if the patient is unable, then assess sit-to-stand with UE use. From a power and safety standpoint, determine first whether the UEs are needed to push up from the sitting surface or arms of a chair, and do not allow the patient to use the arms if they are not needed. The knee can be particularly difficult to manage in the transition from a midflexed position to full extension. Often, patients do not stop at 0 degrees of extension but snap back into knee hyperextension or biomechanically lock the knee in a fully extended position because of lack of control or inability to judge where the end position is." @fellLifespanNeurorehabilitationPatientcentered2019
+
+
+"When the patient is lowering back to the sitting position, the extensor muscles must eccentrically contract to control the descent, and dynamic joint stability is needed to coordinate timing and sequencing of movements in the trunk and lower extremity joints. To increase the difficulty of this task, lower the height of the seating surface and decrease the percentage of arm support. To increase the challenge even more, ask the patient to hold something, such as a full glass of water, while completing the transition. Use of this activity in treatment might include assessing the functional need for the transition (e.g., getting out of a soft bed, getting up from a toilet with no rails available), incorporating other abilities or limitations such as the ability or inability to use one or both UEs to assist." @fellLifespanNeurorehabilitationPatientcentered2019
+
+"Facilitate graded control during rising from sitting and during lowering, with variations at points in the transition to address specific joint/segment motor control limitations. For example, for the individual who cannot control stability of the ankle to keep the tibia forward over the foot for balance during the sit-to-stand transition, you could facilitate the patient’s ability to come partway up, then ask the patient to weight shift slightly to the side and sit; this lateral shift requires sustained but dynamic ankle control to maintain balance during the weight shift. Means of progressing the activity include decreasing the amount of facilitation, changing the direction, adding a movement component such as rotation, or using the transition for a function such as partially standing to adjust clothing or to obtain something that is just out of reach in sitting."
+
+# Standing balance
+
+"Figure 24-4AB demonstrates one way the NDT approach might be used in weight-bearing therapeutic exercise in stance to remediate a problem with stability control at the right knee. Because many factors contribute to this problem, however, the most significant or limiting factors should be addressed first. Attempts to treat every issue simultaneously may lead to limited improvement in any one area. This may result in little change in function because resources (treatment) are spread too thinly. Addressing only one problematic area in isolation, however, may result in lack of carryover if the ability of the segment is not retrained in the context of overall function." @fellLifespanNeurorehabilitationPatientcentered2019
+
+"The treatment shown in Figure 24-4A was designed to address motor control difficulty in the case of patient Richard B., with easily identifiable right hemiplegia. He does not sustain and control activation of multiple body segments at once. The design of the intervention emphasizes facilitation of isolated and graded control in end ranges of knee extension. Because this activity demands activation in lengthened ranges of the gastrocsoleus and hamstring muscles, you can concurrently address the secondary musculoskeletal impairments in these areas, making optimal use of treatment time." @fellLifespanNeurorehabilitationPatientcentered2019 
+
+"The modified plantigrade position combines stance (with lower extremity weight-bearing primarily on the right) with a slight forward incline of the body and bilateral UE support; it can be used with a verbal cue of “Push with your arms, tuck your chin, and push your body away from the bar.” This results in coactivation of trunk muscles, with increased activity of the trunk flexors to improve proximal control, instead of Richard’s typical pattern of using primarily trunk extension for trunk stability and control." @fellLifespanNeurorehabilitationPatientcentered2019 
+
+"Using the closed chain position allows you to control the number of segments and amount of motion at these segments more easily. Then you can cue and facilitate correct alignment and motion of lower body segments to optimize conditions for muscle activation. Facilitation and directional guidance for correct rotation of the tibia and femur and correct alignment of proximal segments over the right foot should be provided during graded and controlled knee flexion/extension. The tape on the posterior aspect of the knee provides “extra hands” and sensory feedback to allow the patient to move into full knee extension without hyperextension so he can practice control of knee stability in that position." @fellLifespanNeurorehabilitationPatientcentered2019 
+
+## Static
+
+
+## Dynamic
+
+
+# Gait
+

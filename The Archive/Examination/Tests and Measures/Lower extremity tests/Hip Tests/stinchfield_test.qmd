@@ -1,0 +1,19 @@
+---
+title: Stinchfield Test
+subtitle: Hip provocation maneuver
+---
+
+
+# Technique
+
+![Stinchfield Test @maslowskiDiagnosticValidityHip2010](/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/images/maslowskiDiagnosticValidityHip2010 fig2 stinchfield.png)
+
+":The Stinchfield maneuver is also performed with the subject supine. The tested leg is raised to 30° of hip flexion with the knee in full extension. The subject holds his or her leg in place while the examiner exerts downward force proximal to the knee. The test is considered positive if the maneuver recreates the subject’s pain." @maslowskiDiagnosticValidityHip2010
+
+"The Stinchfield maneuver was also performed with the subject supine. The tested leg was raised to 30° of hip flexion with the knee in full extension. The subject held his or her leg in place while the examiner exerted downward force proximal to the knee (Figure 2). The test was considered positive if the maneuver recreated the subject’s pain." @maslowskiDiagnosticValidityHip2010
+
+# Interpretation
+
+Positive stinchfield test can indicate [acetabular labral tears]({{< var ref-acetebular-labral-tear.path >}}) @wongPhysicalExaminationHip2022 
+
+

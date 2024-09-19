@@ -1,32 +1,52 @@
 ---
-title: Acetabular Labral Tear
+title: Acetabular Labral Tear (ALT)
 ---
 
 <!--
 (physiotherapy[mesh] OR "physical therapy") AND ("acetabular labrum" OR "hip labrum" OR "acetabular labral"))
 
 RSS: https://pubmed.ncbi.nlm.nih.gov/rss/search/12GmDGiSiGA9an2dCnaxh7UeJzoUuW2XY3nhnH1ddqVM3ddQTt/?limit=15&utm_campaign=pubmed-2&fc=20240818001845
+
+:::{.callout title="To Add"}
+
+- Dutton = Done
+- Neumann
+- Grieves
+
+:::
 -->
 
 
+# Overview
 
-# Dutton
 
-"Acetabular Labral Tear Labral tears of the hip are more common than previously thought. In patients with mechanical hip pain, the prevalence of labral tears has been reported to be as high as 90%.7,173 In studies of people with a tear of the labrum, researchers have attributed the injury to a variety of causes.44 Mechanical impingement and/or instability of the femoroacetabular joint are believed to be common causes of labral chondral pathology. Direct trauma, sporting activities, and certain movements of the hip including torsional or twisting movements have been cited to cause labral tears.44 However, a large percentage of labral tears are not associated with any known specific event or cause and may occur insidiously.168" @duttonDuttonOrthopaedicExamination2020
 
-"Acetabular labral tears represent the most common cause for mechanical hip symptoms. In a recent study, they were found to be the cause of groin pain in more than 20% of athletes presenting with groin pain.174" @duttonDuttonOrthopaedicExamination2020
+# Epidemiology
 
+Up to 90% of patients with mechanical hip pain have acetabular labral tears @duttonDuttonOrthopaedicExamination2020.
 
 # Etiology
+
+Researchers have retrospectively attributed labral tears to a variety of causes.
+The most common theorized causes of acetabular labral tears are mechanical impingement and/or femoracetabular joint instability @duttonDuttonOrthopaedicExamination2020.
+Other methods such as direct trauma, sports, and torsional or twisting hip movements have been attributed to acetabular labral tears @duttonDuttonOrthopaedicExamination2020.
+
+:::{.callout-caution}
+Although many potential mechanisms of injury have been cited, a large number of labral tears occur insidiously and are not associated with a specific event @duttonDuttonOrthopaedicExamination2020.
+:::
+
 
 Two common types of scenarios have been recognized:
 
 1. "A young person with a twisting injury to the hip, usually an external rotation force in a hyperextended position. " @duttonDuttonOrthopaedicExamination2020
 1. "An older person with a history of hip and/or acetabular dysplasia, or the result of repeated pivoting and twisting." @duttonDuttonOrthopaedicExamination2020
 
-# Etiology
 
-"Etiology. Tears can be degenerative, dysplastic, traumatic, or idiopathic. Degenerative tears can also be seen in association with inflammatory arthropathies. Traumatic labral tears often present with immediate sharp pain and mechanical symptoms such as catching, locking, or clicking.2 In the cases of an insidious onset, a dull type pain is described as intermittent sharp pain occurring with certain movements; typically, hip internal or external rotation.176" @duttonDuttonOrthopaedicExamination2020
+There are a variety of etiologies of labral tears including degenerative, dysplastic, traumatic, or idiopathic @duttonDuttonOrthopaedicExamination2020
+
+- Degenerative etiologies are generally associated with inflammatory arthropathies @duttonDuttonOrthopaedicExamination2020.
+- Traumatic etiologies usually present with an immediate sharp pain along with mechanical symptoms (catching, locking, or clicking) @duttonDuttonOrthopaedicExamination2020.
+- Insidious etiologies have a dull type pain with intermittent sharp pain caused by particular movements (typically hip IR or ER) @duttonDuttonOrthopaedicExamination2020.
 
 # Classification
 
@@ -150,6 +170,35 @@ Delayed diagnosis or misdiagnosis if primarily due to the variable clinical pres
 
 "On examination, ROM of the hip may or may not be limited, but, in those cases where it is not limited, there may be pain at the extremes.25 There is little information regarding the sensitivity, specificity, or likelihood ratios associated with a single clinical test or a cluster of tests in diagnosing a labral tear.176 Generally speaking, the combined movement of flexion and rotation causes pain in the groin. More precisely, the specific maneuvers that may cause pain in the groin include"
 
+## Flex + ADD + IR
+flexion, adduction, and internal rotation of the hip joint (impingement test/scour test) while it is held in at least 90 degrees of flexion and at least 15 degrees of abduction—positive with anterior—superior tears, anterior labral tears, and iliopsoas tendinopathy
+
+## Passive hEXT + ABD + ER
+
+passive hyperextension, abduction, and external rotation (with posterior tears), with the patient lying supine at the edge of the table; a positive finding with this test is apprehension or exquisite pain and suggests anterior hip instability, an anterior labral tear, or posteroinferior impingement
+
+## Resisted SLR
+
+resisted straight-leg raise test
+
+## Flex ER max ABD to Ext Abd IR
+
+flexion of the hip with external rotation and full abduction, followed by extension, abduction, and internal rotation (anterior tears)
+
+
+## Ext ABD ER to Flex ADD IR
+
+extension, abduction, and external rotation brought to a flexed, adducted, and internally rotated position (posterior tears).
+
+:::{.callout-note title="Clinical pearl"}
+Hip internal rotation with overpressure and the FABER test have been shown to demonstrate the highest sensitivity, compared to the resisted straight leg raise and scour test in identifying intra-articular hip pain.179 @duttonDuttonOrthopaedicExamination2020
+
+:::
+
+
+
+
+
 ## Provocative tests
 
 - Scour Test @wongPhysicalExaminationHip2022 
@@ -159,4 +208,52 @@ Delayed diagnosis or misdiagnosis if primarily due to the variable clinical pres
 - Stinchfield Test @wongPhysicalExaminationHip2022 
 - Thomas Test @wongPhysicalExaminationHip2022 
     - Thomas test can be positive for labral pathology when a click is palpated or pain is elicited @wongPhysicalExaminationHip2022
-- 
+
+
+# Signs & symptoms
+
+- Strength deficits are not a consistent symptom of Acetabular labral tears @duttonDuttonOrthopaedicExamination2020.
+
+The following combination of symptoms are more reliable and increase the likelihood of a patient having an acetabular labral tear.
+
+- No restrictions in ROM @duttonDuttonOrthopaedicExamination2020
+- Normal radiographs @duttonDuttonOrthopaedicExamination2020
+- Complaints of a long duration involving anterior hip or groin pain and clicking @duttonDuttonOrthopaedicExamination2020
+- Pain with passive hip flexion combined with adduction and internal rotation @duttonDuttonOrthopaedicExamination2020
+- Pain with an active straight-leg raise @duttonDuttonOrthopaedicExamination2020
+
+
+# Diagnosis
+
+Acetabular labreal tear diagnosis is primarily confirmed using MRA, MRI, and intra-articular anesthetic injections @duttonDuttonOrthopaedicExamination2020.
+
+"A diagnostic intra-articular hip injection was used as the gold standard to confirm the presence of intra-articular hip pathology (IAHP), as a positive diagnostic block has been shown to be 90% accurate in detection of hip internal derangement and a good predictor of improvement after surgical intervention" @maslowskiDiagnosticValidityHip2010
+
+# Management
+
+
+
+# Physical Therapy
+
+:::{.callout title="Traditional Conservative management"}
+
+- Bed rest @duttonDuttonOrthopaedicExamination2020
+- Potentially traction @duttonDuttonOrthopaedicExamination2020
+- A period of protected weight bearing @duttonDuttonOrthopaedicExamination2020
+- Nonsteroidal antiinflammatory medication @duttonDuttonOrthopaedicExamination2020
+
+:::
+
+Lewis and Sahrmann44 recommend the use of key elements of the examination to develop a plan of intervention (Table 19-18). Operative treatment has traditionally consisted of arthrotomy or arthroscopy with resection of the entire labrum or the portion of the labrum that is torn. Labral reconstruction is a newer technique that has gained popularity and has had good short-term results; however, the indications for this procedure are continuing to be refined.162
+
+
+
+:::{.callout}
+See table 19-18 @duttonDuttonOrthopaedicExamination2020 to see the sahrmann treatment approach
+
+:::
+
+
+# Post-operative POC
+
+Postoperatively, the protocol can be divided into three phases174,180: Phase 1 (days 1–7): ▶ Weight bearing to tolerance with crutches. ▶ Isometric quadriceps, gluteal sets. ▶ AROM in all planes of motion. ▶ Closed-chain bridging, weight shifts, and balancing exercise. ▶ Open-chain standing abduction, adduction, flexion, and extension with no resistance. ▶ Avoidance of straight-leg raise exercises. Phase 2 (weeks 2–3): ▶ Progress off crutches and normalize gait. ▶ Progress ROM exercises to gradual end-range stretch within tolerance. ▶ Stationary bike, if tolerated. ▶ Open-chain above the knee-resistive Theraband or light pulley exercises. Phase 3 (weeks 4–6): ▶ Continue flexibility exercises. ▶ Progress resisted strengthening and closed-chain exercises. Emphasis is placed on hip and lumbopelvic stabilization, correction of hip muscular imbalance, and biomechanical control.181 ▶ Functional, and sport-specific functional, activities introduced as tolerated. @duttonDuttonOrthopaedicExamination2020

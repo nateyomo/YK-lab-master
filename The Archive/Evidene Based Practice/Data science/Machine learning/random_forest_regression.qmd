@@ -1,0 +1,89 @@
+---
+title: Random Forest (RF)
+subtitle: Ensemble Machine learning
+keywords: 
+    - "Random forest"
+    - "Random Forest Intuition"
+    - "Random forest regression"
+    - "Ensemble learning"
+---
+
+
+This is a form of "ensemble learning"
+
+Random forest is a further refinement of classification and regression tree (CART) models @rigattiRandomForest2017.
+RF is considered better than a CART model with a single tree based on the idea that a large group of randomized trees (a forest) can outperform a single "best" tree in a classification task @rigattiRandomForest2017.
+
+# Process
+
+1. Pick at random "K" data points from a dataset
+1. Build the Decision tree associated to the "K" data points
+1. Choose the number Ntree of trees you want to build and repeat steps 1 & 2
+1. For a new data point, make each one of your Ntree trees predict the value of Y for the data point in question and assign the new data point the average across all of the predicted Y-values
+
+
+# Other
+
+Should have a minimum of 500 trees
+
+Multiple trees creates a "forest" and the program averages the results of the forest, which reduces the likelihood of error.
+
+
+# Contraindications
+
+- Determining factors impacting "Time-to-event" is not suited for random forest and is better suited for a *Cox Proportional Hazards* model @rigattiRandomForest2017
+
+
+# Strengths
+
+- **Greatest Strength** of RF is its ability to find meaningful interactions and non-linear effects of the predictors @rigattiRandomForest2017.
+
+# Application
+
+Once the RF has been calculated, it can be used for prediction @rigattiRandomForest2017.
+
+# Interpretation
+
+The RF is a refined form of the CART model by increasing the number of trees and therefore complexity, but this increased complexity leads to difficulty with interpretability @rigattiRandomForest2017.
+Most would find it difficult or at the very least unintuitive to determine which variables (x) are most strongly influencing the predictions @rigattiRandomForest2017.
+
+To remedy this, one must use "variable importance measures" to measure the impact of the variables in the model @rigattiRandomForest2017.
+Some of these methods use a measure similar to the *area under the curve* known as a "Gini coefficient" to achieve this @rigattiRandomForest2017.
+Alternatively, one could test the model while leaving out individual variables left out to see how the error rate is affected @rigattiRandomForest2017.
+
+
+## Error rate
+
+
+# Parameters
+
+## Number of outcomes
+
+Ideally, the dataset fed into the RF has an equal number of individuals who experienced the outcome (y) is equal to the number of right-censored cases (cases where the outcome has not occurred) @rigattiRandomForest2017.
+In survival data, the dataset genearlly contains more survivors (right-centered) than deaths (outcome), thus it may be useful to use a sub-sample of the survivors @rigattiRandomForest2017.
+
+## Number of variables (mtry)
+
+One must also choose the number of variables (x) at each split.
+By default the *mtry* variable is $\sqrt{\textrm{# of predictors}}$ @rigattiRandomForest2017.
+
+## Number of Trees (ntree)
+
+*ntree* is directly relevant to computational intensity @rigattiRandomForest2017. 
+Generally 100-1,000 is the standard @rigattiRandomForest2017.
+Smaller values for *ntree* can be applied and *may* perform well @rigattiRandomForest2017.
+
+## Maximum splits (nsplit)
+
+nsplit refers to the max number of splits to try at each variable @rigattiRandomForest2017. 
+Limiting nsplit is particularly important when working with continuous variables since the algorithm would attempt to evaluate every possible split, which could require an extended amount of computing time @rigattiRandomForest2017.
+Generally, setting the nsplit to 10, 50, or 100 can improve the computing time significantly @rigattiRandomForest2017.
+
+## Variable importance measures
+
+Finally, the variable importance measures rely on multiple iterations of the forest with and without each variable so collecting these measures is intensive. One approach is to collect these measures during initial model construction and to leave them out after that.
+
+
+# Learning Resources
+
+- [Kaggle RF Tutorial](https://www.kaggle.com/code/dansbecker/random-forests)

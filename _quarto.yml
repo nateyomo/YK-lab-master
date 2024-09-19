@@ -37,7 +37,7 @@ author:
   degrees:
     - B.S.
     - SPT
-publisher: Yomogida-Kerstein Laboratory
+publisher: Yomogida-Kerstein Lab
 
 website:
   favicon: "/images/brain-favicon.png"
@@ -64,7 +64,7 @@ citation:
   type: post-weblog
 appendix-cite-as: display
 
-bibliography: The Archive/Bibliography/NGY CAK JVC Bibliography.bib
+bibliography: The Archive/Bibliography/yk_lab_bibliography.bib
 csl: The Archive/Bibliography/american-medical-association.csl
 
 format:

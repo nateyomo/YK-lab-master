@@ -1,0 +1,26 @@
+---
+title: Cox Model
+subtitle: Cox Proportional Hazards model
+---
+
+The Cox model is a "refinement" of linear regression @rigattiRandomForest2017 that calculates a hazard function for (risk of the outcome occurring at a given time) as a function of predictor variables (x) while accounting for participants that have not yet experienced the outcome (y)
+
+
+
+@rigattiRandomForest2017 
+
+# Indication
+
+Use the Cox model when the outcome (y) you want to study is "time-to-event," such as "time-to-death" or "time-to-failure" and how the variables (x) impact this outcome @rigattiRandomForest2017.
+
+
+# Strengths
+
+- The Cox model does **not** make assumptions about the distribution of the predictor variables (can handle “non-parametric” data) @rigattiRandomForest2017.
+- The outcome does not have to occur for every individual for the model to work @rigattiRandomForest2017.
+
+
+# Output
+
+The output of the cox model is coefficients which can be transformed (exponentiated) into a  *hazard ratio* @rigattiRandomForest2017.
+that is the expected multiplicative change in the hazard of the outcome per one-unit change in the predictor. Thus, the value of each predictor to the overall risk of the outcome is readily calculated.

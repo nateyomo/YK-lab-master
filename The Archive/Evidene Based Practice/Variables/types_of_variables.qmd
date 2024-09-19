@@ -1,0 +1,30 @@
+---
+title: Types of Variables
+---
+
+
+## Dichotomous
+
+A dichotomous variable refers to a variable that is binary and mutually exclusive (e.g. gender, surgical status) @danielBiostatisticsFoundationAnalysis2019.
+
+Examples
+
+:::{.callout-note title="Examples"}
+
+| 1 | 0 |
+|-|-|
+| Male | Female |
+| Surgery | No surgery |
+| Died | Did not die |
+| Cured | not cured |
+| Disease occurred | Disease did not occur |
+| Smoker | Nonsmoker |
+:::
+
+Characteristics of dichotomous variables:
+
+- A dichotomous variable could be coded "0 or 1"
+- 
+
+
+When used as an outcome variable, regression is applied to dichotomous variables using [logistic regression]({{< var ref-logistic-regression.path >}})

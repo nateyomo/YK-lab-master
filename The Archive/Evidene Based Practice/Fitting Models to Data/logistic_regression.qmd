@@ -2,3 +2,43 @@
 title: Logistic Regression
 ---
 
+Logistic regression is used when the independent variables are ____ and the dependent variable (outcome) is dichotomous @danielBiostatisticsFoundationAnalysis2019.
+
+A dichotomous variable refers to a variable that is binary and mutually exclusive (e.g. gender, surgery/no surgery, success/failure, live/die) @danielBiostatisticsFoundationAnalysis2019.
+
+# Function
+
+
+# Comparison to other regressions
+
+
+::: {.columns}
+::: {.column}
+
+Simple linear regression involving two variables:
+
+- $y$ is an arbitrary observed value of the continuous dependent variable
+- $\epsilon$ is the difference between observed $y$ and the regression line
+
+$$
+y = \beta_0 + \beta_1 x + \epsilon
+$$
+
+
+
+:::
+::: {.column}
+
+Logistic Regression
+
+- The observed value of Y is 𝜇y|x, the mean of a subpopulation of Y values for a given value of X
+- $\epsilon$ is 0 (therefore not included in the formula)
+- the difference between the observed Y and the regression line (see Figure 9.2.1) is zero, and we may write Equation 11.4.1 as
+
+$$
+\mu_y|x = \beta_0 + \beta_1 x
+$$
+
+:::
+:::
+

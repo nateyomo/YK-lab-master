@@ -1752,6 +1752,9 @@ ref-EBP-index:
   path: "/The Archive/Evidene Based Practice/EBP_index.qmd"
 ref-article-search-guide:
   path: "/The Archive/Evidene Based Practice/article_search_guide.qmd"
+
+ref-logistic-regression:
+  path: "/The Archive/Evidene Based Practice/Fitting Models to Data/logistic_regression.qmd"
 ## EBP Terms
 ref-association-statistics:
   path: "/The Archive/Evidene Based Practice/Association/association_statistics.qmd"
@@ -2330,6 +2333,17 @@ ref-adductor-muscle-strain:
 #### Hip Pathologies
 ref-acetebular-labral-tear:
   path: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/acetabular_labral_tear.qmd"
+ref-femoroacetabular-impingement:
+  path: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/FAI_femoroacetabular_impingement.qmd"
+ref-gluteal-tendinopathy:
+  path: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/gluteal_tendinopathy.qmd"
+ref-greater-trochanteric-pain-syndrome:
+  path: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/greater_trochanteric_pain_syndrome_GTPS.qmd"
+ref-hip-microinstability:
+  path: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/hip_microinstability.qmd"
+ref-hip-osteoarthritis:
+  path: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/hip_osteoarthritis.qmd"
+
 
 # Pathophysiology
 ## Bone Pathophysiology
@@ -2762,6 +2776,22 @@ ref-seizure-overview:
   path: "/The Archive/Symptoms/Seizures/seizure_overview.qmd"
 ref-functional-seizure:
   path: "/The Archive/Symptoms/Seizures/functional_seizure.qmd"
+
+# Surgery
+
+## Hip surgery
+
+ref-total-hip-arthroplasty:
+  path: "/The Archive/Surgery/Hip Surgery/total_hip_arthroplasty_THA.qmd"
+  posterior-approach: 
+    path: "/The Archive/Surgery/Hip Surgery/posterior_approach_tha_total_hip_arthroplasty.qmd"
+  anterior-approach: 
+    path: "/The Archive/Surgery/Hip Surgery/anterior_approach_tha_total_hip_arthroplasty.qmd"
+
+## knee surgery
+
+ref-total_knee_arthroplasty:
+  path: "/The Archive/Surgery/Knee Surgery/Total knee arthroplasty/total_knee_arthroplasty_TKA.qmd"
 
 # Systems
 ## Sensation system

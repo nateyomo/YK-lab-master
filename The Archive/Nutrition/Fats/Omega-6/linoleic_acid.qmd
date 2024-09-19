@@ -1,0 +1,89 @@
+---
+title: Linoleic Acid (LA)
+subtitle: Plant source of Omega-6 Fatty Acid
+---
+
+
+
+# Benefits
+
+a "modest, evolutionarily consistent" intake of linoleic acid (LA) has been associated with a decreased risk of:
+
+- Atherosclerosis [10] @mercolaLinoleicAcidNarrative2023
+- Hypercholesterolemia [11,12] @mercolaLinoleicAcidNarrative2023
+- Headaches when combined with omega-3 fatty acid supplementation [13] @mercolaLinoleicAcidNarrative2023
+
+
+:::{.callout-caution}
+I have not yet looked into those aticles referenced by mercola
+:::
+
+
+# Dangers
+
+Problematic mechanisms of LA include:
+
+1. Oxidized Linoleic Acid Metabolites (OxLAMs)
+1. Free radicals
+1. 
+
+
+# OxLAMs {#oxlam}
+
+If LA are highly elevated in the blood, LA becomes a precursor to Oxidized Linoleic Acid Metabolites (OxLAMs) @mercolaLinoleicAcidNarrative2023.
+
+
+:::{.callout-note title="OxLAM examples"}
+
+- Ho4-Hydroxynonenal (HNE) @mercolaLinoleicAcidNarrative2023
+- 9-hydroxyoctadecadienoic acid (9-HODE) @mercolaLinoleicAcidNarrative2023
+- 13-hydroxyoctadecadienoic acid (13-HODE) @mercolaLinoleicAcidNarrative2023
+- 9-oxo-octadecadienoic acid (9-oxoODE) @mercolaLinoleicAcidNarrative2023
+- 13-oxo-octadecadienoic acid (13-oxoODE) @mercolaLinoleicAcidNarrative2023
+
+:::
+
+
+# Free Radicals
+
+Furthermore, LA conversion may lead to the formation of free radicals, such as 8-hydroxyoctanoic acid and heptanoic acid [14]. In addition, in some instances, LA may be further metabolized into arachidonic acid (AA), which is a precursor to oxidized AA metabolites (OXAAMs), including 5-, 8-, 9-, 11-, 12-, and 15-hydroxy-eicosatetraenoic acid (HETE) [15]. The increased circulation of oxidized metabolites and free radicals has been linked to different types of diseases (e.g., cardiovascular, atherosclerotic, hepatic, etc.) [16].
+
+
+
+
+
+# Is LA Essential?
+
+1. Why was LA considered essential?
+1. Problems with the original studies
+1. What is the true dietary recommendation
+
+## Why LA is considered essential
+Linoleic acid was first considered to be an essential fatty acid (EFA) based on animal studies by Burr and Burr in 1929–1930 where the researchers found that rats who received 0.6% of total dietary calories as linoleic acid had 30% higher bodyweight, did not develop skin desquamation, or tail necrosis compared to **total-fat-deficient-** rats @mercolaLinoleicAcidNarrative2023.
+With these results, a dietary requirment of 1% and then 2% of the total daily caloric intake should be linoleic acid was established @mercolaLinoleicAcidNarrative2023.
+This idea was believed to be further supported by two studies where human infants intaking linoleic acid abolished the physiological symptoms of omega-6 deficiency @mercolaLinoleicAcidNarrative2023.
+
+## Counterargument
+
+Upon review of these articles supporting the "essential" nature of linoleic acid, these studies have multiple drawbacks.
+
+1. The conclusion established using the controlled diets were experiencing a "dual deficiency" in omega-6 **and** omega-3 fatty acids @mercolaLinoleicAcidNarrative2023.
+
+:::{.callout-note}
+see @cunnaneLinoleicAcidRecommendations2011 
+:::
+
+### Dual Deficiency {#dual-deficiency}
+
+Subsequent studies in rat models similar to those used to originally classify LA as an essential fatty acid have demonstrated that the dietary omega-3 fatty acid, alpha-linolenic acid (ALA), is able to diminish the symptoms of LA deficiency [22]. 
+
+This strongly suggests that the absence of ALA in the original studies probably heightened the significance of the physiological symptoms caused by LA deficiency. It seems that, at least for the rat model, the nutritional requirement for LA has probably been seriously overestimated. 
+
+A more precise estimation of the LA requirement is likely closer to a 75% reduction, or 0.5%, of the dietary energy rather than 2% [23]. 
+
+This calls into question how “essential” LA really is in the human diet since we cannot determine what symptoms were due to deficiency of omega-6 or omega-3.
+This likely overestimates the LA requirement in humans.
+To make this worse, the Institute of Medicine (IoM) arbitrarily decided to further overestimate the recommended intake, creating an upper limit of 10% @mercolaLinoleicAcidNarrative2023.
+Even then, the USDA reports that most American adults are consuming above the IoM limit of 10% @mercolaLinoleicAcidNarrative2023.
+
+

@@ -1,7 +1,43 @@
 ---
-title: Internal Rotation Over Pressure Test for the Hip
+title: Internal Rotation Over Pressure Test (IROP)
+subtitle: Hip provocation maneuver
 ---
 
 
 
-"This maneuver is used to assess both FAI and labral pathology. The patient lies in the supine position, and the affected leg is brought into flexion and internal rotation with the application of axial compression. Reproduction of pain is considered a positive test. Sensitivity of this maneuver has been reported to be 75–89% [25,26]. Maslowski et al. compared IROP, Scour test, FABER, and Stinchfield tests, and they found IROP to have the highest positive predictive value for intraarticular hip pathology" @wongPhysicalExaminationHip2022 
+
+
+# Technique
+
+![Scour Test @maslowskiDiagnosticValidityHip2010](/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/images/maslowskiDiagnosticValidityHip2010 fig4 irop test.png)
+
+"Internal rotation over pressure was performed with the subject supine. The affected hip is flexed 90° and the knee flexed 90°. The examiner internally rotates the hip by rotating the leg laterally while stabilizing the knee at the same time. The examiner’s other hand is used to apply gentle downward pressure on the contralateral anterior superior iliac spine. The examiner applies gentle pressure to the tested leg in the lateral direction. The test is positive if it recreates the patient’s hip pain." @maslowskiDiagnosticValidityHip2010
+
+"IROP testing was also performed with the subject supine. The affected hip was flexed to 90° and the knee flexed to 90°. The examiner internally rotated the hip by rotating the leg laterally while stabilizing the knee at the same time. Internal rotation overpressure was administered with further gentle rotation of the ipsilateral leg. The pelvis was stabilized, when necessary, by the examiner’s other hand at the contralateral anterior superior iliac spine to reduce contralateral ilial rotation (Figure 4). The test was positive if it recreated the patient’s hip pain." @maslowskiDiagnosticValidityHip2010
+
+- Patient is in supine @wongPhysicalExaminationHip2022
+- The affected leg is passively moved into flexion and IR with approximation (axial compression) @wongPhysicalExaminationHip2022
+
+
+
+:::{.callout-tip}
+
+- Performing IROP at maximal hip flexion can potentially increase sensitivity for detecting FAI @maslowskiDiagnosticValidityHip2010.
+- Performing IROP at hip neutral (0&deg; hip flexion/extension) is a potentially more specific variation since it can eliminate confounding soft-tissue sources of pain @maslowskiDiagnosticValidityHip2010.
+    - This position for IROP could also be called the "log roll test" @maslowskiDiagnosticValidityHip2010
+
+:::
+
+# Grading
+
+IROP is considered positive if **pain** is reproduced @wongPhysicalExaminationHip2022.
+
+
+# Interpretation
+
+The IROP can be used to rule in either FAI or [acetabular labral pathology]({{< var ref-acetebular-labral-tear.path >}}) @wongPhysicalExaminationHip2022
+
+
+# Validity
+
+"Sensitivity of this maneuver has been reported to be 75–89% [25,26]. Maslowski et al. compared IROP, Scour test, FABER, and Stinchfield tests, and they found IROP to have the highest positive predictive value for intraarticular hip pathology" @wongPhysicalExaminationHip2022 
