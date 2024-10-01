@@ -10,7 +10,7 @@
 <meta name="author" content="Chloë Kerstein">
 <meta name="keywords" content="Random forest, Random Forest Intuition, Random forest regression, Ensemble learning">
 
-<title>Random Forest (RF) – YK Lab</title>
+<title>Random Forest (RF)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -90,6 +90,35 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../../../styles.css">
 </head>
@@ -101,8 +130,8 @@ div.csl-indent {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../../../index.html">
-    <span class="navbar-title">YK Lab</span>
+    <a href="../../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../../images/square 2 lines mid.svg" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -157,7 +186,19 @@ div.csl-indent {
   <li><a href="#contraindications" id="toc-contraindications" class="nav-link" data-scroll-target="#contraindications">Contraindications</a></li>
   <li><a href="#strengths" id="toc-strengths" class="nav-link" data-scroll-target="#strengths">Strengths</a></li>
   <li><a href="#application" id="toc-application" class="nav-link" data-scroll-target="#application">Application</a></li>
-  <li><a href="#interpretation" id="toc-interpretation" class="nav-link" data-scroll-target="#interpretation">Interpretation</a></li>
+  <li><a href="#interpretation" id="toc-interpretation" class="nav-link" data-scroll-target="#interpretation">Interpretation</a>
+  <ul class="collapse">
+  <li><a href="#error-rate" id="toc-error-rate" class="nav-link" data-scroll-target="#error-rate">Error rate</a></li>
+  </ul></li>
+  <li><a href="#parameters" id="toc-parameters" class="nav-link" data-scroll-target="#parameters">Parameters</a>
+  <ul class="collapse">
+  <li><a href="#number-of-outcomes" id="toc-number-of-outcomes" class="nav-link" data-scroll-target="#number-of-outcomes">Number of outcomes</a></li>
+  <li><a href="#number-of-variables-mtry" id="toc-number-of-variables-mtry" class="nav-link" data-scroll-target="#number-of-variables-mtry">Number of variables (mtry)</a></li>
+  <li><a href="#number-of-trees-ntree" id="toc-number-of-trees-ntree" class="nav-link" data-scroll-target="#number-of-trees-ntree">Number of Trees (ntree)</a></li>
+  <li><a href="#maximum-splits-nsplit" id="toc-maximum-splits-nsplit" class="nav-link" data-scroll-target="#maximum-splits-nsplit">Maximum splits (nsplit)</a></li>
+  <li><a href="#variable-importance-measures" id="toc-variable-importance-measures" class="nav-link" data-scroll-target="#variable-importance-measures">Variable importance measures</a></li>
+  </ul></li>
+  <li><a href="#learning-resources" id="toc-learning-resources" class="nav-link" data-scroll-target="#learning-resources">Learning Resources</a></li>
   </ul>
 </nav>
     </div>
@@ -218,7 +259,7 @@ div.csl-indent {
 
 
 <p>This is a form of “ensemble learning”</p>
-<p>Random forest is a further refinement of classification and regression tree (CART) models<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>.</p>
+<p>Random forest is a further refinement of classification and regression tree (CART) models<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>. RF is considered better than a CART model with a single tree based on the idea that a large group of randomized trees (a forest) can outperform a single “best” tree in a classification task<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>.</p>
 <section id="process" class="level1">
 <h1>Process</h1>
 <ol type="1">
@@ -253,6 +294,38 @@ div.csl-indent {
 <h1>Interpretation</h1>
 <p>The RF is a refined form of the CART model by increasing the number of trees and therefore complexity, but this increased complexity leads to difficulty with interpretability<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>. Most would find it difficult or at the very least unintuitive to determine which variables (x) are most strongly influencing the predictions<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>.</p>
 <p>To remedy this, one must use “variable importance measures” to measure the impact of the variables in the model<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>. Some of these methods use a measure similar to the <em>area under the curve</em> known as a “Gini coefficient” to achieve this<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>. Alternatively, one could test the model while leaving out individual variables left out to see how the error rate is affected<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>.</p>
+<section id="error-rate" class="level2">
+<h2 class="anchored" data-anchor-id="error-rate">Error rate</h2>
+</section>
+</section>
+<section id="parameters" class="level1">
+<h1>Parameters</h1>
+<section id="number-of-outcomes" class="level2">
+<h2 class="anchored" data-anchor-id="number-of-outcomes">Number of outcomes</h2>
+<p>Ideally, the dataset fed into the RF has an equal number of individuals who experienced the outcome (y) is equal to the number of right-censored cases (cases where the outcome has not occurred)<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>. In survival data, the dataset genearlly contains more survivors (right-centered) than deaths (outcome), thus it may be useful to use a sub-sample of the survivors<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+<section id="number-of-variables-mtry" class="level2">
+<h2 class="anchored" data-anchor-id="number-of-variables-mtry">Number of variables (mtry)</h2>
+<p>One must also choose the number of variables (x) at each split. By default the <em>mtry</em> variable is <span class="math inline">\(\sqrt{\textrm{# of predictors}}\)</span><span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+<section id="number-of-trees-ntree" class="level2">
+<h2 class="anchored" data-anchor-id="number-of-trees-ntree">Number of Trees (ntree)</h2>
+<p><em>ntree</em> is directly relevant to computational intensity<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>. Generally 100-1,000 is the standard<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>. Smaller values for <em>ntree</em> can be applied and <em>may</em> perform well<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+<section id="maximum-splits-nsplit" class="level2">
+<h2 class="anchored" data-anchor-id="maximum-splits-nsplit">Maximum splits (nsplit)</h2>
+<p>nsplit refers to the max number of splits to try at each variable<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>. Limiting nsplit is particularly important when working with continuous variables since the algorithm would attempt to evaluate every possible split, which could require an extended amount of computing time<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>. Generally, setting the nsplit to 10, 50, or 100 can improve the computing time significantly<span class="citation" data-cites="rigattiRandomForest2017"><sup><a href="#ref-rigattiRandomForest2017" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+<section id="variable-importance-measures" class="level2">
+<h2 class="anchored" data-anchor-id="variable-importance-measures">Variable importance measures</h2>
+<p>Finally, the variable importance measures rely on multiple iterations of the forest with and without each variable so collecting these measures is intensive. One approach is to collect these measures during initial model construction and to leave them out after that.</p>
+</section>
+</section>
+<section id="learning-resources" class="level1">
+<h1>Learning Resources</h1>
+<ul>
+<li><a href="https://www.kaggle.com/code/dansbecker/random-forests">Kaggle RF Tutorial</a></li>
+</ul>
 
 
 

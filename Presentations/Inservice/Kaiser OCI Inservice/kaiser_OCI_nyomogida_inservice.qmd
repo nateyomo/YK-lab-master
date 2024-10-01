@@ -1,0 +1,366 @@
+---
+title: Total Joint Repair Complications
+subtitle: Inpatient Physical Therapy Inservice
+date: 9-25-2024
+author:
+- id: NGY
+  number: 1
+  name: 
+    given: Nathaniel
+    family: Yomogida
+  affiliation:
+    - Yomogida-Kerstein Lab
+  degrees:
+    - B.S.
+    - DPT
+
+
+format:
+  html:
+    toc: true
+    toc-title: Contents
+    toc-location: right
+    number-sections: false
+    tbl-cap-location: top
+    theme:
+      light: cosmo
+      dark: darkly
+    mainfont: helvetica
+    fontsize: 14px
+    css: styles.css
+  pdf:
+    toc: true
+    number-sections: true
+    link-citations: true
+    link-bibliography: true
+    error: true
+    documentclass: article
+---
+
+# Total Joint Arthroplasty Problems
+
+Post-operative complications can cause inpatient physical therapists to attempt therapy on a patient multiple times or even prevent a patient's discharge, which causes increased load on the physical therapists and PTAs, physical therapy administration, nursing, orthopedic department, and other aspects of the hospital.
+
+# Causes of failed discharge
+
+- Orthostatic intolerance @kurkisIncidenceRiskFactors2022 
+- Insufficient muscle strength
+- Poor sensation
+
+
+# Orthostatic Hypotension & Intolerance
+
+## Orthostatic Hypotension (OH)
+
+[Orthostatic hypotension]({{< var ref-orthostatic-hypotension.path >}}) refers to the clinical decrease in blood pressure associated with changes in position.
+
+| Type | Definition |
+|-|-----|
+| Classic | Decrease in SBP of &gt;20mmHg or DBP &geq;10mmHg after 3 minutes of standing or head-up tilt (HUT) &geq;60&deg; on a tilt table @millsNonpharmacologicManagementOrthostatic2015 |
+| Initial | Temporary BP decrease of &gt;40mmHg SBP or &gt;20mmHg DBP within 15 seconds of standing @millsNonpharmacologicManagementOrthostatic2015. |
+: Types of Orthostatic Hypotension {.striped .hover}
+
+## Orthostatic Intolerance (OI)
+
+[Orthostatic intolerance]({{< var ref-orthostatic-intolerance.path >}}) is a presentation of symptoms associated with a sitting or standing position including:
+
+- Dizziness @kurkisIncidenceRiskFactors2022
+- Nausea @kurkisIncidenceRiskFactors2022
+- Vomiting @kurkisIncidenceRiskFactors2022
+- Blurred vision @kurkisIncidenceRiskFactors2022
+- Syncope @kurkisIncidenceRiskFactors2022
+
+## Patient Presentation
+
+On average, most orthostatic events occur within the first 12 hours *after* the surgical procedure, but can occur up to 48 hours after surgery @kurkisIncidenceRiskFactors2022.
+
+## Etiology
+
+The causes of post-op [orthostatic hypotension]({{< var ref-orthostatic-hypotension.path >}}) include:
+
+- Surgical stress response @kurkisIncidenceRiskFactors2022
+- Pain-induced @kurkisIncidenceRiskFactors2022
+- Post-op Opioid administration @kurkisIncidenceRiskFactors2022
+- Residual effects of Anesthesia @kurkisIncidenceRiskFactors2022
+- Hypovolemia @kurkisIncidenceRiskFactors2022
+- Acute anemia @kurkisIncidenceRiskFactors2022
+- Preexisting Orthostatic Intolerance @kurkisIncidenceRiskFactors2022
+
+## Pathophysiology
+
+Although there the pathophysiologic mechanism of orthostatic intolerance is not fully understood, there is a widely accepted theorized mechanism of orthostatic intolerance.
+
+1. Standing up leads to a decrease in blood pressure rostrally and an increase in BP caudally.
+  1. The blood shifts below the diaphragm to the venous capacitance system @figueroaPreventingTreatingOrthostatic2010.
+1. The fluid shift causes a decrease in venous return, ventricular filling, cardiac output, and blood pressure @figueroaPreventingTreatingOrthostatic2010.
+1. This gravity-induced BP change is sensed by arterial baroreceptors in the aortic arch and carotid sinus @figueroaPreventingTreatingOrthostatic2010.
+
+--- 
+
+1. The body dysfunctionally has a diminished vasopressor response and absent baroreflex to these pressure changes @kurkisIncidenceRiskFactors2022.
+1. Due to the diminished autonomic response, the rostral blood pressure decreases.
+1. Decreased rostral blood pressure results in cerebral hypoperfusion @kurkisIncidenceRiskFactors2022.
+1. Cerebral hypoperfusion can result in the syndrome of symptoms known as orthostatic intolerance @kurkisIncidenceRiskFactors2022.
+
+## Pre-op Risk factors
+
+Patients in these groups had statistically significantly higher rates of OI:
+
+::: {.columns}
+::: {.column}
+Pre-op factors
+
+- Older age @kurkisIncidenceRiskFactors2022
+- Female @kurkisIncidenceRiskFactors2022
+- THA > TKA or UKA @kurkisIncidenceRiskFactors2022
+- Non-recreational drug users @kurkisIncidenceRiskFactors2022
+- Lower preoperative diastolic BP @kurkisIncidenceRiskFactors2022
+:::
+::: {.column}
+Perioperative factors
+
+- Spinal +/- monitored anesthesia care > General +/- spinal @kurkisIncidenceRiskFactors2022
+- Tramadol use
+- No oxycodone use
+- Increased PACU IVF
+- Lower PACU Hgb
+
+:::
+:::
+
+## Predictors
+
+When the above differences were examined using a multivariable analysis, only 4 items were found to significantly impact the odds of having orthostatic intolerance:
+
+- Female gender (4.19 OR) @kurkisIncidenceRiskFactors2022
+- THA surgery (vs TKA) (4.86 OR) @kurkisIncidenceRiskFactors2022
+- Spinal + MAC anesthesia 2.35 OR (compared to spinal + general) @kurkisIncidenceRiskFactors2022.
+- Bupivacaine spinal medication 1.79 OR (compared to Ropivacaine) @kurkisIncidenceRiskFactors2022.
+
+## Pharmacological management
+
+There are pharmacologic measures that reduce orthostatic hypotension.
+The problem is that pharmacologic interventions that improve OH cause other cardiac side effects, primarily supine hypertension and ventricular hypertrophy @millerLowerExtremityMechanics2007.
+In addition, since physical therapists cannot prescribe medications this is irrelevant to the profession.
+
+## Hydration
+
+A systematic review by Figueroa @figueroaPreventingTreatingOrthostatic2010 found that drinking 16-oz of cold water can improve OH and related symptoms by expanding the plasma volume @figueroaPreventingTreatingOrthostatic2010.
+Within a few minutes, the cold water produces a *pressor effect*, which results in improve [orthostatic hypotension]({{< var ref-orthostatic-hypotension.path >}}) by increasing standing SBP by &gt;20 mmHg for ~2 hours and reducing symptoms of [orthostatic intolerance]({{< var ref-orthostatic-intolerance.path >}}) @figueroaPreventingTreatingOrthostatic2010. 
+
+## Caffeine / Caffeine withdrawl
+
+According to a systematic review by Gibbon and Frith, caffeine had inconsistent effects on orthostatic hypotension, but no serious adverse events were reported @gibbonEffectsCaffeineAdults2021.
+
+## Sitting up
+
+::: {.columns}
+::: {.column}
+Night positioning
+
+Elevating the head of the bed at night by 10-20&deg; could decrease nocturnal hypertension and diuresis @figueroaPreventingTreatingOrthostatic2010.
+
+:::
+::: {.column}
+
+Day Positioning
+
+During the day, adequate orthostatic stress, ie, upright activity, should be maintained. If patients are repeatedly tilted up, their orthostatic hypotension is gradually attenuated, presumably by increasing venomotor tone. @figueroaPreventingTreatingOrthostatic2010
+:::
+:::
+
+
+## Exercise
+
+Physical countermaneuvers can be performed to reduce *venous capacitance*, resulting in increased total peripheral resistance which assists venous return to the heart @figueroaPreventingTreatingOrthostatic2010.
+
+::: {.columns}
+::: {.column}
+Dosage
+
+- Contracting the muscles below the waist for about 30 seconds at a time @figueroaPreventingTreatingOrthostatic2010
+
+:::
+::: {.column}
+Examples
+
+- Toe-raising @figueroaPreventingTreatingOrthostatic2010
+- Leg-crossing and contraction @figueroaPreventingTreatingOrthostatic2010
+- Thigh muscle co-contraction @figueroaPreventingTreatingOrthostatic2010
+- Bending at the waist @figueroaPreventingTreatingOrthostatic2010
+- Slow marching in place @figueroaPreventingTreatingOrthostatic2010
+- SLR @figueroaPreventingTreatingOrthostatic2010
+
+:::
+:::
+
+
+
+## Patient Education
+
+Considered the "single most iimportant factor" in orthostatic hypotension management by Figueroa @figueroaPreventingTreatingOrthostatic2010.
+
+Items to consider:
+
+1. The mechanisms that maintain postural normotension and how to recognize the onset of orthostatic symptoms @figueroaPreventingTreatingOrthostatic2010.
+1. There is no specific treatment of the underlying cause and that drug treatment alone is not adequate @figueroaPreventingTreatingOrthostatic2010.
+1. Nonpharmacologic approaches and be aware that other drugs they start may worsen symptoms @figueroaPreventingTreatingOrthostatic2010.
+
+
+Educate the patient on environmental stressors
+
+- Prolonged or motionless standing
+- Alcohol ingestion (causing vasodilation)
+- Carbohydrate-heavy meals (causing postprandial orthostatic hypotension related to an increase in the splanchnic-mesenteric venous capacitance),
+- Nocturnal diuresis causing early morning orthostatic hypotension
+- Physical activity sufficient to cause muscle vasodilation
+- Heat exposure (eg, hot weather or a hot bath or shower) producing skin vessel vasodilation
+- Sudden postural changes
+- Prolonged recumbency
+
+
+
+## Inpatient approach
+
+- Perform motor and sensory evaluations first
+- Move patient to sitting EOB as soon as possible
+- Continue with subjective and objective
+- (+) Hypotension
+  - Have the patient drink water
+  - Perform exercises sitting EOB
+
+
+# Dropfoot
+
+[Drop foot]({{< var ref-drop-foot.path >}}) refers to a sign of motor weakness caused by [common fibular nerve palsy]({{< var ref-common-fibular-nerve.path >}}).
+
+## Etiology
+
+During surgery, the nerve can be damaged through:
+
+- Direct trauma @wuCharacterizingPeronealNerve2023
+- Thermal injury @wuCharacterizingPeronealNerve2023
+- Retractor placement @wuCharacterizingPeronealNerve2023
+- Hardware dislocation @wuCharacterizingPeronealNerve2023 
+- Perforation @wuCharacterizingPeronealNerve2023
+- Postoperative Hematoma @wuCharacterizingPeronealNerve2023
+- Postoperative pseudotumor @wuCharacterizingPeronealNerve2023
+
+:::{.callout-note}
+Up to 50% of the cases are idiopathic @wuCharacterizingPeronealNerve2023
+:::
+
+::: {.columns}
+::: {.column}
+### THA
+
+Injury to [Common fibular division]({{< var ref-sciatic-nerve.common-fibular-division >}}) of the [Sciatic nerve]({{< var ref-sciatic-nerve.path >}}) @wuCharacterizingPeronealNerve2023.
+
+:::
+::: {.column}
+### TKA
+
+During a TKA, either the [common fibular division of the sciatic nerve]({{< var ref-sciatic-nerve.common-fibular-division >}}) or the [Common fibular nerve]({{< var ref-common-fibular-nerve.path >}}) itself is damaged at some point during the operation.
+
+:::
+:::
+
+
+
+
+
+## Epidemiology
+
+
+
+::: {.columns}
+::: {.column}
+### THA
+
+This injury has been reported in 0.08% to 3.7% of primary arthroplasties and up to 7.6% in secondary or revision cases @wuCharacterizingPeronealNerve2023.
+
+:::
+::: {.column}
+### TKA
+
+Peroneal nerve palsy occurs in 0% to 9.5% of TKAs @schinskyNerveInjuryPrimary2001.
+:::
+:::
+
+## Common fibular nerve vs Tibial Nerve
+
+- Injuries to the sciatic nerve during total joint arthroplasty can affect the [Common fibular division]({{< var ref-sciatic-nerve.common-fibular-division >}}) and/or the [tibial division]({{< var ref-sciatic-nerve.tibial-division >}}) of the sciatic nerve @wuCharacterizingPeronealNerve2023.
+- Injuries to the [tibial division]({{< var ref-sciatic-nerve.tibial-division >}}) are less severe and less common @wuCharacterizingPeronealNerve2023.
+
+## Patient Presentation
+
+### Sensory symptoms
+
+Sensory on dorsal aspect of the foot:
+
+- Decreased sensation
+- Numbness
+- Tingling
+
+
+### Motor Symptoms
+
+Loss of function in 
+
+- [Tibialis anterior]({{< var ref-tibialis-anterior.path >}})
+- [Extensor digitorum longus]({{< var ref-extensor-digitorum-longus.path >}})
+- [Extensor hallucis longus]({{< var ref-extensor-hallucis-longus.path >}})
+- [Fibularis longus]({{< var ref-fibularis-longus.path >}})
+- [Fibularis brevis]({{< var ref-fibularis-brevis.path >}})
+- [Fibularis tertius]({{< var ref-fibularis-tertius.path >}})
+
+Resulting in 
+
+- Dorsiflexion weakness/paralysis ([footdrop]({{< var ref-drop-foot.path >}}))
+- Eversion weakness/paralysis
+
+
+### Onsert
+
+Symptoms should be present by shortly after the operation in the recovery room or at the ward @schinskyNerveInjuryPrimary2001.
+
+## Management
+
+
+
+### Patient education
+
+If the [foot drop]({{< var ref-drop-foot.path >}}) is caused by the surgery, you shoudl educat the patient that they need to advocate for themselves to home health physical therapy and outpatient physical therapy, that this issue was caused during the surgery and should be part of the physical therapy management.
+
+### Positioning
+
+Passively positioning the ankle in dorsiflexion and eversion is important to prevent contractures @mohaniComprehensiveRehabilitationPatient2024.
+
+### Stretching
+
+Stretching the [Triceps surae]({{< var ref-triceps-surae.path >}}) and the associated achilles tendon is important to prevent contractures @mohaniComprehensiveRehabilitationPatient2024.
+
+# Anemia
+
+## Definition
+
+Hemoglobin (HB) level is below the normative value:
+
+- &lt;13 g/dl for Males @kunzPostoperativeAnaemiaMight2020 
+- &lt;12 g/dl for Females @kunzPostoperativeAnaemiaMight2020
+
+## Secondary complications
+
+- acute kidney injury (AKI) @kunzPostoperativeAnaemiaMight2020 
+- Delirium due to decreased oxygen transport @kunzPostoperativeAnaemiaMight2020 
+  - Delirium often occurs postoperatively with an incidence of up to 74% @kunzPostoperativeAnaemiaMight2020 
+- [Orthostatic intolerance]({{< var ref-orthostatic-intolerance.path >}}) @kurkisIncidenceRiskFactors2022
+
+## Management
+
+There is very little physical therapists can perform in the short term to prevent acute iatrogenic anemia.
+
+At the same time, acute anemia will have little effect on whether a physical therapist can perform their evaluation and discharge, except for [orthostatic hypotension]({{< var ref-orthostatic-hypotension.path >}}).
+Thus the best way to manage acute iatrogenic anemia, is to treat the symptoms of [OI]({{< var ref-orthostatic-intolerance.path >}}) as outlined above  @kurkisIncidenceRiskFactors2022.
+
+# References

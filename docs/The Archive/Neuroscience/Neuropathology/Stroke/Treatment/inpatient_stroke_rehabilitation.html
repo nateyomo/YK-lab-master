@@ -1,0 +1,1051 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.55">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Nathaniel Yomogida">
+<meta name="author" content="Chloë Kerstein">
+
+<title>Inpatient Physical therapy for a Stroke</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../../../">
+<link href="../../../../..//images/brain-favicon.png" rel="icon" type="image/png">
+<script src="../../../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "?",
+    "H"
+  ],
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../../../../styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../../../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../../../images/square 2 lines mid.svg" alt="" class="navbar-logo">
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../../The Archive/archive_index.html"> 
+<span class="menu-text">Archive</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../../guide.html"> 
+<span class="menu-text">Guide</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../../journal club index.html"> 
+<span class="menu-text">Journal Club</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../../contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a>
+  <ul class="collapse">
+  <li><a href="#coordination-of-acute-and-long-term-care" id="toc-coordination-of-acute-and-long-term-care" class="nav-link" data-scroll-target="#coordination-of-acute-and-long-term-care">Coordination of acute and long-term care</a></li>
+  </ul></li>
+  <li><a href="#dosage" id="toc-dosage" class="nav-link" data-scroll-target="#dosage">Dosage</a></li>
+  <li><a href="#precautions" id="toc-precautions" class="nav-link" data-scroll-target="#precautions">Precautions</a></li>
+  <li><a href="#interventions" id="toc-interventions" class="nav-link" data-scroll-target="#interventions">Interventions</a>
+  <ul class="collapse">
+  <li><a href="#task-specific-training" id="toc-task-specific-training" class="nav-link" data-scroll-target="#task-specific-training">Task specific training</a></li>
+  <li><a href="#cimt" id="toc-cimt" class="nav-link" data-scroll-target="#cimt">CIMT</a></li>
+  <li><a href="#sensory-stimulation" id="toc-sensory-stimulation" class="nav-link" data-scroll-target="#sensory-stimulation">Sensory stimulation</a></li>
+  </ul></li>
+  <li><a href="#practice" id="toc-practice" class="nav-link" data-scroll-target="#practice">Practice</a>
+  <ul class="collapse">
+  <li><a href="#massed-practicerepetitive-practice" id="toc-massed-practicerepetitive-practice" class="nav-link" data-scroll-target="#massed-practicerepetitive-practice">Massed practice/repetitive practice</a></li>
+  <li><a href="#variable-practice" id="toc-variable-practice" class="nav-link" data-scroll-target="#variable-practice">Variable practice</a></li>
+  </ul></li>
+  <li><a href="#difficulty" id="toc-difficulty" class="nav-link" data-scroll-target="#difficulty">Difficulty</a></li>
+  <li><a href="#sensory-stimulation-1" id="toc-sensory-stimulation-1" class="nav-link" data-scroll-target="#sensory-stimulation-1">Sensory stimulation</a></li>
+  <li><a href="#feedback" id="toc-feedback" class="nav-link" data-scroll-target="#feedback">Feedback</a>
+  <ul class="collapse">
+  <li><a href="#explicit-feedback-kor" id="toc-explicit-feedback-kor" class="nav-link" data-scroll-target="#explicit-feedback-kor">Explicit Feedback / KOR</a></li>
+  <li><a href="#implicit" id="toc-implicit" class="nav-link" data-scroll-target="#implicit">Implicit</a></li>
+  </ul></li>
+  <li><a href="#dosage-1" id="toc-dosage-1" class="nav-link" data-scroll-target="#dosage-1">Dosage</a></li>
+  <li><a href="#modulate-effector-selection" id="toc-modulate-effector-selection" class="nav-link" data-scroll-target="#modulate-effector-selection">Modulate effector selection</a></li>
+  <li><a href="#practice-1" id="toc-practice-1" class="nav-link" data-scroll-target="#practice-1">Practice</a>
+  <ul class="collapse">
+  <li><a href="#action-observationembodied-practice" id="toc-action-observationembodied-practice" class="nav-link" data-scroll-target="#action-observationembodied-practice">Action observation/embodied practice</a></li>
+  <li><a href="#goal-oriented-practice" id="toc-goal-oriented-practice" class="nav-link" data-scroll-target="#goal-oriented-practice">Goal oriented practice</a></li>
+  <li><a href="#motor-imagery-mental-practice" id="toc-motor-imagery-mental-practice" class="nav-link" data-scroll-target="#motor-imagery-mental-practice">Motor imagery / mental practice</a></li>
+  </ul></li>
+  <li><a href="#cueing" id="toc-cueing" class="nav-link" data-scroll-target="#cueing">Cueing</a></li>
+  <li><a href="#bed-exercises" id="toc-bed-exercises" class="nav-link" data-scroll-target="#bed-exercises">Bed Exercises</a>
+  <ul class="collapse">
+  <li><a href="#scooting" id="toc-scooting" class="nav-link" data-scroll-target="#scooting">Scooting</a></li>
+  <li><a href="#rolling" id="toc-rolling" class="nav-link" data-scroll-target="#rolling">Rolling</a></li>
+  <li><a href="#bridging" id="toc-bridging" class="nav-link" data-scroll-target="#bridging">Bridging</a></li>
+  </ul></li>
+  <li><a href="#bed-mobility" id="toc-bed-mobility" class="nav-link" data-scroll-target="#bed-mobility">Bed mobility</a></li>
+  <li><a href="#supine-to-sit" id="toc-supine-to-sit" class="nav-link" data-scroll-target="#supine-to-sit">Supine-to-sit</a></li>
+  <li><a href="#quadriped-position" id="toc-quadriped-position" class="nav-link" data-scroll-target="#quadriped-position">Quadriped Position</a></li>
+  <li><a href="#sitting-balance" id="toc-sitting-balance" class="nav-link" data-scroll-target="#sitting-balance">Sitting balance</a></li>
+  <li><a href="#sit-to-stand" id="toc-sit-to-stand" class="nav-link" data-scroll-target="#sit-to-stand">Sit-to-stand</a></li>
+  <li><a href="#standing-balance" id="toc-standing-balance" class="nav-link" data-scroll-target="#standing-balance">Standing balance</a>
+  <ul class="collapse">
+  <li><a href="#static" id="toc-static" class="nav-link" data-scroll-target="#static">Static</a></li>
+  <li><a href="#dynamic" id="toc-dynamic" class="nav-link" data-scroll-target="#dynamic">Dynamic</a></li>
+  </ul></li>
+  <li><a href="#gait" id="toc-gait" class="nav-link" data-scroll-target="#gait">Gait</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Inpatient Physical therapy for a Stroke</h1>
+</div>
+
+
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Authors</div>
+  <div class="quarto-title-meta-heading">Affiliations</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author">Nathaniel Yomogida, B.S., SPT </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Doctor of Physical Therapy
+          </p>
+        <p class="affiliation">
+            B.S. in Kinesiology
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">Chloë Kerstein, B.S., SPT </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Doctor of Physical Therapy
+          </p>
+        <p class="affiliation">
+            B.A. in Neuroscience
+          </p>
+      </div>
+  </div>
+
+<div class="quarto-title-meta">
+
+      
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Early functional mobilization is important for stroke outcomes</p>
+<div class="callout callout-style-simple callout-none no-icon callout-titled" title="Look at ">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Look at
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Mariana de Aquino Miranda J, Mendes Borges V, Bazan R, José Luvizutto G, Sabrysna Morais Shinosaki J. Early mobilization in acute stroke phase: a systematic review. Top Stroke Rehabil. 2023;30(2):157-168. doi:10.1080/10749357.2021.2008595</li>
+</ul>
+</div>
+</div>
+<section id="overview" class="level1">
+<h1>Overview</h1>
+<section id="coordination-of-acute-and-long-term-care" class="level2">
+<h2 class="anchored" data-anchor-id="coordination-of-acute-and-long-term-care">Coordination of acute and long-term care</h2>
+<p>“To be optimally successful, rehabilitation should be fully integrated with traditional medical care. Therapy should begin as early as possible while the patient is still on the acute medical or neurological unit. Physicians, nurses, and other personnel must be involved. Therapy should not be completely delegated to physical and occupational therapists. Consultations should not be limited to the 30 minutes or so that patients typically spend each day with therapists. Passive and active range-of-motion exercises and other physical therapy should be encouraged by ward personnel. If the patient goes to a rehabilitation unit, the acute-care team should continue to follow the patient whenever possible. Acute medical problems do not suddenly disappear when the patient is transferred. Subsequent strokes and medical complications are common among recuperating patients.”<span class="citation" data-cites="caplanCaplanStrokeClinical2016"><sup><a href="#ref-caplanCaplanStrokeClinical2016" role="doc-biblioref">1</a></sup></span></p>
+</section>
+</section>
+<section id="dosage" class="level1">
+<h1>Dosage</h1>
+</section>
+<section id="precautions" class="level1">
+<h1>Precautions</h1>
+<p>conceptual focus</p>
+<ul>
+<li>Neuromuscular improvement &gt; physical strength
+<ul>
+<li>How to achieve neuromuscular changes that reflect functional activities in bed?</li>
+</ul></li>
+<li>Sensation in bed?
+<ul>
+<li>proprioception</li>
+</ul></li>
+</ul>
+<p>Methods</p>
+<ol type="1">
+<li>Irradiation</li>
+<li>Synergies?</li>
+<li>CIMT</li>
+<li>BW assisted training via straps connected to hospital lift?</li>
+<li>Sara Steady</li>
+</ol>
+<p>Goal: Find regressions and bed mobility exercises that will help patients work up to functional training (ODI?)</p>
+</section>
+<section id="interventions" class="level1">
+<h1>Interventions</h1>
+<section id="task-specific-training" class="level2">
+<h2 class="anchored" data-anchor-id="task-specific-training">Task specific training</h2>
+<ul>
+<li>Task-specific practice (Veerbeek et al., 2014; Winstein et al., 2014; Fu et al., 2015; Kwakkel et al., 2015; Furlan et al., 2016; Livingston-Thomas et al., 2016; Yue et al., 2017).<span class="citation" data-cites="maierPrinciplesNeurorehabilitationStroke2019"><sup><a href="#ref-maierPrinciplesNeurorehabilitationStroke2019" role="doc-biblioref"><strong>maierPrinciplesNeurorehabilitationStroke2019?</strong></a></sup></span></li>
+</ul>
+</section>
+<section id="cimt" class="level2">
+<h2 class="anchored" data-anchor-id="cimt">CIMT</h2>
+<p><span class="citation" data-cites="kwakkelConstraintinducedMovementTherapy2015"><sup><a href="#ref-kwakkelConstraintinducedMovementTherapy2015" role="doc-biblioref"><strong>kwakkelConstraintinducedMovementTherapy2015?</strong></a></sup></span></p>
+</section>
+<section id="sensory-stimulation" class="level2">
+<h2 class="anchored" data-anchor-id="sensory-stimulation">Sensory stimulation</h2>
+<p>Sensory stimulation might potentially be a critical component of activity-based therapies.<span class="citation" data-cites="caplanCaplanStrokeClinical2016"><sup><a href="#ref-caplanCaplanStrokeClinical2016" role="doc-biblioref">1</a></sup></span></p>
+</section>
+</section>
+<section id="practice" class="level1">
+<h1>Practice</h1>
+<section id="massed-practicerepetitive-practice" class="level2">
+<h2 class="anchored" data-anchor-id="massed-practicerepetitive-practice">Massed practice/repetitive practice</h2>
+<p>(Middleton and Schwartz, 2012; Veerbeek et al., 2014; Fu et al., 2015; Kwakkel et al., 2015; Furlan et al., 2016; Zhang et al., 2016).<span class="citation" data-cites="maierPrinciplesNeurorehabilitationStroke2019"><sup><a href="#ref-maierPrinciplesNeurorehabilitationStroke2019" role="doc-biblioref"><strong>maierPrinciplesNeurorehabilitationStroke2019?</strong></a></sup></span></p>
+</section>
+<section id="variable-practice" class="level2">
+<h2 class="anchored" data-anchor-id="variable-practice">Variable practice</h2>
+<p>Variable practice (Darekar et al., 2015; Fu et al., 2015; Livingston-Thomas et al., 2016).<span class="citation" data-cites="maierPrinciplesNeurorehabilitationStroke2019"><sup><a href="#ref-maierPrinciplesNeurorehabilitationStroke2019" role="doc-biblioref"><strong>maierPrinciplesNeurorehabilitationStroke2019?</strong></a></sup></span></p>
+</section>
+</section>
+<section id="difficulty" class="level1">
+<h1>Difficulty</h1>
+<p>Increasing difficulty (Winstein et al., 2014; Fu et al., 2015; Kwakkel et al., 2015; Furlan et al., 2016; Hasan et al., 2016; Livingston-Thomas et al., 2016; Zhang et al., 2017).<span class="citation" data-cites="maierPrinciplesNeurorehabilitationStroke2019"><sup><a href="#ref-maierPrinciplesNeurorehabilitationStroke2019" role="doc-biblioref"><strong>maierPrinciplesNeurorehabilitationStroke2019?</strong></a></sup></span></p>
+</section>
+<section id="sensory-stimulation-1" class="level1">
+<h1>Sensory stimulation</h1>
+<p>Multisensory stimulation (Veerbeek et al., 2014; Livingston-Thomas et al., 2016; Yue et al., 2017).<span class="citation" data-cites="maierPrinciplesNeurorehabilitationStroke2019"><sup><a href="#ref-maierPrinciplesNeurorehabilitationStroke2019" role="doc-biblioref"><strong>maierPrinciplesNeurorehabilitationStroke2019?</strong></a></sup></span></p>
+</section>
+<section id="feedback" class="level1">
+<h1>Feedback</h1>
+<section id="explicit-feedback-kor" class="level2">
+<h2 class="anchored" data-anchor-id="explicit-feedback-kor">Explicit Feedback / KOR</h2>
+<p>Explicit feedback/knowledge of results (Middleton and Schwartz, 2012; Veerbeek et al., 2014; Darekar et al., 2015; Fu et al., 2015; Renton et al., 2017).<span class="citation" data-cites="maierPrinciplesNeurorehabilitationStroke2019"><sup><a href="#ref-maierPrinciplesNeurorehabilitationStroke2019" role="doc-biblioref"><strong>maierPrinciplesNeurorehabilitationStroke2019?</strong></a></sup></span></p>
+</section>
+<section id="implicit" class="level2">
+<h2 class="anchored" data-anchor-id="implicit">Implicit</h2>
+<p>Implicit feedback/knowledge of performance (Veerbeek et al., 2014; Darekar et al., 2015; Fu et al., 2015; Zhang et al., 2016; Renton et al., 2017; Yue et al., 2017).<span class="citation" data-cites="maierPrinciplesNeurorehabilitationStroke2019"><sup><a href="#ref-maierPrinciplesNeurorehabilitationStroke2019" role="doc-biblioref"><strong>maierPrinciplesNeurorehabilitationStroke2019?</strong></a></sup></span></p>
+</section>
+</section>
+<section id="dosage-1" class="level1">
+<h1>Dosage</h1>
+<ul>
+<li>see<span class="citation" data-cites="frenchRepetitiveTaskTraining2016"><sup><a href="#ref-frenchRepetitiveTaskTraining2016" role="doc-biblioref"><strong>frenchRepetitiveTaskTraining2016?</strong></a></sup></span></li>
+<li>Dosage/duration (Veerbeek et al., 2014; Winstein et al., 2014; Billinger, 2015; Darekar et al., 2015; Kwakkel et al., 2015; Hasan et al., 2016; Livingston-Thomas et al., 2016; Basso and Lang, 2017; Zhang et al., 2017).<span class="citation" data-cites="maierPrinciplesNeurorehabilitationStroke2019"><sup><a href="#ref-maierPrinciplesNeurorehabilitationStroke2019" role="doc-biblioref"><strong>maierPrinciplesNeurorehabilitationStroke2019?</strong></a></sup></span></li>
+</ul>
+</section>
+<section id="modulate-effector-selection" class="level1">
+<h1>Modulate effector selection</h1>
+<p>Modulate effector selection (Veerbeek et al., 2014; Winstein et al., 2014; Kwakkel et al., 2015; Furlan et al., 2016; Zhang et al., 2017).</p>
+</section>
+<section id="practice-1" class="level1">
+<h1>Practice</h1>
+<section id="action-observationembodied-practice" class="level2">
+<h2 class="anchored" data-anchor-id="action-observationembodied-practice">Action observation/embodied practice</h2>
+<p>Action observation/embodied practice (Veerbeek et al., 2014; Fu et al., 2015; Yue et al., 2017).</p>
+</section>
+<section id="goal-oriented-practice" class="level2">
+<h2 class="anchored" data-anchor-id="goal-oriented-practice">Goal oriented practice</h2>
+<p>Goal-oriented practice (Winstein et al., 2014; Fu et al., 2015; Yue et al., 2017).</p>
+</section>
+<section id="motor-imagery-mental-practice" class="level2">
+<h2 class="anchored" data-anchor-id="motor-imagery-mental-practice">Motor imagery / mental practice</h2>
+<p>Motor imagery/mental practice (Veerbeek et al., 2014).</p>
+</section>
+</section>
+<section id="cueing" class="level1">
+<h1>Cueing</h1>
+<p>Rhythmic cueing (Middleton and Schwartz, 2012; Veerbeek et al., 2014; Zhang et al., 2016).</p>
+</section>
+<section id="bed-exercises" class="level1">
+<h1>Bed Exercises</h1>
+<p>“Resistance exercise can improve motor control-stability at joints or segments. Patella instability can improve with isokinetic exercise (Hazneci, 2005), whereas scapular stability can improve with progressive resistance exercise (McNeely, 2004).”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“PNF techniques that target joint stability through manual resistance, include alternating isometrics (including rhythmic stabilization), slow reversal, and slow reversal hold. These are particularly useful for motor control-stability impairments because they incorporate contractions of both agonists and antagonists, creating a stable, cocontracted joint or segment. In alternating isometrics (see Fig. 24-2AB), resistance is used through specific hand placements on key body parts to facilitate isometric contraction of agonist muscles on one side of the joint or body segment followed by facilitation of antagonistic muscles on the other side of the joint or body segment. Facilitation is given in verbal commands (“Don’t let me move you; hold still”) and by manual contact (touching or resisting the muscles you want to contract).”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“In <em>rhythmic stabilization</em> (Fig. 24-3AB), facilitation and resistance are given alternately to agonists then to antagonists while the patient holds a body position to promote cocontraction around the joint. Resistance is increased or decreased depending on the patient’s ability to “hold” and keep the joint or segment from moving.”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“The <em>slow reversal</em> technique varies from this by facilitating controlled movement (with joint stability at related segments) through a desired range in one direction followed by facilitation of the antagonist, with a reversal of the pattern creating a series of active contractions with successive movement in each direction. <em>Slow reversal</em> hold is similar to <em>slow reversal</em>, but a cocontraction “hold” is facilitated at the end range of movement (Martin, 2007).”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“For all these techniques, manual contact and application of resistance is thought to provide internal feedback in the muscle and joint receptors, helping the patient to sense the position of the joint (e.g., amount of flexion, extension), which facilitates keeping the joint in stable and anatomically correct positions during movement”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“PNF can increase quadriceps and hamstring strength and joint position sense in patients with patellar instability (Hazneci, 2005). In one study, PNF did not improve gait velocity after 4 weeks of neuromuscular exercise (Coughlan, 2007). Additional research is needed to provide guidelines for proprioceptive interventions in patients with neuromotor pathology.”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<section id="scooting" class="level2">
+<h2 class="anchored" data-anchor-id="scooting">Scooting</h2>
+<p>Horizontal: Scooting For increased independence in bed mobility, a patient must be able to maneuver in bed. Scooting is considered a skilled movement in supine. For scooting sideways, begin with the patient in a bridge. With the positions and hand placements described previously in bridging (Figure 34-2A), give input with one hand toward the pelvis (as if shortening the leg) and the other toward the knee (as if lengthening the leg). Maintain the upward direction cue to keep the bridge the entire time until ready to set the hips back down. Work with the patient to control the hips descending back down to the supporting surface (rather than plopping down). Assist the patient in aligning the legs with the new position of the hips; if necessary, lean the knees together so the legs can stay propped up. The patient then aligns the upper body with the lower body by lifting the head and shoulders slightly and shifting the shoulders over. You may cue the patient at the shoulders when needing assistance with upper body alignment.</p>
+<p>“In all cases, the patient should be doing as much of the work as possible with the therapist assisting as little as possible. When the patient needs more assistance with maintaining a bridge during the sideways scooting practice, a drawsheet can be used around his pelvis as described previously in bridging, with the addition of shortening and lengthening cues.”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“For scooting up in bed, again begin with a bridge. Using the position and hand placements described previously in bridging, give input with the fingers on both hands, simultaneously giving the patient the input to move the buttocks toward the head (pushing lightly toward the patient’s head). The patient can additionally assist by pushing up with both feet and hands to slide upward.”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+</section>
+<section id="rolling" class="level2">
+<h2 class="anchored" data-anchor-id="rolling">Rolling</h2>
+<p>“In addition to scooting, a patient needs to be able to roll in both directions for independence in bed mobility. Although typically used for bed mobility, rolling is also used for dressing in individuals who cannot dress in sitting or standing, for pressure relief in individuals who are unable to bridge, and to decrease general tone when done slowly and rhythmically”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“Biomechanical factors include a large base of support that can be increased with an arm on the mat and a low center of gravity. The ATNR or TLR will interfere with normal rolling if present, whereas intact righting reflexes will assist with rolling. When moving from supine toward prone, gravity resists the supine-to-sidelying portion of the movement and assists the sidelying-to-prone movement.”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“Begin by asking the individual to roll. When the patient presents with hemiparesis, ask him to roll toward the lessinvolved side. What strategy does the patient spontaneously try to use? If possible and appropriate, help the patient to relearn his preferred rolling strategy.”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“Initially, it may be easier for the patient to roll from supine to sidelying “en bloc” (log roll) rather than segmentally. When considering the patient who has experienced a stroke with one side significantly more impaired than the other, rolling onto the weaker side is easier than moving onto the uninvolved side (Franchignoni, 1997; Kafri, 2005). Because the external oblique, pectoralis major, and rectus femoris muscles play significant roles in the ability to roll to either side after a stroke, any activity or isolated muscle strengthening targeting these muscles will contribute to a patient’s overall functional success with rolling (Kafri, 2005).”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+</section>
+<section id="bridging" class="level2">
+<h2 class="anchored" data-anchor-id="bridging">Bridging</h2>
+<p>“Bridging is a weight-bearing position for the lower extremities in supine. It is both a developmental and a functional activity essential for independent dressing and moving in bed. When working with a patient, immediately put the bridge into a function, such as lifting to scoot sideways or up in bed. Increased control for the stance phase of gait with pelvic rotation and weight shift in a more isolated movement combination (e.g., hip extension with knee flexion) can also be facilitated using this position. Biomechanical factors to consider are a higher base of support, a smaller center of gravity, and an increased number of joints involved compared with supine.”</p>
+<p>Assumption of the Position</p>
+<p>“Guide and/or resist the patient’s lower extremities into a stable flexed position with feet flat on the supporting surface. Assist the patient in lifting the lower extremity with the fingers on the lateral border of the foot and the lateral popliteal fossa. When some flexion is achieved, move the proximal hand to the anterior knee, below the patella (Fig. 34-1). Place the noninvolved leg over the top of the involved foot to assist the involved leg in bending up, and place the feet flat on the surface (you may provide pressure on the tibia to assist). Placing the assistance anteriorly rather than underneath”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“the leg encourages the patient to do as much of the work of lifting the leg as possible, rather than relying on the therapist to do most of the lifting or using the less-involved limb to lift the more-involved limb. Regarding foot placement, you may start with the feet apart for stability and progress toward a narrower base and/or start closer to the buttocks and progress to farther away”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“A compensatory strategy for the patient is moving the legs into hooklying. The patient can hook the less-involved foot under the more-involved foot and use the strength of the uninvolved leg to pull the involved leg up into hooklying.”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“When a patient is unable to lift her buttocks off the supporting surface, you can facilitate the lift. Position yourself facing the patient’s head and straddle her feet. Place your hands on the patient’s distal femur, providing pressure down into the feet (cuing weight-bearing) and lightly pull the femurs forward over the feet. Then give an upward lifting cue with the fingers along the lateral aspects of the distal femur. You may lean your body back to increase weight-bearing into the patient’s feet (Fig. 34-2A)”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“When the patient needs additional assistance, use a drawsheet around the crest of the pelvis, giving the same cues as described previously (Fig. 34-2B). Alternatively, your forearms can be placed on the patient’s femurs with weight-bearing pressure given into the patient’s feet. Then guiding the femurs forward over the feet, simultaneously lift the pelvis with the drawsheet.”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+</section>
+</section>
+<section id="bed-mobility" class="level1">
+<h1>Bed mobility</h1>
+</section>
+<section id="supine-to-sit" class="level1">
+<h1>Supine-to-sit</h1>
+<p>“Individuals achieve a sitting position in a variety of ways depending on the starting position, the surface, the reason for moving into sitting, and other factors. Many people get into a sitting position from lying down by rolling to their side and then pushing into sitting using their UEs. Some may transition directly into sitting by flexing at the hips, whereas others (primarily children) rise into sitting by getting onto all fours and pushing back into sitting. This functional transition, which could occur multiple times a day depending on patient age, is a good activity for helping the patient learn motor control-stability throughout the movement, especially stability of the trunk and pelvis.”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+</section>
+<section id="quadriped-position" class="level1">
+<h1>Quadriped Position</h1>
+<p>“Quadruped position, sometimes called “hands and knees” or “all fours,” can be a very useful functional position for therapeutic intervention activities because it requires neuromotor stability at the trunk and in proximal girdle segments (shoulder and pelvis/hip) as well as the elbow, wrist, and knee. Moving from supine-to-sit (see Fig. 24-16ABCD) may also improve stability by focusing on lateral trunk flexion and rotation of the trunk and stability of the head on the trunk (neck stability). This movement can also be used to facilitate gradations of UE control by going from forearm weight-bearing to extended arm weight-bearing; this is coordinated with lateral trunk flexion for weight shift toward the UE when lying down or toward the hips when coming to sit.”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+</section>
+<section id="sitting-balance" class="level1">
+<h1>Sitting balance</h1>
+</section>
+<section id="sit-to-stand" class="level1">
+<h1>Sit-to-stand</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>See ch36<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></li>
+</ul>
+</div>
+</div>
+<p>“Once the patient can attain a sitting position, skilled movement from sit-to-stand and the return to sitting, which requires additional segment stability in the trunk and lower extremities, must be achieved. This task, described in greater detail in Chapter 36, is achieved by leaning the trunk forward from sitting, which creates an anterior weight shift to the feet, followed by a lower extremity, extensor concentric push into the standing position (see Fig. 24-17ABC). Trunk stability is needed throughout the transition (without trunk flexion), along with dynamic stability of the hip, knee, and ankle. Depending on their age and ability, some patients also need to use their arms to push themselves into the upright position.”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“Before beginning the sit-to-stand transfer, the patient who is relearning sit-to-stand may benefit from optimal preparation, including attaining appropriate upright trunk posture in sitting. This consists of bilateral/symmetrical weight-bearing through the pelvis; an erect spine, head, and trunk in midline; and feet flat on the floor with knees flexed beyond 90 degrees. Assess sit-to-stand without arm use first; if the patient is unable, then assess sit-to-stand with UE use. From a power and safety standpoint, determine first whether the UEs are needed to push up from the sitting surface or arms of a chair, and do not allow the patient to use the arms if they are not needed. The knee can be particularly difficult to manage in the transition from a midflexed position to full extension. Often, patients do not stop at 0 degrees of extension but snap back into knee hyperextension or biomechanically lock the knee in a fully extended position because of lack of control or inability to judge where the end position is.”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“When the patient is lowering back to the sitting position, the extensor muscles must eccentrically contract to control the descent, and dynamic joint stability is needed to coordinate timing and sequencing of movements in the trunk and lower extremity joints. To increase the difficulty of this task, lower the height of the seating surface and decrease the percentage of arm support. To increase the challenge even more, ask the patient to hold something, such as a full glass of water, while completing the transition. Use of this activity in treatment might include assessing the functional need for the transition (e.g., getting out of a soft bed, getting up from a toilet with no rails available), incorporating other abilities or limitations such as the ability or inability to use one or both UEs to assist.”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“Facilitate graded control during rising from sitting and during lowering, with variations at points in the transition to address specific joint/segment motor control limitations. For example, for the individual who cannot control stability of the ankle to keep the tibia forward over the foot for balance during the sit-to-stand transition, you could facilitate the patient’s ability to come partway up, then ask the patient to weight shift slightly to the side and sit; this lateral shift requires sustained but dynamic ankle control to maintain balance during the weight shift. Means of progressing the activity include decreasing the amount of facilitation, changing the direction, adding a movement component such as rotation, or using the transition for a function such as partially standing to adjust clothing or to obtain something that is just out of reach in sitting.”</p>
+</section>
+<section id="standing-balance" class="level1">
+<h1>Standing balance</h1>
+<p>“Figure 24-4AB demonstrates one way the NDT approach might be used in weight-bearing therapeutic exercise in stance to remediate a problem with stability control at the right knee. Because many factors contribute to this problem, however, the most significant or limiting factors should be addressed first. Attempts to treat every issue simultaneously may lead to limited improvement in any one area. This may result in little change in function because resources (treatment) are spread too thinly. Addressing only one problematic area in isolation, however, may result in lack of carryover if the ability of the segment is not retrained in the context of overall function.”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“The treatment shown in Figure 24-4A was designed to address motor control difficulty in the case of patient Richard B., with easily identifiable right hemiplegia. He does not sustain and control activation of multiple body segments at once. The design of the intervention emphasizes facilitation of isolated and graded control in end ranges of knee extension. Because this activity demands activation in lengthened ranges of the gastrocsoleus and hamstring muscles, you can concurrently address the secondary musculoskeletal impairments in these areas, making optimal use of treatment time.”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“The modified plantigrade position combines stance (with lower extremity weight-bearing primarily on the right) with a slight forward incline of the body and bilateral UE support; it can be used with a verbal cue of “Push with your arms, tuck your chin, and push your body away from the bar.” This results in coactivation of trunk muscles, with increased activity of the trunk flexors to improve proximal control, instead of Richard’s typical pattern of using primarily trunk extension for trunk stability and control.”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<p>“Using the closed chain position allows you to control the number of segments and amount of motion at these segments more easily. Then you can cue and facilitate correct alignment and motion of lower body segments to optimize conditions for muscle activation. Facilitation and directional guidance for correct rotation of the tibia and femur and correct alignment of proximal segments over the right foot should be provided during graded and controlled knee flexion/extension. The tape on the posterior aspect of the knee provides “extra hands” and sensory feedback to allow the patient to move into full knee extension without hyperextension so he can practice control of knee stability in that position.”<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">2</a></sup></span></p>
+<section id="static" class="level2">
+<h2 class="anchored" data-anchor-id="static">Static</h2>
+</section>
+<section id="dynamic" class="level2">
+<h2 class="anchored" data-anchor-id="dynamic">Dynamic</h2>
+</section>
+</section>
+<section id="gait" class="level1">
+
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Gait</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-caplanCaplanStrokeClinical2016" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Caplan LR, Caplan LR, eds. <em>Caplan’s Stroke: A Clinical Approach</em>. 5th ed. Cambridge University Press; 2016.</div>
+</div>
+<div id="ref-fellLifespanNeurorehabilitationPatientcentered2019" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Fell DW, Lunnen KY, Rauk RP. <em>Lifespan Neurorehabilitation: A Patient-Centered Approach from Examination to Intervention and Outcomes</em>. F.A. Davis Company; 2019.</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div class="">Yomogida N, Kerstein C. Inpatient Physical
+therapy for a Stroke. <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Neuroscience/Neuropathology/Stroke/Treatment/inpatient_stroke_rehabilitation.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
+Archive/Neuroscience/Neuropathology/Stroke/Treatment/inpatient_stroke_rehabilitation.html</a></div>
+</div></div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/nateyomo\.github\.io\/Yomogida-Kerstein-Lab");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

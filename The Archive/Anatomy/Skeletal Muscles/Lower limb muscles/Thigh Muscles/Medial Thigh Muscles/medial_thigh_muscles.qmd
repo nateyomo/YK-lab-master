@@ -21,7 +21,7 @@ title: Medial Thigh Muscles
 library(here)
 
 # Source the functions script
-source(here("scripts/functions.R"))
+source(here("scripts/gt_oian.R"))
 
 # Example usage
 identifier_col <- "group_identifier"
@@ -46,7 +46,7 @@ gt_table
 library(here)
 
 # Source the functions script
-source(here("scripts/functions.R"))
+source(here("scripts/gt_oian.R"))
 
 # Example usage
 identifier_col <- "group_identifier"

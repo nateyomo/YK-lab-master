@@ -26,7 +26,7 @@ The Long Thoracic Nerve originates from the anterior rami of [C5]({{< var ref-ne
 library(here)
 
 # Source the functions script
-source(here("scripts/functions.R"))
+source(here("scripts/gt_oian.R"))
 
 # Example usage
 identifier_col <- "innervation_identifier"  # or "group_identifier"

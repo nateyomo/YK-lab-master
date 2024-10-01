@@ -1,0 +1,24 @@
+---
+title: Cyanocobalamin
+subtitle: Synethetic Cyanide-based B12
+---
+
+# Component Compounds
+
+- Cobalt (CID 104730) @CyanocobalaminB12PubChemAnalytical2024 
+- Hydrogen Cyanide (CID 768) @CyanocobalaminB12PubChemAnalytical2024 
+- CID 16212802 @CyanocobalaminB12PubChemAnalytical2024 
+
+
+## Cobalt
+
+- CID 104730 @CyanocobalaminB12PubChemAnalytical2024 
+
+
+## Hydrogen Cyanide {#hydrogen-cyanide}
+
+"Hydrogen Cyanide is a highly toxic conjugate acid of a cyanide that is used as a chemical weapon agent. It is characterized as a colorless gas or liquid with a strong pungent odor that causes irritation of the eyes and respiratory tract, as well as toxic systemic effects." @pubchemHydrogenCyanideCID2024
+ 
+
+## CID 16212802
+

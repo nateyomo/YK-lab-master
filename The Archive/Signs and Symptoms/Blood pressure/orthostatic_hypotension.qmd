@@ -1,0 +1,17 @@
+---
+title: Orthostatic Hypotension (OH)
+subtitle: Clinical Sign
+---
+
+# Definition
+
+## Classical OH
+
+Classical OH was defined in 1996 as a decrease in systolic blood pressure (SBP) of &gt;20mmHg or diastolic blood pressure (DBP) &geq;10mmHg after 3 minutes of standing or head-up tilt (HUT) &geq;60&deg; on a tilt table @millsNonpharmacologicManagementOrthostatic2015
+
+## Initial OH
+
+Initial OH is defined as a temporary blood pressure decrease of &gt;40mmHg SBP or &gt;20mmHg DBP within 15 seconds of standing @millsNonpharmacologicManagementOrthostatic2015.
+
+## Delayed OH
+

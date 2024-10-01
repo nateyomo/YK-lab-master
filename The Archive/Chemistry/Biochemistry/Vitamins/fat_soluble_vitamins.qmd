@@ -1,0 +1,10 @@
+---
+title: Fat Soluble Vitamins
+---
+
+fat soluble vitamins include vitamins A, D, and E, among others
+
+- Vitamin A
+- Vitamin D 
+- [Vitamin E]({{< var ref-vitamin-e.path >}})
+- Others

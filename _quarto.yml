@@ -44,9 +44,10 @@ website:
   page-navigation: true
   search:
     keyboard-shortcut: ["?", "H"]
-  title: "YK Lab"
+  # title: "YK LAB"
   site-url: https://nateyomo.github.io/Yomogida-Kerstein-Lab
   navbar:
+    logo: "/images/square 2 lines mid.svg"
     left:
       - href: index.qmd
         text: Home
@@ -80,13 +81,31 @@ format:
     mainfont: helvetica
     fontsize: 14px
     css: styles.css
-  #pdf:
-    #toc: true
-    #number-sections: true
-    #link-citations: true
-    #link-bibliography: true
-    #error: true
-  #typst:
-   #error: true
-   #toc: true
-
+  # pdf:
+  #   pdf-engine: wkhtmltopdf  # Specify wkhtmltopdf as the PDF engine
+  #   embed-resources: true  # Optionally embed images, CSS, etc.
+  #   toc: true  # Table of contents in PDF
+  #   number-sections: true
+  #   mainfont: helvetica
+  #   fontsize: 14px
+  #   geometry: "0.5in"
+  # html-pdf:
+  #   html:
+  #     toc: true
+  #     toc-title: Contents
+  #     toc-location: right
+  #     number-sections: false
+  #     tbl-cap-location: top
+  #     theme:
+  #       light: cosmo
+  #       dark: darkly
+  #     mainfont: helvetica
+  #     fontsize: 14px
+  #     css: styles.css
+  #   pdf:
+  #     toc: true
+  #     number-sections: true
+  #     link-citations: true
+  #     link-bibliography: true
+  #     error: true
+  #     documentclass: article

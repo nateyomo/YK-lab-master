@@ -1,0 +1,27 @@
+---
+title: Index of Symptoms
+---
+
+- Anesthesia
+- Neurological symptoms
+- Pain
+    - Angina
+    - Regional Pain
+
+
+
+
+# Eye {#eye}
+
+# Pain
+
+# Seizures
+
+[Overview]({{< var ref-seizure-overview.path >}})
+
+- [Functional seizures]({{< var ref-functional-seizure.path >}})
+
+# Blood Pressure
+
+- Orthostatic Hypotension
+    - Orthostatic intolerance

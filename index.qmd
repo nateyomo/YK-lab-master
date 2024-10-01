@@ -1,8 +1,9 @@
 ---
 citation: false
+author: []
 ---
 
-Welcome to the Yomogida & Kerstein Lab website
+![](/branding/square logo/square 3 lines full.svg)
 
 - [**The Archive**](The Archive/archive_index.qmd): A database for information, ranging from anatomy, microbiology, neurology, Patient examination, and rehabilitation.
 - [**About**](about.qmd): Read more about the authors of the site

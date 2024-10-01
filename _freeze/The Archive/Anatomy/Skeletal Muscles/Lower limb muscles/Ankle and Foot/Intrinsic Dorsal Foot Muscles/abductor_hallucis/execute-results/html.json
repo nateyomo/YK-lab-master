@@ -1,0 +1,15 @@
+{
+  "hash": "c0f08c275ca4cf4b85e0feb6a04f641d",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Abductor Hallucis\n---\n\n\n\n:::{layout-ncol=\"3\"}\n![Schematic of 1st layer of Plantar Intrinsic Foot Muscles @gilroyAtlasAnatomy2020 </br> 1: Abductor hallucis </br> 2: Flexor digitorum brevis </br> Abductor digiti minimi](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.20a schematic intrinsic 1st layer foot muscles.png)\n\n![1st Layer Intrinsic Plantar Foot Muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.20b intrinsic 1st layer foot muscles.png)\n:::\n\n\n# Overview\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-error}\n\n```\nError in vapply(non_na_text, FUN.VALUE = character(1L), USE.NAMES = FALSE, : values must be length 1,\n but FUN(X[[1]]) result is length 0\n```\n\n\n:::\n:::\n\n\n\n# Origin {#origin}\n\n- Medial calcaneal tuberosity @gilroyAtlasAnatomy2020\n- Plantar aponeurosis @gilroyAtlasAnatomy2020\n- Flexor retinaculum @gilroyAtlasAnatomy2020\n\n# Insertion {#insertion}\n\nMedial proximal phalanx of 1st toe @gilroyAtlasAnatomy2020\n\n# Innervation {#innervation}\n\n[Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020\n\n\n# Action {#action}\n\n- **1st MTP**: flexion, abd of first toe @gilroyAtlasAnatomy2020\n- **Longitudinal Arch**: Support @gilroyAtlasAnatomy2020\n\n\n\n\n\n# MMT \n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

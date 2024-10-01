@@ -1209,6 +1209,8 @@ ref-fibularis-tertius:
   action: "**TCJ**: DF </br> **STJ**: Eversion"
 
 ### Knee and Ankle posterior compartment
+ref-triceps-surae:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/triceps_surae_muscle_group.qmd"
 ref-gastrocnemius:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd"
   origin: "**Medial head**: Superior-posterior part of the medial femoral condyle </br> **Lateral Head**: Lateral surface of lateral femoral condyle"
@@ -1572,6 +1574,8 @@ ref-sciatic-nerve:
   roots: ""
   motor: ""
   cutaneous: ""
+  common-fibular-division: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/sciatic_nerve.qmd#common-fibular-division"
+  tibial-division: "/"
 ref-common-fibular-nerve:
   path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/common_fibular_nerve.qmd"
   roots: "[L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})"
@@ -1662,6 +1666,14 @@ ref-carbohydrate:
 ref-vitamin-e:
   path: "/The Archive/Chemistry/Biochemistry/Vitamins/vitamin_e.qmd"
   deficiency: "/The Archive/Pathophysiology/Metabolic Pathophysiology/vitamin_E_deficiency.qmd"
+
+ref-vitamin-a:
+  path: "/"
+## Methylation and Methyl donors
+ref-s-adenosyl-l-methionine:
+  path: "/The Archive/Chemistry/Biochemistry/Methylation and Methyl Donors/S-adenosyl-L-methionine_SAMe.qmd"
+ref-methylation:
+  path: "/The Archive/Chemistry/Biochemistry/Methylation and Methyl Donors/methylation_human.qmd"
 ## Nutrients
 ref-coenzyme-q10:
   path: "/The Archive/Physiology/Nutrients/coenzyme_Q10.qmd"
@@ -1689,10 +1701,14 @@ ref-lipid:
   path: "/The Archive/Chemistry/Biochemistry/Lipids/lipid.qmd"
   metabolism: "/The Archive/Physiology/Metabolism/Lipid Metabolism/lipid_metabolism.qmd"
 ## Minerals
+ref-zinc:
+  path: "/The Archive/Chemistry/Biochemistry/Minerals/zinc_dietary.qmd"
+ref-magnesium:
+  path: "/The Archive/Chemistry/Biochemistry/Minerals/magnesium_dietary.qmd"
 ref-copper: 
-  path: "/The Archive/Chemistry/Biochemistry/Minerals/copper.qmd"
+  path: "/The Archive/Chemistry/Biochemistry/Minerals/copper_dietary.qmd"
 ref-iron:
-  path: "/The Archive/Chemistry/Biochemistry/Minerals/iron.qmd"
+  path: "/The Archive/Chemistry/Biochemistry/Minerals/iron_dietary.qmd"
 ## Proteins
 ref-protein:
   path: "/The Archive/Chemistry/Biochemistry/Proteins/protein.qmd"
@@ -1906,6 +1922,9 @@ ref-heel-up-sign:
 
 ## Movement Analysis
 
+ref-selective-functional-movement-assessment:
+  path: "/The Archive/Examination/Movement Analysis/SFMA/selective_functional_movement_assessment_sfma.qmd"
+
 ### Functions
 ref-swallowing:
   path: "/The Archive/Examination/Movement Analysis/Functions/swallowing_function.qmd"
@@ -2061,6 +2080,10 @@ ref-icing-cryotherapy:
 ## Upper extremity
 ref-cyriax-release-maneuver:
   path: "/The Archive/Interventions/Upper Extremity/cyriax_release_maneuver.qmd"
+
+## Therex
+ref-overhead-squat:
+  path: "/The Archive/Interventions/Therex/Squat/overhead_squat.qmd"
 
 # Microbiology
 ref-microbiology-index:
@@ -2229,15 +2252,14 @@ ref-CRPS-type2:
 
 
 
-## Interventions
 
 ## Pain by region
 ref-pain-neck:
-  path: "/The Archive/Symptoms/Pain symptoms/Pain by region/neck_pain.qmd"
-  acute: "/The Archive/Symptoms/Pain symptoms/Pain by region/neck_pain.qmd#acute-neck-pain"
-  chronic: "/The Archive/Symptoms/Pain symptoms/Pain by region/neck_pain.qmd#chronic-neck-pain"
+  path: "/The Archive/Signs and Symptoms/Pain symptoms/Pain by region/neck_pain.qmd"
+  acute: "/The Archive/Signs and Symptoms/Pain symptoms/Pain by region/neck_pain.qmd#acute-neck-pain"
+  chronic: "/The Archive/Signs and Symptoms/Pain symptoms/Pain by region/neck_pain.qmd#chronic-neck-pain"
 ref-pain-facial:
-  path: "/The Archive/Symptoms/Pain symptoms/Pain by region/facial_pain.qmd"
+  path: "/The Archive/Signs and Symptoms/Pain symptoms/Pain by region/facial_pain.qmd"
 
 ## Pain terms and Taxonomies
 ref-acute-pain:
@@ -2649,9 +2671,9 @@ ref-perception:
   visual: "/The Archive/Neuroscience/Neurophysiology/Perception/percetion_overview.qmd#visual-perception"
   deficits:
     path: "/The Archive/Neuroscience/Neurophysiology/Perception/perception_deficits.qmd"
-    anosognosia: "/The Archive/Symptoms/Neuro Symptoms/Perceptual deficits/anosognosia.qmd"
+    anosognosia: "/The Archive/Signs and Symptoms/Neuro Symptoms/Perceptual deficits/anosognosia.qmd"
 ref-neglect:
-  path: "/The Archive/Symptoms/Neuro Symptoms/Perceptual deficits/neglect.qmd"
+  path: "/The Archive/Signs and Symptoms/Neuro Symptoms/Perceptual deficits/neglect.qmd"
 
 ref-object-permanence:
   path: "/The Archive/Neuroscience/Neurophysiology/Cognition/object_permanence.qmd"
@@ -2662,14 +2684,14 @@ ref-trigeminal-autonomic-reflex:
 
 ### Motor Symptoms
 ref-micrographia:
-  path: "/The Archive/Symptoms/Motor Symptoms/micrographia.qmd"
+  path: "/The Archive/Signs and Symptoms/Motor Symptoms/micrographia.qmd"
 ### Neuro Symptoms
 ref-anosmia:
-  path: "/The Archive/Symptoms/Neuro Symptoms/anosmia.qmd"
+  path: "/The Archive/Signs and Symptoms/Neuro Symptoms/anosmia.qmd"
 ref-ataxia:
-  path: "/The Archive/Symptoms/Neuro Symptoms/Ataxia/ataxia.qmd"
-  vestibular: "/The Archive/Symptoms/Neuro Symptoms/Ataxia/vestibular_ataxia.qmd"
-  visual: "/The Archive/Symptoms/Neuro Symptoms/Ataxia/visual_ataxia.qmd"
+  path: "/The Archive/Signs and Symptoms/Neuro Symptoms/Ataxia/ataxia.qmd"
+  vestibular: "/The Archive/Signs and Symptoms/Neuro Symptoms/Ataxia/vestibular_ataxia.qmd"
+  visual: "/The Archive/Signs and Symptoms/Neuro Symptoms/Ataxia/visual_ataxia.qmd"
 
 ## Neuropathology
 ref-alzheimers-disease:
@@ -2735,47 +2757,57 @@ ref-biomedical-model:
 ref-biopsychosocial-model:
   path: "/The Archive/Psychosocial/biopsychosocial_model.qmd"
 
-# Symptoms
+# signs and Symptoms
 ## Anesthesia
 ref-cervicocephalic-anesthesia:
-  path: "/The Archive/Symptoms/Anesthesia/cervicocephalic_anesthesia.qmd"
+  path: "/The Archive/Signs and Symptoms/Anesthesia/cervicocephalic_anesthesia.qmd"
+
+## blood
+ref-orthostatic-hypotension:
+  path: "/The Archive/Signs and Symptoms/Blood pressure/orthostatic_hypotension.qmd"
+ref-orthostatic-intolerance:
+  path: "/The Archive/Signs and Symptoms/Blood pressure/orthostatic_hypotension.qmd"
+
 ## Ear symptoms
 ref-aural-fullness:
-  path: "/The Archive/Symptoms/Ear symptoms/aural_fullness.qmd"
+  path: "/The Archive/Signs and Symptoms/Ear symptoms/aural_fullness.qmd"
 ref-hearing-loss:
-  path: "/The Archive/Symptoms/Ear symptoms/hearing_loss.qmd"
+  path: "/The Archive/Signs and Symptoms/Ear symptoms/hearing_loss.qmd"
 ref-otalgia:
-  path: "/The Archive/Symptoms/Ear symptoms/otalgia.qmd"
-  primary: "/The Archive/Symptoms/Ear symptoms/otalgia.qmd"
-  secondary: "/The Archive/Symptoms/Ear symptoms/otalgia.qmd"
+  path: "/The Archive/Signs and Symptoms/Ear symptoms/otalgia.qmd"
+  primary: "/The Archive/Signs and Symptoms/Ear symptoms/otalgia.qmd"
+  secondary: "/The Archive/Signs and Symptoms/Ear symptoms/otalgia.qmd"
 ref-tinnitus:
-  path: "/The Archive/Symptoms/Ear symptoms/tinnitus.qmd"
+  path: "/The Archive/Signs and Symptoms/Ear symptoms/tinnitus.qmd"
 ref-vertigo:
-  path: "/The Archive/Symptoms/Ear symptoms/vertigo.qmd"
+  path: "/The Archive/Signs and Symptoms/Ear symptoms/vertigo.qmd"
 ## Eye Symptoms
 ref-eye-symptom:
   path: "/"
-  hemianopsia: "/The Archive/Symptoms/Eye Symptoms/hemianopsia.qmd"
+  hemianopsia: "/The Archive/Signs and Symptoms/Eye Symptoms/hemianopsia.qmd"
 ## Headaches
 ref-tension-type-headache:
-  path: "/The Archive/Symptoms/Headache/tension_type_headache.qmd"
+  path: "/The Archive/Signs and Symptoms/Headache/tension_type_headache.qmd"
 ref-headache:
-  path: "/The Archive/Symptoms/Headache/headache.qmd"
-  cluster: "/The Archive/Symptoms/Headache/cluster_headache.qmd"
+  path: "/The Archive/Signs and Symptoms/Headache/headache.qmd"
+  cluster: "/The Archive/Signs and Symptoms/Headache/cluster_headache.qmd"
 ref-migraine:
-  path: "/The Archive/Symptoms/Headache/migraine.qmd"
+  path: "/The Archive/Signs and Symptoms/Headache/migraine.qmd"
 ## Motor Symptoms
 ref-tremor:
-  path: "/The Archive/Symptoms/Motor Symptoms/Tremors/tremor_overview.qmd"
+  path: "/The Archive/Signs and Symptoms/Motor Symptoms/Tremors/tremor_overview.qmd"
 ref-functional-tremor:
-  path: "/The Archive/Symptoms/Motor Symptoms/Tremors/functional_tremor.qmd"
+  path: "/The Archive/Signs and Symptoms/Motor Symptoms/Tremors/functional_tremor.qmd"
+
+ref-drop-foot:
+  path: "/The Archive/Signs and Symptoms/Motor Symptoms/drop_foot.qmd"
 ## Neuro symptoms
 ## pain symptoms
 ## seizures
 ref-seizure-overview:
-  path: "/The Archive/Symptoms/Seizures/seizure_overview.qmd"
+  path: "/The Archive/Signs and Symptoms/Seizures/seizure_overview.qmd"
 ref-functional-seizure:
-  path: "/The Archive/Symptoms/Seizures/functional_seizure.qmd"
+  path: "/The Archive/Signs and Symptoms/Seizures/functional_seizure.qmd"
 
 # Surgery
 

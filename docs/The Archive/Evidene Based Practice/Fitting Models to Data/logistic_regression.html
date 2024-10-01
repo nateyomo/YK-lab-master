@@ -9,7 +9,7 @@
 <meta name="author" content="Nathaniel Yomogida">
 <meta name="author" content="Chloë Kerstein">
 
-<title>Logistic Regression – YK Lab</title>
+<title>Logistic Regression</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -129,8 +129,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../../index.html">
-    <span class="navbar-title">YK Lab</span>
+    <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../images/square 2 lines mid.svg" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -181,7 +181,7 @@ window.Quarto = {
    
   <ul>
   <li><a href="#function" id="toc-function" class="nav-link active" data-scroll-target="#function">Function</a></li>
-  <li><a href="#calculation" id="toc-calculation" class="nav-link" data-scroll-target="#calculation">Calculation</a></li>
+  <li><a href="#comparison-to-other-regressions" id="toc-comparison-to-other-regressions" class="nav-link" data-scroll-target="#comparison-to-other-regressions">Comparison to other regressions</a></li>
   </ul>
 </nav>
     </div>
@@ -239,12 +239,30 @@ window.Quarto = {
 <section id="function" class="level1">
 <h1>Function</h1>
 </section>
-<section id="calculation" class="level1">
-<h1>Calculation</h1>
-<p>Recall that in Chapter 9 we referred to regression analysis involving only two variables as simple linear regression analysis. The simple linear regression model was expressed by the equation</p>
+<section id="comparison-to-other-regressions" class="level1">
+<h1>Comparison to other regressions</h1>
+<div class="columns">
+<div class="column">
+<p>Simple linear regression involving two variables:</p>
+<ul>
+<li><span class="math inline">\(y\)</span> is an arbitrary observed value of the continuous dependent variable</li>
+<li><span class="math inline">\(\epsilon\)</span> is the difference between observed <span class="math inline">\(y\)</span> and the regression line</li>
+</ul>
 <p><span class="math display">\[
-y = \beta_0 + \beta_1 x
+y = \beta_0 + \beta_1 x + \epsilon
 \]</span></p>
+</div><div class="column">
+<p>Logistic Regression</p>
+<ul>
+<li>The observed value of Y is 𝜇y|x, the mean of a subpopulation of Y values for a given value of X</li>
+<li><span class="math inline">\(\epsilon\)</span> is 0 (therefore not included in the formula)</li>
+<li>the difference between the observed Y and the regression line (see Figure 9.2.1) is zero, and we may write Equation 11.4.1 as</li>
+</ul>
+<p><span class="math display">\[
+\mu_y|x = \beta_0 + \beta_1 x
+\]</span></p>
+</div>
+</div>
 
 
 

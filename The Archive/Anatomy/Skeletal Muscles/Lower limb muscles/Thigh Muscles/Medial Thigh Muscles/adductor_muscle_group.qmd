@@ -23,7 +23,7 @@ Pectineus, adductor longus, gracilis, adductor brevis, and adductor magnus are c
 library(here)
 
 # Source the functions script
-source(here("scripts/functions.R"))
+source(here("scripts/gt_oian.R"))
 
 # Example usage
 identifier_col <- "functional_group_identifier"

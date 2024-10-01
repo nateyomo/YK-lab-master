@@ -20,7 +20,7 @@ There are 4 muscles that make up the anterior compartment of the leg:
 library(here)
 
 # Source the functions script
-source(here("scripts/functions.R"))
+source(here("scripts/gt_oian.R"))
 
 # Example usage
 identifier_col <- "group_identifier"

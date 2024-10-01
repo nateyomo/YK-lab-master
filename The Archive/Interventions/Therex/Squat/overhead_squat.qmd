@@ -3,9 +3,25 @@ title: Overhead Squat (OH Squat)
 ---
 
 
+# Evaluation
+
+Used in [SFMA]({{< var ref-selective-functional-movement-assessment.path >}})
+
+## Technique
 
 
+::: {.panel-tabset}
 
+## SFMA
+
+- Feet pointed forward
+- Feet shulder width apart
+- Hold dowel overhead
+
+## Other
+
+
+:::
 
 
 
@@ -48,3 +64,10 @@ title: Overhead Squat (OH Squat)
 
 - Motor control vs mobility issue
 - Positional isometrics = Right cueing for putting the pt in the correct positions and training motor control there
+
+
+
+# Hypertrophy Training
+
+
+# Functional Training

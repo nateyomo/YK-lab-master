@@ -2,3 +2,14 @@
 title: Total Knee Arthroplasty
 subtitle: Overview
 ---
+
+
+
+
+
+
+# Complications
+
+## Orthostatic Hypotension
+
+Kurkis found that the application of an adductor block did not significantly rates of [orthostatic intolerance]({{< var ref-orthostatic-intolerance.path >}}) @kurkisIncidenceRiskFactors2022.

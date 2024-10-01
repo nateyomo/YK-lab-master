@@ -18,6 +18,23 @@ subtitle: Total hip replacement
 "A total	hip	arthroplasty is often performed when a person with hip disease, most often osteoarthritis, has pain or immobility that significantly limits function and quality of life. This popular operation replaces the diseased or degenerated acetabulum and/or femoral head with relatively biologically inert materials, typi­ cally some combination of ceramic, metal, or polyethylene39 (Fig. 12.51). A prosthetic hip may be secured by cement or through biologic fixation provided by bone growth into the surface of the implanted components. Although the total hip arthroplasty is typically a successful procedure, a small percentage of patients may experience premature loosening, failure, or dislocation of the femoral and/or acetabular components.30,114,118,156 Large torsional loads between the prosthetic implant and the bony interface may contribute to the loss of fixation. Additionally, complications may arise from debris shed from worn implanted components, result­ ing in osteolysis and weakening of the surrounding bone. Despite these potential complications, the total hip arthroplasty remains a highly regarded surgery in terms of reducing pain and improving function.143 Until sufficient long­term data emerge from clinical trials, the debate continues regarding the most durable and safe materials, effective methods of fixation and implantation, and the most successful surgical approach (for example, anterior versus posterior to the hip).*" @neumannKinesiologyMusculoskeletalSystem2017
 
 
+# Complications
+
+## Orthostatic Hypotension
+
+# THA OI 
+
+MV revealed that THA is much 4.86 higher odds of having experiencing OI than TKA or UKA @kurkisIncidenceRiskFactors2022.
+
+## Approach
+
+THA approach demonstrated statistically significant differences in rates of OI @kurkisIncidenceRiskFactors2022.
+
+- Anterior (21.4% OI)
+- Anterolateral (20.7% OI)
+- Posterolateral (37.9% OI)
+- p=0.04 @kurkisIncidenceRiskFactors2022
+
 
 # Inpatient Rehab
 

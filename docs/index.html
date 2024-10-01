@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Nathaniel Yomogida">
-<meta name="author" content="Chloë Kerstein">
 
-<title>YK Lab</title>
+<title>index</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -44,6 +42,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -52,11 +53,9 @@ ul.task-list li input[type="checkbox"] {
   "type": "overlay",
   "limit": 50,
   "keyboard-shortcut": [
-    "f",
-    "/",
-    "s"
+    "?",
+    "H"
   ],
-  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -83,8 +82,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">YK Lab</span>
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/square 2 lines mid.svg" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -140,37 +139,16 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 
-<div class="quarto-title-meta-author">
-  <div class="quarto-title-meta-heading">Authors</div>
-  <div class="quarto-title-meta-heading">Affiliations</div>
-  
-    <div class="quarto-title-meta-contents">
-    <p class="author">Nathaniel Yomogida, B.S., SPT </p>
-  </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            Doctor of Physical Therapy
-          </p>
-        <p class="affiliation">
-            B.S. in Kinesiology
-          </p>
-      </div>
-    <div class="quarto-title-meta-contents">
-    <p class="author">Chloë Kerstein, B.S., SPT </p>
-  </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            Doctor of Physical Therapy
-          </p>
-        <p class="affiliation">
-            B.A. in Neuroscience
-          </p>
-      </div>
-  </div>
 
 <div class="quarto-title-meta">
 
-      
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p> </p>
+          </div>
+  </div>
+    
   
     
   </div>
@@ -180,7 +158,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Welcome to the Yomogida &amp; Kerstein Lab website</p>
+<p><a href="./branding/square logo/square 3 lines full.svg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="./branding/square logo/square 3 lines full.svg" class="img-fluid"></a></p>
 <ul>
 <li><a href="./The Archive/archive_index.html"><strong>The Archive</strong></a>: A database for information, ranging from anatomy, microbiology, neurology, Patient examination, and rehabilitation.</li>
 <li><a href="./about.html"><strong>About</strong></a>: Read more about the authors of the site</li>
@@ -756,6 +734,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","selector":".lightbox","loop":false,"openEffect":"zoom"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

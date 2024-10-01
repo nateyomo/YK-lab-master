@@ -17,7 +17,7 @@ C5 and [C6]({{< var ref-nerve-root.c6 >}}) contribute to the [Superior trunk]({{
 library(here)
 
 # Source the functions script
-source(here("scripts/functions.R"))
+source(here("scripts/gt_oian.R"))
 
 # Example usage
 identifier_col <- "root_identifier"  # or "group_identifier"

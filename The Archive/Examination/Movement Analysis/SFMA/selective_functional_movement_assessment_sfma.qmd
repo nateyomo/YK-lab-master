@@ -1,0 +1,85 @@
+---
+title: Selective Functional Movement Assessment (SFMA)
+subtitle: General musculoskeletal movement screen
+---
+
+
+# Purpose
+
+observe movement restrictions in individuals with known musculoskeletal disorders
+
+
+
+# Techniques
+
+## Deep Squat
+
+Although this is labeled the "Deep squat" in SFMA, this would be colloquially considered an [overhead squat]({{< var ref-overhead-squat.path >}})
+
+::: {.columns}
+::: {.column}
+Instructions
+
+- Feet pointed forward
+- Feet shulder width apart
+- Hold dowel overhead
+
+:::
+::: {.column}
+
+Bilateral, symmetrical, functional mobility of:
+
+- Hips
+- Knees
+- Ankles
+
+:::
+:::
+
+
+## Hurdle step
+
+
+::: {.columns}
+::: {.column}
+Technique
+
+
+
+:::
+::: {.column}
+
+Assessment
+
+- Bilateral, symmetrical, functional mobility and stability of:
+    - Hips
+    - Knees
+    - Ankles
+
+:::
+:::
+
+## In-Line lunge
+
+
+::: {.columns}
+::: {.column}
+Technique
+
+
+
+:::
+::: {.column}
+
+Assessment
+
+- Stability & mobility
+    - Torso
+    - Shoulder
+    - Hip
+    - Knee
+    - Ankle
+- Quadricep flexibility
+
+:::
+:::

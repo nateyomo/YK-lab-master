@@ -1,0 +1,24 @@
+---
+title: Cortisone
+subtitle: Corticosteroid
+---
+
+
+# Use case
+
+- Occassional use
+- Application at the *inception* of an acute injury
+
+# Problems
+
+
+
+:::{.callout title="via Gary Brekka"}
+
+- cytotoxic to fibrobalsts
+- ligamentous laxity
+- the body naturally brings blood cells to the site of injury, but cortisone blocks this, so you are essnetially preventing natural PRP therapy the body is attempting to perform
+
+"Overuse of cortisone has prematurely ended many professional sport careers, the most notable example being Joe Montana"
+
+:::

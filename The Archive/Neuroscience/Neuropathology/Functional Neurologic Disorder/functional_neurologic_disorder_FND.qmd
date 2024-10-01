@@ -288,7 +288,7 @@ While a functional tremor will entrain with distraction, an organic tremor will 
 :::
 
 
-```{r}
+```{r functional-tremor-table}
 #| echo: false
 #| warning: false
 #| message: false
