@@ -1,0 +1,165 @@
+---
+title: Sexual Functioning After Spinal Cord Injury
+subtitle: Inpatient Physical Therapy Inservice
+date: 9-12-2024
+author:
+- id: CAK
+  number: 2
+  name: 
+    given: Chloë
+    family: Kerstein
+  affiliation:
+    - Doctor of Physical Therapy
+    - B.A. in Neuroscience
+  degrees:
+    - B.S.
+    - SPT
+
+---
+
+
+# Summary
+
+- After a [spinal cord injury]({{< var ref-spinal-cord-injury.path >}}), it is still possible to enjoy sex!
+- The degree of sexual dysfunction will depend on the [level of injury]({{< var ref-spinal-cord-injury.level-of-injury >}}), [completeness]({{< var ref-spinal-cord-injury.completeness >}}), medications, psychological factors, etc. Currently it is impossible to accurately predict an individual’s potential based on only level/completeness of lesion. 
+- People with lesions at T6 neurological level and above need to be aware that sexual stimulation (orgasm & ejaculation) and childbirth increase risk of [Autonomic Dysreflexia]({{< var ref-autonomic-dysreflexia.path >}})
+
+# Male
+
+## Definitions
+
+- Reflex erection: from direct stimulation to genital area 
+- Psychogenic erection: stimulated by sights, smells, sounds, thoughts
+- Emission: semen traveling in preparation for ejaculation
+
+## Complete Injury above T11-L2 spinal cord level
+
+Reflex Erection possible, not psychogenic. This makes erection possible, but quality/maintaining an erection difficult. If SCI at this level, may preserve both erections.
+Emission/ejaculation likely impaired
+Complete Injury between T11-L2 and S2-S4
+Psychogenic erection possible
+Reflexotenic erection possible
+Emission and ejaculation likely impaired 
+Incomplete Injuries 
+Erection possible, but quality/maintaining an erection may be impaired
+Ejaculation is rare but more likely to be spared with incomplete than complete SCI.
+
+
+## Treatments for Erectile Function
+
+
+*Consult with your doctor!
+Medications 
+Taken by mouth: Viagra, Levitra, Cialis etc
+Injectables ie) Caverject
+Vacuum pump w/ penile ring
+Cylinder placed over penis, drawing blood into penis for erection. Ring placed at base to keep erection for longer. Use < 30 min
+Surgical implants
+Is ejaculation still possible?
+Penile vibratory stimulation (PVS)
+Vibrator applied to head of penis to stimulate an ejaculation
+Electroejaculation
+Done for sperm retrieval when PVS fails. Electrical stimulation probe inserted into rectum so that an ejaculation occurs. 
+Surgical Sperm Retrieval/Prostate massage
+
+
+# Female
+
+Women
+Definitions:
+Lubrication: secretion of mucus 
+Vasocongestion: engorgement of erectile tissues in clitoris, vagina, labia
+Complete injury above T11-L2
+More likely to exhibit reflexive arousal, but not psychological arousal. So, more likely in response to manual stimulation in the clitoris region, but not to audio/visual stimuli/thoughts. 
+Many will experience decreased vaginal lubrication
+Contraction of pelvic musculature likely impaired
+Complete injury between T11-L2 and S2-S4
+More likely to exhibit psychological and reflexogenic arousal
+Many will experience decreased vaginal lubrication
+Contraction of pelvic musculature likely impaired
+Incomplete injuries 
+Lubrication/vasocongestion possible, but may experience decreased vaginal lubrication.
+Contraction of pelvic musculature is rare but more likely to be spared than in complete injuries. 
+Decreased vaginal lubrication?
+Use lubricant before sex!
+Menstrual cycle changes?
+Menstrual cycle may cease for 3-6 months (or longer in some cases) after SCI then will resume
+Can I still carry a baby/are there fertility changes?
+SCI does not change fertility in females
+SCI does not impact ability to carry babies to full term
+Vaginal delivery is common, no increased incidence of cesarean sections
+Risks with pregnancy: Autonomic dysreflexia (T6 and above), anemia, UTI, DVTs, pressure ulcers, respiratory compromise, constipation, premature labor and low birth weight are slightly more common in this population
+Contraceptives?
+Oral : increased risk of DVTs
+IUD: may be unable to feel if it perforates the uterus
+
+
+
+
+# Other 
+
+## Fertility
+
+- While men with SCI have options to assist with semen samples and have normal sperm numbers, SCI affects motility of sperm. 
+- SCI does **not** change female fertility
+- Medically assisted procedures are available (gamete intrafallopian transfer, in vitro fertilization, intracytoplasmic sperm injection, etc) 
+- Can be financially/ emotionally taxing
+
+
+## Orgasm
+
+- Does not need to be associated with a physical response, it is a pleasurable, subjective experience
+- Climax can be achieved through intense cerebral stimulation or stimulation of areas above level of injury (lowest areas of intact sensation are most sensitive usually)
+- More likely if S2-S4 cord segments remain functional. Men with incomplete injuries are more likely to experience orgasm than men with complete injuries. Completeness of injury does not predict orgasm functioning with females. 
+- Can increase spasticity just before or during orgasm
+- After orgasm, spasticity may decrease
+
+## Autonomic dysreflexia during sex? 
+
+- Can be triggered by sex but not a major threat if handled appropriately
+- Especially if you feel a headache starting to occur during sexual stimulation, stop stimulation briefly and this should resolve the headache. When it does, resume activity, avoiding the stimulation that brought headache on.
+- What if I have a reflexively functioning bladder/bowel?
+- Stimulation of pelvic structures can initiate voiding reflex
+
+Suggestions: 
+
+- Empty bladder immediately prior to sex 
+- Do not drink large amounts of water before
+- If it happens, remember what stimulated the voiding and avoid that if it becomes a pattern
+- Time it so that sex occurs when bladder function is least likely (depends on daily routine)
+
+## Catheters
+
+- Can remove before or keep in place
+- Men with urethral catheters can fold along the side of penis, cover it with a condom or leave uncovered and lubricate well
+- Women with urethral catheters can lubricate it or tape to abdomen/thigh out of way
+- Women with suprapubic catheters can tape it to abdomen
+
+
+# Resources
+
+## Groups
+
+[SexSci.me](https://sexscime.nz/resources/ )
+Collaborative forum between people with SCI, health practitioners, etc 
+
+## Sex Aids
+
+[Intimate Rider](https://www.intimaterider.com/)
+
+- Disability Sex Aids for Couples with Limited Mobility
+
+
+[Liberator wedge](https://www.liberator.com/liberator-wedge-sex-pillow.html)
+
+- Pillow/Wedge 
+
+[MSKTC](https://msktc.org/sci/factsheets/sexuality-sexual-functioning-after-sci)
+
+- Informational page
+
+
+[Dr. Mitchell Tepper](https://www.drmitchelltepper.com/sex_and_paralysis_video_series)
+
+- Sex and paralysis video series
+

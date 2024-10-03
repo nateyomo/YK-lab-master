@@ -9,15 +9,14 @@ author:
     given: Nathaniel
     family: Yomogida
   affiliation:
-    - Yomogida-Kerstein Lab
+    - "Yomogida-Kerstein Laboratory"
   degrees:
     - B.S.
     - DPT
 
 format:
-    pptx: default
     revealjs: 
-        logo: "YK LAB"
+        logo: "/images/square 2 lines mid.svg"
         slide-number: true
         preview-links: auto
         css: styles.css
@@ -63,9 +62,6 @@ Post-operative complications can cause inpatient physical therapists to attempt 
 ## Patient Presentation
 
 On average, most orthostatic events occur within the first 12 hours *after* the surgical procedure, but can occur up to 48 hours after surgery @kurkisIncidenceRiskFactors2022.
-
-
-
 
 ## Etiology
 
@@ -218,6 +214,10 @@ Day Positioning
 
 Physical countermaneuvers can be performed to reduce *venous capacitance*, resulting in increased total peripheral resistance which assists venous return to the heart @figueroaPreventingTreatingOrthostatic2010.
 
+---
+
+## Exercise
+
 ::: {.columns}
 ::: {.column}
 Dosage
@@ -242,7 +242,9 @@ Examples
 
 ## Patient Education
 
-Considered the "single most iimportant factor" in orthostatic hypotension management by Figueroa @figueroaPreventingTreatingOrthostatic2010.
+Considered the "single most important factor" in orthostatic hypotension management by Figueroa @figueroaPreventingTreatingOrthostatic2010.
+
+---
 
 Items to consider:
 
@@ -250,6 +252,7 @@ Items to consider:
 1. There is no specific treatment of the underlying cause and that drug treatment alone is not adequate @figueroaPreventingTreatingOrthostatic2010.
 1. Nonpharmacologic approaches and be aware that other drugs they start may worsen symptoms @figueroaPreventingTreatingOrthostatic2010.
 
+---
 
 Educate the patient on environmental stressors
 

@@ -1,0 +1,46 @@
+---
+title: Tendons of the Knee
+---
+
+
+
+
+# Posterior Knee
+
+There are 5 distinct tendons of the posterior knee:
+
+1. Iliotibial band ({{< var ref-iliotibial-band.path >}}) (most lateral)
+1. [Biceps femoris long head]({{< var ref-biceps-femoris-long-head.path >}})
+1. [Semitendinosus]({{< var ref-semitendinosus.path >}})
+1. [Gracilis]({{< var ref-gracilis.path >}})
+1. [Sartorius]({{< var ref-sartorius.path >}}) (most medial)
+
+# Palpation
+
+## Postero-lateral tendons
+
+1. Position patient in sidelying on contralateral side @bielTrailGuideBody2019.
+1. Ask patient to flex knee to 45&deg; @bielTrailGuideBody2019.
+1. [Biceps femoris long head tendon (BFLH)]({{< var ref-biceps-femoris-long-head.path >}}) and [semitendinosus tendon]({{< var ref-semitendinosus.path >}}) will be most prominent @bielTrailGuideBody2019.
+
+:::{.callout-note}
+
+To make these tendons more prominent, place your hand on the ankle to add an extension force so your partner can perform resisted knee flexion @bielTrailGuideBody2019
+:::
+
+1. Follow the [BFLH tendon]({{< var ref-biceps-femoris-long-head.path >}}) as it extends down to the [head of the fibula]({{< var ref-biceps-femoris-long-head.insertion >}}) @bielTrailGuideBody2019.
+1. Move laterally ~1 inch from the [BFLH]({{< var ref-biceps-femoris-long-head.path >}}) to palpate the [IT band]({{< var ref-iliotibial-band.path >}}) @bielTrailGuideBody2019.
+
+## Posteromedial tendons
+
+1. Position the patient in supine @bielTrailGuideBody2019.
+1. Abduct the patient's leg so you can access the medial knee @bielTrailGuideBody2019.
+1. The most prominent tendon will be the slender [semitendinosus tendon]({{< var ref-semitendinosus.path >}}) @bielTrailGuideBody2019.
+1. Move anteriorly from the semitend to palpate the equally slender [gracilis tendon]({{< var ref-gracilis.path >}}) @bielTrailGuideBody2019.
+1. Anterior to the gracilis tendon is the long and skinny tendon of the [sartorius]({{< var ref-sartorius.path >}}) @bielTrailGuideBody2019.
+
+:::{.callout-note}
+Although the sartorius' tendon is long and skinny, it is wider relative to the gracilis tendon, which can cause it to be difficult to isolate @bielTrailGuideBody2019.
+:::
+
+1. If you follow all 3 of these tendons distally, they will merge into the [pes anserine tendon]({{< var ref-pes-anserine.path >}}) which inserts onto Gerdy's tubercle of the antero-medial aspect of the proximal tibia.

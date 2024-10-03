@@ -6,16 +6,11 @@ author: []
 # Anatomy 
 
 
-
-## Vasculature
-
 - Vasculature
 
-## Bones
+[{{< iconify hugeicons bone-01 size=5x >}} </br> Bones]({{< var ref-bone-index.path >}}){.btn .btn-outline-primary .btn role="button"}
 
-- [Bones]({{< var ref-bone-index.path >}})
 
-## Muscles
 - [Muscle OIAN List]({{< var ref-oians.path >}})
 
 ::: {.columns}
@@ -27,22 +22,19 @@ author: []
 :::
 :::
 
-## Connective Tissue
 - Connective Tissue
     - Ligaments
 
-## Nervous system
 - Nervous System
     - [Nerves]({{< var ref-nerve-index.path >}})
+    - [Nerve Roots]
     - [Neuroanatomy]({{< var ref-index-neuroanatomy.path >}})
 
 [{{< iconify mdi brain size=5x >}} </br> Neuroanatomy]({{< var ref-index-neuroanatomy.path >}}){.btn .btn-outline-primary .btn role="button"}
 
 
-
 [![](/icons/noun-nerve-cell-5848133.svg) </br> Neuroanatomy]({{< var ref-index-neuroanatomy.path >}}){.btn .btn-outline-primary .btn role="button"}
 
-## Muscles
 
 # Biomechanics
 

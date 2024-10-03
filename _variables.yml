@@ -121,6 +121,7 @@ ref-coxal-bone:
   path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/coxal_bone.qmd"
   asis: "/The Archive/Anatomy/Bones/Lower Extremity Bones/coxal_bone.qmd#asis"
   aiis: "/The Archive/Anatomy/Bones/Lower Extremity Bones/coxal_bone.qmd#aiis"
+  psis: "/The Archive/Anatomy/Bones/Lower Extremity Bones/coxal_bone.qmd#psis"
 ref-femur-bone:
   path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/femur_bone.qmd"
   intertrochanteric-line: "/The Archive/Anatomy/Bones/Lower Extremity Bones/femur_bone.qmd#intertrochanteric-line"
@@ -241,6 +242,12 @@ ref-glenohumeral-joint:
   capsule: "/The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.qmd#capsule"
 
 ## Tendon
+
+### Lower extremity tendon
+ref-iliotibial-band:
+  path: "/The Archive/Anatomy/Connective tissue/Tendon/Lower Extremity Tendons/iliotibial_band.qmd"
+knee-tendons:
+  path: "/The Archive/Anatomy/Connective tissue/Tendon/Lower Extremity Tendons/knee tendons/knee_tendons_overview.qmd"
 ref-pes-anserine:
   path: "/The Archive/Anatomy/Connective tissue/Tendon/Lower Extremity Tendons/pes_anserine.qmd"
 ref-patellar-tendon:
@@ -1352,7 +1359,7 @@ ref-dorsal-interossei-foot:
 
 ## Nerve root
 ref-nerve-root:
-  path: "/"
+  path: "/The Archive/Anatomy/Nerve Roots/nerve_root_overview.qmd"
   c1: "/The Archive/Anatomy/Nerve Roots/c1_nerve_root.qmd"
   c2: "/The Archive/Anatomy/Nerve Roots/c2_nerve_root.qmd"
   c3: "/The Archive/Anatomy/Nerve Roots/c3_nerve_root.qmd"
@@ -2718,9 +2725,14 @@ ref-parkinsons-disease:
 ### Spinal Cord Injury
 ref-spinal-cord-injury:
   path: "/The Archive/Neuroscience/Neuropathology/SCI/spinal_cord_injury.qmd"
+  level-of-injury: "/The Archive/Neuroscience/Neuropathology/SCI/spinal_cord_injury.qmd#level-of-injury"
+  completeness: "/The Archive/Neuroscience/Neuropathology/SCI/spinal_cord_injury.qmd#completeness"
   isncsci: "/The Archive/Neuroscience/Neuropathology/SCI/SCI Examination/ISNCSCI.qmd"
   anterior-cord-syndrome: "/The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/anterior_cord_syndrome.qmd"
   brown-sequard-syndrome: "/The Archive/Neuroscience/Neuropathology/SCI/Clinical Syndromes/brown-sequard_syndrome.qmd"
+ref-autonomic-dysreflexia:
+  path: "/The Archive/Neuroscience/Neuropathology/SCI/autonomic_dysreflexia.qmd"
+### Stroke / # CVA
 ref-stroke:
   path: "/The Archive/Neuroscience/Neuropathology/Stroke/Stroke.qmd"
 ref-traumatic-brain-injury:

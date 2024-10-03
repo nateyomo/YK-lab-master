@@ -10,9 +10,10 @@ title: Sartorius Muscle
 
 :::
 
-# Overview
 
-```{r}
+
+
+```{r sartorius-oian-table}
 #| echo: false
 #| warning: false
 #| message: false
@@ -35,12 +36,19 @@ gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_titl
 gt_table
 ```
 
+# Overview
+The Sartorius comes from latin *sartor* meaning "tailor" since it moves the leg into the cross-legged sitting position a tailor would use when sewing ( hip abduction, external rotation, and flexion) [@bielTrailGuideBody2019; @neumannKinesiologyMusculoskeletalSystem2017].
+
+The sartorius is the longest muscle in the body [@bielTrailGuideBody2014; @neumannKinesiologyMusculoskeletalSystem2017].
+
+The sartorius is a fusiform muscle @neumannKinesiologyMusculoskeletalSystem2017.
+
 # Origin {#origin}
 [ASIS]({{< var ref-coxal-bone.asis >}})
 
 # Insertion {#insertion}
 
-Medial to the Tibial Tuberosity ([Pes Anserine]({{< var ref-pes-anserine >}})) @gilroyAtlasAnatomy2020
+Medial to the Tibial Tuberosity via the[Pes Anserine]({{< var ref-pes-anserine >}}) tendon @gilroyAtlasAnatomy2020
 
 
 # Nerve
@@ -52,7 +60,44 @@ Medial to the Tibial Tuberosity ([Pes Anserine]({{< var ref-pes-anserine >}})) @
 - **Knee**: Flexion, IR @gilroyAtlasAnatomy2020 
 
 
+# Palpation {#palpation}
 
-# Overview
+1. Supine @bielTrailGuideBody2019
+1. Ipsilateral foot resting on the opposite knee @bielTrailGuideBody2019
+1. Ipsilateral hip in flexion, external rotation and slight abduction @bielTrailGuideBody2019.
 
-"sartorius, the longest muscle in the body, originates at the anterior­superior iliac spine (see Fig. 12.26). This thin, fusiform muscle courses distally and medially across the thigh to attach on the medial surface of the proximal tibia (see Fig. 13.7). The name sartorius is based on the Latin root sartor, referring to a tailor’s position of cross­legged sitting, which happens to describe the muscle’s combined action of hip flexion, external rotation, and abduction." @neumannKinesiologyMusculoskeletalSystem2017
+1. Place hand along the middle of the medial thigh @bielTrailGuideBody2019.
+1. Instruct the patient to contract the sartorius (raise their knee toward the ceiling) @bielTrailGuideBody2019.
+1. "strum" your fingers across the sartorius
+1. Follow the muscle from its superior-lateral origin distally to its inferior-medial insertion @bielTrailGuideBody2019.
+1. Ask the patient to relax
+1. Continue to palpate
+
+:::{.callout-note}
+Note how the sartorius curves from the [ASIS](#origin) to the medial side of the thigh
+:::
+
+:::{layout-ncol="2"}
+## Width
+
+- The sartorius and [gracilis]({{< var ref-gracilis.path >}}) are slender muscles, especially when compared to the [quadriceps]({{< var ref-quadriceps-femoris.path >}}) @bielTrailGuideBody2019.
+- The muscle belly of the sartorius should be "2 fingers" wide and superficial @bielTrailGuideBody2019.
+
+## Depth
+
+The sartorius should be superficial since it runs above the [quadriceps]({{< var ref-quadriceps-femoris.path >}}) and other muscles of the thigh.
+
+## Position
+
+If you are palpating the sartorius, you will be *medial* to the [vastus medialis]({{< var ref-vastus-medialis.path >}}) muscle belly @bielTrailGuideBody2019.
+
+## Direction
+
+The sartorius and gracilis both insert on the common tendon of the [Pes Anserine]({{< var ref-pes-anserine >}}), causing it to be difficult to differentiate between these two muscles distally.
+
+The best way to differentiate between these two muscles is to follow the direction of their muscle belly proximally.
+
+- The sartorius will course superior laterally toward the [ASIS](#origin)
+- The [gracilis]({{< var ref-gracilis.origin >}}) will course superior-medially towards it origin at the *pubic tubercle*.
+
+:::

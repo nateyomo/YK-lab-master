@@ -3,9 +3,7 @@
   "result": {
     "engine": "knitr",
     "markdown": "---\ntitle: T1 Nerve Root (T1)\n---\n\n\n\n\n# Motor Innervation\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-error}\n\n```\nError in vapply(non_na_text, FUN.VALUE = character(1L), USE.NAMES = FALSE, : values must be length 1,\n but FUN(X[[1]]) result is length 0\n```\n\n\n:::\n:::\n\n\n\n# Lesion\n\n\"Sensory disturbances occur on the medial arm. Paresis occurs variably in the following muscles: abductor pollicis brevis, opponens pollicis, flexor pollicis brevis, all lumbricals and interossei, abductor digiti minimi, opponens digiti minimi, flexor digiti minimi, and adductor pollicis [16]. The finger flexor reflex (C8 T1) may be depressed. Sympathetic fibers destined for the superior cervical ganglia are interrupted, resulting in an ipsilateral Horner syndrome.\" @brazisLocalizationClinicalNeurology2022\n\n# Examination\n\n## Muscle Strength\n\n\"Hand Intrinsics (T1) The patient is asked to squeeze the clinician’s fingers between their fingers while the clinician tries to pull their fingers away (Fig. 25-30). Based on the findings from the history, systems review, and key muscle testing, a sensory examination may be necessary (see Chapter 3).\" @duttonDuttonOrthopaedicExamination2020",
-    "supporting": [
-      "t1_nerve_root_files"
-    ],
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

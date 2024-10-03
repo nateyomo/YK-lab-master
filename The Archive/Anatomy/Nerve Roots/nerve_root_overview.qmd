@@ -1,0 +1,48 @@
+---
+title: Nerve Root Overview
+---
+
+
+# Cervical Nerve Roots
+
+- [C1]({{ ref_nerve_root.c1 }})
+- [C2]({{ ref_nerve_root.c2 }})
+- [C3]({{ ref_nerve_root.c3 }})
+- [C4]({{ ref_nerve_root.c4 }})
+- [C5]({{ ref_nerve_root.c5 }})
+- [C6]({{ ref_nerve_root.c6 }})
+- [C7]({{ ref_nerve_root.c7 }})
+- [C8]({{ ref_nerve_root.c8 }})
+
+# Thoracic nerve roots
+
+- [T1]({{ ref_nerve_root.t1 }})
+- [T2]({{ ref_nerve_root.t2 }})
+- [T3]({{ ref_nerve_root.t3 }})
+- [T4]({{ ref_nerve_root.t4 }})
+- [T5]({{ ref_nerve_root.t5 }})
+- [T6]({{ ref_nerve_root.t6 }})
+- [T7]({{ ref_nerve_root.t7 }})
+- [T8]({{ ref_nerve_root.t8 }})
+- [T9]({{ ref_nerve_root.t9 }})
+- [T10]({{ ref_nerve_root.t10 }})
+- [T11]({{ ref_nerve_root.t11 }})
+- [T12]({{ ref_nerve_root.t12 }})
+
+# Lumbar Nerve Roots
+
+- [L1]({{ ref_nerve_root.l1 }})
+- [L2]({{ ref_nerve_root.l2 }})
+- [L3]({{ ref_nerve_root.l3 }})
+- [L4]({{ ref_nerve_root.l4 }})
+- [L5]({{ ref_nerve_root.l5 }})
+
+# Sacral Nerve roots
+
+- [S1]({{ ref_nerve_root.s1 }})
+- [S2]({{ ref_nerve_root.s2 }})
+- [S3]({{ ref_nerve_root.s3 }})
+- [S4]({{ ref_nerve_root.s4 }})
+- [S5]({{ ref_nerve_root.s5 }})
+
+# Coccygeal nerve roots

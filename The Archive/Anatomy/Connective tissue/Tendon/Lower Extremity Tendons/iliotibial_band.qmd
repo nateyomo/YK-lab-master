@@ -1,5 +1,8 @@
 ---
 title: Iliotibial Band (IT Band)
+keywords:
+    - Iliotibial band
+    - Iliotibial tract
 ---
 
 

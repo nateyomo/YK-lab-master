@@ -15,7 +15,7 @@ title: Tibialis Anterior Muscle
 
 # Overview
 
-```{r}
+```{r gt-oian}
 #| label: tbl-oian-tibialis-anterior
 #| echo: false
 #| warning: false

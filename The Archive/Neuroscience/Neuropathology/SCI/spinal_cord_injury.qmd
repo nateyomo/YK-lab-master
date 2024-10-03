@@ -9,6 +9,26 @@ title: Spinal Cord Injury (SCI)
 
 
 
+# Level of injury {#level-of-injury}
+
+Level of injury can be defined using two different anatomical methods:
+
+1. [Vertebral column level](#level-of-injury-vertebral-column)
+1. [Spinal cord level](#level-of-injury-spinal-cord-level)
+
+## Vertebral column {#level-of-injury-vertebral-column}
+
+The level of injury could communicated relative to the vertebral column.
+For example one could say a spinal cord injury at T12 *vertebral body*.
+
+## Spinal cord level {#level-of-injury-spinal-cord-level}
+
+# Completeness {#completeness}
+
+Completeness of the spinal cord injury refers to how much of the the spinal cord was damaged in the injury.
+For example, a "complete" spinal cord injury would injury the entire cross-section and no sensation would be able to come up the spinal cord and no motor would be able to be sent inferior of this section.
+
+
 # Functional Categories
 
 Spinal cord injuries can be divided into two functional categories: tetraplegia and paraplegia @osullivanPhysicalRehabilitation2019

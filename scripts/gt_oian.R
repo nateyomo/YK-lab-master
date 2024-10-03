@@ -29,49 +29,51 @@ gt_oian <- function(identifier_col, filter_patterns, display_columns, table_titl
   }
 
   format_action_content <- function(action_title_col, action_text_col, action_link_col, action_citation_col) {
-    # Create a named list to store action items by action_title, allowing for blank titles
-    action_list <- split(action_text_col, action_title_col)
-    link_list <- split(action_link_col, action_title_col)
-    citation_list <- split(action_citation_col, action_title_col)
-    
-    # Initialize a list to store the formatted output
+    action_title_col[is.na(action_title_col) | action_title_col == ""] <- "<No Title>"
+    action_list <- split(action_text_col, action_title_col, drop = FALSE)
+    link_list <- split(action_link_col, action_title_col, drop = FALSE)
+    citation_list <- split(action_citation_col, action_title_col, drop = FALSE)
+
     formatted_items <- lapply(names(action_list), function(title) {
         items <- action_list[[title]]
         links <- link_list[[title]]
         citations <- citation_list[[title]]
-        
-        # Filter out any NA or empty strings
         valid_items <- items[items != "" & !is.na(items)]
         valid_links <- links[items != "" & !is.na(items)]
         valid_citations <- citations[items != "" & !is.na(items)]
-        
-        # Combine items with links and citations, formatted as bullet points
+
         if (length(valid_items) > 0) {
-          formatted_items <- paste0(
-            "* [", valid_items, "](", valid_links, ") ", valid_citations, collapse = "\n"
-          )
-          
-          # Check if the title is blank
-          if (title == "") {
-            return(formatted_items)  # Return formatted items without title
-          } else {
-            # Format action_title in bold and add line break before items
-            return(paste0("**", title, "**\n\n", formatted_items))
-          }
+            formatted_items <- paste0(
+                "* [", valid_items, "](", valid_links, ") ", valid_citations, collapse = "\n"
+            )
+            if (title == "<No Title>") {
+                return(formatted_items)  # Return formatted items without any bold title
+            } else {
+                return(paste0("**", title, "**\n\n", formatted_items))
+            }
         } else {
-          return("")  # Return empty string if there are no valid items
+            return("")  # Return empty string if there are no valid items
         }
     })
-    
-    # Filter out any empty strings and collapse the formatted items into a single string
-    formatted_items <- formatted_items[formatted_items != ""]
-    paste0(formatted_items, collapse = "\n\n")
-  }
-  
-  # Assuming you have a similar function for root content formatting
+    return(paste(formatted_items[formatted_items != ""], collapse = "\n\n"))
+}
+
   format_root_content <- function(root_text, root_link, root_citation, root_rate) {
-      # Define this function if necessary
-  }
+    valid_rows <- root_text != "" & !is.na(root_text)
+    if (any(valid_rows)) {
+        roots <- root_text[valid_rows]
+        links <- root_link[valid_rows]
+        citations <- root_citation[valid_rows]
+        rates <- root_rate[valid_rows]
+        if (length(unique(rates)) == 1 && length(unique(citations)) == 1) {
+            paste0("[", first(roots), "](", first(links), ") - [", last(roots), "](", last(links), ") ", first(citations))
+        } else {
+            paste0(paste0("* [", roots, "](", links, ") ", citations), collapse = "\n \n")
+        }
+    } else {
+        return("")  # Return an empty string if no valid rows
+    }
+}
 
   tryCatch({
     # Read the Excel file with specified sheet
@@ -81,10 +83,8 @@ gt_oian <- function(identifier_col, filter_patterns, display_columns, table_titl
     initial_filtered_data <- oian_data %>%
       filter(grepl(filter_patterns, .data[[identifier_col]], ignore.case = TRUE))
   
-    # Get the unique muscle_identifiers from the filtered rows
     muscle_identifiers <- unique(initial_filtered_data$muscle_identifier)
 
-    # Filter the data to include all rows with these muscle_identifiers
     combined_data <- oian_data %>%
       filter(muscle_identifier %in% muscle_identifiers) %>%
       group_by(muscle_identifier) %>%
@@ -93,29 +93,29 @@ gt_oian <- function(identifier_col, filter_patterns, display_columns, table_titl
         origin_final = format_content(origin_text, origin_link, origin_citation),
         insertion_final = format_content(insertion_text, insertion_link, insertion_citation),
         innervation_final = {
-            # Check for NA values
             if (all(is.na(innervation_text), is.na(innervation_link), is.na(innervation_citation))) {
                 ""
             } else {
-                paste0(
-                    format_content(innervation_text, innervation_link, innervation_citation), 
-                    "\n \n", 
-                    format_root_content(root_text, root_link, root_citation, root_rate)
-                )
+                formatted_innervation <- format_content(innervation_text, innervation_link, innervation_citation)
+                additional_info <- format_root_content(root_text, root_link, root_citation, root_rate)
+                
+                if (nchar(formatted_innervation) > 0 && nchar(additional_info) > 0) {
+                    paste0(formatted_innervation, "\n\n", additional_info)
+                } else {
+                    formatted_innervation
+                }
             }
         },
         action_final = format_action_content(action_title, action_text, action_link, action_citation),
         fiber_proportion_final = format_content(fiber_proportion_text, fiber_proportion_link, fiber_proportion_citation),
         lever_final = format_content(lever_text, lever_link, lever_citation)
       ) %>%
-      ungroup()
+      ungroup();
 
-    # Order the data if order_by is specified
     if (!is.null(order_by) && order_by %in% names(combined_data)) {
       combined_data <- combined_data %>% arrange(across(all_of(order_by)))
     }
     
-    # Define the column labels
     column_labels <- list(
       name_final = "Muscle",
       origin_final = "Origin",
@@ -126,7 +126,6 @@ gt_oian <- function(identifier_col, filter_patterns, display_columns, table_titl
       lever_final = "Lever"
     )
     
-    # Create the gt table with smaller font sizes
     gt_oian_table <- combined_data %>%
       select(all_of(display_columns)) %>%
       gt() %>%
@@ -134,15 +133,14 @@ gt_oian <- function(identifier_col, filter_patterns, display_columns, table_titl
       cols_label(!!!setNames(column_labels[display_columns], display_columns)) %>%
       tab_header(title = table_title) %>%
       tab_style(
-        style = cell_text(size = px(12)), # Adjust the font size here
+        style = cell_text(size = px(12)),
         locations = cells_body(columns = everything())
       ) %>%
       tab_style(
-        style = cell_text(size = px(14), weight = "bold"), # Adjust the font size for headers
+        style = cell_text(size = px(14), weight = "bold"),
         locations = cells_column_labels(columns = everything())
       )
   
-    # Return the gt table
     return(gt_oian_table)
   
   }, error = function(e) {

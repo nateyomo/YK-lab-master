@@ -4,14 +4,11 @@ citation: false
 author: []
 ---
 
-:::{layout-ncol="2"}
 
-# Nathaniel Yomogida, SPT
+# Nathaniel Yomogida {#ngy}
 
 Founder and Editor
 
-# Chloë Kerstein, SPT
+# Chloë Kerstein {#cak}
 
 Founder and Head Researcher
-
-:::

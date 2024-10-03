@@ -578,7 +578,7 @@ gt_table
 
 ## Dorsum of the Foot
 
-```{r}
+```{r dorsum-foot}
 #| echo: false
 #| warning: false
 #| message: false
@@ -603,7 +603,7 @@ gt_table
 
 ## Superficial Intrinsic Plantar Foot muscles
 
-```{r}
+```{r foot-superficial-intrinsic-plantar}
 #| echo: false
 #| warning: false
 #| message: false
@@ -628,7 +628,7 @@ gt_table
 
 ## Deep Intrinsic plantar foot muscles
 
-```{r}
+```{r foot-deep-intrinsic-plantar}
 #| echo: false
 #| warning: false
 #| message: false

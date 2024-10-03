@@ -7,9 +7,6 @@ execute:
   error: true
   cache: false
 
-#filters:
- # - lightbox
-
 lightbox: auto
 
 author:
@@ -18,6 +15,8 @@ author:
   name: 
     given: Nathaniel
     family: Yomogida
+  email: "nate.yomogida.pt@gmail.com"
+  url: "https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#ngy"
   affiliation:
     - Doctor of Physical Therapy
     - B.S. in Kinesiology
@@ -29,17 +28,20 @@ author:
   name: 
     given: Chloë
     family: Kerstein
+  email: "Chloekerst@gmail.com"
+  url: "https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#cak"
   affiliation:
     - Doctor of Physical Therapy
     - B.A. in Neuroscience
-    #- San Diego State University
-    #- Pomona College
   degrees:
     - B.S.
     - SPT
-publisher: Yomogida-Kerstein Lab
+publisher: Yomogida-Kerstein Laboratory
 
 website:
+  twitter-card:
+    creator: "@NateYomogida and @Chloe_Kerstein"
+    site: "@YomoKerstLab"
   favicon: "/images/brain-favicon.png"
   page-navigation: true
   search:
@@ -55,7 +57,7 @@ website:
         text: Archive
       - href: guide.qmd
         text: Guide
-      - href: journal club index.qmd
+      - href: journal_club_index.qmd
         text: Journal Club
       - about.qmd
       - href: contact.qmd
@@ -72,7 +74,7 @@ format:
   html:
     toc: true
     toc-title: Contents
-    toc-location: right
+    toc-location: left
     number-sections: false
     tbl-cap-location: top
     theme:
