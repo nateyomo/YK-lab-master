@@ -1079,10 +1079,21 @@ ref-quadratus-femoris:
   nerve: "Sacral plexus Direct Branches ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}))"
   action: "**Hip**: External rotation"
 #### Medial Thigh Muscles
+ref-hip-abductor-muscle-group:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_abductor_muscles.qmd"
 ref-hip-adductor-muscle-group:
   path: "/"
   primary: "[Pectineus]({{< var ref-pectineus.path >}}) </br> [Gracilis]({{< var ref-gracilis.path >}}) </br> [Adductor Longus]({{< var ref-adductor-longus.path >}}) </br> [Adductor Brevis]({{< var ref-adductor-brevis.path >}}) </br> [Adductor Magnus]({{< var ref-adductor-magnus.path >}})"
   secondary: "[Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) (*especially inferior fibers*) </br> [Quadratus Femoris]({{< var ref-quadratus-femoris.path >}}) </br> [Obturator Externus]({{< var ref-obturator-externus.path >}}) </br> [Biceps Femoris Long Head]({{< var ref-biceps-femoris-long-head.path >}})"
+ref-hip-flexor-muscle-group:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_flexor_muscles.qmd"
+ref-hip-extensor-muscle-group:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_extensor_muscles.qmd"
+ref-hip-external-rotator-muscle-group:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_external_rotators.qmd"
+ref-hip-internal-rotator-muscle-group:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/Hip_internal_rotators_muscles.qmd"
+
 ref-pectineus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus_muscle.qmd"
   origin: "Pecten Pubis"
@@ -1665,6 +1676,10 @@ ref-cardiac-dysfunction-management:
 
 # Chemistry
 # Biochemistry
+## Amino acids biochem
+ref-hydroxyproline:
+  path: "/The Archive/Chemistry/Biochemistry/Amino Acids/Non-essential/hydroxyproline_amino_acid.qmd"
+  plasma: "/The Archive/Chemistry/Biochemistry/Amino Acids/Non-essential/hydroxyproline_amino_acid.qmd#plasma"
 ## Carbohydrate
 ref-carbohydrate:
   path: "/The Archive/Chemistry/Biochemistry/Carbohydrates/carbohydrates.qmd"
@@ -1681,6 +1696,10 @@ ref-s-adenosyl-l-methionine:
   path: "/The Archive/Chemistry/Biochemistry/Methylation and Methyl Donors/S-adenosyl-L-methionine_SAMe.qmd"
 ref-methylation:
   path: "/The Archive/Chemistry/Biochemistry/Methylation and Methyl Donors/methylation_human.qmd"
+## Metabolites
+ref-creatinine:
+  path: "/The Archive/Chemistry/Biochemistry/Metabolites/creatinine_metabolite.qmd"
+  plasma: "/The Archive/Chemistry/Biochemistry/Metabolites/creatinine_metabolite.qmd#plasma"
 ## Nutrients
 ref-coenzyme-q10:
   path: "/The Archive/Physiology/Nutrients/coenzyme_Q10.qmd"
@@ -1703,6 +1722,13 @@ ref-CuZnSOD-copper-zinc-superoxide-dismutase:
   path: "/The Archive/Chemistry/Biochemistry/Enzymes/CuZnSOD_copper-zinc_superoxide_dismutase.qmd"
 ref-diamine-oxidase:
   path: "/The Archive/Chemistry/Biochemistry/Enzymes/diamine_oxidase.qmd"
+ref-phosphorylase:
+  path: "/The Archive/Chemistry/Biochemistry/Enzymes/phosphorylase_enzyme.qmd"
+ref-phosphofructokinase:
+  path: "/The Archive/Chemistry/Biochemistry/Enzymes/phosphofructokinase_pfk_enzyme.qmd"
+
+ref-carnitine-palmityl-transferase:
+  path: "/The Archive/Chemistry/Biochemistry/Enzymes/carnitine_palmityl_transferase_cpt_enzyme.qmd"
 ## Lipids
 ref-lipid:
   path: "/The Archive/Chemistry/Biochemistry/Lipids/lipid.qmd"
@@ -1716,7 +1742,11 @@ ref-copper:
   path: "/The Archive/Chemistry/Biochemistry/Minerals/copper_dietary.qmd"
 ref-iron:
   path: "/The Archive/Chemistry/Biochemistry/Minerals/iron_dietary.qmd"
-## Proteins
+ref-potassium:
+  path: "/The Archive/Chemistry/Biochemistry/Minerals/potassium_dietary.qmd"
+ref-hyperkalemia:
+  path: "/The Archive/Chemistry/Biochemistry/Minerals/potassium_dietary.qmd#hyperkalemia"
+## Protein biochem
 ref-protein:
   path: "/The Archive/Chemistry/Biochemistry/Proteins/protein.qmd"
 ref-von-willebrand-factor:
@@ -1738,6 +1768,11 @@ ref-troponin:
     path: "/The Archive/Chemistry/Biochemistry/Proteins/Troponin/cardiac_troponin_T_cTnT.qmd"
   ctni:
     path: "/The Archive/Chemistry/Biochemistry/Proteins/Troponin/cardiac_troponin_I_cTnI.qmd"
+ref-myoglobin:
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/myoglobin_protein.qmd"
+  plasma: "/The Archive/Chemistry/Biochemistry/Proteins/myoglobin_protein.qmd#plasma"
+ref-myoglobinuria:
+  path: "/The Archive/Chemistry/Biochemistry/Proteins/myoglobin_protein.qmd#myoglobinuria"
 ## Polysaccharides
 ref-glycosaminoglycans:
   path: "/The Archive/Chemistry/Biochemistry/Polysaccharide/glycosaminogylcans_GAGs.qmd"
@@ -2302,6 +2337,14 @@ ref-graded-motor-imagery:
 ref-periostitis:
   path: "/The Archive/Pathologies/Bone pathologies/periostitis.qmd"
 
+# Muscle pathologies
+
+ref-delayed-onset-muscle-soreness:
+  path: "/The Archive/Pathologies/Muscle Pathologies/delayed_onset_muscle_soreness_DOMS.qmd"
+ref-exercise-induced-muscle-damage:
+  path: "/The Archive/Pathologies/Muscle Pathologies/exercise-induced_muscle_damage_EIMD.qmd"
+ref-exertional-rhabdomyolysis:
+  path: "/The Archive/Pathologies/Muscle Pathologies/exertional_rhabdomyolysis.qmd"
 
 ## Endocrine pathologies
 ### Pituitary system pathologies
@@ -2352,6 +2395,8 @@ ref-lumbar-lateral-recess-stenosis:
 ref-lateral-epicondylitis:
   path: "/The Archive/Pathologies/MSK Pathologies/Upper extremity/lateral_epicondylitis.qmd"
 ### Lower Extremity
+ref-piriformis-syndrome:
+  path: "/"
 ref-pelvic-stress-fracture:
   path: "/The Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
 ref-femoral-shaft-stress-fracture:
@@ -2372,6 +2417,7 @@ ref-hip-microinstability:
   path: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/hip_microinstability.qmd"
 ref-hip-osteoarthritis:
   path: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/hip_osteoarthritis.qmd"
+
 
 
 # Pathophysiology
@@ -2399,6 +2445,10 @@ ref-double-crush-syndrome:
 ref-meningitis:
   path: "/The Archive/Pathophysiology/Nerve pathophysiology/meningitis.qmd"
   lyme: "/The Archive/Pathologies/Infections/Bacterial Infections/Lyme_disease.qmd#lyme-meningitis"
+
+
+
+
 # Pediatrics
 ## Development
 ref-overview-theories-of-child-development:

@@ -1,0 +1,10 @@
+---
+title: Potassium (K)
+subtitle: Mineral and electrolyte
+---
+
+
+
+# Hyperkalemia {#hyperkalemia}
+
+Hyperkalemia is believed to be an indicator of [DOMS]({{< var ref-delayed-onset-muscle-soreness.path >}}) @armstrongMechanismsExerciseinducedDelayed1984.

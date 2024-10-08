@@ -1,0 +1,11 @@
+---
+title: Marathon athlete
+---
+
+
+[Exercise-induced muscle damage (EIMD)]({{< var ref-exercise-induced-muscle-damage.path >}}) and the subsequent [delayed onset muscle soreness (DOMS)]({{< var ref-delayed-onset-muscle-soreness.path >}}) frequently occur during extended bouts of intensive exercise, such as endurance running or triathlon competition @stedgeEffectsIntermittentPneumatic2021.
+
+
+# Interventions
+
+- Intermittent pneumatic compression (NormaTec)

@@ -1,0 +1,11 @@
+---
+title: Exertional Rhabdomyolysis
+---
+
+
+Armstrong @armstrongMechanismsExerciseinducedDelayed1984 postulates that exertional rhabdomyolysis is a severe form of [DOMS]({{< var ref-delayed-onset-muscle-soreness.path >}}) @armstrongMechanismsExerciseinducedDelayed1984.
+
+This condition particularly appears in hotter weather, following unaccustomed, intense exercise @armstrongMechanismsExerciseinducedDelayed1984.
+The resulting symptoms include swelling, tenderness, stiffness, fever, nausea, vomiting, abnormal histology, hemoglobinuria, and myoglobinuria @armstrongMechanismsExerciseinducedDelayed1984.
+
+Other symptoms include dehydration, [hyperkalemia]({{< var ref-hyperkalemia.path >}}), hypocalcemia, hypoalbuminemia, and elevated [plasma creatinine]({{< var ref-creatinine.plasma >}}).

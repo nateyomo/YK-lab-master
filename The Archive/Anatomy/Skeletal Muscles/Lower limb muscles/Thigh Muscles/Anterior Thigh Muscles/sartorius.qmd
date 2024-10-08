@@ -39,7 +39,7 @@ gt_table
 # Overview
 The Sartorius comes from latin *sartor* meaning "tailor" since it moves the leg into the cross-legged sitting position a tailor would use when sewing ( hip abduction, external rotation, and flexion) [@bielTrailGuideBody2019; @neumannKinesiologyMusculoskeletalSystem2017].
 
-The sartorius is the longest muscle in the body [@bielTrailGuideBody2014; @neumannKinesiologyMusculoskeletalSystem2017].
+The sartorius is the longest muscle in the body [@bielTrailGuideBody2019; @neumannKinesiologyMusculoskeletalSystem2017].
 
 The sartorius is a fusiform muscle @neumannKinesiologyMusculoskeletalSystem2017.
 
@@ -48,7 +48,7 @@ The sartorius is a fusiform muscle @neumannKinesiologyMusculoskeletalSystem2017.
 
 # Insertion {#insertion}
 
-Medial to the Tibial Tuberosity via the[Pes Anserine]({{< var ref-pes-anserine >}}) tendon @gilroyAtlasAnatomy2020
+Medial to the Tibial Tuberosity via the [Pes Anserine]({{< var ref-pes-anserine >}}) tendon @gilroyAtlasAnatomy2020
 
 
 # Nerve
@@ -77,21 +77,28 @@ Medial to the Tibial Tuberosity via the[Pes Anserine]({{< var ref-pes-anserine >
 Note how the sartorius curves from the [ASIS](#origin) to the medial side of the thigh
 :::
 
-:::{layout-ncol="2"}
-## Width
+::: {.columns}
+::: {.column}
+### Width
 
 - The sartorius and [gracilis]({{< var ref-gracilis.path >}}) are slender muscles, especially when compared to the [quadriceps]({{< var ref-quadriceps-femoris.path >}}) @bielTrailGuideBody2019.
 - The muscle belly of the sartorius should be "2 fingers" wide and superficial @bielTrailGuideBody2019.
 
-## Depth
+:::
+::: {.column}
+
+### Depth
 
 The sartorius should be superficial since it runs above the [quadriceps]({{< var ref-quadriceps-femoris.path >}}) and other muscles of the thigh.
 
-## Position
+:::
+::: {.column}
+### Position
 
 If you are palpating the sartorius, you will be *medial* to the [vastus medialis]({{< var ref-vastus-medialis.path >}}) muscle belly @bielTrailGuideBody2019.
-
-## Direction
+:::
+::: {.column}
+### Direction
 
 The sartorius and gracilis both insert on the common tendon of the [Pes Anserine]({{< var ref-pes-anserine >}}), causing it to be difficult to differentiate between these two muscles distally.
 
@@ -99,5 +106,5 @@ The best way to differentiate between these two muscles is to follow the directi
 
 - The sartorius will course superior laterally toward the [ASIS](#origin)
 - The [gracilis]({{< var ref-gracilis.origin >}}) will course superior-medially towards it origin at the *pubic tubercle*.
-
+:::
 :::

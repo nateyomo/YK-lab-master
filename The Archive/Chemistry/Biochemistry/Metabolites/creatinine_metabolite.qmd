@@ -1,0 +1,9 @@
+---
+title: Creatinine
+subtitle: Metabolic byproduct
+---
+
+
+# Plasma {#plasma}
+
+Elevated plasma creatinine is believed to be an indicator of [DOMS]({{< var ref-delayed-onset-muscle-soreness.path >}})

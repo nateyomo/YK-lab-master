@@ -1,0 +1,16 @@
+---
+title: Myoglobin
+---
+
+
+# Plasma Myoglobin {#plasma}
+
+- Indicator of DOMS @armstrongMechanismsExerciseinducedDelayed1984.
+
+
+# Myoglobinuria
+
+Myoglobinuria refers to excess myoglobin in urea @armstrongMechanismsExerciseinducedDelayed1984.
+Elevated levels are indicative of [exertional rhabdomyolysis]({{< var ref-exertional-rhabdomyolysis.path >}}) @armstrongMechanismsExerciseinducedDelayed1984.
+
+Extended periods of high myoglobinuria can result in renal failure due to myoglobinuric tubular necrosis and other mechanisms which are not known @armstrongMechanismsExerciseinducedDelayed1984.

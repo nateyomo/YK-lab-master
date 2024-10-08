@@ -2,7 +2,7 @@
 title: Piriformis Muscle
 ---
 
-# OIAN
+# Overview
 
 ```{r}
 #| echo: false
@@ -44,7 +44,11 @@ Direct branches from sacral plexus [S1]({{< var ref-nerve-root.s1 >}}) and [S2](
 - Stabilizes the hip joint
 
 
-# Overview
+# Anatomy
+
+The [Sciatic n.]({{< var ref-sciatic-nerve.path >}}) runs superficial to all of the [deep external rotators]() except for the piriformis @bielTrailGuideBody2019.
+The sciatic nerve can either runs deep to the piriformis and can exit inferiorly, through the piriformis muscle belly, or superior to the piriformis.
+As a result, overactivation of the piriformis can lead to neurogenic pain and symptoms and is termed [Piriformis syndrome]({{< var ref-piriformis-syndrome.path >}})
 
 
 # Pathologies

@@ -21,3 +21,10 @@ Serum CRP can be used as a marker of acute inflammation
 
 
 Test validity: High sensitivity CRP (hs-CRP) = predictive of recurrent coronary events
+
+
+
+# Delayed onset muscle soreness
+
+"Armstrong (2) proposed that DOMS is associated with damage to the sarcolemma, and ensuing inflammation. Inflammation denotes the onset of the healing process and may be indicated by a rise in Creactive protein (CRP)" @draperEffectsIntermittentPneumatic2020
+

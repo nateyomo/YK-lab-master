@@ -1,0 +1,61 @@
+---
+title: Delayed Onset Muscle Soreness (DOMS)
+subtitle: Activity-induced muscular pain syndrome
+---
+
+
+# Definition
+
+DOMS refers to the sensation of pain and stiffness in muscles occurring 1-5 days after relative abnormally intensive bout of exercise @armstrongMechanismsExerciseinducedDelayed1984.
+This process can result in decreased muscular performance due to voluntary reduction of effort and/or decreased muscular capacity @armstrongMechanismsExerciseinducedDelayed1984.
+
+:::{.callout-note}
+
+Whether an unconscious neuromuscular decrease in recruitment in the muscle should be considered as well.
+
+:::
+
+
+# Prognosis
+
+- DOMS symptoms will peak at 24-72hrs and then subside by 5-7 days @armstrongMechanismsExerciseinducedDelayed1984.
+
+# DDX
+
+DOMS is a completely different syndrome from other *exercise induced* muscular discomfort such as:
+
+- "Charlie horse" @armstrongMechanismsExerciseinducedDelayed1984
+- Muscle strain @armstrongMechanismsExerciseinducedDelayed1984
+- Muscle tear @armstrongMechanismsExerciseinducedDelayed1984
+- Chronic leg pain @armstrongMechanismsExerciseinducedDelayed1984
+- Exercise Muscle soreness due to nutritional deficiencies
+    - [phosphorylase]({{< var ref-phosphorylase.path >}}) @armstrongMechanismsExerciseinducedDelayed1984
+    - [Phosphofructokinase]({{< var ref-phosphofructokinase.path >}}) @armstrongMechanismsExerciseinducedDelayed1984
+    - [Carnitine palmityl transferase]({{< var ref-carnitine-palmityl-transferase.path >}}) @armstrongMechanismsExerciseinducedDelayed1984.
+
+# Pathophysiology
+
+There is limited information on that true pathophysiology of DOMS.
+It is *probable* that the cellular mechanisms and neural pathways of DOMS are similar to other activity-induced muscular pain syndromes @armstrongMechanismsExerciseinducedDelayed1984.
+
+:::{.callout-note}
+Armstrong @armstrongMechanismsExerciseinducedDelayed1984 postulates that [exertional rhabdomyolysis]({{< var ref-exertional-rhabdomyolysis.path >}}) is a severe form of DOMS @armstrongMechanismsExerciseinducedDelayed1984.
+:::
+
+# Location
+
+The location of DOMS is not specific since any skeletal muscle that is over-exerted can experience DOMS @armstrongMechanismsExerciseinducedDelayed1984.
+The tenderness symptoms are usually felt distally at the muscle-tendon junction @armstrongMechanismsExerciseinducedDelayed1984.
+The causes of this localization of symptoms were theorized by Newham @armstrongMechanismsExerciseinducedDelayed1984:
+
+1. Muscle pain receptors are most concentrated in the tendon and connective tissue of this complex @armstrongMechanismsExerciseinducedDelayed1984.
+1. Localization of damage to the distal aspect of the muscle @armstrongMechanismsExerciseinducedDelayed1984.
+
+# Clinical Correlates
+
+1. Plasma intramuscular enzymes are considered indicators of muscle damage, particularly sarcolemma damage @armstrongMechanismsExerciseinducedDelayed1984.
+1. [Plasma myoglobin]({{< var ref-myoglobin.plasma >}}) @armstrongMechanismsExerciseinducedDelayed1984.
+1. Plasma hydroxyproline as an indicator of connective tissue damage @armstrongMechanismsExerciseinducedDelayed1984.
+1. [Plasma creatinine]({{< var ref-creatinine.plasma >}})
+1. [Hyperkalemia]({{< var ref-hyperkalemia.path >}})
+

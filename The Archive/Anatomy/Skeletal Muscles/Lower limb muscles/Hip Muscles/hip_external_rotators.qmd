@@ -36,7 +36,12 @@ title: Hip External Rotator Muscles
 | [Quadratus Femoris]({{< var ref-quadratus-femoris.path >}}) | {{< var ref-quadratus-femoris.origin >}} | {{< var ref-quadratus-femoris.insertion >}} | {{< var ref-quadratus-femoris.nerve >}} | {{< var ref-quadratus-femoris.action >}} |
 : {.striped .hover}
 
+The primary external rotators of the hip include the [gluteus maximus]({{< var ref-gluteus-maximus.path >}}) and 5/6 of the deep external rotators @neumannKinesiologyMusculoskeletalSystem2017.
+The obturator externus is considered a second­ ary rotator because in the anatomic position its line of force lies only a few millimeters posterior to the longitudinal axis of rota­ tion (see Fig. 12.35). ” @neumannKinesiologyMusculoskeletalSystem2017
+
 # Secondary
+
+Secondary external rotators include the [gluteus medius *posterior fibers*]({{< var ref-gluteus-medius.path >}}) and the [gluteus minimus *posterior fibers*]({{< var ref-gluteus-minimus.path >}}), obturator externus, sartorius, and long head of the biceps femoris @neumannKinesiologyMusculoskeletalSystem2017 
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
@@ -47,23 +52,38 @@ title: Hip External Rotator Muscles
 | [Biceps Femoris Long Head]({{< var ref-biceps-femoris-long-head.path >}}) | {{< var ref-biceps-femoris-long-head.origin >}} | {{< var ref-biceps-femoris-long-head.insertion >}} | {{< var ref-biceps-femoris-long-head.nerve >}} | {{< var ref-biceps-femoris-long-head.action >}} |
 : Secondary External Rotators of the Hip {.striped .hover}
 
-# Deep Rotators of the Hip
+# Deep External Rotators
 
-The deep rotators of the hip are nicknamed the "rotator cuff" of the hip
+The deep rotators of the hip known as the "*deep six*" are functionally nicknamed the "*rotator cuff of the hip*".
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Piriformis]({{< var ref-piriformis.path >}}) | {{< var ref-piriformis.origin >}} | {{< var ref-piriformis.insertion >}} | {{< var ref-piriformis.nerve >}} | {{< var ref-piriformis.action >}} |
-| [Obturator Internus]({{< var ref-obturator-internus.path >}}) | {{< var ref-obturator-internus.origin >}} | {{< var ref-obturator-internus.insertion >}} | {{< var ref-obturator-internus.nerve >}} | {{< var ref-obturator-internus.action >}} |
-| [Superior Gemellus]({{< var ref-superior-gemellus.path >}}) | {{< var ref-superior-gemellus.origin >}} | {{< var ref-superior-gemellus.insertion >}} | {{< var ref-superior-gemellus.nerve >}} | {{< var ref-superior-gemellus.action >}} |
-| [Inferior Gemellus]({{< var ref-inferior-gemellus.path >}}) | {{< var ref-inferior-gemellus.origin >}} | {{< var ref-inferior-gemellus.insertion >}} | {{< var ref-inferior-gemellus.nerve >}} | {{< var ref-inferior-gemellus.action >}} |
-| [Quadratus Femoris]({{< var ref-quadratus-femoris.path >}}) | {{< var ref-quadratus-femoris.origin >}} | {{< var ref-quadratus-femoris.insertion >}} | {{< var ref-quadratus-femoris.nerve >}} | {{< var ref-quadratus-femoris.action >}} |
-| [Obturator Externus]({{< var ref-obturator-externus.path >}}) | {{< var ref-obturator-externus.origin >}} | {{< var ref-obturator-externus.insertion >}} | {{< var ref-obturator-externus.nerve >}} | {{< var ref-obturator-externus.action >}} |
-: Deep Rotators of the Hip {.striped .hover}
+```{r hip-deep-external-rotator-oian}
+#| echo: false
+#| warning: false
+#| message: false
 
-# Notes
+# Load the here package
+library(here)
 
-“The primary external rotator muscles of the hip include the gluteus maximus and five of the six “short external rotators.” In the anatomic position, muscles considered to be secondary exter­ nal rotators are the posterior fibers of the gluteus medius and minimus, obturator externus, sartorius, and long head of the biceps femoris.162 The obturator externus is considered a second­ ary rotator because in the anatomic position its line of force lies only a few millimeters posterior to the longitudinal axis of rota­ tion (see Fig. 12.35). ” @neumannKinesiologyMusculoskeletalSystem2017
+# Source the functions script
+source(here("scripts/gt_oian.R"))
+
+# Example usage
+identifier_col <- "group_identifier"
+filter_patterns <- "hip_deep_external_rotator_muscles"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Deep External Rotators of the Hip"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+## Anatomy
+
+All of these muscles are located deep to the [gluteus maximus]({{< var ref-gluteus-maximus.path >}}) @bielTrailGuideBody2019.
+All of these muscles insert on the greater trochanter and then fan medially to the sacrum and ipsilateral coxal bone @bielTrailGuideBody2019.
+All of the deep external rotators (except the piriformis) are deep to the [Sciatic n.]({{< var ref-sciatic-nerve.path >}}) @bielTrailGuideBody2019.
 
 # Functional Anatomy of the “Short External Rotators”
 “The six “short external rotators” of the hip are the piriformis, obturator internus, gemellus superior, gemellus inferior, quadratus femoris, and obturator externus (see Figs. 12.14, 12.39, and 12.43). The lines of force of these muscles are oriented primarily in the horizontal plane. This orientation is optimal for producing external rotation torque, because most of the force component of each muscle has a perpendicular intersection with the vertical axis of rotation. In a manner similar to the infraspinatus and teres minor at the shoulder, the short external rotators are also well aligned to compress and thereby help stabilize the articulation.”
@@ -75,3 +95,12 @@ The deep rotators of the hip are nicknamed the "rotator cuff" of the hip
 # Overall Function
 
 “Overall Function The functional potential of the external rotators is most evident during pelvic­on­femoral rotation. Consider, for example, the external rotator muscles contracting to rotate the pelvis over the femur (Fig. 12.47). With the right lower extremity firmly in contact with the ground, contraction of the right external rotators accelerates the anterior side of the pelvis and attached trunk to the left—contralateral to the fixed femur. This action of planting a foot and “cutting” to the opposite side is the natural way to abruptly change direction while running. As indicated in Fig. 12.47, activation of the right gluteus maximus, for instance, is very capable of imparting both the extension and the external rotation thrust to the hip during this action. If needed, the exter­ nal rotation torque can be decelerated by eccentric action of internal rotator muscles. Sudden eccentric activation of the adductor longus or brevis, for example, might arise to decelerate the pelvis as it swings to face contralaterally—an action that may cause “strain” injury to these muscles. The mechanism of injury may partially explain the relatively high incidence of adductor muscle strain during many sporting activities that involve rapid rotation of the pelvis and trunk while running.” @neumannKinesiologyMusculoskeletalSystem2017
+
+# Palpation
+
+- Piriformis
+- quadratus femoris
+- obturator internus
+- obturator externus
+- gemellus superior
+- gemellus inferior

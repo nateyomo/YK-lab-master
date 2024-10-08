@@ -1,0 +1,12 @@
+---
+title: Hydroxyproline
+subtitle: Non-essential Amino Acid
+---
+
+
+
+
+
+# Plasma {#plasma}
+
+Elevated *plasma hydroxyproline* is believed to be an indicator of connective tissue damage, particularly after [DOMS]({{< var ref-delayed-onset-muscle-soreness.path >}}) @armstrongMechanismsExerciseinducedDelayed1984.

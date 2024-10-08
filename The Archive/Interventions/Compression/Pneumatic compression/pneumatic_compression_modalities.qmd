@@ -1,0 +1,81 @@
+---
+title: Pneumatic Compression Modality
+keywords:
+    - Normatec Boots
+---
+
+
+# To paraphrase and organize:
+
+
+## Stedge review
+
+"The current evidence supports that IPC devices may provide only immediate pain relief from prolonged exercise-induced DOMS. However, the immediate pain relief from IPC was no more than what the massage interventions achieved,3,4 nor did pain relief continue over the 1- to 2-week recovery period.3,4 Therefore, the use of IPC for a single treatment following an endurance event is not effective for providing extended subjective pain relief or functional recovery from EIMD in endurance runners and triathletes" @stedgeEffectsIntermittentPneumatic2021.
+
+"In conclusion, the literature does not yet support a single treatment of IPC as an effective intervention for providing extended relief of subjective pain or functional recovery from EIMD in endurance runners and triathletes. For this reason, clinical decisions must be made on a study-by-study basis until strong evidence is available in favor of IPC for improving recovery in endurance athletes" @stedgeEffectsIntermittentPneumatic2021.
+
+## Heap
+
+Heapy AM, Hoffman MD, Verhagen HH, et al. A randomized controlled trial of manual therapy and pneumatic compression for recovery from prolonged running—an extended study. Res Sports Med. 2018;26(3): 354–364. PubMed ID: 29513036 doi:10.1080/15438627.2018.1447469
+
+## Hoffman
+
+"Hoffman MD, Badowski N, Chin J, Stuempfle KJ. A randomized controlled trial of massage and pneumatic compression for ultramarathon recovery. J Orthop Sports Phys Ther. 2016;46(5):320–326. PubMed ID: 27011305 doi:10.2519/jospt.2016.6455"
+
+## Draper
+
+"Draper SN, Kullman EL, Sparks KE, Little K, Thoman J. Effects of intermittent pneumatic compression on delayed onset muscle soreness (DOMS) in long distance runners. Int J Exerc Sci. 2020;13(2): 75–86. PubMed ID: 32148616"
+
+
+
+# Claims
+
+Normatec is advertised by Hyperice to:
+
+1. 24/7 Massage therapist
+1. Pre-workout warmup
+1. Increase lower body circulation
+1. Post-training recovery
+1. Reduce pain
+1. Reduce soreness
+1. Reduce inflammation
+1. Reduce swelling
+1. Improved recovery time
+1. Improved flexibility
+1. Reduced risk of injury
+
+## Massage Therapist
+
+Can Normatec replace your massage therapist or manual therapy?
+
+## Improved lower body circulation
+
+Brock KA, Eberman LE, Laird RH 4th, Elmer DJ, Games KE. Sequential pulse compression’s effect on blood flow in the lowerextremity. J Sport Rehabil. 2020;29(1):7–11. doi:10.1123/jsr.20170124
+
+## Post-training recovery
+
+## Pain
+
+## Soreness
+
+## Inflammation
+
+## Swelling
+
+## Recovery time
+
+## Flexibility & ROM
+
+## Risk of injury
+
+# IPC vs Compression Garment
+
+Winke M, Williamson S. Comparison of a pneumatic compression device to a compression garment during recovery from DOMS. Int J Ex Sci. 2018;11(3):375–383. PubMed ID: 29795729
+
+# When to use
+
+## Indications
+
+## Contraindications
+
+# Parameters

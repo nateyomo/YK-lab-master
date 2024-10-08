@@ -1,0 +1,22 @@
+---
+title: "R^2^"
+subtitle: Measure of variance
+---
+
+
+
+# Pseudo R^2^
+
+- Nagalkerke R^2^ (Cragg-Uhler R^2^)
+
+
+
+## Nagalkerke R^2^
+
+:::{.callout}
+
+- Nagalkerke R^2^ 
+- Cragg-Uhler R^2^
+
+:::
+
