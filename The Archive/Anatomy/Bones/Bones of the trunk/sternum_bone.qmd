@@ -2,9 +2,53 @@
 title: Sternum (Bone)
 ---
 
+# Articulations
+
+## Sternoclavicular joint
+
+Articulation between [*clavicular facets*](#clavicular-facets) of the sternum with the clavicle @neumannKinesiologyMusculoskeletalSystem2017
 
 
+## Sternocostal Joints
 
+The first sternocostal joint is immediately inferior to the sternoclavicular joint.
+
+## Manubriosternal Joint {#manubriosternal-joint}
+
+One of the *intrasternal joints* of the sternum @neumannKinesiologyMusculoskeletalSystem2017.
+
+## Xiphisternal Joint {#xiphisternal-joint}
+
+One of the *intrasternal joints* of the sternum @neumannKinesiologyMusculoskeletalSystem2017.
+The xiphisternal joint connects the xiphoid to the sternum and is an articulation made of *fibrocartilage* @neumannKinesiologyMusculoskeletalSystem2017.
+
+:::{.callout-note}
+
+By 40 years old, the xiphisternal joint *often* ossifies @neumannKinesiologyMusculoskeletalSystem2017.
+
+:::
+
+
+# Osteologic features
+
+- [Manubrium](#manubrium)
+- [Jugular notch](#jugular-notch)
+- [Clavicular facets](#clavicular-facets)
+- [Body](#body)
+- [Costal facets](#costal-facets)
+- [Xiphoid process](#xiphoid-process)
+
+## Manubrium {#manubrium}
+
+## Jugular notch {#jugular-notch}
+
+## Clavicular facets {#clavicular-facets}
+
+## Body {#body}
+
+## Costal facets {#costal-facets}
+
+## Xiphoid process {#xiphoid-process}
 
 # Attachments
 

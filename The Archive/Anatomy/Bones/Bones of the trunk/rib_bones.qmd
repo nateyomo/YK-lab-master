@@ -1,0 +1,122 @@
+---
+title: Ribs (Bone)
+---
+
+# Overview
+
+There are 12 pairs of rib bones in the human body.
+These ribs structurally function to protect the vital organs but also serve as functional levers for respiration.
+
+
+# Articulations
+
+Most of the ribs have a *head*, *neck*, and *articular tubercle* posteriorly which articulate with the [costovertebral joints]({{< var ref-costovertebral-joint.path >}}) which consist of a [costocorporeal joint]({{< var ref-costocorporeal-joint.path >}}) and [costotransverse joint]({{< var ref-costotransverse-joint.path >}}) @neumannKinesiologyMusculoskeletalSystem2017.
+
+The [costocorporeal joint]({{< var ref-costocorporeal-joint.path >}}) connects the [*head*](#head) of the rib to the *costal demifacets* of the two corresponding vertebrae and the [intervertebral disc]({{< var ref-intervertebral-disc.path >}}) @neumannKinesiologyMusculoskeletalSystem2017.
+
+The [costotransverse joint]({{< var ref-costotransverse-joint.path >}}) refers to the articulation between the *articular tubercle* of the rib with the *costal facet* of the *transverse process* of the corresponding vertebrae @neumannKinesiologyMusculoskeletalSystem2017
+
+## Sternocostal joints
+
+
+
+# Function
+
+
+
+# Anatomy
+
+The anterior aspect of the rib is composed of flattened *hyaline cartilage* @neumannKinesiologyMusculoskeletalSystem2017.
+Ribs 1-10 span from the spine posteriorly and span anteriorly to directly or indirectly connect to the [sternum]({{< var ref-sternum-bone.path >}}) to complete the rib cage @neumannKinesiologyMusculoskeletalSystem2017.
+Ribs 1-7 articulate *directly* with the sternum via [sternocostal joints]({{< var ref-sternocostal-joint.path >}}) @neumannKinesiologyMusculoskeletalSystem2017.
+
+## Head {#head}
+
+The head of the rib makes up the distal aspect of the [costocorporeal joint]({{< var ref-costocorporeal-joint.path >}})
+
+## Neck {#neck}
+
+## Articular tubercle {#articular-tubercle}
+
+
+# Muscular attachments
+
+```{r tbl-rib-origin-oian}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/gt_oian.R"))
+
+# Example usage
+identifier_col <- "origin_identifier"  # or "group_identifier"
+filter_patterns <- "1st_rib_bone | 2nd_rib_bone | 3rd_rib_bone | 4th_rib_bone | 5th_rib_bone | 6th_rib_bone | 7th_rib_bone | 8th_rib_bone | 9th_rib_bone | 10th_rib_bone | 11th_rib_bone | 12_rib_bone"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Muscles originating from the ribs"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+
+```{r tbl-rib-insertion-oian}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/gt_oian.R"))
+
+# Example usage
+identifier_col <- "insertion_identifier"  # or "group_identifier"
+filter_patterns <- "1st_rib_bone | 2nd_rib_bone | 3rd_rib_bone | 4th_rib_bone | 5th_rib_bone | 6th_rib_bone | 7th_rib_bone | 8th_rib_bone | 9th_rib_bone | 10th_rib_bone | 11th_rib_bone | 12_rib_bone"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Muscles inserting on the ribs"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+
+# Ribs
+
+## 1st
+
+[First rib]({{< var ref-1st-rib.path >}})
+
+## 2nd
+
+## 3rd
+
+## 4th
+
+## 5th
+
+## 6th
+
+## 7th
+
+## 8th
+
+## 9th
+
+## 10th
+
+## 11th 
+
+"Free floating rib"
+
+## 12th
+
+The 12th rib is considered a "Free floating rib" since it lacks attachment to the sternum

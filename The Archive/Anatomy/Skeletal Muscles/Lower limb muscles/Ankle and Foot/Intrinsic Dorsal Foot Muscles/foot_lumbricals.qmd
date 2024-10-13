@@ -10,10 +10,28 @@ title: Foot Lumbrical Muscles
 
 # Overview
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Lumbricals (Foot)]({{< var ref-foot-lumbricals.path >}}) | {{< var ref-foot-lumbricals.origin >}} | {{< var ref-foot-lumbricals.insertion >}} | {{< var ref-foot-lumbricals.nerve >}} | {{< var ref-foot-lumbricals.action >}} |
-: {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/gt_oian.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "lumbricals_foot"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Foot Lumbrical Muscles"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 # Origin {#origin}
 

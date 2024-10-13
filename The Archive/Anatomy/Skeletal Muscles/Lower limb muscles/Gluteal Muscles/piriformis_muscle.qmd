@@ -50,13 +50,33 @@ The [Sciatic n.]({{< var ref-sciatic-nerve.path >}}) runs superficial to all of 
 The sciatic nerve can either runs deep to the piriformis and can exit inferiorly, through the piriformis muscle belly, or superior to the piriformis.
 As a result, overactivation of the piriformis can lead to neurogenic pain and symptoms and is termed [Piriformis syndrome]({{< var ref-piriformis-syndrome.path >}})
 
+# Palpation
+
+1. Place the patient in prone @bielTrailGuideBody2019.
+1. Palpate the: coccyx, PSIS, and greater trochanter @bielTrailGuideBody2019.
+1. The coccyx to the PSIS is the superior and inferior bounds of the piriformis origin and the greater trochanter is the insertion @bielTrailGuideBody2019.
+1. Bisect the coccyx and PSIS and place a finger there @bielTrailGuideBody2019.
+1. Place your fingers along the imaginary line from the bisection to the greater trochanter @bielTrailGuideBody2019.
+1. Work *through* the superficial gluteus maximus to palpate the slender piriformis muscle belly @bielTrailGuideBody2019.
+1. Strum across the piriformis muscle belly to palpate its location @bielTrailGuideBody2019.
+
+:::{.callout-caution}
+The sciatic nerve runs through this area, so be mindful of this when palpating.
+:::
+
+:::{layout-ncol="2"}
+### Active palpation
+One can bend the patient's knee and ask the patient to perform isometric contractions against gentle resistance to better palpate the piriformis @bielTrailGuideBody2019.
+The gluteus maximus may be recruited during this process, but the piriformis should be more evident @bielTrailGuideBody2019.
+:::
+
 
 # Pathologies
 
 - Piriformis Syndrome (Piriformis caused sciatica)
-- Piriformis Tendinitis
+- [Piriformis Tendinitis](#piriformis-tendinitis)
 
 
-## Piriformis tendinitis
+## Piriformis tendinitis {#piriformis-tendinitis}
 
 "Tenderness to deep palpation near the hook of the greater trochanter. Pain reproduced by piriformis stretch" @duttonDuttonOrthopaedicExamination2020 

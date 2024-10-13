@@ -1,0 +1,15 @@
+---
+title: The Spine
+---
+
+
+A normal spine consists of curvature in the *sagittal* plane where the cervical and lumbar segments are in *lordosis* and the thoraic segment is in *kyphosis* @neumannKinesiologyMusculoskeletalSystem2017.
+
+A number of anatomic factors influence this curvature:
+
+- Wedge-shaped [intervertebral discs (IVDs)]({{< var ref-intervertebral-disc.path >}})
+- Spatial orientation of the apophyseal (facet) joints @neumannKinesiologyMusculoskeletalSystem2017.
+- Histologic composition of ligaments @neumannKinesiologyMusculoskeletalSystem2017.
+- Degree of natural muscle stiffness @neumannKinesiologyMusculoskeletalSystem2017.
+
+

@@ -1,0 +1,31 @@
+---
+title: Deep Transverse Metatarsal Ligament
+---
+
+
+
+
+Serves as the origin for the adductor hallucis
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/gt_oian.R"))
+
+# Example usage
+identifier_col <- "origin_identifier"  # or "group_identifier"
+filter_patterns <- "deep_transverse_metatarsal_ligament"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Muscular origins involving the Deep Transverse Metatarsal Lig."
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```

@@ -96,6 +96,63 @@ title: "OIANs of all the muscles"
 
 : Deep Segmental Back Muscles OIAN {.striped .hover}
 
+# Thorax
+
+# Abdominal Wall
+
+
+```{r tbl-abdominal-wall-oian}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/gt_oian.R"))
+
+# Example usage
+identifier_col <- "group_identifier"
+filter_patterns <- "abdominal_wall_muscles"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Abdominal Wall Muscles"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+
+# Pelvis & Perineum
+
+## Pelvic Floor
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/gt_oian.R"))
+
+# Example usage
+identifier_col <- "group_identifier"
+filter_patterns <- "pelvic_floor_muscles"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Pelvic floor muscles"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+
 # Head and Neck
 
 ## Muscles of Facial Expression
@@ -179,6 +236,29 @@ title: "OIANs of all the muscles"
 
 ## Anterior Axioappendicular
 
+```{r tbl-anterior-axioappendicular-oian}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/gt_oian.R"))
+
+# Example usage
+identifier_col <- "group_identifier"
+filter_patterns <- "anterior_axioappendicular_muscles"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Anterior axioappendicular muscles"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Pectoralis Major]({{< var ref-pectoralis-major.path >}}) | {{< var ref-pectoralis-major.origin >}} | {{< var ref-pectoralis-major.insertion >}} | {{< var ref-pectoralis-major.nerve >}} | {{< var ref-pectoralis-major.action >}} |
@@ -188,6 +268,29 @@ title: "OIANs of all the muscles"
 : Anterior Axioappendicular Muscles {.striped .hover}
 
 ## Posterior Axioappendicular
+
+```{r tbl-posterior-axioappendicular-oian}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/gt_oian.R"))
+
+# Example usage
+identifier_col <- "group_identifier"
+filter_patterns <- "posterior_axioappendicular_muscles"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Posterior axioappendicular muscles"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
@@ -209,6 +312,29 @@ title: "OIANs of all the muscles"
 # Scapulohumeral
 
 Scapulohumeral muscles AKA intrinsic shoulder muscles
+
+```{r tbl-scapulohumeral-oian}
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/gt_oian.R"))
+
+# Example usage
+identifier_col <- "group_identifier"
+filter_patterns <- "scapulohumeral_muscles"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Scapulohumeral muscles"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|

@@ -1,0 +1,8 @@
+---
+title: Costocorporeal Joints
+---
+
+One of the synovial joints that make up the ["costovertebral joint" complex]({{< var ref-costovertebral-joint.path >}}) @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+The [costocorporeal joint]({{< var ref-costocorporeal-joint.path >}}) connects the *head* of the rib to the *costal demifacets* of the two corresponding vertebrae and the [intervertebral disc]({{< var ref-intervertebral-disc.path >}}) @neumannKinesiologyMusculoskeletalSystem2017.

@@ -1,4 +1,44 @@
 ---
-title: Ligamentum Teres
+title: "Ligamentum Teres"
+keywords:
+    - "Ligament of the Head of the Femur"
 ---
 
+Tubular, synovial-lined ligament that spans the [transverse acetabular ligament]({{< var ref-transverse-acetabular-ligament.path >}}) to the *fovea* of the *femoral head* @neumannKinesiologyMusculoskeletalSystem2017.
+
+# Function
+
+Functions to sheath and guide the *acetabular artery* (a branch of the *obturator artery*)to supply the *femoral head* [@gilroyAtlasAnatomy2020; @neumannKinesiologyMusculoskeletalSystem2017]. 
+
+This is especially important when provindg blood flow to neonates, but the blood supply from the *acetabular artery* decreases with age @neumannKinesiologyMusculoskeletalSystem2017.
+By adulthood the *acetabular artery* supplies little to no bloodflow since the majority of the bloodflow to the *head* and *neck* of the femur is through the *medial* and *lateral circumflex arteries* @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+:::{.callout-note}
+There are speculations that the *ligamentum teres* may have a mechanical function to stabilize the fetal hip 
+:::
+
+
+
+# Mechanics
+
+According to Atlas of Anatomy by Gilroy @gilroyAtlasAnatomy2020, the ligamentum teres has "no *mechanical* function" @gilroyAtlasAnatomy2020.
+Neumann @neumannKinesiologyMusculoskeletalSystem2017 disagrees and states that the ligamentum teres "undoubtedly provides some functional stability to the hip," @neumannKinesiologyMusculoskeletalSystem2017 but its exact role is unknown.
+There are many positions that tension the *ligamentum teres* such as:
+
+- Flexion + Adduction + ER @neumannKinesiologyMusculoskeletalSystem2017
+- Internal rotation @neumannKinesiologyMusculoskeletalSystem2017
+- External rotation @neumannKinesiologyMusculoskeletalSystem2017
+- Flexion + abduction @neumannKinesiologyMusculoskeletalSystem2017
+
+## Flexion + Abduction
+
+In the flexed and abducted position, the *ligamentum teres* is theorized to act as a sling and support the inferior aspect of the *femoral head* when in a squat-like position @neumannKinesiologyMusculoskeletalSystem2017.
+
+# Sensory Function
+
+The ligamentum teres contains *mechanoreceptors* and may offer an indirect function to stability through improved proprioception @neumannKinesiologyMusculoskeletalSystem2017.
+
+# Dysfunction
+
+*Ligamentum teres* stress or injury can be a source of *intra-articular hip pain* @neumannKinesiologyMusculoskeletalSystem2017.

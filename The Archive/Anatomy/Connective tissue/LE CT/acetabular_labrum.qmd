@@ -2,16 +2,24 @@
 title: Acetabular Labrum
 ---
 
+# Anatomy
+
+The *acetabular labrum* refers to the ring of [fibrocartilage](#histology) spanning from the *acetabular rim* @neumannKinesiologyMusculoskeletalSystem2017.
+
+The labrum has a triangular cross-section since it has two continuous attachment points on the internal and external surfaces of the *acetabular rim* known as the "base" which converge at a single point as it projects externally known as the "apex" @neumannKinesiologyMusculoskeletalSystem2017.
+
+The aspect of the base on the internal aspect of the *acetabular rim* transitions into the articular cartilage of the acetabulum which is referred to as the "labrochondral junction" @neumannKinesiologyMusculoskeletalSystem2017.
+
+# Histology {#histology}
 
 
-
-- Fibrocartilage
+- Fibrocartilage @neumannKinesiologyMusculoskeletalSystem2017
 
 # Function
 
-- Deepens acetabulum
+- Deepens acetabulum @neumannKinesiologyMusculoskeletalSystem2017
 - &#8595; stress by inc contact area
-
+- Forms mechanical seal @neumannKinesiologyMusculoskeletalSystem2017
 
 # Dutton
 

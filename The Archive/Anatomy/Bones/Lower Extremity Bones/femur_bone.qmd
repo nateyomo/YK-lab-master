@@ -21,7 +21,13 @@ The [compact bone]({{< var ref-compact-bone.path >}}) tissue is "dense" and "uny
 Due to Wolff's Law, cancellous bone will concentrate along lines of stress, resulting in defined trabecular networks @neumannKinesiologyMusculoskeletalSystem2017.
 The trabeculae is separated into the *medial trabecular network* and *arcuate trabecular network* @neumannKinesiologyMusculoskeletalSystem2017.
 
+# Osteologic features
 
+## Femoral head
+
+The femoral head can be found just *inferior* to the middle 1/3 of the *inguinal ligament* @neumannKinesiologyMusculoskeletalSystem2017.
+
+The femoral head is covered by *articular cartilage* except for the *fova* @neumannKinesiologyMusculoskeletalSystem2017.
 
 # Load-Absorption
 
@@ -86,4 +92,12 @@ The quadrate tubercle refers to the distal attachment of the [Quadratus Femoris 
 
 The lesser trochanter projects posterior-medially from the inferior end of the intertrochanteric crest @neumannKinesiologyMusculoskeletalSystem2017.
 The lesser trochanter serves as the insertion for the Iliopsoas muscle, and is thus indirectly related to hip flexion and vertical L/S stabilization @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+
+# Fracture
+
+The majority of femoral fractures occur at the *femoral neck* in elderly individuals with predisposing conditions such as osteoporosis @gilroyAtlasAnatomy2020.
+
+*Femoral shaft* fracture can occur, but are less common and require extreme amounts of force, such as a motor vehicle accident @gilroyAtlasAnatomy2020.
 

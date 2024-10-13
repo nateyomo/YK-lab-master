@@ -1,15 +1,48 @@
 ---
-title: Femoroacetabular Joint
+title: Femoroacetabular Joint (Hip Joint)
 ---
 
+# Anatomy
+
+The femoroacetabular joint AKA the "hip joint" is a "classic" [ball-and-socket joint]({{< var ref-ball-and-socket-joint.path >}}) where the "ball" is the femoral head which sits in the acetabulum (socket) @neumannKinesiologyMusculoskeletalSystem2017.
+
+## Acetabulum
+Acetabulum forms the socket aspect of hip, and its name originates from latin meaning "vinegar cup" @neumannKinesiologyMusculoskeletalSystem2017.
+The acetabulum forms a partial circle with an inferior opening of 60-70&deg; wide @neumannKinesiologyMusculoskeletalSystem2017.
+
+:::{.callout-note}
+This circle is completed by the *transverse acetabular ligament* @neumannKinesiologyMusculoskeletalSystem2017.
+:::
+
+## Contact
+
+The femoral head generally contacts the *acetabulum* along the articular cartilage lined *lunate surface* @neumannKinesiologyMusculoskeletalSystem2017.
+
+# Gait
+
+During gait the hip experiences forces ranging from 13%BW in midswing to >300% BW at midstance @neumannKinesiologyMusculoskeletalSystem2017.
+
+# Force absorption
+
+Force absorption at the hip joint occur through a combination of passive structures including the articular cartilage and cancellous bone of the proximal femur in conjunction with active shock absorption through eccentric muscle activation @neumannKinesiologyMusculoskeletalSystem2017.
+
+When experiencing high amounts of force, such as midstance in gait, the acetabulum can deform and widen to increase contact area and decrease pressure on the joint @neumannKinesiologyMusculoskeletalSystem2017.
+
+:::{.callout-note}
+This widening of the acetabulum decreases pressure ($\frac{\textrm{force}}{\textrm{area}}$) and can potentially decrease *peak force* but does not change total force experienced at the joint
+:::
 
 # Angle of Inclination
 
+::: {.columns}
+::: {.column}
 ## Normal 
 
 - Adult: ~125&deg;
 - INFANT: 140-150&deg;
 
+:::
+::: {.column}
 
 ## Coxa vara
 
@@ -19,6 +52,9 @@ title: Femoroacetabular Joint
 - &#8593; bending moment arm and shear force at femoral neck
 - &#8595; hip abd functional length
 
+:::
+::: {.column}
+
 ## Coxa Valga
 
 - \>140&deg;
@@ -26,6 +62,11 @@ title: Femoroacetabular Joint
 - &#8595; hip joint stability
 - &#8595; bending moment arm and shear forces at femoral neck 
 - &#8593; hip abd functional length
+
+:::
+:::
+
+
 
 
 # Angle of Torsion
@@ -74,18 +115,31 @@ Femoral Torsion can be measured using the following test(s):
 
 # Stabilization
 
-- Acetabular labrum
+- Active stabilization
+- Passive stabilization
+- Mechanical seal resists first 1-2mm of joint distraction @neumannKinesiologyMusculoskeletalSystem2017 
 
+## Mechanical seal {#mechanical-seal}
 
+The "mechanical seal" or "suction seal" refers to the intra-articular pressure within the synovial capsule of the femoroacetabular joint @neumannKinesiologyMusculoskeletalSystem2017.
+
+Formed by:
+
+1. [Acetabular labrum](#acetabular-labrum)
+
+This mechanical seal resists the first 1-2 mm of joint distraction @neumannKinesiologyMusculoskeletalSystem2017
 
 # Center Edge Angle
 
-Center edge angle refers to the extent to which acetabulum covers femoral head
+Center edge angle refers to the extent to which acetabulum covers femoral head @neumannKinesiologyMusculoskeletalSystem2017. 
 
 Normal values:
 
 - Adults: 35-40&deg;
     - If larger: more likely to develop hip impingement
+
+A low (25-35&deg;) CE angle indicates that there is reduced acetabular coverage of the *femoral head* which places the individual at greater risk of dislocation and decreases contact surfaces within the joint @neumannKinesiologyMusculoskeletalSystem2017.
+Decreased contact surfaces will increase the amount of pressure the contact surfaces experience for the same amount of force @neumannKinesiologyMusculoskeletalSystem2017.
 
 ## Pincer Impingement
 
@@ -112,16 +166,45 @@ Normal values:
 3. Abduction
 
 
-# Ligaments
+# Ligaments & Capsule
 
 
 - Iliofemoral: 
-    - Strongest
+    - Strongest @gilroyAtlasAnatomy2020
     - Limits Ext and ER
-- Pubofemoral
+- Pubofemoral lig. @gilroyAtlasAnatomy2020
     - Limits abd and ext, less er
-- Ischiofemoral
+- Ischiofemoral lig. @gilroyAtlasAnatomy2020
     - Limits IR and Ext
+
+- Zona orbicularis (Anular ligament)
+
+
+# Joint Capsule
+
+The joint capsule is weakest in the *gaps* between joint ligaments @gilroyAtlasAnatomy2020.
+
+![Fig 31.9 @gilroyAtlasAnatomy2020]()
+
+There is a gap between the iliofemoral lig. and pubofemoral lig. on the anterior aspect of the hip @gilroyAtlasAnatomy2020.
+
+There is a second gap between the Iliofemoral lig. and the Ischiofemoral lig. on the posterior aspect of the hip @gilroyAtlasAnatomy2020.
+
+# Acetabular labrum {#labrum}
+
+The acetabular labrum refers to the ring of *fibrocartilage* projecting from the *acetabular rim* @neumannKinesiologyMusculoskeletalSystem2017.
+
+The labrum improves joint stability by helping to form the [mechanical seal](#mechanical-seal) of the hip joint @neumannKinesiologyMusculoskeletalSystem2017.
+
+The labrum maintains the environment for a healthy joint by creating a [fluid seal](#fluid-seal) for the synovial fluid @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+# Synovium
+
+## Fluid seal {#fluid-seal}
+The fluid seal is supported by the:
+
+- [Acetabular labrum](#acetabular-labrum) @neumannKinesiologyMusculoskeletalSystem2017.
 
 
 # Closed & Open Pack
@@ -144,7 +227,12 @@ Normal values:
 - Moderate abd
 - External rotation
 
-# Kinematics
+# Arthrology
+
+
+
+
+# Osteokinematics
 
 ## Flexion
 

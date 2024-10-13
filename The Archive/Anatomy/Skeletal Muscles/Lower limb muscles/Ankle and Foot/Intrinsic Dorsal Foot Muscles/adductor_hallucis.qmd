@@ -40,11 +40,14 @@ gt_table
 - **Oblique head**: 
     - Base of 2-4th metatarsals @gilroyAtlasAnatomy2020
     - Cuboid @gilroyAtlasAnatomy2020
-    - Lateral cuneiform @gilroyAtlasAnatomy2020
+    - Lateral cuneiforms @gilroyAtlasAnatomy2020
 - **Transverse head**: 
     - MTP joints of toes 3-5 @gilroyAtlasAnatomy2020
-    - Deep transverse lig. @gilroyAtlasAnatomy2020
+    - [Deep transverse metatarsal lig.]({{< var ref-deep-transverse-metatarsal-ligament.path >}}) @gilroyAtlasAnatomy2020
 
+:::{.callout-caution}
+I have no idea what "lateral cuneiforms" means since I do not know why it is plural and what cuneiforms it actually includes
+:::
 
 # Insertion {#insertion}
 

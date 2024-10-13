@@ -1,0 +1,9 @@
+---
+title: Transverse Acetabular Ligament
+---
+
+
+Spans the 60-70&deg; gap of the *acetabular notch* to form a complete circle with the rest of the *acetabulum* @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+The *transverse acetabular lig.* serves as an attachment site of the [ligamentum teres]({{< var ref-ligamentum-teres.path >}}) @neumannKinesiologyMusculoskeletalSystem2017. 

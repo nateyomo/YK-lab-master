@@ -22,7 +22,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -72,9 +91,13 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="../../../../styles.css">
+<meta name="twitter:title" content="Sternum (Bone)">
+<meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
+<meta name="twitter:site" content="@YomoKerstLab">
+<meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-fixed">
+<body class="floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -104,7 +127,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Guide</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../journal club index.html"> 
+    <a class="nav-link" href="../../../../journal_club_index.html"> 
 <span class="menu-text">Journal Club</span></a>
   </li>  
   <li class="nav-item">
@@ -126,18 +149,37 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-<!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#attachments" id="toc-attachments" class="nav-link active" data-scroll-target="#attachments">Attachments</a>
+  <li><a href="#articulations" id="toc-articulations" class="nav-link active" data-scroll-target="#articulations">Articulations</a>
+  <ul class="collapse">
+  <li><a href="#sternoclavicular-joint" id="toc-sternoclavicular-joint" class="nav-link" data-scroll-target="#sternoclavicular-joint">Sternoclavicular joint</a></li>
+  <li><a href="#sternocostal-joints" id="toc-sternocostal-joints" class="nav-link" data-scroll-target="#sternocostal-joints">Sternocostal Joints</a></li>
+  <li><a href="#manubriosternal-joint" id="toc-manubriosternal-joint" class="nav-link" data-scroll-target="#manubriosternal-joint">Manubriosternal Joint</a></li>
+  <li><a href="#xiphisternal-joint" id="toc-xiphisternal-joint" class="nav-link" data-scroll-target="#xiphisternal-joint">Xiphisternal Joint</a></li>
+  </ul></li>
+  <li><a href="#osteologic-features" id="toc-osteologic-features" class="nav-link" data-scroll-target="#osteologic-features">Osteologic features</a>
   <ul class="collapse">
   <li><a href="#manubrium" id="toc-manubrium" class="nav-link" data-scroll-target="#manubrium">Manubrium</a></li>
+  <li><a href="#jugular-notch" id="toc-jugular-notch" class="nav-link" data-scroll-target="#jugular-notch">Jugular notch</a></li>
+  <li><a href="#clavicular-facets" id="toc-clavicular-facets" class="nav-link" data-scroll-target="#clavicular-facets">Clavicular facets</a></li>
+  <li><a href="#body" id="toc-body" class="nav-link" data-scroll-target="#body">Body</a></li>
+  <li><a href="#costal-facets" id="toc-costal-facets" class="nav-link" data-scroll-target="#costal-facets">Costal facets</a></li>
+  <li><a href="#xiphoid-process" id="toc-xiphoid-process" class="nav-link" data-scroll-target="#xiphoid-process">Xiphoid process</a></li>
+  </ul></li>
+  <li><a href="#attachments" id="toc-attachments" class="nav-link" data-scroll-target="#attachments">Attachments</a>
+  <ul class="collapse">
+  <li><a href="#manubrium-1" id="toc-manubrium-1" class="nav-link" data-scroll-target="#manubrium-1">Manubrium</a></li>
   </ul></li>
   </ul>
 </nav>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -153,7 +195,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="quarto-title-meta-heading">Affiliations</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author">Nathaniel Yomogida, B.S., SPT </p>
+    <p class="author"><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#ngy">Nathaniel Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -164,7 +206,7 @@ ul.task-list li input[type="checkbox"] {
           </p>
       </div>
     <div class="quarto-title-meta-contents">
-    <p class="author">Chloë Kerstein, B.S., SPT </p>
+    <p class="author"><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -188,6 +230,67 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="articulations" class="level1">
+<h1>Articulations</h1>
+<section id="sternoclavicular-joint" class="level2">
+<h2 class="anchored" data-anchor-id="sternoclavicular-joint">Sternoclavicular joint</h2>
+<p>Articulation between <a href="#clavicular-facets"><em>clavicular facets</em></a> of the sternum with the clavicle<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span></p>
+</section>
+<section id="sternocostal-joints" class="level2">
+<h2 class="anchored" data-anchor-id="sternocostal-joints">Sternocostal Joints</h2>
+<p>The first sternocostal joint is immediately inferior to the sternoclavicular joint.</p>
+</section>
+<section id="manubriosternal-joint" class="level2">
+<h2 class="anchored" data-anchor-id="manubriosternal-joint">Manubriosternal Joint</h2>
+<p>One of the <em>intrasternal joints</em> of the sternum<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+<section id="xiphisternal-joint" class="level2">
+<h2 class="anchored" data-anchor-id="xiphisternal-joint">Xiphisternal Joint</h2>
+<p>One of the <em>intrasternal joints</em> of the sternum<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>. The xiphisternal joint connects the xiphoid to the sternum and is an articulation made of <em>fibrocartilage</em><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>By 40 years old, the xiphisternal joint <em>often</em> ossifies<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</p>
+</div>
+</div>
+</section>
+</section>
+<section id="osteologic-features" class="level1">
+<h1>Osteologic features</h1>
+<ul>
+<li><a href="#manubrium">Manubrium</a></li>
+<li><a href="#jugular-notch">Jugular notch</a></li>
+<li><a href="#clavicular-facets">Clavicular facets</a></li>
+<li><a href="#body">Body</a></li>
+<li><a href="#costal-facets">Costal facets</a></li>
+<li><a href="#xiphoid-process">Xiphoid process</a></li>
+</ul>
+<section id="manubrium" class="level2">
+<h2 class="anchored" data-anchor-id="manubrium">Manubrium</h2>
+</section>
+<section id="jugular-notch" class="level2">
+<h2 class="anchored" data-anchor-id="jugular-notch">Jugular notch</h2>
+</section>
+<section id="clavicular-facets" class="level2">
+<h2 class="anchored" data-anchor-id="clavicular-facets">Clavicular facets</h2>
+</section>
+<section id="body" class="level2">
+<h2 class="anchored" data-anchor-id="body">Body</h2>
+</section>
+<section id="costal-facets" class="level2">
+<h2 class="anchored" data-anchor-id="costal-facets">Costal facets</h2>
+</section>
+<section id="xiphoid-process" class="level2">
+<h2 class="anchored" data-anchor-id="xiphoid-process">Xiphoid process</h2>
+</section>
+</section>
 <section id="attachments" class="level1">
 <h1>Attachments</h1>
 <table class="table-striped table-hover caption-top table">
@@ -211,8 +314,8 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
-<section id="manubrium" class="level2">
-<h2 class="anchored" data-anchor-id="manubrium">Manubrium</h2>
+<section id="manubrium-1" class="level2">
+<h2 class="anchored" data-anchor-id="manubrium-1">Manubrium</h2>
 <table class="table-striped table-hover caption-top table">
 <caption>Sternocleidomastoid OIAN</caption>
 <thead>
@@ -236,10 +339,15 @@ ul.task-list li input[type="checkbox"] {
 </table>
 
 
+
 </section>
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-neumannKinesiologyMusculoskeletalSystem2017" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. <em>Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation</em>. 3rd ed. Elsevier; 2017.</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Sternum (Bone). <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Bones/Bones of the trunk/sternum_bone.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
 Archive/Anatomy/Bones/Bones of the trunk/sternum_bone.html</a></div>
 </div></div></section></div></main> <!-- /main -->

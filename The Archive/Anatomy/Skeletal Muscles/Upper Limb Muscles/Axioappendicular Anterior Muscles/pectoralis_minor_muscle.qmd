@@ -10,14 +10,31 @@ title: Pectoralis Minor
 
 # Overview
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Pectoralis Minor]({{< var ref-pectoralis-minor.path >}}) | {{< var ref-pectoralis-minor.origin >}} | {{< var ref-pectoralis-minor.insertion >}} | {{< var ref-pectoralis-minor.nerve >}} | {{< var ref-pectoralis-minor.action >}} |
+```{r tbl-pectoralis-minor-oian}
+#| echo: false
+#| warning: false
+#| message: false
 
-: Pectoralis Minor OIAN {.striped .hover}
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/gt_oian.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "pectoralis_minor"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Pectoralis minor muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 # Origin {#origin}
-[3rd to 5th ribs]({{< var ref-ribs-bones.path >}}) @gilroyAtlasAnatomy2020
+[3rd to 5th ribs]({{< var ref-rib-bones.path >}}) @gilroyAtlasAnatomy2020
 
 # Insertion {#insertion}
 [Coracoid process]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020

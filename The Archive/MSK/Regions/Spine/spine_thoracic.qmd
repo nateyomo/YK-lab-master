@@ -2,6 +2,10 @@
 title: Thoracic Spine
 ---
 
+# Kyphosis
+
+Thoracic kyphosis can reduce the space available to the lungs, resulting in limitations in deep breathing @neumannKinesiologyMusculoskeletalSystem2017.
+
 # Osteokinematics
 
 ## Flexion 

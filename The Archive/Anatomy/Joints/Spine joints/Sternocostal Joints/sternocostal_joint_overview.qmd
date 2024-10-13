@@ -1,0 +1,12 @@
+---
+title: Sternocostal Joints (Overview)
+---
+
+Sternocostal joints refer to the 7 joints created by ribs 1-7 articulating with the lateral border of the [sternum]({{< var ref-sternum-bone.path >}}) @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+:::{.callout title="Read"}
+
+Chapter 11 ventilation and arthrology of sternocostal joint
+
+:::

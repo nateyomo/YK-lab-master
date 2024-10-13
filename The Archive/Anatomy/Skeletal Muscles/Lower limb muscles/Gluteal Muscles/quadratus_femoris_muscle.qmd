@@ -2,7 +2,7 @@
 title: Quadratus Femoris Muscle
 ---
 
-# OIAN
+# Overview
 
 ```{r}
 #| echo: false
@@ -45,4 +45,19 @@ Sacral plexus Direct Branches ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var
 
 
 
-# Overview
+# Palpation
+
+1. Position the patient in prone @bielTrailGuideBody2019.
+1. locate: @bielTrailGuideBody2019.
+    1. Posterior aspect of Greater trochanter @bielTrailGuideBody2019.
+    1. Ischial tuberosity @bielTrailGuideBody2019.
+1. Bisect these two landmarks and place your fingerpads here @bielTrailGuideBody2019.
+1. Press firmly *through* the more superficial Gluteus maximus muscle belly @bielTrailGuideBody2019.
+1. Strum vertically over the QF muscle belly @bielTrailGuideBody2019.
+
+:::{layout-ncol="2"}
+
+### Passive tension
+You can passively tense and slack the quadratus femoris by flexing the knee to 90&deg; then moving between internal rotation (tension) to external rotation (slack), which should cause the quadratus femoris to palpably increase in tension @bielTrailGuideBody2019.
+
+:::

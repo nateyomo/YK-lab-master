@@ -12,7 +12,7 @@ title: Pectineus Muscle
 
 # Overview
 
-```{r}
+```{r tbl-pectineus-oian}
 #| echo: false
 #| warning: false
 #| message: false

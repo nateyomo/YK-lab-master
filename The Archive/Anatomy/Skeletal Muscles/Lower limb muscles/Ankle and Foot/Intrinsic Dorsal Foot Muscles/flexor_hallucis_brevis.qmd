@@ -8,13 +8,38 @@ title: Flexor Hallucis Brevis
 ![3rd Layer of Intrinsic Plantar Foot Muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.22b intrinsic 3rd layer foot muscles.png)
 :::
 
+
+:::{.callout title="Reading list"}
+
+- @hakim-zargarImplicationsAnatomyFlexor2010 
+- @kelikianSarrafiansAnatomyFoot2011 
+
+:::
+
 # Overview
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Flexor Hallucis Brevis]({{< var ref-flexor-hallucis-brevis.path >}}) | {{< var ref-flexor-hallucis-brevis.origin >}} | {{< var ref-flexor-hallucis-brevis.insertion >}} | {{< var ref-flexor-hallucis-brevis.nerve >}} | {{< var ref-flexor-hallucis-brevis.action >}} |
-: {.striped .hover}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
 
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/gt_oian.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "flexor_hallucis_brevis"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Flexor Hallucis Brevis Muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 3rd layer of the muscles of the sole of the foot
 
@@ -24,10 +49,22 @@ title: Flexor Hallucis Brevis
 - Lateral cuneiforms @gilroyAtlasAnatomy2020
 - Plantar calcaneocuboid lig @gilroyAtlasAnatomy2020
 
+:::{.callout-note}
+
+Other sources state that the {{< var ref-flexor-hallucis-brevis.abbreviation >}} originates from the 
+:::
 
 
 # Insertion {#insertion}
 Base of proximal phalanx 1st toe (via med and lateral sesamoids) @gilroyAtlasAnatomy2020
+
+
+"More recently, a study of 42 cadaveric specimens also verified that the adductor hallucis inserts into the lateral sesamoid and has a conjoined tendon with the FHB which then inserts into the base of the proximal phalanx" 
+
+- quote source @hakim-zargarImplicationsAnatomyFlexor2010
+- Source @owensAdductorHallucisRevisited2001
+
+"The medial and lateral heads of the FHB insert onto distinct locations at the base of the proximal phalanx" @hakim-zargarImplicationsAnatomyFlexor2010
 
 
 

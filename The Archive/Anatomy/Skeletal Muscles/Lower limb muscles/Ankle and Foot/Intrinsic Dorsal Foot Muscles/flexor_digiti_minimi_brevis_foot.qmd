@@ -19,7 +19,7 @@ title: Flexor Digiti Minimi Brevis (Foot)
 # Origin {#origin}
 
 - Base of 5th MT @gilroyAtlasAnatomy2020
-- Long plantar lig @gilroyAtlasAnatomy2020
+- [Long plantar lig.]({{< var ref-long-plantar-ligament.path >}}) @gilroyAtlasAnatomy2020
 
 
 

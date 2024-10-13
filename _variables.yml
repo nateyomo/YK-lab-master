@@ -27,21 +27,22 @@ ref-bone-index:
 ### Bones of the Trunk
 ref-sternum-bone:
   path: "/The Archive/Anatomy/Bones/Bones of the trunk/sternum_bone.qmd"
-ref-1st-rib:
-  path: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd"
+ref-1st-rib-bone:
+  path: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib_bone.html"
   hypomobility: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd#hypomobility"
   elevation: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd"
   mobilization: "/The Archive/Interventions/Manual therapy/Mobilizations/1st_rib_mobilization.qmd"
-ref-ribs-bones:
-  path: "/The Archive/Anatomy/Bones/Bones of the trunk/ribs_bone.qmd"
+ref-rib-bones:
+  path: "/The Archive/Anatomy/Bones/Bones of the trunk/rib_bones.html"
 
 ### Upper extremity bones
 ref-clavicle-bone:
   path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/clavicle_bone.qmd"
 ref-scapula-bone:
-  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.qmd"
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html"
   superior-border: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.qmd#superior-border"
   coracoid-process: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.qmd#coracoid-process"
+  scapular-spine: "//The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html"
 ref-humerus-bone:
   path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.qmd"
 ref-ulna-bone:
@@ -183,9 +184,23 @@ ref-pes-anserine:
 ref-plica:
   path: "/The Archive/Anatomy/Connective tissue/plica.qmd"
   syndrome: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Knee/plica_syndrome.qmd"
+
+### LE connective tissue
+ref-acetabular-labrum:
+  path: "/The Archive/Anatomy/Connective tissue/LE CT/acetabular_labrum.qmd"
+
+### Intervertebra discs
+ref-intervertebral-disc:
+  path: "/The Archive/Anatomy/Connective tissue/Intervertebral discs/intervertebral_disc_ivd_overview.qmd"
+ref-cervical-intervertebral-discs:
+  path: "/The Archive/Anatomy/Connective tissue/Intervertebral discs/cervical_intervertebral_disc.qmd"
+
 ## Joints
+### Joint types
 ref-synovial-joint:
   path: "/The Archive/Anatomy/Joints/Joint Types/Synovial Joint/synovial_joint.qmd"
+ref-ball-and-socket-joint:
+  path: "/The Archive/Anatomy/Joints/Joint Types/Synovial Joint/ball-and-socket_synovial_joint.qmd"
 
 ref-joint:
   path: "/The Archive/Anatomy/Joints/joint_overview.qmd"
@@ -204,13 +219,22 @@ ref-sternoclavicular-joint:
   path: "/The Archive/Anatomy/Joints/sternoclavicular_joint.qmd"
 
 ### Spine joints
-
 ref-apophyseal-joint:
   path: "/The Archive/Anatomy/Joints/Spine joints/apophyseal_joint.qmd"
 ref-lumbosacral-junction:
   path: "/The Archive/Anatomy/Joints/Spine joints/lumbosacral_junction.qmd"
-
+ref-costovertebral-joint:
+  path: "/The Archive/Anatomy/Joints/Spine joints/costovertebral_joint_overview.html"
+ref-costocorporeal-joint:
+  path: "/The Archive/Anatomy/Joints/Spine joints/costocorporeal_joint_overview.html"
+ref-costotransverse-joint:
+  path: "/The Archive/Anatomy/Joints/Spine joints/costotransverse_joint_overview.html"
+ref-sternocostal-joint:
+  path: "/The Archive/Anatomy/Joints/Spine joints/sternocostal_joint_overview.qmd"
+  1st: "/"
 ### LE Joints
+ref-femoroacetabular-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/femoroacetabular_joint.qmd"
 ref-tibiofemoral-joint:
   path: "/"
 ref-proximal-tibiofibular-joint:
@@ -228,11 +252,22 @@ ref-talonavicular-joint:
   path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/talonavicular_joint.qmd"
 ref-calcaneocuboid-joint:
   path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/calcaneocuboid_joint.qmd"
-ref-metatarsophalangeal-joint:
-  path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/metatarsophalangeal_joint.qmd"
-ref-interphalangeal-joint:
+ref-interphalangeal-joints:
   path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/interphalangeal_joint.qmd"
-
+ref-1st-interphalangeal-joint:
+  path: "/"
+ref-metatarsophalangeal-joints:
+  path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/MTP joints/metatarsophalangeal_joint.html"
+ref-1st-metatarsophalangeal-joint:
+  path: "/"
+ref-2nd-metatarsophalangeal-joint:
+  path: "/"
+ref-3rd-metatarsophalangeal-joint:
+  path: "/"
+ref-4th-metatarsophalangeal-joint:
+  path: "/"
+ref-5th-metatarsophalangeal-joint:
+  path: "/"
 
 ### UE Joints
 ref-acromioclavicular-joint:
@@ -263,7 +298,11 @@ ref-sacrotuberous-ligament:
 ### Knee ligaments
 ref-knee-ligaments:
   path: "/The Archive/Anatomy/Ligaments/Knee ligaments/knee_ligaments.qmd"
-
+### Ankle and foot
+ref-deep-transverse-metatarsal-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Ankle and foot Ligaments/deep_transverse_metatarsal_ligament.html"
+ref-long-plantar-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Ankle and foot Ligaments/long_plantar_ligament.html"
 ## Multi-system structures
 ### Upper extremity
 ref-thoracic-outlet:
@@ -632,19 +671,19 @@ ref-sternocleidomastoid:
 ref-trapezius:
   path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
 ref-upper-trapezius:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/upper_trapezius_muscle.html"
   origin: "[Occipital bone]({{< var ref-occipital-bone.path >}}) </br> SP of C1–C7"
   insertion: "[Clavicle (lateral one third)]({{< var ref-clavicle-bone.path >}})"
   nerve: "**Motor**: [CN XI Accessory n.]({{< var ref-cn11.path >}}) ([C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) </br> </br> **Proprioception**: Cervical plexus ([C2]({{< var ref-nerve-root.c2 >}}), [C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}}))"
   action: "**Scapula**: Elevation, Upward rotation </br> **Neck**: I/L sidebend and C/L rotation"
 ref-middle-trapezius:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/middle_trapezius.qmd"
   origin: "Aponeurosis at T1–T4 SP"
   insertion: "[Acromion of Scapula]({{< var ref-scapula-bone.path >}})"
   nerve: "**Motor**: [CN XI Accessory n.]({{< var ref-cn11.path >}}) ([C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) </br> </br> **Proprioception**: Cervical plexus ([C2]({{< var ref-nerve-root.c2 >}}), [C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}}))"
   action: "Scapular retraction </br> Stabilize the scapula during upward rotation"
 ref-lower-trapezius:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/trapezius_muscle.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/lower_trapezius.qmd"
   origin: "SP of T5–T12"
   insertion: "[Scapular Spine]({{< var ref-scapula-bone.path >}})"
   nerve: "**Motor**: [CN XI Accessory n.]({{< var ref-cn11.path >}}) ([C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) </br> </br> **Proprioception**: Cervical plexus ([C2]({{< var ref-nerve-root.c2 >}}), [C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}}))"
@@ -665,7 +704,7 @@ ref-pectoralis-major:
   action: "**Entire muscle**: GHJ Adduction, Internal rotation </br> </br> **Clavicular and sternocostal parts**: Flexion; assist in respiration when shoulder is fixed"
 ref-pectoralis-minor:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_minor_muscle.qmd"
-  origin: "[3rd to 5th ribs]({{< var ref-ribs-bones.path >}})"
+  origin: "[3rd to 5th ribs]({{< var ref-rib-bones.path >}})"
   insertion: "[Coracoid process]({{< var ref-scapula-bone.path >}})"
   nerve: "[Medial Pectoral n.]({{< var ref-medial-pectoral-nerve.path >}}) ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}}))"
   action: "**Scapulothoracic**: Depression, protraction, downward rotation </br> **Respiration**: Assistance"
@@ -1092,38 +1131,39 @@ ref-hip-extensor-muscle-group:
 ref-hip-external-rotator-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_external_rotators.qmd"
 ref-hip-internal-rotator-muscle-group:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/Hip_internal_rotators_muscles.qmd"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/Hip_internal_rotators_muscles.html"
 
 ref-pectineus:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus_muscle.qmd"
-  origin: "Pecten Pubis"
-  insertion: "Femur (pectineal line and proximal linea aspera)"
-  nerve: "[Femoral N.]({{< var ref-femoral-nerve.path >}}), ref-obturator-nerve ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}))"
-  action: "**Hip joint**: ER, ADD, slight flex </br> **Pelvis Stabilization:** Coronal and sagittal plane"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus_muscle.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus_muscle.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus_muscle.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus_muscle.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus_muscle.html#action"
+  palpation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus_muscle.html#palpation"
 ref-adductor-longus:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_longus.qmd"
-  origin: "Superior pubic ramus </br> Anterior side of the pubic symphysis"
-  insertion: "Femur (linea aspera, medial lip in the middle third of the femur)"
-  nerve: "[Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}}))"
-  action: "**Hip joint**: </br> Adduction and flexion (up to 70&deg;); </br> Extension (past 80&deg; of flexion) </br> </br> **Pelvic Stabilization**: Coronal and Sagittal planes"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_longus.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_longus.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_longus.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_longus.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_longus.html#action"
 ref-adductor-brevis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_brevis.qmd"
-  origin: "Inferior pubic ramus"
-  insertion: "Femur (linea aspera, medial lip in the middle third of the femur)"
-  nerve: "[Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}))"
-  action: "**Hip joint**: </br> Adduction and flexion (up to 70&deg;); </br> Extension (past 80&deg; of flexion) </br> </br> **Pelvic Stabilization**: Coronal and Sagittal planes"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_brevis.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_brevis.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_brevis.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_brevis.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_brevis.html#action"
 ref-gracilis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis_muscle.qmd"
-  origin: "Inferior pubic ramus"
-  insertion: "Pes Anserine of the Tibia (medial border of the tuberosity)"
-  nerve: "[Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}))"
-  action: "**Hip**: Adduction and Flexion </br> **Knee**: Flexion and Internal rotation"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis_muscle.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis_muscle.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis_muscle.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis_muscle.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis_muscle.html#action"
 ref-obturator-externus:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/obturator_externus.qmd"
-  origin: "Outer surface of the obturator membrane and its bony boundaries"
-  insertion: "Trochanteric fossa of the femur "
-  nerve: "[Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}}))"
-  action: "**Hip**: adduction and external rotation </br> **Pelvic Stabilization**: Sagittal plane"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/obturator_externus.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/obturator_externus.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/obturator_externus.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/obturator_externus.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/obturator_externus.html#action"
 ref-adductor-magnus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.qmd"
   origin: "Inferior pubic ramus</br> Ischial ramus </br> Ischial tuberosity"
@@ -1337,6 +1377,7 @@ ref-flexor-hallucis-brevis:
   insertion: "Base of proximal phalanx 1st toe </br> (*via med and lateral sesamoids*)"
   nerve: "**Medial head**: [Medial Plantar N.]({{< var ref-medial-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) </br> </br> **Lateral head**: [Lateral Plantar N.]({{< var ref-lateral-plantar-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}}))"
   action: "**1st MTP**: Flexion </br> **Longitudinal arch**: Support"
+  abbreviation: "[FHB]({{< var ref-flexor-hallucis-brevis.path >}})"
 ref-adductor-hallucis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.qmd"
   origin: "**Oblique head**: </br> Base of 2-4th metatarsals </br> Cuboid </br> Lateral cuneiform </br> </br> **Transverse head**: </br> MTP joints of toes 3-5 </br> Deep transverse lig."
@@ -1633,6 +1674,9 @@ ref-nuchal-ligament:
   path: "/The Archive/Anatomy/Ligaments/nuchal_ligament.qmd"
 
 ### LE Ligaments
+#### Hip ligaments
+ref-ligamentum-teres:
+  path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Hip Ligaments/ligamentum_teres.html"
 #### Ankle ligaments
 ref-anterior-talofibular-ligament:
   path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Ankle Ligaments/Lateral ligaments/anterior_talofibular_ligament_ATFL.qmd"
@@ -2418,6 +2462,9 @@ ref-hip-microinstability:
 ref-hip-osteoarthritis:
   path: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/hip_osteoarthritis.qmd"
 
+#### Foot Pathologies
+ref-hallux-valgus:
+  path: "/The Archive/Pathologies/Joint pathologies/Ankle and Foot/hallux_valgus.qmd"
 
 
 # Pathophysiology

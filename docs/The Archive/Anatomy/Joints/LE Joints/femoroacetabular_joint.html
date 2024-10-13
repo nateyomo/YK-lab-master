@@ -9,7 +9,7 @@
 <meta name="author" content="Nathaniel Yomogida">
 <meta name="author" content="Chloë Kerstein">
 
-<title>Femoroacetabular Joint</title>
+<title>Femoroacetabular Joint (Hip Joint)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,7 +22,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -44,6 +63,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,11 +92,45 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../../../styles.css">
+<meta name="twitter:title" content="Femoroacetabular Joint (Hip Joint)">
+<meta name="twitter:description" content="">
+<meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
+<meta name="twitter:site" content="@YomoKerstLab">
+<meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-fixed">
+<body class="floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -104,7 +160,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Guide</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../journal club index.html"> 
+    <a class="nav-link" href="../../../../journal_club_index.html"> 
 <span class="menu-text">Journal Club</span></a>
   </li>  
   <li class="nav-item">
@@ -126,18 +182,19 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-<!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#angle-of-inclination" id="toc-angle-of-inclination" class="nav-link active" data-scroll-target="#angle-of-inclination">Angle of Inclination</a>
+  <li><a href="#anatomy" id="toc-anatomy" class="nav-link active" data-scroll-target="#anatomy">Anatomy</a>
   <ul class="collapse">
-  <li><a href="#normal" id="toc-normal" class="nav-link" data-scroll-target="#normal">Normal</a></li>
-  <li><a href="#coxa-vara" id="toc-coxa-vara" class="nav-link" data-scroll-target="#coxa-vara">Coxa vara</a></li>
-  <li><a href="#coxa-valga" id="toc-coxa-valga" class="nav-link" data-scroll-target="#coxa-valga">Coxa Valga</a></li>
+  <li><a href="#acetabulum" id="toc-acetabulum" class="nav-link" data-scroll-target="#acetabulum">Acetabulum</a></li>
+  <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
   </ul></li>
+  <li><a href="#gait" id="toc-gait" class="nav-link" data-scroll-target="#gait">Gait</a></li>
+  <li><a href="#force-absorption" id="toc-force-absorption" class="nav-link" data-scroll-target="#force-absorption">Force absorption</a></li>
+  <li><a href="#angle-of-inclination" id="toc-angle-of-inclination" class="nav-link" data-scroll-target="#angle-of-inclination">Angle of Inclination</a></li>
   <li><a href="#angle-of-torsion" id="toc-angle-of-torsion" class="nav-link" data-scroll-target="#angle-of-torsion">Angle of Torsion</a>
   <ul class="collapse">
   <li><a href="#normal-1" id="toc-normal-1" class="nav-link" data-scroll-target="#normal-1">Normal</a></li>
@@ -145,7 +202,10 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#retroversion" id="toc-retroversion" class="nav-link" data-scroll-target="#retroversion">Retroversion</a></li>
   <li><a href="#examination" id="toc-examination" class="nav-link" data-scroll-target="#examination">Examination</a></li>
   </ul></li>
-  <li><a href="#stabilization" id="toc-stabilization" class="nav-link" data-scroll-target="#stabilization">Stabilization</a></li>
+  <li><a href="#stabilization" id="toc-stabilization" class="nav-link" data-scroll-target="#stabilization">Stabilization</a>
+  <ul class="collapse">
+  <li><a href="#mechanical-seal" id="toc-mechanical-seal" class="nav-link" data-scroll-target="#mechanical-seal">Mechanical seal</a></li>
+  </ul></li>
   <li><a href="#center-edge-angle" id="toc-center-edge-angle" class="nav-link" data-scroll-target="#center-edge-angle">Center Edge Angle</a>
   <ul class="collapse">
   <li><a href="#pincer-impingement" id="toc-pincer-impingement" class="nav-link" data-scroll-target="#pincer-impingement">Pincer Impingement</a></li>
@@ -153,14 +213,21 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#acetabular-anteversion" id="toc-acetabular-anteversion" class="nav-link" data-scroll-target="#acetabular-anteversion">Acetabular anteversion</a></li>
   <li><a href="#capsular-pattern" id="toc-capsular-pattern" class="nav-link" data-scroll-target="#capsular-pattern">Capsular pattern</a></li>
-  <li><a href="#ligaments" id="toc-ligaments" class="nav-link" data-scroll-target="#ligaments">Ligaments</a></li>
+  <li><a href="#ligaments-capsule" id="toc-ligaments-capsule" class="nav-link" data-scroll-target="#ligaments-capsule">Ligaments &amp; Capsule</a></li>
+  <li><a href="#joint-capsule" id="toc-joint-capsule" class="nav-link" data-scroll-target="#joint-capsule">Joint Capsule</a></li>
+  <li><a href="#labrum" id="toc-labrum" class="nav-link" data-scroll-target="#labrum">Acetabular labrum</a></li>
+  <li><a href="#synovium" id="toc-synovium" class="nav-link" data-scroll-target="#synovium">Synovium</a>
+  <ul class="collapse">
+  <li><a href="#fluid-seal" id="toc-fluid-seal" class="nav-link" data-scroll-target="#fluid-seal">Fluid seal</a></li>
+  </ul></li>
   <li><a href="#closed-open-pack" id="toc-closed-open-pack" class="nav-link" data-scroll-target="#closed-open-pack">Closed &amp; Open Pack</a>
   <ul class="collapse">
   <li><a href="#closed-pack" id="toc-closed-pack" class="nav-link" data-scroll-target="#closed-pack">Closed Pack</a></li>
   <li><a href="#open-pack" id="toc-open-pack" class="nav-link" data-scroll-target="#open-pack">Open Pack</a></li>
   </ul></li>
   <li><a href="#congruency" id="toc-congruency" class="nav-link" data-scroll-target="#congruency">Congruency</a></li>
-  <li><a href="#kinematics" id="toc-kinematics" class="nav-link" data-scroll-target="#kinematics">Kinematics</a>
+  <li><a href="#arthrology" id="toc-arthrology" class="nav-link" data-scroll-target="#arthrology">Arthrology</a></li>
+  <li><a href="#osteokinematics" id="toc-osteokinematics" class="nav-link" data-scroll-target="#osteokinematics">Osteokinematics</a>
   <ul class="collapse">
   <li><a href="#flexion" id="toc-flexion" class="nav-link" data-scroll-target="#flexion">Flexion</a></li>
   <li><a href="#extension" id="toc-extension" class="nav-link" data-scroll-target="#extension">Extension</a></li>
@@ -171,13 +238,17 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   </ul>
 </nav>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Femoroacetabular Joint</h1>
+<h1 class="title">Femoroacetabular Joint (Hip Joint)</h1>
 </div>
 
 
@@ -186,7 +257,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="quarto-title-meta-heading">Affiliations</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author">Nathaniel Yomogida, B.S., SPT </p>
+    <p class="author"><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#ngy">Nathaniel Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -197,7 +268,7 @@ ul.task-list li input[type="checkbox"] {
           </p>
       </div>
     <div class="quarto-title-meta-contents">
-    <p class="author">Chloë Kerstein, B.S., SPT </p>
+    <p class="author"><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -221,8 +292,57 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="anatomy" class="level1">
+<h1>Anatomy</h1>
+<p>The femoroacetabular joint AKA the “hip joint” is a “classic” <a href="../../../../The Archive/Anatomy/Joints/Joint Types/Synovial Joint/ball-and-socket_synovial_joint.html">ball-and-socket joint</a> where the “ball” is the femoral head which sits in the acetabulum (socket)<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</p>
+<section id="acetabulum" class="level2">
+<h2 class="anchored" data-anchor-id="acetabulum">Acetabulum</h2>
+<p>Acetabulum forms the socket aspect of hip, and its name originates from latin meaning “vinegar cup”<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>. The acetabulum forms a partial circle with an inferior opening of 60-70° wide<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This circle is completed by the <em>transverse acetabular ligament</em><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</p>
+</div>
+</div>
+</section>
+<section id="contact" class="level2">
+<h2 class="anchored" data-anchor-id="contact">Contact</h2>
+<p>The femoral head generally contacts the <em>acetabulum</em> along the articular cartilage lined <em>lunate surface</em><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+</section>
+<section id="gait" class="level1">
+<h1>Gait</h1>
+<p>During gait the hip experiences forces ranging from 13%BW in midswing to &gt;300% BW at midstance<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+<section id="force-absorption" class="level1">
+<h1>Force absorption</h1>
+<p>Force absorption at the hip joint occur through a combination of passive structures including the articular cartilage and cancellous bone of the proximal femur in conjunction with active shock absorption through eccentric muscle activation<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</p>
+<p>When experiencing high amounts of force, such as midstance in gait, the acetabulum can deform and widen to increase contact area and decrease pressure on the joint<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This widening of the acetabulum decreases pressure (<span class="math inline">\(\frac{\textrm{force}}{\textrm{area}}\)</span>) and can potentially decrease <em>peak force</em> but does not change total force experienced at the joint</p>
+</div>
+</div>
+</section>
 <section id="angle-of-inclination" class="level1">
 <h1>Angle of Inclination</h1>
+<div class="columns">
+<div class="column">
 <section id="normal" class="level2">
 <h2 class="anchored" data-anchor-id="normal">Normal</h2>
 <ul>
@@ -230,6 +350,7 @@ ul.task-list li input[type="checkbox"] {
 <li>INFANT: 140-150°</li>
 </ul>
 </section>
+</div><div class="column">
 <section id="coxa-vara" class="level2">
 <h2 class="anchored" data-anchor-id="coxa-vara">Coxa vara</h2>
 <ul>
@@ -240,6 +361,7 @@ ul.task-list li input[type="checkbox"] {
 <li>↓ hip abd functional length</li>
 </ul>
 </section>
+</div><div class="column">
 <section id="coxa-valga" class="level2">
 <h2 class="anchored" data-anchor-id="coxa-valga">Coxa Valga</h2>
 <ul>
@@ -250,6 +372,8 @@ ul.task-list li input[type="checkbox"] {
 <li>↑ hip abd functional length</li>
 </ul>
 </section>
+</div>
+</div>
 </section>
 <section id="angle-of-torsion" class="level1">
 <h1>Angle of Torsion</h1>
@@ -303,12 +427,23 @@ ul.task-list li input[type="checkbox"] {
 <section id="stabilization" class="level1">
 <h1>Stabilization</h1>
 <ul>
-<li>Acetabular labrum</li>
+<li>Active stabilization</li>
+<li>Passive stabilization</li>
+<li>Mechanical seal resists first 1-2mm of joint distraction<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span></li>
 </ul>
+<section id="mechanical-seal" class="level2">
+<h2 class="anchored" data-anchor-id="mechanical-seal">Mechanical seal</h2>
+<p>The “mechanical seal” or “suction seal” refers to the intra-articular pressure within the synovial capsule of the femoroacetabular joint<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</p>
+<p>Formed by:</p>
+<ol type="1">
+<li><a href="#acetabular-labrum">Acetabular labrum</a></li>
+</ol>
+<p>This mechanical seal resists the first 1-2 mm of joint distraction<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span></p>
+</section>
 </section>
 <section id="center-edge-angle" class="level1">
 <h1>Center Edge Angle</h1>
-<p>Center edge angle refers to the extent to which acetabulum covers femoral head</p>
+<p>Center edge angle refers to the extent to which acetabulum covers femoral head<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</p>
 <p>Normal values:</p>
 <ul>
 <li>Adults: 35-40°
@@ -316,6 +451,7 @@ ul.task-list li input[type="checkbox"] {
 <li>If larger: more likely to develop hip impingement</li>
 </ul></li>
 </ul>
+<p>A low (25-35°) CE angle indicates that there is reduced acetabular coverage of the <em>femoral head</em> which places the individual at greater risk of dislocation and decreases contact surfaces within the joint<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>. Decreased contact surfaces will increase the amount of pressure the contact surfaces experience for the same amount of force<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</p>
 <section id="pincer-impingement" class="level2">
 <h2 class="anchored" data-anchor-id="pincer-impingement">Pincer Impingement</h2>
 <ul>
@@ -348,23 +484,52 @@ ul.task-list li input[type="checkbox"] {
 <li>Abduction</li>
 </ol>
 </section>
-<section id="ligaments" class="level1">
-<h1>Ligaments</h1>
+<section id="ligaments-capsule" class="level1">
+<h1>Ligaments &amp; Capsule</h1>
 <ul>
 <li>Iliofemoral:
 <ul>
-<li>Strongest</li>
+<li>Strongest<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span></li>
 <li>Limits Ext and ER</li>
 </ul></li>
-<li>Pubofemoral
+<li>Pubofemoral lig.<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
 <ul>
 <li>Limits abd and ext, less er</li>
 </ul></li>
-<li>Ischiofemoral
+<li>Ischiofemoral lig.<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
 <ul>
 <li>Limits IR and Ext</li>
 </ul></li>
+<li>Zona orbicularis (Anular ligament)</li>
 </ul>
+</section>
+<section id="joint-capsule" class="level1">
+<h1>Joint Capsule</h1>
+<p>The joint capsule is weakest in the <em>gaps</em> between joint ligaments<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href=".png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Fig 31.9 @gilroyAtlasAnatomy2020"><img src=".png" class="img-fluid figure-img" alt="Fig 31.92"></a></p>
+<figcaption>Fig 31.9<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span></figcaption>
+</figure>
+</div>
+<p>There is a gap between the iliofemoral lig. and pubofemoral lig. on the anterior aspect of the hip<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>.</p>
+<p>There is a second gap between the Iliofemoral lig. and the Ischiofemoral lig. on the posterior aspect of the hip<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>.</p>
+</section>
+<section id="labrum" class="level1">
+<h1>Acetabular labrum</h1>
+<p>The acetabular labrum refers to the ring of <em>fibrocartilage</em> projecting from the <em>acetabular rim</em><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</p>
+<p>The labrum improves joint stability by helping to form the <a href="#mechanical-seal">mechanical seal</a> of the hip joint<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</p>
+<p>The labrum maintains the environment for a healthy joint by creating a <a href="#fluid-seal">fluid seal</a> for the synovial fluid<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+<section id="synovium" class="level1">
+<h1>Synovium</h1>
+<section id="fluid-seal" class="level2">
+<h2 class="anchored" data-anchor-id="fluid-seal">Fluid seal</h2>
+<p>The fluid seal is supported by the:</p>
+<ul>
+<li><a href="#acetabular-labrum">Acetabular labrum</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span>.</li>
+</ul>
+</section>
 </section>
 <section id="closed-open-pack" class="level1">
 <h1>Closed &amp; Open Pack</h1>
@@ -389,8 +554,11 @@ ul.task-list li input[type="checkbox"] {
 <li>External rotation</li>
 </ul>
 </section>
-<section id="kinematics" class="level1">
-<h1>Kinematics</h1>
+<section id="arthrology" class="level1">
+<h1>Arthrology</h1>
+</section>
+<section id="osteokinematics" class="level1">
+<h1>Osteokinematics</h1>
 <section id="flexion" class="level2">
 <h2 class="anchored" data-anchor-id="flexion">Flexion</h2>
 <ul>
@@ -440,12 +608,20 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 
 
+
 </section>
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
-<div class="">Yomogida N, Kerstein C. Femoroacetabular Joint.
-<a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Joints/LE Joints/femoroacetabular_joint.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-neumannKinesiologyMusculoskeletalSystem2017" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. <em>Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation</em>. 3rd ed. Elsevier; 2017.</div>
+</div>
+<div id="ref-gilroyAtlasAnatomy2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Gilroy AM, MacPherson BR, Wikenheiser JC, Voll MM, Wesker K, Schünke M, eds. <em>Atlas of Anatomy</em>. 4th ed. Thieme; 2020.</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div class="">Yomogida N, Kerstein C. Femoroacetabular Joint
+(Hip Joint). <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Joints/LE Joints/femoroacetabular_joint.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
 Archive/Anatomy/Joints/LE Joints/femoroacetabular_joint.html</a></div>
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -1013,6 +1189,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","openEffect":"zoom","closeEffect":"zoom","selector":".lightbox","loop":false});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

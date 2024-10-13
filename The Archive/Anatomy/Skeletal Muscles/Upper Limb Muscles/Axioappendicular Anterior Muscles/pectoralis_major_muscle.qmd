@@ -10,11 +10,28 @@ title: Pectoralis Major
 
 # Overview
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Pec Major]({{< var ref-pectoralis-major.path >}}) | {{< var ref-pectoralis-major.origin >}} | {{< var ref-pectoralis-major.insertion >}} | {{< var ref-pectoralis-major.nerve >}} | {{< var ref-pectoralis-major.action >}} |
+```{r tbl-pectoralis-major-oian}
+#| echo: false
+#| warning: false
+#| message: false
 
-: Pectoralis Major OIAN {.striped .hover}
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/gt_oian.R"))
+
+# Example usage
+identifier_col <- "muscle_identifier"  # or "group_identifier"
+filter_patterns <- "pectoralis_major"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Pectoralis major muscle"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
 
 # Origin {#origin}
 
@@ -28,8 +45,6 @@ title: Pectoralis Major
 ::: {.callout-note}
 Manubrium and the aponeurosis of the external oblique are potential originations of the pectoralis major
 :::
-
-
 
 
 # Insertion {#insertion}

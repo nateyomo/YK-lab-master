@@ -2,6 +2,75 @@
 title: Meditation
 ---
 
+:::{.callout collapse="true" title="Author's To do"}
+
+- 
+
+:::
+
+
+# Indications
+
+:::{.callout title="Potential indications"}
+
+- Anxiety
+- Chronic Pain
+
+:::
+
+# Clinical Uses
+
+- Pain-related drug utilization
+- Mood disturbance
+- Anxiety
+- Depression
+- Tobacco cessation @hiltonMindfulnessMeditationChronic2017.
+- Stress reduction @hiltonMindfulnessMeditationChronic2017.
+- Chronic pain @hiltonMindfulnessMeditationChronic2017.
+
+# Mechanism
+
+Hilton proposed that mindfulness meditationworks by "refocusing" the mind on the present situation which increases awareness of the external environment and one's current sensations, which provides an opportunity for the individual to step back and reframe experiences @hiltonMindfulnessMeditationChronic2017.
+
+# Chronic Pain
+
+In an SR/M-A by Hilton @hiltonMindfulnessMeditationChronic2017, they found only low quality of evidence that mindfulness meditation is associated with an improvement in chronic pain compared with control (no intervention or usual care) for both short- and long-term follow-up @hiltonMindfulnessMeditationChronic2017.
+
+
+:::{.callout-caution}
+
+It should be noted that this is the conclusion of the authors of the manuscript and the articles in this SR should be inspected individually to verify the author's conclusions 
+
+:::
+
+# Depression
+
+In the SR/Ma by Hilton @hiltonMindfulnessMeditationChronic2017, meditation demonstrated a statistically significant improvement (decrease) in depression scores compared to usual care, support, education, stress management, and waitlist @hiltonMindfulnessMeditationChronic2017.
+
+:::{.callout-caution}
+
+We have not independently analyzed these articles in the SR and verified the conclusions
+
+:::
+
+# Quality of life
+
+Hilton @hiltonMindfulnessMeditationChronic2017 found a statistically significant (unsure if this is clinically significant) improvement in quality of life in the mindfulness meditation groups @hiltonMindfulnessMeditationChronic2017.
+
+# Disability
+
+Hilton @hiltonMindfulnessMeditationChronic2017 did not find a statistically significant improvement in disability @hiltonMindfulnessMeditationChronic2017.
+
+# Drug use
+
+## Analgesics
+
+# Adverse events
+
+In Hilton's SR @hiltonMindfulnessMeditationChronic2017,  only 7/38 of the included RCTs reported adverse events @hiltonMindfulnessMeditationChronic2017.
+4/7 reported no adverse events @hiltonMindfulnessMeditationChronic2017.
+The RCT by La Cour reported that 2 participants experienced temporary, but strong feelings of anger directed at their painful condition and another 2 participants experienced increased anxiety @hiltonMindfulnessMeditationChronic2017.
+two other studies (Zgierska et al and Cherkin et al.) reported mild side effects from yoga and progressive muscle relaxation @hiltonMindfulnessMeditationChronic2017.
 
 # Parasympathetic 
 

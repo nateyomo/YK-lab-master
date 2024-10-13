@@ -259,7 +259,10 @@ Weakness of hip abduction that returns to normal with contralateral hip abductio
 
 @APTA
 
-In the arm drop test, the patient is placed in the supine position. The examiner ensures that the patient's face is shielded (in case of an organic etiology) and lifts the patient's plegic arm, suspending it over the patient's face, then abruptly allowing the arm to fall. The patient will deflect the arm from hitting the face in the case of FMD.79
+Patient is positioned in the supine.
+Ensure the patient's face is shielded (in case of an organic etiology).
+Lift the patient's plegic arm, suspending it over the patient's face, then suddenly dropping the arm.
+If the patient has FMD, the patient will deflect the arm from hitting the face in the case of FMD.
 
 Functional limb weakness should be treated with [patient education](#functional-limb-weakness-1)
 

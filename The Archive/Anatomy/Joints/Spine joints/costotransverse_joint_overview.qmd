@@ -1,0 +1,8 @@
+---
+title: Costotransverse Joints
+---
+
+One of the synovial joints that make up the ["costovertebral joint" complex]({{< var ref-costovertebral-joint.path >}})
+
+
+The [costotransverse joint]({{< var ref-costotransverse-joint.path >}}) refers to the articulation between the *articular tubercle* of the rib with the *costal facet* of the *transverse process* of the corresponding vertebrae @neumannKinesiologyMusculoskeletalSystem2017

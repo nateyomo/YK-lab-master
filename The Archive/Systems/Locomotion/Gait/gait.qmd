@@ -6,6 +6,9 @@ title: Gait
 
 [Reticulospinal tracts]({{< var ref-reticulospinal-tract.path >}}) functions in gait-related movements  @blumenfeldNeuroanatomyClinicalCases2022
 
+# Stabilization
+
+- The Iliofemoral lig. also stabilizes the pelvis on the stance side during gait @gilroyAtlasAnatomy2020. 
 
 # Gait Cycle
 

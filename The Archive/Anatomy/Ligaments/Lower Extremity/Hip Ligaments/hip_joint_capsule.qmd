@@ -1,0 +1,13 @@
+---
+title: Hip Joint Capsule
+---
+
+
+![fig31.10 @gilroyAtlasAnatomy2020]()
+![fig31.11 @gilroyAtlasAnatomy2020]()
+
+:::{.callout title="Read"}
+
+- @gilroyAtlasAnatomy2020 p417
+
+:::

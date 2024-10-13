@@ -1,0 +1,10 @@
+---
+title: 1st Metatarsophalangeal Joint (1st MTP)
+---
+
+# Pathologies
+
+
+- [Hallux Valgus]({{< var ref-hallux-valgus.path >}})
+- Gout / Pseudogout
+- Rheumatoid arthritis

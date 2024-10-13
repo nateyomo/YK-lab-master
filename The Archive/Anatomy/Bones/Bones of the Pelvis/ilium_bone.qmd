@@ -1,0 +1,154 @@
+---
+title: Ilium bone
+subtitle: A bone of the innominate and pelvis
+---
+
+
+
+The ilium is one of the 3 bones that make up the innominate union, which forms a part of the pelvis @neumannKinesiologyMusculoskeletalSystem2017.
+
+# Osteologic features
+
+::: {.columns}
+::: {.column}
+### External surface
+
+- Gluteal lines
+    - Posterior gluteal lines
+    - Anterior gluteal lines
+    - Inferior gluteal lines
+- Anterior-superior iliac spine (ASIS)
+- Anterior-inferior iliac spine (AIIS)
+- Iliac crest
+- Posterior-superior iliac spine (PSIS)
+- Posterior-inferior iliac spine (PIIS)
+- Greater sciatic notch
+- Greater sciatic foramen
+- Sacrotuberous ligament
+- Sacrospinous ligament
+
+:::
+::: {.column}
+### Internal surface
+
+- Iliac fossa
+- Auricular surface
+- Iliac tuberosity
+
+:::
+:::
+
+## Gluteal lines
+### Posterior gluteal lines
+
+One of the osteologic features on the external surface of the ilium @neumannKinesiologyMusculoskeletalSystem2017
+
+
+
+### Anterior gluteal lines
+
+One of the osteologic features on the external surface of the ilium @neumannKinesiologyMusculoskeletalSystem2017
+
+
+
+### Inferior gluteal lines
+
+One of the osteologic features on the external surface of the ilium @neumannKinesiologyMusculoskeletalSystem2017
+
+
+
+## Anterior-superior iliac spine (ASIS)
+
+One of the osteologic features on the external surface of the ilium @neumannKinesiologyMusculoskeletalSystem2017
+
+
+
+## Anterior-inferior iliac spine (AIIS)
+
+One of the osteologic features on the external surface of the ilium @neumannKinesiologyMusculoskeletalSystem2017
+
+
+
+## Iliac crest
+
+One of the osteologic features on the external surface of the ilium @neumannKinesiologyMusculoskeletalSystem2017
+
+
+
+## Posterior-superior iliac spine (PSIS)
+
+One of the osteologic features on the external surface of the ilium @neumannKinesiologyMusculoskeletalSystem2017
+
+
+
+## Posterior-inferior iliac spine (PIIS)
+
+One of the osteologic features on the external surface of the ilium @neumannKinesiologyMusculoskeletalSystem2017
+
+
+
+## Greater sciatic notch
+
+One of the osteologic features on the external surface of the ilium @neumannKinesiologyMusculoskeletalSystem2017
+
+
+
+## Greater sciatic foramen
+
+One of the osteologic features on the external surface of the ilium @neumannKinesiologyMusculoskeletalSystem2017
+
+
+
+## Sacrotuberous ligament
+
+One of the osteologic features on the external surface of the ilium @neumannKinesiologyMusculoskeletalSystem2017
+
+
+
+## Sacrospinous ligament
+
+One of the osteologic features on the external surface of the ilium @neumannKinesiologyMusculoskeletalSystem2017
+
+
+## Iliac fossa {#iliac-fossa}
+
+One of the osteologic features on the internal surface of the ilium @neumannKinesiologyMusculoskeletalSystem2017.
+The *iliac fossa* is the origin of the [iliacus muscle]({{< var ref-iliacus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017.
+
+<details>
+
+```{r gt-oian}
+#| label: tbl-oian-iliacus
+#| echo: false
+#| warning: false
+#| message: false
+
+# Load the here package
+library(here)
+
+# Source the functions script
+source(here("scripts/gt_oian.R"))
+
+# Example usage
+identifier_col <- "origin_identifier"
+filter_patterns <- "ilium_iliac_fossa"
+display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
+table_title <- "Iliac fossa origins"
+
+# Call the function
+gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+
+gt_table
+```
+
+</details>
+
+## Auricular surface {#auricular-surface}
+
+One of the osteologic features on the internal surface of the ilium @neumannKinesiologyMusculoskeletalSystem2017.
+The auricular surface articules with the sacrum to form the *sacroiliac joint* @neumannKinesiologyMusculoskeletalSystem2017.
+
+## Iliac tuberosity {#iliac-tuberosity}
+
+One of the osteologic features on the internal surface of the ilium @neumannKinesiologyMusculoskeletalSystem2017.
+The *iliac tuberosity* is posterior to the [auricular surface](#auricular-surface) and is an attachment point of *sacroiliac ligaments* @neumannKinesiologyMusculoskeletalSystem2017.

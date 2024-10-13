@@ -1,0 +1,10 @@
+---
+title: 1st Sternocostal Joint
+subtitle: 1st rib
+---
+
+
+The 1st sternocostal joint is found immediately inferior to the sternoclavicular joint @neumannKinesiologyMusculoskeletalSystem2017.
+
+The 1st sternocostal joint is an articulation between the costal cartilage of the [1st rib]({{< var ref-1st-rib-bone.path >}}) with the costal facets of the [sternum]({{< var ref-sternum-bone.path >}}) @neumannKinesiologyMusculoskeletalSystem2017.
+

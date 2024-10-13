@@ -19,6 +19,10 @@ Types of cervical rib:
 - Type IV: rib that appears as a short bar of bone with a length of a few millimeters beyond the C7 TP @hooperPart1ThoracicOutletSyndrome2010
 
 
+# Costal Cartilage
+
+The costal cartilage of the 1st rib is at the anterior aspect of the 1st rib and it articulates with the sternum at the [1st sternocostal joint]({{< var ref-1st-sternocostal-joint.path >}}) @neumannKinesiologyMusculoskeletalSystem2017. 
+
 # Muscle attachments
 
 | Muscle  | Origin | Insertion | Nerve | Action |
@@ -44,6 +48,8 @@ Can result in secondary pathologies, such as:
 - Tests:
     - [Cervical Rotation Lateral Flexion]({{< ref-cervical-rotation-lateral-flexion.path >}})
     - [Costoclavicular Test]({{< var ref-tos-costoclavicular-test.path >}})
+
+
 
 # Assessment
 
