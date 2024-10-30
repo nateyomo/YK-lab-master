@@ -2,7 +2,10 @@
 title: Gluteus Maximus Muscle
 ---
 
-# OIAN
+# Overview
+
+The gluteus maxijmus is a primary extensor and external rotator of the hip @neumannKinesiologyMusculoskeletalSystem2017. The gluteus maximus is a secondary hip abductor @neumannKinesiologyMusculoskeletalSystem2017
+The gluteus maximus also plays an important role in stabilization of the SIJ and lumbar spine via its ligamentous and fascial originations @neumannKinesiologyMusculoskeletalSystem2017 
 
 
 ```{r}
@@ -53,7 +56,20 @@ The gluteus maximus muscle is innervated by nerve roots [L5]({{< var ref-nerve-r
 - Lower fibers: Hip adduction @gilroyAtlasAnatomy2020 
 
 
-# Overview
+# Biomechanics
 
-The gluteus maxijmus is a primary extensor and external rotator of the hip @neumannKinesiologyMusculoskeletalSystem2017. The gluteus maximus is a secondary hip abductor @neumannKinesiologyMusculoskeletalSystem2017
-The gluteus maximus also plays an important role in stabilization of the SIJ and lumbar spine via its ligamentous and fascial originations @neumannKinesiologyMusculoskeletalSystem2017 
+The moment arm of the gluteus maximus decreases as the hip moves into flexion @neumannKinesiologyMusculoskeletalSystem2017.
+The more hip flexion decreases the moment arm of the gluteus maximus and therefore results in less torque @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+# Length test {#length-test}
+
+# Manual Muscle Test {#mmt}
+
+
+
+# Exercises
+
+- Single leg bridge (with 90&deg; knee flexion and pushing through the hindfoot)
+- Wall triple extension
+- 

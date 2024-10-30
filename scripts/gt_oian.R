@@ -1,7 +1,7 @@
 gt_oian <- function(identifier_col, filter_patterns, display_columns, table_title, order_by = NULL) {
   # Load the necessary libraries
   library(readxl)
-  library(dplyr)
+  library(tidytable)
   library(gt)
   library(here)
 
@@ -89,7 +89,7 @@ gt_oian <- function(identifier_col, filter_patterns, display_columns, table_titl
       filter(muscle_identifier %in% muscle_identifiers) %>%
       group_by(muscle_identifier) %>%
       summarize(
-        name_final = if (n_distinct(name_text) > 0) paste0("[", first(name_text), "](", first(name_link), ")") else "",
+        name_final = if(n_distinct(name_text) > 0) paste0("[", first(name_text), "](", first(name_link), ")") else "",
         origin_final = format_content(origin_text, origin_link, origin_citation),
         insertion_final = format_content(insertion_text, insertion_link, insertion_citation),
         innervation_final = {
@@ -129,7 +129,7 @@ gt_oian <- function(identifier_col, filter_patterns, display_columns, table_titl
     gt_oian_table <- combined_data %>%
       select(all_of(display_columns)) %>%
       gt() %>%
-      fmt_markdown(columns = all_of(display_columns)) %>%
+      fmt_markdown(columns = everything()) %>%
       cols_label(!!!setNames(column_labels[display_columns], display_columns)) %>%
       tab_header(title = table_title) %>%
       tab_style(

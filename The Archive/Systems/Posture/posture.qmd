@@ -3,6 +3,18 @@ title: Posture
 ---
 
 
+:::{.callout title="To read"}
+
+- 6 Gait and Posture Analysis p279 @duttonDuttonOrthopaedicExamination2020
+
+:::
+
+
+# Interventions
+
+- Endurance parameters for posture should be performed -msk
+- Best to start at the base/bottom up -msk
+
 
 # Automatic posture {#automatic}
 

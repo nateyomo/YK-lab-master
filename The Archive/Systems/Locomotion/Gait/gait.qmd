@@ -2,6 +2,15 @@
 title: Gait
 ---
 
+:::{.callout title="To read"}
+
+- Rancho Los amigos - Observational gait analysis @rancholosamigos2001gait
+- Chapter 15 Kinesiology of Walking p653 @neumannKinesiologyMusculoskeletalSystem2017
+- 6 Gait and Posture Analysis p279 @duttonDuttonOrthopaedicExamination2020
+
+:::
+
+
 # Motor systems
 
 [Reticulospinal tracts]({{< var ref-reticulospinal-tract.path >}}) functions in gait-related movements  @blumenfeldNeuroanatomyClinicalCases2022

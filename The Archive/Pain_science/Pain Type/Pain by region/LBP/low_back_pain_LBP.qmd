@@ -9,7 +9,89 @@ title: Low Back Pain
 
 
 
+# Pain type
+
+## Nociceptive
+
+Nociceptive back pain refers to pain caused by noxious stimulation of structures in lumbar spine @bogdukDefinitionsPhysiologyBack2009.
+This type of pain is typically described as dull and aching @bogdukDefinitionsPhysiologyBack2009.
+
+## Somatic referred pain
+
+
+Pain is perceived in regions innervated by nerves *other* than those that innervate the site of noxious stimulation @bogdukDefinitionsPhysiologyBack2009.
+
+:::{.callout-note}
+Somatic referred pain is a distinct form of pain different from *visceral referred pain*  or *radicular pain* @bogdukDefinitionsPhysiologyBack2009.
+:::
+
+In the low back, *somatic referred pain* is generally produced when nerve endings innervating structures in the spine ([IVD]({{< var ref-intervertebral-disc.path >}}), *Z Joints*, or the SI joint) experience noxious stimuli @bogdukDefinitionsPhysiologyBack2009.
+Once this occurs, the noxious stimuli is sent through the nerve ending to the *2nd order neuron* in the spinal cord, where other *unrelated* nerves also converge @bogdukDefinitionsPhysiologyBack2009.
+As a result of this convergence, the brain may receive these noxious stimuli and mistakenly *perceive* pain as originating from one of the other nerves that converges at that 2nd order neuron @bogdukDefinitionsPhysiologyBack2009.
+
+Somatic referred pain is generally perceived as dull, aching, gnawing, and/or expanding pressure @bogdukDefinitionsPhysiologyBack2009.
+
+Somatic referred pain generally covers a wide area and is difficult to localize but a patient can easily identify center/core @bogdukDefinitionsPhysiologyBack2009.
+
+Once established, *somatic referred pain* is fixed and will not migrate @bogdukDefinitionsPhysiologyBack2009.
+Segmental maps are not consistent between studies/amongst subjects
+
+The pattern of *somatic referred pain* is **not** dermatomal, since this would be irritation of the nerve/nerve root relevant to the site of noxious stimuli and would be considered *radicular pain* @bogdukDefinitionsPhysiologyBack2009.
+
+In cases of low back somatic referred pain, patients the symptoms are generally in the gluteal region and proximal thigh but some cases extend as far as the foot @bogdukDefinitionsPhysiologyBack2009. 
+
+The *somatic referred pain* pattern corresponds to segmental innervation of deep tissues in limb like muscles/joints @bogdukDefinitionsPhysiologyBack2009.
+
+## Radicular back pain
+
+*Radicular pain* refers to pain evoked by ectopic discharges of nociceptive stimulation from a dorsal root or the dorsal root ganglion (DRG) or a peripheral nerve @bogdukDefinitionsPhysiologyBack2009.
+Disc herniation = common cause or inflammation of affected nerve
+Lancinating quality of pain, traveling along length of lower limb in a band no more than 2-3 inches wide. 
+Squeezing/pulling normal nerve roots does not produces radicular pain, only if nerve roots have been previously inflamed does mechanical stimulation evoke radicular pain
+For compression alone to be painful, it would involve the DRG (based on animal studies)
+Evokes discharges in Abeta and A delta and C fibers
+Radicular pain is not only due to a discharge in nociceptive afferents, due to a heterospecific discharge in the affected nerve. Evoked sensation is unpleasant but not exactly pain in a nociceptive sense
+Qualities are lancinating, shocking, electric. (more than just nociceptive afferents discharging) 
+Sciatica? 
+
+## Radiculopathy
+Neurological state where conduction is blocked along spinal nerve or its roots
+Numbness is the symptom and sign
+Weakness ensues when motor fibers are blocked
+Diminished reflexes occur due to a sensory or motor block
+Numbness is DERMATOMAL and weakness is MYOTOMAL
+Not defined by pain, defined by neurological signs. 
+Radiculopathy and radicular pain commonly occur together but 
+Radiculopathy can occur in absence of pain
+Radicular pain can occur in absence of radiculopathy
+FALSE: Segmental origin of radicular pain can be determined from its distribution (NOT TRUE) 
+Patterns of L4,L5 and S1 radicular pain CAN NOT be distinguished from each other
+Segments can be established when radicular pain occurs with radiculopathy. 
+The derm distribution of numbness NOT PAIN allows the segment of origin to be determined. 
+
+
+
+
+
+
+
 # Interventions
+
+## Exercise Induced Hypoalgesia (EIH)
+
+EIH refers to a generalized improvement (reduction) in pain or pain sensitivity during or after exercise @riceExerciseInducedHypoalgesiaPainFree2019.
+This form of *hypoalgesia* lasts &leq;30 min after a single bout of exercise @riceExerciseInducedHypoalgesiaPainFree2019.
+EIH is generally widespread @riceExerciseInducedHypoalgesiaPainFree2019.
+
+Aerobic exercise elicits greater effects of EIH than anaerobic @riceExerciseInducedHypoalgesiaPainFree2019.
+Resistance training is more localized and leads to greater reduced pain sensitivity local to muscle contraction and these effects decrease more distal from the site of muscle contraction @riceExerciseInducedHypoalgesiaPainFree2019.
+EIH is more variable in chronic pain populations 
+More frequently impaired: with pain/pain sensitivity decreasing/unchanged or sometimes increasing in response to exercise
+
+:::{.callout-caution}
+The more impaired the individual the less effective EIH tends to be @riceExerciseInducedHypoalgesiaPainFree2019.
+For those who are frequently impaired, EIH can result in no change or even *worsening* of symptoms @riceExerciseInducedHypoalgesiaPainFree2019.
+:::
 
 ## Graded motor imagery for chronic LBP case report
 

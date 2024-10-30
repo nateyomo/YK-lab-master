@@ -3,6 +3,12 @@ title: Hip Pain
 ---
 
 
+:::{.callout title="To read"}
+
+- 47 Hip-Related Pain 506 @fallaGrieveModernMusculoskeletal2015
+
+:::
+
 # Intra-articular hip pain {#intra-articular}
 
 - [Ligamentum teres]({{< var ref-ligamentum-teres.path >}}) stress or injury can result in intra-articular hip pain @neumannKinesiologyMusculoskeletalSystem2017
