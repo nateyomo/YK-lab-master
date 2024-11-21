@@ -1,0 +1,14 @@
+---
+title: Blood Pressure (BP)
+---
+
+
+
+| Stage | SBP | | DBP |
+|-|-|-|-|
+| Normal | <120 | AND | <80 |
+| Elevated | 120-129 | AND | <80 |
+| Stage 1 | 130-139 | AND/OR | 80-89|
+| Stage 2 | 140+ | AND/OR | 90 |
+| Hypertensive crisis | >180 | AND/OR | >120 |
+: Blood pressure Normative values {.striped .hover}

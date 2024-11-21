@@ -1,5 +1,5 @@
 ---
-title: Roos Stress Test
+title: Roos Stress Test (Elevated arm stress test)
 subtitle: A special test for thoracic outlet syndrome
 ---
 

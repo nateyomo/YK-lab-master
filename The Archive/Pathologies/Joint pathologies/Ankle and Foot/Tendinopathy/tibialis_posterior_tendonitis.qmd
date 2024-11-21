@@ -3,3 +3,13 @@ title: Tibialis Posterior Tendinitis
 ---
 
 Inflammation of the tendon of the [Tibialis Posterior muscle]({{< var ref-tibialis-posterior.path >}}).
+
+
+
+Treatment plan
+
+- STM to tendon and muscle belly
+- Cupping to tendon and muscle belly 
+    - with stretching or activation
+- ART
+- [PAILS/RAILS]({{< var ref-tibialis-posterior.pails-rails >}})

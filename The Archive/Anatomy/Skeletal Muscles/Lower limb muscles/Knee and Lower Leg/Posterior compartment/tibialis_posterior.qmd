@@ -83,3 +83,29 @@ gt_table
 
 
 [Tibialis Posterior tendonitis]({{< var ref-tibialis-posterior.tendonitis >}})
+
+
+
+# Myofascial release
+
+{{< video https://www.youtube.com/watch?v=QWvDHo3Trc0 >}}
+
+
+# Pails & Rails {#pails-rails}
+
+::: {.columns}
+::: {.column}
+## P.A.I.L.'s
+
+- Plantarflexion
+- Inversion
+
+:::
+::: {.column}
+## R.A.I.L.'s
+
+- Extension
+- Eversion
+
+:::
+:::

@@ -48,13 +48,33 @@ Bases of 2-5 distal phalanges @gilroyAtlasAnatomy2020
 
 - **TCJ**: PF @gilroyAtlasAnatomy2020
 - **STJ**: INV @gilroyAtlasAnatomy2020
-- **MTP & IP 2-5**: PF @gilroyAtlasAnatomy2020
-
-
-
-
+- **MTP & IP 2-5**: Flexion @gilroyAtlasAnatomy2020
 
 
 # MMT
 
 "The FDL and brevis muscles produce IP joint flexion. The motion is tested with the foot in the anatomic position. If the gastrocnemius muscle is shortened, preventing the ankle from assuming the anatomic position, the knee is flexed. The toes may be tested simultaneously. The foot is held in the midposition, and the metatarsals are stabilized. Resistance is applied beneath the distal and proximal phalanges" @duttonDuttonOrthopaedicExamination2020 
+
+
+# Pails & Rails {#pails-rails}
+
+Read more about [P.A.I.L.'s and R.A.I.L.'s here]
+
+::: {.columns}
+::: {.column}
+## P.A.I.L.'s
+
+- Plantarflexion
+- Inversion
+- 2-5 MTP/IP Flexion
+
+:::
+::: {.column}
+## R.A.I.L.'s
+
+- Dorsiflexion
+- Eversion
+- 2-5 MTP/IP Extension
+
+:::
+:::

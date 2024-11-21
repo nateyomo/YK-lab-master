@@ -1,0 +1,16 @@
+---
+title: Foot strike mat analysis
+---
+
+# footscan company
+
+Requirements
+
+- Footscan plate (Cost: $)
+- Recalibrate system every few weeks
+
+## Software
+
+- 
+
+## Orthotics

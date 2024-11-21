@@ -236,7 +236,7 @@ ref-sternocostal-joint:
 ref-femoroacetabular-joint:
   path: "/The Archive/Anatomy/Joints/LE Joints/femoroacetabular_joint.qmd"
 ref-tibiofemoral-joint:
-  path: "/"
+  path: "/The Archive/Anatomy/Joints/LE Joints/TFJ_tibiofemoral_joint.html"
 ref-proximal-tibiofibular-joint:
   path: "/The Archive/Anatomy/Joints/LE Joints/proximal_tibiofibular_joint.qmd"
 ref-distal-tibiofibular-joint:
@@ -291,6 +291,8 @@ ref-patellar-tendon:
 ## Ligaments
 ref-index-ligaments:
   path: "/The Archive/Anatomy/Ligaments/index_ligaments.qmd"
+ref-posterior-longitudinal-ligament:
+  path: "/The Archive/Anatomy/Ligaments/PLL_posterior_longitudinal_ligament.qmd"
 ### LE Ligaments
 ### Hip ligaments
 ref-sacrotuberous-ligament:
@@ -1294,6 +1296,7 @@ ref-tibialis-posterior:
   nerve: "[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}))"
   action: "**TCJ**: Plantarflexion <br> **STJ**: Inversion (supination) </br> **Longitudinal Arch**: Support </br> **Transverse Arch**: Support"
   tendonitis: "/The Archive/Pathologies/Joint pathologies/Ankle and Foot/Tendinopathy/tibialis_posterior_tendonitis.qmd"
+  pails-rails: "//The Archive/Pathologies/Joint pathologies/Ankle and Foot/Tendinopathy/tibialis_posterior_tendonitis.qmd#pails-rails"
 ref-flexor-digitorum-longus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.qmd"
   origin: "Tibia (middle third of posterior surface)"
@@ -2034,7 +2037,8 @@ ref-tinels-test:
   carpal-tunnel: "/The Archive/Examination/Tests and Measures/Tinels_test.qmd#carpal-tunnel"
 
 ## Strength tests
-
+ref-bunkie-test:
+  path: "/The Archive/Examination/Tests and Measures/Strength/bunkie_test.html"
 ref-hoovers-sign:
   path: "/The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/hoovers_sign.qmd"
 

@@ -21,7 +21,11 @@ Sensory cortex (Gustatory area) -> Ventral Posterior Medial Nucleus of Thalamus 
 
 # Dysfunction
 
-- Bell's palsy is an example of CN VII paralysis
+- Hyperacusis (sensitivity to sound due to innervation of inner ear bones: stapedius)
+- Decreased lacrimation
+- Absence of taste on anterior 2/3 of tongue
+- Facial muscle palsy
+    - Bell's palsy is an example of CN VII paralysis
 
 ## DDX
 

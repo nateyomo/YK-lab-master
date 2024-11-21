@@ -8,6 +8,9 @@ Thoracic kyphosis can reduce the space available to the lungs, resulting in limi
 
 # Osteokinematics
 
+T-spine can move in flexion/extension, lateral flexion, and rotation.
+Assessments of each movement can be found [here](#rom).
+
 ## Flexion 
 
 - Total: 20-45° @duttonDuttonOrthopaedicExamination2020
@@ -46,10 +49,6 @@ SB limited throughout d/t rib stacking @duttonDuttonOrthopaedicExamination2020
     - Middle: 5° @duttonDuttonOrthopaedicExamination2020
     - Last 2 segments: 2-3° @duttonDuttonOrthopaedicExamination2020
 
-:::{.callout-note collapse="true"}
-# Rotation Limitations
-
-:::
 
 # Arthrokinematics
 
@@ -86,6 +85,10 @@ Oakley CK, Janssen SAK, Pankratz JP, McCumber TL, Treffer KD, Olinger AB. Validi
 
 # Examination
 
+## ROM {#rom}
+
 - T/S spine ROM
     - Measure from T12 to acromion and compare to opposite side
     - Go into quadraped with max L/S flexion to bias T/S rotation
+
+Thoracic ROM can be measured using the [FMS quadriped T-spine rotation](https://www.functionalmovement.com/exercises/30/quadruped_t-spine_rotation)

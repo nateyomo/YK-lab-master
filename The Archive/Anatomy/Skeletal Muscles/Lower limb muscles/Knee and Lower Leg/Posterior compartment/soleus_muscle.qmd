@@ -77,3 +77,22 @@ Thus, this is a **second class lever** and as a result, the triceps surae create
 ## Strength Testing
 
 "The soleus muscle produces plantar flexion of the ankle joint, regardless of the position of the knee. To determine the individual functioning of the soleus as a plantar flexor, the knee is flexed to minimize the effect of the gastrocnemius muscle. The soleus is tested in a similar manner to that of the gastrocnemius, except that the patient performs the unilateral heel raise with some degree of knee flexion. Ability to perform 10–15 raises in this fashion is considered normal, 5-9 raises graded as fair, 1–4 raises graded as poor, and zero repetitions graded as nonfunctional. Alternatively, the strength of the soleus can be tested with the patient in prone"
+
+
+
+# Pails & Rails {#pails-rails}
+
+::: {.columns}
+::: {.column}
+## P.A.I.L.'s
+
+- Plantarflexion
+
+:::
+::: {.column}
+## R.A.I.L.'s
+
+- Dorsiflexion
+
+:::
+:::

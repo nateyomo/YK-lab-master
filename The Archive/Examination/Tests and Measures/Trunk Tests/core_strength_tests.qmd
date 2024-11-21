@@ -1,0 +1,43 @@
+---
+title: Core Strength Tests
+---
+
+
+- [Bunkie Test]({{< var ref-bunkie-test.path >}}) 
+
+
+::: {.columns}
+::: {.column}
+McGill described 3 functional performance tests (FPTs) for assessing core muscular capacity:
+:::
+::: {.column}
+1. Lateral musculature test (performed bilaterally) @brumittBunkieTestDescriptive2015
+1. Flexor endurance test @brumittBunkieTestDescriptive2015
+1. Back extensors test @brumittBunkieTestDescriptive2015
+:::
+:::
+
+
+::: {.columns}
+::: {.column}
+
+de Witt and Venter developed 5 FPTs for the lumbopelvic musculature:
+
+1. Plank or modified plank with lower extremity support @brumittBunkieTestDescriptive2015
+
+This FPT has been coined the Bunkie test, derived from “bankie” the Afrikaans word for a little bench [14]. de Witt and Venter suggest that endurance athletes should be able to hold each test position for up to 40 s [14]. The aforementioned value represents a clinical recommendation by de Witt and Venter [14]; however, normative values for a general population are currently unknown.
+
+:::
+::: {.column}
+:::
+:::
+
+
+# Core power tests
+
+
+- Hooklying position
+- 4lb ball for women or 8lb ball for men
+- Bring ball overhead with both hands
+- perform a crunch while throwing the ball forward with both hands
+- <18-22ft = lacking core power

@@ -1,5 +1,5 @@
 ---
-title: Wright's Test
+title: Wright's Test (Hyperabduction test)
 subtitle: A special test for thoracic outlet syndrome
 ---
 

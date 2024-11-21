@@ -53,3 +53,9 @@ gt_table
 # Function
 
 The RTC contributes to movement, stability, and sensorimotor control of the G-H joint @duttonDuttonOrthopaedicExamination2020 
+
+
+# Special tests
+
+- Drop Arm (Codman's) Test
+- 

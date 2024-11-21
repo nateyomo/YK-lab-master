@@ -5,3 +5,13 @@ title: Thomas Test
 
 
 - Can be positive for [acetabular labral tear]({{< var ref-acetebular-labral-tear.path >}}) @wongPhysicalExaminationHip2022
+
+
+
+# Modified Thomas Test
+
+:::{.callout-note}
+
+See @cookMovementFunctionalMovement2010
+
+:::

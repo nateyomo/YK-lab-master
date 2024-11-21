@@ -64,6 +64,9 @@ gt_table
 
 The suprascapular nerve has cutaneous branches, which provide sensation to the proximal $\frac{1}{3}$ of the arm, but their distribution overlaps with that of the supraclavicular and axillary nerves @duttonDuttonOrthopaedicExamination2020. 
 
+# Examination
+
+- Empty can / Jobe test can be used to determine suprascapular nerve integrity by testing supraspinatus muscle
 
 # Injury
 

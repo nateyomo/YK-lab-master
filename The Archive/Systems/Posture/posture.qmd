@@ -6,6 +6,7 @@ title: Posture
 :::{.callout title="To read"}
 
 - 6 Gait and Posture Analysis p279 @duttonDuttonOrthopaedicExamination2020
+- Neuman posture analysis @neumannKinesiologyMusculoskeletalSystem2017
 
 :::
 

@@ -4,6 +4,10 @@ title: Squat analysis
 
 # What is a "good" Squat
 
+# Biomechanics
+
+yk_tables squat_biomechanics table / schematic
+
 # Limited Hip Flexion
 
 ## DDX

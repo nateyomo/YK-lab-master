@@ -2,6 +2,14 @@
 title: Gait Analysis
 ---
 
+:::{.callout title="Readings"}
+
+- Dutton Ch6 Gait analysis @duttonDuttonOrthopaedicExamination2020
+- RLA book @rancholosamigos2001gait
+- Ch15 Kinesiology of walking @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
+
 # Hip
 
 Decreased R Hip Ext 

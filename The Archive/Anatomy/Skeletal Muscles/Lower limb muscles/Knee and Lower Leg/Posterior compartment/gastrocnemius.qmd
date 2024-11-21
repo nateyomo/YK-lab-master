@@ -94,3 +94,23 @@ Gastroc: knee extended + DF
 :::{.callout-note title="Theoretical Function"}
 "In addition, it has been theorized that the gastrocnemius acts as an antagonist to the ACL, exerting an anteriorly directed pull on the tibia throughout the range of knee flexion–extension motion, particularly when the knee is near extension." @duttonDuttonOrthopaedicExamination2020 
 :::
+
+
+# Pails & Rails {#pails-rails}
+
+::: {.columns}
+::: {.column}
+## P.A.I.L.'s
+
+- Plantarflexion
+- Knee flexion
+
+:::
+::: {.column}
+## R.A.I.L.'s
+
+- Dorsiflexion
+- Knee extension
+
+:::
+:::

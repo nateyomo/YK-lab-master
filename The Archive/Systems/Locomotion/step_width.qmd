@@ -1,0 +1,10 @@
+---
+title: Step width
+---
+
+
+Step width refers to the distance between the opposite feet in the frontal plane @neumannKinesiologyMusculoskeletalSystem2017.
+This only takes into account frontal plane distance and **not** the distance in the sagittal plane.
+
+:::{.callout-note}
+When progressing from walking to running to sprinting, the step width should decrease and then become negative as a crossover gait pattern is utilized @neumannKinesiologyMusculoskeletalSystem2017.

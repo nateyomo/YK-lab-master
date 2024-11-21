@@ -7,7 +7,11 @@ title: Multidirectional Instability of the Lumbar Spine
 
 
 
+# Signs
 
+- Gower's sign @NickPerkinsClinicalInternship
+- "juttering" during extension @NickPerkinsClinicalInternship
+- Step sign (where the unstable segment noticeably protrudes in standing, creating a step, but there is no step in prone)@NickPerkinsClinicalInternship
 
 # Clinical Presentation
 

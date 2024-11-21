@@ -47,5 +47,15 @@ Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAna
 
 - Champagne toast
 - [ERLS (Possibly)]({{< var ref-ERLS-external-rotation-lag-sign.path >}})
+- Empty can / Jobe test can be used to determine if there is  suprascapular nerve neuropathy or supraspinatus problems
+
+
+"Supraspinatus Tests Two techniques described in the literature can be used to test the supraspinatus muscle, the empty-can position—the elbow extended, the shoulder in full IR, and the arm in the scapular plane (thumbs-down position) (Fig. 16-29) (Table 16-25), and the prone position, in the full-can position—the elbow extended and the shoulder abducted to 100 degrees and externally rotated while the patient lifts the arm into abduction (thumbs-up position) (Fig. 16-30) (Table 16-25). Park and colleagues,126 investigated 215 patients with full-thickness supraspinatus tears confirmed by arthroscopy and found the Jobe test to have a sensitivity of 52.6% and specificity of 82.4%. For partial-thickness tears, the same study showed the Jobe test to have a 32.1% sensitivity and 67.8% specificity.126" @duttonDuttonOrthopaedicExamination2020
 
 # Dysfunction
+
+
+- Supraspinatus tear
+- Supraspinatus tendonitis
+- Supraspinatus tendinopathy
+- supraspinatus paratenonitis

@@ -9,24 +9,34 @@ gt_oian <- function(identifier_col, filter_patterns, display_columns, table_titl
   excel_file <- here("yk_tables.xlsx")
   sheet_name <- "OIAN"
   
-  # Helper function to format cell content with markdown
-  format_content <- function(text_col, link_col, citation_col) {
-    if (n_distinct(text_col) > 0) {
-      texts <- text_col[text_col != "" & !is.na(text_col)]
-      links <- link_col[text_col != "" & !is.na(text_col)]
-      citations <- citation_col[text_col != "" & !is.na(text_col)]
+  # # Helper function to format cell content with markdown
+  # format_content <- function(text_col, link_col, citation_col) {
+  #   if (n_distinct(text_col) > 0) {
+  #     texts <- text_col[text_col != "" & !is.na(text_col)]
+  #     links <- link_col[text_col != "" & !is.na(text_col)]
+  #     citations <- citation_col[text_col != "" & !is.na(text_col)]
       
-      if (length(texts) > 1) {
-        paste0(paste0("* [", texts, "](", links, ") ", citations), collapse = "\n \n")
-      } else if (length(texts) == 1) {
-        paste0("[", first(texts), "](", first(links), ") ", first(citations))
-      } else {
-        ""
-      }
-    } else {
-      ""
-    }
+  #     if (length(texts) > 1) {
+  #       paste0(paste0("* [", texts, "](", links, ") ", citations), collapse = "\n \n")
+  #     } else if (length(texts) == 1) {
+  #       paste0("[", first(texts), "](", first(links), ") ", first(citations))
+  #     } else {""}
+  #   } else {""}
+  # }
+
+format_content <- function(text_col, link_col, citation_col) {
+  texts <- text_col[text_col != "" & !is.na(text_col)]
+  links <- link_col[text_col != "" & !is.na(text_col)]
+  citations <- citation_col[text_col != "" & !is.na(text_col)]
+  
+  if (length(texts) > 1) {
+    paste0("* [", texts, "](", links, ") ", citations, collapse = "\n \n")
+  } else if (length(texts) == 1) {
+    paste0("* [", texts[1], "](", links[1], ") ", citations[1], collapse = "\n \n")
+  } else {
+    ""
   }
+}
 
   format_action_content <- function(action_title_col, action_text_col, action_link_col, action_citation_col) {
     action_title_col[is.na(action_title_col) | action_title_col == ""] <- "<No Title>"
@@ -129,7 +139,7 @@ gt_oian <- function(identifier_col, filter_patterns, display_columns, table_titl
     gt_oian_table <- combined_data %>%
       select(all_of(display_columns)) %>%
       gt() %>%
-      fmt_markdown(columns = everything()) %>%
+      # fmt_markdown(columns = everything()) %>%
       cols_label(!!!setNames(column_labels[display_columns], display_columns)) %>%
       tab_header(title = table_title) %>%
       tab_style(

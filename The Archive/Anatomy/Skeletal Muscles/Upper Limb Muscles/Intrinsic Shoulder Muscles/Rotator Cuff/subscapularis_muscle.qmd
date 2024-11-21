@@ -44,7 +44,7 @@ Lesser tubercle of [Humerus]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnat
 
 # Test
 
-- Lift-off test
+- Lift-off Test (Gerber's test)
 
 <!--
 - Some researchers suggest that the lift-off test can be positive for pts with biceps tendon injury @gillPhysicalExaminationPartial2007
@@ -52,6 +52,6 @@ Lesser tubercle of [Humerus]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnat
 --> 
 
 - Bear hug test
-- Belly press test
+- Belly press test (Napolean Test)
     - "performed by having the patient place the affected hand on the abdomen and attempt to move the elbow anteriorly. The test was considered positive if the patient could not move the elbow forward" @gillPhysicalExaminationPartial2007
 
