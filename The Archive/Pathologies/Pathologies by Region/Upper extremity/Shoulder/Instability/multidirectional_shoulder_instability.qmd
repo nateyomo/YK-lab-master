@@ -2,6 +2,12 @@
 title: Multidirectional Shoulder Instability (MDI)
 ---
 
+:::{.callout title="To read"}
+
+- Nonoperative and postoperative rehabilitation for glenohumeral instability @wilkNonoperativePostoperativeRehabilitation2013
+
+:::
+
 
 Multidirectional instability (MDI) of the shoulder has many definitions within medical literature.
 Originally, MDI was described by Neer and Foster as shoulder instability/dislocations in 2 or more directions with little to no trauma [@longoMultidirectionalInstabilityShoulder2015; @klaptoczEffectivenessConservativeTreatment2021]

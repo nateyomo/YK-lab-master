@@ -1,0 +1,49 @@
+---
+title: Choking in sports
+subtitle: Cognitive overload during competition
+---
+
+
+@ducrocqAdaptiveWorkingMemory2017
+
+"It has been suggested that such performance breakdowns can be explained in terms of impairment in the attentional control required to ensure the efficient preparation and execution of complex movements (Eysenck & Wilson, 2016; Vine, Lee, Moore, & Wilson, 2013)." @ducrocqAdaptiveWorkingMemory2017
+
+
+- Working memory capacity (WMC) AKA attentional control @ducrocqAdaptiveWorkingMemory2017
+
+
+- Working memory capacity refers to an individual's ability to inhibit, shift, and update when performing a task @ducrocqAdaptiveWorkingMemory2017.
+Inhibition via working memory would be one's resistance to distraction @ducrocqAdaptiveWorkingMemory2017.
+Shifting via working memory is considered "within-task control" @ducrocqAdaptiveWorkingMemory2017.
+
+Psychological processes such as anxious apprehension and performance worry can reduce the WMC, increasing bottom-up processing, and worsening performance @ducrocqAdaptiveWorkingMemory2017.
+
+
+
+
+The Quiet Eye (QE) is a form of gaze tracking and used to measure attention control in sport situations @ducrocqAdaptiveWorkingMemory2017.
+The Quiet Eye has been deemed sensitive as a measure of competitive pressure in self-paced tasks and interceptive tasks @ducrocqAdaptiveWorkingMemory2017.
+
+
+# Dual-Task Training
+
+## Ducroq 2017
+
+Ducroq took a cohort of 30 tennis athletes
+
+Ducroq formed 3 experiments
+
+
+- Control group: Nonadaptive dual 1-back control task
+    - The nonadaptive control task was also delivered online. The control group undertook 20 blocks of dual 1-back trials across the 10 days of training irrespective of their performance achievement. This task followed the same basic procedure as the adaptive training task with participants being required to respond if they either noticed a position or a letter (or both) match with the preceding trial (1-back). No level increments were in place for the control task and as such it required limited engagement of WM.
+
+
+- Near transfer: Change detection task
+    - Evaluated WMC
+    - Test
+        - Fixation in center of screen
+        - Arrow pointed right or left as a **cue**
+        - Memory array appeared for 100 ms followed by "retention interval" for 900 ms
+        -  A test (comparison) array then appeared for 2,000 ms
+        - Participants were instructed to memorize the orientation of the red rectangles on the **cued** side in the memory array and indicate whether the orientation of any of the red rectangles had changed or not in the **test array**.
+

@@ -1,0 +1,56 @@
+---
+title: 1st Carpometacarpal Joint
+---
+
+
+- Saddle joint
+
+# Arthrokinematics
+
+::: {.columns}
+::: {.column}
+
+### Flexion
+
+- Concave on convex (OKC)
+- Ulnar roll + Ulnar glide
+
+:::
+::: {.column}
+
+
+### Extension
+
+- Concave on convex (OKC)
+- Radial roll & glide
+:::
+:::
+
+
+
+
+
+::: {.columns}
+::: {.column}
+
+### Adduction
+
+- Convex-on-Concave in OKC
+- Posterior/Dorsal roll + Anterior/volar glide 
+
+:::
+::: {.column}
+
+### Abduction
+
+- Convex-on-Concave in OKC
+- Anterior/volar roll + Posterior/Dorsal glide 
+
+:::
+:::
+
+:::{.callout-tip}
+To remember this, I like to think about the fact that all of the finger joints are concave on convex when moving in open kinetic chain.
+Thus, it helps me to remember that the thumb's saddle joint is concave-on-convex when moving into flexion and extension.
+Since it is a saddle joint, I know that the other plane (abduction/adduction) must be convex-on-concave,
+:::

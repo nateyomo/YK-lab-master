@@ -27,3 +27,12 @@ title: Medial Collateral Ligament (MCL) of the Knee
 
 - "The MCL complex acts as the primary restraint to valgus rotation of the tibia, providing as much as 80% of the restraining force to valgus loads.21" @duttonDuttonOrthopaedicExamination2020
 - "The LCL provides the primary restraint to varus rotation of the knee, acts as a secondary restraint to external rotation and posterior displacement of the tibia21 and, during normal gait, is the primary passive structure resisting the knee adduction (varus) moment.21" @duttonDuttonOrthopaedicExamination2020
+
+
+# Platelet Rich Plasma (PRP)
+
+:::{.callout title="To read"}
+
+- THE USE OF SERIAL PLATELET RICH PLASMA INJECTIONS WITH EARLY REHABILITATION TO EXPEDITE GRADE III MEDIAL COLLATERAL LIGAMENT INJURY IN A PROFESSIONAL ATHLETE: A CASE REPORT @wilkUSESERIALPLATELET2018
+
+:::

@@ -45,4 +45,10 @@ Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAna
 
 - [ERLS (Possibly)]({{< var ref-ERLS-external-rotation-lag-sign.path >}})
 
-# Dysfunction
+# Muscle Tear
+
+:::{.callout title="To read"}
+
+- Traumatic full-thickness infraspinatus and teres minor tendon tears @cainTraumaticFullthicknessInfraspinatus2013
+
+:::

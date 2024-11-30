@@ -39,10 +39,9 @@ gt_table
 Coracoid process of [Scapula]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
 
 # Insertion {#insertion}
-
 Middle 1/3 of [Humerus]({{< var ref-humerus-bone.path >}}) (in line with crest of lesser tubercle) @gilroyAtlasAnatomy2020
 
-# Nerve
+# Innervation {#innervation}
 [Musculocutaneous N.]({{< var ref-musculocutaneous-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}})) @gilroyAtlasAnatomy2020
 
 # Action {#action}
@@ -50,4 +49,64 @@ Middle 1/3 of [Humerus]({{< var ref-humerus-bone.path >}}) (in line with crest o
 **GHJ**: Flexion, Adduction, Internal rotation @gilroyAtlasAnatomy2020
 
 
+# Function
 
+Coracobrachialis serves as a secondary flexor and adductor of the shoulder @bielTrailGuideBody2019.
+
+# Dysfunction
+
+# Pathologies
+
+# Palpation
+
+The coracobrachialis can be found deep to the [pectoralis major]({{< var ref-pectoralis-major.path >}}) and [Anterior Deltoid]({{< var ref-deltoid-muscle-anterior.path >}}).
+The coracobrachialis is anterior to [Axillary artery]({{< var ref-axillary-artery.path >}}) and [brachial plexus]({{< var ref-brachial-plexus.path >}}), so be mindful when palpating and applying pressure @bielTrailGuideBody2019.
+
+
+::: {.columns}
+::: {.column}
+### Patient position
+
+- Supine @bielTrailGuideBody2019.
+- 45&deg; GHJ abduction @bielTrailGuideBody2019.
+- GHJ full external rotation @bielTrailGuideBody2019.
+
+:::
+::: {.column}
+
+### Clinician
+
+- Locate [pectoralis major]({{< var ref-pectoralis-major.path >}}) (anterior wall of the axilla) @bielTrailGuideBody2019.
+- Place one hand on the medial arm, just proximal to the elbow  @bielTrailGuideBody2019.
+- Place the fingerpads of the other hand into the axilla @bielTrailGuideBody2019.
+- Instruct the patient to gently adduct into the non-palpating hand @bielTrailGuideBody2019.
+- Palpate the inferior medial edge of the [pectoralis major]({{< var ref-pectoralis-major.path >}}), this will act as a reference point @bielTrailGuideBody2019.
+- Dive posterior to pectoralis manjor into the axilla @bielTrailGuideBody2019.
+- Palpate for the "slender" belly of *coracobrachialis* @bielTrailGuideBody2019.
+- GHJ adduction should cause it to contract @bielTrailGuideBody2019.
+
+:::
+:::
+
+::: {.columns}
+::: {.column}
+### Checklist
+
+- Is the muscle in the medial arm @bielTrailGuideBody2019?
+- Is it posterior to [pectoralis major]({{< var ref-pectoralis-major.path >}}) @bielTrailGuideBody2019?
+- Can you strum along the posterior belly @bielTrailGuideBody2019? 
+
+:::
+::: {.column}
+:::
+:::
+
+
+
+
+
+
+
+# Strength Test
+
+# Manual Therapy

@@ -1,0 +1,40 @@
+---
+title: L5-S1 Gapping and Manipulation Technique
+---
+
+
+# Manipulation Technique
+
+- Ipsilateral will be considered the part of joint you will be manipulating.
+
+
+::: {.columns}
+::: {.column}
+### Patient Position
+
+- Supine
+- Hands clasped behind
+- Keep feet together and move feet contralaterally (*towards* the side you will rotate) to create a contralateral sidebend
+
+:::
+::: {.column}
+
+### Clinician
+
+- Stand at the head of the table, facing the patient @NickPerkinsClinicalInternship
+- Place your arm between the window created by the patient's forearm and shoulder on the patient's ipsilateral side.
+- Your hand will fall on their chest and you can use their sternum as a lever.
+- Ask the patient to inhale then exhale
+- During the exhale, bring patient into spine flexion, contralateral rotation by walking around the table to their contralateral side.
+- Use your opposite hand to block the ipsilateral ASIS
+- When you feel the patient lock, hold the position and thrust through the ASIS to HVLAT them into contralateral rotation.
+
+:::
+:::
+
+
+:::{.callout-note}
+You can tweak this technique to bias thoracolumbar junction or lumbosacral junction by modulating the amount of spinal flexion.
+More flexion will bias L5-S1 @NickPerkinsClinicalInternship.
+Less flexion will bias thoracolumbar junction @NickPerkinsClinicalInternship.
+:::

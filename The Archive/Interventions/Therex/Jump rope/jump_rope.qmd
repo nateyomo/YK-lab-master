@@ -1,0 +1,6 @@
+---
+title: Jump rope
+---
+
+
+{{< video https://youtu.be/Bm56LgM2rVw >}}

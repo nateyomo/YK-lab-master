@@ -3,6 +3,8 @@ title: Baseball Pitching
 ---
 
 
+
+
 The key to efficient pitching mechanics is to connect the global kinetic chain as it spirals from the ground up toward the hand in a form of kinetic linking @dischiaviRethinkingDynamicKnee2019
 
 
@@ -10,6 +12,12 @@ Tension increases as energy moves up the kinetic chain. However, when there is a
 
 
 # Pitching Biomechanics
+
+:::{.callout title="To read"}
+
+- The Clinician's Guide to Baseball Pitching Biomechanics @diffendafferCliniciansGuideBaseball2023
+
+:::
 
 - Wind Up: Initial Movement to Maximum Knee Lift
 - Early Cocking: Maximum Knee Lift to Lead Foot Contact

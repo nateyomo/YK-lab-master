@@ -87,8 +87,21 @@ Use nerve bias to differentiate between sciatic nerve tension and hamstring tigh
 
 # Strength Exercises
 
+- Nordic curl
+    - Cons: difficult to cue properly
+    - Make sure there is no hip hinge
+- Long bridge
+    - isometric
+- Bridge hamstring slideouts
+    - Dynamic
+- KB swings
+
+## Length based exercises
+
 - Exercises biasing fully lengthened position
     - Nordic Curl
 - Exercises biasing fully shortened
     - Standing HS curls
 - Exercises for mid range
+
+

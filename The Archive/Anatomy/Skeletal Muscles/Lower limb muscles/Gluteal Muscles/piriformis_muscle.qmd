@@ -73,7 +73,7 @@ The gluteus maximus may be recruited during this process, but the piriformis sho
 
 # Pathologies
 
-- Piriformis Syndrome (Piriformis caused sciatica)
+- [Piriformis Syndrome]({{< var ref-piriformis-syndrome.path >}}) (Piriformis caused sciatica)
 - [Piriformis Tendinitis](#piriformis-tendinitis)
 
 

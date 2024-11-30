@@ -3,6 +3,13 @@ title: Baseball Athlete
 ---
 
 
+:::{.callout title="To read"}
+
+- Biomechanical Basis of Interval Throwing Programs for Baseball Pitchers: A Systematic Review @diasBiomechanicalBasisInterval2023
+- Effect of Forearm Position on Glenohumeral External Rotation Measurements in Baseball Players @kiblerEffectForearmPosition2022
+
+:::
+
 # Injury
 
 

@@ -18,6 +18,8 @@ ref-basilar-artery:
 ### Upper extremity arteries
 ref-subclavian-artery:
   path: "/The Archive/Anatomy/Arteries/Upper Extremity/subclavian_artery.qmd"
+ref-axillary-artery:
+  path: "/The Archive/Anatomy/Arteries/Upper Extremity/axillary_artery.html"
 
 ## Bones
 
@@ -30,7 +32,7 @@ ref-sternum-bone:
 ref-1st-rib-bone:
   path: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib_bone.html"
   hypomobility: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd#hypomobility"
-  elevation: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd"
+  elevation: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib_bone.qmd#elevation"
   mobilization: "/The Archive/Interventions/Manual therapy/Mobilizations/1st_rib_mobilization.qmd"
 ref-rib-bones:
   path: "/The Archive/Anatomy/Bones/Bones of the trunk/rib_bones.html"
@@ -45,6 +47,7 @@ ref-scapula-bone:
   scapular-spine: "//The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html"
 ref-humerus-bone:
   path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.qmd"
+  intertubercular-groove: "/The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.qmd#intertubercular-groove"
 ref-ulna-bone:
   path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/ulna_bone.qmd"
 ref-radius-bone:
@@ -309,7 +312,7 @@ ref-long-plantar-ligament:
 ### Upper extremity
 ref-thoracic-outlet:
   path: "/The Archive/Anatomy/Multi-system structures/Upper extremity/thoracic_outlet.qmd"
-  syndrome: "/The Archive/Pathologies/MSK Pathologies/Upper extremity/thoracic_outlet_syndrome.qmd"
+  syndrome: "/The Archive/Pathologies/Pathologies by Region/Upper extremity/thoracic_outlet_syndrome.qmd"
 ref-costoclavicular-space:
   path: "/The Archive/Anatomy/Multi-system structures/Upper extremity/costoclavicular_space.qmd"
   compression: "/The Archive/Anatomy/Multi-system structures/Upper extremity/costoclavicular_space.qmd#compression"
@@ -1714,9 +1717,9 @@ ref-echocardiogram:
   transesophageal: "/The Archive/Cardiac System/Cardiac evaluation/Transesophageal_echocardiogram.qmd"
   transthoracic: "/The Archive/Cardiac System/Cardiac evaluation/echocardiogram.qmd#transthoracic"
 ref-electrocardiogram:
-  path: "/The Archive/Examination/Acute Evaluation/Cardiac evaluation/electrocardiogram_EKG.qmd"
+  path: "/The Archive/Cardiac System/Cardiac evaluation/electrocardiogram_EKG.qmd"
 ref-heart-sounds:
-  path: "/The Archive/Examination/Acute Evaluation/Cardiac evaluation/heart_sounds.qmd"
+  path: "/The Archive/Cardiac System/Cardiac evaluation/heart_sounds.qmd"
 ## Cardiac Interventions
 ref-cardiac-dysfunction-management:
   path: "/The Archive/Cardiac System/Cardiac Interventions/Internal Medicine Interventions/cardiac_dysfunction_management.qmd"
@@ -1994,7 +1997,7 @@ ref-statistical-power:
 
 ### Pulmonary Evaluation
 ref-lung-sounds:
-  path: "/The Archive/Pulmonary system/Pulmonary evaluation/lung_sounds.qmd"
+  path: "/The Archive/Physiology/Pulmonary system/Pulmonary evaluation/lung_sounds.qmd"
 
 ## Pediatric Evaluation
 ref-creeping:
@@ -2007,7 +2010,7 @@ ref-cruising-pediatric:
   path: "/The Archive/Examination/Pediatric Evaluation/cruising_pediatric.qmd"
 
 ref-heel-up-sign:
-  path: "/The Archive/Examination/Pediatric Evaluation/Signs/heel-up_sign.qmd"
+  path: "/The Archive/Pediatrics/Pediatric Evaluation/Signs/heel-up_sign.qmd"
 
 ## Movement Analysis
 
@@ -2163,9 +2166,22 @@ ref-proprioceptive-neuromuscular-facilitation:
 ## Cryotherapy
 ref-icing-cryotherapy:
   path: "/The Archive/Interventions/Cryotherapy/icing_cryotherapy.qmd"
+
+## Dual task
+
+dual-process-theory:
+  path: "/The Archive/Interventions/Dual Task/dual-process_theory.qmd"
+  automatic-processing: "/The Archive/Interventions/Dual Task/dual-process_theory.qmd#automatic-processing"
+  controlled-processing: "/The Archive/Interventions/Dual Task/dual-process_theory.qmd#controlled-processing"
+
 ## Locomotion
 
 ## Manual Therapy
+
+## Mobilization and Manipulation
+
+ref-l5-s1-gapping-technique:
+  path: "/The Archive/Interventions/Joint Mobilizations and Manipulations/Spine/L5-S1_gapping_technique.qmd"
 
 ## Upper extremity
 ref-cyriax-release-maneuver:
@@ -2402,7 +2418,9 @@ ref-gonadotropin-deficiency:
   path: "/The Archive/Pathologies/Endocrine Pathologies/Disorders of the Pituitary Hormone System/Pituitary Hypofunction/Gonadotropin Deficiency/gonadotropin_deficiency.qmd"
 ref-kallmann-syndrome:
   path: "/The Archive/Pathologies/Endocrine Pathologies/Disorders of the Pituitary Hormone System/Pituitary Hypofunction/Gonadotropin Deficiency/kallmann_syndrome.qmd"
-## Heart Pathologies
+## Cardiopulmonary Pathologies
+ref-postural-orthostatic-tachycardia-syndrome:
+  path: "/The Archive/Pathologies/Cardiopulmonary Pathologies/POTS_postural_orthostatic_tachycardia_syndrome.qmd"
 ## Inner ear pathologies
 ref-menieres-disease:
   path: "/The Archive/Pathologies/Inner Ear Pathologies/Menieres_disease.qmd"
@@ -2441,10 +2459,10 @@ ref-lumbar-lateral-recess-stenosis:
   path: "/The Archive/Pathologies/Pathologies by Region/Trunk/Lumbar spine/Spinal Stenosis/lumbar_lateral_recess_stenosis.qmd"
 ### Upper Extremity
 ref-lateral-epicondylitis:
-  path: "/The Archive/Pathologies/MSK Pathologies/Upper extremity/lateral_epicondylitis.qmd"
+  path: "/The Archive/Pathologies/Pathologies by Region/Upper extremity/lateral_epicondylitis.qmd"
 ### Lower Extremity
 ref-piriformis-syndrome:
-  path: "/"
+  path: "/The Archive/Pathologies/Nerve Pathology/Sciatic nerve pathologies/piriformis_syndrome.html"
 ref-pelvic-stress-fracture:
   path: "/The Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
 ref-femoral-shaft-stress-fracture:

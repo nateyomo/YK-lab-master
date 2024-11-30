@@ -2,6 +2,11 @@
 title: Isokinetic Dynamometry
 ---
 
+:::{.callout title="To read"}
+
+- Isokinetic Testing: Why it is More Important Today than Ever @wilkIsokineticTestingWhy2024
+
+:::
 
 # Processing Methods
 
@@ -18,3 +23,12 @@ A processing method
 ## Rate of torque development at peak (RTDPEAK)
 
 
+# Devices
+
+## Activforce
+
+:::{.callout}
+
+- Reliability and Validity of the ActivForce Digital Dynamometer in Assessing Shoulder Muscle Force across Different User Experience Levels @karagiannopoulosReliabilityValidityActivForce2022
+
+:::

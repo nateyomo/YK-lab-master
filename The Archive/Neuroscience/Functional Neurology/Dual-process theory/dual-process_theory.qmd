@@ -1,0 +1,174 @@
+---
+title: Dual-Process Theory
+keywords:
+    - Dual task training
+---
+
+
+Dual-process theory proports that when performing multiple tasks, the human peformance is determined by two types of processing systems: Automatic (type 1) and controlled (type 2) [@moreiraAcuteChronicEffects2021; @evansDualProcessTheoriesHigher2013].
+
+# Types of Processing
+
+There are two types of processing:
+
+1. [Automatic processing (Type 1)](#automatic-processing)
+1. [Controlled processing (Type 2)](#controlled-processing)
+
+
+::: {#tbl-dual-process-attributes}
+
+<table class="basic-table">
+  <thead>
+    <tr>
+      <th><a href="#automatic-processing">Automatic</a></th>
+      <th><a href="#controlled-processing">Controlled</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Requires working memory</td>
+      <td>Does <em>not</em> require working memory</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="row-group">Typical Correlates</td>
+    </tr>
+    <tr>
+      <td>Fast</td>
+      <td>Slow</td>
+    </tr>
+    <tr>
+      <td>High capacity</td>
+      <td>Low capacity</td>
+    </tr>
+    <tr>
+      <td>Parallel</td>
+      <td>Serial</td>
+    </tr>
+    <tr>
+      <td>Nonconscious</td>
+      <td>Conscious</td>
+    </tr>
+    <tr>
+      <td>Biased responses</td>
+      <td>Normative responses</td>
+    </tr>
+    <tr>
+      <td>Contextualized</td>
+      <td>Abstract</td>
+    </tr>
+    <tr>
+      <td>Associative</td>
+      <td>Rule-based</td>
+    </tr>
+    <tr>
+      <td>Experience-based decision making</td>
+      <td>Consequential decision making</td>
+    </tr>
+    <tr>
+      <td>Independent of cognitive ability</td>
+      <td>Correlated with cognitive ability</td>
+    </tr>
+    <tr>
+      <td>Intuitive</td>
+      <td>Deliberate</td>
+    </tr>
+  </tbody>
+</table>
+
+Attributes associated with each processing system [@evansDualProcessTheoriesHigher2013]
+
+:::
+
+## Automatic processing {#automatic-processing}
+
+Automatic processing (type 1) is autonomous and faster @moreiraAcuteChronicEffects2021.
+*Automatic processing* is reactive to triggers such as simple questions about one's name @moreiraAcuteChronicEffects2021.
+
+This was originally termed "*system 1*" or "*the heuristic system*," but these terms are misleading by implying the reference to a single system @evansDualProcessTheoriesHigher2013.
+As a result, "*system 1*" was replaced with "*the autonomous set of systems* (TASS)" to emphasize the fact multiple processing systems are working in conjunction @evansDualProcessTheoriesHigher2013.
+
+
+- Do not require "controlled attention" and as a result requires less mental resources @evansDualProcessTheoriesHigher2013
+
+Correlated features
+
+- Some have argued that automatic processing is "mandatory" when triggered, but this is simply a correlation not a defining feature @evansDualProcessTheoriesHigher2013.
+- Automatic processing is considered "fast" based on its rapid execution @evansDualProcessTheoriesHigher2013.
+
+"These disparate categories make clear that the categories of Type 1 processing have some heterogeneityencompassing both innately specified processing modules or procedures and experiential associations that have been learned to the point of automaticity. The many kinds of Type 1 processing have in common the property of autonomy, but otherwise, their neurophysiology and etiology might be considerably different. For example, Type 1 processing is not limited to modular subprocesses that meet all of the classic Fodorian (Fodor, 1983) criteria or the criteria for a Darwinian module (Cosmides, 1989; Sperber, 1994). Type 1 processing also encompasses (general) processes of implicit learning and conditioning. Also, many rules, stimulus discriminations, and decisionmaking principles that have been practiced to the point of automaticity (Kahneman & Klein, 2009; Shiffrin & Schneider, 1977) are processed in a Type 1 manner." @evansDualProcessTheoriesHigher2013
+
+## Controlled processing {#controlled-processing}
+
+Opposite of [automatic processing](#automatic-processing), *controlled processing* is *slow* and must call upon the working memory (WM) for requisite information and processing as well as the *attentional control* to complete the task @moreiraAcuteChronicEffects2021.
+
+:::{.callout-note}
+Attentional control is required by both [automatic processing](#automatic-processing) and [controlled processing](#controlled-processing) @moreiraAcuteChronicEffects2021.
+
+See @baddeleyWorkingMemoryLooking2003
+:::
+
+
+"The large literatures on working memory and executive function (Baddeley, 2007) have established that there is a general purpose system used in many higher cognitive functions and that the capacity of this system varies reliably between individuals. Measures of working memory capacity have been shown to be predictive of performance in a wide variety of cognitive tasks (L. F. Barrett, Tugade, & Engle, 2004) and highly correlated with fluid intelligence (Colom, Rebollo, Palacios, Juan-Espinosa, & Kyllonen, 2004; Kane, Hambrick, & Conway, 2005). It is the engagement of this system specifically that Jonathan Evans (e.g., 2008, 2010a) has emphasized in the definition of Type 2 processing and which underlies many of its typically observed correlates: that it is slow, sequential, and correlated with measures of general intelligence. He has also suggested that Type 2 thinking enables uniquely human facilities, such as hypothetical thinking, mental simulation, and consequential decision making2 (Evans, 2007a, 2010b)." @evansDualProcessTheoriesHigher2013
+
+"As reviewed above, Keith Stanovich, together with his collaborator Rich West, has focused much of his research program on individual differences in both cognitive ability (linked with IQ) and thinking dispositions, showing selective correlations with responses on a wide range of reasoning and decision-making tasks (Stanovich, 1999, 2009b, 2011; Stanovich & West, 2000). Central to his dual-processing argument is that Type 2 aspects of performance on such tasks are selectively correlated with intelligence measures, whereas features attributed to Type 1 processing are largely independent of such measures. Because working memory capacity and general intelligence are known to be highly correlated, this framework is easily reconciled with Evans’s emphasis on the engagement of working memory in Type 2 processing. Stanovich (Stanovich, 2011; Stanovich & Toplak, 2012) has also strongly emphasized the features that he calls “cognitive decoupling” in his definition of Type 2 processing. This is again compatible with Evans’s (2007a, 2010b) view that such processing is necessary for hypothetical thought. In order to reason hypothetically, we must be able to prevent our representations of the real world from becoming confused with representations of imaginary situations. The so-called cognitive decoupling operations are the central feature of Type 2 processing that makes this possible according to Stanovich (2009b, 2011)." @evansDualProcessTheoriesHigher2013
+
+
+# Dual Task
+
+A dual task requires both [automatic](#automatic-processing) and [controlled](#controlled-processing) processing.
+For example when playing soccer a player could receive the ball, realize his teammate is open, and pass the ball while using [automatic (type 1) processing](#automatic-processing) @moreiraAcuteChronicEffects2021.
+This process requires *low* attentional resources to motor execution and is thus is defined as "automatic processing" @moreiraAcuteChronicEffects2021.
+
+# Normal Functioning
+
+Playing soccer is a good example of a dual-task since it includes [automatic](#automatic-processing) and [controlled](#controlled-processing) processing to be successful.
+For example, a soccer player could receive the ball and wants to pass the ball to his teammate, but must be cognizant of the position of the opposing team. 
+Noticing his teammate and wanting to pass the ball would be handled by [automatic processing](#automatic-processing), requiring *low* attentional resources @moreiraAcuteChronicEffects2021.
+Simultaneously, the player is allocating much more resources to analyzing the positions of the opposing players and is considered [controlled processing](#controlled-processing) @moreiraAcuteChronicEffects2021.
+
+
+# Anatomy / Physiology 
+
+"Some authors have gone further, suggesting that there are two evolutionarily distinct brain systems responsible for these two types of processing (see especially Epstein, 1994; Evans, 2010b; Evans & Over, 1996; Reber, 1993; Stanovich, 1999, 2004)." @evansDualProcessTheoriesHigher2013
+
+
+::: {#tbl-dual-process-evolution}
+
+
+<table class="basic-table">
+  <thead>
+    <tr>
+      <th><a href="#automatic-processing">Automatic (Type 1)</a></th>
+      <th><a href="#controlled-processing">Controlled (Type 2)</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>"Old mind"</td>
+      <td>"New mind"</td>
+    </tr>
+    <tr>
+      <td>Early evolution</td>
+      <td>Late evolution</td>
+    </tr>
+    <tr>
+      <td>Animalistic cognition</td>
+      <td>Distinctively human</td>
+    </tr>
+    <tr>
+      <td>Implicit knowledge</td>
+      <td>Explicit knowledge</td>
+    </tr>
+    <tr>
+      <td>Basic emotions</td>
+      <td>Complex emotions</td>
+    </tr>
+  </tbody>
+  <caption>
+    
+  </caption>
+</table>
+
+Evolutionary theories for processing types [@evansDualProcessTheoriesHigher2013]
+
+:::

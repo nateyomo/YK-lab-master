@@ -81,7 +81,7 @@ format:
       light: cosmo
       dark: darkly
     mainfont: helvetica
-    fontsize: 14px
+    fontsize: 16px
     css: styles.css
   # pdf:
   #   pdf-engine: wkhtmltopdf  # Specify wkhtmltopdf as the PDF engine

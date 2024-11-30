@@ -139,7 +139,7 @@ format_content <- function(text_col, link_col, citation_col) {
     gt_oian_table <- combined_data %>%
       select(all_of(display_columns)) %>%
       gt() %>%
-      # fmt_markdown(columns = everything()) %>%
+      fmt_markdown(columns = everything()) %>%
       cols_label(!!!setNames(column_labels[display_columns], display_columns)) %>%
       tab_header(title = table_title) %>%
       tab_style(

@@ -158,3 +158,8 @@ Anterior Interosseous Syndrome: Entrapment after the anterior interosseous nerve
 - Phalen's Test
 - Reverse Phalen's
 - Tinel's Test
+
+
+# Strain Counterstrain
+
+{{< video https://youtu.be/3VEx4y40rpM?si=DzlC4L9uBH3sRf1h >}}

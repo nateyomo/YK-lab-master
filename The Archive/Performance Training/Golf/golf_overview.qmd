@@ -2,6 +2,13 @@
 Title: Golf
 ---
 
+
+:::{.callout title="To read"}
+
+- The Golfer's Fore, Fore +, and Advanced Fore + Exercise Program: An Exercise Series and Injury Prevention Program for the Golfer @thomasGolfersForeFore2023
+
+:::
+
 # Golf swing
 
 A study found that amateurs use 90% peak muscle activity whereas professionals use 80% peak muscle activity @mchardyGolfInjuriesReview2006.

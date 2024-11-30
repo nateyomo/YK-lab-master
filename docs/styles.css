@@ -9,3 +9,51 @@ a:hover {
     text-decoration: underline; /* Add underline on hover for better visibility */
 }
 
+/* Change the navbar background */
+.navbar {
+    background-color: #ffffff; /* Replace with your site's background color */
+}
+
+
+
+.basic-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .basic-table th, .basic-table td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .basic-table th {
+    font-weight: bold; /* Bold the header text */
+  }
+  
+  .basic-table tbody tr:first-child {
+    border-top: 1px solid black; /* Black line between header and first body row */
+  }
+  
+  .basic-table tbody tr:nth-child(odd) {
+    background-color: #f2f2f2; /* Adds gray stripe */
+  }
+  
+  .basic-table tbody tr:nth-child(even) {
+    background-color: #ffffff; /* Adds white stripe */
+  }
+  
+  .basic-table caption {
+    caption-side: top;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 8px;
+  }
+  
+  .basic-table tbody tr:last-child {
+    border-bottom: 1px solid #d3d3d3; /* Light gray border */
+  }
+
+  .basic-table .row-group {
+    text-align: center; /* Optional: Centers the text */
+    padding: 10px; /* Optional: Adds padding to the row */
+  }

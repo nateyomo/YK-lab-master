@@ -15,3 +15,9 @@ title: Thomas Test
 See @cookMovementFunctionalMovement2010
 
 :::
+
+
+
+# Strain Counterstrain
+
+{{< video https://www.youtube.com/watch?v=xFhQiQhIhCU >}}

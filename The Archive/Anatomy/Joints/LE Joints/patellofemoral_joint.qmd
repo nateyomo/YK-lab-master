@@ -41,3 +41,14 @@ provide the articulation with low friction; ▶ protect the distal aspect of the
 ## Factors That Naturally Oppose the Lateral Pull of the Quadriceps on the Patella
 
 "Several factors throughout the lower extremity oppose and thereby limit the lateral bias in pull of the quadriceps relative to the patellofemoral joint. These factors are important to optimal tracking. In this context, optimal tracking is defined as movement between the patella and femur across the greatest possible area of articular surface with the least possible stress. Understanding the factors that favor optimal tracking provides insight into most pathomechanics and many treatments for pain and other dysfunctions of the patellofemoral joint. Both local and global factors will be described. Local factors are those that act directly on the patellofemoral joint. Global factors, on the other hand, are those related to the alignment of the bones and joints of the lower limb. Although these factors are described as separate entities, in reality, their effectiveness in optimizing patellar tracking is based on the sum of their combined influences." @neumannKinesiologyMusculoskeletalSystem2017 
+
+
+# Exercise
+
+## Wall sit 
+
+:::{.callout}
+
+- @escamillaPatellofemoralJointLoading2023
+
+:::

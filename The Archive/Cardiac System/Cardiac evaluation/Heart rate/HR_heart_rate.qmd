@@ -1,0 +1,11 @@
+---
+title: Heart Rate (HR)
+subtitle: Number of heart beats per time
+---
+
+
+
+# Dysfunction
+
+- Tachycardia
+- [Postural orthostatic tachycardia syndrome (POTS)]({{< var ref-postural-orthostatic-tachycardia-syndrome.path >}})

@@ -148,3 +148,15 @@ Add table 4
 - Theorizing that attempting to lift the affected arm off the back might provoke pain or weakness secondary to biceps tendon tear @gillPhysicalExaminationPartial2007
 
 "Only the lift-off test and the belly press test had a likelihood ratio of more than 2.0. These 2 tests had low sensitivities (0.28 and 0.17, respectively) but high specificity (0.89 and 0.92, respectively)" @gillNeurologicComplicationsCOVID192023
+
+
+
+
+# Rehabilitation
+
+
+:::{.callout title="Reading list"}
+
+- The Management of Biceps Pain: Non-Operative & Surgical @mooreManagementBicepsPain2022
+
+:::

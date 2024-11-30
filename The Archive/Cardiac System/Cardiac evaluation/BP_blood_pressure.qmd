@@ -2,13 +2,55 @@
 title: Blood Pressure (BP)
 ---
 
+::: {#tbl-bp-values}
+
+<table class="basic-table">
+  <thead>
+    <tr>
+      <th>Stage</th>
+      <th>SBP</th>
+      <th></th>
+      <th>DBP</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Normal</td>
+      <td>&lt;120</td>
+      <td>AND</td>
+      <td>&lt;80</td>
+    </tr>
+    <tr>
+      <td>Elevated</td>
+      <td>120-129</td>
+      <td>AND</td>
+      <td>&lt;80</td>
+    </tr>
+    <tr>
+      <td>Stage 1</td>
+      <td>130-139</td>
+      <td>AND/OR</td>
+      <td>80-89</td>
+    </tr>
+    <tr>
+      <td>Stage 2</td>
+      <td>&gt;=140</td>
+      <td>AND/OR</td>
+      <td>&gt;=90</td>
+    </tr>
+    <tr>
+      <td>Hypertensive crisis</td>
+      <td>&gt;180</td>
+      <td>AND/OR</td>
+      <td>&gt;120</td>
+    </tr>
+  </tbody>
+</table>
+
+Blood pressure normative values
+
+:::
 
 
-| Stage | SBP | | DBP |
-|-|-|-|-|
-| Normal | <120 | AND | <80 |
-| Elevated | 120-129 | AND | <80 |
-| Stage 1 | 130-139 | AND/OR | 80-89|
-| Stage 2 | 140+ | AND/OR | 90 |
-| Hypertensive crisis | >180 | AND/OR | >120 |
-: Blood pressure Normative values {.striped .hover}
+
+
