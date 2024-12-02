@@ -30,8 +30,8 @@ ref-bone-index:
 ref-sternum-bone:
   path: "/The Archive/Anatomy/Bones/Bones of the trunk/sternum_bone.qmd"
 ref-1st-rib-bone:
-  path: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib_bone.html"
-  hypomobility: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib.qmd#hypomobility"
+  path: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib_bone.qmd"
+  hypomobility: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib_bone.qmd#hypomobility"
   elevation: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib_bone.qmd#elevation"
   mobilization: "/The Archive/Interventions/Manual therapy/Mobilizations/1st_rib_mobilization.qmd"
 ref-rib-bones:
@@ -152,7 +152,7 @@ ref-meniscus:
         ppv: "0.62"
         npv: "0.71"
     apleys:
-      path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Meniscus tests/Apleys_test.qmd"
+      path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/Apleys_test.qmd"
       sens: "0.60"
       spec: "0.70"
       pediatric:
@@ -170,7 +170,7 @@ ref-meniscus:
         ppv: ""
         npv: ""
     thessalys:
-      path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Meniscus tests/thessaly_test.qmd"
+      path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/thessaly_test.qmd"
       sens: ""
       spec: ""
       pediatric:
@@ -1459,6 +1459,7 @@ ref-spinal-nerves:
   path: /The Archive/Anatomy/Nerves/spinal_nerves.qmd
 
 ### Upper extremity nerve
+
 ref-brachial-plexus:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/Brachial Plexus/brachial_plexus.qmd"
   superior-trunk: "/The Archive/Anatomy/Nerves/Upper extremity nerves/Brachial Plexus/superior_trunk_nerve.qmd"
@@ -1473,6 +1474,7 @@ ref-brachial-plexus:
   lateral-cord: "/"
   posterior-cord: "/"
   medial-cord: "/"
+  irritation: "/The Archive/Anatomy/Nerves/Upper extremity nerves/Brachial Plexus/brachial_plexus.qmd#brachial-plexus-irritation"
 #### Supraclavicular part
 ref-dorsal-scapular-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/dorsal_scapular_nerve.qmd"
@@ -2432,7 +2434,7 @@ ref-lyme-disease:
 ## MSK Pathologies
 ### Head and Neck
 ref-VBI-vertebrobasilar-insufficiency:
-  path: "/The Archive/Pathologies/MSK Pathologies/Head and neck/vertebrobasilar_insufficiency.qmd"
+  path: "/The Archive/Pathologies/Pathologies by Region/Head and neck/vertebrobasilar_insufficiency.qmd"
 ref-whiplash-injury:
   path: "/The Archive/Pathologies/MSK Pathologies/Head and neck/whiplash_injury.qmd"
 ref-upper-crossed-syndrome:
@@ -2466,7 +2468,7 @@ ref-piriformis-syndrome:
 ref-pelvic-stress-fracture:
   path: "/The Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
 ref-femoral-shaft-stress-fracture:
-  path: "/The Archive/Pathophysiology/stress_reactions_and_fractures.qmd"
+  path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/femur_bone.qmd#stress-fracture"
 ref-adductor-muscle-strain:
   path: "/The Archive/Pathologies/MSK Pathologies/Lower extremity/adductor_muscle_strain.qmd"
 
@@ -2507,8 +2509,6 @@ ref-muscle-states:
 ref-z-joint-irritation:
   path: "/The Archive/Anatomy/Joints/z-joint.qmd#z-joint-irritation"
 ## Nerve pathophysiology
-ref-brachial-plexus-irritation:
-  path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/brachial_plexus.qmd#brachial-plexus-irritation"
 ref-double-crush-syndrome:
   path: "/The Archive/Pathophysiology/Nerve pathophysiology/double_crush_syndrome.qmd"
 ref-meningitis:

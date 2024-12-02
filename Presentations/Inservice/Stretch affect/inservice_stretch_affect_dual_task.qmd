@@ -4,155 +4,192 @@ subtitle: Physical Therapy Inservice
 ---
 
 
-# Intro
-
-::: {.callout}
-
-- Difference in non-contact injury rates in practice vs games/scrimmage
-- What problem are we trying to solve?
-    - Reduce NC injuries?
-    - Improve gametime performance?
-
-
-:::
-
 *Progressive overload* is a basic concept in training.
 Generally we increase our training load by increase the amount of weight in order to get stronger, number of repetitions in order to build endurance, the speed of the exercise to build speed and power, or the complexity of the exercise to build stability.
 These are all important in athletic performance, but focusing your training *solely* around these purely phyiscal parameters may leave your unprepared for the mental load of game-time situations.
 
 During training, you can focus almost all of your attention on the task and maintaining proper form, but during a game or daily life, you will be experiencing distractions that will pull your attention away from your form.
 
-This is where cognitive-motor dual task (CMDT) interference training is important.
+This is where Dual-task training is important.
 
 
 # What is Dual-task training?
 
-::: {.callout}
-
-- @evansDualProcessTheoriesHigher2013
-
-:::
-
-Dual-task training is based on **Dual-process theory** @evansDualProcessTheoriesHigher2013.
+Dual-task training, also known as cognitive-motor dual task (CMDT) interference training, is based on Dual-process theory @evansDualProcessTheoriesHigher2013.
 Dual-process theory proports that when performing multiple tasks, the human peformance is determined by two types of processing systems: [Automatic processing]({{< var ref-dual-process-theory.automatic-processing >}}) and [controlled processing]({{< var ref-dual-process-theory.controlled-processing >}}) [@moreiraAcuteChronicEffects2021; @evansDualProcessTheoriesHigher2013].
 
 
-A **dual-task** refers to an activity that requires both *automatic* and *controlled* processing @moreiraAcuteChronicEffects2021.
-“Automatic processing (type 1) is fast and autonomous, activated by triggers; for example, when one is questioned “What is your name?”, he/she will provide an automatic fast answer. Controlled processing (type 2) is slow and activates the working memory (WM), requiring information storage and processing, and attentional control (the latter is required in both automatic and controlled systems) [4]. For example, in a soccer match, after receiving the ball, the player realizes that a teammate is in a good position and, hence, decides to pass the ball to him, which is done with low attentional resources allocated in the motor execution (type 1 processing). Simultaneously, attentional resources are allocated to identify and interpret the opponents’ positioning on the pitch (type 2 processing). These multiple tasks executed simultaneously are known in the scientific literature as dual-tasks.” @moreiraAcuteChronicEffects2021 
+A dual-task refers to an activity that requires both *automatic* and *controlled* processing @moreiraAcuteChronicEffects2021.
+For example when playing soccer a player could receive the ball, realize his teammate is open, and pass the ball while using [automatic (type 1) processing](#automatic-processing) @moreiraAcuteChronicEffects2021.
+This process requires *low* attentional resources to motor execution and is thus is defined as "automatic processing" @moreiraAcuteChronicEffects2021.
+
+
+Dual-task training has 3 forms:
+
+1. Cognitive-Motor Dual task
+1. Motor-motor dual task
+1. Cognitive-Cognitive Dual task
+
 
 ## Definitions
 
 - **Primary task**: The task or exercise you want to get better at and want to transfer to performance in game or in daily life
 - **Secondary task**: The other tasks that pulls attention away from the primary task
-- Working memory capacity
-    - Low Working memory capacity
-    - High Working memory capacity
+- Working memory capacity (WMC) refers to the ability to inhibit irrelevant information @moreiraAcuteChronicEffects2021.
+    - Low Working memory capacity refers to individuals who struggle to ignore irrelevant factors
+    - High Working memory capacity refers to individuals who have strong focus and attention and can filter out what information is important for future decisions.
 
+<!--
 :::{.callout}
 Working memory function see @baddeleyWorkingMemoryLooking2003
 :::
-
-# Why Should we train this?
-
-::: {.callout-important}
-
-- Important for avoiding injuries
-- Athletic performance
-- Avoiding choking
-- Proprioceptive rehabilitation
-- TBI rehabilitation
-
-:::
+-->
 
 
-# Anatomy & Physiology
+# Sport performance
+
+Sports are one of the main examples of activities that innately have dual-tasks due to the complex and dynamic environments.
+To have success in a sport, an athlete must simultaneously consider themself, the ball, teammates, opponents, rules, and situational requirements such as attacking or defending @fleddermannTappingFullPotential2018.
+When competing in a sport, there could be even more variables such as referees, coaches, spectators, and competitive pressure @fleddermannTappingFullPotential2018.
+
+Attentional overload in sports can come in many forms.
+Attentional overload causing cognitive failure during motor-cognitive task could take the form of a player focusing on their movement and not on their surroundings would have poor situational awareness and would move well, but make mistakes regarding their surroundings.
+Attentional overload causing motor failure during a cognitive-motor task would be exemplified by a player focusing on their surroundings and the other players, but losing focus on their motor pattern, resulting in a mistake and even injury.
 
 
+## Better athletes have Higher working memory capacity
 
-# How does Low Working memory capacity impact performance?
 
-## Choking in sports
+When elite, intermediate, and non-athlete basketball players were analyzed on a multiple object tracking (MOT) test in order to measure selective, distributed, and sustained attention skills @qiuInfluenceSportsExpertise2018.
+MOT was proprosed to mimic the load of tracking the ball, teammates, and opponents simultaneously on the court @qiuInfluenceSportsExpertise2018.
+Participants attempted to track 2, 3, and 4 objects at once @qiuInfluenceSportsExpertise2018.
+Each successive increase in number of objects increases the attentional load @qiuInfluenceSportsExpertise2018.
+There was no significant difference between the groups when tracking 2 objects, indicating that attentional load was not high enough to affect performance @qiuInfluenceSportsExpertise2018.
+When the load was increased to 3 and 4 objects, the elite basketball players performed significantly better than the intermediate and non-athlete players @qiuInfluenceSportsExpertise2018.
+It should be noted that the intermediate and non-athlete players had the same decrease in performance @qiuInfluenceSportsExpertise2018.
 
-::: {.callout}
+
+This is consistent with previous literature which found that team ball athletes had faster visual tracking speed in attentively tracking multiple moving objects and elite athletes had enhanced visual attention ability @qiuInfluenceSportsExpertise2018.
+
+
+## Choking
+
+Choking is a common problem in competitive sports and refers to performance breakdowns perceived pressure of competition @ducrocqAdaptiveWorkingMemory2017.
+This can occur at any level, from amateur to professional @ducrocqAdaptiveWorkingMemory2017
+
+When viewed through the context of dual-process theory, choking appears to be a form of dual-task overloading.
+As the perceived pressure of competition increases, this adds an extra load to the attentional resources @ducrocqAdaptiveWorkingMemory2017.
+This process is also influenced by low working memory capacity (WMC) resulting in poor inhibition of perceived pressure @ducrocqAdaptiveWorkingMemory2017.
+If the athlete cannot mentally adapt and mitigate this load, this will force the attention to be taken away from areas focused on sport performance resulting in poor decision making and/or poor motor patterning.
+Performance breakdown due to competitive pressures is most noticeable in closed tasks such as basketball free throws or golf putting where there *should* be very few factors taking up attentional resources.
+Many athletes blame themselves and assume they need to "push" through the barrier or simply continue their training program but at higher intensity to overcome choking.
+
+Based on dual-process theory, focusing on single-task more intensely will not provide a meaningful benefit to one's working memory capacity and therefore choking will persist.
+For these athletes, dual-task training can help to improve working memory capacity and reduce choking.
+Ducrocq et al. had a group of tennis players complete computer-based dual-task training for 10 sessions and observed a significant improvement in tennis shot accuracy under pressure compared to a group that did not receive dual-task training @ducrocqAdaptiveWorkingMemory2017.
+
+<!--::: {.callout}
 
 - Baumeister, R.F. Choking under pressure: Self-consciousness and paradoxical effects of incentives on skillful performance. J. Personal. Soc. Psychol. 1984, 46, 610–620. [CrossRef]
 - Wilson, M.R.; Wood, G.; Vine, S.J. Anxiety, attentional control, and performance impairment in penalty kicks. J. Sport Exerc. Psychol. 2009, 31, 761–775. [CrossRef]
 - Beilock, S.L.; Carr, T.H. On the fragility of skilled performance: What governs choking under pressure? J. Exp. Psychol. Gen. 2001, 130, 701–725. [CrossRef]
-
-- **Treatment improvement**
-    - Impact of dual-task on choking
-        - Ducrocq, E.; Wilson, M.; Smith, T.J.; Derakshan, N. Adaptive Working Memory Training Reduces the Negative Impact of Anxiety on Competitive Motor Performance. J. Sport Exerc. Psychol. 2017, 39, 412–422. [CrossRef]
-
-:::
-
-- “In open sports, the execution of dual-tasks occurs in a highly time-constrained environment, which might also lead to a choking condition that impairs performance”  @moreiraAcuteChronicEffects2021 
-Pathophys of “choking”
-- “The attentional focus may also explain the drop in motor performance in dual-tasks. Previous research has shown that the difficulty of the dual-tasks led individuals to the state of “choking” [19], with increased levels of anxiety and the explicit direction of the attentional focus to the execution of the movement (autofocus).” @moreiraAcuteChronicEffects2021 
+-->
 
 
-# Sport performance
+
+## Injury prevention
+
+@nessDualTaskAssessmentImplications2020
+
+
 
 ## Acute effects - Observational studies
 
 ### Volleyball
 
-- Fleddermann, M.-T.; Zentgraf, K. Tapping the Full Potential? Jumping Performance of Volleyball Athletes in Game-Like Situations. Front. Psychol. 2018, 9, 1–8.
+Fledderman et al. tested the effect of dual-task cost on competitive beach volleyball players @fleddermannTappingFullPotential2018.
+When performing jump-blocks as a single task, low load dual task, or high load dual task, the players demonstrated worse jumping performance with each successive task @fleddermannTappingFullPotential2018.
+Based on these results, Fledderman concluded that the secondary cognitive task took attentional resources away from the motor action of jumping resulting in worse performance @fleddermannTappingFullPotential2018.
 
-### Basketball
+Fledderman then sampled another group of volleyball players and had them perform multiple object tracking (MOT) dual task training for 8 weeks @fleddermannOffCourtGenericPerceptualCognitive2019.
+After 8 weeks of dual-task training, there was a statistically significant improvement in near-transfer skills of sustained attention and processing speed @fleddermannOffCourtGenericPerceptualCognitive2019.
+There was no significant difference in the volleyball-specific jump task @fleddermannOffCourtGenericPerceptualCognitive2019.
+This indicates that although the athletes improved their attention and processing speed, these cognitive skills were not the reason for dual-task cost during the jump-block @fleddermannOffCourtGenericPerceptualCognitive2019.
+Similarly, soccer athletes were given 10 sessions of 3D-multiple object tracking (3D-MOT) or 3D soccer video training and demonstrated significantly more improvement in passing decision-making accuracy than controls but no difference in dribbling or shooting @romeas3DMultipleObjectTracking2016.
 
-- Qiu, F.; Pi, Y.; Liu, K.; Li, X.; Zhang, J.; Wu, Y. Influence of sports expertise level on attention in multiple object tracking. PeerJ 2018, 2018, 1–11.
 
 
-### Hockey
+<!-- - 24 competitive beach volleyball players were tested
+- the single task consisted of self-initiated maximal block jumps to the right and left with no information on the screen in front of them @fleddermannTappingFullPotential2018
+- Dual-task low (DT-L) consisted of self-initiated maximal block jumps to the left and right side with a static picture of an offensive set play of opponents @fleddermannTappingFullPotential2018.
+    -  The player was instructed to perform the block in front of the attacker on the screen @fleddermannTappingFullPotential2018.
+- Dual-Task High (DT-H) a dynamic video was dispalyed on the screen depicting a volleyball scene of offensive set plays with four or five players (defense, setter, attackers)
+    - Participants were instructed to assume a ready position and the action was initiated by the researcher's verbal command @fleddermannTappingFullPotential2018.
+    - The player would then watch the attacking player on the screen and perform a maximal blocking jump in front of the attacking player to the left or right side @fleddermannTappingFullPotential2018
+- Going from single task to DT-L to DT-H had successively worse first step length and vertical jump height for the volleyball players
+- This indicates that as you increase attentional load, athletes will have worse sport performance
 
-- With / without concussion
-- Tapper, A.; Gonzalez, D.; Roy, E.; Niechwiej-Szwedo, E. Executive function deficits in team sport athletes with a history of concussion revealed by a visual-auditory dual task paradigm. J. Sports Sci. 2017, 35, 231–240.
 
-### Table tennis
-
-- Schaefer, S.; Scornaienchi, D. Table Tennis Experts Outperform Novices in a Demanding Cognitive-Motor Dual-Task Situation. J. Mot. Behav. 2020, 52, 204–213.
-
-### Intellectual impairment adapted athletics
-
-- Van Biesen, D.; Jacobs, L.; McCulloch, K.; Janssens, L.; Vanlandewijck, Y.C. Cognitive-motor dual-task ability of athletes with and without intellectual impairment. J. Sports Sci. 2018, 36, 513–521. [CrossRef]
+- "Perceptual-cognitive skills have mostly been studied under two different approaches: the expert performance approach and the cognitive component skill approach" @fleddermannOffCourtGenericPerceptualCognitive2019
+- Expert performance approach
+    - "perceptual-cognitive expertise of an athlete by using sports-related stimuli in a sport-specific context, e.g., measuring decision-making, attention, or memory skills in simulated sport-specific settings or in a valid ecological sport context" @fleddermannOffCourtGenericPerceptualCognitive2019
+- Cognitive component skill approach
+    - "Alternatively, studies using a cognitive component skill approach examined fundamental perceptual-cognitive skills per se in a sport-unspecific context and investigated the relationship between sport expertise and fundamental perceptualcognitive skills. Results of these studies indicate that elite athletes perform better than nonathletes in fundamental cognitive tests such as processing speed or varied attention paradigms" @fleddermannOffCourtGenericPerceptualCognitive2019
+- "Further, they identified three factors (targeted perceptual function, stimulus correspondence, and response correspondence) that may influence transfer to the field" @fleddermannOffCourtGenericPerceptualCognitive2019
+- After 8 weeks of dual-task training, there was a statistically significant improvement in near transfer skills of sustained attention and processing speed @fleddermannOffCourtGenericPerceptualCognitive2019.
+- No significant difference in far-transfer task @fleddermannOffCourtGenericPerceptualCognitive2019
+-->
 
 ## Chronic effects - Sport performance
 
-
-Choking
-Table tennis
-Ducrocq, E.; Wilson, M.; Smith, T.J.; Derakshan, N. Adaptive Working Memory Training Reduces the Negative Impact of Anxiety on Competitive Motor Performance. J. Sport Exerc. Psychol. 2017, 39, 412–422. [CrossRef]
-Beach Vball
-Fleddermann, M.-T.T.; Heppe, H.; Zentgraf, K. Off-Court Generic Perceptual-Cognitive Training in Elite Volleyball Athletes: Task-Specific Effects and Levels of Transfer. Front. Psychol. 2019, 10, 1–12. [CrossRef]
-Hockey & soccer
-Improved shot accuracy
-Harris, D.J.; Wilson, M.R.; Crowe, E.M.; Vine, S.J. Examining the roles of working memory and visual attention in multiple object tracking expertise. Cogn. Process. 2019.
-Soccer
-Romeas, T.; Guldner, A.; Faubert, J. 3D-Multiple Object Tracking training task improves passing decision-making accuracy in soccer players. Psychol. Sport Exerc. 2016, 22, 1–9. [CrossRef]
-“Concerning the chronic effects, training with dual-tasks improved both motor and cognitive performance. Bherer et al. [51] suggested that dual-tasks training leads to the development of new perceptual strategies (optimizing attentional focus for the relevant clues in the task) that contribute to improved decision-making [52], as supported by some findings of the present review [21,26]. The significant increase in the duration of the quiet eye [45] after training with dual-tasks indicate that the athletes directed their attention to specific spots for a longer time to extract relevant information for the tactical decision. Additionally, the improvement in the efficiency of attentional control after training can be supported by other enhanced cognitive processes such as the ability to sustain attention and processing speed, observed in the study of Fleddermann et al. [21].” @moreiraAcuteChronicEffects2021 
+<!--
+- Hockey & soccer
+- Improved shot accuracy
+    - Harris, D.J.; Wilson, M.R.; Crowe, E.M.; Vine, S.J. Examining the roles of working memory and visual attention in multiple object tracking expertise. Cogn. Process. 2019.
+- Soccer
+    - Romeas, T.; Guldner, A.; Faubert, J. 3D-Multiple Object Tracking training task improves passing decision-making accuracy in soccer players. Psychol. Sport Exerc. 2016, 22, 1–9. [CrossRef]
+-->
 
 
-Concussion vs no concussion
-Cochrane, G.D.; Christy, J.B.; Almutairi, A.; Busettini, C.; Swanson, M.W.; Weise, K.K. Visuo-oculomotor Function and Reaction Times in Athletes with and without Concussion. Optom. Vis. Sci. 2019, 96, 256–265
-Howell, D.R.; O’Brien, M.J.; Raghuram, A.; Shah, A.S.; Meehan, W.P. Near Point of Convergence and Gait Deficits in Adolescents after Sport-Related Concussion. Clin. J. Sport Med. 2018, 28, 262–267.
-Lynall, R.C.; Blackburn, J.T.; Guskiewicz, K.M.; Marshall, S.W.; Plummer, P.; Mihalik, J.P. Functional balance assessment in recreational college-aged individuals with a concussion history. J. Sci. Med. Sport 2019, 22, 503–508
 
 
-Fencing
-Gutiérrez-Davila, M.; Rojas, F.J.; Gutiérrez-Cruz, C.; Navarro, E.; Gutierrez-Davila, M.; Javier Rojas, F.; Gutierrez-Cruz, C.; Navarro, E. Effect of dual-attention task on attack and defensive actions in fencing. Eur. J. Sport Sci. 2017, 17, 1004–1012. [CrossRef]
-Soccer
-Helm, F.; Reiser, M.; Munzert, J. Domain-Specific and Unspecific Reaction Times in Experienced Team Handball Goalkeepers and Novices. Front. Psychol. 2016, 7.
-Combat sports
-Howell, D.R.; Meehan, W.P., III; Loosemore, M.P.; Cummiskey, J.; von Rosenberg, J.-P.G.; McDonagh, D. Neurological tests improve after Olympic-style boxing bouts: A pretournament and post-tournament study in the 2016 Women’s World Boxing Championships. Br. J. Sports Med. 2017, 51, 1279–1284.
-Cricket
-Runswick, O.R.; Roca, A.; Mark Williams, A.; Bezodis, N.E.; Mcrobert, A.P.; North, J.S. The impact of contextual information and a secondary task on anticipation performance: An interpretation using cognitive load theory. Appl. Cogn. Psychol. 2018, 32, 141–149.
 
-# Sport Injury prevention
+- Fencing
+- Gutiérrez-Davila, M.; Rojas, F.J.; Gutiérrez-Cruz, C.; Navarro, E.; Gutierrez-Davila, M.; Javier Rojas, F.; Gutierrez-Cruz, C.; Navarro, E. Effect of dual-attention task on attack and defensive actions in fencing. Eur. J. Sport Sci. 2017, 17, 1004–1012. [CrossRef]
 
-# Other injury prevention
+- Soccer
+    - Helm, F.; Reiser, M.; Munzert, J. Domain-Specific and Unspecific Reaction Times in Experienced Team Handball Goalkeepers and Novices. Front. Psychol. 2016, 7.
 
+- Combat sports
+    - Howell, D.R.; Meehan, W.P., III; Loosemore, M.P.; Cummiskey, J.; von Rosenberg, J.-P.G.; McDonagh, D. Neurological tests improve after Olympic-style boxing bouts: A pretournament and post-tournament study in the 2016 Women’s World Boxing Championships. Br. J. Sports Med. 2017, 51, 1279–1284.
+- Cricket
+    - Runswick, O.R.; Roca, A.; Mark Williams, A.; Bezodis, N.E.; Mcrobert, A.P.; North, J.S. The impact of contextual information and a secondary task on anticipation performance: An interpretation using cognitive load theory. Appl. Cogn. Psychol. 2018, 32, 141–149.
+
+
+# Importance in daily life
+
+Additionally, after just 6 weeks of treadmill training with dual tasking, elderly fallers demonstrated improved scores on tests of mobility, functional performance, and cognition. These included the Berg balance scale, DGI, and gait speed for walking and the “Trails Making Test” for cognitive performance. Also QOL improved and so did physical activity as measured by the SF 36 and the physical activity scale for elderly. 
+PMID: 25198869
+“Dual task training on a treadmill to improve gait and cognitive function in elderly idiopathic fallers
+
+::: {.callout}
 Effects of Physical Exercise Interventions on Gait-Related Dual-Task Interference in Older Adults: A Systematic Review and Meta-Analysis PMID: 25721432 DOI: 10.1159/000371577
 Beurskens R, Steinberg F, Antoniewicz F, Wolff W, Granacher U. Neural Correlates of Dual-Task Walking: Effects of Cognitive versus Motor Interference in Young Adults. Neural Plast. 2016;2016:8032180. doi:10.1155/2016/8032180
+:::
+
+Bherer et al found that both young and older individuals demonstrated a significant improvement in performance following dual-task training and older adults had a significantly greater improvement @bhererTransferEffectsTaskset2008.
+
+# Importance in Rehabilitation
+
+"Functional magnetic resonance imaging identified altered sensorimotor cortical activation among those with ACL insufficiency at least six months post-injury when compared to healthy individuals.24" @nessDualTaskAssessmentImplications2020
+
+"Neuroplastic changes that may persist for months to years after surgery and return to sport25,26 were identified during a simple motor task including joint motion (knee flexion/ extension) for those with ACLR" @nessDualTaskAssessmentImplications2020
+
+"Further, neurocognitive deficiencies in reaction time and visual processing speed have been shown to be predictive of future ACL injury in intercollegiate athletes" @nessDualTaskAssessmentImplications2020
+
+Patients who are post-op ACLR would sacrifice cognitive ability to maintain postural stability @nessDualTaskAssessmentImplications2020.
+When performing single tasks such as single or double leg balance, ACLR patients would not demonstrate differences in postural stability when compared to healthy controls @nessDualTaskAssessmentImplications2020.
+
 
 # Treatment effect
 
@@ -169,38 +206,99 @@ Chronical dual tasking results in increases in motor and cognitive performance  
 
 # How to Assess Low or High working capacity?
 
-How to use blazepods to test this?
-What is the required equipment
-How to interpret the data
-Does anything demonstrate increased or decreased risk?
-What is the responsiveness?
-Are there other clinical tests?
-Dual-Task Cost Equation =  (DT − ST)/ST × 100
-How long does it take to see results?
+- How to use blazepods to test this?
+- What is the required equipment
+- How to interpret the data
+- Does anything demonstrate increased or decreased risk?
+- What is the responsiveness?
+- Are there other clinical tests?
+- Dual-Task Cost Equation =  (DT − ST)/ST × 100
+- How long does it take to see results?
 
-# Treatment
-## Treatment concepts
-Eyes are on surroundings and environment
-Change the environment so the focus is away from the movement
-Cognitive endurance
-Do not let the cognitive system rest, keep loading it through multiple exercises even if you target different regions
-Other considerations
-Fatigue from a game (do most injuries occur early or later in games?)
+
+"Three types of cognitive tasks were selected for the dual-task paradigm, which included an auditory Stroop task,22,36,37,40,41 arithmetic of varying difficulty levels,35,39 and backward digit span task of varying difficulty levels.21,23,38 The arithmetic conditions typically involved subtracting by either 3 or 7 as quickly and accurately as possible. Cognitive performance was evaluated in 90% of the included studies and typically expressed as an error ratio, response time, or the sum of correct/incorrect responses. Only one of the studies explicitly manipulated the prioritization of tasks.39"
+
+- Stroop test: attempting to read the text saying a color name while it has an inconsistent color [@nessDualTaskAssessmentImplications2020; @scarpinaStroopColorWord2017].
+- Arithmetic of varying difficulty @nessDualTaskAssessmentImplications2020
+    - Subtracting by 3 or 7 from 100
+
+# Assessment
+
+## Near Transfer
+
+### Processing speed
+- "Processing speed: Processing speed was measured by the ZVT (Oswald and Roth, 1987). In this paper-and-pencil test, participants must connect the numbers from 1 to 90 in the correct order. Overall, the test consisted of four test sheets. The dependent variable was the arithmetic mean of the processing time in the four different sheets in seconds. The less time needed, the better the performance.'" @fleddermannOffCourtGenericPerceptualCognitive2019
+
+### Memory
+
+"Memory span: Memory span was measured by a subtest of the KAI-N (Lehrl and Blaha, 2001). In this test, which is in German, the test conductor speaks out a sequence of letters or numbers, and the participants must repeat this sequence in the correct order. The sequence is extended after each correct repetition and ends when the subject is unable to repeat the sequence. Memory span is calculated by using the number of correct repetitions of letters and numbers. The higher the score, the better the performance." @fleddermannOffCourtGenericPerceptualCognitive2019
+
+### Working speed
+
+"Working speed: Working speed was measured by the letter readout test, which is a subtest of the KAI-N (Lehrl and Blaha, 2001). In this subtest, which is in German, participants must read out a randomized sequence of letters as quickly as they can. In total, they must read four sequences with a short rest in between. The dependent variable is the fastest reading time in seconds."
+
+### Sustained attention
+
+"Sustained attention: Sustained attention was measured by the d2-R (Brickenkamp et al., 2010). This paper-and-pencil test measures attention and concentration ability under time pressure. The test consists of 14 lines with 47 characters per line with a randomized order of the letters “d” and “p.” Each letter is equipped with one, two, three, or four vertical strikes below or above the letter. The task of the participants is to mark the letter “d” with two stripes. All other characters are distractors, and participants are supposed to ignore these characters. For each line, participants have 20 s, and there is no break between the lines. The dependent variable is CP, which is calculated from the processed target objects and the errors. The higher the score, the better the performance."
+
+## Far Transfer test
+
+This would be a sport specific test.
+
+For example, a volleyball far transfer test, the ground force reaction and jump height were measured when a participant performed a jump-block against simulated game scenario @fleddermannOffCourtGenericPerceptualCognitive2019.
+
+
+
+
+# Treatment Concepts
+
+## How to transfer a treatment to a dual-task
+
+- The patient should be in the associative or autonomous stage of learning
+    - Requiring minimal cues
+- Determine:
+    - What does it look like if their form begins to breakdown?
+    - How do they know if they are performing it correctly?
+
+- "Further, they identified three factors (targeted perceptual function, stimulus correspondence, and response correspondence) that may influence transfer to the field" @fleddermannOffCourtGenericPerceptualCognitive2019
+- "Based on the overall aim to maximize performance in the field, Zentgraf et al. (2017) differentiated intervention effects on different levels of transfer in elite sports using four different categories: (1) task-specific practice effects, (2) near-transfer practice effects (e.g., similar cognitive tasks), (3) further-transfer effects (e.g., sensorimotor sport skills), and (4) far-transfer effects (e.g., game-like competition performance)." @fleddermannOffCourtGenericPerceptualCognitive2019
+
+## Load
+
+In the study by Qiu et al., there was no difference in performance decrease between elite, intermediate, and non-athlete basketball players when only tracking 2 objects, but the elite athletes performed significantly better when tracking 3 or 4 objects @qiuInfluenceSportsExpertise2018.
+This indicates that all athletes did not experience attentional overload enough to make more mistakes @qiuInfluenceSportsExpertise2018.
+Similar to strength, endurance, or power training, there must be enough stress on the system to evoke change, and dual-task training must be difficult enough to create change.
+
+Tracking the accuracy of the primary task can work for some situations, but as mentioned earlier, athletes status post ACL injury/surgery would not demonstrate postural motor impairments, but rather have inaccuracies in the cognitive secondary task @nessDualTaskAssessmentImplications2020.
+In these sitautions, the dual-task cost or load should be determined by measuring the number of inaccuracies in the cognitive secondary task @nessDualTaskAssessmentImplications2020.
+
+- Eyes are on surroundings and environment
+- Change the environment so the focus is away from the movement
+- Cognitive endurance
+    - Do not let the cognitive system rest, keep loading it through multiple exercises even if you target different regions
+- Other considerations
+- Fatigue from a game (do most injuries occur early or later in games?)
+
+Cognitive secondary tasks: Generally involve auditory processing, computational skills, or working memory 
+
+Motor secondary tasks: Catching an item
 
 ## Treatment Ideas
-VR soccer kick? -from CSM talk, is this relevant or just for ACLR
-Bounce or throw a ball to them
-Types of secondary tasks
-auditory, visual, memorizing, mathematical operations, and balance @moreiraAcuteChronicEffects2021 
+
+- Types of secondary tasks
+- auditory, visual, memorizing, mathematical operations, and balance @moreiraAcuteChronicEffects2021 
 
 ## Modalities
-Synaptec?
-Blazepods?
+
+- Synaptec?
+    - Decreases anticipation and increases reaction
+- Blazepods?
+    - 
 
 ## Resources for exercise ideas
 
 - Kevin Wilk IG
-
-## Is dual-task training only for athletes?
-
-- This can apply to patients with back instability that get distracted and forget to brace when performing movements
+- Blazepod 
+    - [dual task SLB with catches](https://youtube.com/shorts/jepG7TSCjjw)
+    - [dual task blazepod catch and touch example](https://youtube.com/shorts/HLUJjsX3BSg?feature=share)
+    - [dual task SLB with catches](https://youtube.com/shorts/_ZJ0e0-2Kk4?feature=share)

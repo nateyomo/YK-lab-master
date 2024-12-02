@@ -1,0 +1,19 @@
+---
+title: Stroop Color and Word Test (SCWT)
+subtitle: A measure of dual-task performance
+---
+
+
+The Stroop Color and Word Test is a neuropsychological test designed to measure the ability to inhibit cognitive interference during the "Stroop effect" @scarpinaStroopColorWord2017.
+The "Stroop effect" occurs when the processing of a specific stimulus feature impedes the simultaneous processing of a second stimulus attribute @scarpinaStroopColorWord2017.
+
+The SCWT is primarily used to measure ability to inhibit cognitive interference, but it has also been used as a measure of attention, processing speed, cognitive flexibility, and working memory (WM) @scarpinaStroopColorWord2017.
+
+# Test variations
+
+The original Stroop test proposed by Stroop in 1935 is the most common and consists of subjects attempting to read 3 different tables as fast as possible @scarpinaStroopColorWord2017.
+Two of the tables contain the “congruous condition” where participants are required to read names of colorwords printed in black ink and name different color patches.
+In the third and final table, contains the color-word (CW) condition, where color-words are printed in a colored ink that is not black and differs from the text (for instance the word “red” is printed in green ink) @scarpinaStroopColorWord2017.
+
+To succeed, the participants must perform a less automated task while inhibiting the interference arising from a more automated task @scarpinaStroopColorWord2017.
+

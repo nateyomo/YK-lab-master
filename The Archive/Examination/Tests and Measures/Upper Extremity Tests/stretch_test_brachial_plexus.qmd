@@ -15,7 +15,7 @@ subtitle: Brachial Plexus Special Test
 # Grading
 
 - Positive test: Pain + paresthesia along the involved arm @duttonDuttonOrthopaedicExamination2020
-    - Interpretation: Indicative of a [brachial plexus irritation]({{< var ref-brachial-plexus-irritation.path >}}) @duttonDuttonOrthopaedicExamination2020
+    - Interpretation: Indicative of a [brachial plexus irritation]({{< var ref-brachial-plexus.irritation >}}) @duttonDuttonOrthopaedicExamination2020
 
 # Video Resources
 

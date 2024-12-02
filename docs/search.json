@@ -6830,6 +6830,7 @@
     "title": "Thomas Test",
     "section": "",
     "text": "Can be positive for acetabular labral tear1\n\n\n\n\n\nReferences\n\n1. Wong SE, Cogan CJ, Zhang AL. Physical Examination of the Hip: Assessment of Femoroacetabular Impingement, Labral Pathology, and Microinstability. Current Reviews in Musculoskeletal Medicine. 2022;15(2):38-52. doi:10.1007/s12178-022-09745-8\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Thomas Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Lower extremity tests/Hip\nTests/thomas_test.html"
+    "text": "Can be positive for acetabular labral tear1\n\n\nModified Thomas Test\n\n\n\n\n\n\nNote\n\n\n\nSee2\n\n\n\n\nStrain Counterstrain\n\n\n\n\n\n\nReferences\n\n1. Wong SE, Cogan CJ, Zhang AL. Physical Examination of the Hip: Assessment of Femoroacetabular Impingement, Labral Pathology, and Microinstability. Current Reviews in Musculoskeletal Medicine. 2022;15(2):38-52. doi:10.1007/s12178-022-09745-8\n\n\n2. Cook G, Burton L, eds. Movement: Functional Movement Systems ; Screening, Assessment and Corrective Strategies. On Target Publ. [u.a.]; 2010.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Thomas Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Lower extremity tests/Hip\nTests/thomas_test.html"
   },
   {
     "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/prone_external_rotation_hip_test.html",
@@ -7963,14 +7964,14 @@
     "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html",
     "title": "Dual-Task Presentation",
     "section": "",
-    "text": "Difference in non-contact injury rates in practice vs games/scrimmage\nWhat problem are we trying to solve?\n\nReduce NC injuries?\nImprove gametime performance?\n\n\n\n\n\nProgressive overload is a basic concept in training. Generally we increase our training load by increase the amount of weight in order to get stronger, number of repetitions in order to build endurance, the speed of the exercise to build speed and power, or the complexity of the exercise to build stability. These are all important in athletic performance, but focusing your training solely around these purely phyiscal parameters may leave your unprepared for the mental load of game-time situations.\nDuring training, you can focus almost all of your attention on the task and maintaining proper form, but during a game or daily life, you will be experiencing distractions that will pull your attention away from your form.\nThis is where cognitive-motor dual task (CMDT) interference training is important."
+    "text": "Progressive overload is a basic concept in training. Generally we increase our training load by increase the amount of weight in order to get stronger, number of repetitions in order to build endurance, the speed of the exercise to build speed and power, or the complexity of the exercise to build stability. These are all important in athletic performance, but focusing your training solely around these purely phyiscal parameters may leave your unprepared for the mental load of game-time situations.\nDuring training, you can focus almost all of your attention on the task and maintaining proper form, but during a game or daily life, you will be experiencing distractions that will pull your attention away from your form.\nThis is where Dual-task training is important."
   },
   {
     "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#definitions",
     "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#definitions",
     "title": "Dual-Task Presentation",
     "section": "Definitions",
-    "text": "Definitions\n\nPrimary task: The task or exercise you want to get better at and want to transfer to performance in game or in daily life\nSecondary task: The other tasks that pulls attention away from the primary task\nWorking memory capacity\n\nLow Working memory capacity\nHigh Working memory capacity\n\n\n\n\n\n\n\n\nWorking memory function see3"
+    "text": "Definitions\n\nPrimary task: The task or exercise you want to get better at and want to transfer to performance in game or in daily life\nSecondary task: The other tasks that pulls attention away from the primary task\nWorking memory capacity (WMC) refers to the ability to inhibit irrelevant information2.\n\nLow Working memory capacity refers to individuals who struggle to ignore irrelevant factors\nHigh Working memory capacity refers to individuals who have strong focus and attention and can filter out what information is important for future decisions."
   },
   {
     "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#choking-in-sports",
@@ -7984,42 +7985,42 @@
     "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#acute-effects---observational-studies",
     "title": "Dual-Task Presentation",
     "section": "Acute effects - Observational studies",
-    "text": "Acute effects - Observational studies\n\nVolleyball\n\nFleddermann, M.-T.; Zentgraf, K. Tapping the Full Potential? Jumping Performance of Volleyball Athletes in Game-Like Situations. Front. Psychol. 2018, 9, 1–8.\n\n\n\nBasketball\n\nQiu, F.; Pi, Y.; Liu, K.; Li, X.; Zhang, J.; Wu, Y. Influence of sports expertise level on attention in multiple object tracking. PeerJ 2018, 2018, 1–11.\n\n\n\nHockey\n\nWith / without concussion\nTapper, A.; Gonzalez, D.; Roy, E.; Niechwiej-Szwedo, E. Executive function deficits in team sport athletes with a history of concussion revealed by a visual-auditory dual task paradigm. J. Sports Sci. 2017, 35, 231–240.\n\n\n\nTable tennis\n\nSchaefer, S.; Scornaienchi, D. Table Tennis Experts Outperform Novices in a Demanding Cognitive-Motor Dual-Task Situation. J. Mot. Behav. 2020, 52, 204–213.\n\n\n\nIntellectual impairment adapted athletics\n\nVan Biesen, D.; Jacobs, L.; McCulloch, K.; Janssens, L.; Vanlandewijck, Y.C. Cognitive-motor dual-task ability of athletes with and without intellectual impairment. J. Sports Sci. 2018, 36, 513–521. [CrossRef]"
+    "text": "Acute effects - Observational studies\n\nVolleyball\nFledderman et al. tested the effect of dual-task cost on competitive beach volleyball players3. When performing jump-blocks as a single task, low load dual task, or high load dual task, the players demonstrated worse jumping performance with each successive task3. Based on these results, Fledderman concluded that the secondary cognitive task took attentional resources away from the motor action of jumping resulting in worse performance3.\nFledderman then sampled another group of volleyball players and had them perform multiple object tracking (MOT) dual task training for 8 weeks7. After 8 weeks of dual-task training, there was a statistically significant improvement in near-transfer skills of sustained attention and processing speed7. There was no significant difference in the volleyball-specific jump task7. This indicates that although the athletes improved their attention and processing speed, these cognitive skills were not the reason for dual-task cost during the jump-block7. Similarly, soccer athletes were given 10 sessions of 3D-multiple object tracking (3D-MOT) or 3D soccer video training and demonstrated significantly more improvement in passing decision-making accuracy than controls but no difference in dribbling or shooting8."
   },
   {
     "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#chronic-effects---sport-performance",
     "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#chronic-effects---sport-performance",
     "title": "Dual-Task Presentation",
     "section": "Chronic effects - Sport performance",
-    "text": "Chronic effects - Sport performance\nChoking Table tennis Ducrocq, E.; Wilson, M.; Smith, T.J.; Derakshan, N. Adaptive Working Memory Training Reduces the Negative Impact of Anxiety on Competitive Motor Performance. J. Sport Exerc. Psychol. 2017, 39, 412–422. [CrossRef] Beach Vball Fleddermann, M.-T.T.; Heppe, H.; Zentgraf, K. Off-Court Generic Perceptual-Cognitive Training in Elite Volleyball Athletes: Task-Specific Effects and Levels of Transfer. Front. Psychol. 2019, 10, 1–12. [CrossRef] Hockey & soccer Improved shot accuracy Harris, D.J.; Wilson, M.R.; Crowe, E.M.; Vine, S.J. Examining the roles of working memory and visual attention in multiple object tracking expertise. Cogn. Process. 2019. Soccer Romeas, T.; Guldner, A.; Faubert, J. 3D-Multiple Object Tracking training task improves passing decision-making accuracy in soccer players. Psychol. Sport Exerc. 2016, 22, 1–9. [CrossRef] “Concerning the chronic effects, training with dual-tasks improved both motor and cognitive performance. Bherer et al. [51] suggested that dual-tasks training leads to the development of new perceptual strategies (optimizing attentional focus for the relevant clues in the task) that contribute to improved decision-making [52], as supported by some findings of the present review [21,26]. The significant increase in the duration of the quiet eye [45] after training with dual-tasks indicate that the athletes directed their attention to specific spots for a longer time to extract relevant information for the tactical decision. Additionally, the improvement in the efficiency of attentional control after training can be supported by other enhanced cognitive processes such as the ability to sustain attention and processing speed, observed in the study of Fleddermann et al. [21].”2\nConcussion vs no concussion Cochrane, G.D.; Christy, J.B.; Almutairi, A.; Busettini, C.; Swanson, M.W.; Weise, K.K. Visuo-oculomotor Function and Reaction Times in Athletes with and without Concussion. Optom. Vis. Sci. 2019, 96, 256–265 Howell, D.R.; O’Brien, M.J.; Raghuram, A.; Shah, A.S.; Meehan, W.P. Near Point of Convergence and Gait Deficits in Adolescents after Sport-Related Concussion. Clin. J. Sport Med. 2018, 28, 262–267. Lynall, R.C.; Blackburn, J.T.; Guskiewicz, K.M.; Marshall, S.W.; Plummer, P.; Mihalik, J.P. Functional balance assessment in recreational college-aged individuals with a concussion history. J. Sci. Med. Sport 2019, 22, 503–508\nFencing Gutiérrez-Davila, M.; Rojas, F.J.; Gutiérrez-Cruz, C.; Navarro, E.; Gutierrez-Davila, M.; Javier Rojas, F.; Gutierrez-Cruz, C.; Navarro, E. Effect of dual-attention task on attack and defensive actions in fencing. Eur. J. Sport Sci. 2017, 17, 1004–1012. [CrossRef] Soccer Helm, F.; Reiser, M.; Munzert, J. Domain-Specific and Unspecific Reaction Times in Experienced Team Handball Goalkeepers and Novices. Front. Psychol. 2016, 7. Combat sports Howell, D.R.; Meehan, W.P., III; Loosemore, M.P.; Cummiskey, J.; von Rosenberg, J.-P.G.; McDonagh, D. Neurological tests improve after Olympic-style boxing bouts: A pretournament and post-tournament study in the 2016 Women’s World Boxing Championships. Br. J. Sports Med. 2017, 51, 1279–1284. Cricket Runswick, O.R.; Roca, A.; Mark Williams, A.; Bezodis, N.E.; Mcrobert, A.P.; North, J.S. The impact of contextual information and a secondary task on anticipation performance: An interpretation using cognitive load theory. Appl. Cogn. Psychol. 2018, 32, 141–149."
+    "text": "Chronic effects - Sport performance\n\n\nFencing\nGutiérrez-Davila, M.; Rojas, F.J.; Gutiérrez-Cruz, C.; Navarro, E.; Gutierrez-Davila, M.; Javier Rojas, F.; Gutierrez-Cruz, C.; Navarro, E. Effect of dual-attention task on attack and defensive actions in fencing. Eur. J. Sport Sci. 2017, 17, 1004–1012. [CrossRef]\nSoccer\n\nHelm, F.; Reiser, M.; Munzert, J. Domain-Specific and Unspecific Reaction Times in Experienced Team Handball Goalkeepers and Novices. Front. Psychol. 2016, 7.\n\nCombat sports\n\nHowell, D.R.; Meehan, W.P., III; Loosemore, M.P.; Cummiskey, J.; von Rosenberg, J.-P.G.; McDonagh, D. Neurological tests improve after Olympic-style boxing bouts: A pretournament and post-tournament study in the 2016 Women’s World Boxing Championships. Br. J. Sports Med. 2017, 51, 1279–1284.\n\nCricket\n\nRunswick, O.R.; Roca, A.; Mark Williams, A.; Bezodis, N.E.; Mcrobert, A.P.; North, J.S. The impact of contextual information and a secondary task on anticipation performance: An interpretation using cognitive load theory. Appl. Cogn. Psychol. 2018, 32, 141–149."
   },
   {
     "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#treatment-concepts",
     "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#treatment-concepts",
     "title": "Dual-Task Presentation",
     "section": "Treatment concepts",
-    "text": "Treatment concepts\nEyes are on surroundings and environment Change the environment so the focus is away from the movement Cognitive endurance Do not let the cognitive system rest, keep loading it through multiple exercises even if you target different regions Other considerations Fatigue from a game (do most injuries occur early or later in games?)"
+    "text": "Treatment concepts\n\nEyes are on surroundings and environment\nChange the environment so the focus is away from the movement\nCognitive endurance\n\nDo not let the cognitive system rest, keep loading it through multiple exercises even if you target different regions\n\nOther considerations\nFatigue from a game (do most injuries occur early or later in games?)"
   },
   {
     "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#treatment-ideas",
     "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#treatment-ideas",
     "title": "Dual-Task Presentation",
     "section": "Treatment Ideas",
-    "text": "Treatment Ideas\nVR soccer kick? -from CSM talk, is this relevant or just for ACLR Bounce or throw a ball to them Types of secondary tasks auditory, visual, memorizing, mathematical operations, and balance2"
+    "text": "Treatment Ideas\n\nTypes of secondary tasks\nauditory, visual, memorizing, mathematical operations, and balance2"
   },
   {
     "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#modalities",
     "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#modalities",
     "title": "Dual-Task Presentation",
     "section": "Modalities",
-    "text": "Modalities\nSynaptec? Blazepods?"
+    "text": "Modalities\n\nSynaptec?\n\nDecreases anticipation and increases reaction\n\nBlazepods?"
   },
   {
     "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#resources-for-exercise-ideas",
     "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#resources-for-exercise-ideas",
     "title": "Dual-Task Presentation",
     "section": "Resources for exercise ideas",
-    "text": "Resources for exercise ideas\n\nKevin Wilk IG"
+    "text": "Resources for exercise ideas\n\nKevin Wilk IG\nBlazepod\ndual task SLB with catches\ndual task blazepod catch and touch example\ndual task SLB with catches"
   },
   {
     "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#is-dual-task-training-only-for-athletes",
@@ -9833,5 +9834,1188 @@
     "title": "Meniscal Repair",
     "section": "",
     "text": "Priorities\n\n\n\n\n\n\nWeek 0-3\n\nWe expect them to be NWB\nDecrease swelling\n\nMLD\n\nPatellar Mobilization\nTFJ Mobilization\nBlood flow restriction training\nAssessment\n\nScar\nEdema\n\n\n\n\n\n\n\nSurgical Protocol\nUnable to display PDF file. Download instead.\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Meniscal Repair. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Surgery/Knee Surgery/Meniscus\nSurgery/meniscal_repair.html"
+  },
+  {
+    "objectID": "The Archive/Academia/Learning/reading_method.html",
+    "href": "The Archive/Academia/Learning/reading_method.html",
+    "title": "Studying Method",
+    "section": "",
+    "text": "Flip through each page of the chapter\nRead the End-of-chapter quiz\nRead all bold print\n\nTitles\nSubtitles\nHeadings\nBold words\n\n1st & last sentence of each paragraph\nRead through"
+  },
+  {
+    "objectID": "The Archive/Academia/Learning/reading_method.html#st-pass",
+    "href": "The Archive/Academia/Learning/reading_method.html#st-pass",
+    "title": "Studying Method",
+    "section": "1st Pass",
+    "text": "1st Pass\n\n\nThe 1st pass should take 5-10 minutes, you should quickly scan to understand the paper as a whole.\n\n\nCarefully read the title, abstract, and introduction\nRead the section and sub-section headings, but ignore everything else\nRead the conclusions\nScan the references, mentally ticking off the ones you’ve already read\n\n\n\nKeshav had 5C’s you should be able to answer after the 1st pass:\n\n\n\nTable 1: Keshav’s 5C’skeshavHowReadPaper2007?\n\n\n\n\n\n\nCategory\n\n\nWhat type of paper is this?  A measurement paper?  An analysis of an existing system?  A description of a research prototype?\n\n\n\n\nContext\n\n\nWhich other papers is it related to?  Which theoretical bases were used to analyze the problem?\n\n\n\n\nCorrectness\n\n\nDo the assumptions appear to be valid?\n\n\n\n\nContributions\n\n\nWhat are the paper’s main contributions?\n\n\n\n\nClarity\n\n\nIs the paper well written?\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nDuring this pass, you should be considering whether you need to perform a 2nd or 3rd passkeshavHowReadPaper2007?.\n\n\nYou can stop at the 1st pass if the paper doesn’t interest you, you do not have the requisite knowledge to understand the paper, or that the authors make invalid assumptionskeshavHowReadPaper2007?. Keshav states that the 1st pass is also adequate for papers thatare not in your research area, but may be relevant in the futurekeshavHowReadPaper2007?."
+  },
+  {
+    "objectID": "The Archive/Academia/Learning/reading_method.html#nd-pass",
+    "href": "The Archive/Academia/Learning/reading_method.html#nd-pass",
+    "title": "Studying Method",
+    "section": "2nd Pass",
+    "text": "2nd Pass\n\n\nThe 2nd pass should take ~1 hour and you should read the paper with greater care but ignore information that is too detailed such as proofskeshavHowReadPaper2007?. At this stage, Keshav suggests jotting down key points or adding comments at this stagekeshavHowReadPaper2007?.\n\n\nLook carefully at the figures, diagrams and other illustrations in the paperkeshavHowReadPaper2007?.\nPay special attention to graphs and observe if the axes properly labeledkeshavHowReadPaper2007?.\nAre results shown with error bars, so that conclusions are statistically significant?keshavHowReadPaper2007?\nMark relevant unread references for further reading in order to better understand the background of the paper and the topickeshavHowReadPaper2007?.\n\n\n\nDuring the 2nd pass, if you notice mistakes in the figures, diagrams, and other illustrations, this is indicative that the article is of poorer quality than one without these mistakeskeshavHowReadPaper2007?.\nBy the end of a successful 1st pass, you should have a good enough grasp of the content that you can summarize the main points of the paper with supporting evidence to someone elsekeshavHowReadPaper2007?.\n\n\n\n\n\n\nImportant\n\n\n\nBeing able to summarize a paper and its evidence to someone else is appropriate for a field you are interested in, but is inadequate for a topic in your research specialtykeshavHowReadPaper2007?.\n\n\nBy the end of the 2nd pass, it is acceptable if there are still items that you do not understandkeshavHowReadPaper2007?. This is especially true if:\n\nIt is a novel subject to youkeshavHowReadPaper2007?.\nThere was a proof or experimental technique you do not yet understandkeshavHowReadPaper2007?.\nThe paper was poorly written with unsubstantiated assertions and numerous forward referenceskeshavHowReadPaper2007?."
+  },
+  {
+    "objectID": "The Archive/Academia/Learning/reading_method.html#rd-pass",
+    "href": "The Archive/Academia/Learning/reading_method.html#rd-pass",
+    "title": "Studying Method",
+    "section": "3rd Pass",
+    "text": "3rd Pass\n“To fully understand a paper, particularly if you are reviewer, requires a third pass. The key to the third pass is to attempt to virtually re-implement the paper: that is, making the same assumptions as the authors, re-create the work. By comparing this re-creation with the actual paper, you can easily identify not only a paper’s innovations, but also its hidden failings and assumptions. This pass requires great attention to detail. You should identify and challenge every assumption in every statement. Moreover, you should think about how you yourself would present a particular idea. This comparison of the actual with the virtual lends a sharp insight into the proof and presentation techniques in the paper and you can very likely add this to your repertoire of tools. During this pass, you should also jot down ideas for future work. This pass can take about four or five hours for beginners, and about an hour for an experienced reader. At the end of this pass, you should be able to reconstruct the entire structure of the paper from memory, as well as be able to identify its strong and weak points. In particular, you should be able to pinpoint implicit assumptions, missing citations to relevant work, and potential issues with experimental or analytical techniques.”keshavHowReadPaper2007?"
+  },
+  {
+    "objectID": "The Archive/Biomechanics/musculoskeletal_levers.html",
+    "href": "The Archive/Biomechanics/musculoskeletal_levers.html",
+    "title": "Musculoskeletal Levers",
+    "section": "",
+    "text": "A lever refers to a machine consisting of a rigid rod suspended across a pivot point1. Musculoskeletal levers consist of a rigid rod (bone) suspended across a pivot point (joint) that experiences internal forces (muscle contraction) and external forces (gravity).\n\n\n\n3 classes of Levers1\n\n\n\n1st Class\nA first class lever’s axis of rotation positioned between the opposing forces1. In the human body, the atlanto-occipital joint acts as a 1st class lever since the AOR is in the middle, the head-and-neck extensor muscles exert an internal force and the center of gravity is on the anterior side of the head pulling into flexion1.\n\n\n2nd Class\n“A second-class lever always has two features. First, its axis of rotation is located at one end of a bone. Second, the muscle, or internal force, possesses greater leverage than the external force. Second-class levers are very rare in the musculoskeletal system. The classic example is the calf muscles producing the torque needed to stand on tiptoes (see Fig. 1.23B). The axis of rotation for this action is assumed to act through the metatarsophalangeal joints. Based on this assumption, the internal moment arm used by the calf muscles greatly exceeds the external moment arm used by body weight.”1\n\n\n3rd Class\n“As in the second-class lever, the third-class lever has its axis of rotation located at one end of a bone. The elbow flexor muscles use a third-class lever to produce the flexion torque required to support a weight in the hand (see Fig. 1.23C). Unlike with the second-class lever, the external weight supported by a third-class lever always has greater leverage than the muscle force. The third-class lever is the most common lever used by the musculoskeletal system.”1\n\n\nMechanical Advantage\n“The mechanical advantage (MA) of a musculoskeletal lever can be defined as the ratio of the internal moment arm to the external moment arm. Depending on the location of the axis of rotation, the first-class lever can have an MA equal to, less than, or greater than 1. Second-class levers always have an MA greater than 1. As depicted in the boxes associated with Fig. 1.23A–B, lever systems with an MA greater than 1 are able to balance the torque equilibrium equation by an internal (muscle) force that is less than the external force. Third-class levers always have an MA less than 1. As depicted in Fig. 1.23C, in order to balance the torque equilibrium equation, the muscle must produce a force much greater than the opposing external force.”1\n\n\n\n\n\nReferences\n\n1. Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation. 3rd ed. Elsevier; 2017.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Musculoskeletal Levers.\nhttps://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Biomechanics/musculoskeletal_levers.html"
+  },
+  {
+    "objectID": "The Archive/Biomechanics/Throwing/throwing_biomechanic.html",
+    "href": "The Archive/Biomechanics/Throwing/throwing_biomechanic.html",
+    "title": "Throwing Biomechanics",
+    "section": "",
+    "text": "*Throwing arm will be considered I/L"
+  },
+  {
+    "objectID": "The Archive/Biomechanics/Throwing/throwing_biomechanic.html#wind-up",
+    "href": "The Archive/Biomechanics/Throwing/throwing_biomechanic.html#wind-up",
+    "title": "Throwing Biomechanics",
+    "section": "Wind Up",
+    "text": "Wind Up\n\nInitial Movement to Maximum Knee Lift\nNecessary:\n\nI/L rotation\nRelative I/L Hip IR\nI/L SLB\nLead HF (end range)\nI/L Hip ext\nStance (I/L) leg ext/IR\nstride leg max HF\nUpright trunk with I/L rot\nEccentric trunk/shoulder load\nCritical events and considerations:\n\nSLB and stance stability (lumbopelvic)\nLoad hip, min shoulder mm activity"
+  },
+  {
+    "objectID": "The Archive/Biomechanics/Throwing/throwing_biomechanic.html#early-cocking",
+    "href": "The Archive/Biomechanics/Throwing/throwing_biomechanic.html#early-cocking",
+    "title": "Throwing Biomechanics",
+    "section": "Early Cocking",
+    "text": "Early Cocking\nDefined as Maximum Knee Lift to Lead Foot Contact\n\nStance leg EXT/ER/ABD with pelvic Rot\nStride leg drives trunk and UE eccentric load\n\nThis powerful stride before front foot strike is important\n\n\n\n\n\n\n\n\nIncreased hip/pelvic Rotation\n\nIncreased GHJ HorABD stress (Laudner 2019)\nIncreased Elbow valgus (Laudner 2019)\n\n\n\nDecreased hip/pelvic Rotation\n\nIncreased GHJ HorADD (Laudner 2019)"
+  },
+  {
+    "objectID": "The Archive/Biomechanics/Throwing/throwing_biomechanic.html#late-cocking",
+    "href": "The Archive/Biomechanics/Throwing/throwing_biomechanic.html#late-cocking",
+    "title": "Throwing Biomechanics",
+    "section": "Late Cocking",
+    "text": "Late Cocking\nCharacterized by Lead Foot Contact to Maximal Shoulder ER\n\nTrunk begins C/L rotation (following the pelvis)\n\nTrunk is moving faster than the shoulder (relative HorABD)\n\nC/L arm: Remains closed\nI/L arm\n\nGHJ Max ER & Max ABD\n\nScapula: Retracts to create stable base\nFoot placement\n\nAngled 15° from 180°\n\n\n\n\n\n\n\n\nNote\n\n\n\nA focus of a clinician during this phase should be foot placement"
+  },
+  {
+    "objectID": "The Archive/Biomechanics/Throwing/throwing_biomechanic.html#acceleration",
+    "href": "The Archive/Biomechanics/Throwing/throwing_biomechanic.html#acceleration",
+    "title": "Throwing Biomechanics",
+    "section": "Acceleration",
+    "text": "Acceleration\nMaximal Shoulder ER to Ball Release\n\nHips & Trunk rotate the shoulder to “ball release point” of 90° rotation\nMuscle function transition\n\nInternal rotaters are eccentrically working as the shoulder moves to max ER then transition to concentric activity during this phase"
+  },
+  {
+    "objectID": "The Archive/Biomechanics/Throwing/throwing_biomechanic.html#deceleration",
+    "href": "The Archive/Biomechanics/Throwing/throwing_biomechanic.html#deceleration",
+    "title": "Throwing Biomechanics",
+    "section": "Deceleration",
+    "text": "Deceleration\n\nBall Release to Maximum Shoulder IR\nArm crosses body (hor-add)"
+  },
+  {
+    "objectID": "The Archive/Biomechanics/Throwing/throwing_biomechanic.html#follow-through",
+    "href": "The Archive/Biomechanics/Throwing/throwing_biomechanic.html#follow-through",
+    "title": "Throwing Biomechanics",
+    "section": "Follow Through",
+    "text": "Follow Through\n\nMaximum Shoulder IR to Body Stops Moving"
+  },
+  {
+    "objectID": "The Archive/Biomechanics/force_couple.html",
+    "href": "The Archive/Biomechanics/force_couple.html",
+    "title": "Force Couple",
+    "section": "",
+    "text": "A Force-Couple refers to two or more muscles that individually act in different linear directions, but when combined, can producing a net torque in the same rotary direction1\n\n\n\n\nReferences\n\n1. Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation. 3rd ed. Elsevier; 2017.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Force Couple. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Biomechanics/force_couple.html"
+  },
+  {
+    "objectID": "The Archive/Biomechanics/closed_kinetic_chain_CKC.html",
+    "href": "The Archive/Biomechanics/closed_kinetic_chain_CKC.html",
+    "title": "Closed Kinetic Chain (CKC)",
+    "section": "",
+    "text": "“Closed kinetic chain” refers to when the distal segment of the joint is fixed and the proximal segment is free to move1.\n\n\n\n\nReferences\n\n1. Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation. 3rd ed. Elsevier; 2017.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Closed Kinetic Chain\n(CKC). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Biomechanics/closed_kinetic_chain_CKC.html"
+  },
+  {
+    "objectID": "The Archive/Biomechanics/arthrokinematics.html",
+    "href": "The Archive/Biomechanics/arthrokinematics.html",
+    "title": "Arthrokinematics",
+    "section": "",
+    "text": "Arthrokinematics refers to the motion between joint surfaces1. Joint surfaces are generally considered convex or concave relative to eachother, thus one aspect of the joint is considered convex and the other is considered concave1.\n\n\n\n\n\n\n\nMovement\nDefinition\n\n\n\n\nRoll/Rock\nMultiple points along one rotating articular surface contact multiple points on another articular surface1\n\n\nSlide/Glide\nA single point on one articular surface contacts multiple points on another articular surface1\n\n\nSpin\nA single point on one articular surface rotates on a single point on another articular surface1\n\n\n\n\n\n\n\nReferences\n\n1. Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation. 3rd ed. Elsevier; 2017.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Arthrokinematics. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Biomechanics/arthrokinematics.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Pulmonary Evaluation/spirometry.html",
+    "href": "The Archive/Examination/Pulmonary Evaluation/spirometry.html",
+    "title": "Spirometry",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Spirometry. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Pulmonary Evaluation/spirometry.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Patient Reported Outcomes/Oswestry_disability_index_ODI.html",
+    "href": "The Archive/Examination/Tests and Measures/Patient Reported Outcomes/Oswestry_disability_index_ODI.html",
+    "title": "Oswestry Disability Index (ODI)",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Oswestry Disability\nIndex (ODI). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Patient Reported\nOutcomes/Oswestry_disability_index_ODI.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/hoovers_sign.html",
+    "href": "The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/hoovers_sign.html",
+    "title": "Hoover’s Sign",
+    "section": "",
+    "text": "Hoover’s sign is considered positive if there is weakness of hip extension (left) which returns to normal with contralateral hip flexion against resistance (right)1.\n\n\n\nPurpose\nA clinician can check for Hoover’s sign in order to differentaite between general hip extension weakness and functional hip extension weakness.\n\n\nTechnique\nassuming the L hip is demonstrating weakness\n\nPatient goes into hip extension against resistance with L leg\nTest patient’s ability to perform resisted hip flexion on the right leg which indirectly tests hip extension on the left leg.\nIf the patient has L hip extension weakness against direct resistance, but has sufficient strength against resistance with R hip flexion, this is considered positive\n\n\n\nto Organize\n“Hoover’s sign was also tested in every subject. In the supine position, the patient is told to lift one extended leg, and the examiner exerts an opposing downward pressure on the lifted leg. At the same time, the examiner places his other hand under the heel of the unlifted leg, and evaluates the synergic downward pressure by exerting an opposing upward force.”2\n“Hoover’s original description indicated that the sign is composed of two separate tests.8 The first, here named Hoover’s test 1, examines the complementary opposition of the paretic leg when the sound leg is lifted. This downward pressure is compared against the strength of the hip extensor manually tested beforehand. The paresis was judged to be non-organic if the paretic leg exerted full downward opposition, stronger than the manually tested strength. The paresis was judged to be organic if the downward pressure was equally weak to the manually tested strength. When the manually tested strength of the hip extensor was full, this test was not diagnostic.”2\n“Hoover’s test 2 examines the complementary opposition of the sound leg when the patient lifts or attempts to lift the paretic leg. When the sound leg exerts only weak downward pressure and is passively lifted by the examiner’s hand, the paresis is judged to be non-organic. A normally strong downward opposition of the sound leg suggests organic paresis. When the manually tested strength of the hip flexor is full, this test is not diagnostic.”2\n“We judged that Hoover’s sign as a whole indicated nonorganic paresis if at least one of the two tests suggested nonorganic paresis, because both phenomena indicating nonorganic paresis were unlikely to occur in organic paresis.”2\n\n\n\n\n\nReferences\n\n1. Bennett K, Diamond C, Hoeritzauer I, et al. A practical review of functional neurological disorder (FND) for the general physician. Clinical Medicine (London, England). 2021;21(1):28-36. doi:10.7861/clinmed.2020-0987\n\n\n2. Sonoo M. Abductor sign: A reliable new sign to detect unilateral non-organic paresis of the lower limb. Journal of Neurology, Neurosurgery, and Psychiatry. 2004;75(1):121-125.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Hoover’s Sign. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Strength/Functional limb weakness\ntests/hoovers_sign.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Strength/bunkie_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Strength/bunkie_test.html",
+    "title": "Bunkie Test",
+    "section": "",
+    "text": "1\n\n\n\n\nReferences\n\n1. Brumitt J. The Bunkie Test: Descriptive Data for a Novel Test of Core Muscular Endurance. Rehabilitation Research and Practice. 2015;2015:1-9. doi:10.1155/2015/780127\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Bunkie Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and\nMeasures/Strength/bunkie_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Trunk Tests/Lumbar Spine Tests/lateral_stability_test_lumbar_spine.html",
+    "href": "The Archive/Examination/Tests and Measures/Trunk Tests/Lumbar Spine Tests/lateral_stability_test_lumbar_spine.html",
+    "title": "Lateral Stability Test for the Lumbar Spine",
+    "section": "",
+    "text": "“This test does not rely on the objectivity of the end-feel. Instead, an indirect shearing maneuver is used, and the reproduction of pain is considered a positive test. The patient lies in the side-lying position facing the clinician, with the lumbar spine positioned in neutral and the hips and knees flexed to approximately 45 degrees. The clinician, using the fleshy part of one forearm, applies a downward pressure on the lateral aspect of the patient’s trunk at the level of the L3 transverse process (Fig. 28-49). This produces a lateral translation of the entire lumbar spine in the direction of the bed. The pressure is applied and monitored for pain. The test is repeated with the patient side lying on the opposite side.”1\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Lateral Stability Test\nfor the Lumbar Spine. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Trunk Tests/Lumbar Spine\nTests/lateral_stability_test_lumbar_spine.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Trunk Tests/quadrant_testing_spine.html",
+    "href": "The Archive/Examination/Tests and Measures/Trunk Tests/quadrant_testing_spine.html",
+    "title": "Quadrant Test for the Spine",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Quadrant Test for the\nSpine. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Trunk\nTests/quadrant_testing_spine.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Trunk Tests/SIJ Tests/gaenslens_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Trunk Tests/SIJ Tests/gaenslens_test.html",
+    "title": "Gaenslen’s Teset",
+    "section": "",
+    "text": "“The patient is positioned supine at the edge of the side of the bed with the painful leg resting very near to the end of the bed, and the resting symptoms are assessed. The leg furthest from the edge of the bed (nontested leg) is flexed 90 degrees at the hip and held by the clinician using one hand. The clinician passively positions the upper leg (test leg) into hyperextension at the hip so that it hangs over the edge of the table (Fig. 29-25). The clinician applies a further stretch to the test leg into hip extension and adduction up to six times while a flexion-based counter force is applied to the flexed leg. Pain with this maneuver is considered a positive test for an SIJ lesion, pubic symphysis instability, hip pathology, or an L4 nerve root lesion. The test also stresses the femoral nerve.”1\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Gaenslen’s Teset. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Trunk Tests/SIJ\nTests/gaenslens_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Trunk Tests/SIJ Tests/Stork_Test_SIJ.html",
+    "href": "The Archive/Examination/Tests and Measures/Trunk Tests/SIJ Tests/Stork_Test_SIJ.html",
+    "title": "Stork Test",
+    "section": "",
+    "text": "AKA\n\n\n\n\nGillet Test\n\n\n\n\nTechnique\n\nThumbs on both PSIS\nAsk pt to raise 1 leg\nExpect ipsilateral PSIS to move caudally or inferiorly during leg raise\nIf the PSIS moves superiorly or does not move, this indicates SIJ dysfunction\n\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Stork Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Trunk Tests/SIJ\nTests/Stork_Test_SIJ.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Trunk Tests/core_strength_tests.html",
+    "href": "The Archive/Examination/Tests and Measures/Trunk Tests/core_strength_tests.html",
+    "title": "Core Strength Tests",
+    "section": "",
+    "text": "Bunkie Test\n\n\n\nMcGill described 3 functional performance tests (FPTs) for assessing core muscular capacity:\n\n\nLateral musculature test (performed bilaterally)1\nFlexor endurance test1\nBack extensors test1\n\n\n\n\n\nde Witt and Venter developed 5 FPTs for the lumbopelvic musculature:\n\nPlank or modified plank with lower extremity support1\n\nThis FPT has been coined the Bunkie test, derived from “bankie” the Afrikaans word for a little bench [14]. de Witt and Venter suggest that endurance athletes should be able to hold each test position for up to 40 s [14]. The aforementioned value represents a clinical recommendation by de Witt and Venter [14]; however, normative values for a general population are currently unknown.\n\n\n\n\n\nCore power tests\n\nHooklying position\n4lb ball for women or 8lb ball for men\nBring ball overhead with both hands\nperform a crunch while throwing the ball forward with both hands\n&lt;18-22ft = lacking core power\n\n\n\n\n\n\nReferences\n\n1. Brumitt J. The Bunkie Test: Descriptive Data for a Novel Test of Core Muscular Endurance. Rehabilitation Research and Practice. 2015;2015:1-9. doi:10.1155/2015/780127\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Core Strength Tests. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Trunk\nTests/core_strength_tests.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Trunk Tests/ROM Testing/ROM_thoracic_spine.html",
+    "href": "The Archive/Examination/Tests and Measures/Trunk Tests/ROM Testing/ROM_thoracic_spine.html",
+    "title": "Thoracic Spine ROM",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Thoracic Spine ROM. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Trunk Tests/ROM\nTesting/ROM_thoracic_spine.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Trunk Tests/ROM Testing/ROM_spine.html",
+    "href": "The Archive/Examination/Tests and Measures/Trunk Tests/ROM Testing/ROM_spine.html",
+    "title": "Spine ROM",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Spine ROM. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Trunk Tests/ROM\nTesting/ROM_spine.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Isokinetic Dynamometry/isokinetic_dynamometry.html",
+    "href": "The Archive/Examination/Tests and Measures/Isokinetic Dynamometry/isokinetic_dynamometry.html",
+    "title": "Isokinetic Dynamometry",
+    "section": "",
+    "text": "To read\n\n\n\n\nIsokinetic Testing: Why it is More Important Today than Ever1"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Isokinetic Dynamometry/isokinetic_dynamometry.html#filtering-rate",
+    "href": "The Archive/Examination/Tests and Measures/Isokinetic Dynamometry/isokinetic_dynamometry.html#filtering-rate",
+    "title": "Isokinetic Dynamometry",
+    "section": "Filtering Rate",
+    "text": "Filtering Rate\nA processing method"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Isokinetic Dynamometry/isokinetic_dynamometry.html#sample-rate-sr",
+    "href": "The Archive/Examination/Tests and Measures/Isokinetic Dynamometry/isokinetic_dynamometry.html#sample-rate-sr",
+    "title": "Isokinetic Dynamometry",
+    "section": "Sample Rate (SR)",
+    "text": "Sample Rate (SR)"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Isokinetic Dynamometry/isokinetic_dynamometry.html#peak-torque",
+    "href": "The Archive/Examination/Tests and Measures/Isokinetic Dynamometry/isokinetic_dynamometry.html#peak-torque",
+    "title": "Isokinetic Dynamometry",
+    "section": "Peak Torque",
+    "text": "Peak Torque"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Isokinetic Dynamometry/isokinetic_dynamometry.html#rate-of-torque-development-at-peak-rtdpeak",
+    "href": "The Archive/Examination/Tests and Measures/Isokinetic Dynamometry/isokinetic_dynamometry.html#rate-of-torque-development-at-peak-rtdpeak",
+    "title": "Isokinetic Dynamometry",
+    "section": "Rate of torque development at peak (RTDPEAK)",
+    "text": "Rate of torque development at peak (RTDPEAK)"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Isokinetic Dynamometry/isokinetic_dynamometry.html#activforce",
+    "href": "The Archive/Examination/Tests and Measures/Isokinetic Dynamometry/isokinetic_dynamometry.html#activforce",
+    "title": "Isokinetic Dynamometry",
+    "section": "Activforce",
+    "text": "Activforce\n\n\n\n\n\n\n\nReliability and Validity of the ActivForce Digital Dynamometer in Assessing Shoulder Muscle Force across Different User Experience Levels2"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Tinels_test.html#technique",
+    "href": "The Archive/Examination/Tests and Measures/Tinels_test.html#technique",
+    "title": "Tinel’s Sign",
+    "section": "Technique",
+    "text": "Technique\n\nPatient is seated2\nAsk the pt to to SB neck contralaterally (to uninvolved side)2\nClinician taps or squeezes trunks of brachial plexus using fingers"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Tinels_test.html#interpretation",
+    "href": "The Archive/Examination/Tests and Measures/Tinels_test.html#interpretation",
+    "title": "Tinel’s Sign",
+    "section": "Interpretation",
+    "text": "Interpretation\n\nLocal pain2\n\nIndicates cervical plexus lesion2\n\nTingling along one of the trunks:2 Indicates: Compression/neuroma of one or more trunks of brachial plexus2"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Balance Tests/RPS_rate_of_perceived_stability.html",
+    "href": "The Archive/Examination/Tests and Measures/Balance Tests/RPS_rate_of_perceived_stability.html",
+    "title": "Rate of Perceived Stability (RPS)",
+    "section": "",
+    "text": "Data Gathered from Shenoy et al. 2022\n\n\nSample\npatients\n\n\n\n\n\n\n\n\n\n\nHemiparesis post-stroke\nAbility to walk 10m with/without AD\nat least 1-year post-stroke\n\n\n\n\n\nCohort study"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Balance Tests/RPS_rate_of_perceived_stability.html#reliability-and-validity",
+    "href": "The Archive/Examination/Tests and Measures/Balance Tests/RPS_rate_of_perceived_stability.html#reliability-and-validity",
+    "title": "Rate of Perceived Stability (RPS)",
+    "section": "",
+    "text": "Data Gathered from Shenoy et al. 2022\n\n\nSample\npatients"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Balance Tests/RPS_rate_of_perceived_stability.html#inclusion-criteria",
+    "href": "The Archive/Examination/Tests and Measures/Balance Tests/RPS_rate_of_perceived_stability.html#inclusion-criteria",
+    "title": "Rate of Perceived Stability (RPS)",
+    "section": "",
+    "text": "Hemiparesis post-stroke\nAbility to walk 10m with/without AD\nat least 1-year post-stroke"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Balance Tests/RPS_rate_of_perceived_stability.html#exclusion-criteria",
+    "href": "The Archive/Examination/Tests and Measures/Balance Tests/RPS_rate_of_perceived_stability.html#exclusion-criteria",
+    "title": "Rate of Perceived Stability (RPS)",
+    "section": "",
+    "text": "Cohort study"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Head and Neck Tests/alar_ligament_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Head and Neck Tests/alar_ligament_test.html",
+    "title": "Alar Ligament Test",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Alar Ligament Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Head and Neck\nTests/alar_ligament_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Head and Neck Tests/Sharp-Purser_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Head and Neck Tests/Sharp-Purser_test.html",
+    "title": "Sharp-Purser Test",
+    "section": "",
+    "text": "Technique\n\nPinch the patient’s C2 SP between your fingers\nWith your opposite arm, place the patient’s forehead in your elbow\nApply no pressure\nHave the patient move into flexion until they report symptoms\nUse your elbow to posteriorly translate the occiput and ask patient if symptoms change\n\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Sharp-Purser Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Head and Neck\nTests/Sharp-Purser_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Head and Neck Tests/Spurlings_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Head and Neck Tests/Spurlings_test.html",
+    "title": "Spurling’s Test",
+    "section": "",
+    "text": "AKA\n\n\n\n\nSpurling’s Test\nCompression Test\n\n\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Spurling’s Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Head and Neck\nTests/Spurlings_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Head and Neck Tests/canadian_cervical_spine_rules.html",
+    "href": "The Archive/Examination/Tests and Measures/Head and Neck Tests/canadian_cervical_spine_rules.html",
+    "title": "Canadian Cervical Spine Rules",
+    "section": "",
+    "text": "Rule not applicable if:\n\nNon-trauma cases\nGCS &lt;15\nUnstable vital signs\nAge &lt; 16 years\nAcute paralysis\nKnown vertebral disease\nPrevious C/S surgery\nPregnant\n\n\n\nHigh Risk Factors\n\nAge &gt;= 65y/o\nDangerous mechanism\n\nFall from elevation (&gt;=3ft or &gt;=5 stairs)\nAxial load to the head\nMVC at high speeds (&gt;100km/hr or 60 mph), rollover, or ejection\nMotorized recreational vehicle\nBike struck or collision\n\nNew parasthesias in extremities\nC/S rotation &lt; 45°\n\n\n\nLow Risk factors\nIf the patient presents with these, you should rule down the necessity for radiography:\n\nSimple rear-end MVC\nTolerates sitting position in ED\nAmbulatory at any time\nDelayed onset of pain\nAbsence of midline C/S tenderness\n\n\n\n\n\n\n\nSimple MVC exclusions\n\n\n\n\nPushed into oncoming traffic\nhit by bus or large truck\nRollover\n\n\n\n\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Canadian Cervical Spine\nRules. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Head and Neck\nTests/canadian_cervical_spine_rules.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_wright_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_wright_test.html",
+    "title": "Wright’s Test (Hyperabduction test)",
+    "section": "",
+    "text": "Tests for thoracic outley syndrome occurring at the Thoraco-coraco-pectoral gate1.\n\nTechnique\n\nPatient position: Relaxed sitting\nClinician palpates radial pulse\nAsk patient to rotate head contralaterally\nAsk patient to raise arm into hyperabduction\nHelp for 1-2 min\n\n\n\nScoring\n\nPositive Test\n\n(+) Reproduction of paresthesia\n(+) Decrease in the radial pulse\n\n\n\n\n\n\n\nReferences\n\n1. Hooper TL, Denton J, McGalliard MK, Brismée JM, Sizer PS. Thoracic outlet syndrome: A controversial clinical condition. Part 1: Anatomy, and clinical examination/diagnosis. The Journal of Manual & Manipulative Therapy. 2010;18(2):74-83. doi:10.1179/106698110X12640740712734\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Wright’s Test\n(Hyperabduction test). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic\noutlet syndrome/tos_wright_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_allen_maneuver.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_allen_maneuver.html",
+    "title": "Allen Maneuver for Thoracic Outlet Syndrome",
+    "section": "",
+    "text": "A maneuver that should be performed before the TOS tests.\n“A bedside test used to evaluate the patency of the arteries of the hand before arterial puncture. The patient elevates the hand and repeatedly makes a fist while the examiner places digital occlusive pressure over the radial and ulnar arteries at the wrist. The hand will lose its normal pink color. Digital pressure is released from one artery (usually the ulnar), while the other, i.e., the radial, remains compressed. If there is normal blood flow through the unobstructed artery, color should return to the hand within 10 sec. The return of color indicates that the hand has a good collateral supply of blood and that arterial puncture of the compressed artery can be safely performed.”\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Allen Maneuver for\nThoracic Outlet Syndrome. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic\noutlet syndrome/tos_allen_maneuver.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/Adsons_vascular_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/Adsons_vascular_test.html",
+    "title": "Adson’s Vascular Test",
+    "section": "",
+    "text": "Warning\n\n\n\nThis test has some of the best validity out of other TOS tests\nBut there are some issues:\n\nConflicting evidence on the biomechanical mechanism of the test as seen below\nThe large percent of false positives when using radial pulse as the main outcome measure1\n\n\n\nAdson’s Vascular test is a special test that is designed to rule in a vascular source of thoracic outlet syndrome\n\nTechnique\nPt is sitting arms at 15 degrees ABD, PT palpating radial pulse\n\n\n\n\n\n\nConflicting evidence\n\n\n\nAccording to those who proposed the Adson’s Vascular test, this position theoretically tensions anterior and middle scalenes, compromising (compressing) the interscalene triangle2.\nContrasting biomechanical evidence finds the scalene angle to increase, which should reduce likelihood of compression2\n\n\n\nPatient asked to inhale and hold breath2\nPatient asked to tilt head back, rotate head so that chin is elevated and pointed to examined side2\n\n\n\nInterpretation\n\nDiminished or occluded radial pulse is considered a positive test\n\n\n\n\n\n\n\nCaution\n\n\n\nUsing radial pulse to conclude a positive test has been shown to produce many false positives1\n\n\n\nParasthesia: Change in parasthesia can be an indication of a positive test\n\nThere has been no studies performed on the validity of using change in symptoms to rule in TOS using Adson’s Vascular Test.\n\n\n\n\n\n\n\nReferences\n\n1. Hooper TL, Denton J, McGalliard MK, Brismée JM, Sizer PS. Thoracic outlet syndrome: A controversial clinical condition. Part 1: Anatomy, and clinical examination/diagnosis. The Journal of Manual & Manipulative Therapy. 2010;18(2):74-83. doi:10.1179/106698110X12640740712734\n\n\n2. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Adson’s Vascular Test.\nhttps://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic\noutlet syndrome/Adsons_vascular_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Elbow Tests/lateral_pivot_shift_apprehension_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Elbow Tests/lateral_pivot_shift_apprehension_test.html",
+    "title": "Lateral Pivot Shift Apprehension Test",
+    "section": "",
+    "text": "“The lateral pivot shift test is used in the diagnosis of posterolateral rotatory instability. The patient is positioned in supine, with the involved extremity overhead. The clinician grasps the patient’s wrist and elbow. The elbow is supinated with a mild force at the wrist, and a valgus moment and compressive force is applied to the elbow during flexion (Fig. 17-39). This results in a typical apprehension response with reproduction of the patient’s symptoms and a sense that the elbow is about to dislocate. Reproducing the actual subluxation and the clunk that occurs with reduction usually can only be accomplished with the patient under general anesthesia or occasionally after injecting a local anesthetic into the elbow.”1\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Lateral Pivot Shift\nApprehension Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Elbow\nTests/lateral_pivot_shift_apprehension_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Elbow Tests/Golfers_elbow_test_medial_epicondylitis_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Elbow Tests/Golfers_elbow_test_medial_epicondylitis_test.html",
+    "title": "Golfer’s Elbow (Medial Epicondylitis Test)",
+    "section": "",
+    "text": "“The clinician palpates the medial epicondyle with one hand, while supinating the forearm and extending the wrist and elbow with the other hand. A reproduction of pain in the area of the medial epicondyle indicates a positive test.”1\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Golfer’s Elbow (Medial\nEpicondylitis Test). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Elbow\nTests/Golfers_elbow_test_medial_epicondylitis_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Elbow Tests/Posterolateral_rotatory_drawer_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Elbow Tests/Posterolateral_rotatory_drawer_test.html",
+    "title": "Posterolateral Rotatory Drawer Test",
+    "section": "",
+    "text": "“This test can be performed with the patient awake or under anesthesia. The patient is positioned in supine with the shoulder flexed to 90 degrees, the forearm held in supination, and the elbow is flexed between 45 and 90 degrees. The clinician fixates the patient’s forearm against the clinician’s body with one hand. With the other hand placed just proximal to the patient’s elbow, and with the thumb over the radial head, the clinician applies a distraction force to the radial and ulna. The posterolateral rotary pivot-shift test is considered positive for posterolateral rotatory instability if there is apprehension from the awake patient, or when there is a subluxation of the radial head followed by a reduction at the end of the test with the sedated patient.”1\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Posterolateral Rotatory\nDrawer Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Elbow\nTests/Posterolateral_rotatory_drawer_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/stretch_test_brachial_plexus.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/stretch_test_brachial_plexus.html",
+    "title": "Stretch Test",
+    "section": "",
+    "text": "Technique\n\nPatient is positioned in sitting or standing1\nAsk patient to:\n\nRaise the ipsilateral arm1\nThen to contraolateral head side bend1\n\nPt in sitting/standing and asked to raise arm on involved side and then side bend to uninvolved side1\n\n\n\nGrading\n\nPositive test: Pain + paresthesia along the involved arm1\n\nInterpretation: Indicative of a brachial plexus irritation1\n\n\n\n\nVideo Resources\n\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Stretch Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity\nTests/stretch_test_brachial_plexus.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Strength Tests/Shoulder_abduction_MMT.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Strength Tests/Shoulder_abduction_MMT.html",
+    "title": "Shoulder Abduction MMT",
+    "section": "",
+    "text": "Accuracy\nShoulder abduction MMT could only detect asymmetrical strength in shoulders when the involved shouulder was \\(\\leq 78.9\\%\\) as strong compared to the non-involved side1.\n\n\n\n\n\nReferences\n\n1. Nagatomi T, Mae T, Nagafuchi T, Yamada SI, Nagai K, Yoneda M. Shoulder manual muscle resistance test cannot fully detect muscle weakness. Knee surgery, sports traumatology, arthroscopy: official journal of the ESSKA. 2017;25(7):2081-2088. doi:10.1007/s00167-016-4380-y\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Shoulder Abduction MMT.\nhttps://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Strength\nTests/Shoulder_abduction_MMT.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/cervical_rotation_lateral_flexion_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/cervical_rotation_lateral_flexion_test.html",
+    "title": "Cervical Rotation Lateral Flexion Test",
+    "section": "",
+    "text": "Purpose\n\nThis test is designed to assess 1st rib hypomobility as a cause of Brachialgia or thoracic outlet syndrome1\nyou should use this test for patients presenting with:\n\nBrachialgia + thoracic outlet symptoms1\n\n\n\n\nTechnique\n\nPatient seated with neutral head position in the sagittal plane1\nClinician then manually:\n\nPut patient’s forehead in your C/L elbow\nWith your I/L hand, apply a downward pressure to patient’s I/L shoulder to prevent compensation (shoulder elevation)\nMaximally rotates the C/S contralaterally (away from affected side)1\nFlexes neck forward (ear to chest)1\n\nRepeated on other side\n\n\n\nGrading\n1st rib mobility is assessed qualitatively by the clinician.\n\nAbrupt restriction to passive moment indicates: 1st rib subluxation1\nUnilateral restriction:\n\n1st rib mobilizations are performed1\npt is retested1\n\n\n\n\nDDX\nHowever it is worth remembering that a number of additional factors may influence the finding, including:\n\nTOS1\ncervical radiculopathy1\nUpper thoracic pain1\n\n\n\nValidity\n\nValidity\n\n\n\n\n\n\n\n\nValue\nNote\n\n\n\n\nInterrater reliability\nExcellent1\n\n\n\nSpecificity\nN/A\n\n\n\nSensitivity\nN/A\n\n\n\n\nLindgren et al. found this test to have excellent interobserver repeatability and to have good agreement with a radiologic examination in the detection of a subluxed first rib.6\n\n\nClinical signifiance\nCRLF is frequently used in clinical practice to determine whether a thrust manipulation targeting the 1st or 2nd rib should be performed, but Koppenhaver et al., found that the CRLF was not predictive of clinical improvement in neck pain following manual manipulations2\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\n\n2. Koppenhaver SL, Morel T, Dredge G, et al. The validity of the cervical rotation lateral flexion test in predicting benefit after manipulation treatment to the first and second rib. Musculoskeletal Science & Practice. 2022;62:102629. doi:10.1016/j.msksp.2022.102629\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Cervical Rotation\nLateral Flexion Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity\nTests/cervical_rotation_lateral_flexion_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/ulnar_piano_key_sign.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/ulnar_piano_key_sign.html",
+    "title": "Ulnar Piano Key Sign",
+    "section": "",
+    "text": "“Piano key sign: The ulnar head sits in a dorsal position. Like pressing a piano key, applying stress to the ulnar head causes substantial translation to volar (28,29). This test has 66% sensitivity and 68% specificity (29).”1\n“The piano key test evaluates the stability of the ulnomeniscotriquetral joint. The clinician firmly stabilizes the distal radius with one hand and grasps the head of the ulna between the thumb and the index finger of the other hand. The ulnar head is depressed in an anterior direction (as in depressing a key on a piano) (Fig. 18-58). The test is positive for a TFCC tear or triquetral instability if there is excessive movement in an anterior (palmar) direction or if upon release of the ulna, the bone springs back into its high posterior (dorsal) position.”2\n\n\n\n\nReferences\n\n1. Rodríguez-Merchán EC, Shojaie B, Kachooei AR. Distal Radioulnar Joint Instability: Diagnosis and Treatment. The Archives of Bone and Joint Surgery. 2022;10(1):3-16. doi:10.22038/ABJS.2021.57194.2833\n\n\n2. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Ulnar Piano Key Sign.\nhttps://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and\nHand/ulnar_piano_key_sign.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/Froments_sign_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/Froments_sign_test.html",
+    "title": "Froment’s Sign",
+    "section": "",
+    "text": "“This is more of a sign than a test and may present as a complaint from the patient who reports an inability to pinch between the index finger and the thumb without flexion occurring at the DIP joint (Fig. 18-70).”1\n\nMechanism\nUlnar nerve lesion, resulting in weakness of Adductor pollicis brevis and FPB Short head muscles1. The weakness of these two, causes the FPL to become overactive and flex the DIP.\n\n\nScoring\nA Positive Froment Sign occurs when the patient cannot keep their thumb adducted during the pinch.\n\n\nInterpretation\nPositive test indicates an ulnar nerve entrapment at the elbow or at the wrist1.\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Froment’s Sign. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and\nHand/Froments_sign_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/apehand_sign.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/apehand_sign.html",
+    "title": "",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and\nHand/apehand_sign.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/Bunnel-Littler_Test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/Bunnel-Littler_Test.html",
+    "title": "Bunnell-Litler Test",
+    "section": "",
+    "text": "Technique\n\nTest PIP flexion ROM in MCP neutral (0° extension)\nTest PIP flexion ROM in MCP flexion (90°)\n\n\n\nInterpretation\n\nIF the PIP is limited in both MCP ranges, it is a capsular issue\nIf the PIP is limited in in MCP neutral but has more range in MCP flexion, it is a lumbrical issue\n\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Bunnell-Litler Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and\nHand/Bunnel-Littler_Test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT_upper_limb_tension_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT_upper_limb_tension_test.html",
+    "title": "Upper Limb Tension Tests",
+    "section": "",
+    "text": "Purpose\nThe ULTT is designed to recreate symptons of neuropathy in peripheral nerves by aggravating the peripheral nerves of the upper limb via elongation.\nThe upper limb tension tests are maneuvers that can be used as qualitative and quantitative diagnostic and outcome measures. In addition, these maneuvers can be used as an intervention.\n\n\nGrading\n\nNormal responses: deep stretch/ache in cubital fossa, ant/radial aspect of forearm/radial aspect of hand, or in the anterior shoulder area. Sensation felt down radial aspect of forearm, median distribution of the hand1.\nPositive findings: reproduction of symptoms or a sensitizing test in the ipsilateral quadrant that alters the symptoms1.\n\n\n\n\n\n\n\n\n\n\nDDX between peripheral nerves\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Upper Limb Tension\nTests. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity\nTests/ULTT/ULTT_upper_limb_tension_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT1.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT1.html",
+    "title": "Upper limb tension test 1 (ULTT1)",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Upper limb tension test\n1 (ULTT1). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity\nTests/ULTT/ULTT1.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT2a.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT2a.html",
+    "title": "Upper limb tension test 2a (ULTT2a)",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Upper limb tension test\n2a (ULTT2a). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity\nTests/ULTT/ULTT2a.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Dermatome and Myotome/myotome_testing.html",
+    "href": "The Archive/Examination/Tests and Measures/Dermatome and Myotome/myotome_testing.html",
+    "title": "",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Dermatome and\nMyotome/myotome_testing.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/meniscus_joint_line_palpation.html",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/meniscus_joint_line_palpation.html",
+    "title": "Meniscus Joint Line Palpation Test",
+    "section": "",
+    "text": "Psychometrics\n\n\nPsychometrics\n\nPsychometric Properties of Joint Line Palpation Test\n\n\nPsychometric\nValue\n\n\n\n\nSensitivity\n0.631\n\n\nSpecificity\n0.771\n\n\n\n\n\n\n\n\nReferences\n\n1. Hegedus EJ, Cook C, Hasselblad V, Goode A, McCrory DC. Physical examination tests for assessing a torn meniscus in the knee: A systematic review with meta-analysis. The Journal of Orthopaedic and Sports Physical Therapy. 2007;37(9):541-550. doi:10.2519/jospt.2007.2560\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Meniscus Joint Line\nPalpation Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Lower extremity tests/Knee\nTests/Meniscus tests/meniscus_joint_line_palpation.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/overview_of_meniscus_tests.html",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/overview_of_meniscus_tests.html",
+    "title": "Overview of Meniscus Tests",
+    "section": "",
+    "text": "Psychometric Properties of Different Meniscus Tests\n\n\nTest\nSensitivity\nSpecificity\n\n\n\n\nMcMurray’s Test\n0.701\n0.711\n\n\nApley’s Test\n0.601\n0.701\n\n\nThessaley’s Test\n\n\n\n\nJoint Line Palpation\n0.631\n0.771\n\n\n\n\n\n\n\nPsychometric validity of Meniscus Tests for Pediatric patients\n\n\nTest\nSensitivity\nSpecificity\nPPV\nNPV\n\n\n\n\nMcMurray’s Test\n0.39\n0.86\n0.62\n0.71\n\n\nApley’s Test\n\n\n\n\n\n\nThessaley’s Test\n\n\n\n\n\n\nJoint Line Palpation"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/overview_of_meniscus_tests.html#adult-patients",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/overview_of_meniscus_tests.html#adult-patients",
+    "title": "Overview of Meniscus Tests",
+    "section": "",
+    "text": "Psychometric Properties of Different Meniscus Tests\n\n\nTest\nSensitivity\nSpecificity\n\n\n\n\nMcMurray’s Test\n0.701\n0.711\n\n\nApley’s Test\n0.601\n0.701\n\n\nThessaley’s Test\n\n\n\n\nJoint Line Palpation\n0.631\n0.771"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/overview_of_meniscus_tests.html#pediatric-patients",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/overview_of_meniscus_tests.html#pediatric-patients",
+    "title": "Overview of Meniscus Tests",
+    "section": "",
+    "text": "Psychometric validity of Meniscus Tests for Pediatric patients\n\n\nTest\nSensitivity\nSpecificity\nPPV\nNPV\n\n\n\n\nMcMurray’s Test\n0.39\n0.86\n0.62\n0.71\n\n\nApley’s Test\n\n\n\n\n\n\nThessaley’s Test\n\n\n\n\n\n\nJoint Line Palpation"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/McMurrays_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/McMurrays_test.html",
+    "title": "McMurray’s Test",
+    "section": "",
+    "text": "Caution\n\n\n\nClinical Directors and CIs have advised against the use of this test, in favor of other tests such as Apley’s Test or Thessaly’s Test"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/McMurrays_test.html#adults",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/McMurrays_test.html#adults",
+    "title": "McMurray’s Test",
+    "section": "Adults",
+    "text": "Adults\n\nPsychometric Properties of McMurray’s Test\n\n\n\n\n\n\nPsychometric\nValue\n\n\n\n\nSensitivity\n0.701\n\n\nSpecificity\n0.711"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/McMurrays_test.html#pediatric-patients",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/McMurrays_test.html#pediatric-patients",
+    "title": "McMurray’s Test",
+    "section": "Pediatric Patients",
+    "text": "Pediatric Patients\n\nPsychometric Properties of McMurray’s Test\n\n\nPsychometric\nValue\n\n\n\n\nSensitivity\n0.391\n\n\nSpecificity\n0.861\n\n\nPPV\n0.621\n\n\nNPV\n0.711"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/ACL Tests/pivot_shift_ACL_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/ACL Tests/pivot_shift_ACL_test.html",
+    "title": "Pivot Shift Test",
+    "section": "",
+    "text": "Technique\n\n1 hand on proximal tibia\nother hand above the knee\nValgus + IR\nMove from full knee extension to flexion\n\n\n\nGrading\n\nPain?\nSubluxation at 30-40° flexion from full extension\n\n\n\nPsychometrics\n\n\n\n\n\n\nCaution\n\n\n\nHere are some broad psychometrics, but I need to find better studies for this\n\nSpec 98%\nsens 30%\n\n\n\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Pivot Shift Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Lower extremity tests/Knee\nTests/ACL Tests/pivot_shift_ACL_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Dial_test_knee.html",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Dial_test_knee.html",
+    "title": "Knee Dial Test",
+    "section": "",
+    "text": "interpretation\n\nPositive at 30 and not at 90, it is a PLC injury\nPositive at both indicates PCL and maybe other areas are involved\n\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Knee Dial Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Lower extremity tests/Knee\nTests/Dial_test_knee.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Patient reported outcome measures/koos_knee_injury_osteoarthritis_outcome_score.html",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Patient reported outcome measures/koos_knee_injury_osteoarthritis_outcome_score.html",
+    "title": "Knee injury Osteoarthritis Outcome Score (KOOS)",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Knee injury\nOsteoarthritis Outcome Score (KOOS). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Lower extremity tests/Knee\nTests/Patient reported outcome\nmeasures/koos_knee_injury_osteoarthritis_outcome_score.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/straight_leg_raise_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/straight_leg_raise_test.html",
+    "title": "Straight Leg raise",
+    "section": "",
+    "text": "DF\nInversion\n\n\n\n\n\nDF\nEversion\n\n\n\n\n\nPF\nInversion"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/straight_leg_raise_test.html#sural-nerve",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/straight_leg_raise_test.html#sural-nerve",
+    "title": "Straight Leg raise",
+    "section": "",
+    "text": "DF\nInversion"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/straight_leg_raise_test.html#tibial-nerve",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/straight_leg_raise_test.html#tibial-nerve",
+    "title": "Straight Leg raise",
+    "section": "",
+    "text": "DF\nEversion"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/straight_leg_raise_test.html#common-fibuular-nerve",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/straight_leg_raise_test.html#common-fibuular-nerve",
+    "title": "Straight Leg raise",
+    "section": "",
+    "text": "PF\nInversion"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Ankle and Foot Tests/navicular_drop_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Ankle and Foot Tests/navicular_drop_test.html",
+    "title": "Navicular Drop Test",
+    "section": "",
+    "text": "“The navicular drop test is a method to assess the degree to which the talus plantar flexes in space on a calcaneus that has been stabilized by the ground, during subtalar joint pronation. The clinician palpates the position of the navicular tubercle as the patient’s foot is non–weight-bearing but resting on the floor surface, with the subtalar joint maintained in neutral. The clinician then attempts to quantify the amount of inferior displacement of the navicular tubercle, as the patient assumes 50% weight-bearing on the tested foot (relaxed standing). A navicular drop that is greater than 10 mm from the neutral position to the relaxed standing position suggests an excessive medial longitudinal arch collapse of abnormal pronation.”1\n\nPathologies\n\nIncreased navicular drop\n\nMedial tibial stress syndrome\n\nDecreased navicular drop\n\n\n\n\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Navicular Drop Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Lower extremity tests/Ankle and\nFoot Tests/navicular_drop_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Lab Values/arterial_blood_gas_values_ABG.html",
+    "href": "The Archive/Examination/Lab Values/arterial_blood_gas_values_ABG.html",
+    "title": "Arterial Blood Gas Values (ABG)",
+    "section": "",
+    "text": "Item\nValues\n\n\n\n\nPaO2\n&gt;80 mmHg\n\n\nPaCO2\n35-45 mmHg\n\n\npH\n7.35-7.45\n\n\nHCO3\n22-26 mEq/liter\n\n\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Arterial Blood Gas\nValues (ABG). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Lab\nValues/arterial_blood_gas_values_ABG.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Cardiovascular Evaluation/heart_auscultation.html",
+    "href": "The Archive/Examination/Cardiovascular Evaluation/heart_auscultation.html",
+    "title": "Cardiac Auscultation",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Cardiac Auscultation.\nhttps://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Cardiovascular\nEvaluation/heart_auscultation.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/Squat analysis/squat_analysis.html#ddx",
+    "href": "The Archive/Examination/Movement Analysis/Squat analysis/squat_analysis.html#ddx",
+    "title": "Squat analysis",
+    "section": "DDX",
+    "text": "DDX"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/Squat analysis/squat_analysis.html#normal",
+    "href": "The Archive/Examination/Movement Analysis/Squat analysis/squat_analysis.html#normal",
+    "title": "Squat analysis",
+    "section": "Normal",
+    "text": "Normal"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/Squat analysis/squat_analysis.html#excessive",
+    "href": "The Archive/Examination/Movement Analysis/Squat analysis/squat_analysis.html#excessive",
+    "title": "Squat analysis",
+    "section": "Excessive",
+    "text": "Excessive"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/Squat analysis/squat_analysis.html#causes",
+    "href": "The Archive/Examination/Movement Analysis/Squat analysis/squat_analysis.html#causes",
+    "title": "Squat analysis",
+    "section": "Causes",
+    "text": "Causes\n\nLimited Hip flexion\nLimited dorsiflexion"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/Squat analysis/squat_analysis.html#compensation",
+    "href": "The Archive/Examination/Movement Analysis/Squat analysis/squat_analysis.html#compensation",
+    "title": "Squat analysis",
+    "section": "Compensation",
+    "text": "Compensation\n\nArch falls"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/Squat analysis/squat_analysis.html#cues-to-avoid-compensation",
+    "href": "The Archive/Examination/Movement Analysis/Squat analysis/squat_analysis.html#cues-to-avoid-compensation",
+    "title": "Squat analysis",
+    "section": "Cues to avoid compensation",
+    "text": "Cues to avoid compensation\n\nElevate heels"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/Gait analysis/foot_plate_analysis.html",
+    "href": "The Archive/Examination/Movement Analysis/Gait analysis/foot_plate_analysis.html",
+    "title": "Foot strike mat analysis",
+    "section": "",
+    "text": "Requirements\n\nFootscan plate (Cost: $)\nRecalibrate system every few weeks"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/Functions/speech_function.html",
+    "href": "The Archive/Examination/Movement Analysis/Functions/speech_function.html",
+    "title": "",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Movement\nAnalysis/Functions/speech_function.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/AFS_applied_functional_science.html",
+    "href": "The Archive/Examination/Movement Analysis/AFS_applied_functional_science.html",
+    "title": "Applied Functional Science (AFS)",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Applied Functional\nScience (AFS). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Movement\nAnalysis/AFS_applied_functional_science.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/Balance/balance_strategies.html",
+    "href": "The Archive/Examination/Movement Analysis/Balance/balance_strategies.html",
+    "title": "Balance Strategies",
+    "section": "",
+    "text": "Ankle Strategy\n\nAn example of the Systems theory of motor control1\n\n\n\nHip Strategy\n\n“when standing crosswise on a narrow balance beam, a more challenging task, the strategies used to maintain balance change”1.\n“A proximal to distal sequential activation of the abdominals, quadriceps, and tibialis anterior muscles will be used”1.\nUsed in response to bigger threats to balance1\n\n\n\n\n\n\nReferences\n\n1. Effgen SK, Fiss AL, eds. Meeting the Physical Therapy Needs of Children. 3rd ed. F.A. Davis Company; 2021.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Balance Strategies. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Movement\nAnalysis/Balance/balance_strategies.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Acute Evaluation/comorbidity.html",
+    "href": "The Archive/Examination/Acute Evaluation/comorbidity.html",
+    "title": "Comorbidity",
+    "section": "",
+    "text": "Tests and measures\nvalidated Charlson index was used to determine the degree of comorbidity1\n\n\n\n\n\nReferences\n\n1. Celli BR, Cote CG, Marin JM, et al. The body-mass index, airflow obstruction, dyspnea, and exercise capacity index in chronic obstructive pulmonary disease. The New England Journal of Medicine. 2004;350(10):1005-1012. doi:10.1056/NEJMoa021322\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Comorbidity. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Acute Evaluation/comorbidity.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Acute Evaluation/Pressure ulcers/pressure_injury_PI.html",
+    "href": "The Archive/Examination/Acute Evaluation/Pressure ulcers/pressure_injury_PI.html",
+    "title": "Pressure Injury (PI)",
+    "section": "",
+    "text": "Psychometrics\n\nBraden Scale (AUC 0.78)1\nWaterlow Scale (AUC 0.56)1\nCubbin & Jackson Index (AUC 0.90)1\nEVARUCI Scale (AUC 0.82)1\n\n\n\n\n\n\nReferences\n\n1. Zhang Y, Zhuang Y, Shen J, et al. Value of pressure injury assessment scales for patients in the intensive care unit: Systematic review and diagnostic test accuracy meta-analysis. Intensive & Critical Care Nursing. 2021;64:103009. doi:10.1016/j.iccn.2020.103009\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Pressure Injury (PI).\nhttps://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Acute Evaluation/Pressure\nulcers/pressure_injury_PI.html"
+  },
+  {
+    "objectID": "The Archive/Examination/examination_index.html#tests-and-measures",
+    "href": "The Archive/Examination/examination_index.html#tests-and-measures",
+    "title": "Examination index",
+    "section": "Tests and measures",
+    "text": "Tests and measures"
+  },
+  {
+    "objectID": "The Archive/Examination/Acute Evaluation/acute_care_evaluation.html",
+    "href": "The Archive/Examination/Acute Evaluation/acute_care_evaluation.html",
+    "title": "",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Acute\nEvaluation/acute_care_evaluation.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Acute Evaluation/Pressure ulcers/braden_scale.html",
+    "href": "The Archive/Examination/Acute Evaluation/Pressure ulcers/braden_scale.html",
+    "title": "Braden Scale",
+    "section": "",
+    "text": "Psychometrics\nSee1\n\n\nResources\nUnable to display PDF file. Download instead.\n\n\n\n\n\nReferences\n\n1. Zhang Y, Zhuang Y, Shen J, et al. Value of pressure injury assessment scales for patients in the intensive care unit: Systematic review and diagnostic test accuracy meta-analysis. Intensive & Critical Care Nursing. 2021;64:103009. doi:10.1016/j.iccn.2020.103009\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Braden Scale. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Acute Evaluation/Pressure\nulcers/braden_scale.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/SFMA/selective_functional_movement_assessment_sfma.html",
+    "href": "The Archive/Examination/Movement Analysis/SFMA/selective_functional_movement_assessment_sfma.html",
+    "title": "Selective Functional Movement Assessment (SFMA)",
+    "section": "",
+    "text": "observe movement restrictions in individuals with known musculoskeletal disorders"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/SFMA/selective_functional_movement_assessment_sfma.html#deep-squat",
+    "href": "The Archive/Examination/Movement Analysis/SFMA/selective_functional_movement_assessment_sfma.html#deep-squat",
+    "title": "Selective Functional Movement Assessment (SFMA)",
+    "section": "Deep Squat",
+    "text": "Deep Squat\nAlthough this is labeled the “Deep squat” in SFMA, this would be colloquially considered an overhead squat\n\n\nInstructions\n\nFeet pointed forward\nFeet shulder width apart\nHold dowel overhead\n\n\nBilateral, symmetrical, functional mobility of:\n\nHips\nKnees\nAnkles"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/SFMA/selective_functional_movement_assessment_sfma.html#hurdle-step",
+    "href": "The Archive/Examination/Movement Analysis/SFMA/selective_functional_movement_assessment_sfma.html#hurdle-step",
+    "title": "Selective Functional Movement Assessment (SFMA)",
+    "section": "Hurdle step",
+    "text": "Hurdle step\n\n\nTechnique\n\nAssessment\n\nBilateral, symmetrical, functional mobility and stability of:\n\nHips\nKnees\nAnkles"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/SFMA/selective_functional_movement_assessment_sfma.html#in-line-lunge",
+    "href": "The Archive/Examination/Movement Analysis/SFMA/selective_functional_movement_assessment_sfma.html#in-line-lunge",
+    "title": "Selective Functional Movement Assessment (SFMA)",
+    "section": "In-Line lunge",
+    "text": "In-Line lunge\n\n\nTechnique\n\nAssessment\n\nStability & mobility\n\nTorso\nShoulder\nHip\nKnee\nAnkle\n\nQuadricep flexibility"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/movement_analysis.html",
+    "href": "The Archive/Examination/Movement Analysis/movement_analysis.html",
+    "title": "Movement Analysis",
+    "section": "",
+    "text": "Approaches to movement analysis\n\nSFMA:\n\nStandardized movement analysis that can be used for reference, but overreliance can create “cookie cutter” rehab plans.\nThis should not replace your clinical reasoning.\n\n\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Movement Analysis. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Movement Analysis/movement_analysis.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/Functions/swallowing_function.html",
+    "href": "The Archive/Examination/Movement Analysis/Functions/swallowing_function.html",
+    "title": "Swallowing",
+    "section": "",
+    "text": "INFRAHYOID muscles - sternohyoid, sternothyroid, thyrohyoid, omohyoid (inferior hyoid to sternum, thyroid cartilage, scapula) help with speech, swallowing, and tongue movements\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Swallowing. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Movement\nAnalysis/Functions/swallowing_function.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/Functions/mastication.html",
+    "href": "The Archive/Examination/Movement Analysis/Functions/mastication.html",
+    "title": "Mastication",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Mastication. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Movement\nAnalysis/Functions/mastication.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Movement Analysis/Gait analysis/gait_analysis.html",
+    "href": "The Archive/Examination/Movement Analysis/Gait analysis/gait_analysis.html",
+    "title": "Gait Analysis",
+    "section": "",
+    "text": "Readings\n\n\n\n\nDutton Ch6 Gait analysis1\nRLA book2\nCh15 Kinesiology of walking3\n\n\n\n\nHip\nDecreased R Hip Ext\n\n\n\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\n\n2. Research RLA, Education Institute I, Center RLANR, Service RLANRCenterP, Department RLANRCenterPT. Observational Gait Analysis. Los Amigos Research and Education Institute, Rancho Los Amigos National Rehabilitation Center; 2001. https://books.google.com/books?id=sZdMPgAACAAJ\n\n\n3. Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation. 3rd ed. Elsevier; 2017.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Gait Analysis. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Movement Analysis/Gait\nanalysis/gait_analysis.html"
+  },
+  {
+    "objectID": "The Archive/Examination/DDX/nerve_symptom_DDX.html",
+    "href": "The Archive/Examination/DDX/nerve_symptom_DDX.html",
+    "title": "Nerve Symptom DDX",
+    "section": "",
+    "text": "Sensory Dysfunction\n\n\nMotor Dysfunction\n\n\n\n\n\n\nSpinal Cord\n\nWeakness below the segment\nWeakness at muscles of different myotomes AND peripheral nerves\n\n\n\nNerve Root\n\nWeakness of the same myotome\nWeakness at different peripheral nerves supplied by the same nerve root level\n\n\n\nPeriphereral Nerve\n\nWeakness of muscles supplied by the same nerve root\n\n\n\n\n\n\nDeep Tendon Reflex\n\n\n\n\n\n\nSpinal Cord\n\nNormal DTR above affected segment\nHyporeflexive at the segment\nHyperreflexive below the segment\n\n\n\nNerve Root\n\nNormal DTR above affected segment\nHyporeflexive at the segment\nNormal DTR below the segment\n\n\n\nPeriphereral Nerve\n\n\n\n\n\n\nLook up sources on this\n\n\n\n\nNormal DTR above affected segment\nHyporeflexive for the reflex innervated by this nerve\nNormal DTR below the segment\n\n\n\n\n\n\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Nerve Symptom DDX. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/DDX/nerve_symptom_DDX.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Cardiovascular Evaluation/heart_rate_max_HRMax.html",
+    "href": "The Archive/Examination/Cardiovascular Evaluation/heart_rate_max_HRMax.html",
+    "title": "Heart Rate Max Measures",
+    "section": "",
+    "text": "Fox and Haskell:\n\\[\n\\textrm{HR max} = 220 - \\textrm{Age}\n\\]\n\n\n\n\n\n\nCaution\n\n\n\nBoth the Fox & Haskell test and the Tanaka have high standard error, and can vary between age and condition matched individuals\n\n\n\n\nTanaka HRMax\n\\[\n\\textrm{HR max} = 208 - (0.7 \\times \\textrm{Age})\n\\]\n\n\n\n\n\n\nCaution\n\n\n\nBoth the Fox & Haskell test and the Tanaka have high standard error, and can vary between age and condition matched individuals\n\n\n\n\nGraded Exercise Test (GXT)\nMost accurate assessment: GRADED EXERCISE STRESS TEST (GxT) (gradually inc incline on treadmill)\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Heart Rate Max\nMeasures. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Cardiovascular\nEvaluation/heart_rate_max_HRMax.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Lab Values/lipid_panel.html",
+    "href": "The Archive/Examination/Lab Values/lipid_panel.html",
+    "title": "Lipid panel",
+    "section": "",
+    "text": "LDL Cholesterol Interpretation\n\n\nValue\nInterpretation\n\n\n\n\n&lt;100\nOptimal\n\n\n100-129\nNear optimal/Above optimal\n\n\n130-159\nBorderline High\n\n\n160-189\nHigh\n\n\n\\(\\ge190\\)\nVery High\n\n\n\n\nTotal Cholesterol (TC) Values\n\n\nValue\nInterpretation\n\n\n\n\n&lt;200\nOptimal\n\n\n200-239\nBorderline High\n\n\n\\(\\ge240\\)\nHigh (Hypercholesterolemia)\n\n\n\n\nHDL Cholesterol Values\n\n\nValue\nInterpretation\n\n\n\n\n&lt;40\nLow\n\n\n\\(\\ge60\\)\nOptimal\n\n\n\n\nTriglyceride Values\n\n\nValue\nInterpretation\n\n\n\n\n&lt;150\nOptimal\n\n\n150-199\nBorderline high\n\n\n200-499\nHigh\n\n\n\\(\\ge500\\)\nVery High\n\n\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Lipid panel. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Lab Values/lipid_panel.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Ankle and Foot Tests/ROM/ankle_DF_ROM.html",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Ankle and Foot Tests/ROM/ankle_DF_ROM.html",
+    "title": "Ankle Dorsiflexion ROM",
+    "section": "",
+    "text": "Feel for end range before measuring\nGoniometry\n\nMoving arm: 5th met\nStationary arm: head of fibula\n\nOKC\n\nconvex talus on concave mortise\nless ROM might indicate worse stabilization and arthrokinematics\n\nCKC\n\nMeasuring DF of rear leg while lunging knee forward\nConcave on convex"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Ankle and Foot Tests/ROM/ankle_DF_ROM.html#provacative-tests",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Ankle and Foot Tests/ROM/ankle_DF_ROM.html#provacative-tests",
+    "title": "Ankle Dorsiflexion ROM",
+    "section": "Provacative tests",
+    "text": "Provacative tests\n\nWindlass Mechanism"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/fulcrum_test_stress_fracture.html",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/fulcrum_test_stress_fracture.html",
+    "title": "Fulcrum Test (Femoral stress fx)",
+    "section": "",
+    "text": "The “fulcrum test” refers to a special test used to rule-in a femoral shaft stress fracture.1\n\nTechnique\n\n\nPatient is seated with knees bent1\nClinician places arm under symptomatic thigh1\nWith the opposite hand, the clinician applies a gentle downward pressure from distal thigh/knee (into hip extension)1\n\n\n\nGrading\nSharp pain or apprehension when the fulcrum arm is placed under the fracture site is considered a positive test1\n\n\nValidity\nNo validity research has been performed on the fulcrum test1\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Fulcrum Test (Femoral\nstress fx). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Lower extremity\ntests/fulcrum_test_stress_fracture.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Patient reported outcome measures/ikdc_international_knee_documentation_committee_subjective_knee_form.html",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Patient reported outcome measures/ikdc_international_knee_documentation_committee_subjective_knee_form.html",
+    "title": "International Knee Documentation Committee Subjective Knee Form (IKDC)",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. International Knee\nDocumentation Committee Subjective Knee Form (IKDC). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Lower extremity tests/Knee\nTests/Patient reported outcome\nmeasures/ikdc_international_knee_documentation_committee_subjective_knee_form.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Patient reported outcome measures/tegner_lysholm_knee_scoring_scale.html",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Patient reported outcome measures/tegner_lysholm_knee_scoring_scale.html",
+    "title": "Tegner Lysholm Knee Scoring Scale",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Tegner Lysholm Knee\nScoring Scale. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Lower extremity tests/Knee\nTests/Patient reported outcome\nmeasures/tegner_lysholm_knee_scoring_scale.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/ACL Tests/ACL-RSI_scale.html",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/ACL Tests/ACL-RSI_scale.html",
+    "title": "ACL-Return to Sport after Injury scale",
+    "section": "",
+    "text": "Prognostic ability\n\n\nPsychometrics\n\n\nPrognosis\n\nPatients who score higher above 65 on ACL-RSI at 3 mo are at an increased risk of reinjury within 2 years (UDea 2024)\n\n\n\nPDF\nUnable to display PDF file. Download instead.\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. ACL-Return to Sport\nafter Injury scale. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Lower extremity tests/Knee\nTests/ACL Tests/ACL-RSI_scale.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/mediopatellar_plica_test_MPP.html",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/mediopatellar_plica_test_MPP.html",
+    "title": "Mediopatellar Plica Test (MPP Test)",
+    "section": "",
+    "text": "Purpose and Mechanics\nTest Purpose: The MPP is found on the medial femoral condyle in knee extension and when the inferiormedial patellofemoral joint experiences a manual force, the pathologic MPP is forced between the patella and medial femoral condyle1 .\nAt 90° of flexion, the the entrapped MPP moves away from the medial condyle and ceases to be TTP1 .\n\n\nTechnique\n\n\n\n\n\n\nPatient position\n\nSupine with knee extended1\n\n\n\nClinician\n\nApply a manual force to the inf/med patellofrmoal joint via the thumb1\nAsk about tenderness1\n\n\n\n\n\n\nScoring\nPositive\n\n(+) Pain / tenderness that diminishes with 90° knee flexion1\n\n\nNegatives\n\n\nFalse Positives\n\nFat pad synovial fringe entrapments1\nLocalized synovitis on the medial peripatellar region1\n\n\n\n\n\nPsychometrics\n\nPsychometrics of different Plica Syndrome Tests\n\n\n\n\n\n\n\n\n\n\n\n\nTest\nSens\nSpec\nPPV\nNPV\nLR+\nLR-\nAccuracy Value\n\n\n\n\nMPP Test\n0.8951\n0.8871\n0.7851\n0.9441\n\n\n0.891\n\n\n\n\n\n\n\n\nReferences\n\n1. Kim SJ, Lee DH, Kim TE. The Relationship Between the MPP Test and Arthroscopically Found Medial Patellar Plica Pathology. Arthroscopy: The Journal of Arthroscopic & Related Surgery. 2007;23(12):1303-1308. doi:10.1016/j.arthro.2007.06.016\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Mediopatellar Plica\nTest (MPP Test). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Lower extremity tests/Knee\nTests/mediopatellar_plica_test_MPP.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/Apleys_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/Apleys_test.html",
+    "title": "Apley’s Test",
+    "section": "",
+    "text": "Psychometrics\n\nPsychometric Properties of Apley’s Test\n\n\n\n\n\n\nPsychometric\nValue\n\n\n\n\nSensitivity\n0.601\n\n\nSpecificity\n0.701\n\n\n\n\n\n\n\n\nReferences\n\n1. Hegedus EJ, Cook C, Hasselblad V, Goode A, McCrory DC. Physical examination tests for assessing a torn meniscus in the knee: A systematic review with meta-analysis. The Journal of Orthopaedic and Sports Physical Therapy. 2007;37(9):541-550. doi:10.2519/jospt.2007.2560\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Apley’s Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Lower extremity tests/Knee\nTests/Meniscus tests/Apleys_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/thessaly_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Lower extremity tests/Knee Tests/Meniscus tests/thessaly_test.html",
+    "title": "Thessaly’s Test",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Thessaly’s Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Lower extremity tests/Knee\nTests/Meniscus tests/thessaly_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Manual Muscle Test/MMT_manual_muscle_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Manual Muscle Test/MMT_manual_muscle_test.html",
+    "title": "Manual Muscle Test (MMT)",
+    "section": "",
+    "text": "“The first editions of two classic textbooks describing muscle strength testing were published in the 1940s by Daniels, Williams, and Worthingham68 and Kendall and Kendall.69”1\n“One primary difference between these texts is the focus on testing muscles as they work to move a joint in planar motion (acting as a group; Daniels et al.68) or testing muscles based on how each one individually contributes to motion (based on origin, insertion, and action; Kendall et al.69)”1"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Manual Muscle Test/MMT_manual_muscle_test.html#assess-unaffected",
+    "href": "The Archive/Examination/Tests and Measures/Manual Muscle Test/MMT_manual_muscle_test.html#assess-unaffected",
+    "title": "Manual Muscle Test (MMT)",
+    "section": "Assess Unaffected side first",
+    "text": "Assess Unaffected side first\nThe unaffected side should always be assessed first in order to have a “baseline” to compare the affected side with1. In addition, this also helps the patient understand what is required of the affected leg, which will help reduce apprehension1."
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Manual Muscle Test/MMT_manual_muscle_test.html#precise-positioning",
+    "href": "The Archive/Examination/Tests and Measures/Manual Muscle Test/MMT_manual_muscle_test.html#precise-positioning",
+    "title": "Manual Muscle Test (MMT)",
+    "section": "Precise Positioning",
+    "text": "Precise Positioning\nThe patient should be positioned precisely in order to determine weaknesses between two extremities or even between sessions. In addition, the position should isolate the muscle and optimize the muscle’s ability to produce a force1. Lastly, the position should prevent the patient from compensating and altering the movement or be obvious to the clinician when the patient is compensating1.\n\nOne-joint muscles (e.g., soleus, gluteus maximus, and pectoralis major) are typically assessed at the end of a joint’s range of motion.\nTwo-joint muscles (e.g., biceps brachii, rectus femoris, and hamstrings) are typically assessed at the mid-range of joint motion.33,71"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Manual Muscle Test/MMT_manual_muscle_test.html#stabilization",
+    "href": "The Archive/Examination/Tests and Measures/Manual Muscle Test/MMT_manual_muscle_test.html#stabilization",
+    "title": "Manual Muscle Test (MMT)",
+    "section": "Stabilization",
+    "text": "Stabilization\nMost commonly, one of your hands will be used to help stabilize the patient while the other hand is used to provide resistive force to the muscle being tested. Providing stabilization for the patient helps to reduce substitutions and increase testing reliability and often allows the patient to feel more comfortable exerting maximal force against examiner resistance."
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Manual Muscle Test/MMT_manual_muscle_test.html#consistent-hand-placement-and-force-generation",
+    "href": "The Archive/Examination/Tests and Measures/Manual Muscle Test/MMT_manual_muscle_test.html#consistent-hand-placement-and-force-generation",
+    "title": "Manual Muscle Test (MMT)",
+    "section": "Consistent hand placement and force generation",
+    "text": "Consistent hand placement and force generation\n\nLever Arm\nLever arm: The patient’s ability to resist examiner force has a great deal to do with the length of the lever arm through which the force is applied. The patient will be able to resist force to a greater extent (sometimes much greater) when a short lever arm is used versus a long lever arm (see the Try This! exercise on the following page). Thus, it is imperative that the length of the lever arm is consistent each time the test is performed through the course of rehabilitation. Most commonly, to allow for more sensitive and discriminative grading during MMT, you should use a long lever arm.33,71\n\n\nDirection of Force\n“Direction of force: The placement of the hand that provides the testing force, as well as the direction(s) of the force provided, are highly important. Once the limb or body segment is in the optimal testing position, pressure is applied in a direction (or directions) that is directly opposite the line of pull of the muscle. The more precise your direction of force, the better each muscle’s primary action can be elicited. Imprecise direction of examiner-applied force can substantially diminish the accuracy of the test. For example, testing of the tibialis posterior requires the ankle joint to begin in a position of plantar flexion and inversion, with the examiner’s force applied in the directions of dorsiflexion and eversion.72 If the examiner fails to apply adequate force in the direction of dorsiflexion (primarily applying force in the direction of eversion) then the patient’s tibialis anterior would likely attempt to kick in because it is also a strong ankle invertor.”\n\n\nSpeed of Force production\n“The resistive force you provide should ramp up over the course of 1–2 seconds, be held 3–5 seconds, and then be ramped down over the course of 1–2 seconds”\n\n\nMagnitude of Force\n“As mentioned in the Gross Muscle Strength section, you must provide adequate force to overcome the force produced by the patient for any given muscle. The magnitude of force will naturally be different for smaller muscles versus larger ones.57 It should be intuitive that one will not provide the same amount of force when testing the biceps as one would use to test the extensor digitorum of the hand.”"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Dermatome and Myotome/dermatome_testing.html",
+    "href": "The Archive/Examination/Tests and Measures/Dermatome and Myotome/dermatome_testing.html",
+    "title": "Dermatome Testing",
+    "section": "",
+    "text": "Level\nRoot\nPain & Sensory Change\nMotor Weakness\nAbnormal Reflexes\n\n\n\n\nC4/C5\nC5\nDeltoid1  Lateral arm1\nDeltoid1  Biceps1\nBicep reflex1\n\n\nC5/C6\nC6\nRadial forearm to thumb and index finger1\nBiceps1  Wrist extensor1\nBicep reflex1  Brachioradialis reflex1\n\n\nC6/C7\nC7\nMidradial forearm to index and middle finger1\nWrist Flexor1  Tricep1\nTriceps reflex1\n\n\nC7/T1\nC8\nUlnar forearm to ring and little finger1\nHand Intrinsic1  Finger Flexor1\nN/a1\n\n\n\n\nPsychometrics\n\n\n\n\n\n\nRead later\n\n\n\nReliability and Diagnostic Accuracy of Standard Dermatomes and Myotomes for Determining the Pathologic Level in Surgically Verified Patients With Cervical Radiculopathy1\n\n\n\n\n\n\n\nReferences\n\n1. Hong CG, Nam WD. Reliability and Diagnostic Accuracy of Standard Dermatomes and Myotomes for Determining the Pathologic Level in Surgically Verified Patients With Cervical Radiculopathy. Neurospine. 2022;19(4):1006-1012. doi:10.14245/ns.2244194.097\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Dermatome Testing. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Dermatome and\nMyotome/dermatome_testing.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/push-up_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/push-up_test.html",
+    "title": "Push-Up Test",
+    "section": "",
+    "text": "Endurance\nMax pushups\n\n\nPower\nMax pushups in 15sec with 45 sec rest (protocol from negrete 2011negreteCanUpperExtremity2011?)\nNegrete (2011) found this to be the best predictor of softball throwing distancenegreteCanUpperExtremity2011?\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Push-Up Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity\nTests/push-up_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT2b.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT2b.html",
+    "title": "Upper Limb Tension Test 2b (ULTT2b)",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Upper Limb Tension Test\n2b (ULTT2b). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity\nTests/ULTT/ULTT2b.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT3.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT3.html",
+    "title": "Upper limb tension test 3 (ULTT3)",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Upper limb tension test\n3 (ULTT3). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity\nTests/ULTT/ULTT3.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/Finkelstein_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/Finkelstein_test.html",
+    "title": "Finkelstein Test",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Finkelstein Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and\nHand/Finkelstein_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/Ulnar_fovea_sign.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/Ulnar_fovea_sign.html",
+    "title": "Ulnar Fovea Sign",
+    "section": "",
+    "text": "1\n\nPurpose\nClinical detection of foveal disruptions or UT ligament injuries1\n\n\nFalse Positive Analysis\n\nTriangular fibrocartilage injuries1\nAdvanced arthrosis of the ulnar head1\nCrystal arthropathy1\nExtensor carpi ulnaris tendon subluxation1\nLax distal radioulnar joint capsule1\nPisotriquetral joint loose body1\nRadiocarpal and ulnocarpal synovitis1\nUlnocarpal joint capsule tear1\nScapholunate ligament injury1\nDorsal wrist ganglionv\nUlnocarpal impaction with lunotriquetral ligament injury1\nNo Pathology1\n\n\n\nPsychometric\n\n\n\nPsychometric\nValue (95% CI)\n\n\n\n\nSensitivity\n0.952 (0.90, 0.98)1\n\n\nSpecificity\n0.865 (0.79, 0.92)1\n\n\n+LR\n7.06 (4.53, 11.0)1\n\n\n-LR\n0.055 (0.027, 0.11)1\n\n\n\n\n\n\n\n\nReferences\n\n1. Tay SC, Tomita K, Berger RA. The \"ulnar fovea sign\" for defining ulnar wrist pain: An analysis of sensitivity and specificity. The Journal of Hand Surgery. 2007;32(4):438-444. doi:10.1016/j.jhsa.2007.01.022\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Ulnar Fovea Sign. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and\nHand/Ulnar_fovea_sign.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/OK_sign_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/OK_sign_test.html",
+    "title": "OK Sign Test",
+    "section": "",
+    "text": "Mechanics\nOK Sign tests the Anterior Interossoues Nerve by creating a position that biases both the FPL and FDP. The OK Sign requires both 2nd finger DIP flexion (FDP) and thumb DIP flexion (FPL). If these are not achieved, this indicates muscle weakness.\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. OK Sign Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and\nHand/OK_sign_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/CTS_Flick_maneuver.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/CTS_Flick_maneuver.html",
+    "title": "Flick Maneuver for CTS",
+    "section": "",
+    "text": "Psychometrics\nsee table 18-12 of dutton1\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Flick Maneuver for CTS.\nhttps://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and\nHand/CTS_Flick_maneuver.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/claw_hand_sign.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/claw_hand_sign.html",
+    "title": "Claw Hand Sign",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Claw Hand Sign. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and\nHand/claw_hand_sign.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Strength Tests/shoulder_external_rotation_MMT.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Strength Tests/shoulder_external_rotation_MMT.html",
+    "title": "Shoulder ER MMT",
+    "section": "",
+    "text": "Accuracy\nShoulder ER MMT could only detect asymmetrical strength in shoulders when the involved shoulder was \\(\\leq 73.8\\%\\) as strong compared to the non-involved side1\n\n\n\n\n\nReferences\n\n1. Nagatomi T, Mae T, Nagafuchi T, Yamada SI, Nagai K, Yoneda M. Shoulder manual muscle resistance test cannot fully detect muscle weakness. Knee surgery, sports traumatology, arthroscopy: official journal of the ESSKA. 2017;25(7):2081-2088. doi:10.1007/s00167-016-4380-y\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Shoulder ER MMT. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Strength\nTests/shoulder_external_rotation_MMT.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Strength Tests/belly_press_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Strength Tests/belly_press_test.html",
+    "title": "Belly Press Test",
+    "section": "",
+    "text": "Accuracy\nThe “Belly Press Test” could only detect asymmetrical strength in shoulder IR when the involved shouulder was \\(\\leq 84\\%\\) as strong compared to the non-involved side1.\n\n\n\n\n\nReferences\n\n1. Nagatomi T, Mae T, Nagafuchi T, Yamada SI, Nagai K, Yoneda M. Shoulder manual muscle resistance test cannot fully detect muscle weakness. Knee surgery, sports traumatology, arthroscopy: official journal of the ESSKA. 2017;25(7):2081-2088. doi:10.1007/s00167-016-4380-y\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Belly Press Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Strength\nTests/belly_press_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Elbow Tests/RCL_varus_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Elbow Tests/RCL_varus_test.html",
+    "title": "Radial Collateral Ligament (Lateral) Varus Test",
+    "section": "",
+    "text": "“The LCL is tested with the elbow positioned in 5–30 degrees short of full extension. The clinician stabilizes the humerus and adducts the ulna, producing a varus force at the elbow (Fig. 17-40). The end-feel is noted. No diagnostic accuracy studies have been performed to determine the sensitivity or specificity of this test.”1\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Radial Collateral\nLigament (Lateral) Varus Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Elbow\nTests/RCL_varus_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Elbow Tests/UCL_Valgus_Test_Elbow.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Elbow Tests/UCL_Valgus_Test_Elbow.html",
+    "title": "UCL Valgus Test",
+    "section": "",
+    "text": "AKA\n\n\n\n\nMoving Valgus Test\nValgus Test\n\n\n\n“Medial (Ulnar) Collateral Ligament (Valgus Test) The patient is positioned in supine, with their head supported. The clinician stabilizes the distal humerus with one hand and palpates the distal forearm with the other. The anterior band of the MCL tightens in the range of 20–120 degrees of flexion, becoming lax in full extension, before tightening again in hyperextension. The posterior bundle is taut in flexion beyond 55 degrees. The anterior band is tested by flexing the elbow to between 20 and 30 degrees to unlock the olecranon from its fossa, as a valgus stress is applied continuously (Fig. 17-37). The posterior band is best tested using a “milking” maneuver. The patient is seated, and the arm is positioned in shoulder flexion, elbow flexion beyond 55 degrees, and forearm supination. The clinician pulls downward on the patient’s thumb (Fig. 17-38). This maneuver generates a valgus stress on the flexed elbow. A positive sign is indicated by the reproduction of pain. The tests are repeated on the opposite extremity and the findings compared. No diagnostic accuracy studies have been performed to determine the sensitivity or specificity of this test.”1\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. UCL Valgus Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Elbow\nTests/UCL_Valgus_Test_Elbow.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Elbow Tests/Tabletop_relocation_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Elbow Tests/Tabletop_relocation_test.html",
+    "title": "Tabletop Relocation Test",
+    "section": "",
+    "text": "“This test imposes an axial load through the arm while the patient is extending the elbow with the forearm supinated. The patient performs a press-up on the edge of a table using one arm, with the forearm positioned in supination. In the presence of instability, apprehension occurs at about 40 degrees flexion. The maneuver is repeated while the clinician presses his or her thumb on the radial head, preventing any subluxation. The test is considered positive for posterolateral rotatory instability if the thumb pressure relieves the apprehension.”1\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Tabletop Relocation\nTest. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Elbow\nTests/Tabletop_relocation_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_roos_stress_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_roos_stress_test.html",
+    "title": "Roos Stress Test (Elevated arm stress test)",
+    "section": "",
+    "text": "AKA\n\nRoos Stress Test\nElevated arm stress test (EAST)\n\n\nThe Roos Stress test is a special test that rules in thoracic outlet syndrome by loading the plexus thru TOS container1.\n\nTechnique\n\nPatient is seated\nArm is in 90° Abduction and 90° Elbow flexion\nPatient performs slow finger clenching for 3 min\n\n\n\nInterpretation\n\n\n\n\n\n\nNote\n\n\n\nPatient may display reduced/obliterated radial pulse and have an audible infraclavicular bruit but these are not considered positive tests2\n\n\n\n(+) Patient unable to maintain arms in start position for 3 min2\n(+) Involved side symptoms2\n\nPain\nHeaviness\nNumbness/tingling\n\n\n\n\n\n\n\nReferences\n\n1. Hooper TL, Denton J, McGalliard MK, Brismée JM, Sizer PS. Thoracic outlet syndrome: A controversial clinical condition. Part 1: Anatomy, and clinical examination/diagnosis. The Journal of Manual & Manipulative Therapy. 2010;18(2):74-83. doi:10.1179/106698110X12640740712734\n\n\n2. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Roos Stress Test\n(Elevated arm stress test). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic\noutlet syndrome/tos_roos_stress_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_passive_shoulder_shrug_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_passive_shoulder_shrug_test.html",
+    "title": "Passive Shoulder Shrug Test",
+    "section": "",
+    "text": "The Passive Shoulder Shrug test is a special test designed to rule out thoracic outlet syndrome in patients with symptoms consistent with TOS1. The passive movement of this maneuver is designed to slacken the soft tissues/brachial plexus, which should relieve TOS symptoms1.\n\nTechnique\n\nPatient positioned seated with arms folded\nClinician stands behind patient\nClinician grasps patient’s elbows and passively elevates the shoulders superiorly and anteriorly\n\nHold for 30 sec\n\nAsk patient about changes in symptoms\n\n\n\nValidity\nNo diagnostic accuracy studies have been performed to determine the sensitivity and specificity of this test\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Passive Shoulder Shrug\nTest. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic\noutlet syndrome/tos_passive_shoulder_shrug_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/cyriax_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/cyriax_test.html",
+    "title": "Cyriax Test",
+    "section": "",
+    "text": "Cyriax test: unloading the plexus in TOS container1\n\n\n\n\nReferences\n\n1. Hooper TL, Denton J, McGalliard MK, Brismée JM, Sizer PS. Thoracic outlet syndrome: A controversial clinical condition. Part 1: Anatomy, and clinical examination/diagnosis. The Journal of Manual & Manipulative Therapy. 2010;18(2):74-83. doi:10.1179/106698110X12640740712734\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Cyriax Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic\noutlet syndrome/cyriax_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_costoclavicular_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_costoclavicular_test.html",
+    "title": "Costoclavicular Test",
+    "section": "",
+    "text": "AKA\n\n\n\n\nCostoclavicular maneuver\nCostoclavicular test\nMilitary Brace Test\nEden’s Test\n\n\n\n\nCostoclavicular test is a special test for thoracic outlet syndrome occuring at the Thoraco-coraco-pectoral gate1.\nThis test places the patient in a position that likely reduces the volume of costoclavicular space2\n\n\nTechnique\n\nPatient position: sitting straight with both arms at side (“Exaggerated military seated posture”)\nClinician assesses radial pulse\nAsk patient to retract and depress shoulders while protruding chest\n\nHold for 60 seconds\n\nClinician assesses change in radial pulse\nAssess changes in symptoms (particularly paresthesia)\n\n\n\nInterpretation\nThis test has both a quantitative (change in radial pulse) and qualitative (change in symptom) measure.\n\n\n\n\n\n\nCaution\n\n\n\nUsing radial pulse to conclude a positive test has been shown to produce many false positives1\n\n\nA change in patient symptoms (worsening) is considered a positive test2.\n\n\n\n\n\nReferences\n\n1. Hooper TL, Denton J, McGalliard MK, Brismée JM, Sizer PS. Thoracic outlet syndrome: A controversial clinical condition. Part 1: Anatomy, and clinical examination/diagnosis. The Journal of Manual & Manipulative Therapy. 2010;18(2):74-83. doi:10.1179/106698110X12640740712734\n\n\n2. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Costoclavicular Test.\nhttps://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic\noutlet syndrome/tos_costoclavicular_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Head and Neck Tests/VBI_vertebrobasilar_insufficiency_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Head and Neck Tests/VBI_vertebrobasilar_insufficiency_test.html",
+    "title": "Vertebrobasilar Insufficiency Test",
+    "section": "",
+    "text": "A test to rule in vertebrobasilar insufficiency (VBI)"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Head and Neck Tests/VBI_vertebrobasilar_insufficiency_test.html#factors-to-consider-during-testing",
+    "href": "The Archive/Examination/Tests and Measures/Head and Neck Tests/VBI_vertebrobasilar_insufficiency_test.html#factors-to-consider-during-testing",
+    "title": "Vertebrobasilar Insufficiency Test",
+    "section": "Factors to consider during testing",
+    "text": "Factors to consider during testing\n\nInherent redundancy of blood supply—collateral circulation1\nMorphology of the vertebral artery at the atlantoaxial level\nBiomechanics of upper cervical spine—concurrent contralateral side bending with cervical rotation1\nThe nonvascular causes of dizziness (cervicogenic dizziness and benign paroxysmal positional vertigo)1\nThe amount of cervical rotation to be used1\nMedical history (transient ischemic attack, cerebrovascular accident, cardiac risk factors, cervical spondylosis)1\nPsychometric properties of vertebral artery testing (0% sensitivity)1\nForce to be applied 9. Potential risk of injury with manipulation (thrust, rotational techniques vs. nonthrust, nonrotational techniques)1"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Head and Neck Tests/VBI_vertebrobasilar_insufficiency_test.html#grading",
+    "href": "The Archive/Examination/Tests and Measures/Head and Neck Tests/VBI_vertebrobasilar_insufficiency_test.html#grading",
+    "title": "Vertebrobasilar Insufficiency Test",
+    "section": "Grading",
+    "text": "Grading\nA positive VA test is one in which signs or symptoms change1. Even subtle changes such as a significant delay in verbal responses to questions of orientation with some inconsistency of answers, changes in pupil size, and nystagmus are all considered positive VBI tests1."
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Head and Neck Tests/VBI_vertebrobasilar_insufficiency_test.html#what-if-i-am-uncertain-if-my-patient-has-vbi",
+    "href": "The Archive/Examination/Tests and Measures/Head and Neck Tests/VBI_vertebrobasilar_insufficiency_test.html#what-if-i-am-uncertain-if-my-patient-has-vbi",
+    "title": "Vertebrobasilar Insufficiency Test",
+    "section": "What if I am uncertain if my patient has VBI",
+    "text": "What if I am uncertain if my patient has VBI\nIf the VBI test is negative and the patient is not experiencing symptoms, but you are still concerned about your patient, here are the steps you should take. You should avoid Grade V mobilizations (HVLAT)1. One should introduce the application of incrementally greater movements and loads or investigate VA flow using Doppler sonography or an magnetic resonance arthrogram (MRA) scan before performing a grade V technique in the cervical spine1. The clinician should consider avoiding placing the patient’s cervical spine in the extremes of rotation and side bending in both the examination and the subsequent intervention, which would obviate the need for these tests1."
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Head and Neck Tests/VBI_vertebrobasilar_insufficiency_test.html#what-if-i-still-want-to-perform-a-cervical-mobilization",
+    "href": "The Archive/Examination/Tests and Measures/Head and Neck Tests/VBI_vertebrobasilar_insufficiency_test.html#what-if-i-still-want-to-perform-a-cervical-mobilization",
+    "title": "Vertebrobasilar Insufficiency Test",
+    "section": "What if I still want to perform a cervical mobilization?",
+    "text": "What if I still want to perform a cervical mobilization?\nFirst, you should opt for a grade I-IV mob rather than a grade V thrust technique1. One should follow the Australian Physiotherapy Association’s Protocol for Premanipulative Testing of the Cervical Spine (although this cannot be viewed as a prescriptive guideline)1.\n\nAustralian Physiotherapy Association’s Protocol recommends that the clinician should maintain the immediate premobilization position for &gt;=10sec to test the patency of the vertebrobasilar system1.\nClinical testing for VBI should stop once (+) signs or symptoms are noted1.\nThroughout the tests, one should observe for possible nystagmus or changes in pupil size and should have the patient count backward to assess his or her quality of speech1.\nThe patient should be instructed to report any changes in symptoms (even seemingly insignificant changes)1.\n\n\n\n\n\n\n\nCaution\n\n\n\nThe sensitivity of these premanipulative protocols are unclear1. Multiple studies have found these protocols to have a poor prediction values1."
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Head and Neck Tests/CRT_cervical_relocation_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Head and Neck Tests/CRT_cervical_relocation_test.html",
+    "title": "Cervical Relocation Test (CRT)",
+    "section": "",
+    "text": "The Cervical Relocation Test is a special test used to assess joint position sense (PS) integrity of the cervical spine1\n\nLimitations\n“The CRT may be influenced by nonspecific cervical pain that accounts for approximately 42% of common musculoskeletal disorders annually”1\n\n\nValidity\n\nValidity\n\n\n\n\n\n\n\n\nValue\nNote\n\n\n\n\nInterrater Reliability\nVariable1\n\n\n\nIntrarater Reliability\nGood1\n\n\n\n\n\n\n\n\n\nReferences\n\n1. Burke S, Lynch K, Moghul Z, Young C, Saviola K, Schenk R. The reliability of the cervical relocation test on people with and without a history of neck pain. The Journal of Manual & Manipulative Therapy. 2016;24(4):210-214. doi:10.1179/2042618615Y.0000000016\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Cervical Relocation\nTest (CRT). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Head and Neck\nTests/CRT_cervical_relocation_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Head and Neck Tests/ROM tests/ROM_cervical_spine.html",
+    "href": "The Archive/Examination/Tests and Measures/Head and Neck Tests/ROM tests/ROM_cervical_spine.html",
+    "title": "Cervical Spine ROM Testing",
+    "section": "",
+    "text": "Limited rotation in seated\n\nTest with shrugged shoulders to reduce impact of trap/lev scap\nTest in supine\nAssess A-A Joint\n\n\n\n\n\n\nAssess OA specifically"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Head and Neck Tests/ROM tests/ROM_cervical_spine.html#limited-rotation",
+    "href": "The Archive/Examination/Tests and Measures/Head and Neck Tests/ROM tests/ROM_cervical_spine.html#limited-rotation",
+    "title": "Cervical Spine ROM Testing",
+    "section": "",
+    "text": "Limited rotation in seated\n\nTest with shrugged shoulders to reduce impact of trap/lev scap\nTest in supine\nAssess A-A Joint"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Head and Neck Tests/ROM tests/ROM_cervical_spine.html#limited-flexion",
+    "href": "The Archive/Examination/Tests and Measures/Head and Neck Tests/ROM tests/ROM_cervical_spine.html#limited-flexion",
+    "title": "Cervical Spine ROM Testing",
+    "section": "",
+    "text": "Assess OA specifically"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Head and Neck Tests/cervical_distraction_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Head and Neck Tests/cervical_distraction_test.html",
+    "title": "Cervical Distraction Test",
+    "section": "",
+    "text": "Purpose\n\n\nTechnique\n\nPatient positioned in supine1\nClinician is standing at the head of the patient1\nPlace one hand around the occiput (lumbrical grip)1\nUsing the other hand, the clinician wraps the hand gently around the patient’s head1\nApply a traction force1\n\n\n\nGrading\nThis test is graded by assessing the patient’s symptoms\n\nNegative test: Same/increased symptoms\nPositive test: Reduced symptoms1\n\nIndicative of some form of foraminal compression1\nZ-joint irritation1\n\n\n\n\nValidity\n\nValidity\n\n\n\n\n\n\n\n\nValue\nNote\n\n\n\n\nSpecificity\nHigh1\n\n\n\nSensitivity\nLow1\n\n\n\n\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Cervical Distraction\nTest. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Head and Neck\nTests/cervical_distraction_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Balance Tests/3MBWT_3_meter_backwards_walk_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Balance Tests/3MBWT_3_meter_backwards_walk_test.html",
+    "title": "3 Meter Backwards Walk Test (3MBWT)",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. 3 Meter Backwards Walk\nTest (3MBWT). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Balance\nTests/3MBWT_3_meter_backwards_walk_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Quality of Life Tests/sickness_impact_profile_68.html",
+    "href": "The Archive/Examination/Tests and Measures/Quality of Life Tests/sickness_impact_profile_68.html",
+    "title": "Sickness Impact Profile 68",
+    "section": "",
+    "text": "Recommended for Subacute Stroke patients via ANPT’s SCI-EDGE document\n\nGeneral Application\n\nReliability\nSee1\n\n\nValidity\nSee1\n\n\n\nSCI Application\n\nReliability\n\n\nValidity\nInternal Consistency - α = 0.92 (high) (Post et al. 1996; N=315, 75% male, mixed injury types, mean (SD) time since injury = 3.6 (1.9) years)\n\n\n\n\n\n\nReferences\n\n1. Nanda U, McLendon PM, Andresen EM, Armbrecht E. The SIP68: An abbreviated sickness impact profile for disability outcomes research. Quality of Life Research: An International Journal of Quality of Life Aspects of Treatment, Care and Rehabilitation. 2003;12(5):583-595. doi:10.1023/a:1025036325886\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Sickness Impact Profile\n68. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Quality of Life\nTests/sickness_impact_profile_68.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/tests_and_measures_index.html",
+    "href": "The Archive/Examination/Tests and Measures/tests_and_measures_index.html",
+    "title": "Index of Tests & Measures",
+    "section": "",
+    "text": "Head and neck Tests\n\nVertebrobasilar insufficiency Test (VBI)\nCervical relocation test (CRT)\nCervical Distraction Test\n\n\n\nUpper Extremity Tests\n\nCervical Rotation Lateral Flexion Test\nERLS (Possibly)\nChampagne Toast\nHawkin’s-Kennedy Test\nInfraspinatus muscle test\nNeer Impingement Test\nSpeed’s Test\nStretch Test (of the Brachial Plexus)\nTinel’s Sign (of the brachial plexus)\n\n\n\nLower Extremity Tests\n\nFulcrum Test (Femoral stress Fx)\n\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Index of Tests &\nMeasures. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and\nMeasures/tests_and_measures_index.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Trunk Tests/ROM Testing/ROM_lumbar_spine.html",
+    "href": "The Archive/Examination/Tests and Measures/Trunk Tests/ROM Testing/ROM_lumbar_spine.html",
+    "title": "Lumbar Spine ROM testing",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Lumbar Spine ROM\ntesting. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Trunk Tests/ROM\nTesting/ROM_lumbar_spine.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Trunk Tests/ROM Testing/thoracoulumbar_ROM_testing.html",
+    "href": "The Archive/Examination/Tests and Measures/Trunk Tests/ROM Testing/thoracoulumbar_ROM_testing.html",
+    "title": "Thoracolumbar ROM Testing",
+    "section": "",
+    "text": "CitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Thoracolumbar ROM\nTesting. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Trunk Tests/ROM\nTesting/thoracoulumbar_ROM_testing.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Trunk Tests/Spinal Stenosis/sedimentation_sign_SedSign.html",
+    "href": "The Archive/Examination/Tests and Measures/Trunk Tests/Spinal Stenosis/sedimentation_sign_SedSign.html",
+    "title": "Sedimentation Sign (SedSign)",
+    "section": "",
+    "text": "Psychometrics\n\n\n\n\n\n\nCaution\n\n\n\n“However, some studies [1416] demonstrated that the SedSign had low sensitivity in the differential diagnosis of LSS versus non-specific low back pain (LBP)”1\n\n\n\nSedSign Psychometrics\n\n\n\n\n\n\n\n\n\nSeverity\nSensitivity\nSpecificity\n+LR\n-LR\n\n\n\n\nSevere\n0.95 (85.5, 99.6)1\n4.7 (0.4–13.2)1\n1.002\n1.082\n\n\nModerate\n0.742 (0.569, 0.883)1\n0.226 (0.094, 0.394)1\n0.961\n1.141\n\n\nMild\n0.588 (0.416, 0.76)1\n0.610 (0.456, 0.764)1\n1.511\n0.681\n\n\nNormal Individuals\nN/A\n0.80 (0.715, 0.873)1\nN/A\nN/A\n\n\n\n\n\n\n\n\nReferences\n\n1. Zhang L, Chen R, Liu B, Zhang W, Zhu Y, Rong L. The nerve root sedimentation sign for differential diagnosis of lumbar spinal stenosis: A retrospective, consecutive cohort study. European Spine Journal: Official Publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society. 2017;26(10):2512-2519. doi:10.1007/s00586-016-4435-2\n\n\n2. Zhang P, Dong B, Yuan P, Li X. Human umbilical cord mesenchymal stem cells promoting knee joint chondrogenesis for the treatment of knee osteoarthritis: A systematic review. Journal of Orthopaedic Surgery and Research. 2023;18(1):639. doi:10.1186/s13018-023-04131-7\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Sedimentation Sign\n(SedSign). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Trunk Tests/Spinal\nStenosis/sedimentation_sign_SedSign.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Trunk Tests/SIJ Tests/laslett_cluster.html",
+    "href": "The Archive/Examination/Tests and Measures/Trunk Tests/SIJ Tests/laslett_cluster.html",
+    "title": "Laslett Cluster",
+    "section": "",
+    "text": "Tests involved:\n\nDistraction\nCompression\nThigh Thrust\nSacral Thrust\nGaenslen’s\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Laslett Cluster. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Trunk Tests/SIJ\nTests/laslett_cluster.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Trunk Tests/SIJ Tests/fortins_finger_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Trunk Tests/SIJ Tests/fortins_finger_test.html",
+    "title": "Fortin’s Finger Test",
+    "section": "",
+    "text": "“The patient completes a pain diagram and is then instructed to point to the region of pain using only one finger. The clinician reviews the area of pain and pain diagram for consistency and then asks the patient to repeat the procedure of pointing to his or her pain.”1\nA positive test for localization of SIJ pain has three criteria:\n\n“The patient can localize the pain with one finger.”1\n“The area pointed to is within 1 cm of, and immediately inferomedial to, the PSIS.”1\n“The patient consistently points to the same area over at least two trials.”1\n\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Fortin’s Finger Test.\nhttps://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Trunk Tests/SIJ\nTests/fortins_finger_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Trunk Tests/Lumbar Spine Tests/anterior_stability_test_lumbar_spine.html",
+    "href": "The Archive/Examination/Tests and Measures/Trunk Tests/Lumbar Spine Tests/anterior_stability_test_lumbar_spine.html",
+    "title": "Anterior Stability Test of the Lumbar Spine",
+    "section": "",
+    "text": "“The patient is in the side-lying position. To test the lower three segments (L3–5), the patient’s hips are placed in approximately 70 degrees of flexion, and the knees are flexed (Fig. 28-48A). This position is to prevent tightening of the posterior lumbar ligaments, particularly the SSL, which could stabilize the lower three segments and produce a false-negative test result. The clinician stands to face the patient, resting his or her thighs against the patient’s knees. The upper segments are stabilized using the cranial hand and the other hand over it. The inferior interspinous space is palpated. The clinician pushes with the thighs, through the patient’s knees, along the line of the femur (Fig. 28-48B). This produces a posteriorly directed force to the pelvis, sacrum, and lumbar spine. Any posterior movement of the inferior segment, which is actually a relative anterior movement of the superior segment on the inferior segment, is noted and compared with the next segmental level. There should be little or no movement. To test the upper two segments (L2 and L1), the lumbar spine is flexed by flexing the hips to approximately 100 degrees, and the procedure is repeated. A positive test is one in which there is excessive movement or pain, or both.”1\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Anterior Stability Test\nof the Lumbar Spine. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Trunk Tests/Lumbar Spine\nTests/anterior_stability_test_lumbar_spine.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Trunk Tests/Lumbar Spine Tests/prone_instability_test_lumbar_spine.html",
+    "href": "The Archive/Examination/Tests and Measures/Trunk Tests/Lumbar Spine Tests/prone_instability_test_lumbar_spine.html",
+    "title": "Prone Instability Test",
+    "section": "",
+    "text": "“The patient is positioned prone so that the trunk rests on the bed, and the feet rest on the floor, with the hips flexed and the trunk muscles relaxed. The clinician applies a P-A pressure (approximately 4 kg or thumbnail blanching) over the most symptomatic spinous process, and any reproduction of symptoms is noted. The clinician then releases the P-A pressure, and the patient is asked to hold onto the sides of the table and to slightly lift his or her feet off the floor (Fig. 28-50). This maneuver produces a cocontraction of the global abdominal, gluteal, and erector spinae muscles. While the patient maintains their feet off the floor, the clinician reapplies the P-A pressure over the same spinous process level. If a dramatic reduction or the complete elimination of the symptoms compared to the first application of P-A pressure is noted (the muscle activity must be able to effectively stabilize the segment), it is considered a positive prone instability test. This test has been found to have good to excellent agreement reported (k = 0.87)92 for three pairs of physical therapy raters evaluating 63 consecutive subjects currently experiencing LBP and with a previous history of LBP. According to Hicks et al.,92 patients with LBP, who present with a negative prone instability test, are unlikely to respond to a stabilization exercise program. However, it must be remembered that as an independent test, the Prone Instability Test has limited diagnostic use (+LR = 1.7[95% CI; 1.1, 2.8]; -LR = 0.48 [95% CI: 0.22, 1.1])130; as it is most useful as a component of a cluster of tests to predict response to motor control exercises.”1\n\n\n\n\nReferences\n\n1. Dutton M. Dutton’s Orthopaedic Examination, Evaluation, and Intervention. 5th ed. McGraw Hill Education; 2020.\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Prone Instability Test.\nhttps://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Trunk Tests/Lumbar Spine\nTests/prone_instability_test_lumbar_spine.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/hip_abductor_sign.html",
+    "href": "The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/hip_abductor_sign.html",
+    "title": "Hip Abductor sign",
+    "section": "",
+    "text": "Schematic explanation of the abductor sign.  (A) and (D): abduction of both legs;  (B) and (E):  abduction of the sound leg;  (C) and (F): abduction of the paretic leg, for organic and non-organic left leg paresis (the paretic left leg is shadowed).  Black arrow represents the internal force abduction force, the grey hand mark represents the examiner’s hand; and the grey arrow represents the direction of the adduction force exerted by the examiner’s hand opposing the patient’s leg; the white arrow represents the direction of movement of the leg; the white circle represents a leg that does not move; the bold white arrow represents movement of the unabducted leg used for diagnosis; and the bold white circle represents non-movement of the unabducted leg used for diagnosis1."
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/hip_abductor_sign.html#organic",
+    "href": "The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/hip_abductor_sign.html#organic",
+    "title": "Hip Abductor sign",
+    "section": "Organic",
+    "text": "Organic\n“In organic paresis, when the patient was told to abduct the sound leg, the sound leg remained fixed in an abducted position, whereas the paretic leg, which must normally exert a synergic abducting force to oppose the examiner’s hand, was overpowered and moved in the hyperadducting direction (fig 1B and 2A). When he was told to abduct the paretic leg, it was overpowered by the examiner’s hand, whereas the sound leg exerted a strong synergic force and remained fixed in its original position (fig 1C and 2B)”1"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/hip_abductor_sign.html#non-organic",
+    "href": "The Archive/Examination/Tests and Measures/Strength/Functional limb weakness tests/hip_abductor_sign.html#non-organic",
+    "title": "Hip Abductor sign",
+    "section": "Non-Organic",
+    "text": "Non-Organic\n“In non-organic paresis, however, different phenomena are observed. When the patient is told to abduct the sound leg, the entire movement set to ‘‘abduct the sound leg’’ is normally strong. Thus not only is abduction of the sound leg strong, but the synergic opposition of the ‘‘paretic leg’’ is also strong, and the latter remains fixed in its original position (fig 1E and 2C). When the patient is told to abduct the paretic leg, the entire movement set becomes weak. Therefore, not only the abducting paretic leg, but also the opposing ‘‘sound leg’’ becomes weak, and the latter moves towards the hyperadducting direction overpowered by the examiner’s hand (fig 1F and 2D).”1"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Neurovascular Tests/slump_test.html",
+    "href": "The Archive/Examination/Tests and Measures/Neurovascular Tests/slump_test.html",
+    "title": "Slump Test",
+    "section": "",
+    "text": "Interpretation\n\nMeningitis\n\n\n\n\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Slump Test. https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Neurovascular\nTests/slump_test.html"
+  },
+  {
+    "objectID": "The Archive/Examination/Tests and Measures/Patient Reported Outcomes/Patient-Specific_Functional_Scale_PSFS.html",
+    "href": "The Archive/Examination/Tests and Measures/Patient Reported Outcomes/Patient-Specific_Functional_Scale_PSFS.html",
+    "title": "Patient-Specific Functional Scale (PSFS)",
+    "section": "",
+    "text": "The PSFS is a qualitative measure used to\n\nApplication\nThe patient is asked to nominate 3 activities that they have difficulty performing due to their condition1. Next, the patient rates each activity on a scale from 0-10, with 0 representing an inability to perform the activity and 10 representing the ability to perform the activity at their prior level of function (PLOF)1. The final score is an average of the three activity scores1.\nUnable to display PDF file. Download instead.\n\n\n\n\n\n\n\n\nSpinal Stenosis\n\n1. Cleland JA, Whitman JM, Houser JL, Wainner RS, Childs JD. Psychometric properties of selected tests in patients with lumbar spinal stenosis. The Spine Journal. 2012;12(10):921-931. doi:10.1016/j.spinee.2012.05.004\n\nCitationFor attribution, please cite this work as:\nYomogida N, Kerstein C. Patient-Specific\nFunctional Scale (PSFS). https://nateyomo.github.io/Yomogida-Kerstein-Lab/The\nArchive/Examination/Tests and Measures/Patient Reported\nOutcomes/Patient-Specific_Functional_Scale_PSFS.html"
+  },
+  {
+    "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#age",
+    "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#age",
+    "title": "Dual-Task Presentation",
+    "section": "Age",
+    "text": "Age\nBherer et al found that both young and older individuals demonstrated a significant improvement in performance following dual-task training and older adults had a significantly greater improvementbhererTransferEffectsTaskset2008?."
+  },
+  {
+    "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#how-to-transfer-a-treatment-to-a-dual-task",
+    "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#how-to-transfer-a-treatment-to-a-dual-task",
+    "title": "Dual-Task Presentation",
+    "section": "How to transfer a treatment to a dual-task",
+    "text": "How to transfer a treatment to a dual-task\n\nThe patient should be in the associative or autonomous stage of learning\n\nRequiring minimal cues\n\nDetermine:\n\nWhat does it look like if their form begins to breakdown?\nHow do they know if they are performing it correctly?\n\n“Further, they identified three factors (targeted perceptual function, stimulus correspondence, and response correspondence) that may influence transfer to the field”7\n“Based on the overall aim to maximize performance in the field, Zentgraf et al. (2017) differentiated intervention effects on different levels of transfer in elite sports using four different categories: (1) task-specific practice effects, (2) near-transfer practice effects (e.g., similar cognitive tasks), (3) further-transfer effects (e.g., sensorimotor sport skills), and (4) far-transfer effects (e.g., game-like competition performance).”7"
+  },
+  {
+    "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#treatment-concepts-1",
+    "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#treatment-concepts-1",
+    "title": "Dual-Task Presentation",
+    "section": "Treatment concepts",
+    "text": "Treatment concepts\n\nEyes are on surroundings and environment\nChange the environment so the focus is away from the movement\nCognitive endurance\n\nDo not let the cognitive system rest, keep loading it through multiple exercises even if you target different regions\n\nOther considerations\nFatigue from a game (do most injuries occur early or later in games?)"
+  },
+  {
+    "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#better-athletes-have-higher-working-memory-capacity",
+    "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#better-athletes-have-higher-working-memory-capacity",
+    "title": "Dual-Task Presentation",
+    "section": "Better athletes have Higher working memory capacity",
+    "text": "Better athletes have Higher working memory capacity\nWhen elite, intermediate, and non-athlete basketball players were analyzed on a multiple object tracking (MOT) test in order to measure selective, distributed, and sustained attention skills4. MOT was proprosed to mimic the load of tracking the ball, teammates, and opponents simultaneously on the court4. Participants attempted to track 2, 3, and 4 objects at once4. Each successive increase in number of objects increases the attentional load4. There was no significant difference between the groups when tracking 2 objects, indicating that attentional load was not high enough to affect performance4. When the load was increased to 3 and 4 objects, the elite basketball players performed significantly better than the intermediate and non-athlete players4. It should be noted that the intermediate and non-athlete players had the same decrease in performance4.\nThis is consistent with previous literature which found that team ball athletes had faster visual tracking speed in attentively tracking multiple moving objects and elite athletes had enhanced visual attention ability4."
+  },
+  {
+    "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#load",
+    "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#load",
+    "title": "Dual-Task Presentation",
+    "section": "Load",
+    "text": "Load\nIn the study by Qiu et al., there was no difference in performance decrease between elite, intermediate, and non-athlete basketball players when only tracking 2 objects, but the elite athletes performed significantly better when tracking 3 or 4 objects4. This indicates that all athletes did not experience attentional overload enough to make more mistakes4. Similar to strength, endurance, or power training, there must be enough stress on the system to evoke change, and dual-task training must be difficult enough to create change.\nTracking the accuracy of the primary task can work for some situations, but as mentioned earlier, athletes status post ACL injury/surgery would not demonstrate postural motor impairments, but rather have inaccuracies in the cognitive secondary task6. In these sitautions, the dual-task cost or load should be determined by measuring the number of inaccuracies in the cognitive secondary task6.\n\nEyes are on surroundings and environment\nChange the environment so the focus is away from the movement\nCognitive endurance\n\nDo not let the cognitive system rest, keep loading it through multiple exercises even if you target different regions\n\nOther considerations\nFatigue from a game (do most injuries occur early or later in games?)\n\nCognitive secondary tasks: Generally involve auditory processing, computational skills, or working memory\nMotor secondary tasks: Catching an item"
+  },
+  {
+    "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#injury-prevention",
+    "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#injury-prevention",
+    "title": "Dual-Task Presentation",
+    "section": "Injury prevention",
+    "text": "Injury prevention\n6"
+  },
+  {
+    "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#near-transfer",
+    "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#near-transfer",
+    "title": "Dual-Task Presentation",
+    "section": "Near Transfer",
+    "text": "Near Transfer\n\nProcessing speed\n\n“Processing speed: Processing speed was measured by the ZVT (Oswald and Roth, 1987). In this paper-and-pencil test, participants must connect the numbers from 1 to 90 in the correct order. Overall, the test consisted of four test sheets. The dependent variable was the arithmetic mean of the processing time in the four different sheets in seconds. The less time needed, the better the performance.’”7\n\n\n\nMemory\n“Memory span: Memory span was measured by a subtest of the KAI-N (Lehrl and Blaha, 2001). In this test, which is in German, the test conductor speaks out a sequence of letters or numbers, and the participants must repeat this sequence in the correct order. The sequence is extended after each correct repetition and ends when the subject is unable to repeat the sequence. Memory span is calculated by using the number of correct repetitions of letters and numbers. The higher the score, the better the performance.”7\n\n\nWorking speed\n“Working speed: Working speed was measured by the letter readout test, which is a subtest of the KAI-N (Lehrl and Blaha, 2001). In this subtest, which is in German, participants must read out a randomized sequence of letters as quickly as they can. In total, they must read four sequences with a short rest in between. The dependent variable is the fastest reading time in seconds.”\n\n\nSustained attention\n“Sustained attention: Sustained attention was measured by the d2-R (Brickenkamp et al., 2010). This paper-and-pencil test measures attention and concentration ability under time pressure. The test consists of 14 lines with 47 characters per line with a randomized order of the letters “d” and “p.” Each letter is equipped with one, two, three, or four vertical strikes below or above the letter. The task of the participants is to mark the letter “d” with two stripes. All other characters are distractors, and participants are supposed to ignore these characters. For each line, participants have 20 s, and there is no break between the lines. The dependent variable is CP, which is calculated from the processed target objects and the errors. The higher the score, the better the performance.”"
+  },
+  {
+    "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#far-transfer-test",
+    "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#far-transfer-test",
+    "title": "Dual-Task Presentation",
+    "section": "Far Transfer test",
+    "text": "Far Transfer test\nThis would be a sport specific test.\nFor example, a volleyball far transfer test, the ground force reaction and jump height were measured when a participant performed a jump-block against simulated game scenario7."
+  },
+  {
+    "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#d-mot",
+    "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#d-mot",
+    "title": "Dual-Task Presentation",
+    "section": "3D-MOT",
+    "text": "3D-MOT\nAfter 8 weeks, volleyball players demonstrated an improvement in near-transfer tasks of sustained attention and processing speed, but no significant difference from control in a dual-task jump power7. Soccer athletes were given 10 sessions of 3D-MOT or 3D soccer video training and demonstrated significantly more improvement in passing decision-making accuracy than controls but no difference in dribbling or shooting8."
+  },
+  {
+    "objectID": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#choking",
+    "href": "Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html#choking",
+    "title": "Dual-Task Presentation",
+    "section": "Choking",
+    "text": "Choking\nChoking is a common problem in competitive sports and refers to performance breakdowns perceived pressure of competition5. This can occur at any level, from amateur to professional5\nWhen viewed through the context of dual-process theory, choking appears to be a form of dual-task overloading. As the perceived pressure of competition increases, this adds an extra load to the attentional resources5. This process is also influenced by low working memory capacity (WMC) resulting in poor inhibition of perceived pressure5. If the athlete cannot mentally adapt and mitigate this load, this will force the attention to be taken away from areas focused on sport performance resulting in poor decision making and/or poor motor patterning. Performance breakdown due to competitive pressures is most noticeable in closed tasks such as basketball free throws or golf putting where there should be very few factors taking up attentional resources. Many athletes blame themselves and assume they need to “push” through the barrier or simply continue their training program but at higher intensity to overcome choking.\nBased on dual-process theory, focusing on single-task more intensely will not provide a meaningful benefit to one’s working memory capacity and therefore choking will persist. For these athletes, dual-task training can help to improve working memory capacity and reduce choking. Ducrocq et al. had a group of tennis players complete computer-based dual-task training for 10 sessions and observed a significant improvement in tennis shot accuracy under pressure compared to a group that did not receive dual-task training5."
   }
 ]

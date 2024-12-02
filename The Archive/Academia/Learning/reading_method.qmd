@@ -2,7 +2,7 @@
 title: Studying Method
 ---
 
-# Matt DiMaio method
+# Matt DiMaio Textbook method
 
 1. Flip through each page of the chapter
 1. Read the End-of-chapter quiz
@@ -13,7 +13,134 @@ title: Studying Method
     - Bold words
 1. 1st & last sentence of each paragraph
 1. Read through
-1. 
 
 
 {{< video https://www.youtube.com/watch?v=nqYmmZKY4sA >}}
+
+
+
+# Literature Review
+
+"DOING A LITERATURE SURVEY Paper reading skills are put to the test in doing a literature survey. This will require you to read tens of papers, perhaps in an unfamiliar field. What papers should you read? Here is how you can use the three-pass approach to help. " @keshavHowReadPaper2007
+
+"First, use an academic search engine such as Google Scholar or CiteSeer and some well-chosen keywords to find three to five recent papers in the area. Do one pass on each paper to get a sense of the work, then read their related work sections. You will find a thumbnail summary of the recent work, and perhaps, if you are lucky, a pointer to a recent survey paper. If you can find such a survey, you are done. Read the survey, congratulating yourself on your good luck." @keshavHowReadPaper2007
+
+"Otherwise, in the second step, find shared citations and repeated author names in the bibliography. These are the key papers and researchers in that area. Download the key papers and set them aside. Then go to the websites of the key researchers and see where they’ve published recently. That will help you identify the top conferences in that field because the best researchers usually publish in the top conferences." @keshavHowReadPaper2007
+
+"The third step is to go to the website for these top conferences and look through their recent proceedings. A quick scan will usually identify recent high-quality related work. These papers, along with the ones you set aside earlier, constitute the first version of your survey. Make two passes through these papers. If they all cite a key paper that you did not find earlier, obtain and read it, iterating as necessary " @keshavHowReadPaper2007
+
+# Scientific article reading 3-pass method
+
+
+::: {.callout-note}
+
+"I’ve used this approach for the last 15 years to read conference proceedings, write reviews, do background research, and to quickly review papers before a discussion. This disciplined approach prevents me from drowning in the details before getting a bird’s-eye-view. It allows me to estimate the amount of time required to review a set of papers. Moreover, I can adjust the depth of paper evaluation depending on my needs and how much time I have." @keshavHowReadPaper2007
+:::
+
+In 2007, S. Keshav introduced their own 3-pass method for reading scientific articles @keshavHowReadPaper2007. Being able to efficiently and systematically read and assess articles is helpful to avoid having gaps in your knowledge and to save countless hours in the long run.
+
+Keshav suggested to use a *3-pass method* with each pass increasing in depth of understanding instead of reading an article in depth from start to finish @keshavHowReadPaper2007.
+Each pass is designed to achieve specific goals and builds upon the previous pass: 
+
+1. The 1st pass provides general understanding of the paper @keshavHowReadPaper2007.
+1. The 2nd pass is to understand the content but not the details @keshavHowReadPaper2007.
+1. The 3rd pass is to understand the content in depth @keshavHowReadPaper2007.
+
+## 1st Pass
+
+::: {.columns}
+::: {.column}
+The 1st pass should take 5-10 minutes, you should quickly scan to understand the paper as a whole.
+:::
+::: {.column}
+
+1. Carefully read the title, abstract, and introduction
+2. Read the section and sub-section headings, but ignore
+everything else
+3. Read the conclusions
+4. Scan the references, mentally ticking off the
+ones you’ve already read
+
+:::
+:::
+
+Keshav had 5C's you *should* be able to answer after the 1st pass:
+
+::: {#tbl-1st-pass-5-c}
+
+<table class="basic-table">
+  <tbody>
+    <tr>
+      <td>Category</td>
+      <td>What type of paper is this? </br> A measurement paper? </br> An analysis of an existing system? </br> A description of a research prototype?</td>
+    </tr>
+    <tr>
+      <td>Context</td>
+      <td>Which other papers is it related to? </br> Which theoretical bases were used to analyze the problem?</td>
+    </tr>
+    <tr>
+      <td>Correctness</td>
+      <td>Do the assumptions appear to be valid?</td>
+    </tr>
+    <tr>
+      <td>Contributions</td>
+      <td>What are the paper’s main contributions?</td>
+    </tr>
+    <tr>
+      <td>Clarity</td>
+      <td>Is the paper well written?</td>
+    </tr>
+  </tbody>
+</table>
+
+Keshav's 5C's @keshavHowReadPaper2007
+
+:::
+
+
+::: {.callout-note}
+During this pass, you should be considering whether you need to perform a 2nd or 3rd pass @keshavHowReadPaper2007.
+:::
+
+You can stop at the 1st pass if the paper doesn’t interest you, you do not have the requisite knowledge to understand the paper, or that the authors make invalid assumptions @keshavHowReadPaper2007.
+Keshav states that the 1st pass is also adequate for papers thatare not in your research area, but may be relevant in the future @keshavHowReadPaper2007.
+
+
+
+
+## 2nd Pass
+
+::: {.columns}
+::: {.column}
+The 2nd pass should take ~1 hour and you should read the paper with greater care but ignore information that is too detailed such as proofs @keshavHowReadPaper2007.
+At this stage, Keshav suggests jotting down key points or adding comments at this stage @keshavHowReadPaper2007.
+:::
+::: {.column}
+1. Look carefully at the figures, diagrams and other illustrations in the paper @keshavHowReadPaper2007.
+1. Pay special attention to graphs and observe if the axes properly labeled @keshavHowReadPaper2007.
+1. Are results shown with error bars, so that conclusions are statistically significant? @keshavHowReadPaper2007
+1. Mark relevant *unread* references for further reading in order to better understand the background of the paper and the topic @keshavHowReadPaper2007.
+:::
+:::
+
+During the 2nd pass, if you notice mistakes in the figures, diagrams, and other illustrations, this is indicative that the article is of poorer quality than one without these mistakes @keshavHowReadPaper2007.
+
+By the end of a *successful* 1st pass, you should have a good enough grasp of the content that you can summarize the main points of the paper with supporting evidence to someone else @keshavHowReadPaper2007.
+
+:::{.callout-important}
+Being able to summarize a paper and its evidence to someone else is appropriate for a field you are *interested* in, but is inadequate for a topic in your research *specialty* @keshavHowReadPaper2007.
+:::
+
+By the end of the 2nd pass, it is acceptable if there are still items that you do not understand @keshavHowReadPaper2007.
+This is especially true if:
+
+1. It is a novel subject to you @keshavHowReadPaper2007.
+1. There was a proof or experimental technique you do not yet understand @keshavHowReadPaper2007.
+1. The paper was poorly written with unsubstantiated assertions and numerous forward references @keshavHowReadPaper2007.
+
+
+## 3rd Pass
+
+"To fully understand a paper, particularly if you are reviewer, requires a third pass. The key to the third pass is to attempt to virtually re-implement the paper: that is, making the same assumptions as the authors, re-create the work. By comparing this re-creation with the actual paper, you can easily identify not only a paper’s innovations, but also its hidden failings and assumptions. This pass requires great attention to detail. You should identify and challenge every assumption in every statement. Moreover, you should think about how you yourself would present a particular idea. This comparison of the actual with the virtual lends a sharp insight into the proof and presentation techniques in the paper and you can very likely add this to your repertoire of tools. During this pass, you should also jot down ideas for future work. This pass can take about four or five hours for beginners, and about an hour for an experienced reader. At the end of this pass, you should be able to reconstruct the entire structure of the paper from memory, as well as be able to identify its strong and weak points. In particular, you should be able to pinpoint implicit assumptions, missing citations to relevant work, and potential issues with experimental or analytical techniques." @keshavHowReadPaper2007
+
+
