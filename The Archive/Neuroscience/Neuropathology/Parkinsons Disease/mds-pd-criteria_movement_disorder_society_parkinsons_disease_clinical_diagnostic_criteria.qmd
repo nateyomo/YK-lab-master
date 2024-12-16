@@ -1,0 +1,26 @@
+---
+title: Movement Disorder Society Parkinson's Disease Criteria (MDS-PD Criteria)
+---
+
+
+# Certainty levels
+
+::: {.columns}
+::: {.column}
+### Clinically Established PD
+
+This category was designed to maximize [specificity]({{< var ref-specificity.path >}}) @postumaMDSClinicalDiagnostic2015.
+Thus, a large majority of those who fall into this category (&gt;90%) will have [Parkinson's disease]({{< var ref-parkinsons-disease.path >}}) @postumaMDSClinicalDiagnostic2015.
+As a result of the high specificty, there are many false negatives and many *true* PD cases will not meet the inclusion criteria @postumaMDSClinicalDiagnostic2015.
+
+:::
+::: {.column}
+
+### Clinically Probable PD
+
+This category focuses on balancing [sensitivity]({{< var ref-sensitivity.path >}}) and [specificity]({{< var ref-specificity.path >}}).
+As a result, less patients who fall into this category will actually have PD (&ge;80%), but this category has less false negatives and correctly identifies 80% of true PD cases @postumaMDSClinicalDiagnostic2015.
+
+:::
+:::
+

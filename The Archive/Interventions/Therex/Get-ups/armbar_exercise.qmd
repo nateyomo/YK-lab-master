@@ -1,0 +1,7 @@
+---
+title: Armbar Exercise
+---
+
+{{< video https://www.youtube.com/watch?v=IAByZREjXp8&pp=ygUPYXJtYmFyIGV4ZXJjaXNl >}}
+
+{{< video https://www.youtube.com/watch?v=Ya0DCt11wGI&pp=ygUPYXJtYmFyIGV4ZXJjaXNl >}}

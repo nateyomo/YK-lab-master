@@ -26,15 +26,42 @@ title: Hip External Rotator Muscles
 
 # Primary
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) | {{< var ref-gluteus-maximus.origin >}} | {{< var ref-gluteus-maximus.insertion >}} | {{< var ref-gluteus-maximus.nerve >}} | {{< var ref-gluteus-maximus.action >}} |
-| [Piriformis]({{< var ref-piriformis.path >}}) | {{< var ref-piriformis.origin >}} | {{< var ref-piriformis.insertion >}} | {{< var ref-piriformis.nerve >}} | {{< var ref-piriformis.action >}} |
-| [Obturator Internus]({{< var ref-obturator-internus.path >}}) | {{< var ref-obturator-internus.origin >}} | {{< var ref-obturator-internus.insertion >}} | {{< var ref-obturator-internus.nerve >}} | {{< var ref-obturator-internus.action >}} |
-| [Superior Gemellus]({{< var ref-superior-gemellus.path >}}) | {{< var ref-superior-gemellus.origin >}} | {{< var ref-superior-gemellus.insertion >}} | {{< var ref-superior-gemellus.nerve >}} | {{< var ref-superior-gemellus.action >}} |
-| [Inferior Gemellus]({{< var ref-inferior-gemellus.path >}}) | {{< var ref-inferior-gemellus.origin >}} | {{< var ref-inferior-gemellus.insertion >}} | {{< var ref-inferior-gemellus.nerve >}} | {{< var ref-inferior-gemellus.action >}} |
-| [Quadratus Femoris]({{< var ref-quadratus-femoris.path >}}) | {{< var ref-quadratus-femoris.origin >}} | {{< var ref-quadratus-femoris.insertion >}} | {{< var ref-quadratus-femoris.nerve >}} | {{< var ref-quadratus-femoris.action >}} |
-: {.striped .hover}
+```{python tbl-primary-hip-external-rotators-oian}
+#| label: tbl-primary-hip-external-rotators-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Primary hip adductors"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'functional_group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['primary_hip_external_rotator']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
 
 The primary external rotators of the hip include the [gluteus maximus]({{< var ref-gluteus-maximus.path >}}) and 5/6 of the deep external rotators @neumannKinesiologyMusculoskeletalSystem2017.
 The obturator externus is considered a second­ ary rotator because in the anatomic position its line of force lies only a few millimeters posterior to the longitudinal axis of rota­ tion (see Fig. 12.35). ” @neumannKinesiologyMusculoskeletalSystem2017
@@ -43,41 +70,85 @@ The obturator externus is considered a second­ ary rotator because in the anato
 
 Secondary external rotators include the [gluteus medius *posterior fibers*]({{< var ref-gluteus-medius.path >}}) and the [gluteus minimus *posterior fibers*]({{< var ref-gluteus-minimus.path >}}), obturator externus, sartorius, and long head of the biceps femoris @neumannKinesiologyMusculoskeletalSystem2017 
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Gluteus Medius]({{< var ref-gluteus-medius.path >}}) | {{< var ref-gluteus-medius.origin >}} | {{< var ref-gluteus-medius.insertion >}} | {{< var ref-gluteus-medius.nerve >}} | {{< var ref-gluteus-medius.action >}} |
-| [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) | {{< var ref-gluteus-minimus.origin >}} | {{< var ref-gluteus-minimus.insertion >}} | {{< var ref-gluteus-minimus.nerve >}} | {{< var ref-gluteus-minimus.action >}} |
-| [Obturator Externus]({{< var ref-obturator-externus.path >}}) | {{< var ref-obturator-externus.origin >}} | {{< var ref-obturator-externus.insertion >}} | {{< var ref-obturator-externus.nerve >}} | {{< var ref-obturator-externus.action >}} |
-| [Sartorius]({{< var ref-sartorius.path >}}) | {{< var ref-sartorius.origin >}} | {{< var ref-sartorius.insertion >}} | {{< var ref-sartorius.nerve >}} | {{< var ref-sartorius.action >}} |
-| [Biceps Femoris Long Head]({{< var ref-biceps-femoris-long-head.path >}}) | {{< var ref-biceps-femoris-long-head.origin >}} | {{< var ref-biceps-femoris-long-head.insertion >}} | {{< var ref-biceps-femoris-long-head.nerve >}} | {{< var ref-biceps-femoris-long-head.action >}} |
-: Secondary External Rotators of the Hip {.striped .hover}
+```{python tbl-secondary-hip-external-rotators-oian}
+#| label: tbl-secondary-hip-external-rotators-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Secondary hip external rotators"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'functional_group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['secondary_hip_external_rotator']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
 
 # Deep External Rotators
 
 The deep rotators of the hip known as the "*deep six*" are functionally nicknamed the "*rotator cuff of the hip*".
 
-```{r hip-deep-external-rotator-oian}
-#| echo: false
+```{python tbl-deep-hip-external-rotators-oian}
+#| label: tbl-deep-hip-external-rotators-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: "Deep external rotators of the hip"
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "hip_deep_external_rotator_muscles"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Deep External Rotators of the Hip"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['hip_deep_external_rotator_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
+
 
 ## Anatomy
 

@@ -1,0 +1,10 @@
+---
+title: Positional release technique
+---
+
+The core concept of PRT is to *gently* move the tissues into a supported and comfortable position (ease), and to hold that positional until a beneficial change spontaneously occurs ("release") @chaitowPositionalReleaseTechniques2016.
+
+
+# Types
+
+- [Strain-Counterstrain]({{< var ref-strain-counterstrain.path >}}) 

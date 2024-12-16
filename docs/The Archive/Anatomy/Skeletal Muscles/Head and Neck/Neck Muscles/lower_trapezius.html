@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.55">
+<meta name="generator" content="quarto-1.6.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -22,10 +22,29 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../../../../../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../../../../../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
@@ -38,12 +57,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../../../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-43df0d6f53b733b42d37fa7808e17715.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../../../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../../../../site_libs/bootstrap/bootstrap-2cd373bbd777488a2901da25ac479b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../../../site_libs/bootstrap/bootstrap-dark-30247d3b2cd0522fbeca720c4281c240.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,10 +88,14 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
 <link rel="stylesheet" href="../../../../../styles.css">
 <meta name="twitter:title" content="Lower Trapezius">
+<meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
 <meta name="twitter:site" content="@YomoKerstLab">
 <meta name="twitter:card" content="summary">
@@ -86,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../../../../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../../../../images/square 2 lines mid.svg" alt="" class="navbar-logo">
+    <img src="../../../../../branding/Yomokerst/yomokerst heavy condensed.svg" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -100,8 +123,8 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../The Archive/archive_index.html"> 
-<span class="menu-text">Archive</span></a>
+    <a class="nav-link" href="../../../../../The Archive/research_and_development_index.html"> 
+<span class="menu-text">R&amp;D</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../../../../guide.html"> 
@@ -195,494 +218,67 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div id="tbl-trapezius-oian" class="cell anchored">
-<div class="cell-output-display">
-<div id="yxufuhavkr" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#yxufuhavkr table {
-  font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-#yxufuhavkr thead, #yxufuhavkr tbody, #yxufuhavkr tfoot, #yxufuhavkr tr, #yxufuhavkr td, #yxufuhavkr th {
-  border-style: none;
-}
-
-#yxufuhavkr p {
-  margin: 0;
-  padding: 0;
-}
-
-#yxufuhavkr .gt_table {
-  display: table;
-  border-collapse: collapse;
-  line-height: normal;
-  margin-left: auto;
-  margin-right: auto;
-  color: #333333;
-  font-size: 16px;
-  font-weight: normal;
-  font-style: normal;
-  background-color: #FFFFFF;
-  width: auto;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #A8A8A8;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #A8A8A8;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-}
-
-#yxufuhavkr .gt_caption {
-  padding-top: 4px;
-  padding-bottom: 4px;
-}
-
-#yxufuhavkr .gt_title {
-  color: #333333;
-  font-size: 125%;
-  font-weight: initial;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-color: #FFFFFF;
-  border-bottom-width: 0;
-}
-
-#yxufuhavkr .gt_subtitle {
-  color: #333333;
-  font-size: 85%;
-  font-weight: initial;
-  padding-top: 3px;
-  padding-bottom: 5px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-color: #FFFFFF;
-  border-top-width: 0;
-}
-
-#yxufuhavkr .gt_heading {
-  background-color: #FFFFFF;
-  text-align: center;
-  border-bottom-color: #FFFFFF;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-
-#yxufuhavkr .gt_bottom_border {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-
-#yxufuhavkr .gt_col_headings {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-
-#yxufuhavkr .gt_col_heading {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 6px;
-  padding-left: 5px;
-  padding-right: 5px;
-  overflow-x: hidden;
-}
-
-#yxufuhavkr .gt_column_spanner_outer {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  padding-top: 0;
-  padding-bottom: 0;
-  padding-left: 4px;
-  padding-right: 4px;
-}
-
-#yxufuhavkr .gt_column_spanner_outer:first-child {
-  padding-left: 0;
-}
-
-#yxufuhavkr .gt_column_spanner_outer:last-child {
-  padding-right: 0;
-}
-
-#yxufuhavkr .gt_column_spanner {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  overflow-x: hidden;
-  display: inline-block;
-  width: 100%;
-}
-
-#yxufuhavkr .gt_spanner_row {
-  border-bottom-style: hidden;
-}
-
-#yxufuhavkr .gt_group_heading {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  text-align: left;
-}
-
-#yxufuhavkr .gt_empty_group_heading {
-  padding: 0.5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: middle;
-}
-
-#yxufuhavkr .gt_from_md > :first-child {
-  margin-top: 0;
-}
-
-#yxufuhavkr .gt_from_md > :last-child {
-  margin-bottom: 0;
-}
-
-#yxufuhavkr .gt_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  margin: 10px;
-  border-top-style: solid;
-  border-top-width: 1px;
-  border-top-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  overflow-x: hidden;
-}
-
-#yxufuhavkr .gt_stub {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#yxufuhavkr .gt_stub_row_group {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-  vertical-align: top;
-}
-
-#yxufuhavkr .gt_row_group_first td {
-  border-top-width: 2px;
-}
-
-#yxufuhavkr .gt_row_group_first th {
-  border-top-width: 2px;
-}
-
-#yxufuhavkr .gt_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#yxufuhavkr .gt_first_summary_row {
-  border-top-style: solid;
-  border-top-color: #D3D3D3;
-}
-
-#yxufuhavkr .gt_first_summary_row.thick {
-  border-top-width: 2px;
-}
-
-#yxufuhavkr .gt_last_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-
-#yxufuhavkr .gt_grand_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#yxufuhavkr .gt_first_grand_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-style: double;
-  border-top-width: 6px;
-  border-top-color: #D3D3D3;
-}
-
-#yxufuhavkr .gt_last_grand_summary_row_top {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-style: double;
-  border-bottom-width: 6px;
-  border-bottom-color: #D3D3D3;
-}
-
-#yxufuhavkr .gt_striped {
-  background-color: rgba(128, 128, 128, 0.05);
-}
-
-#yxufuhavkr .gt_table_body {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-
-#yxufuhavkr .gt_footnotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-
-#yxufuhavkr .gt_footnote {
-  margin: 0px;
-  font-size: 90%;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#yxufuhavkr .gt_sourcenotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-
-#yxufuhavkr .gt_sourcenote {
-  font-size: 90%;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#yxufuhavkr .gt_left {
-  text-align: left;
-}
-
-#yxufuhavkr .gt_center {
-  text-align: center;
-}
-
-#yxufuhavkr .gt_right {
-  text-align: right;
-  font-variant-numeric: tabular-nums;
-}
-
-#yxufuhavkr .gt_font_normal {
-  font-weight: normal;
-}
-
-#yxufuhavkr .gt_font_bold {
-  font-weight: bold;
-}
-
-#yxufuhavkr .gt_font_italic {
-  font-style: italic;
-}
-
-#yxufuhavkr .gt_super {
-  font-size: 65%;
-}
-
-#yxufuhavkr .gt_footnote_marks {
-  font-size: 75%;
-  vertical-align: 0.4em;
-  position: initial;
-}
-
-#yxufuhavkr .gt_asterisk {
-  font-size: 100%;
-  vertical-align: 0;
-}
-
-#yxufuhavkr .gt_indent_1 {
-  text-indent: 5px;
-}
-
-#yxufuhavkr .gt_indent_2 {
-  text-indent: 10px;
-}
-
-#yxufuhavkr .gt_indent_3 {
-  text-indent: 15px;
-}
-
-#yxufuhavkr .gt_indent_4 {
-  text-indent: 20px;
-}
-
-#yxufuhavkr .gt_indent_5 {
-  text-indent: 25px;
-}
-
-#yxufuhavkr .katex-display {
-  display: inline-flex !important;
-  margin-bottom: 0.75em !important;
-}
-
-#yxufuhavkr div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
-  height: 0px !important;
-}
-</style>
-
-<table class="gt_table caption-top" data-quarto-postprocess="true" data-quarto-disable-processing="false" data-quarto-bootstrap="false">
+<div id="tbl-oian" class="cell anchored" data-message="false" data-execution_count="1">
+<div class="cell-output cell-output-display">
+<table class="dataframe oian-table caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
 <thead>
-<tr class="header gt_heading">
-<th colspan="5" class="gt_heading gt_title gt_font_normal gt_bottom_border">Trapezius muscle</th>
-</tr>
-<tr class="odd gt_col_headings">
-<th id="Muscle" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Muscle</th>
-<th id="Origin" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Origin</th>
-<th id="Insertion" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Insertion</th>
-<th id="Innervation" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Innervation</th>
-<th id="Action" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Action</th>
+<tr class="header">
+<th data-quarto-table-cell-role="th">Muscle</th>
+<th data-quarto-table-cell-role="th">Origin</th>
+<th data-quarto-table-cell-role="th">Insertion</th>
+<th data-quarto-table-cell-role="th">Innervation</th>
+<th data-quarto-table-cell-role="th">Action</th>
 </tr>
 </thead>
-<tbody class="gt_table_body">
+<tbody>
+<tr class="odd">
+<td><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The%20Archive/Anatomy/Skeletal%20Muscles/Head%20and%20Neck/Neck%20Muscles/upper_trapezius.html">Upper trapezius</a></td>
+<td><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The%20Archive/Anatomy/Skeletal%20Muscles/Head%20and%20Neck/Neck%20Muscles/upper_trapezius.html#origin">Occiput</a><br>
+<a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The%20Archive/Anatomy/Skeletal%20Muscles/Head%20and%20Neck/Neck%20Muscles/upper_trapezius.html#origin">SP C1-C7</a></td>
+<td><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The%20Archive/Anatomy/Skeletal%20Muscles/Head%20and%20Neck/Neck%20Muscles/upper_trapezius.html#insertion">lateral 1/3 of Clavicle</a></td>
+<td><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The%20Archive/Anatomy/Skeletal%20Muscles/Head%20and%20Neck/Neck%20Muscles/upper_trapezius.html#nerve">Accessory n. (CN XI)</a><br>
+C3 - C4</td>
+<td><strong>Scapula</strong>: <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The%20Archive/Anatomy/Skeletal%20Muscles/Head%20and%20Neck/Neck%20Muscles/upper_trapezius.html#action">Elevation</a>, <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The%20Archive/Anatomy/Skeletal%20Muscles/Head%20and%20Neck/Neck%20Muscles/upper_trapezius.html#action">Upward rotatino</a><br>
+<strong>Neck</strong>: <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The%20Archive/Anatomy/Skeletal%20Muscles/Head%20and%20Neck/Neck%20Muscles/upper_trapezius.html#action">I/L sidebend</a>, <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The%20Archive/Anatomy/Skeletal%20Muscles/Head%20and%20Neck/Neck%20Muscles/upper_trapezius.html#action">C/L Rotation</a></td>
+</tr>
 </tbody>
 </table>
-
-</div>
 </div>
 </div>
 <section id="origin" class="level1">
 <h1>Origin</h1>
+<p>Spinous processes of vertebrae T5-T12<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span></p>
 </section>
 <section id="insertion" class="level1">
 <h1>Insertion</h1>
+<p><a href="../../../../../The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html">Scapular spine</a> of scapula</p>
 </section>
 <section id="innervation" class="level1">
 <h1>Innervation</h1>
+<ul>
+<li><a href="../../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN11_Spinal_Accessory.html">Accessory n.&nbsp;(CN XI)</a></li>
+<li><a href="../../../../../The Archive/Anatomy/Nerve Roots/c3_nerve_root.html">C3</a>, <a href="../../../../../The Archive/Anatomy/Nerve Roots/c4_nerve_root.html">C4</a> of cervical plexus</li>
+</ul>
 </section>
 <section id="action" class="level1">
-<h1>Action</h1>
+
+
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Action</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-gilroyAtlasAnatomy2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Gilroy AM, MacPherson BR, Wikenheiser JC, Voll MM, Wesker K, Schünke M, eds. <em>Atlas of Anatomy</em>. 4th ed. Thieme; 2020.</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Lower Trapezius. <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/lower_trapezius.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
 Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck
 Muscles/lower_trapezius.html</a></div>
@@ -913,8 +509,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -1025,7 +619,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

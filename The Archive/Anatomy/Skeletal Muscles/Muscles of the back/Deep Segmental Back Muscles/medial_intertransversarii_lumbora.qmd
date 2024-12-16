@@ -1,0 +1,18 @@
+---
+title: Medial Intertransversarii Lumbora
+---
+
+
+# Origin {#origin}
+L1-L5: Mammillary process of inferiorly adjacent vertebrae @gilroyAtlasAnatomy2020
+
+# Insertion {#insertion} 
+C2-C7: Mammillary process of superiorly adjacent vertebrae @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **BIL**: Stabilizes and extends cervical and lumbar vertebrae @gilroyAtlasAnatomy2020
+- **UNIL**: I/L SB cervical and lumbar spines @gilroyAtlasAnatomy2020

@@ -10,3 +10,6 @@ title: Tremors
 ## Functional Tremors
 
 [Functional tremors]({{< var ref-functional-tremor.path >}}) are related to [Functional neurological disorders]({{< var ref-functional-neurological-disorder.path >}})
+
+
+## Resting tremor

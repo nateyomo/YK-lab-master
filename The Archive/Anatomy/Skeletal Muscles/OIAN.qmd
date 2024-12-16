@@ -6,28 +6,94 @@ title: "OIANs of all the muscles"
 
 ## Suboccipitals
 
-| Muscle  | Origin  | Insertion | Nerve | Action |
-|-|-|-|-|-|
-| [Rectus Capitis Posterior Major]({{< var ref-rectus-capitis-posterior-major.path >}}) | {{< var ref-rectus-capitis-posterior-major.origin >}} | {{< var ref-rectus-capitis-posterior-major.insertion >}} | {{< var ref-rectus-capitis-posterior-major.nerve >}} | {{< var ref-rectus-capitis-posterior-major.action >}} |
-|[Rectus Capitis Posterior Minor]({{< var ref-rectus-capitis-posterior-minor.path >}}) | {{< var ref-rectus-capitis-posterior-minor.origin >}} | {{< var ref-rectus-capitis-posterior-minor.insertion >}} | {{< var ref-rectus-capitis-posterior-minor.nerve >}} | {{< var ref-rectus-capitis-posterior-minor.action >}} |
-| [Obliquus Capitis Superior]({{< var ref-obliquus-capitis-superior.path >}}) | {{< var ref-obliquus-capitis-superior.origin >}} | {{< var ref-obliquus-capitis-superior.insertion >}} | {{< var ref-obliquus-capitis-superior.nerve >}} | {{< var ref-obliquus-capitis-superior.action >}} |
-| [Obliquus Capitis Inferior]({{< var ref-obliquus-capitis-inferior.path >}}) | {{< var ref-obliquus-capitis-inferior.origin >}} | {{< var ref-obliquus-capitis-inferior.insertion >}} | {{< var ref-obliquus-capitis-inferior.nerve >}} | {{< var ref-obliquus-capitis-inferior.action >}} |
-: Suboccipital muscle group {.striped .hover }
+- [Rectus Capitis Posterior Major]({{< var ref-rectus-capitis-posterior-major.path >}})
+- [Rectus Capitis Posterior Minor]({{< var ref-rectus-capitis-posterior-minor.path >}})
+- [Obliquus Capitis Superior]({{< var ref-obliquus-capitis-superior.path >}})
+- [Obliquus Capitis Inferior]({{< var ref-obliquus-capitis-inferior.path >}})
+
+```{python tbl-suboccipital-oian}
+#| label: tbl-suboccipital-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: Suboccipital Muscles
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['suboccipital_muscle_group']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
 
 ## Prevertebral Muscles
+
 - [Longus capitis]({{< var ref-longus-capitis.path >}})
 - [Longus Colli Cervicis]({{< var ref-longus-colli-cervicis.path >}})
 - [Rectus Capitis anterior]({{< var ref-rectus-capitis-anterior.path >}})
 - [Rectus Capitis Lateralis]({{< var ref-rectus-capitis-lateralis.path >}})
 
-| Muscle  | Origin  | Insertion | Nerve | Action |
-|--------|----------|-----------|-------|--------|
-| [Longus Capitis]({{< var ref-longus-capitis.path >}}) | {{< var ref-longus-capitis.origin >}} | {{< var ref-longus-capitis.insertion >}} | {{< var ref-longus-capitis.nerve >}} | {{< var ref-longus-capitis.action >}} |
-| [Longus colli cervicis]({{< var ref-longus-colli-cervicis.path >}}) | {{< var ref-longus-colli-cervicis.origin >}} | {{< var ref-longus-colli-cervicis.insertion >}} | {{< var ref-longus-colli-cervicis.nerve >}} | {{< var ref-longus-colli-cervicis.action >}} |
-| [Rectus Capitis Anterior]({{< var ref-rectus-capitis-anterior.path >}}) | {{< var ref-rectus-capitis-anterior.origin >}} | {{< var ref-rectus-capitis-anterior.insertion >}} | {{< var ref-rectus-capitis-anterior.nerve >}} | {{< var ref-rectus-capitis-anterior.action >}} |
-| [Rectus Capitis Lateralis]({{< var ref-rectus-capitis-lateralis.path >}}) | {{< var ref-rectus-capitis-lateralis.origin >}} | {{< var ref-rectus-capitis-lateralis.insertion >}} | {{< var ref-rectus-capitis-lateralis.nerve >}} | {{< var ref-rectus-capitis-lateralis.action >}} |
+```{python tbl-prevertebral-oian}
+#| label: tbl-prevertebral-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: Prevertebral Muscles
 
-: Prevertebral muscle group {.striped .hover}
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['prevertebral_muscle_group']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
 
 
 
@@ -37,14 +103,43 @@ title: "OIANs of all the muscles"
 - [Splenius capitis]({{< var ref-splenius-capitis.path >}})
 - [Splenius cervicis]({{< var ref-splenius-cervicis.path >}})
 
-| Muscle  | Origin  | Insertion | Nerve | Action |
-|--------|----------|-----------|-------|--------|
-|[Serratus Posterior Superior]({{< var ref-serratus-posterior-superior.path >}}) | {{< var ref-serratus-posterior-superior.origin >}} | {{< var ref-serratus-posterior-superior.insertion >}} | {{< var ref-serratus-posterior-superior.nerve >}} | {{< var ref-serratus-posterior-superior.action >}} |
-|[Serratus Posterior Inferior]({{< var ref-serratus-posterior-inferior.path >}}) | {{< var ref-serratus-posterior-inferior.origin >}} | {{< var ref-serratus-posterior-inferior.insertion >}} | {{< var ref-serratus-posterior-inferior.nerve >}} | {{< var ref-serratus-posterior-inferior.action >}} |
-|[Splenius Capitis]({{< var ref-splenius-capitis.path >}}) | {{< var ref-splenius-capitis.origin >}} | {{< var ref-splenius-capitis.insertion >}} | {{< var ref-splenius-capitis.nerve >}} | {{< var ref-splenius-capitis.action >}} |
-|[Splenius Cervicis]({{< var ref-splenius-cervicis.path >}}) | {{< var ref-splenius-cervicis.origin >}} | {{< var ref-splenius-cervicis.insertion >}} | {{< var ref-splenius-cervicis.nerve >}} | {{< var ref-splenius-cervicis.action >}} |
 
-: Superficial intrinsic back Muscles OIANs {.striped .hover}
+```{python tbl-superficial-intrinsic-back-oian}
+#| label: tbl-superficial-intrinsic-back-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: Superficial Intrinsic Back Muscles
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['intrinsic_back_muscles_superficial']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
 
 ## Intermediate intrinsic back muscles (Erector Spinae)
 - Iliocostalis
@@ -100,57 +195,90 @@ title: "OIANs of all the muscles"
 
 # Abdominal Wall
 
-
-```{r tbl-abdominal-wall-oian}
-#| echo: false
+```{python tbl-abdominal-wall-oian}
+#| label: tbl-abdominal-wall-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: Abdominal Wall Muscles
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "abdominal_wall_muscles"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Abdominal Wall Muscles"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['abdominal_wall_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
+
+
 
 
 # Pelvis & Perineum
 
 ## Pelvic Floor
 
-```{r}
-#| echo: false
+```{python tbl-pelvic-floor-oian}
+#| label: tbl-pelvic-floor-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: Pelvic Floor Muscles
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "pelvic_floor_muscles"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Pelvic floor muscles"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['pelvic_floor_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
+
+
+
+
 
 
 # Head and Neck
@@ -236,216 +364,495 @@ gt_table
 
 ## Anterior Axioappendicular
 
-```{r tbl-anterior-axioappendicular-oian}
-#| echo: false
+- [Pectoralis Major]({{< var ref-pectoralis-major.path >}})
+- [Pectoralis Minor]({{< var ref-pectoralis-minor.path >}})
+- [Subclavius]({{< var ref-subclavius.path >}})
+- [Serratus Anterior]({{< var ref-serratus-anterior.path >}})
+
+```{python tbl-anterior-axioappendicular-oian}
+#| label: tbl-anterior-axioappendicular-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: Anterior Axioappendicular Muscles
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "anterior_axioappendicular_muscles"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Anterior axioappendicular muscles"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['anterior_axioappendicular_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Pectoralis Major]({{< var ref-pectoralis-major.path >}}) | {{< var ref-pectoralis-major.origin >}} | {{< var ref-pectoralis-major.insertion >}} | {{< var ref-pectoralis-major.nerve >}} | {{< var ref-pectoralis-major.action >}} |
-| [Pectoralis Minor]({{< var ref-pectoralis-minor.path >}}) | {{< var ref-pectoralis-minor.origin >}} | {{< var ref-pectoralis-minor.insertion >}} | {{< var ref-pectoralis-minor.nerve >}} | {{< var ref-pectoralis-minor.action >}} |
-| [Subclavius]({{< var ref-subclavius.path >}}) | {{< var ref-subclavius.origin >}} | {{< var ref-subclavius.insertion >}} | {{< var ref-subclavius.nerve >}} | {{< var ref-subclavius.action >}} |
-| [Serratus Anterior]({{< var ref-serratus-anterior.path >}}) | {{< var ref-serratus-anterior.origin >}} | {{< var ref-serratus-anterior.insertion >}} | {{< var ref-serratus-anterior.nerve >}} | {{< var ref-serratus-anterior.action >}} |
-: Anterior Axioappendicular Muscles {.striped .hover}
+
 
 ## Posterior Axioappendicular
 
-```{r tbl-posterior-axioappendicular-oian}
-#| echo: false
+::: {.columns}
+::: {.column}
+### Superficial
+
+- [Upper Trapezius]({{< var ref-upper-trapezius.path >}})
+- [Middle Trapezius]({{< var ref-middle-trapezius.path >}})
+- [Lower Trapezius]({{< var ref-lower-trapezius.path >}})
+- [Latissimus Dorsi]({{< var ref-latissimus-dorsi.path >}})
+
+:::
+::: {.column}
+
+### Deep
+
+- [Levator Scapulae]({{< var ref-levator-scapulae.path >}})
+- [Rhomboid Major]({{< var ref-rhomboid-major.path >}})
+- [Rhomboid Minor]({{< var ref-rhomboid-minor.path >}})
+
+:::
+:::
+
+```{python tbl-posterior-axioappendicular-superficial-oian}
+#| label: tbl-posterior-axioappendicular-superficial-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: Superficial Posterior Axioappendicular muscles
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "posterior_axioappendicular_muscles"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Posterior axioappendicular muscles"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['posterior_axioappendicular_muscles_superficial']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Upper Trapezius]({{< var ref-upper-trapezius.path >}}) | {{< var ref-upper-trapezius.origin >}} | {{< var ref-upper-trapezius.insertion >}} | {{< var ref-upper-trapezius.nerve >}} | {{< var ref-upper-trapezius.action >}} |
-| [Middle Trapezius]({{< var ref-middle-trapezius.path >}}) | {{< var ref-middle-trapezius.origin >}} | {{< var ref-middle-trapezius.insertion >}} | {{< var ref-middle-trapezius.nerve >}} | {{< var ref-middle-trapezius.action >}} |
-| [Lower Trapezius]({{< var ref-lower-trapezius.path >}}) | {{< var ref-lower-trapezius.origin >}} | {{< var ref-lower-trapezius.insertion >}} | {{< var ref-lower-trapezius.nerve >}} | {{< var ref-lower-trapezius.action >}} |
-| [Latissimus Dorsi]({{< var ref-latissimus-dorsi.path >}}) | {{< var ref-latissimus-dorsi.origin >}} | {{< var ref-latissimus-dorsi.insertion >}} | {{< var ref-latissimus-dorsi.nerve >}} | {{< var ref-latissimus-dorsi.action >}} |
-: Superficial Posterior Axioappendicular Muscles {.striped .hover}
-
-
-
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Levator Scapulae]({{< var ref-levator-scapulae.path >}}) | {{< var ref-levator-scapulae.origin >}} | {{< var ref-levator-scapulae.insertion >}} | {{< var ref-levator-scapulae.nerve >}} | {{< var ref-levator-scapulae.action >}} |
-| [Rhomboid Major]({{< var ref-rhomboid-major.path >}}) | {{< var ref-rhomboid-major.origin >}} | {{< var ref-rhomboid-major.insertion >}} | {{< var ref-rhomboid-major.nerve >}} | {{< var ref-rhomboid-major.action >}} |
-| [Rhomboid Minor]({{< var ref-rhomboid-minor.path >}}) | {{< var ref-rhomboid-minor.origin >}} | {{< var ref-rhomboid-minor.insertion >}} | {{< var ref-rhomboid-minor.nerve >}} | {{< var ref-rhomboid-minor.action >}} |
-: Deep Posterior Axioappendicular Muscles  {.striped .hover}
-
-# Scapulohumeral
-
-Scapulohumeral muscles AKA intrinsic shoulder muscles
-
-```{r tbl-scapulohumeral-oian}
-#| echo: false
+```{python tbl-posterior-axioappendicular-deep-oian}
+#| label: tbl-posterior-axioappendicular-deep-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: Deep Posterior Axioappendicular muscles
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "scapulohumeral_muscles"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Scapulohumeral muscles"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['posterior_axioappendicular_muscles_deep']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Deltoid]({{< var ref-deltoid.path >}}) | {{< var ref-deltoid.origin >}} | {{< var ref-deltoid.insertion >}} | {{< var ref-deltoid.nerve >}} | {{< var ref-deltoid.action >}} |
-| [Deltoid (*anterior head*)]({{< var ref-deltoid-muscle-anterior.path >}}) | {{< var ref-deltoid-muscle-anterior.origin >}} | {{< var ref-deltoid-muscle-anterior.insertion >}} | {{< var ref-deltoid-muscle-anterior.nerve >}} | {{< var ref-deltoid-muscle-anterior.action >}} |
-| [Deltoid (*lateral head*)]({{< var ref-deltoid-muscle-lateral.path >}}) | {{< var ref-deltoid-muscle-lateral.origin >}} | {{< var ref-deltoid-muscle-lateral.insertion >}} | {{< var ref-deltoid-muscle-lateral.nerve >}} | {{< var ref-deltoid-muscle-lateral.action >}} |
-| [Deltoid (*posterior head*)]({{< var ref-deltoid-muscle-posterior.path >}}) | {{< var ref-deltoid-muscle-posterior.origin >}} | {{< var ref-deltoid-muscle-posterior.insertion >}} | {{< var ref-deltoid-muscle-posterior.nerve >}} | {{< var ref-deltoid-muscle-posterior.action >}} |
-| [Teres Major]({{< var ref-teres-major.path >}}) | {{< var ref-teres-major.origin >}} | {{< var ref-teres-major.insertion >}} | {{< var ref-teres-major.nerve >}} | {{< var ref-teres-major.action >}} |
-| [Supraspinatus]({{< var ref-supraspinatus.path >}}) | {{< var ref-supraspinatus.origin >}} | {{< var ref-supraspinatus.insertion >}} | {{< var ref-supraspinatus.nerve >}} | {{< var ref-supraspinatus.action >}} |
-| [Infraspinatus]({{< var ref-infraspinatus.path >}}) | {{< var ref-infraspinatus.origin >}} | {{< var ref-infraspinatus.insertion >}} | {{< var ref-infraspinatus.nerve >}} | {{< var ref-infraspinatus.action >}} |
-| [Teres Minor]({{< var ref-teres-minor.path >}}) | {{< var ref-teres-minor.origin >}} | {{< var ref-teres-minor.insertion >}} | {{< var ref-teres-minor.nerve >}} | {{< var ref-teres-minor.action >}} |
-| [Subscapularis]({{< var ref-subscapularis.path >}}) | {{< var ref-subscapularis.origin >}} | {{< var ref-subscapularis.insertion >}} | {{< var ref-subscapularis.nerve >}} | {{< var ref-subscapularis.action >}} |
-: {.striped .hover}
+
+# Scapulohumeral (Intrinsic shoulder)
+
+
+
+```{python tbl-scapulohumeral-oian}
+#| label: tbl-scapulohumeral-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: Scapulohumeral muscles
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['scapulohumeral_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
 
 # Arm
 
 ## Anterior Arm
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Biceps Brachii (Long head)]({{< var ref-biceps-brachii-long-head.path >}}) | {{< var ref-biceps-brachii-long-head.origin >}} | {{< var ref-biceps-brachii-long-head.insertion >}} | {{< var ref-biceps-brachii-long-head.nerve >}} | {{< var ref-biceps-brachii-long-head.action >}} |
-| [Biceps Brachii (Short head)]({{< var ref-biceps-brachii-short-head.path >}}) | {{< var ref-biceps-brachii-short-head.origin >}} | {{< var ref-biceps-brachii-short-head.insertion >}} | {{< var ref-biceps-brachii-short-head.nerve >}} | {{< var ref-biceps-brachii-short-head.action >}} |
-| [Brachialis]({{< var ref-brachialis.path >}}) | {{< var ref-brachialis.origin >}} | {{< var ref-brachialis.insertion >}} | {{< var ref-brachialis.nerve >}} | {{< var ref-brachialis.action >}} |
-| [Coracobrachialis]({{< var ref-coracobrachialis.path >}}) | {{< var ref-coracobrachialis.origin >}} | {{< var ref-coracobrachialis.insertion >}} | {{< var ref-coracobrachialis.nerve >}} | {{< var ref-coracobrachialis.action >}} |
-: Muscles of the Anterior Compartment of the Arm {.striped .hover}
+- [Biceps Brachii (Long head)]({{< var ref-biceps-brachii-long-head.path >}})
+- [Biceps Brachii (Short head)]({{< var ref-biceps-brachii-short-head.path >}})
+- [Brachialis]({{< var ref-brachialis.path >}})
+- [Coracobrachialis]({{< var ref-coracobrachialis.path >}})
+
+```{python tbl-anterior-arm-oian}
+#| label: tbl-anterior-arm-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: Anterior arm muscles
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['anterior_arm_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
 
 
 ## Posterior Arm
 
+- [Triceps brachii (Long head)]({{< var ref-triceps-brachii-long-head.path >}})
+- [Triceps brachii (Medial head)]({{< var ref-triceps-brachii-medial-head.path >}})
+- [Triceps brachii (Lateral head)]({{< var ref-triceps-brachii-lateral-head.path >}})
+- [Anconeus]({{< var ref-anconeus.path >}})
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Triceps brachii (Long head)]({{< var ref-triceps-brachii-long-head.path >}}) | {{< var ref-triceps-brachii-long-head.origin >}} | {{< var ref-triceps-brachii-long-head.insertion >}} | {{< var ref-triceps-brachii-long-head.nerve >}} | {{< var ref-triceps-brachii-long-head.action >}} |
-| [Triceps brachii (Medial head)]({{< var ref-triceps-brachii-medial-head.path >}}) | {{< var ref-triceps-brachii-medial-head.origin >}} | {{< var ref-triceps-brachii-medial-head.insertion >}} | {{< var ref-triceps-brachii-medial-head.nerve >}} | {{< var ref-triceps-brachii-medial-head.action >}} |
-| [Triceps brachii (Lateral head)]({{< var ref-triceps-brachii-lateral-head.path >}}) | {{< var ref-triceps-brachii-lateral-head.origin >}} | {{< var ref-triceps-brachii-lateral-head.insertion >}} | {{< var ref-triceps-brachii-lateral-head.nerve >}} | {{< var ref-triceps-brachii-lateral-head.action >}} |
-| [Anconeus]({{< var ref-anconeus.path >}}) | {{< var ref-anconeus.origin >}} | {{< var ref-anconeus.insertion >}} | {{< var ref-anconeus.nerve >}} | {{< var ref-anconeus.action >}} |
-: Muscles of the Posterior Compartment of the Arm {.striped .hover}
+```{python tbl-posterior-arm-oian}
+#| label: tbl-posterior-arm-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: Posterior arm muscles
 
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['posterior_arm_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
 
 # Forearm
 
 ## Anterior Forearm
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Pronator Teres]({{< var ref-pronator-teres.path >}}) | {{< var ref-pronator-teres.origin >}} | {{< var ref-pronator-teres.insertion >}} | {{< var ref-pronator-teres.nerve >}} | {{< var ref-pronator-teres.action >}} |
-| [Flexor Carpi Radialis]({{< var ref-flexor-carpi-radialis.path >}}) | {{< var ref-flexor-carpi-radialis.origin >}} | {{< var ref-flexor-carpi-radialis.insertion >}} | {{< var ref-flexor-carpi-radialis.nerve >}} | {{< var ref-flexor-carpi-radialis.action >}} |
-| [Palmaris Longus]({{< var ref-palmaris-longus.path >}}) | {{< var ref-palmaris-longus.origin >}} | {{< var ref-palmaris-longus.insertion >}} | {{< var ref-palmaris-longus.nerve >}} | {{< var ref-palmaris-longus.action >}} |
-| [Flexor Carpi Ulnaris]({{< var ref-flexor-carpi-ulnaris.path >}}) | {{< var ref-flexor-carpi-ulnaris.origin >}} | {{< var ref-flexor-carpi-ulnaris.insertion >}} | {{< var ref-flexor-carpi-ulnaris.nerve >}} | {{< var ref-flexor-carpi-ulnaris.action >}} |
-: Superficial {.striped .hover}
+```{python tbl-anterior-forearm-oian}
+#| label: tbl-anterior-forearm-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: Anterior forearm muscles
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Flexor Digitorum Superficialis]({{< var ref-flexor-digitorum-superficialis.path >}}) | {{< var ref-flexor-digitorum-superficialis.origin >}} | {{< var ref-flexor-digitorum-superficialis.insertion >}} | {{< var ref-flexor-digitorum-superficialis.nerve >}} | {{< var ref-flexor-digitorum-superficialis.action >}} |
-: Intermediate {.striped .hover}
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Flexor Digitorum Profundus]({{< var ref-flexor-digitorum-profundus.path >}}) | {{< var ref-flexor-digitorum-profundus.origin >}} | {{< var ref-flexor-digitorum-profundus.insertion >}} | {{< var ref-flexor-digitorum-profundus.nerve >}} | {{< var ref-flexor-digitorum-profundus.action >}} |
-| [Flexor Pollicis Longus]({{< var ref-flexor-pollicis-longus.path >}}) | {{< var ref-flexor-pollicis-longus.origin >}} | {{< var ref-flexor-pollicis-longus.insertion >}} | {{< var ref-flexor-pollicis-longus.nerve >}} | {{< var ref-flexor-pollicis-longus.action >}} |
-| [Pronator Quadratus]({{< var ref-pronator-quadratus.path >}}) | {{< var ref-pronator-quadratus.origin >}} | {{< var ref-pronator-quadratus.insertion >}} | {{< var ref-pronator-quadratus.nerve >}} | {{< var ref-pronator-quadratus.action >}} |
-| [Brachioradialis]({{< var ref-brachioradialis.path >}}) | {{< var ref-brachioradialis.origin >}} | {{< var ref-brachioradialis.insertion >}} | {{< var ref-brachioradialis.nerve >}} | {{< var ref-brachioradialis.action >}} |
-: Deep {.striped .hover}
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['anterior_forearm_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
 
 ## Posterior Forearm
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Extensor Carpi Radialis Longus]({{< var ref-extensor-carpi-radialis-longus.path >}}) | {{< var ref-extensor-carpi-radialis-longus.origin >}} | {{< var ref-extensor-carpi-radialis-longus.insertion >}} | {{< var ref-extensor-carpi-radialis-longus.nerve >}} | {{< var ref-extensor-carpi-radialis-longus.action >}} |
-| [Extensor Carpi Radialis Brevis]({{< var ref-extensor-carpi-radialis-brevis.path >}}) | {{< var ref-extensor-carpi-radialis-brevis.origin >}} | {{< var ref-extensor-carpi-radialis-brevis.insertion >}} | {{< var ref-extensor-carpi-radialis-brevis.nerve >}} | {{< var ref-extensor-carpi-radialis-brevis.action >}} |
-| [Extensor Digitorum]({{< var ref-extensor-digitorum.path >}}) | {{< var ref-extensor-digitorum.origin >}} | {{< var ref-extensor-digitorum.insertion >}} | {{< var ref-extensor-digitorum.nerve >}} | {{< var ref-extensor-digitorum.action >}} |
-| [Extensor Digiti Minimi]({{< var ref-extensor-digiti-minimi.path >}}) | {{< var ref-extensor-digiti-minimi.origin >}} | {{< var ref-extensor-digiti-minimi.insertion >}} | {{< var ref-extensor-digiti-minimi.nerve >}} | {{< var ref-extensor-digiti-minimi.action >}} |
-| [Extensor Carpi Ulnaris]({{< var ref-extensor-carpi-ulnaris.path >}}) | {{< var ref-extensor-carpi-ulnaris.origin >}} | {{< var ref-extensor-carpi-ulnaris.insertion >}} | {{< var ref-extensor-carpi-ulnaris.nerve >}} | {{< var ref-extensor-carpi-ulnaris.action >}} |
-: Posterior Forearm Muscles (Superficial layer) {.striped .hover}
+```{python tbl-posterior-forearm-oian}
+#| label: tbl-posterior-forearm-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: Posterior forearm muscles
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Extensor Indicis]({{< var ref-extensor-indicis.path >}}) | {{< var ref-extensor-indicis.origin >}} | {{< var ref-extensor-indicis.insertion >}} | {{< var ref-extensor-indicis.nerve >}} | {{< var ref-extensor-indicis.action >}} |
-| [Supinator]({{< var ref-supinator.path >}}) | {{< var ref-supinator.origin >}} | {{< var ref-supinator.insertion >}} | {{< var ref-supinator.nerve >}} | {{< var ref-supinator.action >}} |
-| [Abductor Pollicis Longus]({{< var ref-abductor-pollicis-longus.path >}}) | {{< var ref-abductor-pollicis-longus.origin >}} | {{< var ref-abductor-pollicis-longus.insertion >}} | {{< var ref-abductor-pollicis-longus.nerve >}} | {{< var ref-abductor-pollicis-longus.action >}} |
-| [Extensor Pollicis Longus]({{< var ref-extensor-pollicis-longus.path >}}) | {{< var ref-extensor-pollicis-longus.origin >}} | {{< var ref-extensor-pollicis-longus.insertion >}} | {{< var ref-extensor-pollicis-longus.nerve >}} | {{< var ref-extensor-pollicis-longus.action >}} |
-| [Extensor Pollicis Brevis]({{< var ref-extensor-pollicis-brevis.path >}}) | {{< var ref-extensor-pollicis-brevis.origin >}} | {{< var ref-extensor-pollicis-brevis.insertion >}} | {{< var ref-extensor-pollicis-brevis.nerve >}} | {{< var ref-extensor-pollicis-brevis.action >}} |
-: Posterior forearm (Deep layer) {.striped .hover}
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['posterior_forearm_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
 
 
 # Hand
 
 ## Thenar Muscles
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Opponens Pollicis]({{< var ref-opponens-pollicis.path >}}) | {{< var ref-opponens-pollicis.origin >}} | {{< var ref-opponens-pollicis.insertion >}} | {{< var ref-opponens-pollicis.nerve >}} | {{< var ref-opponens-pollicis.action >}} |
-| [Abductor Pollicis Brevis]({{< var ref-abductor-pollicis-brevis.path >}}) | {{< var ref-abductor-pollicis-brevis.origin >}} | {{< var ref-abductor-pollicis-brevis.insertion >}} | {{< var ref-abductor-pollicis-brevis.nerve >}} | {{< var ref-abductor-pollicis-brevis.action >}} |
-| [Flexor Pollicis Brevis]({{< var ref-flexor-pollicis-brevis.path >}}) | {{< var ref-flexor-pollicis-brevis.origin >}} | {{< var ref-flexor-pollicis-brevis.insertion >}} | {{< var ref-flexor-pollicis-brevis.nerve >}} | {{< var ref-flexor-pollicis-brevis.action >}} |
-: Thenar Muscles of the Hand {.striped .hover}
+- [Opponens Pollicis]({{< var ref-opponens-pollicis.path >}})
+- [Abductor Pollicis Brevis]({{< var ref-abductor-pollicis-brevis.path >}})
+- [Flexor Pollicis Brevis]({{< var ref-flexor-pollicis-brevis.path >}})
+
+```{python tbl-thenar-muscles-oian}
+#| label: tbl-thenar-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: Thenar muscles
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['thenar_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
 
 ## Adductor Compartment
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Adductor Pollicis]({{< var ref-adductor-pollicis.path >}}) | {{< var ref-adductor-pollicis.origin >}} | {{< var ref-adductor-pollicis.insertion >}} | {{< var ref-adductor-pollicis.nerve >}} | {{< var ref-adductor-pollicis.action >}} |
-: Adductor Compartment of the Hand {.striped .hover}
+- [Adductor Pollicis]({{< var ref-adductor-pollicis.path >}})
+
+```{python tbl-adductor-compartment-hand-oian}
+#| label: tbl-adductor-compartment-hand-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: Adductor Compartment of the Hand
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['hand_adductor_compartment_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
 
 ## Hypothenar
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Abductor Digiti Minimi (hand)]({{< var ref-abductor-digiti-minimi-hand.path >}}) | {{< var ref-abductor-digiti-minimi-hand.origin >}} | {{< var ref-abductor-digiti-minimi-hand.insertion >}} | {{< var ref-abductor-digiti-minimi-hand.nerve >}} | {{< var ref-abductor-digiti-minimi-hand.action >}} |
-| [Flexor Digiti Minimi Brevis (Hand)]({{< var ref-flexor-digiti-minimi-brevis-hand.path >}}) | {{< var ref-flexor-digiti-minimi-brevis-hand.origin >}} | {{< var ref-flexor-digiti-minimi-brevis-hand.insertion >}} | {{< var ref-flexor-digiti-minimi-brevis-hand.nerve >}} | {{< var ref-flexor-digiti-minimi-brevis-hand.action >}} |
-| [Opponens Digiti Minimi]({{< var ref-opponens-digiti-minimi-hand.path >}}) | {{< var ref-opponens-digiti-minimi-hand.origin >}} | {{< var ref-opponens-digiti-minimi-hand.insertion >}} | {{< var ref-opponens-digiti-minimi-hand.nerve >}} | {{< var ref-opponens-digiti-minimi-hand.action >}} |
-: {.striped .hover}
+- [Abductor Digiti Minimi (hand)]({{< var ref-abductor-digiti-minimi-hand.path >}})
+- [Flexor Digiti Minimi Brevis (Hand)]({{< var ref-flexor-digiti-minimi-brevis-hand.path >}})
+- [Opponens Digiti Minimi]({{< var ref-opponens-digiti-minimi-hand.path >}})
+
+```{python tbl-hypothenar-hand-oian}
+#| label: tbl-hypothenar-hand-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: Hypothenar muscles of the Hand
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['hypothenar_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
 
 ## Short Muscles
 
@@ -456,145 +863,245 @@ gt_table
 | [Palmar Interossei (Hand)]({{< var ref-palmar-interossei-hand.path >}}) | {{< var ref-palmar-interossei-hand.origin >}} | {{< var ref-palmar-interossei-hand.insertion >}} | {{< var ref-palmar-interossei-hand.nerve >}} | {{< var ref-palmar-interossei-hand.action >}} |
 : {.striped .hover}
 
+```{python tbl-short-muscles-hand-oian}
+#| label: tbl-short-muscles-hand-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: Short muscles of the Hand
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['hand_short_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
 # Hip & Thigh
 
 ## Iliopsoas
 
-```{r}
-#| echo: false
+```{python tbl-iliopsoas-oian}
+#| label: tbl-iliopsoas-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: Iliopsoas Muscles
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "iliopsoas_muscles"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Iliopsoas Muscles"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['iliopsoas_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
-
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Psoas Major]({{< var ref-psoas-major.path >}}) | {{< var ref-psoas-major.origin >}} | {{< var ref-psoas-major.insertion >}} | {{< var ref-psoas-major.nerve >}} | {{< var ref-psoas-major.action >}} |
-| [Psoas Minor]({{< var ref-psoas-minor.path >}}) | {{< var ref-psoas-minor.origin >}} | {{< var ref-psoas-minor.insertion >}} | {{< var ref-psoas-minor.nerve >}} | {{< var ref-psoas-minor.action >}} |
-| [Iliacus]({{< var ref-iliacus.path >}}) | {{< var ref-iliacus.origin >}} | {{< var ref-iliacus.insertion >}} | {{< var ref-iliacus.nerve >}} | {{< var ref-iliacus.action >}} |
-: {.striped .hover}
 
 
 ## Gluteal
 
-```{r}
-#| echo: false
+```{python tbl-gluteal-oian}
+#| label: tbl-gluteal-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: Gluteal muscles
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "gluteal_muscles"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Gluteal Muscles"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['gluteal_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
 
 
 
 ## Medial Thigh
 
-```{r}
-#| echo: false
+```{python tbl-medial-thigh-oian}
+#| label: tbl-medial-thigh-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: Medial thigh muscles
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "medial_thigh_muscles"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Medial Thigh Muscles"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['medial_thigh_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
 
 
 ## Anterior Thigh
 
-```{r}
-#| echo: false
+```{python tbl-anterior-thigh-oian}
+#| label: tbl-anterior-thigh-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: Anterior thigh muscles
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "anterior_thigh_muscles"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Anterior Thigh Muscles"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['anterior_thigh_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
 
 
 ## Posterior Thigh
 
-```{r}
-#| echo: false
+```{python tbl-posterior-thigh-oian}
+#| label: tbl-posterior-thigh-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: Posterior thigh muscles
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "posterior_thigh_muscles"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Posterior Thigh Muscles"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['posterior_thigh_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
-
 
 
 
@@ -602,177 +1109,241 @@ gt_table
 
 ## Anterior Compartment
 
-```{r}
-#| echo: false
+```{python tbl-anterior-lower-leg-oian}
+#| label: tbl-anterior-lower-leg-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: Anterior lower leg muscles
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "knee_lower_leg_anterior_compartment"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Muscles of the Anterior Compartment of the Lower Leg"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['knee_lower_leg_anterior_compartment']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
 
 ## Lateral Compartment
 
-```{r}
-#| echo: false
+```{python tbl-lateral-lower-leg-oian}
+#| label: tbl-lateral-lower-leg-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: Lateral lower leg muscles
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "knee_lower_leg_lateral_compartment"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Muscles of the Lateral Compartment of the Lower Leg"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['knee_lower_leg_lateral_compartment']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
+
 
 ## Posterior Compartment
 
-
-
-```{r}
-#| echo: false
+```{python tbl-posterior-lower-leg-oian}
+#| label: tbl-posterior-lower-leg-oian
 #| warning: false
 #| message: false
-
-# Load the here package
-library(here)
-
-# Source the functions script
-source(here("scripts/gt_oian.R"))
-
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "knee_lower_leg_posterior_compartment_superficial"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Superficial Muscles of the Posterior Compartment of the Lower Leg"
-
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
-
-gt_table
-```
-
-```{r}
 #| echo: false
-#| warning: false
-#| message: false
+#| tbl-cap: Posterior lower leg muscles
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "knee_lower_leg_posterior_compartment_deep"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Deep Muscles of the Posterior Compartment of the Lower Leg"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['knee_lower_leg_posterior_compartment']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
+
 
 # Foot
 
 ## Dorsum of the Foot
 
-```{r dorsum-foot}
-#| echo: false
+```{python tbl-dorsum-foot-oian}
+#| label: tbl-dorsum-foot-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: Dorsum muscles of the Foot
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "foot_dorsum"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Muscles of the Dorsum Foot"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['foot_dorsum']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
+
 
 ## Superficial Intrinsic Plantar Foot muscles
 
-```{r foot-superficial-intrinsic-plantar}
-#| echo: false
+```{python tbl-foot-superficial-intrinsic-plantar-oian}
+#| label: tbl-foot-superficial-intrinsic-plantar-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: Superficial Plantar Foot Intrinsic muscles
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "foot_plantar_intrinsic_superficial"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Superficial Intrinsic Plantar Foot Muscles"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['foot_plantar_intrinsic_superficial']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
+
 
 ## Deep Intrinsic plantar foot muscles
 
-```{r foot-deep-intrinsic-plantar}
-#| echo: false
+```{python tbl-foot-deep-intrinsic-plantar-oian}
+#| label: tbl-foot-deep-intrinsic-plantar-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: Deep Plantar Foot Intrinsic muscles
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"
-filter_patterns <- "foot_plantar_intrinsic_superficial"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Superficial Intrinsic Plantar Foot Muscles"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['foot_plantar_intrinsic_deep']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
+

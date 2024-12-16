@@ -1,0 +1,9 @@
+---
+title: Nerve Pathologies
+listing:
+    type: table
+    contents:
+        - "Sciatic nerve pathologies/*.qmd"
+        - "*.qmd"
+---
+

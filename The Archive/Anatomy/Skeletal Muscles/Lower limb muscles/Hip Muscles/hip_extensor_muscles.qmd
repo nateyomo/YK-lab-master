@@ -20,27 +20,41 @@ Gluteus maximus Biceps femoris (long head) Semitendinosus Semimembranosus Adduct
 
 # Primary
 
-```{r tbl-primary-hip-extensor}
-#| echo: false
+```{python tbl-primary-hip-extensor-oian}
+#| label: tbl-primary-hip-extensor-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: "Secondary hip adductors"
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"  # or "group_identifier"
-filter_patterns <- "primary_hip_extensor"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Primary hip extensors"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'functional_group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['primary_hip_extensor']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
 
 # Secondary
@@ -48,27 +62,41 @@ gt_table
 The middle and posterior fibers of the [gluteus medius]({{< var ref-gluteus-medius.path >}}) and the *anterior fibers* of the [adductor magnus]({{< var ref-adductor-magnus.path >}}) are secondary hip extensors @neumannKinesiologyMusculoskeletalSystem2017.
 The hip adductors, except for pectineus can perform hip extension when the hip is flexed &ge;70&deg; of hip flexion @neumannKinesiologyMusculoskeletalSystem2017.
 
-```{r tbl-secondary-hip-extensor}
-#| echo: false
+```{python tbl-secondary-hip-extensor-oian}
+#| label: tbl-secondary-hip-extensor-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: "Secondary hip adductors"
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"  # or "group_identifier"
-filter_patterns <- "secondary_hip_extensor"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Secondary hip extensors"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'functional_group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['secondary_hip_extensor']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
 
 

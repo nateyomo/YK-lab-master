@@ -10,22 +10,33 @@ title: Parkinson's Disease (PD)
 - Parkinson’s disease (PD) is the most common movement disorder @montalban-rodriguezGutBrainRole2024
 - 2nd most common neurodegenerative disease, after Alzheimer’s disease @montalban-rodriguezGutBrainRole2024
 
+
+
+
+
+
+
 # Epidemiology
 
+2nd most prevalent progressive neurodegenerative disorder after [Alzheimer's Disease]({{{< var ref-alzheimers-disease.path >}}}) @muleiroalvarezComprehensiveApproachParkinsons2024
 
-## Genetic 
 
-- Pathogenesis of DJ-1/PARK7-Mediated Parkinson's Disease @skouPathogenesisDJ1PARK7Mediated2024
 
-# Gut Brain Axis
-The relationship between the gut brain axis and pathogenesis of Parkinson's Disease was suggested in Braak’s hypothesis @montalban-rodriguezGutBrainRole2024
 
-- This hypothesis builds upon that idea that in PD, &alpha;-synclein aggregates in other areas in the body, not just the substantia nigra (the hallmark site)
-- Braak's Hypothesis places emphasis on the gastrointestinal tract @montalban-rodriguezGutBrainRole2024.
 
-:::{.callout-note title="Animal studies"}
-Researchers have found a bidirectional spread of α-syn from the duodenum to the brainstem and the stomach after injecting α-syn in rats @montalban-rodriguezGutBrainRole2024
+::: {.columns}
+::: {.column}
+### Age
+
+Primary risk factor: Age @muleiroalvarezComprehensiveApproachParkinsons2024.
 :::
+::: {.column}
+### Gender
+
+Parkinson's Disease is more frequent in men than women @muleiroalvarezComprehensiveApproachParkinsons2024.
+:::
+:::
+
 
 # Etiology
 
@@ -35,6 +46,26 @@ Researchers have found a bidirectional spread of α-syn from the duodenum to the
 - Primary PD (idiopathic)
 - Secondary PD
 - Parkinson-Plus
+
+
+## Genetic
+
+
+
+- Heritability of PD @dengGeneticsParkinsonDisease2018: 
+    - 5-10% for the monogenic form (one gene responsible) @dengGeneticsParkinsonDisease2018
+        - Inc risk for developing PD with monogenic mutations @dengGeneticsParkinsonDisease2018
+    - Some studies report 15% of PD patients have a family hx of the disease @dengGeneticsParkinsonDisease2018, compared to 3.5% of the general population @elbazFamilialAggregationParkinsons1999.
+- Using genome wide complex trait analysis, studies have found even higher percent estimates of 22-40% of PD cases having a genetic component →  capturing both highly penetrant monogenic forms/cumulative effect of common variants @morrisPathogenesisParkinsonsDisease2024.
+    - 22-40% of PD cases have genetic factors that contributed to developing their PD
+- Just because one has some genetic predisposition to PD does NOT mean they will get PD
+- There are gene-environment interactions: (with outside influences like pesticides, tobacco use, chemicals etc) which can exacerbate genetic susceptibility to developing the disease @morrisPathogenesisParkinsonsDisease2024.
+
+A Family with an autosomal dominant Parkinson’s disease allowed the discovery of a mutation in the SNCA gene → leading to identification of alpha synuclein protein as a hallmark component of lewy bodies/neurites in PD @morrisPathogenesisParkinsonsDisease2024.
+
+- Pathogenesis of DJ-1/PARK7-Mediated Parkinson's Disease @skouPathogenesisDJ1PARK7Mediated2024
+
+# Sub types
 
 ## Primary Parkinsonism (Idiopathic)
 
@@ -98,7 +129,14 @@ Parkinson-like symptoms
 - Juvenile Huntington’s disease
 
 
+
+
+
+
+
 # Pathophysiology
+
+![Molecular mechanisms contributing to PD @morrisPathogenesisParkinsonsDisease2024](/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/images/morrisPathogenesisParkinsonsDisease2024 fig2 molecular mehcanisms contributing to pd.png)
 
 :::{.callout-note}
 “Physical manifestation of [lewy bodies]({{< var ref-lewy-bodies.path >}}) in the brain, whereas Dementia is the cognitive manifestation of [lewy bodies]({{< var ref-lewy-bodies.path >}}) in the brain” -Adria Thompson
@@ -109,10 +147,10 @@ Primary disturbances in the dopamine systems of basal ganglia (BG) @osullivanPhy
 The pathophysiology of PD is characterized by 2 phases @osullivanPhysicalRehabilitation2019
 
 1. Degeneration of dopaminergic neurons in the SNpc @osullivanPhysicalRehabilitation2019
-1. Addition of Lewy Bodies @osullivanPhysicalRehabilitation2019
+1. Addition of [Lewy Bodies](#alpha-synuclein) @osullivanPhysicalRehabilitation2019
 
 
-## Degeneration
+## Degeneration of Dopaminergic neurons
 
 - Loss of the melanin-containing neurons produces characteristic **results in** Depigmentation in the substantia nigra with a characteristic pallor @osullivanPhysicalRehabilitation2019.
 - Numerous other brain regions of people with PD show structural and functional changes **resulting in** impaired modulation of other neurotransmitters (acetylcholine, serotonin, noradrenaline, glutamate, and GABA) @osullivanPhysicalRehabilitation2019.
@@ -121,28 +159,144 @@ The pathophysiology of PD is characterized by 2 phases @osullivanPhysicalRehabil
 
 
 
-## Lewy Bodies
+## &alpha;-Synuclein & Lewy bodies {#alpha-synuclein}
 
-The second characteristic of PD is the *addition* of [Lewy Bodies]({{< var ref-lewy-bodies.path >}}) in the brain.
+In normal systems, [&alpha;-synuclein]({{< var ref-alpha-synuclein.path >}}) is an amino acid protein found in brain abundantly in the synaptic terminals of neurons to help facilitate vesicle transport/neurotransmitter release @morrisPathogenesisParkinsonsDisease2024.
+
+::: {.columns}
+::: {.column}
+
+When dysfunction occurs, [&alpha;-synuclein]({{< var ref-alpha-synuclein.path >}}) can aggregate into clumps known as [lewy bodies]({{< var ref-lewy-bodies.path >}})@morrisPathogenesisParkinsonsDisease2024.
+
+- Detrimental to neurons- they are space occupying lesions that could alter cellular function
+- Braak + colleagues used alpha syn staining to detect Lewy bodies post mortem 
+- Found PD can start in gut or olfactory system then spread to cortical/subcortical brain regions
+
+:::
+::: {.column}
+![Pathophysiology of &alpha;-Synuclein in Parkinson's Disease @morrisPathogenesisParkinsonsDisease2024](/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/images/morrisPathogenesisParkinsonsDisease2024 fig1 alpha-synuclein pathophys.png)
+:::
+:::
+
+::: {.callout-note}
+While presence of Lewy bodies is a hallmark of Parkinson's disease, they are not universally found in all patients with the condition. This highlights the heterogeneity of PD and the complexity of its underlying pathophysiology @morrisPathogenesisParkinsonsDisease2024.
+
+
+:::
+
+
+Some PD cases start in brainstem or limbic system or other areas
+Hypothesis of spreading alpha syn has been validated in multiple studies:
+Injection of alpha syn fibrils into brain leading to aggregation found in post mortem PD (performed in mice, primates) 
+Found A-Syn can spread from periphery to CNS or from brain to other organs
 
 Changes are seen in the pedunculopontine nucleus (PPN) and nucleus basalis of Meynert (nbM) that release acetylcholine (ACh)
 Degeneration & Alpha Synuclein deposition (early in PD) at Locus coeruleus that releases noradrenaline
 
-## Basal Ganglia Loop Dysfunction
+## Gut-Brain Axis {#gut-brain-axis}
 
-Direct Loop
+The relationship between the gut brain axis and pathogenesis of Parkinson's Disease was suggested in Braak’s hypothesis @montalban-rodriguezGutBrainRole2024
+
+- This hypothesis builds upon that idea that in PD, &alpha;-synclein aggregates in other areas in the body, not just the substantia nigra (the hallmark site)
+- Braak's Hypothesis places emphasis on the gastrointestinal tract @montalban-rodriguezGutBrainRole2024.
+
+:::{.callout-note title="Animal studies"}
+Researchers have found a bidirectional spread of &alpha;-syn from the duodenum to the brainstem and the stomach after injecting α-syn in rats @montalban-rodriguezGutBrainRole2024
+:::
+
+The fact that 20% of patients experience *constipation* prior to motor symptoms could be evidence that the gut-brain axis plays a role in the mechanism of Parkinson's Disease @breenGutBrainAxis2019.
+
+## Mitochondrial pathomechanisms {#mitochondria-pathomechanism}
+
+Mitochondria, **the powerhouse of the cell**, play a key role in cellular energy production/cell signalling @morrisPathogenesisParkinsonsDisease2024.
+Mitochondrial dysfunction is proposed to be an early event in pathogenesis of PD @morrisPathogenesisParkinsonsDisease2024.
+Alterations of mitochondrial structure/dynamics linked to increased production of reactive oxidative species (ROS), abnormal intracellular calcium levels, and reduced ATP production @morrisPathogenesisParkinsonsDisease2024.
+
+
+The results of the following studies supported this pathological mechanism:
+
+- Inhibition of mitochondrial complex 1 induces PD like symptoms in animal models @morrisPathogenesisParkinsonsDisease2024
+- Mitochondrial dysfunction can result in production of ROS → leading to oxidative stress/neuronal damage @morrisPathogenesisParkinsonsDisease2024
+- Mitochondrial DNA mutations have been implicated in risk of developing PD @morrisPathogenesisParkinsonsDisease2024
+- Alpha Syn aggregation can impair mitochondrial function @morrisPathogenesisParkinsonsDisease2024
+- Decreased mitochondrial complex 1 activity has been reported in PD @morrisPathogenesisParkinsonsDisease2024.
+
+## Lysosomes {#lysosome}
+
+- PD ⇒ could involve a decline in clearance capacity of autophagy-lysosomal systems or ubiquitin-proteasome systems @morrisPathogenesisParkinsonsDisease2024.
+- Lysosomes are involved in autophagy- they clean out abnormal/accumulated proteins @morrisPathogenesisParkinsonsDisease2024.
+- &alpha;-syn degradation is lysosomal dependent @morrisPathogenesisParkinsonsDisease2024.
+- If lysosomes are impaired, this would affect A-syn turnover, causing an aggregation of &alpha-syn into lewy bodies @morrisPathogenesisParkinsonsDisease2024.
+- Mutations in lysosomal pathway genes have been shown to result in increased a syn accumulation which could lead/progress PD @morrisPathogenesisParkinsonsDisease2024.
+
+::: {.callout-caution}
+This lysosome pathophysiology is not fully straightforward and the mechanisms are not fully understood @morrisPathogenesisParkinsonsDisease2024.
+:::
+
+## Auto-immune & Inflammatory Mechanisms
+
+In post-mortem studies, microglial activation/ elevated inflammatory cytokines found in post-mortem brains of those with PD @morrisPathogenesisParkinsonsDisease2024.
+
+- Found in blood low grade elevation of inflammatory cytokines → linked to rapid disease progression @morrisPathogenesisParkinsonsDisease2024.
+- Immune activation has different roles that could give benefit → particularly in early stages of neurodegeneration with promoting clearance of abnormal protein aggregates @morrisPathogenesisParkinsonsDisease2024.
+- Later on, dysfunction of immune mediated clearance mechanisms could cause more a-syn aggregate accumulation although if this is protective to balance shifts is yet to be explored @morrisPathogenesisParkinsonsDisease2024.
+    - Is immune activation is a primary determinant of disease progression or a secondary phenomenon? This is a debate @morrisPathogenesisParkinsonsDisease2024.
+        - Lots of evidence to support that it is actually a Primary determinant @morrisPathogenesisParkinsonsDisease2024.
+        - Monogenic causes of PD are linked to the immune system (LRRK2 gene) @morrisPathogenesisParkinsonsDisease2024.
+        - Use of immunosuppressants/corticosteroids are associated with reduced PD risk  @morrisPathogenesisParkinsonsDisease2024.
+        - Changes in gut microbiome can cause the pro inflammatory species found in PD @morrisPathogenesisParkinsonsDisease2024.
+            - Gut inflammation can cause 3 potential mechanisms or a combo:  @morrisPathogenesisParkinsonsDisease2024.
+            - → gut leakage of inflammatory mediators to blood/BBB (thru blood brain barrier), @morrisPathogenesisParkinsonsDisease2024.
+            - →A syn aggregation promoted in enteric neurons travels via vagus nerve to brain @morrisPathogenesisParkinsonsDisease2024.
+            - → A syn T cell response in gut w trafficking of these T cells to sites of alpha syn pathology in brain @morrisPathogenesisParkinsonsDisease2024.
+
+
+## Insulin Insensitivity
+
+
+Insulin resistance + impaired glucose metabolism are associated with the development and progression of PD @hongInsulinResistancePromotes2020.
+Insulin resistances promotes PD through increased &alpha;-syn expression, mitochondrial dysfunction, and elevated ROS production @hongInsulinResistancePromotes2020.
+
+In an SR by Ruiz-Pozo  Systematic Review
+Insulin resistance was associated with alpha syn aggregation, dopaminergic neuronal loss, autophagy and neuroinflammation
+Blood tests determining insulin sensitivity/metabolic health can be useful in determining risk of developing PD
+Once one has PD: 
+Enhancing insulin signaling pathways can have neuroprotective effects/improve motor and cognitive fxns in PD patients (Sharma, 2021) (Wang, 2020)
+Enhance insulin signaling via: Balanced diet, exercise, antidiabetic agents, insulin therapies
+Exercise - increases glucose uptake in muscles thu insulin independence paths/improves mitochondrial fxn
+Diet - 
+Antidiabetic agents like exenatide, which improve insulin sensitivity, have shown promise in clinical trials for PD, leading to significant improvements in motor and non-motor symptoms
+
+
+# Basal Ganglia Loop Dysfunction
+
+::: {.columns}
+::: {.column}
+
+### Direct Loop
 
 - Consists of signals transmitted from the cortex to putamen to globus pallidus, to ventrolateral (VL) nucleus of the thalamus, and back to cortex (supplementary motor area [SMA]).
 - This VL-SMA connection is excitatory and facilitates discharge of cells in the SMA @osullivanPhysicalRehabilitation2019. 
 - The BG thus serves to activate the cortex via a positive-feedback loop and assists in the initiation of voluntary movement @osullivanPhysicalRehabilitation2019
 - Inhibition of the thalamus by the BG is thought to underlie the hypokinesia seen in PD @osullivanPhysicalRehabilitation2019
 
-Indirect Loop @osullivanPhysicalRehabilitation2019
+:::
+::: {.column}
+
+### Indirect Loop
 
 - STn, Gpi, and SNpr → Superior colliculus and midbrain tegmentum @osullivanPhysicalRehabilitation2019.
 - Serves to decrease thalamocortical activation @osullivanPhysicalRehabilitation2019. 
 - BG projection to the superior colliculus assists in regulation of saccadic eye movements @osullivanPhysicalRehabilitation2019.
 - The BG projection to the reticular formation assists in the regulation of trunk and limb musculature (via extrapyramidal pathways), sleep and wakefulness, and arousal. Other circuits in the BG are involved with memory and cognitive functions @osullivanPhysicalRehabilitation2019.
+
+:::
+:::
+
+
+
+
+
 
 
 # Clinical Presentation
@@ -160,8 +314,8 @@ Symptons can be divided into "motor" and "non-motor" symptoms.
 
 ## Hallmark Motor Symptoms
 
-- Bradykinesia @montalban-rodriguezGutBrainRole2024
-- Gait disturbances @montalban-rodriguezGutBrainRole2024
+- [Bradykinesia]({{< var ref-bradykinesia.path >}}) @montalban-rodriguezGutBrainRole2024
+- [Gait disturbances](#gait-symptoms) @montalban-rodriguezGutBrainRole2024
 - Tremors @montalban-rodriguezGutBrainRole2024
 - Rigidity @montalban-rodriguezGutBrainRole2024
 - Speech deficits @montalban-rodriguezGutBrainRole2024
@@ -177,15 +331,92 @@ Symptons can be divided into "motor" and "non-motor" symptoms.
 :::
 
 
-- Freezing of gait (FOG)
 
-## Gait Symptoms
+
+## Gait Symptoms {#gait-symptoms}
 
 - [Parkinsonian Gait]({{< var ref-gait.symptom.parkinsonian >}})
-
+- Freezing of gait (FOG)
 
 
 # Diagnosis
+
+Parkinson's Disease (PD) is defined by the Movement Disorder Society Clinical Criteria: as Bradykinesia with rest tremor, Rigidity, or both @postumaMDSClinicalDiagnostic2015.
+
+::: {.callout-note}
+
+These features must be *clearly* demonstratable, and cannot be due to confounding factors @postumaMDSClinicalDiagnostic2015.
+
+:::
+
+Diagnostic criteria from MDS-PD can place patients into 2 categories:
+
+1. Diagnosis of clinically established PD
+1. Diagnosis of clinically probable PD
+
+::: {.columns}
+::: {.column}
+### Clinically established PD
+
+1. Absence of absolute exclusion criteria
+2. &ge;2 [supportive criteria](#supportive-criteria)
+3. No [red flags](#red-flags)
+:::
+::: {.column}
+### Clinically probable PD
+
+1. Absence of [absolute exclusion criteria](#absolute-exclusion-criteria)
+2. Presence of [red flags](#red-flags) **counterbalanced** by [supportive criteria](#supportive-criteria)
+<details>
+    <summary>See more</summary>
+    - 1 red flag is present there must also be at &ge;1 supportive criterion @postumaMDSClinicalDiagnostic2015.
+    - If there are 2 red flags then &ge;2 supportive criteria are needed @postumaMDSClinicalDiagnostic2015.
+    - &gt;2 red flags then clinically probable PD **cannot** be diagnosed @postumaMDSClinicalDiagnostic2015.
+
+</details>
+
+:::
+:::
+
+## Supportive Criteria
+If a patient has the "supportive criteria" (need 1 for probable and at least 2 for clinical PD):
+
+- Dramatic beneficial response to dopaminergic therapy (improvement in motor sx) @postumaMDSClinicalDiagnostic2015.
+- Levodopa induced dyskinesia @postumaMDSClinicalDiagnostic2015.
+- [Rest tremor]({{< var ref-resting-tremor.path >}}) of limb (usually 1 limb) @postumaMDSClinicalDiagnostic2015.
+- Loss of olfaction (loss of smell) @postumaMDSClinicalDiagnostic2015.
+- Cardiac sympathetic denervation (loss of postganglionic sympathetic nerve fibers, hallmark of PD) @postumaMDSClinicalDiagnostic2015.
+- Autonomic dysfunction can lead to OH/Arrhythmias @postumaMDSClinicalDiagnostic2015.
+- No [exclusion criteria](#absolute-exclusion-criteria) @postumaMDSClinicalDiagnostic2015.
+- No [red flags](#red-flags) @postumaMDSClinicalDiagnostic2015.
+
+## Absolute exclusion criteria {#absolute-exclusion-criteria}
+
+1. Cerebellar abnormalities: The presence of cerebellar signs such as ataxia, which are not consistent with PD @postumaMDSClinicalDiagnostic2015.
+2. Downward vertical supranuclear gaze palsy: This includes significant slowing of vertical saccades, which is more indicative of progressive supranuclear palsy (PSP) @postumaMDSClinicalDiagnostic2015.
+3. Parkinsonian features restricted to the lower limbs for more than three years: This presentation is atypical for PD @postumaMDSClinicalDiagnostic2015.
+4. Treatment with a dopamine receptor blocker or dopamine-depleting agent: If parkinsonism persists despite discontinuation of the offending drug, it suggests drug-induced parkinsonism rather than PD @postumaMDSClinicalDiagnostic2015.
+5. Absence of response to high-dose levodopa: If there is no significant improvement in motor symptoms with adequate doses of levodopa, it suggests an alternative diagnosis @postumaMDSClinicalDiagnostic2015.
+6. Cortical sensory loss, ideomotor apraxia, or progressive aphasia: These features are more consistent with corticobasal degeneration (CBD) @postumaMDSClinicalDiagnostic2015.
+7. Normal functional neuroimaging of the presynaptic dopaminergic system: This includes normal findings on DaTSCAN or similar imaging, which would be inconsistent with PD @postumaMDSClinicalDiagnostic2015.
+8. Documentation of an alternative condition known to cause parkinsonism: This includes conditions such as multiple system atrophy (MSA), PSP, or CBD, confirmed by clinical or imaging findings @postumaMDSClinicalDiagnostic2015.
+
+
+## Red flags {#red-flags}
+
+"Red flags" as defined by the clinical criteria refer to signs or symptoms that, if observed, If you see these, need to differentiate from atypical PD like MSA, PSP, CBD
+
+1. Rapid progression of gait impairment requiring wheelchair use within 5 years of onset @postumaMDSClinicalDiagnostic2015.
+2. Absence of progression of motor symptoms or signs over 5 years unless stability is related to treatment @postumaMDSClinicalDiagnostic2015.
+3. Early bulbar dysfunction, such as severe dysphonia or dysarthria within the first 5 years @postumaMDSClinicalDiagnostic2015.
+4. Inspiratory respiratory dysfunction @postumaMDSClinicalDiagnostic2015.
+5. Severe autonomic failure within the first 5 years, including orthostatic hypotension or severe urinary retention/incontinence @postumaMDSClinicalDiagnostic2015.
+6. Recurrent (>1/year) falls within 3 years of onset @postumaMDSClinicalDiagnostic2015.
+7. Disproportionate anterocollis or contractures of hand or feet within the first 10 years @postumaMDSClinicalDiagnostic2015.
+8. Absence of any response to high-dose levodopa despite at least moderate severity of disease @postumaMDSClinicalDiagnostic2015.
+9. Unexplained pyramidal tract signs @postumaMDSClinicalDiagnostic2015.
+10. Bilateral symmetric parkinsonism from the onset @postumaMDSClinicalDiagnostic2015.
+
 
 ## Subgroups
 
@@ -193,7 +424,6 @@ The subgroups of PD are not pathophysiologically different, but are used to desc
 
 - Tremulous (Tremor predominant)
 - Akinetic Rigidity or Postural Instability and Gait Disturbances
-
 
 # Assessment
 
@@ -244,6 +474,8 @@ The subgroups of PD are not pathophysiologically different, but are used to desc
 
 
 # Interventions
+
+No current treatments can stop or reverse the neurodegenerative process @muleiroalvarezComprehensiveApproachParkinsons2024.
 
 :::{layout-ncol="3"}
 

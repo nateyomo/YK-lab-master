@@ -10,10 +10,41 @@ title: Flexor Digitorum Brevis (FDB)
 
 # Overview
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Flexor Digitorum Brevis]({{< var ref-flexor-digitorum-brevis.path >}}) | {{< var ref-flexor-digitorum-brevis.origin >}} | {{< var ref-flexor-digitorum-brevis.insertion >}} | {{< var ref-flexor-digitorum-brevis.nerve >}} | {{< var ref-flexor-digitorum-brevis.action >}} |
-: {.striped .hover}
+```{python tbl-oian}
+#| label: tbl-oian
+#| warning: false
+#| message: false
+#| echo: false
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'muscle_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['flexor_digitorum_brevis']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
 
 # Origin {#origin}
 

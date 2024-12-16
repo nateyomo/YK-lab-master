@@ -9,8 +9,6 @@ title: Index of Symptoms
     - Regional Pain
 
 
-
-
 # Eye {#eye}
 
 # Pain
@@ -25,3 +23,6 @@ title: Index of Symptoms
 
 - Orthostatic Hypotension
     - Orthostatic intolerance
+
+
+# Motor symptoms

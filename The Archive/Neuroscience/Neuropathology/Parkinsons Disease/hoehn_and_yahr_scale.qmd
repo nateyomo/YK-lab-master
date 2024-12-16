@@ -7,17 +7,57 @@ title: Hoehn and Yahr Scale
 
 # Scoring
 
-| Stage | Hoehn and Yahr Scale | Modified Hoehn and Yahr Scale |
-|-|---|---|
-|1 | Unilateral involvement only usually with minimal or no functional disability | Unilateral involvement only |
-|1.5|-|Unilateral and axial involvement|
-|2|Bilateral or midline involvement without impairment of balance|Bilateral involvement without impairment of balance |
-|2.5|-|Mild bilateral disease with recovery on pull test|
-|3|Bilateral disease: mild to moderate disability with impaired postural reflexes; physically independent| Mild to moderate bilateral disease; some postural instability; physically independent|
-|4| Severely disabling disease; still able to walk or stand unassisted | Severe disability; still able to walk or stand unassisted |
-|5 | Confinement to bed or wheelchair unless aided | Wheelchair bound or bedridden unless aided|
+::: {#tbl-standard-vs-modified}
 
-: {.striped .hover}
+<table class="basic-table">
+  <thead>
+    <tr>
+      <th>Stage</th>
+      <th>Hoehn and Yahr Scale</th>
+      <th>Modified Hoehn and Yahr Scale</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Unilateral involvement only usually with minimal or no functional disability</td>
+      <td>Unilateral involvement only</td>
+    </tr>
+    <tr>
+      <td>1.5</td>
+      <td>-</td>
+      <td>Unilateral and axial involvement</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Bilateral or midline involvement without impairment of balance</td>
+      <td>Bilateral involvement without impairment of balance</td>
+    </tr>
+    <tr>
+      <td>2.5</td>
+      <td>-</td>
+      <td>Mild bilateral disease with recovery on pull test</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Bilateral disease: mild to moderate disability with impaired postural reflexes; physically independent</td>
+      <td>Mild to moderate bilateral disease; some postural instability; physically independent</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Severely disabling disease; still able to walk or stand unassisted</td>
+      <td>Severe disability; still able to walk or stand unassisted</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Confinement to bed or wheelchair unless aided</td>
+      <td>Wheelchair bound or bedridden unless aided</td>
+    </tr>
+  </tbody>
+</table>
+
+
+:::
 
 # Interpretation
 

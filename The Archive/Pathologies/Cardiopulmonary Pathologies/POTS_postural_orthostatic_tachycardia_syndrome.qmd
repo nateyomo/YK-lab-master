@@ -96,7 +96,7 @@ Chronic pain pathways also involved
 
 @marPosturalOrthostaticTachycardia2020
 
-## Neuropathic POTS
+# Neuropathic POTS
 
 Neuropathic POTs occurs when lower extremity sympathetic *denervation* results in reduced venoconstriction and therefore venous pooling [@bryarlyPosturalOrthostaticTachycardia2019; @zhaoPosturalOrthostaticTachycardia2024].
 This is usually caused by an autonomic neuropathy of lower limbs [@bryarlyPosturalOrthostaticTachycardia2019; @zhaoPosturalOrthostaticTachycardia2024].
@@ -110,7 +110,47 @@ This subtype was proposed due to studies that found >50% of the POTS cohort demo
 In addition, POTS patients have been observed to have decreased norepinephrine "spillover" in their lower extremities despite normal *systemic* norepinephrine spillover [@zhaoPosturalOrthostaticTachycardia2024].
 The researchers believed that this difference was indicative of injuried terminal lower extremity nerves resulting in norepinephrine uptake dysfunction [@zhaoPosturalOrthostaticTachycardia2024].
 
+## Treatment Focus
 
+- Decrease blood pooling @zhaoPosturalOrthostaticTachycardia2024
+- Move blood back to heart + brain @zhaoPosturalOrthostaticTachycardia2024
+
+## Pharmacological intervention
+
+- Midodrine @zhaoPosturalOrthostaticTachycardia2024
+    - Alpha1-adrenergic agonist
+    - Constricts peripheral vessels, increasing venous return
+- Pyridostigmine @zhaoPosturalOrthostaticTachycardia2024
+
+
+# Hyperadrenergic POTS 
+
+- In short: High Norepinephrine levels (Stress! Sympathetic system is overactivated!)
+- Elevated standing plasma norepi levels >=600pg/mL + symptoms of increased sympathetic tone → causes sympathetic sx: palpitations, tremors, HTN, anxiety, tachycardia. 
+
+:::{.callout-note}
+
+Common comorbidity with this type of POTS is MCAS (Wang et al, 2021) 
+Identifying and treating MCAS can help decrease POTS symptoms
+What is norepi?
+NT that regulates fight or flight – elevated BP /HR, stimulates wakefulness, reduces digestive activity
+EXCITATORY NT
+
+:::
+
+## Why does this happen?
+
+- NET (norepi transporter) deficiency or loss of function gene mutation → decreased NET protein content(Lambert et al, 2008)
+- Baroreflex failure or tumor in adrenal glands called pheochromocytoma (Benarroch 2012)
+- NET block is frequently seen in pharm inhibition by meds like antidepressants. These are often useful in treating cognitive/depression effects of POTS, so one must insure pharmacy is not the reason for the POTS →high catecholamine levels.
+
+:::{.callout-note}
+
+Tx typically focuses on decreasing activity of sympathetic NS
+Meds include clonidine (CNS sympatholytic med that dec CNS tone)
+Beta blocker – prevents sympathetic activity PERIPHERALLY by blocking B adrenergic receptors bound by norepi
+
+:::
 
 
 

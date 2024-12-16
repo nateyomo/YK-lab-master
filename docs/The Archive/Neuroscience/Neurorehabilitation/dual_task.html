@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.55">
+<meta name="generator" content="quarto-1.6.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -22,7 +22,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -38,12 +57,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-43df0d6f53b733b42d37fa7808e17715.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../../site_libs/bootstrap/bootstrap-2cd373bbd777488a2901da25ac479b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark-30247d3b2cd0522fbeca720c4281c240.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -101,9 +120,14 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="../../../styles.css">
+<meta name="twitter:title" content="Dual Tasking">
+<meta name="twitter:description" content="">
+<meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
+<meta name="twitter:site" content="@YomoKerstLab">
+<meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-fixed">
+<body class="floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -111,7 +135,7 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../../images/square 2 lines mid.svg" alt="" class="navbar-logo">
+    <img src="../../../branding/Yomokerst/yomokerst heavy condensed.svg" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -125,15 +149,15 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../The Archive/archive_index.html"> 
-<span class="menu-text">Archive</span></a>
+    <a class="nav-link" href="../../../The Archive/research_and_development_index.html"> 
+<span class="menu-text">R&amp;D</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../../guide.html"> 
 <span class="menu-text">Guide</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../journal club index.html"> 
+    <a class="nav-link" href="../../../journal_club_index.html"> 
 <span class="menu-text">Journal Club</span></a>
   </li>  
   <li class="nav-item">
@@ -155,13 +179,14 @@ window.Quarto = {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-<!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#dual-task-effect-dte" id="toc-dual-task-effect-dte" class="nav-link active" data-scroll-target="#dual-task-effect-dte">Dual Task Effect (DTE)</a></li>
+  <li><a href="#what-is-dual-task-training" id="toc-what-is-dual-task-training" class="nav-link active" data-scroll-target="#what-is-dual-task-training">What is Dual-task training?</a></li>
+  <li><a href="#dual-task-cost" id="toc-dual-task-cost" class="nav-link" data-scroll-target="#dual-task-cost">Dual-task cost</a></li>
+  <li><a href="#dual-task-effect-dte" id="toc-dual-task-effect-dte" class="nav-link" data-scroll-target="#dual-task-effect-dte">Dual Task Effect (DTE)</a></li>
   <li><a href="#indications" id="toc-indications" class="nav-link" data-scroll-target="#indications">Indications</a></li>
   <li><a href="#dual-task-tm" id="toc-dual-task-tm" class="nav-link" data-scroll-target="#dual-task-tm">Dual task T&amp;M</a></li>
   <li><a href="#why-dual-tasking-is-important" id="toc-why-dual-tasking-is-important" class="nav-link" data-scroll-target="#why-dual-tasking-is-important">Why Dual tasking is important</a></li>
@@ -174,8 +199,20 @@ window.Quarto = {
   <li><a href="#auditory" id="toc-auditory" class="nav-link" data-scroll-target="#auditory">Auditory</a></li>
   </ul></li>
   <li><a href="#taxonomy" id="toc-taxonomy" class="nav-link" data-scroll-target="#taxonomy">Taxonomy</a></li>
+  <li><a href="#sport-performance" id="toc-sport-performance" class="nav-link" data-scroll-target="#sport-performance">Sport performance</a></li>
+  <li><a href="#working-memory-capacity-in-elite-athletes" id="toc-working-memory-capacity-in-elite-athletes" class="nav-link" data-scroll-target="#working-memory-capacity-in-elite-athletes">Working memory capacity in elite athletes</a></li>
+  <li><a href="#choking" id="toc-choking" class="nav-link" data-scroll-target="#choking">Choking</a></li>
+  <li><a href="#injury-prevention" id="toc-injury-prevention" class="nav-link" data-scroll-target="#injury-prevention">Injury prevention</a></li>
+  <li><a href="#transfer-to-sport-performance" id="toc-transfer-to-sport-performance" class="nav-link" data-scroll-target="#transfer-to-sport-performance">Transfer to sport performance</a></li>
+  <li><a href="#importance-in-daily-life" id="toc-importance-in-daily-life" class="nav-link" data-scroll-target="#importance-in-daily-life">Importance in daily life</a></li>
+  <li><a href="#importance-in-rehabilitation" id="toc-importance-in-rehabilitation" class="nav-link" data-scroll-target="#importance-in-rehabilitation">Importance in Rehabilitation</a></li>
+  <li><a href="#resources-for-exercise-ideas" id="toc-resources-for-exercise-ideas" class="nav-link" data-scroll-target="#resources-for-exercise-ideas">Resources for exercise ideas</a></li>
   </ul>
 </nav>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -191,7 +228,7 @@ window.Quarto = {
   <div class="quarto-title-meta-heading">Affiliations</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author">Nathaniel Yomogida, B.S., SPT </p>
+    <p class="author"><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#ngy">Nathaniel Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -202,7 +239,7 @@ window.Quarto = {
           </p>
       </div>
     <div class="quarto-title-meta-contents">
-    <p class="author">Chloë Kerstein, B.S., SPT </p>
+    <p class="author"><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -226,7 +263,28 @@ window.Quarto = {
 </header>
 
 
+<p><em>Progressive overload</em> is a basic concept in physical training. Generally, we increase our training load by increasing the amount of weight in order to get stronger, number of repetitions in order to build endurance, speed to build power, or complexity to build stability and coordination. These are all important in athletic performance, but focusing your training <em>solely</em> around these purely physical parameters may leave you unprepared for the mental load of game-time situations.</p>
+<p>During training, you can focus almost all of your attention on the task and maintaining proper form, but during a game or daily life, you will be experiencing distractions that will pull your attention away from your form.</p>
+<p>This is where dual-task training is important.</p>
+<section id="what-is-dual-task-training" class="level1">
+<h1>What is Dual-task training?</h1>
 <p>Dual tasking is defined as concurrent performance of 2 tasks that can be performed independently and have distinct and separate goals. Each task can be measured independently as a single task.</p>
+<p>A dual-task refers to the ability to perform two tasks at the same time. Dual-task training is based on Dual-process theory<span class="citation" data-cites="evansDualProcessTheoriesHigher2013"><sup><a href="#ref-evansDualProcessTheoriesHigher2013" role="doc-biblioref">1</a></sup></span>. Dual-process theory proposes that when performing multiple tasks, the human peformance is determined by two types of processing systems: <a href="?var:ref-dual-process-theory.automatic-processing">Automatic processing</a> and <a href="?var:ref-dual-process-theory.controlled-processing">controlled processing</a><span class="citation" data-cites="moreiraAcuteChronicEffects2021 evansDualProcessTheoriesHigher2013"><sup><a href="#ref-evansDualProcessTheoriesHigher2013" role="doc-biblioref">1</a>,<a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. Automatic processing refers to the intuitive and fast forms of processing that use low amounts of attentional resources<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. <em>Automatic processing</em> is reactive to triggers for example the question “What is your name”<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. Opposite of automatic processing, <em>controlled processing</em> is <em>slow</em> and requires conscious interpretation of requisite information and processing as well as the <em>attentional control</em> to complete the task<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>.</p>
+<p>Dual-tasks involve the simultaneous performance of both <em>automatic</em> and <em>controlled</em> processing<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. Dual-tasks are relevant in everyday life when walking and talking. Walking is primarily an automatic task while talking requires controlled processing. In sports, a soccer player could receive the ball, realize his teammate is open, assess the positions of opponents, and pass the ball<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. Dribbling and passing the ball are automatic processes for experienced soccer players<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. Assessing the field for open teammates, opponents, and considering the team’s strategy would require controlled processing<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>.</p>
+<p>Dual-task training has 3 forms:</p>
+<ol type="1">
+<li>Cognitive-Motor Dual task</li>
+<li>Motor-motor dual task</li>
+<li>Cognitive-Cognitive Dual task</li>
+</ol>
+</section>
+<section id="dual-task-cost" class="level1">
+<h1>Dual-task cost</h1>
+<p>Dual-task cost refers to the decrease in performance of either task when performing both tasks simultaneously<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. Acutely, dual-task cost should result in significant detriments in performance<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. When dual-tasks are performed chronically, adaptations will occur and the dual-task cost will be minimized<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>.</p>
+<p><span class="math display">\[
+\textrm{Dual-Task Cost Equation} =  \frac{(\textrm{DT} − \textrm{ST})}{\textrm{ST}} \times 100
+\]</span></p>
+</section>
 <section id="dual-task-effect-dte" class="level1">
 <h1>Dual Task Effect (DTE)</h1>
 <ul>
@@ -245,9 +303,6 @@ window.Quarto = {
 <li>Motor cognitive tasks</li>
 <li>Motor motor tasks</li>
 </ul>
-<p><span class="math display">\[
-\textrm{Dual Task Effect (5)} = \frac{}{}
-\]</span></p>
 </section>
 <section id="indications" class="level1">
 <h1>Indications</h1>
@@ -367,11 +422,253 @@ window.Quarto = {
 </div>
 </div>
 </div>
+</section>
+<section id="sport-performance" class="level1">
+<h1>Sport performance</h1>
+<p>Sports are one of the main examples of activities that innately have dual-tasks due to the complex and dynamic environments. To have success in a sport, an athlete must simultaneously consider themself, the ball, teammates, opponents, rules, and situational requirements such as attacking or defending<span class="citation" data-cites="fleddermannTappingFullPotential2018"><sup><a href="#ref-fleddermannTappingFullPotential2018" role="doc-biblioref">3</a></sup></span>. When competing in a sport, there could be even more variables such as referees, coaches, spectators, and competitive pressure<span class="citation" data-cites="fleddermannTappingFullPotential2018"><sup><a href="#ref-fleddermannTappingFullPotential2018" role="doc-biblioref">3</a></sup></span>.</p>
+<p>Attentional overload in sports can come in many forms. Attentional overload causing cognitive failure during a motor-cognitive task could take the form of a player focusing on their movement and not on their surroundings. As a result, this athlete would have poor situational awareness and would move well, but make poor decisions.</p>
+<p>Attentional overload causing motor failure during a cognitive-motor task would be exemplified by a player focusing on their surroundings and the other players, but losing focus on their motor pattern, resulting in a mistake and even injury.</p>
+</section>
+<section id="working-memory-capacity-in-elite-athletes" class="level1">
+<h1>Working memory capacity in elite athletes</h1>
+<p>The ability to dual-task is impacted by working memory capacity (WMC), the ability to inhibit irrelevant information<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. An individual with low working memory capacity refers to individuals who struggle to ignore irrelevant factors<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. Whereas someone with high working memory capacity refers to individuals who have strong focus and attention and can filter out what information is important for future decisions<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>.</p>
+<p>Improving one’s working memory capacity can result in significant performance benefits. When elite, intermediate, and non-athlete basketball players were analyzed on a multiple object tracking (MOT) test in order to measure attentional skills that mimic the cognitive load of tracking the ball, teammates, and opponents simultaneously on the court<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>. MOT is a cognitive task where participants attempt to track 2, 3, and 4 objects at once<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>. Each successive increase in number of objects increases the attentional load<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>. There was no significant difference between the groups when tracking 2 objects, indicating that attentional load was not high enough to affect performance<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>. When the load was increased to 3 and 4 objects, the elite basketball players performed significantly better than the intermediate and non-athlete players<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>.</p>
+</section>
+<section id="choking" class="level1">
+<h1>Choking</h1>
+<p>Choking is a common problem in competitive sports and refers to performance breakdowns due to perceived pressure of competition<span class="citation" data-cites="ducrocqAdaptiveWorkingMemory2017"><sup><a href="#ref-ducrocqAdaptiveWorkingMemory2017" role="doc-biblioref">5</a></sup></span>. This can occur at any level, from amateur to professional<span class="citation" data-cites="ducrocqAdaptiveWorkingMemory2017"><sup><a href="#ref-ducrocqAdaptiveWorkingMemory2017" role="doc-biblioref">5</a></sup></span></p>
+<p>When viewed through the context of dual-process theory, choking appears to be a form of dual-task interference. As the perceived pressure of competition increases, this adds an extra load to the attentional resources<span class="citation" data-cites="ducrocqAdaptiveWorkingMemory2017"><sup><a href="#ref-ducrocqAdaptiveWorkingMemory2017" role="doc-biblioref">5</a></sup></span>. This process is also influenced by poor inhibition of perceived pressure<span class="citation" data-cites="ducrocqAdaptiveWorkingMemory2017"><sup><a href="#ref-ducrocqAdaptiveWorkingMemory2017" role="doc-biblioref">5</a></sup></span>. If the athlete cannot mentally adapt and mitigate this cognitive load, this will force the attention to be taken away from areas focused on sport performance resulting in poor decision making and/or poor motor patterning. Performance breakdown due to competitive pressures is most noticeable in closed tasks such as basketball free throws or golf putting where there <em>should</em> be very few factors taking up attentional resources. Many athletes blame themselves and assume they need to “push” through the barrier or simply continue their training program but at higher intensity to overcome choking.</p>
+<p>Based on dual-process theory, focusing on single-task more intensely will not provide a meaningful benefit to one’s working memory capacity and therefore choking will persist. For these athletes, dual-task training can help to improve working memory capacity and reduce choking. Ducrocq et al.<span class="citation" data-cites="ducrocqAdaptiveWorkingMemory2017"><sup><a href="#ref-ducrocqAdaptiveWorkingMemory2017" role="doc-biblioref">5</a></sup></span> found that 10 sessions of computer-based dual-task training resulted in a significant improvement in tennis shot accuracy under pressure compared controls<span class="citation" data-cites="ducrocqAdaptiveWorkingMemory2017"><sup><a href="#ref-ducrocqAdaptiveWorkingMemory2017" role="doc-biblioref">5</a></sup></span>.</p>
+</section>
+<section id="injury-prevention" class="level1">
+<h1>Injury prevention</h1>
+<p>In a systematic review by Gonzalez-Millan et al., dual-task costs during jumping resulted in a stiffer landing at the joint level resulting in increased vertical ground reaction forces and peak joint torques, a decrease in peak knee and hip flexion angles, and overall reduced stability and postural control<span class="citation" data-cites="gonzalez-millanEffectsAddingDualtask2024"><sup><a href="#ref-gonzalez-millanEffectsAddingDualtask2024" role="doc-biblioref">6</a></sup></span>. These results suggest that dual-tasking during jumping is associated with injury risk<span class="citation" data-cites="gonzalez-millanEffectsAddingDualtask2024"><sup><a href="#ref-gonzalez-millanEffectsAddingDualtask2024" role="doc-biblioref">6</a></sup></span>. Since dual-task is an inherent aspect of sports, it should be trained to create chronic adaptations and improvements in working memory capacity in order to reduce dual-task cost and therefore injury during sport.</p>
+<p>Ness et al.&nbsp;found that neurocognitive deficiencies in reaction time and visual processing speed were predictive of future ACL injury which supports the idea that low working memory capacity can increase injury risk<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">7</a></sup></span>.</p>
+</section>
+<section id="transfer-to-sport-performance" class="level1">
+<h1>Transfer to sport performance</h1>
+<p>Fledderman et al.&nbsp;tested the effect of dual-task cost on competitive beach volleyball players<span class="citation" data-cites="fleddermannTappingFullPotential2018"><sup><a href="#ref-fleddermannTappingFullPotential2018" role="doc-biblioref">3</a></sup></span>. When performing jump-blocks as a single task, low load dual task, or high load dual task, the players demonstrated worse jumping performance with each successive task<span class="citation" data-cites="fleddermannTappingFullPotential2018"><sup><a href="#ref-fleddermannTappingFullPotential2018" role="doc-biblioref">3</a></sup></span>. Based on these results, Fledderman concluded that the secondary cognitive task took attentional resources away from the motor action of jumping resulting in worse performance<span class="citation" data-cites="fleddermannTappingFullPotential2018"><sup><a href="#ref-fleddermannTappingFullPotential2018" role="doc-biblioref">3</a></sup></span>.</p>
+<p>Fledderman then sampled another group of volleyball players and had them perform multiple object tracking (MOT) dual task training for 8 weeks<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">8</a></sup></span>. After 8 weeks of dual-task training, there was a statistically significant improvement in cognitive skills of sustained attention and processing speed<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">8</a></sup></span>. There was no significant difference in the volleyball-specific jump task<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">8</a></sup></span>. This indicates that although the athletes improved their attention and processing speed, these cognitive skills did not reduce the dual-task cost during the jump-block<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">8</a></sup></span>. In a similar study, soccer athletes were given 10 sessions of 3D-multiple object tracking (3D-MOT) and demonstrated significantly more improvement in passing decision-making accuracy than controls but no difference in dribbling or shooting<span class="citation" data-cites="romeas3DMultipleObjectTracking2016"><sup><a href="#ref-romeas3DMultipleObjectTracking2016" role="doc-biblioref">9</a></sup></span>.</p>
+<p>The multiple object tracking (MOT) intervention consists of a participant attempting to follow multiple objects on a screen at once without losing track of any of the objects<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019 romeas3DMultipleObjectTracking2016"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">8</a>,<a href="#ref-romeas3DMultipleObjectTracking2016" role="doc-biblioref">9</a></sup></span>. Fledderman’s MOT intervention significantly improved cognitive function but did not transfer to jump-block ability. Romeas’ MOT intervention did not improve soccer dribbling or shooting ability. The 3D-MOT training did significantly improve passing ability of the soccer players, which is a skill that requires observation of multiple moving objects at once<span class="citation" data-cites="romeas3DMultipleObjectTracking2016"><sup><a href="#ref-romeas3DMultipleObjectTracking2016" role="doc-biblioref">9</a></sup></span>. This shows the importance of finding dual-task training that transfers to sport specific skills.</p>
+</section>
+<section id="importance-in-daily-life" class="level1">
+<h1>Importance in daily life</h1>
+<p>Dual-task training has applications far past sport performance. Elderly individuals demonstrated a significant improvement in fall risk within 6 weeks of dual-task gait training<span class="citation" data-cites="dorfmanDualtaskTrainingTreadmill2014"><sup><a href="#ref-dorfmanDualtaskTrainingTreadmill2014" role="doc-biblioref">10</a></sup></span>. The importance of preventing falls in the elderly cannot be understated. Sylliaas et al.&nbsp;found that when an individual has more than 2 falls a year, this significantly increases risk of death<span class="citation" data-cites="sylliaasDoesMortalityAged2009"><sup><a href="#ref-sylliaasDoesMortalityAged2009" role="doc-biblioref">11</a></sup></span></p>
+</section>
+<section id="importance-in-rehabilitation" class="level1">
+<h1>Importance in Rehabilitation</h1>
+<p>Dual-task training also plays a role in rehabilitation. Traumatic injuries, such as ACL tears are associated with alterations in sensorimotor cortical activation<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">7</a></sup></span>. Ness et al.&nbsp;found that these changes can persist for months and even years following injury or surgery<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">7</a></sup></span>. post-op ACLR patients demonstrated no differences in postural stability during single task balance exercises when compared to controls<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">7</a></sup></span>. However, during dual-task balance exercises, these patients would sacrifice cognitive ability to maintain postural stability<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">7</a></sup></span>.</p>
+<p>These results indicate that relying solely on single tasks during balance can overestimate an individual’s physical ability. Performing balance exercises and measuring physical efficacy as well as cognitive accuracy would better demonstrate the dual-task cost and potential re-injury risks.</p>
+</section>
+<section id="resources-for-exercise-ideas" class="level1">
+<h1>Resources for exercise ideas</h1>
+<ul>
+<li><a href="https://www.instagram.com/wilk_kevin/?hl=en">Kevin Wilk, DPT</a>
+<ul>
+<li><a href="https://youtube.com/shorts/jepG7TSCjjw">dual task SLB with catches</a></li>
+<li><a href="https://youtube.com/shorts/HLUJjsX3BSg?feature=share">dual task blazepod catch and touch example</a></li>
+<li><a href="https://youtube.com/shorts/_ZJ0e0-2Kk4?feature=share">dual task SLB with catches</a></li>
+</ul></li>
+</ul>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/vq_wR8V0OWA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<blockquote class="instagram-media blockquote" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/reel/DDMuZMRRK7b/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+<div style="padding:16px;">
+<a href="https://www.instagram.com/reel/DDMuZMRRK7b/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">
+<div style=" display: flex; flex-direction: row; align-items: center;">
+<div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;">
+
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;">
+
+</div>
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;">
+
+</div>
+</div>
+</div>
+<div style="padding: 19% 0;">
+
+</div>
+<div style="display:block; height:50px; margin:0 auto 12px; width:50px;">
+<svg width="50px" height="50px" viewbox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xlink="https://www.w3.org/1999/xlink">
+<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g>
+</svg>
+</div>
+<div style="padding-top: 8px;">
+<div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">
+View this post on Instagram
+</div>
+</div>
+<div style="padding: 12.5% 0;">
+
+</div>
+<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+<div>
+<div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);">
+
+</div>
+<div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;">
+
+</div>
+<div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);">
+
+</div>
+</div>
+<div style="margin-left: 8px;">
+<div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;">
+
+</div>
+<div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)">
+
+</div>
+</div>
+<div style="margin-left: auto;">
+<div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);">
+
+</div>
+<div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);">
+
+</div>
+<div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);">
+
+</div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;">
+
+</div>
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;">
+
+</div>
+</div>
+</a>
+<p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
+<a href="https://www.instagram.com/reel/DDMuZMRRK7b/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Kevin Wilk, DPT, FAPTA (<span class="citation" data-cites="wilk_kevin"><sup></sup></span></a><a href="#ref-wilk_kevin" role="doc-biblioref"><strong>wilk_kevin?</strong></a>)
+</p>
+</div>
+</blockquote>
+<script async="" src="//www.instagram.com/embed.js"></script>
+<blockquote class="instagram-media blockquote" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/reel/DC4EnLHRtKY/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+<div style="padding:16px;">
+<a href="https://www.instagram.com/reel/DC4EnLHRtKY/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">
+<div style=" display: flex; flex-direction: row; align-items: center;">
+<div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;">
+
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;">
+
+</div>
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;">
+
+</div>
+</div>
+</div>
+<div style="padding: 19% 0;">
+
+</div>
+<div style="display:block; height:50px; margin:0 auto 12px; width:50px;">
+<svg width="50px" height="50px" viewbox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xlink="https://www.w3.org/1999/xlink">
+<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g>
+</svg>
+</div>
+<div style="padding-top: 8px;">
+<div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">
+View this post on Instagram
+</div>
+</div>
+<div style="padding: 12.5% 0;">
+
+</div>
+<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+<div>
+<div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);">
+
+</div>
+<div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;">
+
+</div>
+<div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);">
+
+</div>
+</div>
+<div style="margin-left: 8px;">
+<div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;">
+
+</div>
+<div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)">
+
+</div>
+</div>
+<div style="margin-left: auto;">
+<div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);">
+
+</div>
+<div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);">
+
+</div>
+<div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);">
+
+</div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;">
+
+</div>
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;">
+
+</div>
+</div>
+</a>
+<p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
+<a href="https://www.instagram.com/reel/DC4EnLHRtKY/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Kevin Wilk, DPT, FAPTA (<span class="citation" data-cites="wilk_kevin"><sup></sup></span></a><a href="#ref-wilk_kevin" role="doc-biblioref"><strong>wilk_kevin?</strong></a>)
+</p>
+</div>
+</blockquote>
+<script async="" src="//www.instagram.com/embed.js"></script>
+
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-evansDualProcessTheoriesHigher2013" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Evans JStBT, Stanovich KE. Dual-<span>Process Theories</span> of <span>Higher Cognition</span>: <span>Advancing</span> the <span>Debate</span>. <em>Perspectives on Psychological Science</em>. 2013;8(3):223-241. doi:<a href="https://doi.org/10.1177/1745691612460685">10.1177/1745691612460685</a></div>
+</div>
+<div id="ref-moreiraAcuteChronicEffects2021" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Moreira PED, Dieguez GTDO, Bredt SDGT, Praça GM. The <span>Acute</span> and <span>Chronic Effects</span> of <span>Dual-Task</span> on the <span>Motor</span> and <span>Cognitive Performances</span> in <span>Athletes</span>: <span>A Systematic Review</span>. <em>International Journal of Environmental Research and Public Health</em>. 2021;18(4):1732. doi:<a href="https://doi.org/10.3390/ijerph18041732">10.3390/ijerph18041732</a></div>
+</div>
+<div id="ref-fleddermannTappingFullPotential2018" class="csl-entry" role="listitem">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Fleddermann MT, Zentgraf K. Tapping the <span>Full Potential</span>? <span>Jumping Performance</span> of <span>Volleyball Athletes</span> in <span>Game-Like Situations</span>. <em>Frontiers in Psychology</em>. 2018;9:1375. doi:<a href="https://doi.org/10.3389/fpsyg.2018.01375">10.3389/fpsyg.2018.01375</a></div>
+</div>
+<div id="ref-qiuInfluenceSportsExpertise2018" class="csl-entry" role="listitem">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Qiu F, Pi Y, Liu K, Li X, Zhang J, Wu Y. Influence of sports expertise level on attention in multiple object tracking. <em>PeerJ</em>. 2018;6:e5732. doi:<a href="https://doi.org/10.7717/peerj.5732">10.7717/peerj.5732</a></div>
+</div>
+<div id="ref-ducrocqAdaptiveWorkingMemory2017" class="csl-entry" role="listitem">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Ducrocq E, Wilson M, Smith TJ, Derakshan N. Adaptive <span>Working Memory Training Reduces</span> the <span>Negative Impact</span> of <span>Anxiety</span> on <span>Competitive Motor Performance</span>. <em>Journal of Sport &amp; Exercise Psychology</em>. 2017;39(6):412-422. doi:<a href="https://doi.org/10.1123/jsep.2017-0217">10.1123/jsep.2017-0217</a></div>
+</div>
+<div id="ref-gonzalez-millanEffectsAddingDualtask2024" class="csl-entry" role="listitem">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">González-Millán S, Illera-Domínguez V, Toro-Román V, et al. Effects of adding dual-task or sport-specific task constrains to jump-landing tests on biomechanical parameters related to injury risk factors in team sports: A systematic review. <em>PeerJ</em>. 2024;12:e17720. doi:<a href="https://doi.org/10.7717/peerj.17720">10.7717/peerj.17720</a></div>
+</div>
+<div id="ref-nessDualTaskAssessmentImplications2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">7. </div><div class="csl-right-inline">Ness BM, Zimney K, Schweinle WE, Cleland JA. Dual-<span>Task Assessment Implications</span> for <span>Anterior Cruciate Ligament Injury</span>: <span>A Systematic Review</span>. <em>International Journal of Sports Physical Therapy</em>. 2020;15(6):840-855. doi:<a href="https://doi.org/10.26603/ijspt20200840">10.26603/ijspt20200840</a></div>
+</div>
+<div id="ref-fleddermannOffCourtGenericPerceptualCognitive2019" class="csl-entry" role="listitem">
+<div class="csl-left-margin">8. </div><div class="csl-right-inline">Fleddermann MT, Heppe H, Zentgraf K. Off-<span>Court Generic Perceptual-Cognitive Training</span> in <span>Elite Volleyball Athletes</span>: <span>Task-Specific Effects</span> and <span>Levels</span> of <span>Transfer</span>. <em>Frontiers in Psychology</em>. 2019;10:1599. doi:<a href="https://doi.org/10.3389/fpsyg.2019.01599">10.3389/fpsyg.2019.01599</a></div>
+</div>
+<div id="ref-romeas3DMultipleObjectTracking2016" class="csl-entry" role="listitem">
+<div class="csl-left-margin">9. </div><div class="csl-right-inline">Romeas T, Guldner A, Faubert J. <span>3D-Multiple Object Tracking</span> training task improves passing decision-making accuracy in soccer players. <em>Psychology of Sport and Exercise</em>. 2016;22:1-9. doi:<a href="https://doi.org/10.1016/j.psychsport.2015.06.002">10.1016/j.psychsport.2015.06.002</a></div>
+</div>
+<div id="ref-dorfmanDualtaskTrainingTreadmill2014" class="csl-entry" role="listitem">
+<div class="csl-left-margin">10. </div><div class="csl-right-inline">Dorfman M, Herman T, Brozgol M, et al. Dual-task training on a treadmill to improve gait and cognitive function in elderly idiopathic fallers. <em>Journal of neurologic physical therapy: JNPT</em>. 2014;38(4):246-253. doi:<a href="https://doi.org/10.1097/NPT.0000000000000057">10.1097/NPT.0000000000000057</a></div>
+</div>
+<div id="ref-sylliaasDoesMortalityAged2009" class="csl-entry" role="listitem">
+<div class="csl-left-margin">11. </div><div class="csl-right-inline">Sylliaas H, Idland G, Sandvik L, Forsen L, Bergland A. Does mortality of the aged increase with the number of falls? <span>Results</span> from a nine-year follow-up study. <em>European Journal of Epidemiology</em>. 2009;24(7):351-355. doi:<a href="https://doi.org/10.1007/s10654-009-9348-5">10.1007/s10654-009-9348-5</a></div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Dual Tasking. <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Neuroscience/Neurorehabilitation/dual_task.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
 Archive/Neuroscience/Neurorehabilitation/dual_task.html</a></div>
 </div></div></section></div></main> <!-- /main -->
@@ -601,8 +898,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -713,7 +1008,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

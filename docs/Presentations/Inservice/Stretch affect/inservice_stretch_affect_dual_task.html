@@ -9,7 +9,7 @@
 <meta name="author" content="Nathaniel Yomogida">
 <meta name="author" content="Chloë Kerstein">
 
-<title>Dual-Task Presentation</title>
+<title>Stretch-Affect Physical Therapy Inservice</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -89,9 +89,38 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../../styles.css">
-<meta name="twitter:title" content="Dual-Task Presentation">
+<meta name="twitter:title" content="Stretch-Affect Physical Therapy Inservice">
 <meta name="twitter:description" content="Physical Therapy Inservice">
 <meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
 <meta name="twitter:site" content="@YomoKerstLab">
@@ -106,7 +135,7 @@ div.csl-indent {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../../images/square 2 lines mid.svg" alt="" class="navbar-logo">
+    <img src="../../../branding/Yomokerst/yomokerst heavy condensed.svg" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -120,8 +149,8 @@ div.csl-indent {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../The Archive/archive_index.html"> 
-<span class="menu-text">Archive</span></a>
+    <a class="nav-link" href="../../../The Archive/research_and_development_index.html"> 
+<span class="menu-text">R&amp;D</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../../guide.html"> 
@@ -155,45 +184,16 @@ div.csl-indent {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#what-is-dual-task-training" id="toc-what-is-dual-task-training" class="nav-link active" data-scroll-target="#what-is-dual-task-training">What is Dual-task training?</a>
-  <ul class="collapse">
-  <li><a href="#definitions" id="toc-definitions" class="nav-link" data-scroll-target="#definitions">Definitions</a></li>
-  </ul></li>
-  <li><a href="#sport-performance" id="toc-sport-performance" class="nav-link" data-scroll-target="#sport-performance">Sport performance</a>
-  <ul class="collapse">
-  <li><a href="#better-athletes-have-higher-working-memory-capacity" id="toc-better-athletes-have-higher-working-memory-capacity" class="nav-link" data-scroll-target="#better-athletes-have-higher-working-memory-capacity">Better athletes have Higher working memory capacity</a></li>
+  <li><a href="#what-is-dual-task-training" id="toc-what-is-dual-task-training" class="nav-link active" data-scroll-target="#what-is-dual-task-training">What is Dual-task training?</a></li>
+  <li><a href="#dual-task-cost" id="toc-dual-task-cost" class="nav-link" data-scroll-target="#dual-task-cost">Dual-task cost</a></li>
+  <li><a href="#sport-performance" id="toc-sport-performance" class="nav-link" data-scroll-target="#sport-performance">Sport performance</a></li>
+  <li><a href="#working-memory-capacity-in-elite-athletes" id="toc-working-memory-capacity-in-elite-athletes" class="nav-link" data-scroll-target="#working-memory-capacity-in-elite-athletes">Working memory capacity in elite athletes</a></li>
   <li><a href="#choking" id="toc-choking" class="nav-link" data-scroll-target="#choking">Choking</a></li>
   <li><a href="#injury-prevention" id="toc-injury-prevention" class="nav-link" data-scroll-target="#injury-prevention">Injury prevention</a></li>
-  <li><a href="#acute-effects---observational-studies" id="toc-acute-effects---observational-studies" class="nav-link" data-scroll-target="#acute-effects---observational-studies">Acute effects - Observational studies</a>
-  <ul class="collapse">
-  <li><a href="#volleyball" id="toc-volleyball" class="nav-link" data-scroll-target="#volleyball">Volleyball</a></li>
-  </ul></li>
-  <li><a href="#chronic-effects---sport-performance" id="toc-chronic-effects---sport-performance" class="nav-link" data-scroll-target="#chronic-effects---sport-performance">Chronic effects - Sport performance</a></li>
-  </ul></li>
+  <li><a href="#transfer-to-sport-performance" id="toc-transfer-to-sport-performance" class="nav-link" data-scroll-target="#transfer-to-sport-performance">Transfer to sport performance</a></li>
   <li><a href="#importance-in-daily-life" id="toc-importance-in-daily-life" class="nav-link" data-scroll-target="#importance-in-daily-life">Importance in daily life</a></li>
   <li><a href="#importance-in-rehabilitation" id="toc-importance-in-rehabilitation" class="nav-link" data-scroll-target="#importance-in-rehabilitation">Importance in Rehabilitation</a></li>
-  <li><a href="#treatment-effect" id="toc-treatment-effect" class="nav-link" data-scroll-target="#treatment-effect">Treatment effect</a></li>
-  <li><a href="#literature-limitation" id="toc-literature-limitation" class="nav-link" data-scroll-target="#literature-limitation">Literature Limitation</a></li>
-  <li><a href="#how-to-assess-low-or-high-working-capacity" id="toc-how-to-assess-low-or-high-working-capacity" class="nav-link" data-scroll-target="#how-to-assess-low-or-high-working-capacity">How to Assess Low or High working capacity?</a></li>
-  <li><a href="#assessment" id="toc-assessment" class="nav-link" data-scroll-target="#assessment">Assessment</a>
-  <ul class="collapse">
-  <li><a href="#near-transfer" id="toc-near-transfer" class="nav-link" data-scroll-target="#near-transfer">Near Transfer</a>
-  <ul class="collapse">
-  <li><a href="#processing-speed" id="toc-processing-speed" class="nav-link" data-scroll-target="#processing-speed">Processing speed</a></li>
-  <li><a href="#memory" id="toc-memory" class="nav-link" data-scroll-target="#memory">Memory</a></li>
-  <li><a href="#working-speed" id="toc-working-speed" class="nav-link" data-scroll-target="#working-speed">Working speed</a></li>
-  <li><a href="#sustained-attention" id="toc-sustained-attention" class="nav-link" data-scroll-target="#sustained-attention">Sustained attention</a></li>
-  </ul></li>
-  <li><a href="#far-transfer-test" id="toc-far-transfer-test" class="nav-link" data-scroll-target="#far-transfer-test">Far Transfer test</a></li>
-  </ul></li>
-  <li><a href="#treatment-concepts" id="toc-treatment-concepts" class="nav-link" data-scroll-target="#treatment-concepts">Treatment Concepts</a>
-  <ul class="collapse">
-  <li><a href="#how-to-transfer-a-treatment-to-a-dual-task" id="toc-how-to-transfer-a-treatment-to-a-dual-task" class="nav-link" data-scroll-target="#how-to-transfer-a-treatment-to-a-dual-task">How to transfer a treatment to a dual-task</a></li>
-  <li><a href="#load" id="toc-load" class="nav-link" data-scroll-target="#load">Load</a></li>
-  <li><a href="#treatment-ideas" id="toc-treatment-ideas" class="nav-link" data-scroll-target="#treatment-ideas">Treatment Ideas</a></li>
-  <li><a href="#modalities" id="toc-modalities" class="nav-link" data-scroll-target="#modalities">Modalities</a></li>
   <li><a href="#resources-for-exercise-ideas" id="toc-resources-for-exercise-ideas" class="nav-link" data-scroll-target="#resources-for-exercise-ideas">Resources for exercise ideas</a></li>
-  </ul></li>
   </ul>
 </nav>
 </nav>
@@ -206,7 +206,7 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Dual-Task Presentation</h1>
+<h1 class="title">Stretch-Affect Physical Therapy Inservice</h1>
 <p class="subtitle lead">Physical Therapy Inservice</p>
 </div>
 
@@ -251,265 +251,280 @@ div.csl-indent {
 </header>
 
 
-<p><em>Progressive overload</em> is a basic concept in training. Generally we increase our training load by increase the amount of weight in order to get stronger, number of repetitions in order to build endurance, the speed of the exercise to build speed and power, or the complexity of the exercise to build stability. These are all important in athletic performance, but focusing your training <em>solely</em> around these purely phyiscal parameters may leave your unprepared for the mental load of game-time situations.</p>
+<p><em>Progressive overload</em> is a basic concept in physical training. Generally, we increase our training load by increasing the amount of weight in order to get stronger, number of repetitions in order to build endurance, speed to build power, or complexity to build stability and coordination. These are all important in athletic performance, but focusing your training <em>solely</em> around these purely physical parameters may leave you unprepared for the mental load of game-time situations.</p>
 <p>During training, you can focus almost all of your attention on the task and maintaining proper form, but during a game or daily life, you will be experiencing distractions that will pull your attention away from your form.</p>
-<p>This is where Dual-task training is important.</p>
+<p>This is where dual-task training is important.</p>
 <section id="what-is-dual-task-training" class="level1">
 <h1>What is Dual-task training?</h1>
-<p>Dual-task training, also known as cognitive-motor dual task (CMDT) interference training, is based on Dual-process theory<span class="citation" data-cites="evansDualProcessTheoriesHigher2013"><sup><a href="#ref-evansDualProcessTheoriesHigher2013" role="doc-biblioref">1</a></sup></span>. Dual-process theory proports that when performing multiple tasks, the human peformance is determined by two types of processing systems: <a href="?var:ref-dual-process-theory.automatic-processing">Automatic processing</a> and <a href="?var:ref-dual-process-theory.controlled-processing">controlled processing</a><span class="citation" data-cites="moreiraAcuteChronicEffects2021 evansDualProcessTheoriesHigher2013"><sup><a href="#ref-evansDualProcessTheoriesHigher2013" role="doc-biblioref">1</a>,<a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>.</p>
-<p>A dual-task refers to an activity that requires both <em>automatic</em> and <em>controlled</em> processing<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. For example when playing soccer a player could receive the ball, realize his teammate is open, and pass the ball while using <a href="#automatic-processing">automatic (type 1) processing</a><span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. This process requires <em>low</em> attentional resources to motor execution and is thus is defined as “automatic processing”<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>.</p>
+<p>A dual-task refers to the ability to perform two tasks at the same time. Dual-task training is based on Dual-process theory<span class="citation" data-cites="evansDualProcessTheoriesHigher2013"><sup><a href="#ref-evansDualProcessTheoriesHigher2013" role="doc-biblioref">1</a></sup></span>. Dual-process theory proposes that when performing multiple tasks, the human peformance is determined by two types of processing systems: <a href="?var:ref-dual-process-theory.automatic-processing">Automatic processing</a> and <a href="?var:ref-dual-process-theory.controlled-processing">controlled processing</a><span class="citation" data-cites="moreiraAcuteChronicEffects2021 evansDualProcessTheoriesHigher2013"><sup><a href="#ref-evansDualProcessTheoriesHigher2013" role="doc-biblioref">1</a>,<a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. Automatic processing refers to the intuitive and fast forms of processing that use low amounts of attentional resources<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. <em>Automatic processing</em> is reactive to triggers for example the question “What is your name”<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. Opposite of automatic processing, <em>controlled processing</em> is <em>slow</em> and requires conscious interpretation of requisite information and processing as well as the <em>attentional control</em> to complete the task<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>.</p>
+<p>Dual-tasks involve the simultaneous performance of both <em>automatic</em> and <em>controlled</em> processing<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. Dual-tasks are relevant in everyday life when walking and talking. Walking is primarily an automatic task while talking requires controlled processing. In sports, a soccer player could receive the ball, realize his teammate is open, assess the positions of opponents, and pass the ball<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. Dribbling and passing the ball are automatic processes for experienced soccer players<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. Assessing the field for open teammates, opponents, and considering the team’s strategy would require controlled processing<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>.</p>
 <p>Dual-task training has 3 forms:</p>
 <ol type="1">
 <li>Cognitive-Motor Dual task</li>
 <li>Motor-motor dual task</li>
 <li>Cognitive-Cognitive Dual task</li>
 </ol>
-<section id="definitions" class="level2">
-<h2 class="anchored" data-anchor-id="definitions">Definitions</h2>
-<ul>
-<li><strong>Primary task</strong>: The task or exercise you want to get better at and want to transfer to performance in game or in daily life</li>
-<li><strong>Secondary task</strong>: The other tasks that pulls attention away from the primary task</li>
-<li>Working memory capacity (WMC) refers to the ability to inhibit irrelevant information<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>.
-<ul>
-<li>Low Working memory capacity refers to individuals who struggle to ignore irrelevant factors</li>
-<li>High Working memory capacity refers to individuals who have strong focus and attention and can filter out what information is important for future decisions.</li>
-</ul></li>
-</ul>
-<!--
-:::{.callout}
-Working memory function see @baddeleyWorkingMemoryLooking2003
-:::
--->
 </section>
+<section id="dual-task-cost" class="level1">
+<h1>Dual-task cost</h1>
+<p>Dual-task cost refers to the decrease in performance of either task when performing both tasks simultaneously<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. Acutely, dual-task cost should result in significant detriments in performance<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. When dual-tasks are performed chronically, adaptations will occur and the dual-task cost will be minimized<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>.</p>
+<p><span class="math display">\[
+\textrm{Dual-Task Cost Equation} =  \frac{(\textrm{DT} − \textrm{ST})}{\textrm{ST}} \times 100
+\]</span></p>
 </section>
 <section id="sport-performance" class="level1">
 <h1>Sport performance</h1>
 <p>Sports are one of the main examples of activities that innately have dual-tasks due to the complex and dynamic environments. To have success in a sport, an athlete must simultaneously consider themself, the ball, teammates, opponents, rules, and situational requirements such as attacking or defending<span class="citation" data-cites="fleddermannTappingFullPotential2018"><sup><a href="#ref-fleddermannTappingFullPotential2018" role="doc-biblioref">3</a></sup></span>. When competing in a sport, there could be even more variables such as referees, coaches, spectators, and competitive pressure<span class="citation" data-cites="fleddermannTappingFullPotential2018"><sup><a href="#ref-fleddermannTappingFullPotential2018" role="doc-biblioref">3</a></sup></span>.</p>
-<p>Attentional overload in sports can come in many forms. Attentional overload causing cognitive failure during motor-cognitive task could take the form of a player focusing on their movement and not on their surroundings would have poor situational awareness and would move well, but make mistakes regarding their surroundings. Attentional overload causing motor failure during a cognitive-motor task would be exemplified by a player focusing on their surroundings and the other players, but losing focus on their motor pattern, resulting in a mistake and even injury.</p>
-<section id="better-athletes-have-higher-working-memory-capacity" class="level2">
-<h2 class="anchored" data-anchor-id="better-athletes-have-higher-working-memory-capacity">Better athletes have Higher working memory capacity</h2>
-<p>When elite, intermediate, and non-athlete basketball players were analyzed on a multiple object tracking (MOT) test in order to measure selective, distributed, and sustained attention skills<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>. MOT was proprosed to mimic the load of tracking the ball, teammates, and opponents simultaneously on the court<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>. Participants attempted to track 2, 3, and 4 objects at once<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>. Each successive increase in number of objects increases the attentional load<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>. There was no significant difference between the groups when tracking 2 objects, indicating that attentional load was not high enough to affect performance<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>. When the load was increased to 3 and 4 objects, the elite basketball players performed significantly better than the intermediate and non-athlete players<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>. It should be noted that the intermediate and non-athlete players had the same decrease in performance<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>.</p>
-<p>This is consistent with previous literature which found that team ball athletes had faster visual tracking speed in attentively tracking multiple moving objects and elite athletes had enhanced visual attention ability<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>.</p>
+<p>Attentional overload in sports can come in many forms. Attentional overload causing cognitive failure during a motor-cognitive task could take the form of a player focusing on their movement and not on their surroundings. As a result, this athlete would have poor situational awareness and would move well, but make poor decisions.</p>
+<p>Attentional overload causing motor failure during a cognitive-motor task would be exemplified by a player focusing on their surroundings and the other players, but losing focus on their motor pattern, resulting in a mistake and even injury.</p>
 </section>
-<section id="choking" class="level2">
-<h2 class="anchored" data-anchor-id="choking">Choking</h2>
-<p>Choking is a common problem in competitive sports and refers to performance breakdowns perceived pressure of competition<span class="citation" data-cites="ducrocqAdaptiveWorkingMemory2017"><sup><a href="#ref-ducrocqAdaptiveWorkingMemory2017" role="doc-biblioref">5</a></sup></span>. This can occur at any level, from amateur to professional<span class="citation" data-cites="ducrocqAdaptiveWorkingMemory2017"><sup><a href="#ref-ducrocqAdaptiveWorkingMemory2017" role="doc-biblioref">5</a></sup></span></p>
-<p>When viewed through the context of dual-process theory, choking appears to be a form of dual-task overloading. As the perceived pressure of competition increases, this adds an extra load to the attentional resources<span class="citation" data-cites="ducrocqAdaptiveWorkingMemory2017"><sup><a href="#ref-ducrocqAdaptiveWorkingMemory2017" role="doc-biblioref">5</a></sup></span>. This process is also influenced by low working memory capacity (WMC) resulting in poor inhibition of perceived pressure<span class="citation" data-cites="ducrocqAdaptiveWorkingMemory2017"><sup><a href="#ref-ducrocqAdaptiveWorkingMemory2017" role="doc-biblioref">5</a></sup></span>. If the athlete cannot mentally adapt and mitigate this load, this will force the attention to be taken away from areas focused on sport performance resulting in poor decision making and/or poor motor patterning. Performance breakdown due to competitive pressures is most noticeable in closed tasks such as basketball free throws or golf putting where there <em>should</em> be very few factors taking up attentional resources. Many athletes blame themselves and assume they need to “push” through the barrier or simply continue their training program but at higher intensity to overcome choking.</p>
-<p>Based on dual-process theory, focusing on single-task more intensely will not provide a meaningful benefit to one’s working memory capacity and therefore choking will persist. For these athletes, dual-task training can help to improve working memory capacity and reduce choking. Ducrocq et al.&nbsp;had a group of tennis players complete computer-based dual-task training for 10 sessions and observed a significant improvement in tennis shot accuracy under pressure compared to a group that did not receive dual-task training<span class="citation" data-cites="ducrocqAdaptiveWorkingMemory2017"><sup><a href="#ref-ducrocqAdaptiveWorkingMemory2017" role="doc-biblioref">5</a></sup></span>.</p>
-<!--::: {.callout}
-
-- Baumeister, R.F. Choking under pressure: Self-consciousness and paradoxical effects of incentives on skillful performance. J. Personal. Soc. Psychol. 1984, 46, 610–620. [CrossRef]
-- Wilson, M.R.; Wood, G.; Vine, S.J. Anxiety, attentional control, and performance impairment in penalty kicks. J. Sport Exerc. Psychol. 2009, 31, 761–775. [CrossRef]
-- Beilock, S.L.; Carr, T.H. On the fragility of skilled performance: What governs choking under pressure? J. Exp. Psychol. Gen. 2001, 130, 701–725. [CrossRef]
--->
+<section id="working-memory-capacity-in-elite-athletes" class="level1">
+<h1>Working memory capacity in elite athletes</h1>
+<p>The ability to dual-task is impacted by working memory capacity (WMC), the ability to inhibit irrelevant information<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. An individual with low working memory capacity refers to individuals who struggle to ignore irrelevant factors<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>. Whereas someone with high working memory capacity refers to individuals who have strong focus and attention and can filter out what information is important for future decisions<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span>.</p>
+<p>Improving one’s working memory capacity can result in significant performance benefits. When elite, intermediate, and non-athlete basketball players were analyzed on a multiple object tracking (MOT) test in order to measure attentional skills that mimic the cognitive load of tracking the ball, teammates, and opponents simultaneously on the court<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>. MOT is a cognitive task where participants attempt to track 2, 3, and 4 objects at once<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>. Each successive increase in number of objects increases the attentional load<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>. There was no significant difference between the groups when tracking 2 objects, indicating that attentional load was not high enough to affect performance<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>. When the load was increased to 3 and 4 objects, the elite basketball players performed significantly better than the intermediate and non-athlete players<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>.</p>
 </section>
-<section id="injury-prevention" class="level2">
-<h2 class="anchored" data-anchor-id="injury-prevention">Injury prevention</h2>
-<p><span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">6</a></sup></span></p>
+<section id="choking" class="level1">
+<h1>Choking</h1>
+<p>Choking is a common problem in competitive sports and refers to performance breakdowns due to perceived pressure of competition<span class="citation" data-cites="ducrocqAdaptiveWorkingMemory2017"><sup><a href="#ref-ducrocqAdaptiveWorkingMemory2017" role="doc-biblioref">5</a></sup></span>. This can occur at any level, from amateur to professional<span class="citation" data-cites="ducrocqAdaptiveWorkingMemory2017"><sup><a href="#ref-ducrocqAdaptiveWorkingMemory2017" role="doc-biblioref">5</a></sup></span></p>
+<p>When viewed through the context of dual-process theory, choking appears to be a form of dual-task interference. As the perceived pressure of competition increases, this adds an extra load to the attentional resources<span class="citation" data-cites="ducrocqAdaptiveWorkingMemory2017"><sup><a href="#ref-ducrocqAdaptiveWorkingMemory2017" role="doc-biblioref">5</a></sup></span>. This process is also influenced by poor inhibition of perceived pressure<span class="citation" data-cites="ducrocqAdaptiveWorkingMemory2017"><sup><a href="#ref-ducrocqAdaptiveWorkingMemory2017" role="doc-biblioref">5</a></sup></span>. If the athlete cannot mentally adapt and mitigate this cognitive load, this will force the attention to be taken away from areas focused on sport performance resulting in poor decision making and/or poor motor patterning. Performance breakdown due to competitive pressures is most noticeable in closed tasks such as basketball free throws or golf putting where there <em>should</em> be very few factors taking up attentional resources. Many athletes blame themselves and assume they need to “push” through the barrier or simply continue their training program but at higher intensity to overcome choking.</p>
+<p>Based on dual-process theory, focusing on single-task more intensely will not provide a meaningful benefit to one’s working memory capacity and therefore choking will persist. For these athletes, dual-task training can help to improve working memory capacity and reduce choking. Ducrocq et al.<span class="citation" data-cites="ducrocqAdaptiveWorkingMemory2017"><sup><a href="#ref-ducrocqAdaptiveWorkingMemory2017" role="doc-biblioref">5</a></sup></span> found that 10 sessions of computer-based dual-task training resulted in a significant improvement in tennis shot accuracy under pressure compared controls<span class="citation" data-cites="ducrocqAdaptiveWorkingMemory2017"><sup><a href="#ref-ducrocqAdaptiveWorkingMemory2017" role="doc-biblioref">5</a></sup></span>.</p>
 </section>
-<section id="acute-effects---observational-studies" class="level2">
-<h2 class="anchored" data-anchor-id="acute-effects---observational-studies">Acute effects - Observational studies</h2>
-<section id="volleyball" class="level3">
-<h3 class="anchored" data-anchor-id="volleyball">Volleyball</h3>
+<section id="injury-prevention" class="level1">
+<h1>Injury prevention</h1>
+<p>In a systematic review by Gonzalez-Millan et al., dual-task costs during jumping resulted in a stiffer landing at the joint level resulting in increased vertical ground reaction forces and peak joint torques, a decrease in peak knee and hip flexion angles, and overall reduced stability and postural control<span class="citation" data-cites="gonzalez-millanEffectsAddingDualtask2024"><sup><a href="#ref-gonzalez-millanEffectsAddingDualtask2024" role="doc-biblioref">6</a></sup></span>. These results suggest that dual-tasking during jumping is associated with injury risk<span class="citation" data-cites="gonzalez-millanEffectsAddingDualtask2024"><sup><a href="#ref-gonzalez-millanEffectsAddingDualtask2024" role="doc-biblioref">6</a></sup></span>. Since dual-task is an inherent aspect of sports, it should be trained to create chronic adaptations and improvements in working memory capacity in order to reduce dual-task cost and therefore injury during sport.</p>
+<p>Ness et al.&nbsp;found that neurocognitive deficiencies in reaction time and visual processing speed were predictive of future ACL injury which supports the idea that low working memory capacity can increase injury risk<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">7</a></sup></span>.</p>
+</section>
+<section id="transfer-to-sport-performance" class="level1">
+<h1>Transfer to sport performance</h1>
 <p>Fledderman et al.&nbsp;tested the effect of dual-task cost on competitive beach volleyball players<span class="citation" data-cites="fleddermannTappingFullPotential2018"><sup><a href="#ref-fleddermannTappingFullPotential2018" role="doc-biblioref">3</a></sup></span>. When performing jump-blocks as a single task, low load dual task, or high load dual task, the players demonstrated worse jumping performance with each successive task<span class="citation" data-cites="fleddermannTappingFullPotential2018"><sup><a href="#ref-fleddermannTappingFullPotential2018" role="doc-biblioref">3</a></sup></span>. Based on these results, Fledderman concluded that the secondary cognitive task took attentional resources away from the motor action of jumping resulting in worse performance<span class="citation" data-cites="fleddermannTappingFullPotential2018"><sup><a href="#ref-fleddermannTappingFullPotential2018" role="doc-biblioref">3</a></sup></span>.</p>
-<p>Fledderman then sampled another group of volleyball players and had them perform multiple object tracking (MOT) dual task training for 8 weeks<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">7</a></sup></span>. After 8 weeks of dual-task training, there was a statistically significant improvement in near-transfer skills of sustained attention and processing speed<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">7</a></sup></span>. There was no significant difference in the volleyball-specific jump task<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">7</a></sup></span>. This indicates that although the athletes improved their attention and processing speed, these cognitive skills were not the reason for dual-task cost during the jump-block<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">7</a></sup></span>. Similarly, soccer athletes were given 10 sessions of 3D-multiple object tracking (3D-MOT) or 3D soccer video training and demonstrated significantly more improvement in passing decision-making accuracy than controls but no difference in dribbling or shooting<span class="citation" data-cites="romeas3DMultipleObjectTracking2016"><sup><a href="#ref-romeas3DMultipleObjectTracking2016" role="doc-biblioref">8</a></sup></span>.</p>
-<!-- - 24 competitive beach volleyball players were tested
-- the single task consisted of self-initiated maximal block jumps to the right and left with no information on the screen in front of them @fleddermannTappingFullPotential2018
-- Dual-task low (DT-L) consisted of self-initiated maximal block jumps to the left and right side with a static picture of an offensive set play of opponents @fleddermannTappingFullPotential2018.
-    -  The player was instructed to perform the block in front of the attacker on the screen @fleddermannTappingFullPotential2018.
-- Dual-Task High (DT-H) a dynamic video was dispalyed on the screen depicting a volleyball scene of offensive set plays with four or five players (defense, setter, attackers)
-    - Participants were instructed to assume a ready position and the action was initiated by the researcher's verbal command @fleddermannTappingFullPotential2018.
-    - The player would then watch the attacking player on the screen and perform a maximal blocking jump in front of the attacking player to the left or right side @fleddermannTappingFullPotential2018
-- Going from single task to DT-L to DT-H had successively worse first step length and vertical jump height for the volleyball players
-- This indicates that as you increase attentional load, athletes will have worse sport performance
-
-
-- "Perceptual-cognitive skills have mostly been studied under two different approaches: the expert performance approach and the cognitive component skill approach" @fleddermannOffCourtGenericPerceptualCognitive2019
-- Expert performance approach
-    - "perceptual-cognitive expertise of an athlete by using sports-related stimuli in a sport-specific context, e.g., measuring decision-making, attention, or memory skills in simulated sport-specific settings or in a valid ecological sport context" @fleddermannOffCourtGenericPerceptualCognitive2019
-- Cognitive component skill approach
-    - "Alternatively, studies using a cognitive component skill approach examined fundamental perceptual-cognitive skills per se in a sport-unspecific context and investigated the relationship between sport expertise and fundamental perceptualcognitive skills. Results of these studies indicate that elite athletes perform better than nonathletes in fundamental cognitive tests such as processing speed or varied attention paradigms" @fleddermannOffCourtGenericPerceptualCognitive2019
-- "Further, they identified three factors (targeted perceptual function, stimulus correspondence, and response correspondence) that may influence transfer to the field" @fleddermannOffCourtGenericPerceptualCognitive2019
-- After 8 weeks of dual-task training, there was a statistically significant improvement in near transfer skills of sustained attention and processing speed @fleddermannOffCourtGenericPerceptualCognitive2019.
-- No significant difference in far-transfer task @fleddermannOffCourtGenericPerceptualCognitive2019
--->
-</section>
-</section>
-<section id="chronic-effects---sport-performance" class="level2">
-<h2 class="anchored" data-anchor-id="chronic-effects---sport-performance">Chronic effects - Sport performance</h2>
-<!--
-- Hockey & soccer
-- Improved shot accuracy
-    - Harris, D.J.; Wilson, M.R.; Crowe, E.M.; Vine, S.J. Examining the roles of working memory and visual attention in multiple object tracking expertise. Cogn. Process. 2019.
-- Soccer
-    - Romeas, T.; Guldner, A.; Faubert, J. 3D-Multiple Object Tracking training task improves passing decision-making accuracy in soccer players. Psychol. Sport Exerc. 2016, 22, 1–9. [CrossRef]
--->
-<ul>
-<li><p>Fencing</p></li>
-<li><p>Gutiérrez-Davila, M.; Rojas, F.J.; Gutiérrez-Cruz, C.; Navarro, E.; Gutierrez-Davila, M.; Javier Rojas, F.; Gutierrez-Cruz, C.; Navarro, E. Effect of dual-attention task on attack and defensive actions in fencing. Eur. J. Sport Sci. 2017, 17, 1004–1012. [CrossRef]</p></li>
-<li><p>Soccer</p>
-<ul>
-<li>Helm, F.; Reiser, M.; Munzert, J. Domain-Specific and Unspecific Reaction Times in Experienced Team Handball Goalkeepers and Novices. Front. Psychol. 2016, 7.</li>
-</ul></li>
-<li><p>Combat sports</p>
-<ul>
-<li>Howell, D.R.; Meehan, W.P., III; Loosemore, M.P.; Cummiskey, J.; von Rosenberg, J.-P.G.; McDonagh, D. Neurological tests improve after Olympic-style boxing bouts: A pretournament and post-tournament study in the 2016 Women’s World Boxing Championships. Br. J. Sports Med. 2017, 51, 1279–1284.</li>
-</ul></li>
-<li><p>Cricket</p>
-<ul>
-<li>Runswick, O.R.; Roca, A.; Mark Williams, A.; Bezodis, N.E.; Mcrobert, A.P.; North, J.S. The impact of contextual information and a secondary task on anticipation performance: An interpretation using cognitive load theory. Appl. Cogn. Psychol. 2018, 32, 141–149.</li>
-</ul></li>
-</ul>
-</section>
+<p>Fledderman then sampled another group of volleyball players and had them perform multiple object tracking (MOT) dual task training for 8 weeks<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">8</a></sup></span>. After 8 weeks of dual-task training, there was a statistically significant improvement in cognitive skills of sustained attention and processing speed<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">8</a></sup></span>. There was no significant difference in the volleyball-specific jump task<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">8</a></sup></span>. This indicates that although the athletes improved their attention and processing speed, these cognitive skills did not reduce the dual-task cost during the jump-block<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">8</a></sup></span>. In a similar study, soccer athletes were given 10 sessions of 3D-multiple object tracking (3D-MOT) and demonstrated significantly more improvement in passing decision-making accuracy than controls but no difference in dribbling or shooting<span class="citation" data-cites="romeas3DMultipleObjectTracking2016"><sup><a href="#ref-romeas3DMultipleObjectTracking2016" role="doc-biblioref">9</a></sup></span>.</p>
+<p>The multiple object tracking (MOT) intervention consists of a participant attempting to follow multiple objects on a screen at once without losing track of any of the objects<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019 romeas3DMultipleObjectTracking2016"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">8</a>,<a href="#ref-romeas3DMultipleObjectTracking2016" role="doc-biblioref">9</a></sup></span>. Fledderman’s MOT intervention significantly improved cognitive function but did not transfer to jump-block ability. Romeas’ MOT intervention did not improve soccer dribbling or shooting ability. The 3D-MOT training did significantly improve passing ability of the soccer players, which is a skill that requires observation of multiple moving objects at once<span class="citation" data-cites="romeas3DMultipleObjectTracking2016"><sup><a href="#ref-romeas3DMultipleObjectTracking2016" role="doc-biblioref">9</a></sup></span>. This shows the importance of finding dual-task training that transfers to sport specific skills.</p>
 </section>
 <section id="importance-in-daily-life" class="level1">
 <h1>Importance in daily life</h1>
-<p>Additionally, after just 6 weeks of treadmill training with dual tasking, elderly fallers demonstrated improved scores on tests of mobility, functional performance, and cognition. These included the Berg balance scale, DGI, and gait speed for walking and the “Trails Making Test” for cognitive performance. Also QOL improved and so did physical activity as measured by the SF 36 and the physical activity scale for elderly. PMID: 25198869 “Dual task training on a treadmill to improve gait and cognitive function in elderly idiopathic fallers</p>
-<div class="callout callout-style-simple callout-none no-icon">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-body-container">
-<p>Effects of Physical Exercise Interventions on Gait-Related Dual-Task Interference in Older Adults: A Systematic Review and Meta-Analysis PMID: 25721432 DOI: 10.1159/000371577 Beurskens R, Steinberg F, Antoniewicz F, Wolff W, Granacher U. Neural Correlates of Dual-Task Walking: Effects of Cognitive versus Motor Interference in Young Adults. Neural Plast. 2016;2016:8032180. doi:10.1155/2016/8032180</p>
-</div>
-</div>
-</div>
-<p>Bherer et al found that both young and older individuals demonstrated a significant improvement in performance following dual-task training and older adults had a significantly greater improvement<span class="citation" data-cites="bhererTransferEffectsTaskset2008"><sup><a href="#ref-bhererTransferEffectsTaskset2008" role="doc-biblioref">9</a></sup></span>.</p>
+<p>Dual-task training has applications far past sport performance. Elderly individuals demonstrated a significant improvement in fall risk within 6 weeks of dual-task gait training<span class="citation" data-cites="dorfmanDualtaskTrainingTreadmill2014"><sup><a href="#ref-dorfmanDualtaskTrainingTreadmill2014" role="doc-biblioref">10</a></sup></span>. The importance of preventing falls in the elderly cannot be understated. Sylliaas et al.&nbsp;found that when an individual has more than 2 falls a year, this significantly increases risk of death<span class="citation" data-cites="sylliaasDoesMortalityAged2009"><sup><a href="#ref-sylliaasDoesMortalityAged2009" role="doc-biblioref">11</a></sup></span></p>
 </section>
 <section id="importance-in-rehabilitation" class="level1">
 <h1>Importance in Rehabilitation</h1>
-<p>“Functional magnetic resonance imaging identified altered sensorimotor cortical activation among those with ACL insufficiency at least six months post-injury when compared to healthy individuals.24”<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">6</a></sup></span></p>
-<p>“Neuroplastic changes that may persist for months to years after surgery and return to sport25,26 were identified during a simple motor task including joint motion (knee flexion/ extension) for those with ACLR”<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">6</a></sup></span></p>
-<p>“Further, neurocognitive deficiencies in reaction time and visual processing speed have been shown to be predictive of future ACL injury in intercollegiate athletes”<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">6</a></sup></span></p>
-<p>Patients who are post-op ACLR would sacrifice cognitive ability to maintain postural stability<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">6</a></sup></span>. When performing single tasks such as single or double leg balance, ACLR patients would not demonstrate differences in postural stability when compared to healthy controls<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">6</a></sup></span>.</p>
+<p>Dual-task training also plays a role in rehabilitation. Traumatic injuries, such as ACL tears are associated with alterations in sensorimotor cortical activation<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">7</a></sup></span>. Ness et al.&nbsp;found that these changes can persist for months and even years following injury or surgery<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">7</a></sup></span>. post-op ACLR patients demonstrated no differences in postural stability during single task balance exercises when compared to controls<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">7</a></sup></span>. However, during dual-task balance exercises, these patients would sacrifice cognitive ability to maintain postural stability<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">7</a></sup></span>.</p>
+<p>These results indicate that relying solely on single tasks during balance can overestimate an individual’s physical ability. Performing balance exercises and measuring physical efficacy as well as cognitive accuracy would better demonstrate the dual-task cost and potential re-injury risks.</p>
+<!-- 
+
+# Treatment Concepts
+
+## How to transfer a treatment to a dual-task
+
+- The patient should be in the associative or autonomous stage of learning
+    - Requiring minimal cues
+- Determine:
+    - What does it look like if their form begins to breakdown?
+    - How do they know if they are performing it correctly?
+
+- "Further, they identified three factors (targeted perceptual function, stimulus correspondence, and response correspondence) that may influence transfer to the field" @fleddermannOffCourtGenericPerceptualCognitive2019
+- "Based on the overall aim to maximize performance in the field, Zentgraf et al. (2017) differentiated intervention effects on different levels of transfer in elite sports using four different categories: (1) task-specific practice effects, (2) near-transfer practice effects (e.g., similar cognitive tasks), (3) further-transfer effects (e.g., sensorimotor sport skills), and (4) far-transfer effects (e.g., game-like competition performance)." @fleddermannOffCourtGenericPerceptualCognitive2019
+
+# Load
+
+In the study by Qiu et al., there was no difference in performance decrease between elite, intermediate, and non-athlete basketball players when only tracking 2 objects, but the elite athletes performed significantly better when tracking 3 or 4 objects @qiuInfluenceSportsExpertise2018.
+This indicates that all athletes did not experience attentional overload enough to make more mistakes @qiuInfluenceSportsExpertise2018.
+Similar to strength, endurance, or power training, there must be enough stress on the system to evoke change, and dual-task training must be difficult enough to create change.
+
+Tracking the accuracy of the primary task can work for some situations, but as mentioned earlier, athletes status post ACL injury/surgery would not demonstrate postural motor impairments, but rather have inaccuracies in the cognitive secondary task @nessDualTaskAssessmentImplications2020.
+In these sitautions, the dual-task cost or load should be determined by measuring the number of inaccuracies in the cognitive secondary task @nessDualTaskAssessmentImplications2020.
+
+- Eyes are on surroundings and environment
+- Change the environment so the focus is away from the movement
+- Cognitive endurance
+    - Do not let the cognitive system rest, keep loading it through multiple exercises even if you target different regions
+- Other considerations
+- Fatigue from a game (do most injuries occur early or later in games?)
+
+Cognitive secondary tasks: Generally involve auditory processing, computational skills, or working memory 
+
+Motor secondary tasks: Catching an item
+
+# Treatment Ideas
+
+- Types of secondary tasks
+- auditory, visual, memorizing, mathematical operations, and balance @moreiraAcuteChronicEffects2021 
+
+- Synaptec?
+    - Decreases anticipation and increases reaction
+- Blazepods?
+    -  -->
 </section>
-<section id="treatment-effect" class="level1">
-<h1>Treatment effect</h1>
-<p>Acute effect (“dual task cost paradigm”) There should be a reduction in performance of the task during a dual-task compared to the single-task<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span> This is theorized as the “dual-task cost paradigm” which proposes that cognitive tasks often require most of the attentional resources which results reducing cognitive and motor performance<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span> Chronic effect Chronical dual tasking results in increases in motor and cognitive performance<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span></p>
-</section>
-<section id="literature-limitation" class="level1">
-<h1>Literature Limitation</h1>
-<p>“However, the relationship between dual-tasks performance, visual search behavior, and attentional control remains unclear; future studies are recommended to elucidate how and to where athletes direct their attentional focus (e.g., gaze behavior) in situations with cognitive interference (dual-tasks). This information will allow coaches to direct athletes’ attention to the most relevant cues during tactical training.”<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span> “Despite the innovative information on the acute and chronic effects of dual-tasks in sports, the present study has some limitations. Although most of the studies presented high methodological quality, some intervening variables were not controlled. For example, there seemed to be differences in the cost of dual-tasks between athletes of different levels (experts, non-experts, and novices), different sexes, and from the team or individual sports. Calculating these differences was not possible due to the heterogeneity of participants”<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span></p>
-</section>
-<section id="how-to-assess-low-or-high-working-capacity" class="level1">
-<h1>How to Assess Low or High working capacity?</h1>
+<section id="resources-for-exercise-ideas" class="level1">
+<h1>Resources for exercise ideas</h1>
 <ul>
-<li>How to use blazepods to test this?</li>
-<li>What is the required equipment</li>
-<li>How to interpret the data</li>
-<li>Does anything demonstrate increased or decreased risk?</li>
-<li>What is the responsiveness?</li>
-<li>Are there other clinical tests?</li>
-<li>Dual-Task Cost Equation = (DT − ST)/ST × 100</li>
-<li>How long does it take to see results?</li>
-</ul>
-<p>“Three types of cognitive tasks were selected for the dual-task paradigm, which included an auditory Stroop task,22,36,37,40,41 arithmetic of varying difficulty levels,35,39 and backward digit span task of varying difficulty levels.21,23,38 The arithmetic conditions typically involved subtracting by either 3 or 7 as quickly and accurately as possible. Cognitive performance was evaluated in 90% of the included studies and typically expressed as an error ratio, response time, or the sum of correct/incorrect responses. Only one of the studies explicitly manipulated the prioritization of tasks.39”</p>
+<li><a href="https://www.instagram.com/wilk_kevin/?hl=en">Kevin Wilk, DPT</a>
 <ul>
-<li>Stroop test: attempting to read the text saying a color name while it has an inconsistent color<span class="citation" data-cites="nessDualTaskAssessmentImplications2020 scarpinaStroopColorWord2017"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">6</a>,<a href="#ref-scarpinaStroopColorWord2017" role="doc-biblioref">10</a></sup></span>.</li>
-<li>Arithmetic of varying difficulty<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">6</a></sup></span>
-<ul>
-<li>Subtracting by 3 or 7 from 100</li>
-</ul></li>
-</ul>
-</section>
-<section id="assessment" class="level1">
-<h1>Assessment</h1>
-<section id="near-transfer" class="level2">
-<h2 class="anchored" data-anchor-id="near-transfer">Near Transfer</h2>
-<section id="processing-speed" class="level3">
-<h3 class="anchored" data-anchor-id="processing-speed">Processing speed</h3>
-<ul>
-<li>“Processing speed: Processing speed was measured by the ZVT (Oswald and Roth, 1987). In this paper-and-pencil test, participants must connect the numbers from 1 to 90 in the correct order. Overall, the test consisted of four test sheets. The dependent variable was the arithmetic mean of the processing time in the four different sheets in seconds. The less time needed, the better the performance.’”<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">7</a></sup></span></li>
-</ul>
-</section>
-<section id="memory" class="level3">
-<h3 class="anchored" data-anchor-id="memory">Memory</h3>
-<p>“Memory span: Memory span was measured by a subtest of the KAI-N (Lehrl and Blaha, 2001). In this test, which is in German, the test conductor speaks out a sequence of letters or numbers, and the participants must repeat this sequence in the correct order. The sequence is extended after each correct repetition and ends when the subject is unable to repeat the sequence. Memory span is calculated by using the number of correct repetitions of letters and numbers. The higher the score, the better the performance.”<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">7</a></sup></span></p>
-</section>
-<section id="working-speed" class="level3">
-<h3 class="anchored" data-anchor-id="working-speed">Working speed</h3>
-<p>“Working speed: Working speed was measured by the letter readout test, which is a subtest of the KAI-N (Lehrl and Blaha, 2001). In this subtest, which is in German, participants must read out a randomized sequence of letters as quickly as they can. In total, they must read four sequences with a short rest in between. The dependent variable is the fastest reading time in seconds.”</p>
-</section>
-<section id="sustained-attention" class="level3">
-<h3 class="anchored" data-anchor-id="sustained-attention">Sustained attention</h3>
-<p>“Sustained attention: Sustained attention was measured by the d2-R (Brickenkamp et al., 2010). This paper-and-pencil test measures attention and concentration ability under time pressure. The test consists of 14 lines with 47 characters per line with a randomized order of the letters “d” and “p.” Each letter is equipped with one, two, three, or four vertical strikes below or above the letter. The task of the participants is to mark the letter “d” with two stripes. All other characters are distractors, and participants are supposed to ignore these characters. For each line, participants have 20 s, and there is no break between the lines. The dependent variable is CP, which is calculated from the processed target objects and the errors. The higher the score, the better the performance.”</p>
-</section>
-</section>
-<section id="far-transfer-test" class="level2">
-<h2 class="anchored" data-anchor-id="far-transfer-test">Far Transfer test</h2>
-<p>This would be a sport specific test.</p>
-<p>For example, a volleyball far transfer test, the ground force reaction and jump height were measured when a participant performed a jump-block against simulated game scenario<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">7</a></sup></span>.</p>
-</section>
-</section>
-<section id="treatment-concepts" class="level1">
-<h1>Treatment Concepts</h1>
-<section id="how-to-transfer-a-treatment-to-a-dual-task" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-transfer-a-treatment-to-a-dual-task">How to transfer a treatment to a dual-task</h2>
-<ul>
-<li>The patient should be in the associative or autonomous stage of learning
-<ul>
-<li>Requiring minimal cues</li>
-</ul></li>
-<li>Determine:
-<ul>
-<li>What does it look like if their form begins to breakdown?</li>
-<li>How do they know if they are performing it correctly?</li>
-</ul></li>
-<li>“Further, they identified three factors (targeted perceptual function, stimulus correspondence, and response correspondence) that may influence transfer to the field”<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">7</a></sup></span></li>
-<li>“Based on the overall aim to maximize performance in the field, Zentgraf et al.&nbsp;(2017) differentiated intervention effects on different levels of transfer in elite sports using four different categories: (1) task-specific practice effects, (2) near-transfer practice effects (e.g., similar cognitive tasks), (3) further-transfer effects (e.g., sensorimotor sport skills), and (4) far-transfer effects (e.g., game-like competition performance).”<span class="citation" data-cites="fleddermannOffCourtGenericPerceptualCognitive2019"><sup><a href="#ref-fleddermannOffCourtGenericPerceptualCognitive2019" role="doc-biblioref">7</a></sup></span></li>
-</ul>
-</section>
-<section id="load" class="level2">
-<h2 class="anchored" data-anchor-id="load">Load</h2>
-<p>In the study by Qiu et al., there was no difference in performance decrease between elite, intermediate, and non-athlete basketball players when only tracking 2 objects, but the elite athletes performed significantly better when tracking 3 or 4 objects<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>. This indicates that all athletes did not experience attentional overload enough to make more mistakes<span class="citation" data-cites="qiuInfluenceSportsExpertise2018"><sup><a href="#ref-qiuInfluenceSportsExpertise2018" role="doc-biblioref">4</a></sup></span>. Similar to strength, endurance, or power training, there must be enough stress on the system to evoke change, and dual-task training must be difficult enough to create change.</p>
-<p>Tracking the accuracy of the primary task can work for some situations, but as mentioned earlier, athletes status post ACL injury/surgery would not demonstrate postural motor impairments, but rather have inaccuracies in the cognitive secondary task<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">6</a></sup></span>. In these sitautions, the dual-task cost or load should be determined by measuring the number of inaccuracies in the cognitive secondary task<span class="citation" data-cites="nessDualTaskAssessmentImplications2020"><sup><a href="#ref-nessDualTaskAssessmentImplications2020" role="doc-biblioref">6</a></sup></span>.</p>
-<ul>
-<li>Eyes are on surroundings and environment</li>
-<li>Change the environment so the focus is away from the movement</li>
-<li>Cognitive endurance
-<ul>
-<li>Do not let the cognitive system rest, keep loading it through multiple exercises even if you target different regions</li>
-</ul></li>
-<li>Other considerations</li>
-<li>Fatigue from a game (do most injuries occur early or later in games?)</li>
-</ul>
-<p>Cognitive secondary tasks: Generally involve auditory processing, computational skills, or working memory</p>
-<p>Motor secondary tasks: Catching an item</p>
-</section>
-<section id="treatment-ideas" class="level2">
-<h2 class="anchored" data-anchor-id="treatment-ideas">Treatment Ideas</h2>
-<ul>
-<li>Types of secondary tasks</li>
-<li>auditory, visual, memorizing, mathematical operations, and balance<span class="citation" data-cites="moreiraAcuteChronicEffects2021"><sup><a href="#ref-moreiraAcuteChronicEffects2021" role="doc-biblioref">2</a></sup></span></li>
-</ul>
-</section>
-<section id="modalities" class="level2">
-<h2 class="anchored" data-anchor-id="modalities">Modalities</h2>
-<ul>
-<li>Synaptec?
-<ul>
-<li>Decreases anticipation and increases reaction</li>
-</ul></li>
-<li>Blazepods?
-<ul>
-<li></li>
-</ul></li>
-</ul>
-</section>
-<section id="resources-for-exercise-ideas" class="level2">
-<h2 class="anchored" data-anchor-id="resources-for-exercise-ideas">Resources for exercise ideas</h2>
-<ul>
-<li>Kevin Wilk IG</li>
-<li>Blazepod</li>
 <li><a href="https://youtube.com/shorts/jepG7TSCjjw">dual task SLB with catches</a></li>
 <li><a href="https://youtube.com/shorts/HLUJjsX3BSg?feature=share">dual task blazepod catch and touch example</a></li>
 <li><a href="https://youtube.com/shorts/_ZJ0e0-2Kk4?feature=share">dual task SLB with catches</a></li>
+</ul></li>
 </ul>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/vq_wR8V0OWA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<blockquote class="instagram-media blockquote" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/reel/DDMuZMRRK7b/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+<div style="padding:16px;">
+<a href="https://www.instagram.com/reel/DDMuZMRRK7b/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">
+<div style=" display: flex; flex-direction: row; align-items: center;">
+<div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;">
+
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;">
+
+</div>
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;">
+
+</div>
+</div>
+</div>
+<div style="padding: 19% 0;">
+
+</div>
+<div style="display:block; height:50px; margin:0 auto 12px; width:50px;">
+<svg width="50px" height="50px" viewbox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xlink="https://www.w3.org/1999/xlink">
+<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g>
+</svg>
+</div>
+<div style="padding-top: 8px;">
+<div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">
+View this post on Instagram
+</div>
+</div>
+<div style="padding: 12.5% 0;">
+
+</div>
+<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+<div>
+<div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);">
+
+</div>
+<div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;">
+
+</div>
+<div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);">
+
+</div>
+</div>
+<div style="margin-left: 8px;">
+<div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;">
+
+</div>
+<div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)">
+
+</div>
+</div>
+<div style="margin-left: auto;">
+<div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);">
+
+</div>
+<div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);">
+
+</div>
+<div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);">
+
+</div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;">
+
+</div>
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;">
+
+</div>
+</div>
+</a>
+<p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
+<a href="https://www.instagram.com/reel/DDMuZMRRK7b/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Kevin Wilk, DPT, FAPTA (<span class="citation" data-cites="wilk_kevin"><sup></sup></span></a><a href="#ref-wilk_kevin" role="doc-biblioref"><strong>wilk_kevin?</strong></a>)
+</p>
+</div>
+</blockquote>
+<script async="" src="//www.instagram.com/embed.js"></script>
+<blockquote class="instagram-media blockquote" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/reel/DC4EnLHRtKY/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+<div style="padding:16px;">
+<a href="https://www.instagram.com/reel/DC4EnLHRtKY/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">
+<div style=" display: flex; flex-direction: row; align-items: center;">
+<div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;">
+
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;">
+
+</div>
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;">
+
+</div>
+</div>
+</div>
+<div style="padding: 19% 0;">
+
+</div>
+<div style="display:block; height:50px; margin:0 auto 12px; width:50px;">
+<svg width="50px" height="50px" viewbox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xlink="https://www.w3.org/1999/xlink">
+<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g>
+</svg>
+</div>
+<div style="padding-top: 8px;">
+<div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">
+View this post on Instagram
+</div>
+</div>
+<div style="padding: 12.5% 0;">
+
+</div>
+<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+<div>
+<div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);">
+
+</div>
+<div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;">
+
+</div>
+<div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);">
+
+</div>
+</div>
+<div style="margin-left: 8px;">
+<div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;">
+
+</div>
+<div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)">
+
+</div>
+</div>
+<div style="margin-left: auto;">
+<div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);">
+
+</div>
+<div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);">
+
+</div>
+<div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);">
+
+</div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;">
+
+</div>
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;">
+
+</div>
+</div>
+</a>
+<p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
+<a href="https://www.instagram.com/reel/DC4EnLHRtKY/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Kevin Wilk, DPT, FAPTA (<span class="citation" data-cites="wilk_kevin"><sup></sup></span></a><a href="#ref-wilk_kevin" role="doc-biblioref"><strong>wilk_kevin?</strong></a>)
+</p>
+</div>
+</blockquote>
+<script async="" src="//www.instagram.com/embed.js"></script>
 
 
 
-</section>
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
@@ -528,24 +543,27 @@ Working memory function see @baddeleyWorkingMemoryLooking2003
 <div id="ref-ducrocqAdaptiveWorkingMemory2017" class="csl-entry" role="listitem">
 <div class="csl-left-margin">5. </div><div class="csl-right-inline">Ducrocq E, Wilson M, Smith TJ, Derakshan N. Adaptive <span>Working Memory Training Reduces</span> the <span>Negative Impact</span> of <span>Anxiety</span> on <span>Competitive Motor Performance</span>. <em>Journal of Sport &amp; Exercise Psychology</em>. 2017;39(6):412-422. doi:<a href="https://doi.org/10.1123/jsep.2017-0217">10.1123/jsep.2017-0217</a></div>
 </div>
+<div id="ref-gonzalez-millanEffectsAddingDualtask2024" class="csl-entry" role="listitem">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">González-Millán S, Illera-Domínguez V, Toro-Román V, et al. Effects of adding dual-task or sport-specific task constrains to jump-landing tests on biomechanical parameters related to injury risk factors in team sports: A systematic review. <em>PeerJ</em>. 2024;12:e17720. doi:<a href="https://doi.org/10.7717/peerj.17720">10.7717/peerj.17720</a></div>
+</div>
 <div id="ref-nessDualTaskAssessmentImplications2020" class="csl-entry" role="listitem">
-<div class="csl-left-margin">6. </div><div class="csl-right-inline">Ness BM, Zimney K, Schweinle WE, Cleland JA. Dual-<span>Task Assessment Implications</span> for <span>Anterior Cruciate Ligament Injury</span>: <span>A Systematic Review</span>. <em>International Journal of Sports Physical Therapy</em>. 2020;15(6):840-855. doi:<a href="https://doi.org/10.26603/ijspt20200840">10.26603/ijspt20200840</a></div>
+<div class="csl-left-margin">7. </div><div class="csl-right-inline">Ness BM, Zimney K, Schweinle WE, Cleland JA. Dual-<span>Task Assessment Implications</span> for <span>Anterior Cruciate Ligament Injury</span>: <span>A Systematic Review</span>. <em>International Journal of Sports Physical Therapy</em>. 2020;15(6):840-855. doi:<a href="https://doi.org/10.26603/ijspt20200840">10.26603/ijspt20200840</a></div>
 </div>
 <div id="ref-fleddermannOffCourtGenericPerceptualCognitive2019" class="csl-entry" role="listitem">
-<div class="csl-left-margin">7. </div><div class="csl-right-inline">Fleddermann MT, Heppe H, Zentgraf K. Off-<span>Court Generic Perceptual-Cognitive Training</span> in <span>Elite Volleyball Athletes</span>: <span>Task-Specific Effects</span> and <span>Levels</span> of <span>Transfer</span>. <em>Frontiers in Psychology</em>. 2019;10:1599. doi:<a href="https://doi.org/10.3389/fpsyg.2019.01599">10.3389/fpsyg.2019.01599</a></div>
+<div class="csl-left-margin">8. </div><div class="csl-right-inline">Fleddermann MT, Heppe H, Zentgraf K. Off-<span>Court Generic Perceptual-Cognitive Training</span> in <span>Elite Volleyball Athletes</span>: <span>Task-Specific Effects</span> and <span>Levels</span> of <span>Transfer</span>. <em>Frontiers in Psychology</em>. 2019;10:1599. doi:<a href="https://doi.org/10.3389/fpsyg.2019.01599">10.3389/fpsyg.2019.01599</a></div>
 </div>
 <div id="ref-romeas3DMultipleObjectTracking2016" class="csl-entry" role="listitem">
-<div class="csl-left-margin">8. </div><div class="csl-right-inline">Romeas T, Guldner A, Faubert J. <span>3D-Multiple Object Tracking</span> training task improves passing decision-making accuracy in soccer players. <em>Psychology of Sport and Exercise</em>. 2016;22:1-9. doi:<a href="https://doi.org/10.1016/j.psychsport.2015.06.002">10.1016/j.psychsport.2015.06.002</a></div>
+<div class="csl-left-margin">9. </div><div class="csl-right-inline">Romeas T, Guldner A, Faubert J. <span>3D-Multiple Object Tracking</span> training task improves passing decision-making accuracy in soccer players. <em>Psychology of Sport and Exercise</em>. 2016;22:1-9. doi:<a href="https://doi.org/10.1016/j.psychsport.2015.06.002">10.1016/j.psychsport.2015.06.002</a></div>
 </div>
-<div id="ref-bhererTransferEffectsTaskset2008" class="csl-entry" role="listitem">
-<div class="csl-left-margin">9. </div><div class="csl-right-inline">Bherer L, Kramer AF, Peterson MS, Colcombe S, Erickson K, Becic E. Transfer effects in task-set cost and dual-task cost after dual-task training in older and younger adults: Further evidence for cognitive plasticity in attentional control in late adulthood. <em>Experimental Aging Research</em>. 2008;34(3):188-219. doi:<a href="https://doi.org/10.1080/03610730802070068">10.1080/03610730802070068</a></div>
+<div id="ref-dorfmanDualtaskTrainingTreadmill2014" class="csl-entry" role="listitem">
+<div class="csl-left-margin">10. </div><div class="csl-right-inline">Dorfman M, Herman T, Brozgol M, et al. Dual-task training on a treadmill to improve gait and cognitive function in elderly idiopathic fallers. <em>Journal of neurologic physical therapy: JNPT</em>. 2014;38(4):246-253. doi:<a href="https://doi.org/10.1097/NPT.0000000000000057">10.1097/NPT.0000000000000057</a></div>
 </div>
-<div id="ref-scarpinaStroopColorWord2017" class="csl-entry" role="listitem">
-<div class="csl-left-margin">10. </div><div class="csl-right-inline">Scarpina F, Tagini S. The <span>Stroop Color</span> and <span>Word Test</span>. <em>Frontiers in Psychology</em>. 2017;8:557. doi:<a href="https://doi.org/10.3389/fpsyg.2017.00557">10.3389/fpsyg.2017.00557</a></div>
+<div id="ref-sylliaasDoesMortalityAged2009" class="csl-entry" role="listitem">
+<div class="csl-left-margin">11. </div><div class="csl-right-inline">Sylliaas H, Idland G, Sandvik L, Forsen L, Bergland A. Does mortality of the aged increase with the number of falls? <span>Results</span> from a nine-year follow-up study. <em>European Journal of Epidemiology</em>. 2009;24(7):351-355. doi:<a href="https://doi.org/10.1007/s10654-009-9348-5">10.1007/s10654-009-9348-5</a></div>
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
-<div class="">Yomogida N, Kerstein C. Dual-Task Presentation.
-<a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/Presentations/Inservice/Stretch
+<div class="">Yomogida N, Kerstein C. Stretch-Affect Physical
+Therapy Inservice. <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/Presentations/Inservice/Stretch affect/inservice_stretch_affect_dual_task.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/Presentations/Inservice/Stretch
 affect/inservice_stretch_affect_dual_task.html</a></div>
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

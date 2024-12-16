@@ -1,0 +1,283 @@
+---
+title: Sternocleidomastoid muscle (SCM)
+---
+
+<!--
+To do list
+
+- Neuman
+- @donnellyTravellSimonsSimons2019
+- Atlas pictures
+- @duttonDuttonOrthopaedicExamination2020
+
+in progress
+
+- @finandoTriggerPointTherapy2005
+
+done:
+
+- @gilroyAtlasAnatomy2020
+
+-->
+
+
+```{python tbl-oian}
+#| label: tbl-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Sternocleidomastoid muscle"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'muscle_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['sternocleidomastoid']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
+# Origin {#origin}
+
+This is considered the distal attachment of the SCM @finandoTriggerPointTherapy2005.
+
+- **Sternal head**: [sternum (manubrium)]({{< var ref-sternum-bone.path >}}) @gilroyAtlasAnatomy2020
+- **Clavicular head**: [Clavicle (medial 1/3)]({{< var ref-clavicle-bone.path >}}) @gilroyAtlasAnatomy2020
+
+
+# Insertion {#insertion} 
+
+This is considered the proximal attachment of the SCM @finandoTriggerPointTherapy2005.
+
+- [Mastoid process of the Temporal bone]({{< var ref-temporal-bone.mastoid-process >}}) @gilroyAtlasAnatomy2020
+- [Occipital bone (superior nuchal line)]({{< var ref-occipital-bone.path >}}) @gilroyAtlasAnatomy2020, more specifically the lateral half @finandoTriggerPointTherapy2005.
+
+# Innervation {#innervation}
+[**Motor**: CN XI Accessory n.]({{< var ref-cn11.path >}}) and **Proprioception**: Cervical plexus (C2, C3, C4) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+## Unilateral Contraction
+
+- Ipsilateral sidebend of the cervical spine [@gilroyAtlasAnatomy2020; @finandoTriggerPointTherapy2005; @neumannKinesiologyMusculoskeletalSystem2017]
+- Contralateral rotation of the cervical spine [@gilroyAtlasAnatomy2020; @finandoTriggerPointTherapy2005; @neumannKinesiologyMusculoskeletalSystem2017]
+
+## Bilateral Contraction
+
+Bilateral contraction of the SCM results in simultaneous head and upper cervical extension [@gilroyAtlasAnatomy2020; @neumannKinesiologyMusculoskeletalSystem2017] and cervical flexion of mid-to-lower cervical spine [@neumannKinesiologyMusculoskeletalSystem2017; @finandoTriggerPointTherapy2005].
+This seeming contradiction is explained [below](#sagittal-plane-biomechanics).
+
+When the head is fixed, the SCM can aid in [respiration]({{< var ref-respiration.path >}}) [@gilroyAtlasAnatomy2020; @finandoTriggerPointTherapy2005]
+The SCM can prevent posterior translation of the head during mastication @finandoTriggerPointTherapy2005.
+
+# Biomechanics {#biomechanics}
+
+## Sagittal plane contradiction {#sagittal-plane-biomechanics}
+
+The SCM seems to have contradictory actions in the sagittal plane since it performs both
+
+Below ~C3, the SCM crosses *anterior* to the medial-lateral axes of rotation @neumannKinesiologyMusculoskeletalSystem2017.
+Above C3, the SCM crosses just *posterior* to the medial-lateral axes of rotation @neumannKinesiologyMusculoskeletalSystem2017.
+As a result, this creates a strong *flexion* torque to the mid and lower cervical spine as well as a slight extension torque to the upper cervical spine @neumannKinesiologyMusculoskeletalSystem2017.
+
+## Torque
+
+The lever arm and resulting torque created by the SCM is greatly affected by the posture of the craniocervical region @neumannKinesiologyMusculoskeletalSystem2017.
+
+Based on computer modeling... @neumannKinesiologyMusculoskeletalSystem2017
+
+When the mid-to-lower cervical spine is flexed, the moment arm doubles the resultant torque @neumannKinesiologyMusculoskeletalSystem2017.
+
+::: {.callout-note}
+This increase in torque with mid-lower cervical flexion plays a major role in the perpetuation and worsening of forward head posture @neumannKinesiologyMusculoskeletalSystem2017.
+:::
+
+# Muscle groups
+The sternocleidomastoid is part of the [Superficial neck muscle group]({{< var ref-oians.path >}})
+
+
+# Palpation {#palpation}
+
+Before palpating the SCM, you must first find these landmarks:
+
+1.  Mastoid process
+    - Follow the base of the occiput toward its lateral edge
+    - The rounded, most lateral prominence is the mastoid process
+1. [Clavicle]({{< var ref-clavicle-bone.palpation >}})
+1. [Sternoclavicular Joint]({{< var ref-sternoclavicular-joint.palpation >}})
+1. [Transverse process of C1]({{< var ref-c1-bone.transverse-process.palpation >}})
+
+::: {.callout-caution}
+Palpate the C1 transverse process gently since this area may be quite tender @finandoTriggerPointTherapy2005.
+:::
+
+Now we can begin palpating the SCM.
+
+Position the patient in supine @finandoTriggerPointTherapy2005.
+Begin at the mastoid process @finandoTriggerPointTherapy2005.
+Since the mastoid process is the [insertion](#insertion) of the SCM, you should be able to palpate the thicker proximal part of the muscle @finandoTriggerPointTherapy2005.
+Place your index finger on the medial border, your ring (4th) finger on the lateral border, and your middle (3rd) finger on the muscle belly @finandoTriggerPointTherapy2005.
+Follow the SCM anterior and inferiorly to its [origin](#origin) on the [manubrium](#origin) and the [clavicle](#origin) @finandoTriggerPointTherapy2005.
+
+Now that we have found and traced the muscle belly, we need to differentiate between the sternal and clavicular heads of the SCM
+The *sternal head* is said to be "thin" and "cord-like" near the origin at the manubrium @finandoTriggerPointTherapy2005.
+The *clavicular head* is described as "broad" and "flat" at its origin on the clavicle @finandoTriggerPointTherapy2005.
+
+Move the head into extension and cervical contralateral rotation to help differentiate between the [sternal head](#sternal-head-pain-pattern) and [clavicular head](#clavicular-head-pain-pattern) @finandoTriggerPointTherapy2005.
+
+::: {.callout-note}
+It should be noted that the SCM and the [upper trapezius]({{< var ref-upper-trapezius.path >}}) share a continuous attachment along the base of the [occiput]({{< var ref-occipital-bone.path >}}).
+At the mastoid process, these two muscles split and have a noncontinuous attachment along the superior border of the clavicle @finandoTriggerPointTherapy2005.
+:::
+
+
+
+# Trigger Points
+
+![Trigger points of the SCM @finandoTriggerPointTherapy2005](/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/images/finandoTriggerPointTherapy2005 SCM trigger points.png)
+
+
+# Pain Patterns
+
+::: {.columns}
+::: {.column}
+
+The SCM has 2 distinct pain patterns that are attributed to dysfunction related to the sternal head or clavicular head.
+
+### Clavicular head pattern {#clavicular-head-pain-pattern}
+
+- Pain can refer to the frontal area, extend across the forehead to the contralateral side @finandoTriggerPointTherapy2005.
+    - These symptoms are more consistent with severe clavicular head dysfunction @finandoTriggerPointTherapy2005.
+- Pain deep in ipsilateral ear @finandoTriggerPointTherapy2005
+- Symptoms are frontal headache @finandoTriggerPointTherapy2005
+- Dizziness @finandoTriggerPointTherapy2005
+- Postural imbalance @finandoTriggerPointTherapy2005
+
+### Sternal Head {#sternal-head-pain-pattern}
+
+- Pain
+    - Cheek @finandoTriggerPointTherapy2005
+    - Temple @finandoTriggerPointTherapy2005
+    - Orbit pain @finandoTriggerPointTherapy2005
+    - The pain can refer across the cheek ,into the maxilla, and over the supraorbital ridge @finandoTriggerPointTherapy2005.
+    - Vertex pain with scalp tenderness.
+- Dry cough @finandoTriggerPointTherapy2005
+- Autonomic phenomena of the eye including tearing and redness @finandoTriggerPointTherapy2005.
+
+:::
+::: {.column}
+
+![SCM Pain pattern @finandoTriggerPointTherapy2005](/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/images/finandoTriggerPointTherapy2005 SCM pain pattern.png)
+
+:::
+:::
+
+
+
+
+# Etiology
+
+Common causes of SCM dysfunction include:
+
+- Mechanical overload in extension or flexion @finandoTriggerPointTherapy2005
+- Chronic rotation to one side @finandoTriggerPointTherapy2005
+    - Truck drivers
+    - Factory workers
+- Whiplash @finandoTriggerPointTherapy2005
+- Compression of the neck @finandoTriggerPointTherapy2005
+- Paradoxical breathing @finandoTriggerPointTherapy2005
+- Chronic cough @finandoTriggerPointTherapy2005
+
+# Assessments
+
+# Satellite Trigger points
+
+When a patient presents with SCM dysfunction and trigger points, it is common to see these muscles to have associated "satellite trigger points":
+
+- Contralateral SCM @finandoTriggerPointTherapy2005
+- [Scalenes]({{< var ref-scalene-muscle-group.path >}}) @finandoTriggerPointTherapy2005
+    - [Anterior scalene]({{< var ref-anterior-scalene.path >}})
+    - [Middle scalene]({{< var ref-middle-scalene.path >}})
+    - [Posterior scalene]({{< var ref-posterior-scalene.path >}})
+- [Levator scapulae]({{< var ref-levator-scapulae.path >}}) @finandoTriggerPointTherapy2005
+- [Trapezius]({{< var ref-trapezius.path >}}) @finandoTriggerPointTherapy2005
+- [Splenius cervicis]({{< var ref-splenius-cervicis.path >}}) @finandoTriggerPointTherapy2005
+- [Sternalis]({{< var ref-sternalis.path >}}) @finandoTriggerPointTherapy2005
+- [Pectoralis major]({{< var ref-pectoralis-major.path >}}) @finandoTriggerPointTherapy2005
+
+
+# Affected Organ Systems
+
+SCM dysfunction is often associated with respiratory system problems including the eyes, ears, throat, and nasal sinuses @finandoTriggerPointTherapy2005.
+
+# Associated Zones, Meridians, & Points
+
+According to Finando @finandoTriggerPointTherapy2005 Certain zones, meridians, and points are associated with SCM dysfunction:
+
+- Ventral and lateral zones @finandoTriggerPointTherapy2005
+- Foot Yang Ming Stomach meridian @finandoTriggerPointTherapy2005
+- ST 10, 11, and 12 @finandoTriggerPointTherapy2005
+- CO 17 and 18 @finandoTriggerPointTherapy2005
+- SJ 16 @finandoTriggerPointTherapy2005
+- SI 16 @finandoTriggerPointTherapy2005
+
+# Stretches
+
+Since the sternal and clavicular heads of the SCM can have isolated dysfunction, it is important to understand how to bias each head when stretching.
+
+::: {.columns}
+::: {.column}
+The clavicular head can be stretched through head and neck extension coupled with contralateral cervical rotation @finandoTriggerPointTherapy2005.
+Based on this, the clavicular head operates more in the sagittal and transverse planes.
+:::
+::: {.column}
+![SCM Clavicular head stretch @finandoTriggerPointTherapy2005 ](/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/images/finandoTriggerPointTherapy2005 SCM clavicular head stretch.png)
+:::
+:::
+
+
+::: {.columns}
+::: {.column}
+The *sternal head* is most stretched through full ipsilateral cervical rotation with cervical flexion @finandoTriggerPointTherapy2005.
+In practice, cue a patient to "touch your chin to your shoulder."
+:::
+::: {.column}
+
+![SCM Sternal Head Stretch @finandoTriggerPointTherapy2005](/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/images/finandoTriggerPointTherapy2005 SCM sternal head stretch.png)
+
+:::
+:::
+
+
+# Strengthening
+
+
+"Isometric against mild forward resistance" exercise @finandoTriggerPointTherapy2005
+
+1. Gently place the palm on the forehead
+    - Instruct the patient "do not let me move you"
+2. Have the patient clasp their hands behind their head just below the crown and have the patient press their neck against the resistance of the hands @finandoTriggerPointTherapy2005
+
+# Clinical significance

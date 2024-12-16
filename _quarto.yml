@@ -6,6 +6,9 @@ execute:
   freeze: auto
   error: true
   cache: false
+  keep-ipynb: false
+  python:
+    executable: /Users/nathanielyomogida/miniconda3/bin/python3
 
 lightbox: auto
 
@@ -49,12 +52,12 @@ website:
   # title: "YK LAB"
   site-url: https://nateyomo.github.io/Yomogida-Kerstein-Lab
   navbar:
-    logo: "/images/square 2 lines mid.svg"
+    logo: "/branding/Yomokerst/yomokerst heavy condensed.svg"
     left:
       - href: index.qmd
         text: Home
-      - href: The Archive/archive_index.qmd
-        text: Archive
+      - href: The Archive/research_and_development_index.qmd
+        text: "R&D"
       - href: guide.qmd
         text: Guide
       - href: journal_club_index.qmd

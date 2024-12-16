@@ -1,0 +1,16 @@
+{
+  "hash": "c43f1f4bb00e5ee90bf8b7aaaf9cdc97",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Quadratus lumborum (QL)\n---\n\n::: {#tbl-glute-ed-oian .cell message='false' execution_count=1}\n\n::: {.cell-output .cell-output-display}\n```{=html}\n<table border=\"1\" class=\"dataframe oian-table\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>Muscle</th>\n      <th>Origin</th>\n      <th>Insertion</th>\n      <th>Innervation</th>\n      <th>Action</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n```\n:::\n:::\n\n\n# Soft tissue massage\n\n- STM along iliac crest\n- STM from iliac crest to each origin at each TP\n    - Go from iliac crest to each TP\n    - Push down and under paraspinals\n    - Work all the way up to the 12th rib\n- STM to anterior fibers\n\n# Stretching\n\n- Lateral breathing on wedge\n    - Wedge under contralateral side and sidelying on contralateral side\n    - Focus on breathing through ipsilateral side to create expansion\n\n# Exercises\n\n- Elevated hip hike\n    - Ipsilateral leg is on a box\n    - Contralateral leg is lower and raised up and down\n\n# Fascial considerations\n\n- If there is QL dysfunction, consider working on the glutes since the fascial lines cross from the glutes into the \n\n\n# Strain Counterstrain\n\n\n{{< video https://www.youtube.com/watch?v=V9Cfvqn3IxU >}}\n\n",
+    "supporting": [
+      "quadratus_lumborum_files"
+    ],
+    "filters": [],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js\" integrity=\"sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==\" crossorigin=\"anonymous\"></script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js\" integrity=\"sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==\" crossorigin=\"anonymous\" data-relocate-top=\"true\"></script>\n<script type=\"application/javascript\">define('jquery', [],function() {return window.jQuery;})</script>\n"
+      ]
+    }
+  }
+}

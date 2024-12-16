@@ -49,22 +49,123 @@ title: Muscles of the Head and Neck
 
 ## Muscles of Mastication
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|----------|--------|-------|-----|--------|
-| [Masseter muscle]({{< var ref-masseter.path >}}) | {{< var ref-masseter.origin >}} | {{< var ref-masseter.insertion >}} | {{< var ref-masseter.nerve >}} | {{< var ref-masseter.action >}} |
-| [Temporalis muscle]({{< var ref-temporalis.path >}}) | {{< var ref-temporalis.origin >}} | {{< var ref-temporalis.insertion >}} | {{< var ref-temporalis.nerve >}} | {{< var ref-temporalis.action >}} |
-| [Lateral Pterygoid]({{< var ref-lateral-pterygoid.path >}}) | {{< var ref-lateral-pterygoid.origin >}} | {{< var ref-lateral-pterygoid.insertion >}} | {{< var ref-lateral-pterygoid.nerve >}} | {{< var ref-lateral-pterygoid.action >}} |
-| [Medial Pterygoid]({{< var ref-medial-pterygoid.path >}}) | {{< var ref-medial-pterygoid.origin >}} | {{< var ref-medial-pterygoid.insertion >}} | {{< var ref-medial-pterygoid.nerve >}} | {{< var ref-medial-pterygoid.action >}} |
-: Muscles of Mastication OIAN {.striped .hover}
+```{python tbl-primary-mastication-oian}
+#| label: tbl-primary-mastication-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Primary muscles of Mastication"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['mastication_muscles_primary']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+```{python tbl-accessory-mastication-oian}
+#| label: tbl-accessory-mastication-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Accessory muscles of Mastication"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['mastication_muscles_accessory']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
 
 
 ## Muscles of the Neck
 
 ### Superficial Neck Muscles
 
-- Platysma
-- Sternocleidomastoid
-- Trapezius
+```{python tbl-superficial-neck-oian}
+#| label: tbl-superficial-neck-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Superficial Neck muscles"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['neck_muscles_superficial']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
 
 ### Nuchal muscles (Intrinsic back muscles)
 
@@ -83,3 +184,41 @@ title: Muscles of the Head and Neck
 | [Obliquus Capitis Inferior]({{< var ref-obliquus-capitis-inferior.path >}}) | {{< var ref-obliquus-capitis-inferior.origin >}} | {{< var ref-obliquus-capitis-inferior.insertion >}} | {{< var ref-obliquus-capitis-inferior.nerve >}} | {{< var ref-obliquus-capitis-inferior.action >}} |
 
 : Nuchal muscles (Intrinsic back muscles) {.striped .hover}
+
+```{python tbl-intrinsic-back-oian}
+#| label: tbl-intrinsic-back-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Intrinsic back muscles"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['intrinsic_back_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+

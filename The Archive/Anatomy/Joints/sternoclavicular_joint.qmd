@@ -47,21 +47,46 @@ Since the SCJ is a saddle joint, both the distal and proximal joint surfaces hav
 
 
 
+# Palpation {#palpation}
 
+To palpate the sternoclavicular joint:
 
+- Locate the *suprasternal notch*, which can be found on the superior aspect of the manubrium @finandoTriggerPointTherapy2005.
+- Move laterally from the *suprasternal notch* to the sternoclavicular joint @finandoTriggerPointTherapy2005.
+- Alternating elevation and depression of the shoulder while palpating the joint will help you to clearly distinguish between the [manubrium]({{< var ref-sternum-bone.manubrium >}}) and the [clavicle]({{< var ref-clavicle-bone.path >}}) @finandoTriggerPointTherapy2005.
 
-
-
-
-
+::: {.callout-note}
+At the sternoclavicular joint, the [clavicle]({{< var ref-clavicle-bone.path >}}) is raised slightly above the manubrium at the articulation @finandoTriggerPointTherapy2005.
+:::
 
 
 # Stabilization
 
-:::{layout-ncol="3"}
-### Active Stability
-The subclavius muscle works to actively stabilize the clavicle in the SCJ [@duttonDuttonOrthopaedicExamination2020; @gilroyAtlasAnatomy2020]
+Tissues that stabilize the SCJ:
+
+Anterior and posterior sternoclavicular joint ligaments
+Interclavicular ligament
+Costoclavicular ligament
+Articular disc
+
+
+::: {.columns}
+::: {.column}
+### Passive Stabilizers
 :::
+::: {.column}
+### Active Stabilizers
+
+- [Subclavius]({{< var ref-subclavius.path >}}) [@duttonDuttonOrthopaedicExamination2020; @gilroyAtlasAnatomy2020; @neumannKinesiologyMusculoskeletalSystem2017]
+- [Sternocleidomastoid]({{< var ref-sternocleidomastoid.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+- [Sternothyroid]({{< var ref-sternothyroid.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+- [Sternohyoid]({{< var ref-sternohyoid.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
+:::
+
+
+
 
 # Clinical Significance
 

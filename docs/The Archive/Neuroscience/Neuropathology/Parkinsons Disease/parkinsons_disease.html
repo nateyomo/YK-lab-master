@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.55">
+<meta name="generator" content="quarto-1.6.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -57,12 +57,15 @@ div.csl-indent {
 <script src="../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-43df0d6f53b733b42d37fa7808e17715.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../../../site_libs/bootstrap/bootstrap-2cd373bbd777488a2901da25ac479b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../../site_libs/bootstrap/bootstrap-dark-30247d3b2cd0522fbeca720c4281c240.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -89,11 +92,49 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../../../styles.css">
+<meta name="twitter:title" content="Parkinson’s Disease (PD)">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/images/morrisPathogenesisParkinsonsDisease2024 fig2 molecular mehcanisms contributing to pd.png">
+<meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
+<meta name="twitter:site" content="@YomoKerstLab">
+<meta name="twitter:image:alt" content="Molecular mechanisms contributing to PD5">
+<meta name="twitter:image-height" content="1206">
+<meta name="twitter:image-width" content="2040">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed">
+<body class="floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -101,7 +142,7 @@ div.csl-indent {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../../../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../../../images/square 2 lines mid.svg" alt="" class="navbar-logo">
+    <img src="../../../../branding/Yomokerst/yomokerst heavy condensed.svg" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -115,15 +156,15 @@ div.csl-indent {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../The Archive/archive_index.html"> 
-<span class="menu-text">Archive</span></a>
+    <a class="nav-link" href="../../../../The Archive/research_and_development_index.html"> 
+<span class="menu-text">R&amp;D</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../../../guide.html"> 
 <span class="menu-text">Guide</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../journal club index.html"> 
+    <a class="nav-link" href="../../../../journal_club_index.html"> 
 <span class="menu-text">Journal Club</span></a>
   </li>  
   <li class="nav-item">
@@ -145,18 +186,17 @@ div.csl-indent {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-<!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#epidemiology" id="toc-epidemiology" class="nav-link active" data-scroll-target="#epidemiology">Epidemiology</a>
+  <li><a href="#epidemiology" id="toc-epidemiology" class="nav-link active" data-scroll-target="#epidemiology">Epidemiology</a></li>
+  <li><a href="#etiology" id="toc-etiology" class="nav-link" data-scroll-target="#etiology">Etiology</a>
   <ul class="collapse">
   <li><a href="#genetic" id="toc-genetic" class="nav-link" data-scroll-target="#genetic">Genetic</a></li>
   </ul></li>
-  <li><a href="#gut-brain-axis" id="toc-gut-brain-axis" class="nav-link" data-scroll-target="#gut-brain-axis">Gut Brain Axis</a></li>
-  <li><a href="#etiology" id="toc-etiology" class="nav-link" data-scroll-target="#etiology">Etiology</a>
+  <li><a href="#sub-types" id="toc-sub-types" class="nav-link" data-scroll-target="#sub-types">Sub types</a>
   <ul class="collapse">
   <li><a href="#primary-parkinsonism-idiopathic" id="toc-primary-parkinsonism-idiopathic" class="nav-link" data-scroll-target="#primary-parkinsonism-idiopathic">Primary Parkinsonism (Idiopathic)</a></li>
   <li><a href="#secondary-parkinsonism" id="toc-secondary-parkinsonism" class="nav-link" data-scroll-target="#secondary-parkinsonism">Secondary Parkinsonism</a>
@@ -169,10 +209,14 @@ div.csl-indent {
   </ul></li>
   <li><a href="#pathophysiology" id="toc-pathophysiology" class="nav-link" data-scroll-target="#pathophysiology">Pathophysiology</a>
   <ul class="collapse">
-  <li><a href="#degeneration" id="toc-degeneration" class="nav-link" data-scroll-target="#degeneration">Degeneration</a></li>
-  <li><a href="#lewy-bodies" id="toc-lewy-bodies" class="nav-link" data-scroll-target="#lewy-bodies">Lewy Bodies</a></li>
-  <li><a href="#basal-ganglia-loop-dysfunction" id="toc-basal-ganglia-loop-dysfunction" class="nav-link" data-scroll-target="#basal-ganglia-loop-dysfunction">Basal Ganglia Loop Dysfunction</a></li>
+  <li><a href="#degeneration-of-dopaminergic-neurons" id="toc-degeneration-of-dopaminergic-neurons" class="nav-link" data-scroll-target="#degeneration-of-dopaminergic-neurons">Degeneration of Dopaminergic neurons</a></li>
+  <li><a href="#alpha-synuclein" id="toc-alpha-synuclein" class="nav-link" data-scroll-target="#alpha-synuclein">α-Synuclein &amp; Lewy bodies</a></li>
+  <li><a href="#gut-brain-axis" id="toc-gut-brain-axis" class="nav-link" data-scroll-target="#gut-brain-axis">Gut-Brain Axis</a></li>
+  <li><a href="#mitochondria-pathomechanism" id="toc-mitochondria-pathomechanism" class="nav-link" data-scroll-target="#mitochondria-pathomechanism">Mitochondrial pathomechanisms</a></li>
+  <li><a href="#lysosome" id="toc-lysosome" class="nav-link" data-scroll-target="#lysosome">Lysosomes</a></li>
+  <li><a href="#auto-immune-inflammatory-mechanisms" id="toc-auto-immune-inflammatory-mechanisms" class="nav-link" data-scroll-target="#auto-immune-inflammatory-mechanisms">Auto-immune &amp; Inflammatory Mechanisms</a></li>
   </ul></li>
+  <li><a href="#basal-ganglia-loop-dysfunction" id="toc-basal-ganglia-loop-dysfunction" class="nav-link" data-scroll-target="#basal-ganglia-loop-dysfunction">Basal Ganglia Loop Dysfunction</a></li>
   <li><a href="#clinical-presentation" id="toc-clinical-presentation" class="nav-link" data-scroll-target="#clinical-presentation">Clinical Presentation</a></li>
   <li><a href="#onset" id="toc-onset" class="nav-link" data-scroll-target="#onset">Onset</a></li>
   <li><a href="#symptoms" id="toc-symptoms" class="nav-link" data-scroll-target="#symptoms">Symptoms</a>
@@ -181,6 +225,9 @@ div.csl-indent {
   </ul></li>
   <li><a href="#diagnosis" id="toc-diagnosis" class="nav-link" data-scroll-target="#diagnosis">Diagnosis</a>
   <ul class="collapse">
+  <li><a href="#supportive-criteria" id="toc-supportive-criteria" class="nav-link" data-scroll-target="#supportive-criteria">Supportive Criteria</a></li>
+  <li><a href="#absolute-exclusion-criteria" id="toc-absolute-exclusion-criteria" class="nav-link" data-scroll-target="#absolute-exclusion-criteria">Absolute exclusion criteria</a></li>
+  <li><a href="#red-flags" id="toc-red-flags" class="nav-link" data-scroll-target="#red-flags">Red flags</a></li>
   <li><a href="#subgroups" id="toc-subgroups" class="nav-link" data-scroll-target="#subgroups">Subgroups</a></li>
   </ul></li>
   <li><a href="#assessment" id="toc-assessment" class="nav-link" data-scroll-target="#assessment">Assessment</a>
@@ -201,6 +248,10 @@ div.csl-indent {
   <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
   </ul>
 </nav>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -216,7 +267,7 @@ div.csl-indent {
   <div class="quarto-title-meta-heading">Affiliations</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author">Nathaniel Yomogida, B.S., SPT </p>
+    <p class="author"><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#ngy">Nathaniel Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -227,7 +278,7 @@ div.csl-indent {
           </p>
       </div>
     <div class="quarto-title-meta-contents">
-    <p class="author">Chloë Kerstein, B.S., SPT </p>
+    <p class="author"><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -272,31 +323,18 @@ Resources
 </ul>
 <section id="epidemiology" class="level1">
 <h1>Epidemiology</h1>
-<section id="genetic" class="level2">
-<h2 class="anchored" data-anchor-id="genetic">Genetic</h2>
-<ul>
-<li>Pathogenesis of DJ-1/PARK7-Mediated Parkinson’s Disease<span class="citation" data-cites="skouPathogenesisDJ1PARK7Mediated2024"><sup><a href="#ref-skouPathogenesisDJ1PARK7Mediated2024" role="doc-biblioref">2</a></sup></span></li>
-</ul>
+<p>2nd most prevalent progressive neurodegenerative disorder after <a href="{{< var ref-alzheimers-disease.path >}}">Alzheimer’s Disease</a><span class="citation" data-cites="muleiroalvarezComprehensiveApproachParkinsons2024"><sup><a href="#ref-muleiroalvarezComprehensiveApproachParkinsons2024" role="doc-biblioref">2</a></sup></span></p>
+<div class="columns">
+<div class="column">
+<section id="age" class="level3">
+<h3 class="anchored" data-anchor-id="age">Age</h3>
+<p>Primary risk factor: Age<span class="citation" data-cites="muleiroalvarezComprehensiveApproachParkinsons2024"><sup><a href="#ref-muleiroalvarezComprehensiveApproachParkinsons2024" role="doc-biblioref">2</a></sup></span>.</p>
 </section>
+</div><div class="column">
+<section id="gender" class="level3">
+<h3 class="anchored" data-anchor-id="gender">Gender</h3>
+<p>Parkinson’s Disease is more frequent in men than women<span class="citation" data-cites="muleiroalvarezComprehensiveApproachParkinsons2024"><sup><a href="#ref-muleiroalvarezComprehensiveApproachParkinsons2024" role="doc-biblioref">2</a></sup></span>.</p>
 </section>
-<section id="gut-brain-axis" class="level1">
-<h1>Gut Brain Axis</h1>
-<p>The relationship between the gut brain axis and pathogenesis of Parkinson’s Disease was suggested in Braak’s hypothesis<span class="citation" data-cites="montalban-rodriguezGutBrainRole2024"><sup><a href="#ref-montalban-rodriguezGutBrainRole2024" role="doc-biblioref">1</a></sup></span></p>
-<ul>
-<li>This hypothesis builds upon that idea that in PD, α-synclein aggregates in other areas in the body, not just the substantia nigra (the hallmark site)</li>
-<li>Braak’s Hypothesis places emphasis on the gastrointestinal tract<span class="citation" data-cites="montalban-rodriguezGutBrainRole2024"><sup><a href="#ref-montalban-rodriguezGutBrainRole2024" role="doc-biblioref">1</a></sup></span>.</li>
-</ul>
-<div class="callout callout-style-default callout-note callout-titled" title="Animal studies">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Animal studies
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Researchers have found a bidirectional spread of α-syn from the duodenum to the brainstem and the stomach after injecting α-syn in rats<span class="citation" data-cites="montalban-rodriguezGutBrainRole2024"><sup><a href="#ref-montalban-rodriguezGutBrainRole2024" role="doc-biblioref">1</a></sup></span></p>
 </div>
 </div>
 </section>
@@ -308,6 +346,32 @@ Animal studies
 <li><p>Secondary PD</p></li>
 <li><p>Parkinson-Plus</p></li>
 </ul>
+<section id="genetic" class="level2">
+<h2 class="anchored" data-anchor-id="genetic">Genetic</h2>
+<ul>
+<li>Heritability of PD<span class="citation" data-cites="dengGeneticsParkinsonDisease2018"><sup><a href="#ref-dengGeneticsParkinsonDisease2018" role="doc-biblioref">3</a></sup></span>:
+<ul>
+<li>5-10% for the monogenic form (one gene responsible)<span class="citation" data-cites="dengGeneticsParkinsonDisease2018"><sup><a href="#ref-dengGeneticsParkinsonDisease2018" role="doc-biblioref">3</a></sup></span>
+<ul>
+<li>Inc risk for developing PD with monogenic mutations<span class="citation" data-cites="dengGeneticsParkinsonDisease2018"><sup><a href="#ref-dengGeneticsParkinsonDisease2018" role="doc-biblioref">3</a></sup></span></li>
+</ul></li>
+<li>Some studies report 15% of PD patients have a family hx of the disease<span class="citation" data-cites="dengGeneticsParkinsonDisease2018"><sup><a href="#ref-dengGeneticsParkinsonDisease2018" role="doc-biblioref">3</a></sup></span>, compared to 3.5% of the general population<span class="citation" data-cites="elbazFamilialAggregationParkinsons1999"><sup><a href="#ref-elbazFamilialAggregationParkinsons1999" role="doc-biblioref">4</a></sup></span>.</li>
+</ul></li>
+<li>Using genome wide complex trait analysis, studies have found even higher percent estimates of 22-40% of PD cases having a genetic component → capturing both highly penetrant monogenic forms/cumulative effect of common variants<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.
+<ul>
+<li>22-40% of PD cases have genetic factors that contributed to developing their PD</li>
+</ul></li>
+<li>Just because one has some genetic predisposition to PD does NOT mean they will get PD</li>
+<li>There are gene-environment interactions: (with outside influences like pesticides, tobacco use, chemicals etc) which can exacerbate genetic susceptibility to developing the disease<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</li>
+</ul>
+<p>A Family with an autosomal dominant Parkinson’s disease allowed the discovery of a mutation in the SNCA gene → leading to identification of alpha synuclein protein as a hallmark component of lewy bodies/neurites in PD<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</p>
+<ul>
+<li>Pathogenesis of DJ-1/PARK7-Mediated Parkinson’s Disease<span class="citation" data-cites="skouPathogenesisDJ1PARK7Mediated2024"><sup><a href="#ref-skouPathogenesisDJ1PARK7Mediated2024" role="doc-biblioref">6</a></sup></span></li>
+</ul>
+</section>
+</section>
+<section id="sub-types" class="level1">
+<h1>Sub types</h1>
 <section id="primary-parkinsonism-idiopathic" class="level2">
 <h2 class="anchored" data-anchor-id="primary-parkinsonism-idiopathic">Primary Parkinsonism (Idiopathic)</h2>
 </section>
@@ -318,7 +382,7 @@ Animal studies
 <li>Toxic Parkinsonism</li>
 <li>Drug-Induced Parkinsonism</li>
 </ul>
-<p>Postencephalitic Parkinsonism<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">3</a></sup></span></p>
+<p>Postencephalitic Parkinsonism<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">7</a></sup></span></p>
 <ul>
 <li>Viral brain infection</li>
 <li>Not seen today</li>
@@ -329,7 +393,7 @@ Animal studies
 </section>
 <section id="drug-induced-parkinsonism" class="level3">
 <h3 class="anchored" data-anchor-id="drug-induced-parkinsonism">Drug-Induced Parkinsonism</h3>
-<p>Drug-Induced Parkinsonism<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">3</a></sup></span> - Drugs that result in extra-pyramidal dysfunction → Pseudo PD symptoms - Neuroleptic drugs: (chlorpromazine) (Thorazine®), haloperidol (Haldol®), thioridazine (Mellaril®), and thiothixene (Navane®) - Antidepressant drugs: amitriptyline (Triavil®), amoxapine (Asendin®), and trazodone (Desyrel®) - Antihypertensive drugs: Methyldopa (Aldomet®) and reserpine</p>
+<p>Drug-Induced Parkinsonism<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">7</a></sup></span> - Drugs that result in extra-pyramidal dysfunction → Pseudo PD symptoms - Neuroleptic drugs: (chlorpromazine) (Thorazine®), haloperidol (Haldol®), thioridazine (Mellaril®), and thiothixene (Navane®) - Antidepressant drugs: amitriptyline (Triavil®), amoxapine (Asendin®), and trazodone (Desyrel®) - Antihypertensive drugs: Methyldopa (Aldomet®) and reserpine</p>
 </section>
 <section id="metabolic-pd" class="level3">
 <h3 class="anchored" data-anchor-id="metabolic-pd">Metabolic PD</h3>
@@ -345,7 +409,7 @@ Animal studies
 </section>
 <section id="parkinson-plus" class="level2">
 <h2 class="anchored" data-anchor-id="parkinson-plus">Parkinson-Plus</h2>
-<p>Parkinson-Plus refers to a group of neurodegenerative diseases can affect the substantia nigra and produce parkinsonian symptoms along with other neurological signs<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">3</a></sup></span></p>
+<p>Parkinson-Plus refers to a group of neurodegenerative diseases can affect the substantia nigra and produce parkinsonian symptoms along with other neurological signs<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">7</a></sup></span></p>
 <p>Pathologies</p>
 <ul>
 <li>Cortical–basal ganglionic degeneration (CBGD)</li>
@@ -368,6 +432,12 @@ Animal studies
 </section>
 <section id="pathophysiology" class="level1">
 <h1>Pathophysiology</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../../../The Archive/Neuroscience/Neuropathology/Parkinsons Disease/images/morrisPathogenesisParkinsonsDisease2024 fig2 molecular mehcanisms contributing to pd.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Molecular mechanisms contributing to PD @morrisPathogenesisParkinsonsDisease2024"><img src="../../../../The Archive/Neuroscience/Neuropathology/Parkinsons Disease/images/morrisPathogenesisParkinsonsDisease2024 fig2 molecular mehcanisms contributing to pd.png" class="img-fluid figure-img" alt="Molecular mechanisms contributing to PD5"></a></p>
+<figcaption>Molecular mechanisms contributing to PD<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span></figcaption>
+</figure>
+</div>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -381,41 +451,162 @@ Note
 <p>“Physical manifestation of <a href="../../../../The Archive/Neuroscience/Neuropathophysiology/lewy_bodies.html">lewy bodies</a> in the brain, whereas Dementia is the cognitive manifestation of <a href="../../../../The Archive/Neuroscience/Neuropathophysiology/lewy_bodies.html">lewy bodies</a> in the brain” -Adria Thompson</p>
 </div>
 </div>
-<p>Primary disturbances in the dopamine systems of basal ganglia (BG)<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">3</a></sup></span></p>
-<p>The pathophysiology of PD is characterized by 2 phases<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">3</a></sup></span></p>
+<p>Primary disturbances in the dopamine systems of basal ganglia (BG)<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">7</a></sup></span></p>
+<p>The pathophysiology of PD is characterized by 2 phases<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">7</a></sup></span></p>
 <ol type="1">
-<li>Degeneration of dopaminergic neurons in the SNpc<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">3</a></sup></span></li>
-<li>Addition of Lewy Bodies<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">3</a></sup></span></li>
+<li>Degeneration of dopaminergic neurons in the SNpc<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">7</a></sup></span></li>
+<li>Addition of <a href="#alpha-synuclein">Lewy Bodies</a><span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">7</a></sup></span></li>
 </ol>
-<section id="degeneration" class="level2">
-<h2 class="anchored" data-anchor-id="degeneration">Degeneration</h2>
+<section id="degeneration-of-dopaminergic-neurons" class="level2">
+<h2 class="anchored" data-anchor-id="degeneration-of-dopaminergic-neurons">Degeneration of Dopaminergic neurons</h2>
 <ul>
-<li>Loss of the melanin-containing neurons produces characteristic <strong>results in</strong> Depigmentation in the substantia nigra with a characteristic pallor<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">3</a></sup></span>.</li>
-<li>Numerous other brain regions of people with PD show structural and functional changes <strong>resulting in</strong> impaired modulation of other neurotransmitters (acetylcholine, serotonin, noradrenaline, glutamate, and GABA)<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">3</a></sup></span>.</li>
+<li>Loss of the melanin-containing neurons produces characteristic <strong>results in</strong> Depigmentation in the substantia nigra with a characteristic pallor<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">7</a></sup></span>.</li>
+<li>Numerous other brain regions of people with PD show structural and functional changes <strong>resulting in</strong> impaired modulation of other neurotransmitters (acetylcholine, serotonin, noradrenaline, glutamate, and GABA)<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">7</a></sup></span>.</li>
 </ul>
 </section>
-<section id="lewy-bodies" class="level2">
-<h2 class="anchored" data-anchor-id="lewy-bodies">Lewy Bodies</h2>
-<p>The second characteristic of PD is the <em>addition</em> of <a href="../../../../The Archive/Neuroscience/Neuropathophysiology/lewy_bodies.html">Lewy Bodies</a> in the brain.</p>
+<section id="alpha-synuclein" class="level2">
+<h2 class="anchored" data-anchor-id="alpha-synuclein">α-Synuclein &amp; Lewy bodies</h2>
+<p>In normal systems, <a href="../../../../The Archive/Neuroscience/Neuropathophysiology/alpha-synuclein/alpha-synuclein.html">α-synuclein</a> is an amino acid protein found in brain abundantly in the synaptic terminals of neurons to help facilitate vesicle transport/neurotransmitter release<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</p>
+<div class="columns">
+<div class="column">
+<p>When dysfunction occurs, <a href="../../../../The Archive/Neuroscience/Neuropathophysiology/alpha-synuclein/alpha-synuclein.html">α-synuclein</a> can aggregate into clumps known as <a href="../../../../The Archive/Neuroscience/Neuropathophysiology/lewy_bodies.html">lewy bodies</a><span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</p>
+<ul>
+<li>Detrimental to neurons- they are space occupying lesions that could alter cellular function</li>
+<li>Braak + colleagues used alpha syn staining to detect Lewy bodies post mortem</li>
+<li>Found PD can start in gut or olfactory system then spread to cortical/subcortical brain regions</li>
+</ul>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../../../The Archive/Neuroscience/Neuropathology/Parkinsons Disease/images/morrisPathogenesisParkinsonsDisease2024 fig1 alpha-synuclein pathophys.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Pathophysiology of α-Synuclein in Parkinson’s Disease @morrisPathogenesisParkinsonsDisease2024"><img src="../../../../The Archive/Neuroscience/Neuropathology/Parkinsons Disease/images/morrisPathogenesisParkinsonsDisease2024 fig1 alpha-synuclein pathophys.png" class="img-fluid figure-img" alt="Pathophysiology of α-Synuclein in Parkinson’s Disease5"></a></p>
+<figcaption>Pathophysiology of α-Synuclein in Parkinson’s Disease<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Not all PD cases follow this progression<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</p>
+</div>
+</div>
+<p>Some PD cases start in brainstem or limbic system or other areas Hypothesis of spreading alpha syn has been validated in multiple studies: Injection of alpha syn fibrils into brain leading to aggregation found in post mortem PD (performed in mice, primates) Found A-Syn can spread from periphery to CNS or from brain to other organs</p>
 <p>Changes are seen in the pedunculopontine nucleus (PPN) and nucleus basalis of Meynert (nbM) that release acetylcholine (ACh) Degeneration &amp; Alpha Synuclein deposition (early in PD) at Locus coeruleus that releases noradrenaline</p>
 </section>
-<section id="basal-ganglia-loop-dysfunction" class="level2">
-<h2 class="anchored" data-anchor-id="basal-ganglia-loop-dysfunction">Basal Ganglia Loop Dysfunction</h2>
-<p>Direct Loop</p>
+<section id="gut-brain-axis" class="level2">
+<h2 class="anchored" data-anchor-id="gut-brain-axis">Gut-Brain Axis</h2>
+<p>The relationship between the gut brain axis and pathogenesis of Parkinson’s Disease was suggested in Braak’s hypothesis<span class="citation" data-cites="montalban-rodriguezGutBrainRole2024"><sup><a href="#ref-montalban-rodriguezGutBrainRole2024" role="doc-biblioref">1</a></sup></span></p>
 <ul>
-<li>Consists of signals transmitted from the cortex to putamen to globus pallidus, to ventrolateral (VL) nucleus of the thalamus, and back to cortex (supplementary motor area [SMA]).</li>
-<li>This VL-SMA connection is excitatory and facilitates discharge of cells in the SMA<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">3</a></sup></span>.</li>
-<li>The BG thus serves to activate the cortex via a positive-feedback loop and assists in the initiation of voluntary movement<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">3</a></sup></span></li>
-<li>Inhibition of the thalamus by the BG is thought to underlie the hypokinesia seen in PD<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">3</a></sup></span></li>
+<li>This hypothesis builds upon that idea that in PD, α-synclein aggregates in other areas in the body, not just the substantia nigra (the hallmark site)</li>
+<li>Braak’s Hypothesis places emphasis on the gastrointestinal tract<span class="citation" data-cites="montalban-rodriguezGutBrainRole2024"><sup><a href="#ref-montalban-rodriguezGutBrainRole2024" role="doc-biblioref">1</a></sup></span>.</li>
 </ul>
-<p>Indirect Loop<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">3</a></sup></span></p>
+<div class="callout callout-style-default callout-note callout-titled" title="Animal studies">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Animal studies
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Researchers have found a bidirectional spread of α-syn from the duodenum to the brainstem and the stomach after injecting α-syn in rats<span class="citation" data-cites="montalban-rodriguezGutBrainRole2024"><sup><a href="#ref-montalban-rodriguezGutBrainRole2024" role="doc-biblioref">1</a></sup></span></p>
+</div>
+</div>
+<p>The fact that 20% of patients experience <em>constipation</em> prior to motor symptoms could be evidence that the gut-brain axis plays a role in the mechanism of Parkinson’s Disease<span class="citation" data-cites="breenGutBrainAxis2019"><sup><a href="#ref-breenGutBrainAxis2019" role="doc-biblioref">8</a></sup></span>.</p>
+</section>
+<section id="mitochondria-pathomechanism" class="level2">
+<h2 class="anchored" data-anchor-id="mitochondria-pathomechanism">Mitochondrial pathomechanisms</h2>
+<p>Mitochondria, <strong>the powerhouse of the cell</strong>, play a key role in cellular energy production/cell signalling<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>. Mitochondrial dysfunction is proposed to be an early event in pathogenesis of PD<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>. Alterations of mitochondrial structure/dynamics linked to increased production of reactive oxidative species (ROS), abnormal intracellular calcium levels, and reduced ATP production<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</p>
+<p>The results of the following studies supported this pathological mechanism:</p>
 <ul>
-<li>STn, Gpi, and SNpr → Superior colliculus and midbrain tegmentum<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">3</a></sup></span>.</li>
-<li>Serves to decrease thalamocortical activation<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">3</a></sup></span>.</li>
-<li>BG projection to the superior colliculus assists in regulation of saccadic eye movements<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">3</a></sup></span>.</li>
-<li>The BG projection to the reticular formation assists in the regulation of trunk and limb musculature (via extrapyramidal pathways), sleep and wakefulness, and arousal. Other circuits in the BG are involved with memory and cognitive functions<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">3</a></sup></span>.</li>
+<li>Inhibition of mitochondrial complex 1 induces PD like symptoms in animal models<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span></li>
+<li>Mitochondrial dysfunction can result in production of ROS → leading to oxidative stress/neuronal damage<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span></li>
+<li>Mitochondrial DNA mutations have been implicated in risk of developing PD<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span></li>
+<li>Alpha Syn aggregation can impair mitochondrial function<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span></li>
+<li>Decreased mitochondrial complex 1 activity has been reported in PD<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</li>
 </ul>
 </section>
+<section id="lysosome" class="level2">
+<h2 class="anchored" data-anchor-id="lysosome">Lysosomes</h2>
+<ul>
+<li>PD ⇒ could involve a decline in clearance capacity of autophagy-lysosomal systems or ubiquitin-proteasome systems<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</li>
+<li>Lysosomes are involved in autophagy- they clean out abnormal/accumulated proteins<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</li>
+<li>α-syn degradation is lysosomal dependent<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</li>
+<li>If lysosomes are impaired, this would affect A-syn turnover, causing an aggregation of &amp;alpha-syn into lewy bodies<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</li>
+<li>Mutations in lysosomal pathway genes have been shown to result in increased a syn accumulation which could lead/progress PD<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</li>
+</ul>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Caution
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This lysosome pathophysiology is not fully straightforward and the mechanisms are not fully understood<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</p>
+</div>
+</div>
+</section>
+<section id="auto-immune-inflammatory-mechanisms" class="level2">
+<h2 class="anchored" data-anchor-id="auto-immune-inflammatory-mechanisms">Auto-immune &amp; Inflammatory Mechanisms</h2>
+<p>In post-mortem studies, microglial activation/ elevated inflammatory cytokines found in post-mortem brains of those with PD<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</p>
+<ul>
+<li>Found in blood low grade elevation of inflammatory cytokines → linked to rapid disease progression<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</li>
+<li>Immune activation has different roles that could give benefit → particularly in early stages of neurodegeneration with promoting clearance of abnormal protein aggregates<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</li>
+<li>Later on, dysfunction of immune mediated clearance mechanisms could cause more a-syn aggregate accumulation although if this is protective to balance shifts is yet to be explored<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.
+<ul>
+<li>Is immune activation is a primary determinant of disease progression or a secondary phenomenon? This is a debate<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.
+<ul>
+<li>Lots of evidence to support that it is actually a Primary determinant<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</li>
+<li>Monogenic causes of PD are linked to the immune system (LRRK2 gene)<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</li>
+<li>Use of immunosuppressants/corticosteroids are associated with reduced PD risk<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</li>
+<li>Changes in gut microbiome can cause the pro inflammatory species found in PD<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.
+<ul>
+<li>Gut inflammation can cause 3 potential mechanisms or a combo:<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</li>
+<li>→ gut leakage of inflammatory mediators to blood/BBB (thru blood brain barrier),<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</li>
+<li>→A syn aggregation promoted in enteric neurons travels via vagus nerve to brain<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</li>
+<li>→ A syn T cell response in gut w trafficking of these T cells to sites of alpha syn pathology in brain<span class="citation" data-cites="morrisPathogenesisParkinsonsDisease2024"><sup><a href="#ref-morrisPathogenesisParkinsonsDisease2024" role="doc-biblioref">5</a></sup></span>.</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="basal-ganglia-loop-dysfunction" class="level1">
+<h1>Basal Ganglia Loop Dysfunction</h1>
+<div class="columns">
+<div class="column">
+<section id="direct-loop" class="level3">
+<h3 class="anchored" data-anchor-id="direct-loop">Direct Loop</h3>
+<ul>
+<li>Consists of signals transmitted from the cortex to putamen to globus pallidus, to ventrolateral (VL) nucleus of the thalamus, and back to cortex (supplementary motor area [SMA]).</li>
+<li>This VL-SMA connection is excitatory and facilitates discharge of cells in the SMA<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">7</a></sup></span>.</li>
+<li>The BG thus serves to activate the cortex via a positive-feedback loop and assists in the initiation of voluntary movement<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">7</a></sup></span></li>
+<li>Inhibition of the thalamus by the BG is thought to underlie the hypokinesia seen in PD<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">7</a></sup></span></li>
+</ul>
+</section>
+</div><div class="column">
+<section id="indirect-loop" class="level3">
+<h3 class="anchored" data-anchor-id="indirect-loop">Indirect Loop</h3>
+<ul>
+<li>STn, Gpi, and SNpr → Superior colliculus and midbrain tegmentum<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">7</a></sup></span>.</li>
+<li>Serves to decrease thalamocortical activation<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">7</a></sup></span>.</li>
+<li>BG projection to the superior colliculus assists in regulation of saccadic eye movements<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">7</a></sup></span>.</li>
+<li>The BG projection to the reticular formation assists in the regulation of trunk and limb musculature (via extrapyramidal pathways), sleep and wakefulness, and arousal. Other circuits in the BG are involved with memory and cognitive functions<span class="citation" data-cites="osullivanPhysicalRehabilitation2019"><sup><a href="#ref-osullivanPhysicalRehabilitation2019" role="doc-biblioref">7</a></sup></span>.</li>
+</ul>
+</section>
+</div>
+</div>
 </section>
 <section id="clinical-presentation" class="level1">
 <h1>Clinical Presentation</h1>
@@ -437,8 +628,8 @@ Note
 <section id="hallmark-motor-symptoms" class="level2 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <h2 class="anchored" data-anchor-id="hallmark-motor-symptoms">Hallmark Motor Symptoms</h2>
 <ul>
-<li>Bradykinesia<span class="citation" data-cites="montalban-rodriguezGutBrainRole2024"><sup><a href="#ref-montalban-rodriguezGutBrainRole2024" role="doc-biblioref">1</a></sup></span></li>
-<li>Gait disturbances<span class="citation" data-cites="montalban-rodriguezGutBrainRole2024"><sup><a href="#ref-montalban-rodriguezGutBrainRole2024" role="doc-biblioref">1</a></sup></span></li>
+<li><a href="../../../../The Archive/Signs and Symptoms/Motor Symptoms/Bradykinesia/bradykinesia_overview.html">Bradykinesia</a><span class="citation" data-cites="montalban-rodriguezGutBrainRole2024"><sup><a href="#ref-montalban-rodriguezGutBrainRole2024" role="doc-biblioref">1</a></sup></span></li>
+<li><a href="#gait-symptoms">Gait disturbances</a><span class="citation" data-cites="montalban-rodriguezGutBrainRole2024"><sup><a href="#ref-montalban-rodriguezGutBrainRole2024" role="doc-biblioref">1</a></sup></span></li>
 <li>Tremors<span class="citation" data-cites="montalban-rodriguezGutBrainRole2024"><sup><a href="#ref-montalban-rodriguezGutBrainRole2024" role="doc-biblioref">1</a></sup></span></li>
 <li>Rigidity<span class="citation" data-cites="montalban-rodriguezGutBrainRole2024"><sup><a href="#ref-montalban-rodriguezGutBrainRole2024" role="doc-biblioref">1</a></sup></span></li>
 <li>Speech deficits<span class="citation" data-cites="montalban-rodriguezGutBrainRole2024"><sup><a href="#ref-montalban-rodriguezGutBrainRole2024" role="doc-biblioref">1</a></sup></span></li>
@@ -456,18 +647,108 @@ Note
 </section>
 </div>
 </div>
-<ul>
-<li>Freezing of gait (FOG)</li>
-</ul>
 <section id="gait-symptoms" class="level2">
 <h2 class="anchored" data-anchor-id="gait-symptoms">Gait Symptoms</h2>
 <ul>
 <li><a href="../../../../The Archive/Systems/Locomotion/Gait/Gait Symptoms/parkinsonian_gait.html">Parkinsonian Gait</a></li>
+<li>Freezing of gait (FOG)</li>
 </ul>
 </section>
 </section>
 <section id="diagnosis" class="level1">
 <h1>Diagnosis</h1>
+<p>Parkinson’s Disease (PD) is defined by the Movement Disorder Society Clinical Criteria: as Bradykinesia with rest tremor, Rigidity, or both<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>These features must be <em>clearly</em> demonstratable, and cannot be due to confounding factors<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</p>
+</div>
+</div>
+<p>Diagnostic criteria from MDS-PD can place patients into 2 categories:</p>
+<ol type="1">
+<li>Diagnosis of clinically established PD</li>
+<li>Diagnosis of clinically probable PD</li>
+</ol>
+<div class="columns">
+<div class="column">
+<section id="clinically-established-pd" class="level3">
+<h3 class="anchored" data-anchor-id="clinically-established-pd">Clinically established PD</h3>
+<ol type="1">
+<li>Absence of absolute exclusion criteria</li>
+<li>≥2 <a href="#supportive-criteria">supportive criteria</a></li>
+<li>No <a href="#red-flags">red flags</a></li>
+</ol>
+</section>
+</div><div class="column">
+<section id="clinically-probable-pd" class="level3">
+<h3 class="anchored" data-anchor-id="clinically-probable-pd">Clinically probable PD</h3>
+<ol type="1">
+<li>Absence of <a href="#absolute-exclusion-criteria">absolute exclusion criteria</a></li>
+<li>Presence of <a href="#red-flags">red flags</a> <strong>counterbalanced</strong> by <a href="#supportive-criteria">supportive criteria</a>
+<details>
+<summary>
+See more
+</summary>
+<ul>
+<li>1 red flag is present there must also be at ≥1 supportive criterion<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>If there are 2 red flags then ≥2 supportive criteria are needed<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>&gt;2 red flags then clinically probable PD <strong>cannot</strong> be diagnosed<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+</ul></details></li>
+</ol>
+
+</section>
+</div>
+</div>
+<section id="supportive-criteria" class="level2">
+<h2 class="anchored" data-anchor-id="supportive-criteria">Supportive Criteria</h2>
+<p>If a patient has the “supportive criteria” (need 1 for probable and at least 2 for clinical PD):</p>
+<ul>
+<li>Dramatic beneficial response to dopaminergic therapy (improvement in motor sx)<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Levodopa induced dyskinesia<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li><a href="../../../../The Archive/Signs and Symptoms/Motor Symptoms/Tremors/resting_tremor.html">Rest tremor</a> of limb (usually 1 limb)<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Loss of olfaction (loss of smell)<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Cardiac sympathetic denervation (loss of postganglionic sympathetic nerve fibers, hallmark of PD)<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Autonomic dysfunction can lead to OH/Arrhythmias<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>No <a href="#absolute-exclusion-criteria">exclusion criteria</a><span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>No <a href="#red-flags">red flags</a><span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+</ul>
+</section>
+<section id="absolute-exclusion-criteria" class="level2">
+<h2 class="anchored" data-anchor-id="absolute-exclusion-criteria">Absolute exclusion criteria</h2>
+<ol type="1">
+<li>Cerebellar abnormalities: The presence of cerebellar signs such as ataxia, which are not consistent with PD<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Downward vertical supranuclear gaze palsy: This includes significant slowing of vertical saccades, which is more indicative of progressive supranuclear palsy (PSP)<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Parkinsonian features restricted to the lower limbs for more than three years: This presentation is atypical for PD<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Treatment with a dopamine receptor blocker or dopamine-depleting agent: If parkinsonism persists despite discontinuation of the offending drug, it suggests drug-induced parkinsonism rather than PD<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Absence of response to high-dose levodopa: If there is no significant improvement in motor symptoms with adequate doses of levodopa, it suggests an alternative diagnosis<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Cortical sensory loss, ideomotor apraxia, or progressive aphasia: These features are more consistent with corticobasal degeneration (CBD)<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Normal functional neuroimaging of the presynaptic dopaminergic system: This includes normal findings on DaTSCAN or similar imaging, which would be inconsistent with PD<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Documentation of an alternative condition known to cause parkinsonism: This includes conditions such as multiple system atrophy (MSA), PSP, or CBD, confirmed by clinical or imaging findings<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+</ol>
+</section>
+<section id="red-flags" class="level2">
+<h2 class="anchored" data-anchor-id="red-flags">Red flags</h2>
+<p>“Red flags” as defined by the clinical criteria refer to signs or symptoms that, if observed, If you see these, need to differentiate from atypical PD like MSA, PSP, CBD</p>
+<ol type="1">
+<li>Rapid progression of gait impairment requiring wheelchair use within 5 years of onset<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Absence of progression of motor symptoms or signs over 5 years unless stability is related to treatment<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Early bulbar dysfunction, such as severe dysphonia or dysarthria within the first 5 years<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Inspiratory respiratory dysfunction<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Severe autonomic failure within the first 5 years, including orthostatic hypotension or severe urinary retention/incontinence<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Recurrent (&gt;1/year) falls within 3 years of onset<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Disproportionate anterocollis or contractures of hand or feet within the first 10 years<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Absence of any response to high-dose levodopa despite at least moderate severity of disease<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Unexplained pyramidal tract signs<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+<li>Bilateral symmetric parkinsonism from the onset<span class="citation" data-cites="postumaMDSClinicalDiagnostic2015"><sup><a href="#ref-postumaMDSClinicalDiagnostic2015" role="doc-biblioref">9</a></sup></span>.</li>
+</ol>
+</section>
 <section id="subgroups" class="level2">
 <h2 class="anchored" data-anchor-id="subgroups">Subgroups</h2>
 <p>The subgroups of PD are not pathophysiologically different, but are used to describe which symptoms the patient presented with first:</p>
@@ -479,10 +760,10 @@ Note
 </section>
 <section id="assessment" class="level1">
 <h1>Assessment</h1>
-<p><a href="../../../../The Archive/Neuroscience/Neuropathology/Parkinsons Disease/hoehn_and_yahr_scale.html">Hoehn and Yahr Scale</a> can be used to assess symptom severity<span class="citation" data-cites="modestinoHoehnYahrStaging2018"><sup><a href="#ref-modestinoHoehnYahrStaging2018" role="doc-biblioref">4</a></sup></span>.</p>
+<p><a href="../../../../The Archive/Neuroscience/Neuropathology/Parkinsons Disease/hoehn_and_yahr_scale.html">Hoehn and Yahr Scale</a> can be used to assess symptom severity<span class="citation" data-cites="modestinoHoehnYahrStaging2018"><sup><a href="#ref-modestinoHoehnYahrStaging2018" role="doc-biblioref">10</a></sup></span>.</p>
 <ul>
-<li>Higher H&amp;Y scores have been linked with a more rapid cognitive decline in PD patients<span class="citation" data-cites="modestinoHoehnYahrStaging2018"><sup><a href="#ref-modestinoHoehnYahrStaging2018" role="doc-biblioref">4</a></sup></span>.</li>
-<li>In general, patients with higher H&amp;Y scores report poorer quality of life<span class="citation" data-cites="modestinoHoehnYahrStaging2018"><sup><a href="#ref-modestinoHoehnYahrStaging2018" role="doc-biblioref">4</a></sup></span>.</li>
+<li>Higher H&amp;Y scores have been linked with a more rapid cognitive decline in PD patients<span class="citation" data-cites="modestinoHoehnYahrStaging2018"><sup><a href="#ref-modestinoHoehnYahrStaging2018" role="doc-biblioref">10</a></sup></span>.</li>
+<li>In general, patients with higher H&amp;Y scores report poorer quality of life<span class="citation" data-cites="modestinoHoehnYahrStaging2018"><sup><a href="#ref-modestinoHoehnYahrStaging2018" role="doc-biblioref">10</a></sup></span>.</li>
 </ul>
 <div>
 
@@ -503,7 +784,7 @@ Note
 <section id="psychosocial" class="level2">
 <h2 class="anchored" data-anchor-id="psychosocial">Psychosocial</h2>
 <ul>
-<li>The severity of idiopathic PD (IPD) has been associated with patients’ degree of depression<span class="citation" data-cites="modestinoHoehnYahrStaging2018"><sup><a href="#ref-modestinoHoehnYahrStaging2018" role="doc-biblioref">4</a></sup></span>.
+<li>The severity of idiopathic PD (IPD) has been associated with patients’ degree of depression<span class="citation" data-cites="modestinoHoehnYahrStaging2018"><sup><a href="#ref-modestinoHoehnYahrStaging2018" role="doc-biblioref">10</a></sup></span>.
 <ul>
 <li>as studies have revealed a direct correlation with Hoehn-Yahr scores/stages, as well as elevated scores on depression rating scales including the Geriatric Depression Scale (GDS) and the Montgomery Asberg Depression Rating Scale (MADRS)</li>
 </ul></li>
@@ -520,19 +801,19 @@ Note
 <section id="depression" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <h3 class="anchored" data-anchor-id="depression">Depression</h3>
 <ul>
-<li>Community-based exercise improved depression<span class="citation" data-cites="osbornePhysicalTherapistManagement2022"><sup><a href="#ref-osbornePhysicalTherapistManagement2022" role="doc-biblioref">5</a></sup></span></li>
+<li>Community-based exercise improved depression<span class="citation" data-cites="osbornePhysicalTherapistManagement2022"><sup><a href="#ref-osbornePhysicalTherapistManagement2022" role="doc-biblioref">11</a></sup></span></li>
 </ul>
 </section>
 <section id="cognition" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <h3 class="anchored" data-anchor-id="cognition">Cognition</h3>
 <ul>
-<li>Community-based exercise improved cognition<span class="citation" data-cites="osbornePhysicalTherapistManagement2022"><sup><a href="#ref-osbornePhysicalTherapistManagement2022" role="doc-biblioref">5</a></sup></span></li>
+<li>Community-based exercise improved cognition<span class="citation" data-cites="osbornePhysicalTherapistManagement2022"><sup><a href="#ref-osbornePhysicalTherapistManagement2022" role="doc-biblioref">11</a></sup></span></li>
 </ul>
 </section>
 <section id="sleep-1" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <h3 class="anchored" data-anchor-id="sleep-1">Sleep</h3>
 <ul>
-<li>Community-based exercise improved the Parkinson Disease Sleep Scale<span class="citation" data-cites="osbornePhysicalTherapistManagement2022"><sup><a href="#ref-osbornePhysicalTherapistManagement2022" role="doc-biblioref">5</a></sup></span></li>
+<li>Community-based exercise improved the Parkinson Disease Sleep Scale<span class="citation" data-cites="osbornePhysicalTherapistManagement2022"><sup><a href="#ref-osbornePhysicalTherapistManagement2022" role="doc-biblioref">11</a></sup></span></li>
 </ul>
 </section>
 </div>
@@ -540,6 +821,7 @@ Note
 </section>
 <section id="interventions" class="level1">
 <h1>Interventions</h1>
+<p>No current treatments can stop or reverse the neurodegenerative process<span class="citation" data-cites="muleiroalvarezComprehensiveApproachParkinsons2024"><sup><a href="#ref-muleiroalvarezComprehensiveApproachParkinsons2024" role="doc-biblioref">2</a></sup></span>.</p>
 <div>
 
 </div>
@@ -548,7 +830,7 @@ Note
 <section id="community-based-exercise" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <h3 class="anchored" data-anchor-id="community-based-exercise">Community-Based Exercise</h3>
 <ul>
-<li>High level of evidence and recommendation by APTA’s CPG<span class="citation" data-cites="osbornePhysicalTherapistManagement2022"><sup><a href="#ref-osbornePhysicalTherapistManagement2022" role="doc-biblioref">5</a></sup></span></li>
+<li>High level of evidence and recommendation by APTA’s CPG<span class="citation" data-cites="osbornePhysicalTherapistManagement2022"><sup><a href="#ref-osbornePhysicalTherapistManagement2022" role="doc-biblioref">11</a></sup></span></li>
 <li>studies that improved nonmotor symptoms all included interventions for breathing and relaxation, with frequency and duration ranging from 1 to 2 hours per week for 8 to 25 weeks.</li>
 </ul>
 </section>
@@ -592,17 +874,35 @@ Note
 <div id="ref-montalban-rodriguezGutBrainRole2024" class="csl-entry" role="listitem">
 <div class="csl-left-margin">1. </div><div class="csl-right-inline">Montalbán-Rodríguez A, Abalo R, López-Gómez L. From the <span>Gut</span> to the <span>Brain</span>: <span>The Role</span> of <span>Enteric Glial Cells</span> and <span>Their Involvement</span> in the <span>Pathogenesis</span> of <span>Parkinson</span>’s <span>Disease</span>. <em>International Journal of Molecular Sciences</em>. 2024;25(2):1294. doi:<a href="https://doi.org/10.3390/ijms25021294">10.3390/ijms25021294</a></div>
 </div>
+<div id="ref-muleiroalvarezComprehensiveApproachParkinsons2024" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Muleiro Alvarez M, Cano-Herrera G, Osorio Martínez MF, et al. A <span>Comprehensive Approach</span> to <span>Parkinson</span>’s <span>Disease</span>: <span>Addressing Its Molecular</span>, <span>Clinical</span>, and <span>Therapeutic Aspects</span>. <em>International Journal of Molecular Sciences</em>. 2024;25(13):7183. doi:<a href="https://doi.org/10.3390/ijms25137183">10.3390/ijms25137183</a></div>
+</div>
+<div id="ref-dengGeneticsParkinsonDisease2018" class="csl-entry" role="listitem">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Deng H, Wang P, Jankovic J. The genetics of <span>Parkinson</span> disease. <em>Ageing Research Reviews</em>. 2018;42:72-85. doi:<a href="https://doi.org/10.1016/j.arr.2017.12.007">10.1016/j.arr.2017.12.007</a></div>
+</div>
+<div id="ref-elbazFamilialAggregationParkinsons1999" class="csl-entry" role="listitem">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Elbaz A, Grigoletto F, Baldereschi M, et al. Familial aggregation of <span>Parkinson</span>’s disease: <span>A</span> population-based case-control study in <span>Europe</span>. <em>Neurology</em>. 1999;52(9):1876-1876. doi:<a href="https://doi.org/10.1212/WNL.52.9.1876">10.1212/WNL.52.9.1876</a></div>
+</div>
+<div id="ref-morrisPathogenesisParkinsonsDisease2024" class="csl-entry" role="listitem">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Morris HR, Spillantini MG, Sue CM, Williams-Gray CH. The pathogenesis of <span>Parkinson</span>’s disease. <em>The Lancet</em>. 2024;403(10423):293-304. doi:<a href="https://doi.org/10.1016/S0140-6736(23)01478-2">10.1016/S0140-6736(23)01478-2</a></div>
+</div>
 <div id="ref-skouPathogenesisDJ1PARK7Mediated2024" class="csl-entry" role="listitem">
-<div class="csl-left-margin">2. </div><div class="csl-right-inline">Skou LD, Johansen SK, Okarmus J, Meyer M. Pathogenesis of <span>DJ-1</span>/<span>PARK7-Mediated Parkinson</span>’s <span>Disease</span>. <em>Cells</em>. 2024;13(4):296. doi:<a href="https://doi.org/10.3390/cells13040296">10.3390/cells13040296</a></div>
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Skou LD, Johansen SK, Okarmus J, Meyer M. Pathogenesis of <span>DJ-1</span>/<span>PARK7-Mediated Parkinson</span>’s <span>Disease</span>. <em>Cells</em>. 2024;13(4):296. doi:<a href="https://doi.org/10.3390/cells13040296">10.3390/cells13040296</a></div>
 </div>
 <div id="ref-osullivanPhysicalRehabilitation2019" class="csl-entry" role="listitem">
-<div class="csl-left-margin">3. </div><div class="csl-right-inline">O’Sullivan SB, Schmitz TJ, Fulk GD, eds. <em>Physical Rehabilitation</em>. 7th ed. F.A. Davis Company; 2019.</div>
+<div class="csl-left-margin">7. </div><div class="csl-right-inline">O’Sullivan SB, Schmitz TJ, Fulk GD, eds. <em>Physical Rehabilitation</em>. 7th ed. F.A. Davis Company; 2019.</div>
+</div>
+<div id="ref-breenGutBrainAxis2019" class="csl-entry" role="listitem">
+<div class="csl-left-margin">8. </div><div class="csl-right-inline">Breen DP, Halliday GM, Lang AE. Gut–brain axis and the spread of <span><span class="math inline">\(A\)</span></span>-synuclein pathology: <span>Vagal</span> highway or dead end? <em>Movement Disorders</em>. 2019;34(3):307-316. doi:<a href="https://doi.org/10.1002/mds.27556">10.1002/mds.27556</a></div>
+</div>
+<div id="ref-postumaMDSClinicalDiagnostic2015" class="csl-entry" role="listitem">
+<div class="csl-left-margin">9. </div><div class="csl-right-inline">Postuma RB, Berg D, Stern M, et al. <span>MDS</span> clinical diagnostic criteria for <span>Parkinson</span>’s disease: <span>MDS-PD Clinical Diagnostic Criteria</span>. <em>Movement Disorders</em>. 2015;30(12):1591-1601. doi:<a href="https://doi.org/10.1002/mds.26424">10.1002/mds.26424</a></div>
 </div>
 <div id="ref-modestinoHoehnYahrStaging2018" class="csl-entry" role="listitem">
-<div class="csl-left-margin">4. </div><div class="csl-right-inline">Modestino EJ, Reinhofer A, Blum K, Amenechi C, O’Toole P. Hoehn and <span>Yahr</span> staging of <span>Parkinson</span>’s disease in relation to neuropsychological measures. <em>Frontiers in Bioscience (Landmark Edition)</em>. 2018;23(7):1370-1379. doi:<a href="https://doi.org/10.2741/4649">10.2741/4649</a></div>
+<div class="csl-left-margin">10. </div><div class="csl-right-inline">Modestino EJ, Reinhofer A, Blum K, Amenechi C, O’Toole P. Hoehn and <span>Yahr</span> staging of <span>Parkinson</span>’s disease in relation to neuropsychological measures. <em>Frontiers in Bioscience (Landmark Edition)</em>. 2018;23(7):1370-1379. doi:<a href="https://doi.org/10.2741/4649">10.2741/4649</a></div>
 </div>
 <div id="ref-osbornePhysicalTherapistManagement2022" class="csl-entry" role="listitem">
-<div class="csl-left-margin">5. </div><div class="csl-right-inline">Osborne JA, Botkin R, Colon-Semenza C, et al. Physical <span>Therapist Management</span> of <span>Parkinson Disease</span>: <span>A Clinical Practice Guideline From</span> the <span>American Physical Therapy Association</span>. <em>Physical Therapy</em>. 2022;102(4):pzab302. doi:<a href="https://doi.org/10.1093/ptj/pzab302">10.1093/ptj/pzab302</a></div>
+<div class="csl-left-margin">11. </div><div class="csl-right-inline">Osborne JA, Botkin R, Colon-Semenza C, et al. Physical <span>Therapist Management</span> of <span>Parkinson Disease</span>: <span>A Clinical Practice Guideline From</span> the <span>American Physical Therapy Association</span>. <em>Physical Therapy</em>. 2022;102(4):pzab302. doi:<a href="https://doi.org/10.1093/ptj/pzab302">10.1093/ptj/pzab302</a></div>
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Parkinson’s Disease
@@ -836,8 +1136,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -948,7 +1246,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -1175,6 +1472,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

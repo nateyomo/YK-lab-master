@@ -3,11 +3,6 @@ title: Hip Abductor Muscles
 ---
 
 
-Primary 
-
-Secondary
-
-
 :::{layout-ncol="2"}
 
 ### Primary
@@ -16,6 +11,8 @@ Secondary
 - [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
 - [Tensor Fascia Latae]({{< var ref-tensor-fascia-latae.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
 
+see more at @tbl-primary-hip-abductor-oian
+
 ### Secondary
 
 - [Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) (anterior/superior fibers) @neumannKinesiologyMusculoskeletalSystem2017
@@ -23,26 +20,95 @@ Secondary
 - [Sartorius]({{< var ref-sartorius.path >}})
 - [Rectus Femoris]({{< var ref-rectus-femoris.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
 
+See more at @tbl-secondary-hip-abductor-oian
+
 :::
 
-# Primary
+# Primary Hip abductors
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Gluteus Medius]({{< var ref-gluteus-medius.path >}}) | {{< var ref-gluteus-medius.origin >}} | {{< var ref-gluteus-medius.insertion >}} | {{< var ref-gluteus-medius.nerve >}} | {{< var ref-gluteus-medius.action >}} |
-| [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) | {{< var ref-gluteus-minimus.origin >}} | {{< var ref-gluteus-minimus.insertion >}} | {{< var ref-gluteus-minimus.nerve >}} | {{< var ref-gluteus-minimus.action >}} |
-| [Tensor Fascia Latae]({{< var ref-tensor-fascia-latae.path >}}) | {{< var ref-tensor-fascia-latae.origin >}} | {{< var ref-tensor-fascia-latae.insertion >}} | {{< var ref-tensor-fascia-latae.nerve >}} | {{< var ref-tensor-fascia-latae.action >}} |
-: Primary Hip Adductors {.striped .hover}
+- [gluteus medius]({{< var ref-gluteus-medius.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+- [Gluteus minimus]({{< var ref-gluteus-minimus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+- [TFL]({{< var ref-tensor-fascia-latae.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
 
-# Secondary
+```{python tbl-primary-hip-abductor-oian}
+#| label: tbl-primary-hip-abductor-oian
+#| warning: false
+#| message: false
+#| echo: false
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) | {{< var ref-gluteus-maximus.origin >}} | {{< var ref-gluteus-maximus.insertion >}} | {{< var ref-gluteus-maximus.nerve >}} | {{< var ref-gluteus-maximus.action >}} |
-| [Piriformis]({{< var ref-piriformis.path >}}) | {{< var ref-piriformis.origin >}} | {{< var ref-piriformis.insertion >}} | {{< var ref-piriformis.nerve >}} | {{< var ref-piriformis.action >}} |
-| [Sartorius]({{< var ref-sartorius.path >}}) | {{< var ref-sartorius.origin >}} | {{< var ref-sartorius.insertion >}} | {{< var ref-sartorius.nerve >}} | {{< var ref-sartorius.action >}} |
-| [Rectus Femoris]({{< var ref-rectus-femoris.path >}}) | {{< var ref-rectus-femoris.origin >}} | {{< var ref-rectus-femoris.insertion >}} | {{< var ref-rectus-femoris.nerve >}} | {{< var ref-rectus-femoris.action >}} |
-: Secondary Hip Adductors {.striped .hover}
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'functional_group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['primary_hip_abductor']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
+# Secondary Hip Abductors
+
+- Piriformis @neumannKinesiologyMusculoskeletalSystem2017
+- Sartorius @neumannKinesiologyMusculoskeletalSystem2017
+- Rectus Femoris @neumannKinesiologyMusculoskeletalSystem2017
+- Anterior (superior) fibers of the glut max @neumannKinesiologyMusculoskeletalSystem2017
+
+```{python tbl-secondary-hip-abductor-oian}
+#| label: tbl-secondary-hip-abductor-oian
+#| warning: false
+#| message: false
+#| echo: false
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['secondary_hip_abductor']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
 
 
 # Notes
@@ -56,20 +122,6 @@ Secondary
 - “The gluteus minimus is smaller than the gluteus medius, occupying about 20–30% of the cross­sectional area of the primary hip abductors.43,72 Although smaller than the gluteus medius, the gluteus minimus is equally respected for its role in stabilizing the hip in the stance phase of walking. All fibers of the gluteus minimus contribute to abduction. The more ante­ rior fibers also contribute to internal rotation and flexion, and the most posterior fibers contribute to external rotation.162 Fine­ wire EMG analysis of the gluteus minimus shows that the ante­ rior and posterior fibers are most active at slightly different times in the stance phase of walking, suggesting that they have differ­ ent roles in stabilizing the hip.” @neumannKinesiologyMusculoskeletalSystem2017
 - “The tensor fascia latae is the smallest of the three primary hip abductors, occupying only about 4–10% of the primary abductor cross­sectional area.43,72 The anatomy of the tensor fasciae latae are discussed earlier in this chapter.” @neumannKinesiologyMusculoskeletalSystem2017
 - “It is interesting to note that all the hip abductor muscles have an action as either internal or external rotators of the hip. The production of a pure frontal plane abduction torque therefore requires that the abductors completely neutralize one another’s horizontal plane torque potential.” @neumannKinesiologyMusculoskeletalSystem2017
-
-# Primary Hip Abductors
-
-- gluteus medius @neumannKinesiologyMusculoskeletalSystem2017
-- gluteus minimus @neumannKinesiologyMusculoskeletalSystem2017
-- TFL @neumannKinesiologyMusculoskeletalSystem2017
-
-# Secondary Hip Abductors
-
-- Piriformis @neumannKinesiologyMusculoskeletalSystem2017
-- Sartorius @neumannKinesiologyMusculoskeletalSystem2017
-- Rectus Femoris @neumannKinesiologyMusculoskeletalSystem2017
-- Anterior (superior) fibers of the glut max @neumannKinesiologyMusculoskeletalSystem2017
-
 
 # Hip Abductor Mechanism: Control of Frontal Plane Stability of the Pelvis during Walking
 “The abduction torque produced by the hip abductor muscles is essential to the control of the frontal plane pelvic­on­femoral kinematics during walking. During most of the stance phase, the hip abductors stabilize the pelvis over the relatively fixed femur (see Fig. 12.36). During the stance phase, therefore, the hip abductor muscles have a role in controlling the pelvis in the frontal plane and, as discussed earlier, the horizontal plane.”

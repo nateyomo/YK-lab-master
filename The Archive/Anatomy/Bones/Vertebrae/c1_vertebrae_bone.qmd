@@ -1,3 +1,21 @@
 ---
 title: C1 Vertebrae (Atlas)
 ---
+
+# Landmarks
+
+# Transverse process
+
+# Palpation
+
+## C1 Transverse process {#transverse-process-palpation}
+
+To palpate the Transverse process of C1
+
+- Locate the angle of the mandible on the lateral aspect of the jawbone, it should feel "sharp" @finandoTriggerPointTherapy2005.
+- Move posteriorly from the *angle of the mandible* and you should feel the bony prominence of the C1 transverse process @finandoTriggerPointTherapy2005.
+- C1 TP lies between the *angle of the mandible* and the *mastoid process* @finandoTriggerPointTherapy2005.
+
+::: {.callout-caution}
+Palpate the C1 transverse process gently since this area may be quite tender @finandoTriggerPointTherapy2005.
+:::
