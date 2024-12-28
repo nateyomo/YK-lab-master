@@ -1,0 +1,7 @@
+---
+title: Occipital artery
+---
+
+
+
+Branches of the occipital artery and [posterior auricular artery]({{< var ref-posterior-auricular-artery.path >}}) supply the upper portion of the [sternocleidomastoid muscle]({{< var ref-sternocleidomastoid.vascularization >}}) @donnellyTravellSimonsSimons2019.

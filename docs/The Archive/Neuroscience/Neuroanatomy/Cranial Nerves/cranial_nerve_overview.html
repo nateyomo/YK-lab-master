@@ -22,7 +22,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -77,7 +96,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../../../styles.css">
 <meta name="twitter:title" content="Cranial Nerve Overview">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.6 cranial nerve parasympathetic pathways blumenfield2022.png">
+<meta name="twitter:image" content="https://yomokerst.com/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.6 cranial nerve parasympathetic pathways blumenfield2022.png">
 <meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
 <meta name="twitter:site" content="@YomoKerstLab">
 <meta name="twitter:image:alt" content="Cranial Nerve Sympathetic Pathways">
@@ -147,6 +166,7 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#parasympathetic-pathways" id="toc-parasympathetic-pathways" class="nav-link" data-scroll-target="#parasympathetic-pathways">Parasympathetic Pathways</a></li>
   </ul></li>
+  <li><a href="#nuclei" id="toc-nuclei" class="nav-link" data-scroll-target="#nuclei">Nuclei</a></li>
   </ul>
 </nav>
 </nav>
@@ -168,7 +188,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="quarto-title-meta-heading">Affiliations</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#ngy">Nathaniel Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+    <p class="author"><a href="https://yomokerst.com/about.html#ngy">Nathaniel Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -179,7 +199,7 @@ ul.task-list li input[type="checkbox"] {
           </p>
       </div>
     <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+    <p class="author"><a href="https://yomokerst.com/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -205,32 +225,130 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Function: - Ventral = Motor - Dorsal = Sensory</p>
 <p>Anatomy:</p>
-<ul>
-<li>Telencephalon: <a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN1_Olfactory.html">Olfactory CN I</a></li>
-<li>Diencephalon: CN II</li>
-<li>Midbrain:
-<ul>
-<li>CN III (from interpeduncular fossa)</li>
-<li>CN IV (from posterior aspect from brainstem inferior to Inferior colliculus)</li>
-<li>Pons: CNV from Basilar Pons</li>
-</ul></li>
-<li>Pontomedullary junction:
-<ul>
-<li>CN VI: Medial</li>
-<li>CN VII: Lateral</li>
-<li>CN VIII: Lateral</li>
-</ul></li>
-<li>Medulla:
-<ul>
-<li>CNIX Rostral medulla</li>
-<li>CNX: Posterior to Olive</li>
-<li>CNXII: Anterior to Olive</li>
-</ul></li>
-<li>Upper cervical levels of spinal cord:
-<ul>
-<li>CN IX</li>
-</ul></li>
-</ul>
+<div id="tbl-cn-anatomy" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-cn-anatomy-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Cranial Nerve Origins
+</figcaption>
+<div aria-describedby="tbl-cn-anatomy-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="compact-table">
+<thead>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+CN
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+Cerebrum
+</td>
+<td>
+Telencephalon
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN1_Olfactory.html">Olfactory CN I</a>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #dee2e6;">
+Diencephalon
+</td>
+<td style="border-top: 1px solid #dee2e6;">
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN2_Optic.html">Optic CN II</a>
+</td>
+</tr>
+<tr style="border-top: 1px solid #212529;">
+<td rowspan="2">
+Midbrain
+</td>
+<td>
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN3_Oculomotor.html">Oculomotor CN III</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN4_Trochlear.html">Trochlear CN IV</a>
+</td>
+</tr>
+<tr style="border-top: 1px solid #212529;">
+<td rowspan="7">
+Brainstem
+</td>
+<td>
+Pons
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html">Trigeminal CN V</a>
+</td>
+</tr>
+<tr>
+<td rowspan="3" style="border-top: 1px solid #dee2e6;">
+Pontomedullary junction
+</td>
+<td style="border-top: 1px solid #dee2e6;">
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN6_Abducens.html">Abducens CN VI</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN7_Facial.html">Facial CN VII</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN8_Vestibulocochlear.html">Vestibulocochlear CN VIII</a>
+</td>
+</tr>
+<tr>
+<td rowspan="3" style="border-top: 1px solid #dee2e6;">
+Medulla
+</td>
+<td style="border-top: 1px solid #dee2e6;">
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN9_Glossopharyngeal.html">Glossopharyngeal CN IX</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN10_Vagus.html">Vagus CN X</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN12_Hypoglossal.html">Hypoglossal CN XII</a>
+</td>
+</tr>
+<tr style="border-top: 1px solid #212529;">
+<td>
+Spinal cord
+</td>
+<td>
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN11 Spinal Accessory Nerve/cn11_spinal_accessory_nerve.html">Accessory CN XI</a>
+</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3">
+<strong>Source:</strong> Blumenfeld<span class="citation" data-cites="blumenfeldNeuroanatomyClinicalCases2022"><sup><a href="#ref-blumenfeldNeuroanatomyClinicalCases2022" role="doc-biblioref">1</a></sup></span>
+</td>
+</tr>
+</tfoot>
+</table>
+</div>
+</figure>
+</div>
 <section id="cranial-nerve-pathways" class="level1">
 <h1>Cranial Nerve Pathways</h1>
 <section id="parasympathetic-pathways" class="level2">
@@ -241,14 +359,261 @@ ul.task-list li input[type="checkbox"] {
 <figcaption>Cranial Nerve Sympathetic Pathways</figcaption>
 </figure>
 </div>
+</section>
+</section>
+<section id="nuclei" class="level1">
+<h1>Nuclei</h1>
+<div id="tbl-cn-nuclei" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-cn-nuclei-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;2: Classification of Cranial Nerve Nuclei into Motor and Sensory Columns
+</figcaption>
+<div aria-describedby="tbl-cn-nuclei-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="compact-table">
+<thead>
+<tr>
+<th>
+Classification
+</th>
+<th>
+</th>
+<th>
+Function(s)
+</th>
+<th>
+Nuclei
+</th>
+<th>
+Cranial nerve(s)
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" class="row-group" style="background-color: #f2f2f2">
+Motor
+</td>
+</tr>
+<tr class="motor-color">
+<td rowspan="4">
+Somatic motor
+</td>
+<td rowspan="4">
+General somatic efferent
+</td>
+<td rowspan="4">
+Extraocular muscles <br> Intrinsic tongue muscles
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/oculomotor_nucleus.html">Oculomotor nucleus</a>
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN3_Oculomotor.html">CN III</a>
+</td>
+</tr>
+<tr class="motor-color">
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trochlear_nucleus.html">Trochlear</a>
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN4_Trochlear.html">CN IV</a>
+</td>
+</tr>
+<tr class="motor-color">
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/abducens_nucleus.html">Abducens</a>
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN6_Abducens.html">CN VI</a>
+</td>
+</tr>
+<tr class="motor-color">
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/hypoglossal_nucleus.html">Hypoglossal</a>
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN12_Hypoglossal.html">CN XII</a>
+</td>
+</tr>
+<tr class="branchial-color">
+<td rowspan="4">
+Branchial motor
+</td>
+<td rowspan="4">
+Special visceral efferent
+</td>
+<td rowspan="4">
+<a href="?var:ref-mastication-muscles.path">Muscles of mastication</a>, Facial expression, Middle ear, Pharynx, Larynx, Sternomastoid, <a href="../../../../The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/upper_trapezius.html#nerve">Upper trapezius</a>
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/trigeminal_motor_nucleus.html">Trigeminal motor</a>
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html">CN V</a>
+</td>
+</tr>
+<tr class="branchial-color">
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/facial_nucleus.html">Facial nucleus</a>
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN7_Facial.html">CN VII</a>
+</td>
+</tr>
+<tr class="branchial-color">
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_ambiguous.html">Nucleus ambiguous</a>
+</td>
+<td>
+CN <a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN9_Glossopharyngeal.html">IX</a>, <a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN10_Vagus.html">X</a>
+</td>
+</tr>
+<tr class="branchial-color">
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/spinal_accessory_nucleus.html">Accessory spinal</a>
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN11 Spinal Accessory Nerve/cn11_spinal_accessory_nerve.html">CN XI</a>
+</td>
+</tr>
+<tr class="parasympathetic-color">
+<td rowspan="4">
+Parasympathetic motor
+</td>
+<td rowspan="4">
+General visceral efferent
+</td>
+<td rowspan="4">
+Parasympathetic innervation of head and viscera above the splenic flexure
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/edinger-westphal_nucleus.html">Edinger-Westphal</a>
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN3_Oculomotor.html">CN III</a>
+</td>
+</tr>
+<tr class="parasympathetic-color">
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/superior_salivatory_nucleus.html">Superior salivatory</a>
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN7_Facial.html">CN VII</a>
+</td>
+</tr>
+<tr class="parasympathetic-color">
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/inferior_salivatory_nucleus.html">Inferior salivatory</a>
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN9_Glossopharyngeal.html">CN IX</a>
+</td>
+</tr>
+<tr class="parasympathetic-color">
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/dorsal_motor_nucleus.html">Dorsal motor nucleus</a>
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN10_Vagus.html">CN X</a>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="row-group" style="background-color: #f2f2f2">
+Sensory
+</td>
+</tr>
+<tr class="visceral-sensory-color">
+<td>
+Visceral sensory
+</td>
+<td>
+Special visceral afferent
+</td>
+<td>
+Taste
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_solitarius.html">Nucleus solitarius (rostral portion)</a>
+</td>
+<td>
+CN <a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN7_Facial.html">VII</a>, <a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN9_Glossopharyngeal.html">IX</a>, <a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN10_Vagus.html">X</a>
+</td>
+</tr>
+<tr class="visceral-sensory-color">
+<td>
+Visceral sensory
+</td>
+<td>
+General visceral afferent
+</td>
+<td>
+Afferents for cardiorespiratory control and digestion
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/nucleus_solitarius.html">Nucleus solitarius (caudal portion)</a>
+</td>
+<td>
+CN <a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN9_Glossopharyngeal.html">IX</a> &amp; <a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN10_Vagus.html">X</a>
+</td>
+</tr>
+<tr class="general-somatic-color">
+<td>
+General somatic sensory
+</td>
+<td>
+General somatic afferent
+</td>
+<td>
+Touch, pain, temperature, position, and vibration sense of face, sinuses, and meninges
+</td>
+<td>
+Trigeminal nuclei
+</td>
+<td>
+CN <a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN5_Trigeminal.html">V</a>, <a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN7_Facial.html">VII</a>, <a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN9_Glossopharyngeal.html">IX</a>, <a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN10_Vagus.html">X</a>
+</td>
+</tr>
+<tr class="special-somatic-color">
+<td>
+Special somatic sensory
+</td>
+<td>
+Special somatic afferent
+</td>
+<td>
+Olfaction, vision, hearing, vestibular sensation
+</td>
+<td>
+Cochlear nuclei, vestibular nuclei
+</td>
+<td>
+<a href="../../../../The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN8_Vestibulocochlear.html">CN VIII</a>
+</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td class="row-group" colspan="5">
+<strong>Source:</strong> Blumenfeld<span class="citation" data-cites="blumenfeldNeuroanatomyClinicalCases2022"><sup><a href="#ref-blumenfeldNeuroanatomyClinicalCases2022" role="doc-biblioref">1</a></sup></span>
+</td>
+</tr>
+</tfoot>
+</table>
+</div>
+</figure>
+</div>
+
 
 
 </section>
-</section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-blumenfeldNeuroanatomyClinicalCases2022" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Blumenfeld H. <em>Neuroanatomy Through Clinical Cases</em>. 3rd ed. Oxford university press; 2022.</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Cranial Nerve Overview.
-<a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/cranial_nerve_overview.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
+<a href="https://yomokerst.com/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/cranial_nerve_overview.html">https://yomokerst.com/The
 Archive/Neuroscience/Neuroanatomy/Cranial
 Nerves/cranial_nerve_overview.html</a></div>
 </div></div></section></div></main> <!-- /main -->
@@ -486,7 +851,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/nateyomo\.github\.io\/Yomogida-Kerstein-Lab");
+      var filterRegex = new RegExp("https:\/\/yomokerst\.com");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

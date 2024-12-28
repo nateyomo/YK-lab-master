@@ -22,7 +22,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -157,7 +176,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="quarto-title-meta-heading">Affiliations</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#ngy">Nathaniel Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+    <p class="author"><a href="https://yomokerst.com/about.html#ngy">Nathaniel Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -168,7 +187,7 @@ ul.task-list li input[type="checkbox"] {
           </p>
       </div>
     <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+    <p class="author"><a href="https://yomokerst.com/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -195,17 +214,928 @@ ul.task-list li input[type="checkbox"] {
 <section id="motor-innervation" class="level1">
 <h1>Motor Innervation</h1>
 <div class="cell">
-<div class="cell-output cell-output-error">
-<pre><code>Error in vapply(non_na_text, FUN.VALUE = character(1L), USE.NAMES = FALSE, : values must be length 1,
- but FUN(X[[1]]) result is length 0</code></pre>
+<div class="cell-output-display">
+<div id="rtjfsntcyg" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#rtjfsntcyg table {
+  font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#rtjfsntcyg thead, #rtjfsntcyg tbody, #rtjfsntcyg tfoot, #rtjfsntcyg tr, #rtjfsntcyg td, #rtjfsntcyg th {
+  border-style: none;
+}
+
+#rtjfsntcyg p {
+  margin: 0;
+  padding: 0;
+}
+
+#rtjfsntcyg .gt_table {
+  display: table;
+  border-collapse: collapse;
+  line-height: normal;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  width: auto;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#rtjfsntcyg .gt_caption {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+#rtjfsntcyg .gt_title {
+  color: #333333;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#rtjfsntcyg .gt_subtitle {
+  color: #333333;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 3px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#rtjfsntcyg .gt_heading {
+  background-color: #FFFFFF;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#rtjfsntcyg .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#rtjfsntcyg .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#rtjfsntcyg .gt_col_heading {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#rtjfsntcyg .gt_column_spanner_outer {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#rtjfsntcyg .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#rtjfsntcyg .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#rtjfsntcyg .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#rtjfsntcyg .gt_spanner_row {
+  border-bottom-style: hidden;
+}
+
+#rtjfsntcyg .gt_group_heading {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  text-align: left;
+}
+
+#rtjfsntcyg .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#rtjfsntcyg .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#rtjfsntcyg .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#rtjfsntcyg .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#rtjfsntcyg .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#rtjfsntcyg .gt_stub_row_group {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 5px;
+  padding-right: 5px;
+  vertical-align: top;
+}
+
+#rtjfsntcyg .gt_row_group_first td {
+  border-top-width: 2px;
+}
+
+#rtjfsntcyg .gt_row_group_first th {
+  border-top-width: 2px;
+}
+
+#rtjfsntcyg .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#rtjfsntcyg .gt_first_summary_row {
+  border-top-style: solid;
+  border-top-color: #D3D3D3;
+}
+
+#rtjfsntcyg .gt_first_summary_row.thick {
+  border-top-width: 2px;
+}
+
+#rtjfsntcyg .gt_last_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#rtjfsntcyg .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#rtjfsntcyg .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#rtjfsntcyg .gt_last_grand_summary_row_top {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-style: double;
+  border-bottom-width: 6px;
+  border-bottom-color: #D3D3D3;
+}
+
+#rtjfsntcyg .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#rtjfsntcyg .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#rtjfsntcyg .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#rtjfsntcyg .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#rtjfsntcyg .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#rtjfsntcyg .gt_sourcenote {
+  font-size: 90%;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#rtjfsntcyg .gt_left {
+  text-align: left;
+}
+
+#rtjfsntcyg .gt_center {
+  text-align: center;
+}
+
+#rtjfsntcyg .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#rtjfsntcyg .gt_font_normal {
+  font-weight: normal;
+}
+
+#rtjfsntcyg .gt_font_bold {
+  font-weight: bold;
+}
+
+#rtjfsntcyg .gt_font_italic {
+  font-style: italic;
+}
+
+#rtjfsntcyg .gt_super {
+  font-size: 65%;
+}
+
+#rtjfsntcyg .gt_footnote_marks {
+  font-size: 75%;
+  vertical-align: 0.4em;
+  position: initial;
+}
+
+#rtjfsntcyg .gt_asterisk {
+  font-size: 100%;
+  vertical-align: 0;
+}
+
+#rtjfsntcyg .gt_indent_1 {
+  text-indent: 5px;
+}
+
+#rtjfsntcyg .gt_indent_2 {
+  text-indent: 10px;
+}
+
+#rtjfsntcyg .gt_indent_3 {
+  text-indent: 15px;
+}
+
+#rtjfsntcyg .gt_indent_4 {
+  text-indent: 20px;
+}
+
+#rtjfsntcyg .gt_indent_5 {
+  text-indent: 25px;
+}
+
+#rtjfsntcyg .katex-display {
+  display: inline-flex !important;
+  margin-bottom: 0.75em !important;
+}
+
+#rtjfsntcyg div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+  height: 0px !important;
+}
+</style>
+
+<table class="gt_table caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-quarto-disable-processing="false" data-quarto-bootstrap="false">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="gt_heading header">
+<th colspan="5" class="gt_heading gt_title gt_font_normal gt_bottom_border">S3 Nerve Root Skeletal Muscle Innervations</th>
+</tr>
+<tr class="gt_col_headings even">
+<th id="name_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Muscle</th>
+<th id="origin_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Origin</th>
+<th id="insertion_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Insertion</th>
+<th id="innervation_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Innervation</th>
+<th id="action_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Action</th>
+</tr>
+</thead>
+<tbody class="gt_table_body">
+<tr class="odd">
+<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.html">Abductor digiti minimi (Foot)</a></td>
+<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.html#origin">Plantar aponeurosis</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul>
+<ul>
+<li>[Plantar aponeurosis](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.qmd#origin) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</td>
+<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.html#insertion">5th metatarsal tuberosity</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul>
+<ul>
+<li>[5th metatarsal tuberosity](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.qmd#insertion) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</td>
+<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.html#nerve">Lateral Plantar n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.html#nerve">Lateral Plantar n.&nbsp;(Deep branch)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+</ul><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.html#nerve">S1</a> - <a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.html#nerve">S3</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span>
+</p><ul>
+<li><p>[Lateral Plantar n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></li>
+<li><p>[Lateral Plantar n. (Deep branch)](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></li>
+</ul>
+<p>[S1](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.qmd#nerve) - [S3](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
+<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz41dGggVG9lPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5bTVRQIEFiZHVjdGlvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvQW5rbGUgYW5kIEZvb3QvSW50cmluc2ljIERvcnNhbCBGb290IE11c2NsZXMvYWJkdWN0b3JfZGlnaXRpX21pbmltaV9mb290LnFtZCNhY3Rpb24pIFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo8cD48c3Ryb25nPkFyY2ggc3VwcG9ydDwvc3Ryb25nPjwvcD4KPHVsPgo8bGk+W0xvbmdpdHVkaW5hbCBhcmNoIHN1cHBvcnRdKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0Fua2xlIGFuZCBGb290L0ludHJpbnNpYyBEb3JzYWwgRm9vdCBNdXNjbGVzL2FiZHVjdG9yX2RpZ2l0aV9taW5pbWlfZm9vdC5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPC91bD4K">
+<span class="gt_from_md">
+<strong>5th Toe</strong>
+<p></p>
+<ul>
+<li>[MTP Abduction](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.qmd#action) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+<p><strong>Arch support</strong></p>
+<ul>
+<li>[Longitudinal arch support](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.qmd#action) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</span></span></td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.html">Abductor digiti minimi</a></td>
+<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.html#origin">Medial tubercle of calcaneal tuberosity</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.html#origin">Cuboid</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.html#origin">Lateral cuneiforms</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.html#origin">3-5th MTP joints</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.html#origin">Deep transverse metatarsal lig.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+</ul>
+<ul>
+<li><p>[Medial tubercle of calcaneal tuberosity](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
+<li><p>[Cuboid](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
+<li><p>[Lateral cuneiforms](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
+<li><p>[3-5th MTP joints](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
+<li><p>[Deep transverse metatarsal lig.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
+</ul>
+</td>
+<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.html#insertion">Base of 5th proximal phalanx</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.html#insertion">Base of 1st proximal phalanx (via common tendon)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+</ul>
+<ul>
+<li><p>[Base of 5th proximal phalanx](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.qmd#insertion) [@gilroyAtlasAnatomy2020]</p></li>
+<li><p>[Base of 1st proximal phalanx (via common tendon)](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.qmd#insertion) [@gilroyAtlasAnatomy2020]</p></li>
+</ul>
+</td>
+<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.html#nerve">Lateral plantar n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.html#nerve">S2</a> - <a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.html#nerve">S3</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span>
+</p><ul>
+<li>[Lateral plantar n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.qmd#nerve) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+<p>[S2](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.qmd#nerve) - [S3](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
+<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz4xc3QgTVRQPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5bRmxleGlvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvQW5rbGUgYW5kIEZvb3QvSW50cmluc2ljIERvcnNhbCBGb290IE11c2NsZXMvYWRkdWN0b3JfaGFsbHVjaXMucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjxsaT5bQWRkdWN0aW9uXSgvVGhlIEFyY2hpdmUvQW5hdG9teS9Ta2VsZXRhbCBNdXNjbGVzL0xvd2VyIGxpbWIgbXVzY2xlcy9BbmtsZSBhbmQgRm9vdC9JbnRyaW5zaWMgRG9yc2FsIEZvb3QgTXVzY2xlcy9hZGR1Y3Rvcl9oYWxsdWNpcy5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPC91bD4KPHA+PHN0cm9uZz41dGggVG9lPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5bTVRQIEZsZXhpb25dKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0Fua2xlIGFuZCBGb290L0ludHJpbnNpYyBEb3JzYWwgRm9vdCBNdXNjbGVzL2FiZHVjdG9yX2RpZ2l0aV9taW5pbWlfZm9vdC5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPC91bD4KPHA+PHN0cm9uZz5BcmNoIFN1cHBvcnQ8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPls8ZW0+VHJhbnN2ZXJzZSBoZWFkPC9lbT4gc3VwcG9ydHMgdHJhbnN2ZXJzZSBhcmNoXSgvVGhlIEFyY2hpdmUvQW5hdG9teS9Ta2VsZXRhbCBNdXNjbGVzL0xvd2VyIGxpbWIgbXVzY2xlcy9BbmtsZSBhbmQgRm9vdC9JbnRyaW5zaWMgRG9yc2FsIEZvb3QgTXVzY2xlcy9hZGR1Y3Rvcl9oYWxsdWNpcy5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPGxpPls8ZW0+T2JsaXF1ZSBoZWFkPC9lbT4gc3VwcG9ydHMgbG9uZ2l0dWRpbmFsIGFyY2hdKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0Fua2xlIGFuZCBGb290L0ludHJpbnNpYyBEb3JzYWwgRm9vdCBNdXNjbGVzL2FkZHVjdG9yX2hhbGx1Y2lzLnFtZCNhY3Rpb24pIFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo=">
+<span class="gt_from_md">
+<strong>1st MTP</strong>
+<p></p>
+<ul>
+<li>[Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.qmd#action) [@gilroyAtlasAnatomy2020]</li>
+<li>[Adduction](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.qmd#action) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+<p><strong>5th Toe</strong></p>
+<ul>
+<li>[MTP Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.qmd#action) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+<p><strong>Arch Support</strong></p>
+<ul>
+<li>[<em>Transverse head</em> supports transverse arch](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.qmd#action) [@gilroyAtlasAnatomy2020]</li>
+<li>[<em>Oblique head</em> supports longitudinal arch](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.qmd#action) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</span></span></td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.html">Dorsal interossei (4 muscles)</a></td>
+<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.html#origin">1-5 metatarsals (two heads on opposing sides)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul>
+<ul>
+<li>[1-5 metatarsals (two heads on opposing sides)](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.qmd#origin) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</td>
+<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.html#insertion">Medial aspect of 2nd proximal phalanx base</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.html#insertion">Lateral aspect of 2nd-4th proximal phalanx bases</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.html#insertion">2-4 Toes at Dorsal aponeurosis</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+</ul>
+<ul>
+<li><p>[Medial aspect of 2nd proximal phalanx base](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.qmd#insertion) [@gilroyAtlasAnatomy2020]</p></li>
+<li><p>[Lateral aspect of 2nd-4th proximal phalanx bases](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.qmd#insertion) [@gilroyAtlasAnatomy2020]</p></li>
+<li><p>[2-4 Toes at Dorsal aponeurosis](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.qmd#insertion) [@gilroyAtlasAnatomy2020]</p></li>
+</ul>
+</td>
+<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis_foot.html#nerve">Lateral Plantar n.&nbsp;(superficial branch)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis_foot.html#nerve">S2</a> - <a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis_foot.html#nerve">S3</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span>
+</p><ul>
+<li>[Lateral Plantar n. (superficial branch)](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis_foot.qmd#nerve) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+<p>[S2](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis_foot.qmd#nerve) - [S3](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis_foot.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
+<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz4ybmQtNHRoIFRvZXM8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPltNVFAgRmxleGlvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvQW5rbGUgYW5kIEZvb3QvSW50cmluc2ljIERvcnNhbCBGb290IE11c2NsZXMvZG9yc2FsX2ludGVyb3NzZWkucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjxsaT5bTVRQIDMtNCBhYmR1Y3Rpb25dKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0Fua2xlIGFuZCBGb290L0ludHJpbnNpYyBEb3JzYWwgRm9vdCBNdXNjbGVzL2RvcnNhbF9pbnRlcm9zc2VpLnFtZCNhY3Rpb24pIE5BPC9saT4KPGxpPltQSVAgRXh0ZW5zaW9uXSgvVGhlIEFyY2hpdmUvQW5hdG9teS9Ta2VsZXRhbCBNdXNjbGVzL0xvd2VyIGxpbWIgbXVzY2xlcy9BbmtsZSBhbmQgRm9vdC9JbnRyaW5zaWMgRG9yc2FsIEZvb3QgTXVzY2xlcy9kb3JzYWxfaW50ZXJvc3NlaS5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPGxpPltESVAgRXh0ZW5zaW9uXSgvVGhlIEFyY2hpdmUvQW5hdG9teS9Ta2VsZXRhbCBNdXNjbGVzL0xvd2VyIGxpbWIgbXVzY2xlcy9BbmtsZSBhbmQgRm9vdC9JbnRyaW5zaWMgRG9yc2FsIEZvb3QgTXVzY2xlcy9kb3JzYWxfaW50ZXJvc3NlaS5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPC91bD4K">
+<span class="gt_from_md">
+<strong>2nd-4th Toes</strong>
+<p></p>
+<ul>
+<li>[MTP Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.qmd#action) [@gilroyAtlasAnatomy2020]</li>
+<li>[MTP 3-4 abduction](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.qmd#action) NA</li>
+<li>[PIP Extension](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.qmd#action) [@gilroyAtlasAnatomy2020]</li>
+<li>[DIP Extension](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.qmd#action) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</span></span></td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis_foot.html">Flexor digiti minimi brevis (foot)</a></td>
+<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis_foot.html#origin">Base of 5th Metatarsal</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis_foot.html#origin">Long plantar lig.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+</ul>
+<ul>
+<li><p>[Base of 5th Metatarsal](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis_foot.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
+<li><p>[Long plantar lig.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis_foot.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
+</ul>
+</td>
+<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis_foot.html#insertion">Base of 5th proximal phalanx</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul>
+<ul>
+<li>[Base of 5th proximal phalanx](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis_foot.qmd#insertion) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</td>
+<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.html#nerve">Medial Plantar n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.html#nerve">Lateral Plantar n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+</ul><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.html#nerve">S2</a> - <a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.html#nerve">S3</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span>
+</p><ul>
+<li><p>[Medial Plantar n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.html#nerve) [@gilroyAtlasAnatomy2020]</p></li>
+<li><p>[Lateral Plantar n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.html#nerve) [@gilroyAtlasAnatomy2020]</p></li>
+</ul>
+<p>[S2](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.html#nerve) - [S3](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.html#nerve) [@gilroyAtlasAnatomy2020]</p></td>
+<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis_foot.html#action">5th MTP Flexion</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul>
+<ul>
+<li>[5th MTP Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/flexor_digiti_minimi_brevis_foot.qmd#action) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.html">Lumbricals (Foot)</a></td>
+<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.html#origin">FDL tendons (medial borders)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul>
+<ul>
+<li>[FDL tendons (medial borders)](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.html#origin) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</td>
+<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.html#insertion">2-5th toes at dorsal aponeurosis</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul>
+<ul>
+<li>[2-5th toes at dorsal aponeurosis](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.html#insertion) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</td>
+<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi_foot.html#nerve">Lateral Plantar n.&nbsp;(superficial branch)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi_foot.html#nerve">S2</a> - <a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi_foot.html#nerve">S3</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span>
+</p><ul>
+<li>[Lateral Plantar n. (superficial branch)](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi_foot.qmd#nerve) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+<p>[S2](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi_foot.qmd#nerve) - [S3](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi_foot.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
+<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz4ybmQtNXRoIFRvZXM8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPltNVFAgRmxleGlvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvQW5rbGUgYW5kIEZvb3QvSW50cmluc2ljIERvcnNhbCBGb290IE11c2NsZXMvZm9vdF9sdW1icmljYWxzLmh0bWwjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPGxpPltQSVAgRXh0ZW5zaW9uXSgvVGhlIEFyY2hpdmUvQW5hdG9teS9Ta2VsZXRhbCBNdXNjbGVzL0xvd2VyIGxpbWIgbXVzY2xlcy9BbmtsZSBhbmQgRm9vdC9JbnRyaW5zaWMgRG9yc2FsIEZvb3QgTXVzY2xlcy9mb290X2x1bWJyaWNhbHMuaHRtbCNhY3Rpb24pIFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8bGk+W0RJUCBFeHRlbnNpb25dKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0Fua2xlIGFuZCBGb290L0ludHJpbnNpYyBEb3JzYWwgRm9vdCBNdXNjbGVzL2Zvb3RfbHVtYnJpY2Fscy5odG1sI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+Cg==">
+<span class="gt_from_md">
+<strong>2nd-5th Toes</strong>
+<p></p>
+<ul>
+<li>[MTP Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.html#action) [@gilroyAtlasAnatomy2020]</li>
+<li>[PIP Extension](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.html#action) [@gilroyAtlasAnatomy2020]</li>
+<li>[DIP Extension](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/foot_lumbricals.html#action) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</span></span></td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi_foot.html">Opponens digiti minimi</a></td>
+<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi_foot.html#origin">Long plantar lig.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi_foot.html#origin"><em>Fibularis longus</em> plantar tendon sheath</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+</ul>
+<ul>
+<li><p>[Long plantar lig.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi_foot.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
+<li><p>[<em>Fibularis longus</em> plantar tendon sheath](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi_foot.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
+</ul>
+</td>
+<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi_foot.html#insertion">5th metatarsal</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul>
+<ul>
+<li>[5th metatarsal](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi_foot.qmd#insertion) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</td>
+<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.html#nerve">Lateral plantar n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.html#nerve">S2</a> - <a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.html#nerve">S3</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span>
+</p><ul>
+<li>[Lateral plantar n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.qmd#nerve) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+<p>[S2](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.qmd#nerve) - [S3](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
+<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi_foot.html#action">Pulls 5th metatarsal in plantar and medial direction</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul>
+<ul>
+<li>[Pulls 5th metatarsal in plantar and medial direction](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/opponens_digiti_minimi_foot.qmd#action) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.html">Plantar interossei (3 muscles)</a></td>
+<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.html#origin">Medial border of 3rd-5th metatarsals</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul>
+<ul>
+<li>[Medial border of 3rd-5th metatarsals](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.qmd#origin) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</td>
+<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.html#insertion">Medial aspect of 3rd-5th proximal phalanx</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul>
+<ul>
+<li>[Medial aspect of 3rd-5th proximal phalanx](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.qmd#insertion) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</td>
+<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/quadratus_plantae.html#nerve">Lateral Plantar n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/quadratus_plantae.html#nerve">S1</a> - <a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/quadratus_plantae.html#nerve">S3</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span>
+</p><ul>
+<li>[Lateral Plantar n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/quadratus_plantae.html#nerve) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+<p>[S1](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/quadratus_plantae.html#nerve) - [S3](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/quadratus_plantae.html#nerve) [@gilroyAtlasAnatomy2020]</p></td>
+<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz4zcmQtNXRoIFRvZXM8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPltNVFAgRmxleGlvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvQW5rbGUgYW5kIEZvb3QvSW50cmluc2ljIERvcnNhbCBGb290IE11c2NsZXMvcGxhbnRhcl9pbnRlcm9zc2VpLnFtZCNhY3Rpb24pIFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8bGk+W01UUCBBZGR1Y3Rpb25dKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0Fua2xlIGFuZCBGb290L0ludHJpbnNpYyBEb3JzYWwgRm9vdCBNdXNjbGVzL3BsYW50YXJfaW50ZXJvc3NlaS5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPGxpPltQSVAgRXh0ZW5zaW9uXSgvVGhlIEFyY2hpdmUvQW5hdG9teS9Ta2VsZXRhbCBNdXNjbGVzL0xvd2VyIGxpbWIgbXVzY2xlcy9BbmtsZSBhbmQgRm9vdC9JbnRyaW5zaWMgRG9yc2FsIEZvb3QgTXVzY2xlcy9wbGFudGFyX2ludGVyb3NzZWkucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjxsaT5bRElQIEV4dGVuc2lvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvQW5rbGUgYW5kIEZvb3QvSW50cmluc2ljIERvcnNhbCBGb290IE11c2NsZXMvcGxhbnRhcl9pbnRlcm9zc2VpLnFtZCNhY3Rpb24pIFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo=">
+<span class="gt_from_md">
+<strong>3rd-5th Toes</strong>
+<p></p>
+<ul>
+<li>[MTP Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.qmd#action) [@gilroyAtlasAnatomy2020]</li>
+<li>[MTP Adduction](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.qmd#action) [@gilroyAtlasAnatomy2020]</li>
+<li>[PIP Extension](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.qmd#action) [@gilroyAtlasAnatomy2020]</li>
+<li>[DIP Extension](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.qmd#action) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</span></span></td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/quadratus_plantae.html">Quadratus plantae</a></td>
+<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/quadratus_plantae.html#origin">Calcaneal tuberosity (medial and plantar borders)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul>
+<ul>
+<li>[Calcaneal tuberosity (medial and plantar borders)](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/quadratus_plantae.html#origin) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</td>
+<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/quadratus_plantae.html#insertion">Tendons of FDL (lateral borders)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul>
+<ul>
+<li>[Tendons of FDL (lateral borders)](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/quadratus_plantae.html#insertion) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</td>
+<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.html#nerve">Lateral Plantar n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+<li><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.html#nerve">Lateral Plantar n.&nbsp;(Deep branch)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</p><br>
+</li><br>
+</ul><br>
+<p><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.html#nerve">S1</a> - <a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.html#nerve">S3</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span>
+</p><ul>
+<li><p>[Lateral Plantar n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></li>
+<li><p>[Lateral Plantar n. (Deep branch)](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></li>
+</ul>
+<p>[S1](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/abductor_digiti_minimi_foot.qmd#nerve) - [S3](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/adductor_hallucis.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
+<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><ul><br>
+<li><br>
+<a href="../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/quadratus_plantae.html#action">Redirects and augments pull of the FDL</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
+</li><br>
+</ul>
+<ul>
+<li>[Redirects and augments pull of the FDL](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/quadratus_plantae.html#action) [@gilroyAtlasAnatomy2020]</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
 </div>
 </div>
+</div>
+
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
-<div class="">Yomogida N, Kerstein C. S3 Nerve Root (S3). <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Nerve Roots/S3_nerve_root.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-gilroyAtlasAnatomy2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Gilroy AM, MacPherson BR, Wikenheiser JC, Voll MM, Wesker K, Schünke M, eds. <em>Atlas of Anatomy</em>. 4th ed. Thieme; 2020.</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div class="">Yomogida N, Kerstein C. S3 Nerve Root (S3). <a href="https://yomokerst.com/The Archive/Anatomy/Nerve Roots/S3_nerve_root.html">https://yomokerst.com/The
 Archive/Anatomy/Nerve Roots/S3_nerve_root.html</a></div>
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -442,7 +1372,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/nateyomo\.github\.io\/Yomogida-Kerstein-Lab");
+      var filterRegex = new RegExp("https:\/\/yomokerst\.com");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

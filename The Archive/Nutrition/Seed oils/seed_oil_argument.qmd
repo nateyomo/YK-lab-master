@@ -1,0 +1,58 @@
+---
+title: Seed oil debate
+---
+
+
+# youtube-nutrition made simple
+
+## Flaxseed oil
+Dr. Carvalho cited an SR/Meta analysis by Ren et al. @renEffectFlaxseedIntervention2016, which included 8 articles about flaxseed oil and its relation to the C-reactive protein, an inflammatory marker.
+Ren et al. @renEffectFlaxseedIntervention2016 concluded that Flaxseed oil has no significant CRP lowering effect @renEffectFlaxseedIntervention2016.
+
+Out of the 8 studies, only two compared flaxseed oil (experimental) to olive oil (control), the other studies compared flaxseed oil to other Omega-6 oils such as safflower, sunflower oil, or soybean oil.
+
+| Study | Experimental | Control | Dosage |
+|-|-|-|-|
+| Foster 2013 @fosterInflammationMarkersPredict2013 | Flaxseed oil | Olive oil | 2000mg (0.)
+
+### Foster 2013 {#fosterInflammationMarkersPredict2013}
+
+- Participants
+    - n=43
+    - Women
+    - Type 2 DM
+- Design
+    - Randomized
+    - double blind
+    - Placebo controlled
+- Intervention
+    - Zn supplement
+    - Flaxseed oil (2000mg/day oil)
+        - this was chosen to achieve 1200mg/day of &alpha;-linolenic acid (a form of omega-3)
+- Control:
+    - Olive oil (chosen as the placebo due to its low content of ALA)
+    - 
+
+
+
+# Are Seed Oils Anti-Inflammatory?
+
+## For
+
+
+
+## Against
+
+# Importane of Omega-6 Content
+
+# Do Seed Oils Lower Heart Disease Risk?
+
+
+
+# Is It Just Ultra-Processed Foods?
+
+
+# Does Replacing Seed Oils with Butter Make Things Worse?
+
+
+# The Bigger Picture – What Does the Evidence Really Say?

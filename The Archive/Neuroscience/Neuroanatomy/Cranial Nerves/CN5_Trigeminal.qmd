@@ -2,6 +2,12 @@
 title: CNV Trigeminal Nerve
 ---
 
+<!-- 
+to read
+- Chapter 12 Brainstem I: Surface Anatomy and Cranial Nerves @blumenfeldNeuroanatomyClinicalCases2022 
+
+-->
+
 ![Trigeminal Nerve Sensory and Motor pathways (from Blumenfeld figure 12.7 @blumenfeldNeuroanatomyClinicalCases2022)](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.7 Trigeminal Nerve blumenfeld2022.png)
 
 

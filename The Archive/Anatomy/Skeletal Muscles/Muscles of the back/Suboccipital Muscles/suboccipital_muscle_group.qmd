@@ -4,10 +4,40 @@ title: Suboccipital Muscle Group
 
 
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Rectus Capitis Posterior Major]({{< var ref-rectus-capitis-posterior-major.path >}}) | {{< var ref-rectus-capitis-posterior-major.origin >}} | {{< var ref-rectus-capitis-posterior-major.insertion >}} | {{< var ref-rectus-capitis-posterior-major.nerve >}} | {{< var ref-rectus-capitis-posterior-major.action >}} |
-| [Rectus Capitis Posterior Minor]({{< var ref-rectus-capitis-posterior-minor.path >}}) | {{< var ref-rectus-capitis-posterior-minor.origin >}} | {{< var ref-rectus-capitis-posterior-minor.insertion >}} | {{< var ref-rectus-capitis-posterior-minor.nerve >}} | {{< var ref-rectus-capitis-posterior-minor.action >}} |
-| [Obliquus Capitis Superior]({{< var ref-obliquus-capitis-superior.path >}}) | {{< var ref-obliquus-capitis-superior.origin >}} | {{< var ref-obliquus-capitis-superior.insertion >}} | {{< var ref-obliquus-capitis-superior.nerve >}} | {{< var ref-obliquus-capitis-superior.action >}} |
-| [Obliquus Capitis Inferior]({{< var ref-obliquus-capitis-inferior.path >}}) | {{< var ref-obliquus-capitis-inferior.origin >}} | {{< var ref-obliquus-capitis-inferior.insertion >}} | {{< var ref-obliquus-capitis-inferior.nerve >}} | {{< var ref-obliquus-capitis-inferior.action >}} |
-: Suboccipital Muscle Group {.striped .hover}
+
+```{python tbl-oian}
+#| label: tbl-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: Suboccipital Muscle Group
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['suboccipital_muscle_group']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```

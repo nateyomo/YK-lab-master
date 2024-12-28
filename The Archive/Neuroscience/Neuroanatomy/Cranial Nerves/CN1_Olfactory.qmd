@@ -2,6 +2,16 @@
 title: "CN I: Olfactory nerve"
 ---
 
+<!-- 
+to read
+- Chapter 12 Brainstem I: Surface Anatomy and Cranial Nerves @blumenfeldNeuroanatomyClinicalCases2022 
+
+-->
+
+- Type: Sensory
+- Function: Sense of smell
+- Dysfunction: Anosmia (loss of smell)
+
 ```{mermaid}
 flowchart TD
   A[Nose] -- smell --> B["Cribriform plate"]
@@ -51,6 +61,10 @@ Olfactory cortex: no single structure
 - Entorhinal cortex:
     - Location: Anterior part of Parahippocampal gyrus
     - Function: Formation of Memory
+
+# Pupillary light reflex
+
+CN2 is involved in the [pupillary light reflex]({{< var ref-pupillary-light-reflex.path >}})
 
 # Dysfunction
 - [Anosmia]({{< var ref-anosmia.path >}})

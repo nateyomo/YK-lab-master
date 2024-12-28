@@ -1,0 +1,16 @@
+{
+  "hash": "fd7dad9ad3ffa14e9f9dc7fe49de1d21",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Lumbrical Muscles of the Hand\n---\n\n::: {#tbl-oian .cell message='false' execution_count=1}\n\n::: {.cell-output .cell-output-display}\n```{=html}\n<table border=\"1\" class=\"dataframe oian-table\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>Muscle</th>\n      <th>Origin</th>\n      <th>Insertion</th>\n      <th>Innervation</th>\n      <th>Action</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n```\n:::\n:::\n\n\n# Origin {#origin}\n\n- **1-2nd Lumbrical**: FDP Tendons (radial sides) @gilroyAtlasAnatomy2020\n- **3-4th Lumbrical**: FDP tendons (bipennate from medial and lateral sides) @gilroyAtlasAnatomy202\n\n\n\n# Insertion {#insertion}\n\n- **1st**: 2nd digit (DDE) @gilroyAtlasAnatomy202\n- **2nd**: 3rd digit (DDE) @gilroyAtlasAnatomy202\n- **3rd**: 4th digit (DDE) @gilroyAtlasAnatomy202\n- **4th**: 5th digit (DDE) @gilroyAtlasAnatomy202\n\n\n\n# Innervation {#innervation}\n\n\n- **1-2nd Lumbrical**: [Median N.]({{< var ref-median-nerve.path >}}) [@gilroyAtlasAnatomy2020; @yangInnervationLumbricalInterosseous2022]\n- **3-4th Lumbrical**: [Deep Br. of Ulnar N.]({{< var ref-deep-branch-of-ulnar-nerve.path >}}) [@gilroyAtlasAnatomy2020; @yangInnervationLumbricalInterosseous2022]\n- ([C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020\n\n\n\n\n\n# Action {#action}\n\n- **2-5 MCP**: Flexion @gilroyAtlasAnatomy2020\n- **2-5 PIP, DIP**: Extension @gilroyAtlasAnatomy2020\n\n\n\n\n# Notes\n\n\n\n# Examination\n\n- Bunnell-Littler Test\n- Claw hand\n\n",
+    "supporting": [
+      "lumbrical_muscles_hand_files"
+    ],
+    "filters": [],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js\" integrity=\"sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==\" crossorigin=\"anonymous\"></script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js\" integrity=\"sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==\" crossorigin=\"anonymous\" data-relocate-top=\"true\"></script>\n<script type=\"application/javascript\">define('jquery', [],function() {return window.jQuery;})</script>\n"
+      ]
+    }
+  }
+}

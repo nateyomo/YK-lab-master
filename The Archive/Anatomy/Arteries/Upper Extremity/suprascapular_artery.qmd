@@ -1,0 +1,6 @@
+---
+title: Suprascapular artery
+---
+
+
+The lower portion of the [SCM]({{< var ref-sternocleidomastoid.vascularization >}}) muscle belly is supplied by the suprascapular artery @donnellyTravellSimonsSimons2019.

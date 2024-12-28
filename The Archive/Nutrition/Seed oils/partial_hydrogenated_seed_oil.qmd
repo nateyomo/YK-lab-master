@@ -1,0 +1,29 @@
+---
+title: Partial Hydrogenated seed oils
+---
+
+
+# Partially Hydrogenated Seed oils
+
+Vegetable oils such as corn oil or olive  oil are composed largely of [triacylglycerols]({{< var ref-triacylglycerol.path >}}) with unsaturated fatty acids and are in liquid form at room temperature @nelsonLehningerPrinciplesBiochemistry2021.
+
+When a lipid-rich food is exposed to oxygen in the air for a period of time, these foods may spoil and become rancid @nelsonLehningerPrinciplesBiochemistry2021.
+
+Rancid foods are associated with an unpleasant taste and smell due to aldehydes and shorter chain carboxylic acids which can travel through the air to your nose @nelsonLehningerPrinciplesBiochemistry2021.
+These aldehydes and shorter chain carboxylic acids are created from the result of the oxidative cleavage of double bonds in unsaturated fatty acids @nelsonLehningerPrinciplesBiochemistry2021.
+
+
+Partial hydrogenation was commonly used throughout the 20th century in order to improve shelf life and high temp. cooking stability of vegetable oils @nelsonLehningerPrinciplesBiochemistry2021.
+
+*Partial hydrogenation* refers to the process of converting the cis double bounds in the fatty acid to single bonds to create "trans fatty acids" @nelsonLehningerPrinciplesBiochemistry2021.
+Partial hydrogenationw as desirable to producers since it increased the melting temperature and allows these to be solid or nearly solid at room temperature @nelsonLehningerPrinciplesBiochemistry2021.
+
+## Adverse effects
+
+Although this seems beneficial, *partial hydrogenation* has undesirable, effects @nelsonLehningerPrinciplesBiochemistry2021.
+
+
+There is strong evidence that dietary intake of trans fatty acids or "trans fats" leads to an increased incidence of cardiovascular disease @nelsonLehningerPrinciplesBiochemistry2021.
+Dietary trans fatty acids raises the level of [serum triacylglycerols]({{< var ref-triacylglycerol.serum >}}) and [serum LDL cholesterol]({{< var ref-low-density-lipoprotein.serum >}}), while lowering the level of [HDL cholesterol]({{< var ref-high-density-lipoprotein.serum >}}).
+
+Trans fatty acids *seem* to increase the body’s inflammatory response, which is another risk factor for heart disease.

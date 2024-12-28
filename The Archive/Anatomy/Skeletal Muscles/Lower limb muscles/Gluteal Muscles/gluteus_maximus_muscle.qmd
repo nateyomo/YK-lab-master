@@ -11,7 +11,7 @@ The gluteus maximus also plays an important role in stabilization of the SIJ and
 
 
 ```{python tbl-oian}
-#| label: tbl-glute-max-process
+#| label: tbl-oian
 #| warning: false
 #| message: false
 #| echo: false

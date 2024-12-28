@@ -3,6 +3,12 @@ title: CNIV Trochlear Nerve
 ---
 
 
+<!-- 
+to read
+- Chapter 12 Brainstem I: Surface Anatomy and Cranial Nerves @blumenfeldNeuroanatomyClinicalCases2022 
+
+-->
+
 ```{mermaid}
 flowchart TB
   Lmidbrain[L Tegmentum of Midbrain] --> Decussate[Decussate]

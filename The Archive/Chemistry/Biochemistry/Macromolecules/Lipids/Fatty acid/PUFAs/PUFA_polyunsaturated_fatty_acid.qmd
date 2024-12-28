@@ -1,0 +1,32 @@
+---
+title: Polyunsaturated Fatty Acid (PUFA)
+---
+
+
+PUFAs refer to a family of lipids which have a double bond between the 3rd carbon and the 4th carbon from the methyl end of the chain @nelsonLehningerPrinciplesBiochemistry2021.
+This family of lipids plays an important role in human nutrition.
+
+
+# Omega nomenclature
+
+Since the physiological function of the lipid is dictated by the position of the 1st double bond relative to the methyl end of the chain, PUFA's have an alternative nomenclature based on the methyl end @nelsonLehningerPrinciplesBiochemistry2021.
+
+- The carbon of the methyl group is the *most* distant from the carboxyl group, and thus it is called &omega; (omega; the last letter in the Greek  alphabet) carbon @nelsonLehningerPrinciplesBiochemistry2021.
+- This &omega; carbon is given the number 1 (C-1) @nelsonLehningerPrinciplesBiochemistry2021.
+- the carboxyl carbon is on the opposite end and thus has the highest number @nelsonLehningerPrinciplesBiochemistry2021.
+- This naming scheme allows one to signify the position of the double bond (number) from the methyl group (&omega;) @nelsonLehningerPrinciplesBiochemistry2021
+
+::: {.callout title="Example"}
+
+1. PUFA with a double bond between the C-3 and C-4 carbons are called omega-3 (&omega;-3) fatty acids @nelsonLehningerPrinciplesBiochemistry2021
+1. PUFA with a double bond between C-6 and C-7 are called omega-6 (&omega;-6) fatty acids @nelsonLehningerPrinciplesBiochemistry2021
+
+
+:::
+
+
+# Diet
+
+An imbalance of omega-6 and omega-3 PUFAs in  the diet is associated with an increased risk of cardiovascular disease @nelsonLehningerPrinciplesBiochemistry2021
+
+According to Lehninger, the optimal dietary ratio of omega-6 to omega-3 fatty acids in the diet ranges from 1:1 and 4:1 @nelsonLehningerPrinciplesBiochemistry2021.

@@ -1,0 +1,33 @@
+---
+title: Hemoglobin A1c (HbA1c)
+---
+
+
+
+:::{.callout-note title="AKA"}
+hemoglobin A1c (glycated hemoglobin, glycosylated hemoglobin, HbA1c, or A1c) test
+:::
+
+
+
+- Measure of glucose control for previous 2-3 months
+- Goal for DM 6-7%
+- Higher number=worse control
+
+
+
+# Blood test {#blood-test}
+
+hemoglobin A1c (glycated hemoglobin, glycosylated hemoglobin, HbA1c, or A1c) test
+
+
+
+## Factors that increase HbA1c
+
+When the RBC turnover is slow, the red blood cells spend more time in the bloodstream which causes
+
+
+## Factors that decrease HbA1c
+
+Individuals with a high/fast RBC turnover rate will have an artifically low HbA1c. 
+Individuals who have high hemolysis, usually due to oxidation, replace their red blood cells faster than individuals with a normal hemolysis rate.

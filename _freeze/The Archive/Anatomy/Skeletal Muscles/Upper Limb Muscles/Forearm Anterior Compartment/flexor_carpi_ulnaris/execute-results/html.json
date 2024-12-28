@@ -1,0 +1,16 @@
+{
+  "hash": "08e1dd13c0a46edca277ee178898f5c6",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Flexor Carpi Ulnaris (FCU)\n---\n\n::: {#tbl-oian .cell message='false' execution_count=1}\n\n::: {.cell-output .cell-output-display}\n```{=html}\n<table border=\"1\" class=\"dataframe oian-table\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>Muscle</th>\n      <th>Origin</th>\n      <th>Insertion</th>\n      <th>Innervation</th>\n      <th>Action</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n```\n:::\n:::\n\n\n# Origin {#origin}\n\n- **Humeral head**: Medial epicondyle of Humerus @gilroyAtlasAnatomy2020\n- **Ulnar head**: Olecranon of Ulna @gilroyAtlasAnatomy2020\n\n\n\n# Insertion {#insertion}\n\n- Pisiform @gilroyAtlasAnatomy2020\n- Hook of hamate @gilroyAtlasAnatomy2020\n- Base of 5th metacarpal @gilroyAtlasAnatomy2020\n\n\n\n# Innervation {#innervation}\n\n[Ulnar N.]({{< var ref-ulnar-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020\n\n# Action {#action}\n\n**Wrist**: Flexion, Ulnar deviation @gilroyAtlasAnatomy2020\n\n\n# Notes\n\n",
+    "supporting": [
+      "flexor_carpi_ulnaris_files"
+    ],
+    "filters": [],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js\" integrity=\"sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==\" crossorigin=\"anonymous\"></script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js\" integrity=\"sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==\" crossorigin=\"anonymous\" data-relocate-top=\"true\"></script>\n<script type=\"application/javascript\">define('jquery', [],function() {return window.jQuery;})</script>\n"
+      ]
+    }
+  }
+}

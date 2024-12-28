@@ -2,7 +2,11 @@
 title: CNVII Facial Nerve
 ---
 
+<!-- 
+to read
+- Chapter 12 Brainstem I: Surface Anatomy and Cranial Nerves @blumenfeldNeuroanatomyClinicalCases2022 
 
+-->
 
 # Somatic motor Pathway:
 Motor: Pre-central gyrus -> Corticobulbar tract (1°) -> (Pontomedullary junction) Facial motor nucleus -> Facial nerve (2°) -> Muscles of facial expression

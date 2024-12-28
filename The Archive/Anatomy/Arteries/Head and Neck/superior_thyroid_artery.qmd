@@ -1,0 +1,6 @@
+---
+title: Superior Thyroid Artery
+---
+
+
+The superior thyroid artery supplies the middle portion of the [sternocleidomastoid]({{< var ref-sternocleidomastoid.vascularization >}}) muscle belly @donnellyTravellSimonsSimons2019.

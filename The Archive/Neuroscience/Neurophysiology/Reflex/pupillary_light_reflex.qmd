@@ -1,0 +1,22 @@
+---
+title: Pupillary Light Reflex
+---
+
+
+Pupillary light reflex is to prevent excess light and cause damage to the eye
+
+
+
+If you are shining a light in the left eye, then the L CN2 senses the light and sends afferents to the CN3 and CN3 sends efferents back to both right and left pupils to constrict
+
+
+
+# Testing
+
+Shining light in one eye, you expect both eyes to have pupil constriction.
+
+
+If both eyes have no change in pupil dilation, then this indicates either the ipsilateral CN2 or both CN3 are dysfunctional.
+
+If only the ipsilateral eye constricts, than the contralateral CN3 is dysfunctional.
+If only the contralateral eye constricts, than the ipsilateral CN3 is dysfunctional

@@ -16,30 +16,45 @@ title: Hamstring Muscles
 
 # Muscles
 
-```{r}
-#| echo: false
+```{python tbl-hamstring-oian}
+#| label: tbl-hamstring-oian
 #| warning: false
 #| message: false
+#| echo: false
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "group_identifier"  # or "group_identifier"
-filter_patterns <- "hamstring_muscles"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Hamstring Muscles"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['hamstring_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
 
 # Overview
+
+
 
 “The three biarticular hamstring muscles have their proximal attachment on the posterior side of the ischial tuberosity and attach distally to the tibia and fibula. Based on these attachments, he hamstrings extend the hip and flex the knee. The anatomy and function of the posterior head of the adductor	 magnus, an often underappreciated hip extensor muscle, is described under the section on adductors of the hip.”  @neumannKinesiologyMusculoskeletalSystem2017 
 
@@ -53,6 +68,32 @@ gt_table
 "All hamstring muscles, except the short head of the biceps femoris, cross the hip and knee. As described in Chapter 12, the three biarticular hamstrings are very effective hip extensors, especially in the control of the position of the pelvis and trunk over the femur. " @neumannKinesiologyMusculoskeletalSystem2017 
 
 "As a group, the hamstrings primarily function to extend the hip and to flex the knee. The hamstrings are innervated by branches of the sciatic nerve." @duttonDuttonOrthopaedicExamination2020 
+
+# Function
+
+According to the Gray Institute @grayinstituteFunctionalTechniques, the hamstrings function primarily in an upright and closed chain position @grayinstituteFunctionalTechniques.
+In addition, the hamstrings are considered "knee flexors" but this lacks nuance. 
+The Gray Institute proposes that the hamstrings *control* knee flexion but do not primarily *cause* knee flexion @grayinstituteFunctionalTechniques.
+In normal function, the hamstrings *react* to the ground reaction forces to *control* knee flexion.
+
+:::{.callout-caution}
+This is a summary of the teachings of the gray institute, but a literature review is needed to determine if the hamstrings are more reactive controllers of knee flexion
+:::
+
+# Exercise
+
+A reverse lunge with the arms driving into trunk flexion is a way to functionally target the hamstrings, since it starts from an upright position, is in the closed kinetic chain, and requires *controlled* knee flexion and hip extension since the arms drive the center of mass anterior and inferior resulting in a hip flexion and knee extension torque.
+This movement is purely in the sagittal plane and equally targets all of the hamstrings.
+
+To make this movement load the sagittal *and* frontal plane, we can swing both arms to the lateral or medial side of our lead (ipsilateral) leg.
+Swinging both arms down and to the outside (lateral) side of our lead leg, results in the *COM* moving towards laterally on the ipsilateral side, and thus recruits more of the medial hamstring group to apply an hip adduction force.
+When both arms swing medially to the lead (ipsilateral) leg, the COM is moving anterior, inferior, and towards the contralateral side.
+
+To make this reverse lunge triplanar, we can add rotation to load the transverse plane.
+The medial hamstring group provide a tibiofemoral internal rotation moment, whereas the lateral hamstring group create a tibiofemoral external moment.
+Rotating the body towards the ipsilateral side, results in relative internal rotation of the tibia.
+Rotating the body towards the contralateral side results in relative *external rotation* of the tibia.
+By performing a reverse lunge with both arms swinging lateral to the lead leg and rotating the trunk ipsilaterally, this requires controlled deceleration of hip flexion, knee extension, 
 
 # Knee Rotation
 

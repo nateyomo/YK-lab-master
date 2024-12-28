@@ -1,5 +1,0 @@
----
-title: Tumor Necrosis Factor &alpha; (TNF-&alpha;)
----
-
-an inflammatory cytokine produced by macrophages/monocytes during acute inflammation

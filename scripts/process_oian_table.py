@@ -37,7 +37,7 @@ def get_link(variable_name, link_type):
     if not link:
         print(f"Warning: No '{link_type}' link found for variable '{variable_name}' in YAML data.")
     
-    base_url = "https://nateyomo.github.io/Yomogida-Kerstein-Lab"
+    base_url = "https://yomokerst.com"
     full_link = f"{base_url}{link}"
     return full_link
 

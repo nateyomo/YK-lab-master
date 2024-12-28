@@ -14,29 +14,43 @@ title: Adductor Muscle Group
 
 Pectineus, adductor longus, gracilis, adductor brevis, and adductor magnus are considered the "primary adductors" of the hip @neumannKinesiologyMusculoskeletalSystem2017. 
 
-```{r}
-#| echo: false
+```{python tbl-oian}
+#| label: tbl-oian
 #| warning: false
 #| message: false
+#| echo: false
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "functional_group_identifier"
-filter_patterns <- "adductor_muscle_group"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Hip Adductors"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'functional_group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['adductor_muscle_group']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
 
 ```
+
+
 
 # Secondary Adductors {#secondary}
 

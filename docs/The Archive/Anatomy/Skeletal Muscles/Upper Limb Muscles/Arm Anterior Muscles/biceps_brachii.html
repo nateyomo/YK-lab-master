@@ -44,7 +44,7 @@ div.csl-indent {
 }</style>
 
 
-<script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../../../../../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../../../../../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
@@ -88,6 +88,9 @@ div.csl-indent {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
 <link rel="stylesheet" href="../../../../../styles.css">
@@ -155,8 +158,7 @@ div.csl-indent {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
-  <li><a href="#long-head" id="toc-long-head" class="nav-link" data-scroll-target="#long-head">Long Head</a>
+  <li><a href="#long-head" id="toc-long-head" class="nav-link active" data-scroll-target="#long-head">Long Head</a>
   <ul class="collapse">
   <li><a href="#origin" id="toc-origin" class="nav-link" data-scroll-target="#origin">Origin</a></li>
   <li><a href="#insertion" id="toc-insertion" class="nav-link" data-scroll-target="#insertion">Insertion</a></li>
@@ -210,7 +212,7 @@ div.csl-indent {
   <div class="quarto-title-meta-heading">Affiliations</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#ngy">Nathaniel Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+    <p class="author"><a href="https://yomokerst.com/about.html#ngy">Nathaniel Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -221,7 +223,7 @@ div.csl-indent {
           </p>
       </div>
     <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+    <p class="author"><a href="https://yomokerst.com/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -245,36 +247,47 @@ div.csl-indent {
 </header>
 
 
-<section id="overview" class="level1">
-<h1>Overview</h1>
-<table class="table-striped table-hover caption-top table">
+<div id="tbl-oian" class="cell anchored" data-message="false" data-execution_count="1">
+<div class="cell-output cell-output-display">
+<table class="dataframe oian-table caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
 <thead>
 <tr class="header">
-<th>Muscle</th>
-<th>Origin</th>
-<th>Insertion</th>
-<th>Nerve</th>
-<th>Action</th>
+<th data-quarto-table-cell-role="th">Muscle</th>
+<th data-quarto-table-cell-role="th">Origin</th>
+<th data-quarto-table-cell-role="th">Insertion</th>
+<th data-quarto-table-cell-role="th">Innervation</th>
+<th data-quarto-table-cell-role="th">Action</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/biceps_brachii.html">Biceps Brachii (Long head)</a></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/biceps_brachii.html#origin</p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/biceps_brachii.html#insertion</p></td>
-<td><p><strong>?var:ref-biceps-brachii-long-head.nerve</strong></p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/biceps_brachii.html#action</p></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Arm%20Anterior%20Muscles/biceps_brachii.html">Biceps brachii Long head</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Arm%20Anterior%20Muscles/biceps_brachii.html#origin">Supraglenoid tubercle of scapula</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Arm%20Anterior%20Muscles/biceps_brachii.html#origin">Adjacent rim of Glenoid Labrum</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Arm%20Anterior%20Muscles/biceps_brachii.html#insertion">Radial tuberosity</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Arm%20Anterior%20Muscles/biceps_brachii.html#insertion">Bicipital aponeurosis</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Arm%20Anterior%20Muscles/biceps_brachii.html#innervation">Musculocutaneous n.</a></td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Arm%20Anterior%20Muscles/biceps_brachii.html#action">action</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Arm%20Anterior%20Muscles/biceps_brachii.html#action">action</a></td>
 </tr>
 <tr class="even">
-<td><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/biceps_brachii.html">Biceps Brachii (Short head)</a></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/biceps_brachii.html#origin</p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/biceps_brachii.html#insertion</p></td>
-<td><p><strong>?var:ref-biceps-brachii-short-head.nerve</strong></p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/biceps_brachii.html#action</p></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Arm%20Anterior%20Muscles/biceps_brachii.html">Biceps brachii Short head</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
-</section>
+</div>
+</div>
 <section id="long-head" class="level1">
 <h1>Long Head</h1>
 <section id="origin" class="level2">
@@ -494,7 +507,7 @@ Reading list
 <div class="csl-left-margin">6. </div><div class="csl-right-inline">Moore Z, Cain EL, Wilk KE. The <span>Management</span> of <span>Biceps Pain</span>: <span>Non-Operative</span> &amp; <span>Surgical</span>. <em>International Journal of Sports Physical Therapy</em>. 2022;17(3):330-333. doi:<a href="https://doi.org/10.26603/001c.33646">10.26603/001c.33646</a></div>
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
-<div class="">Yomogida N, Kerstein C. Biceps Brachii. <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/biceps_brachii.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
+<div class="">Yomogida N, Kerstein C. Biceps Brachii. <a href="https://yomokerst.com/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/biceps_brachii.html">https://yomokerst.com/The
 Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior
 Muscles/biceps_brachii.html</a></div>
 </div></div></section></div></main> <!-- /main -->
@@ -732,7 +745,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/nateyomo\.github\.io\/Yomogida-Kerstein-Lab");
+      var filterRegex = new RegExp("https:\/\/yomokerst\.com");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

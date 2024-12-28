@@ -2,10 +2,17 @@
 title: CNVIII Vestibulocochlear Nerve
 ---
 
+<!-- 
+to read
+- Chapter 12 Brainstem I: Surface Anatomy and Cranial Nerves @blumenfeldNeuroanatomyClinicalCases2022 
+
+-->
+
 
 2 Divisions:
-1)	Vestibular root
-2)	Cochlear Root
+
+1. Vestibular root
+2. Cochlear Root
 
 Hearing: Cochlear nerve  Cochlear nucleus  C/L superior olive  Lateral lemniscus  Inferior colliculus  Thalamus  Primary auditory cortex
 

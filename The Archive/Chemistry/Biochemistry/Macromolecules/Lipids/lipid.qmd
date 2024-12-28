@@ -1,0 +1,49 @@
+---
+title: Lipid
+---
+
+:::{.callout title="Readings"}
+
+- Ch10 Lipids @nelsonLehningerPrinciplesBiochemistry2021
+- Ch17 Lipid oxidation @nelsonLehningerPrinciplesBiochemistry2021 
+:::
+
+
+*Biological* lipids are set of compounds that are chemically diverse, but all share an insolubility in water @nelsonLehningerPrinciplesBiochemistry2021.
+
+# Practical Functions
+
+Fats and oils refer to lipids that function as the primary form of stored energy in the body @nelsonLehningerPrinciplesBiochemistry2021.
+
+
+*Phospholipids* and *sterols* serve as cellular structural components @nelsonLehningerPrinciplesBiochemistry2021.
+
+Other lipids serve as:
+
+- Enzyme cofactors @nelsonLehningerPrinciplesBiochemistry2021
+- Electron carriers @nelsonLehningerPrinciplesBiochemistry2021
+- Light-absorbing pigments @nelsonLehningerPrinciplesBiochemistry2021
+- Hydrophobic anchors for proteins @nelsonLehningerPrinciplesBiochemistry2021
+- “chaperones” to help  membrane proteins fold @nelsonLehningerPrinciplesBiochemistry2021
+- Emulsifying agents in the digestive tract @nelsonLehningerPrinciplesBiochemistry2021
+- Hormones @nelsonLehningerPrinciplesBiochemistry2021
+- Intracellular messengers @nelsonLehningerPrinciplesBiochemistry2021
+
+
+# Principles of Cellular Lipid Function
+
+
+
+Fatty acids are efficient forms of energy storage for cells since they are water-insoluble hydrocarbons @nelsonLehningerPrinciplesBiochemistry2021. 
+Fatty acids are highly reduced (low oxygen-to-hydrogen ratio) allowing them to store large amounts of potential chemical energy @nelsonLehningerPrinciplesBiochemistry2021.
+Triacylglycerols do not need hydration due to their water-insolubility, making these "low maintenance" and efficient @nelsonLehningerPrinciplesBiochemistry2021.
+Storage of hydrophobic fats as triacylglycerols is also highly  efficient because water is not needed to hydrate the stored  fats.
+
+Membrane lipids consist of hydrophobic tails attached to polar head groups @nelsonLehningerPrinciplesBiochemistry2021.
+A variety of lipids, including  glycerophospholipids and sterols compose cellular membranes @nelsonLehningerPrinciplesBiochemistry2021.
+
+
+# Structural lipids in membranes
+
+<!-- Continue at 10.2 @nelsonLehningerPrinciplesBiochemistry2021 -->
+

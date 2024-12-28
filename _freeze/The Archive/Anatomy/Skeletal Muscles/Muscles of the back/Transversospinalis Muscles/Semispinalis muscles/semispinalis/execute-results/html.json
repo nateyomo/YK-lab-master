@@ -1,0 +1,16 @@
+{
+  "hash": "121b729d770d46edf68e0f4e56abc77e",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Semispinalis Muscle\n---\n\n\n\n![Schematic, posterior view of the transversospinalis muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Transversospinalis Muscles/images/gilroyatlas 3.11ABC schematic transversospinalis muscles posterior view.png)\n\n![Posterior view of the Transversospinalis muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/images/313a Deep intrinsic back muscles.png)\n\n::: {#tbl-oian .cell message='false' execution_count=1}\n\n::: {.cell-output .cell-output-display}\n```{=html}\n<table border=\"1\" class=\"dataframe oian-table\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>Muscle</th>\n      <th>Origin</th>\n      <th>Insertion</th>\n      <th>Innervation</th>\n      <th>Action</th>\n    </tr>\n  </thead>\n  <tbody>\n  </tbody>\n</table>\n```\n:::\n:::\n\n\n# Semispinalis Capitis OIAN\n## Origin {#origin}\nC4-T7 (TP and Articular process) @gilroyAtlasAnatomy2020\n\n## Insertion {#insertion} \nOccipital bone (between superior and inferior nuchal lines) @gilroyAtlasAnatomy2020\n\n## Innervation {#innervation}\n[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020\n\n## Action {#action}\n\n- **BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt) @gilroyAtlasAnatomy2020\n- **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation @gilroyAtlasAnatomy2020\n\n# Semispinalis Cervicis OIAN\n## Origin {#origin}\nT1-T6 (TP) @gilroyAtlasAnatomy2020\n\n## Insertion {#insertion} \nC2-C5 (SP) @gilroyAtlasAnatomy2020\n\n## Innervation {#innervation}\n[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020\n\n## Action {#action}\n\n- **BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt) @gilroyAtlasAnatomy2020\n- **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation @gilroyAtlasAnatomy2020\n\n# Semispinalis Thoracis OIAN\n## Origin {#origin}\nT6-T12 (TP) @gilroyAtlasAnatomy2020\n\n## Insertion {#insertion} \nC6-T4 (SP) @gilroyAtlasAnatomy2020\n\n## Innervation {#innervation}\n[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020\n\n## Action {#action}\n\n- **BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt) @gilroyAtlasAnatomy2020\n- **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation @gilroyAtlasAnatomy2020\n\n",
+    "supporting": [
+      "semispinalis_files"
+    ],
+    "filters": [],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js\" integrity=\"sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==\" crossorigin=\"anonymous\"></script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js\" integrity=\"sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==\" crossorigin=\"anonymous\" data-relocate-top=\"true\"></script>\n<script type=\"application/javascript\">define('jquery', [],function() {return window.jQuery;})</script>\n"
+      ]
+    }
+  }
+}

@@ -2,28 +2,58 @@
 title: Serratus Posterior Inferior
 ---
 
-# OIAN
+
 ![Superficial intrinsic back muscles Right side posterior view @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Superficial Intrinsic Back Muscles/images/gilroyatlas 3.8ab schematic superficial intrinsic back mm.png)
 
 ![Superficial intrinsic back muscles posterior view @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Superficial Intrinsic Back Muscles/images/gilroyatlas 3.10a superficial intrinsic back mm .png)
 
-| Muscle  | Origin  | Insertion | Nerve | Action |
-|--------|----------|-----------|-------|--------|
-|[Serratus Posterior Inferior]({{< var ref-serratus-posterior-inferior.path >}}) | {{< var ref-serratus-posterior-inferior.origin >}} | {{< var ref-serratus-posterior-inferior.insertion >}} | {{< var ref-serratus-posterior-inferior.nerve >}} | {{< var ref-serratus-posterior-inferior.action >}} |
+```{python tbl-oian}
+#| label: tbl-oian
+#| warning: false
+#| message: false
+#| echo: false
 
-: Serratus Posterior Inferior OIAN {.striped .hover}
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'muscle_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['serratus_posterior_inferior']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
 
 
-## Origin {#origin}
+# Origin {#origin}
 T11-L2 (SP) @gilroyAtlasAnatomy2020
 
-## Insertion {#insertion}
+# Insertion {#insertion}
 8-12th ribs (inferior borders near angles) @gilroyAtlasAnatomy2020
 
-## Innervation {#innervation}
+# Innervation {#innervation}
 [Spinal nn.]({{< var ref-spinal-nerves.path >}}) T9-T12 (Anterior rami) @gilroyAtlasAnatomy2020
 
-## Action {#action}
+# Action {#action}
 
 Depresses ribs
 

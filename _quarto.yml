@@ -19,7 +19,7 @@ author:
     given: Nathaniel
     family: Yomogida
   email: "nate.yomogida.pt@gmail.com"
-  url: "https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#ngy"
+  url: "https://yomokerst.com/about.html#ngy"
   affiliation:
     - Doctor of Physical Therapy
     - B.S. in Kinesiology
@@ -32,7 +32,7 @@ author:
     given: Chloë
     family: Kerstein
   email: "Chloekerst@gmail.com"
-  url: "https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#cak"
+  url: "https://yomokerst.com/about.html#cak"
   affiliation:
     - Doctor of Physical Therapy
     - B.A. in Neuroscience
@@ -50,7 +50,7 @@ website:
   search:
     keyboard-shortcut: ["?", "H"]
   # title: "YK LAB"
-  site-url: https://nateyomo.github.io/Yomogida-Kerstein-Lab
+  site-url: https://yomokerst.com
   navbar:
     logo: "/branding/Yomokerst/yomokerst heavy condensed.svg"
     left:
@@ -70,7 +70,9 @@ citation:
   type: post-weblog
 appendix-cite-as: display
 
-bibliography: The Archive/Bibliography/yk_lab_bibliography.bib
+
+citeproc: true #j I added this to get the typst to work
+bibliography: "The Archive/Bibliography/yk_lab_bibliography.bib"
 csl: The Archive/Bibliography/american-medical-association.csl
 
 format:
@@ -86,31 +88,8 @@ format:
     mainfont: helvetica
     fontsize: 16px
     css: styles.css
-  # pdf:
-  #   pdf-engine: wkhtmltopdf  # Specify wkhtmltopdf as the PDF engine
-  #   embed-resources: true  # Optionally embed images, CSS, etc.
-  #   toc: true  # Table of contents in PDF
-  #   number-sections: true
-  #   mainfont: helvetica
-  #   fontsize: 14px
-  #   geometry: "0.5in"
-  # html-pdf:
-  #   html:
-  #     toc: true
-  #     toc-title: Contents
-  #     toc-location: right
-  #     number-sections: false
-  #     tbl-cap-location: top
-  #     theme:
-  #       light: cosmo
-  #       dark: darkly
-  #     mainfont: helvetica
-  #     fontsize: 14px
-  #     css: styles.css
-  #   pdf:
-  #     toc: true
-  #     number-sections: true
-  #     link-citations: true
-  #     link-bibliography: true
-  #     error: true
-  #     documentclass: article
+  # typst:
+  #   toc: true
+  #   section-numbering: 1.1.a
+  #   columns: 1
+  

@@ -2,35 +2,61 @@
 title: Longus colli cervicis
 ---
 
-# OIAN
+
 ![Prevertebral muscles anterior view @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Prevertebral Muscles/images/gilroyatlas fig3.7b Prevertebral muscles.png)
 
-| Muscle  | Origin  | Insertion | Nerve | Action |
-|--------|----------|-----------|-------|--------|
-| [Longus colli cervicis]({{< var ref-longus-colli-cervicis.path >}}) | {{< var ref-longus-colli-cervicis.origin >}} | {{< var ref-longus-colli-cervicis.insertion >}} | {{< var ref-longus-colli-cervicis.nerve >}} | {{< var ref-longus-colli-cervicis.action >}} |
+```{python tbl-oian}
+#| label: tbl-oian
+#| warning: false
+#| message: false
+#| echo: false
 
-| Muscle  | Origin  | Insertion | Nerve | Action |
-|--------|----------|-----------|-------|--------|
-| [Longus colli cervicis]({{< var ref-longus-colli-cervicis.path >}}) (Vertical Part) | C5-T3 (ant side of vertebral body) @gilroyAtlasAnatomy2020 | Occipital bone (basilar part) | Direct branches from cervical plexus (C2-C6) | Bilaterally flexes AO Joint; Unilaterally flexes and slight I/L rotation |
-| [Longus colli cervicis]({{< var ref-longus-colli-cervicis.path >}}) (Superior Oblique part) | C3-C5 (TP, Ant tubercle) @gilroyAtlasAnatomy2020 | Superior oblique part: C1 (TP, ant tubercle) @gilroyAtlasAnatomy2020 |  |  |
-| [Longus colli cervicis]({{< var ref-longus-colli-cervicis.path >}}) (Inferior Oblique Part) | T1-T3 (ant side of vertebral body) @gilroyAtlasAnatomy2020 | Inferior oblique part: C5-C6 (TP, Ant tubercles) @gilroyAtlasAnatomy2020 |  |  |
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-## Origin {#origin}
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'muscle_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['longus_colli_cervicis']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+# Origin {#origin}
 
 - C5-T3 (ant side of vertebral body) @gilroyAtlasAnatomy2020
 - C3-C5 (TP, Ant tubercle) @gilroyAtlasAnatomy2020
 - T1-T3 (ant side of vertebral body) @gilroyAtlasAnatomy2020
 
-## Insertion {#insertion}
+# Insertion {#insertion}
 
 Vertical (medial) part: C2-C4 (ant sides of vertebral bodies) @gilroyAtlasAnatomy2020
 Superior oblique part: C1 (TP, ant tubercle) @gilroyAtlasAnatomy2020
 Inferior oblique part: C5-C6 (TP, Ant tubercles) @gilroyAtlasAnatomy2020
 
-## Innervation {#innervation}
+# Innervation {#innervation}
 Direct branches from cervical plexus (C2-C6) @gilroyAtlasAnatomy2020
 
-## Action {#action}
+# Action {#action}
 
 - **Bilateral**: Flex AO Joint
 - **Unilateral**: Lat flex at AO joint

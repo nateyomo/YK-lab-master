@@ -2,6 +2,19 @@
 title: CN II Optic Nerve
 ---
 
+<!-- 
+to read
+- Chapter 12 Brainstem I: Surface Anatomy and Cranial Nerves @blumenfeldNeuroanatomyClinicalCases2022 
+
+-->
+
+- Type: Sensory
+- Function: vision (color, acuity, peripheral vision, pupillary light reflex)
+- Dysfunction:
+    - Blindness
+    - Myopia (nearsightedness)
+    - Presbyopia (farsightedness, the person needs reading glasses)
+
 ```{mermaid}
 flowchart TD
   A[Retina] -- Vision --> B[Optic Canal]

@@ -15,12 +15,28 @@ ref-anatomy-index:
 ## Arteries 
 ref-basilar-artery:
   path: "/The Archive/Anatomy/Arteries/basilar_artery.html"
+
+### Head and neck arteries
+
+ref-occipital-artery:
+  path: "/The Archive/Anatomy/Arteries/Head and Neck/occipital_artery.html"
+ref-posterior-auricular-artery:
+  path: "/The Archive/Anatomy/Arteries/Head and Neck/posterior_auricular_artery.html"
+ref-superior-thyroid-artery:
+  path: "The Archive/Anatomy/Arteries/Head and Neck/superior_thyroid_artery.html"
 ### Upper extremity arteries
+ref-suprascapular-artery:
+  path: "/The Archive/Anatomy/Arteries/Upper Extremity/suprascapular_artery.html"
 ref-subclavian-artery:
   path: "/The Archive/Anatomy/Arteries/Upper Extremity/subclavian_artery.html"
 ref-axillary-artery:
   path: "/The Archive/Anatomy/Arteries/Upper Extremity/axillary_artery.html"
 
+## Body regions
+ref-anterior-triangle-neck-region:
+  path: "/The Archive/Anatomy/Body Regions/Head and Neck/anterior_triangle_neck.html"
+ref-posterior-triangle-neck-region:
+  path: "/The Archive/Anatomy/Body Regions/Head and Neck/posterior_triangle_neck.html"
 ## Bones
 
 ref-bone-index:
@@ -100,6 +116,9 @@ ref-parietal-bone:
 ref-temporal-bone:
   path: "/The Archive/Anatomy/Bones/Bones of the Skull/temporal_bone.html"
   mastoid-process: "/The Archive/Anatomy/Bones/Bones of the Skull/temporal_bone.html#mastoid-process"
+ref-mastoid-process:
+  path: "/"
+  palpation: "/The Archive/Anatomy/Bones/Bones of the Skull/temporal_bone.html#mastoid-process-palpation"
 ref-vomer-bone:
   path: "/The Archive/Anatomy/Bones/Bones of the Skull/vomer_bone.html"
 
@@ -396,6 +415,8 @@ ref-iliocostalis-lumborum:
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Erector Spinae/iliocostalis.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Erector Spinae/iliocostalis.html#action"
 
+ref-longissimus-muscles:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Erector Spinae/longissimus.html"
 ref-longissimus-capitis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Erector Spinae/longissimus.html"
   origin: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Erector Spinae/longissimus.html#origin"
@@ -462,6 +483,8 @@ ref-rectus-capitis-lateralis:
 
 
 #### Suboccipital Muscles
+ref-suboccipital-muscle-group:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Suboccipital Muscles/suboccipital_muscle_group.html"
 ref-suboccipital-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/muscles_of_the_back_index.html"
 ref-rectus-capitis-posterior-major:
@@ -602,6 +625,10 @@ ref-extraocular-muscles:
 ### Head and neck
 ref-muscles-of-head-and-neck:
   path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/muscles_of_head_and_neck_index.html"
+ref-deep-neck-flexors:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Functional groups/deep_neck_flexors_dnf.html"
+ref-neck-extensors:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Functional groups/neck_extensor_muscles.html"
 #### Muscles of Facial Expression
 ref-occipitofrontalis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/occipitofrontalis.html"
@@ -763,10 +790,12 @@ ref-sternocleidomastoid:
   path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html"
   origin: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#origin"
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#nerve"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#action"
   palpation: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#palpation"
   pain-pattern: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#pain-pattern"
+  mmt: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#mmt"
+  vascularization: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#vascularization"
 
 
 ref-trapezius:
@@ -777,6 +806,7 @@ ref-upper-trapezius:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/upper_trapezius.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/upper_trapezius.html#nerve"
   action: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/upper_trapezius.html#action"
+  mmt: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/upper_trapezius.html#mmt"
 
 ref-middle-trapezius:
   path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/middle_trapezius.html"
@@ -1191,7 +1221,8 @@ ref-palmar-interossei-hand:
 ### Lower Extremity muscles
 ### Iliopsoas muscles
 ref-iliopsoas-muscle-group:
-  path: "/"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliopsoas_muscle_group.html"
+  mmt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliopsoas_muscle_group.html#mmt"
 ref-iliacus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliacus_muscle.html"
   origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliacus_muscle.html#origin"
@@ -1288,6 +1319,7 @@ ref-hip-adductor-muscle-group:
   secondary: "[Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) (*especially inferior fibers*) </br> [Quadratus Femoris]({{< var ref-quadratus-femoris.path >}}) </br> [Obturator Externus]({{< var ref-obturator-externus.path >}}) </br> [Biceps Femoris Long Head]({{< var ref-biceps-femoris-long-head.path >}})"
 ref-hip-flexor-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_flexor_muscles.html"
+  mmt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_flexor_muscles.html"
 ref-hip-extensor-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_extensor_muscles.html"
 ref-hip-external-rotator-muscle-group:
@@ -1617,6 +1649,24 @@ ref-dorsal-interossei-foot:
 
 
 ## Nerve root
+ref-c1-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/c1_nerve_root.html"
+ref-c2-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/c2_nerve_root.html"
+ref-c3-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/c3_nerve_root.html"
+ref-c4-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/c4_nerve_root.html"
+ref-c5-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/c5_nerve_root.html"
+ref-c6-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/c6_nerve_root.html"
+ref-c7-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/c7_nerve_root.html"
+ref-c8-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/c8_nerve_root.html"
+
+
 ref-nerve-root:
   path: "/The Archive/Anatomy/Nerve Roots/nerve_root_overview.html"
   c1: "/The Archive/Anatomy/Nerve Roots/c1_nerve_root.html"
@@ -1930,6 +1980,8 @@ ref-cardiac-dysfunction-management:
 # Chemistry
 # Biochemistry
 ## Amino acids biochem
+ref-methionine:
+  path: "/The Archive/Chemistry/Biochemistry/Macromolecules/Proteins/Amino Acids/methionine_amino_acid.html"
 ref-hydroxyproline:
   path: "/The Archive/Chemistry/Biochemistry/Amino Acids/Non-essential/hydroxyproline_amino_acid.html"
   plasma: "/The Archive/Chemistry/Biochemistry/Amino Acids/Non-essential/hydroxyproline_amino_acid.html#plasma"
@@ -1941,9 +1993,15 @@ ref-carbohydrate:
 ref-vitamin-e:
   path: "/The Archive/Chemistry/Biochemistry/Vitamins/vitamin_e.html"
   deficiency: "/The Archive/Pathophysiology/Metabolic Pathophysiology/vitamin_E_deficiency.html"
-
+ref-folate-vitamin-b9:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/Folate Vitamin B9/folate_vitamin_b9.html"
 ref-vitamin-a:
   path: "/"
+ref-vitamin-b12:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/Vitamin B12/vitamin_b12.html"
+  deficiency: "/The Archive/Chemistry/Biochemistry/Vitamins/Vitamin B12/vitamin_b12.html#deficiency"
+ref-cyanocobalamin:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/Vitamin B12/cyanocobalamin.html"
 ## Methylation and Methyl donors
 ref-s-adenosyl-l-methionine:
   path: "/The Archive/Chemistry/Biochemistry/Methylation and Methyl Donors/S-adenosyl-L-methionine_SAMe.html"
@@ -1958,6 +2016,8 @@ ref-coenzyme-q10:
   path: "/The Archive/Physiology/Nutrients/coenzyme_Q10.html"
 ref-choline:
   path: "/The Archive/Chemistry/Biochemistry/Nutrients/choline.html"
+ref-betaine:
+  path: "/The Archive/Chemistry/Biochemistry/Macromolecules/Nutrients/betaine.html"
 ref-coenzyme-q10:
   path: "/The Archive/Chemistry/Biochemistry/Nutrients/coenzyme_Q10.html"
 ref-phosphatidylserine:
@@ -1986,6 +2046,41 @@ ref-carnitine-palmityl-transferase:
 ref-lipid:
   path: "/The Archive/Chemistry/Biochemistry/Lipids/lipid.html"
   metabolism: "/The Archive/Physiology/Metabolism/Lipid Metabolism/lipid_metabolism.html"
+ref-triacylglycerol:
+  path: "/The Archive/Chemistry/Biochemistry/Macromolecules/Lipids/Triacylglycerols/triacylglycerol.html"
+  serum: "/The Archive/Chemistry/Biochemistry/Macromolecules/Lipids/Triacylglycerols/triacylglycerol.html#serum"
+### PUFA ### MUFA
+ref-omega-3-fatty-acid:
+  path: "/The Archive/Chemistry/Biochemistry/Macromolecules/Lipids/Fatty acid/PUFAs/omega-3 Fatty Acid/omega-3_polyunsaturated_fatty_acid.html"
+ref-alpha-linolenic-acid:
+  path: "/The Archive/Chemistry/Biochemistry/Macromolecules/Lipids/Fatty acid/PUFAs/omega-3 Fatty Acid/alpha-linolenic_acid_ALA.html"
+ref-docosahexaenoic-acid:
+  path: "/The Archive/Chemistry/Biochemistry/Macromolecules/Lipids/Fatty acid/PUFAs/omega-3 Fatty Acid/docosahexaenoic_acid_DHA.qmd"
+ref-eicosapentaenoic-acid:
+  path: "/The Archive/Chemistry/Biochemistry/Macromolecules/Lipids/Fatty acid/PUFAs/omega-3 Fatty Acid/eicosapentaenoic_acid_EPA.html"
+ref-monounsaturated-fatty-acid:
+  path: "/The Archive/Chemistry/Biochemistry/Macromolecules/Lipids/Fatty acid/MUFAs/MUFA_monounsaturated_fatty_acids.html"
+ref-oleic-acid:
+  path: "/The Archive/Chemistry/Biochemistry/Macromolecules/Lipids/Fatty acid/MUFAs/oleic_acid.html"
+### Saturated fat
+ref-saturated-fatty-acid:
+  path: "/"
+ref-palmitic-acid:
+  path: "/The Archive/Chemistry/Biochemistry/Macromolecules/Lipids/Fatty acid/Saturated Fatty Acids/palmitic_acid.html"
+ref-stearic-acid:
+  path: "/The Archive/Chemistry/Biochemistry/Macromolecules/Lipids/Fatty acid/Saturated Fatty Acids/stearic_acid.html"
+### Phytosterols
+ref-phytosterol:
+  path: "/The Archive/Chemistry/Biochemistry/Macromolecules/Lipids/Sterols/Phytosterols/phytosterols.html"
+## Lipoprotein
+ref-lipoprotein:
+  path: "/"
+ref-high-density-lipoprotein:
+  path: "/The Archive/Chemistry/Biochemistry/Lipoproteins/HDL_high-density_lipoprotein.html"
+  serum: "/The Archive/Chemistry/Biochemistry/Lipoproteins/HDL_high-density_lipoprotein.html#serum"
+ref-low-density-lipoprotein:
+  path: "/The Archive/Chemistry/Biochemistry/Lipoproteins/LDL_low-density_lipoprotein.html"
+  serum: "/The Archive/Chemistry/Biochemistry/Lipoproteins/LDL_low-density_lipoprotein.html#serum"
 ## Minerals
 ref-zinc:
   path: "/The Archive/Chemistry/Biochemistry/Minerals/zinc_dietary.html"
@@ -2026,6 +2121,11 @@ ref-myoglobin:
   plasma: "/The Archive/Chemistry/Biochemistry/Proteins/myoglobin_protein.html#plasma"
 ref-myoglobinuria:
   path: "/The Archive/Chemistry/Biochemistry/Proteins/myoglobin_protein.html#myoglobinuria"
+### hemoglobin
+ref-hba1c:
+  path: "/The Archive/Chemistry/Biochemistry/Macromolecules/Proteins/Hemoglobin/HbA1c_hemoglobin_A1c.html"
+  blood-test: "/The Archive/Chemistry/Biochemistry/Macromolecules/Proteins/Hemoglobin/HbA1c_hemoglobin_A1c.html#blood-test"
+
 ## Polysaccharides
 ref-glycosaminoglycans:
   path: "/The Archive/Chemistry/Biochemistry/Polysaccharide/glycosaminogylcans_GAGs.html"
@@ -2202,6 +2302,14 @@ ref-statistical-power:
 # Examination
 ## Acute Care Evaluation
 
+## Clinical tests
+
+### Blood tests
+
+ref-lipid-panel:
+  path: "/The Archive/Examination/Clinical tests/Routine blood tests/Lipid and Cardiovascular tests/lipid_panel.html"
+
+
 ### Pulmonary Evaluation
 ref-lung-sounds:
   path: "/The Archive/Physiology/Pulmonary system/Pulmonary evaluation/lung_sounds.html"
@@ -2323,7 +2431,8 @@ ref-fulcrum-test-stress-fracture:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/fulcrum_test_stress_fracture.html"
 ref-straight-leg-raise-test:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/straight_leg_raise_test.html"
-
+ref-thomas-test:
+  path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/thomas_test.html"
 ### Foot and ankle tests
 ref-navicular-drop-test:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Ankle and Foot Tests/navicular_drop_test.html"
@@ -2363,6 +2472,11 @@ ref-intervention:
   path: "/"
   high-stepping: "/The Archive/Systems/Locomotion/Locomotion interventions/high-stepping_locomotion_intervention.html"
 
+## AFS
+ref-3d-hip-flexor-stretch:
+  path: "/The Archive/Interventions/AFS/3d_hip_flexor_stretch.html"
+ref-3d-calf-stretch:
+  path: "/The Archive/Interventions/AFS/3d_calf_stretch.html"
 ## PNF
 ref-proprioceptive-neuromuscular-facilitation:
   path: "/The Archive/Interventions/PNF/proprioceptive_neuromuscular_facilitation.html"
@@ -2524,8 +2638,8 @@ interleukin-8:
   
 ref-tumor-necrosis-factor:
   path: "/"
-  tnf-alpha: 
-    path: "/The Archive/Physiology/Immune system/Immune cells/Cytokines/Tumor Necrosis Factor/tumor_necrosis_factor_alpha_TNF-alpha.html"
+ref-tumor-necrosis-factor-alpha:
+  path: "/The Archive/Chemistry/Biochemistry/Macromolecules/Proteins/Signalling Proteins/Cytokines/Tumor Necrosis Factor/tumor_necrosis_factor_alpha_TNF-alpha.html"
 
 ## Muscle
 
@@ -2864,12 +2978,13 @@ ref-cn10:
   path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN10_Vagus.html"
   vagal-nerve-stimulation: "/The Archive/Interventions/vagal_nerve_stimulation.html"
 ref-cn11:
-  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN11_Spinal_Accessory.html"
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN11 Spinal Accessory Nerve/cn11_spinal_accessory_nerve.html"
 ref-cn12:
   path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN12_Hypoglossal.html"
 
 ref-cranial-nerve-nuclei-overview:
   path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/cranial_nerve_nuclei_overview.html"
+  nuclei-table: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/table_cranial_nerve_nuclei.qmd"
 ref-oculomotor-nucleus:
   path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/Cranial Nerve Nuclei/oculomotor_nucleus.html"
 ref-trochlear-nucleus:
@@ -3020,7 +3135,8 @@ ref-object-permanence:
 ### Reflex
 ref-trigeminal-autonomic-reflex:
   path: "/The Archive/Neuroscience/Neurophysiology/Reflex/trigeminal_autonomic_reflex.html"
-
+ref-pupillary-light-reflex:
+  path: "/The Archive/Neuroscience/Neurophysiology/Reflex/pupillary_light_reflex.html"
 ### Motor Symptoms
 ref-micrographia:
   path: "/The Archive/Signs and Symptoms/Motor Symptoms/micrographia.html"

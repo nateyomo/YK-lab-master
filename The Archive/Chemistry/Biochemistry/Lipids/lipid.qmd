@@ -1,9 +1,0 @@
----
-title: Lipid
----
-
-:::{.callout title="Readings"}
-
-- Ch10 Lipids @nelsonLehningerPrinciplesBiochemistry2021
-
-:::

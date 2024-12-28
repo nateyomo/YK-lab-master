@@ -46,3 +46,7 @@ Femur (lesser trochanter)
 
 
 # Overview
+
+# Stretches
+
+- [3D hip flexor stretch]({{< var ref-3d-hip-flexor-stretch.path >}})

@@ -1,0 +1,33 @@
+---
+title: Total Cholesterol (Blood test)
+subtitle: Blood test for serum cholesterol
+---
+
+
+# U-shaped Mortality curve
+
+
+The U-shaped mortality curve of total cholesterol refers to the pattern that when extremely high or extremely low, total cholesterol is directly related to increased mortality.
+
+
+# Extremely low cholesterol
+
+Dr. Mason suggests that [phytosterols]({{< var ref-phytosterol.path >}}) suppress the formation of cholesterol and cause adverse health effects.
+Dr. Mason hypothesizes that if phytosterols have adverse health effects, then these could explain how a population with extremely low cholesterol could have increased mortality.
+
+# Extremely high cholesterol
+
+Many will attribute increased total cholesterol and adverse health outcomes to saturated fat.
+Contrary to popular belief, there is no known mechanism by which saturated fat increases cholesterol.
+If saturated fat does not increase total serum cholesterol, then what does?
+
+- [B<sub>12<sub> deficiency]({{< var ref-vitamin-b12.deficiency >}})
+- [Folate (B<sub>9<sub>) deficiency]({{< var ref-folate-vitamin-b9.deficiency >}})
+- Inflammation
+
+
+## Inflammation {#hypercholesterolemia-inflammation}
+
+Inflammation can cause Hypercholesterolemia above normal physiological levels.
+
+- [TNF-&alpha]({{< var ref-tumor-necrosis-factor-alpha.path >}}); is a direct driver of cholesterol synthesis

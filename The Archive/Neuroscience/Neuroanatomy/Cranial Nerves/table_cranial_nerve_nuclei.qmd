@@ -1,0 +1,133 @@
+::: {#tbl-cn-nuclei}
+
+<table class="compact-table">
+    <thead>
+        <tr>
+            <th>Classification</th>
+            <th></th>
+            <th>Function(s)</th>
+            <th>Nuclei</th>
+            <th>Cranial nerve(s)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="5" class="row-group" style="background-color: #f2f2f2">Motor</td>
+        </tr>
+        <tr class="motor-color">
+            <td rowspan="4">Somatic motor</td>
+            <td rowspan="4">General somatic efferent</td>
+            <td rowspan="4">Extraocular muscles <br> Intrinsic tongue muscles</td>
+            <td>
+                [Oculomotor nucleus]({{< var ref-oculomotor-nucleus.path >}})
+            </td>
+            <td>
+                [CN III]({{< var ref-cn3.path >}})
+            </td>
+        </tr>
+        <tr class="motor-color">
+            <td>
+                [Trochlear]({{< var ref-trochlear-nucleus.path >}})
+            </td>
+            <td>
+                [CN IV]({{< var ref-cn4.path >}})
+            </td>
+        </tr>
+        <tr class="motor-color">
+            <td>
+                [Abducens]({{< var ref-abducens-nucleus.path >}})
+            </td>
+            <td>
+                [CN VI]({{< var ref-cn6.path >}})
+            </td>
+        </tr>
+        <tr class="motor-color">
+            <td>
+                [Hypoglossal]({{< var ref-hypoglossal-nucleus.path >}})
+            </td>
+            <td>
+                [CN XII]({{< var ref-cn12.path >}})
+            </td>
+        </tr>
+        <tr class="branchial-color">
+            <td rowspan="4">Branchial motor</td>
+            <td rowspan="4">Special visceral efferent</td>
+            <td rowspan="4">[Muscles of mastication]({{< var ref-mastication-muscles.path >}}), Facial expression, Middle ear, Pharynx, Larynx, Sternomastoid, [Upper trapezius]({{< var ref-upper-trapezius.innervation >}})</td>
+            <td>[Trigeminal motor]({{< var ref-trigeminal-motor-nucleus.path >}})</td>
+            <td>[CN V]({{< var ref-cn5.path >}})</td>
+        </tr>
+        <tr class="branchial-color">
+            <td>[Facial nucleus]({{< var ref-facial-nucleus.path >}})</td>
+            <td>[CN VII]({{< var ref-cn7.path >}})</td>
+        </tr>
+        <tr class="branchial-color">
+            <td>[Nucleus ambiguous]({{< var ref-nucleus-ambiguous.path >}})</td>
+            <td>CN [IX]({{< var ref-cn9.path >}}), [X]({{< var ref-cn10.path >}})</td>
+        </tr>
+        <tr class="branchial-color">
+            <td>[Accessory spinal]({{< var ref-spinal-accessory-nucleus.path >}})</td>
+            <td>[CN XI]({{< var ref-cn11.path >}})</td>
+        </tr>
+        <tr class="parasympathetic-color">
+            <td rowspan="4">Parasympathetic motor</td>
+            <td rowspan="4">General visceral efferent</td>
+            <td rowspan="4">Parasympathetic innervation of head and viscera above the splenic flexure</td>
+            <td>[Edinger-Westphal]({{< var ref-edinger-westphal-nucleus.path >}})</td>
+            <td>[CN III]({{< var ref-cn3.path >}})</td>
+        </tr>
+        <tr class="parasympathetic-color">
+            <td>[Superior salivatory]({{< var ref-superior-salivatory-nucleus.path >}})</td>
+            <td>[CN VII]({{< var ref-cn7.path >}})</td>
+        </tr>
+        <tr class="parasympathetic-color">
+            <td>[Inferior salivatory]({{< var ref-inferior-salivatory-nucleus.path >}})</td>
+            <td>[CN IX]({{< var ref-cn9.path >}})</td>
+        </tr>
+        <tr class="parasympathetic-color">
+            <td>[Dorsal motor nucleus]({{< var ref-dorsal-motor-nucleus.path >}})</td>
+            <td>[CN X]({{< var ref-cn10.path >}})</td>
+        </tr>
+        <tr>
+            <td colspan="5" class="row-group" style="background-color: #f2f2f2">Sensory</td>
+        </tr>
+        <tr class="visceral-sensory-color">
+            <td>Visceral sensory</td>
+            <td>Special visceral afferent</td>
+            <td>Taste</td>
+            <td>[Nucleus solitarius (rostral portion)]({{< var ref-nucleus-solitarius.path >}})</td>
+            <td>CN [VII]({{< var ref-cn7.path >}}), [IX]({{< var ref-cn9.path >}}), [X]({{< var ref-cn10.path >}})</td>
+        </tr>
+        <tr class="visceral-sensory-color">
+            <td>Visceral sensory</td>
+            <td>General visceral afferent</td>
+            <td>Afferents for cardiorespiratory control and digestion</td>
+            <td>[Nucleus solitarius (caudal portion)]({{< var ref-nucleus-solitarius.path >}})</td>
+            <td>CN [IX]({{< var ref-cn9.path >}}) & [X]({{< var ref-cn10.path >}})</td>
+        </tr>
+        <tr class="general-somatic-color">
+            <td>General somatic sensory</td>
+            <td>General somatic afferent</td>
+            <td>Touch, pain, temperature, position, and vibration sense of face, sinuses, and meninges</td>
+            <td>Trigeminal nuclei</td>
+            <td>CN [V]({{< var ref-cn5.path >}}), [VII]({{< var ref-cn7.path >}}), [IX]({{< var ref-cn9.path >}}), [X]({{< var ref-cn10.path >}})</td>
+        </tr>
+        <tr class="special-somatic-color">
+            <td>Special somatic sensory</td>
+            <td>Special somatic afferent</td>
+            <td>Olfaction, vision, hearing, vestibular sensation</td>
+            <td>Cochlear nuclei, vestibular nuclei</td>
+            <td>[CN VIII]({{< var ref-cn8.path >}})</td>
+        </tr>
+    </tbody>
+  <tfoot>
+    <tr>
+      <td class="row-group" colspan="5"><strong>Source:</strong> Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022</td>
+    </tr>
+  </tfoot>
+</table>
+
+
+
+Classification of Cranial Nerve Nuclei into Motor and Sensory Columns
+
+:::

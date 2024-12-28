@@ -1,0 +1,42 @@
+---
+title: Vitamin B<sub>12<sub>
+---
+
+
+# Sources
+
+- Methylcobalamin
+- Adenosylcobalamin
+- Hydroxocobalamin
+- [Cyanocobalamin]({{< var ref-cyanocobalamin.path >}})
+
+## Cyanocobalamin {#cyanocobalamin}
+
+- A theorized problematic source of Vitamin B12
+- This is the **most** common form of Vitamin B12 in modern foods
+
+
+# Avoid
+
+:::{.callout-caution}
+
+
+Some sources warn individuals to avoid ingesting B12 via [cyanocobalamin](#cyanocobalamin)
+
+:::
+
+# Biochemistry
+
+:::{.callout title="see Lehninger"}
+
+- p2218-2225
+
+:::
+
+# Function
+
+
+
+# Deficiency {#deficiency}
+
+B<sub>12<sub> deficiency causes an increase in cholesterol synthesis.

@@ -1,0 +1,16 @@
+{
+  "hash": "91b7f5148293eb818c8f6a698d1d9495",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Extensor Digitorum (ED)\n---\n\n::: {#tbl-oian .cell message='false' execution_count=1}\n\n::: {.cell-output .cell-output-display}\n```{=html}\n<table border=\"1\" class=\"dataframe oian-table\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>Muscle</th>\n      <th>Origin</th>\n      <th>Insertion</th>\n      <th>Innervation</th>\n      <th>Action</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n```\n:::\n:::\n\n\n# Origin {#origin}\n\n- Lateral epicondyle of humerus (*Common head of ED, EDM, ECU*) @gilroyAtlasAnatomy2020\n\n\n# Insertion {#insertion}\n\nDorsal digital expansions of 2-5 digits @gilroyAtlasAnatomy2020\n\n# Innervation {#innervation}\n\n[Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020\n\n# Action {#action}\n\n- **Wrist**: Extension @gilroyAtlasAnatomy2020\n- **MCP, PIP, DIP 2-5**: Extension/abduction @gilroyAtlasAnatomy2020\n\n\n\n\n# Notes\n\n",
+    "supporting": [
+      "extensor_digitorum_files"
+    ],
+    "filters": [],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js\" integrity=\"sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==\" crossorigin=\"anonymous\"></script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js\" integrity=\"sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==\" crossorigin=\"anonymous\" data-relocate-top=\"true\"></script>\n<script type=\"application/javascript\">define('jquery', [],function() {return window.jQuery;})</script>\n"
+      ]
+    }
+  }
+}

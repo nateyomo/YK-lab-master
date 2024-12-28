@@ -1,0 +1,50 @@
+---
+title: Multivariate Analysis
+---
+
+My first attempt at multivariate analysis was during a research project aimed to determine what factors predict whether a physical therapy patient will 
+I initially ran a univariate analysis then only included significant univariate predictors in the final multivariate analysis.
+
+# Determine the type of multivariate analysis
+
+layout
+### Multivariate Analysis of Variance (MANOVA):
+"Used when there are multiple dependent variables and the predictors are categorical. 
+Tests whether the means of multiple dependent variables differ across groups."
+
+### Principal Component Analysis (PCA):
+
+"A dimensionality reduction technique.
+Focuses on finding patterns in data and reducing its complexity, not prediction."
+
+### Structural Equation Modeling (SEM):
+
+"Models complex relationships between multiple dependent and independent variables, including latent variables.
+Combines aspects of factor analysis and regression."
+
+
+### Cluster Analysis:
+
+"Groups observations based on similarity without specifying dependent variables.
+Used in exploratory data analysis."
+
+
+### Mixed-Effects Models:
+
+"Extends GLMs to include both fixed and random effects.
+Often used for hierarchical or grouped data."
+
+
+### Canonical Correlation Analysis (CCA):
+
+"Examines the relationships between two sets of variables.
+Discriminant Analysis:
+
+Predicts group membership based on predictor variables (used for classification)."
+
+
+### Survival Analysis:
+
+Models time-to-event data.
+May use extensions like Cox proportional hazards, which are not always GLMs.
+

@@ -2,6 +2,12 @@
 title: CNIII Oculomotor Nerve
 ---
 
+<!-- 
+to read
+- Chapter 12 Brainstem I: Surface Anatomy and Cranial Nerves @blumenfeldNeuroanatomyClinicalCases2022 
+
+-->
+
 ```{mermaid}
 flowchart TD
   A[Interpeduncular fossa of Midbrain] --> B[Oculomotor Nucleus]

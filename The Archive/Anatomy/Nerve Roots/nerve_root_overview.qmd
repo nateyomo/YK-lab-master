@@ -1,6 +1,21 @@
 ---
-title: Nerve Root Overview
+title: Spinal Nerve Roots
 ---
+
+<!--
+
+to read:
+
+- @blumenfeldNeuroanatomyClinicalCases2022 ch8 Spinal nerve roots
+
+In progress:
+
+
+
+done:
+
+
+-->
 
 
 # Cervical Nerve Roots

@@ -1,0 +1,16 @@
+{
+  "hash": "60e7fd75bada66d1f63a7237ddc5f555",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Longus colli cervicis\n---\n\n\n# OIAN\n![Prevertebral muscles anterior view @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Prevertebral Muscles/images/gilroyatlas fig3.7b Prevertebral muscles.png)\n\n::: {#tbl-oian .cell message='false' execution_count=1}\n\n::: {.cell-output .cell-output-display}\n```{=html}\n<table border=\"1\" class=\"dataframe oian-table\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>Muscle</th>\n      <th>Origin</th>\n      <th>Insertion</th>\n      <th>Innervation</th>\n      <th>Action</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><a href=\"https://yomokerst.com/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Prevertebral Muscles/longus_colli_cervicis.html\">Longus colli cervicis</a></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n```\n:::\n:::\n\n\n# Origin {#origin}\n\n- C5-T3 (ant side of vertebral body) @gilroyAtlasAnatomy2020\n- C3-C5 (TP, Ant tubercle) @gilroyAtlasAnatomy2020\n- T1-T3 (ant side of vertebral body) @gilroyAtlasAnatomy2020\n\n# Insertion {#insertion}\n\nVertical (medial) part: C2-C4 (ant sides of vertebral bodies) @gilroyAtlasAnatomy2020\nSuperior oblique part: C1 (TP, ant tubercle) @gilroyAtlasAnatomy2020\nInferior oblique part: C5-C6 (TP, Ant tubercles) @gilroyAtlasAnatomy2020\n\n# Innervation {#innervation}\nDirect branches from cervical plexus (C2-C6) @gilroyAtlasAnatomy2020\n\n# Action {#action}\n\n- **Bilateral**: Flex AO Joint\n- **Unilateral**: Lat flex at AO joint\n\n# Muscle groups\nLongus colli cervicis is part of the [prevertebral muscle group]({{< var ref-oians.path >}}) @gilroyAtlasAnatomy2020.\n\n# Palpation\n\n\n# Clinical significance\n\n",
+    "supporting": [
+      "longus_colli_cervicis_files"
+    ],
+    "filters": [],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js\" integrity=\"sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==\" crossorigin=\"anonymous\"></script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js\" integrity=\"sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==\" crossorigin=\"anonymous\" data-relocate-top=\"true\"></script>\n<script type=\"application/javascript\">define('jquery', [],function() {return window.jQuery;})</script>\n"
+      ]
+    }
+  }
+}

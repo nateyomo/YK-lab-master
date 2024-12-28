@@ -2,6 +2,13 @@
 title: CNVI Abducens Nerve
 ---
 
+
+<!-- 
+to read
+- Chapter 12 Brainstem I: Surface Anatomy and Cranial Nerves @blumenfeldNeuroanatomyClinicalCases2022 
+
+-->
+
 Abducens nucleus:
 
 - Location: Pontine tegmentum

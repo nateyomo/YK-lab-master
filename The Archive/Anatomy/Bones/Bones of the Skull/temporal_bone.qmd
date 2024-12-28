@@ -79,3 +79,9 @@ else:
     print("Script file does not exist. Please check the path.")
 
 ```
+
+## Palpation {#mastoid-process-palpation}
+
+- Follow the base of the occiput toward its lateral edge
+- The rounded, most lateral prominence is the mastoid process
+

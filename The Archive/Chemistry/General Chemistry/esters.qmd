@@ -1,0 +1,10 @@
+---
+title: Esters
+subtitle: Chemical bonds involving an alcohol and an acid
+---
+
+
+Esters refer to chemical bounds between an acid and an alcohol.
+
+
+An example of an ester is between a fatty acid and glycerol in a [triacylglycerol]({{< var ref-triacylglycerol.path >}}).

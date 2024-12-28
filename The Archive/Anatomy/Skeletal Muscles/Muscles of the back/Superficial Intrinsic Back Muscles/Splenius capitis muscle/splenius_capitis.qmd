@@ -71,12 +71,75 @@ The muscle runs *deep* to the [sternocleidomastoid]({{< var ref-sternocleidomast
 - **Bilateral:** Extends C/S and head @gilroyAtlasAnatomy2020
 - **Unilateral:** I/L head SB and Rotation @gilroyAtlasAnatomy2020
 
+::: {.callout-note}
+The splenius capitis is a much more dominant axial rotator than the [splenius cervicis]({{< var ref-splenius-cervicis.action >}}) @neumannKinesiologyMusculoskeletalSystem2017
+:::
+
+# Clinical significance
+
+Control of upright posture is possible through constant interaction between the visual and vestibular system with short range rotators including [obliquus capitis posterior inferior]({{< var ref-obliquus-capitis-posterior-inferior.path >}}), [rectus capitis posterior major]({{< var ref-rectus-capitis-posterior-major.path >}}), [splenius capitis]({{< var ref-splenius-capitis.path >}}), and [SCM]({{< var ref-sternocleidomastoid.path >}}) @duttonDuttonOrthopaedicExamination2020.
+
 # Muscle groups
 Splenius Capitis is part of the [Superficial intrinsic back muscle group]({{< var ref-oians >}}) 
 
 
 # Palpation {#palpation}
 
+To locate the splenius capitis first palpate these structures:
+
+- [Sternocleidomastoid]({{< var ref-sternocleidomastoid.palpation >}})
+- [Trapezius]({{< var ref-upper-trapezius.palpation >}})
+- [Levator scapulae]({{< var ref-levator-scapulae.palpation >}})
+
+To palpate splenius capitis:
+
+1. Have the patient in supine or seated with his/her back against the chair.
+1. Locate the muscular triangle between the SCM (anteriorly), upper trapezius (posteriorly), and the levator scapulae (distally).
+1. You should be able to palpate the taut bands of splenius capitis just proximal to the levator scapulae
+
+# Trigger point
+
+![Splenius capitis trigger points @finandoTriggerPointTherapy2005](/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Superficial Intrinsic Back Muscles/Splenius capitis muscle/images/finandoTriggerPointTherapy2005 splenius capitis trigger points.png)
+
+# Pain pattern
+
+::: {.columns}
+::: {.column}
+Pain located at the vertex of the head @finandoTriggerPointTherapy2005.
+:::
+::: {.column}
+![Splenius capitis pain pattern @finandoTriggerPointTherapy2005](/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Superficial Intrinsic Back Muscles/Splenius capitis muscle/images/finandoTriggerPointTherapy2005 splenius capitis pain pattern.png)
+:::
+:::
+
+
+# Etiology
+
+- Overload due to postural stresses @finandoTriggerPointTherapy2005
+    - i.e. thrusting the head forward to compensate for excessive thoracic kyphosis @finandoTriggerPointTherapy2005
+
+# Satellite Trigger Points
+
+- [Levator scapulae]({{< var ref-levator-scapulae.path >}}) @finandoTriggerPointTherapy2005
+- [Upper trapezius]({{< var ref-upper-trapezius.path >}}) @finandoTriggerPointTherapy2005
+- [SCM]({{< var ref-sternocleidomastoid.path >}}) @finandoTriggerPointTherapy2005
+- [Splenius cervicis]({{< var ref-splenius-cervicis.path >}}) @finandoTriggerPointTherapy2005
+
+# Associated zones, meridians, and points
+
+- Dorsal zone
+- Foot Tai Yang Bladder meridian
+
+
+# Stretch Exercises
+
+- 20 to 30&deg; of contralateral rotation @finandoTriggerPointTherapy2005
+- Flex the head forward @finandoTriggerPointTherapy2005
+- Contralateral sidebend @finandoTriggerPointTherapy2005
+
+::: {.callout-note}
+This stretch should be slightly more forward than lateral @finandoTriggerPointTherapy2005
+:::
 
 
 # Clinical significance

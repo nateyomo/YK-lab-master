@@ -1,0 +1,65 @@
+---
+title: Triacylglycerols
+---
+
+
+
+Also known as triglycerides or neutral fats @nelsonLehningerPrinciplesBiochemistry2021.
+
+
+# Structure
+
+Triacylglycerols are composed of 3 fatty acids, each in ester linkage.
+An ester linkage is a chemical bond between an acid and an alcohol.
+In triacylglycerols, the ester linkage consists of an acid (fatty acid) and it is chemically bound to an alcohol (glycerol) @nelsonLehningerPrinciplesBiochemistry2021.
+
+# Function
+
+Triacylglycerols are **nonpolar** and **hydrophobic molecules** since the polar hydroxyls of glycerol and the polar carboxylates of the fatty acids are bound in ester linkages @nelsonLehningerPrinciplesBiochemistry2021.
+Due to their nonpolar and hydrophobic state, triacylglycerols are essentially insoluble in water, which is crucial for their role in energy storage.
+
+# Simple & Complex
+
+Triaglyceroles consisting of a single type of fatty acid in all 3 positions is called "simple triacylglycerols" and are named after the fatty acid.
+
+::: {.callout title="Example"}
+
+- Palmitic acid (16:0) simple triacylglycerol &rarr; *Tripalmitin*
+- Stearic acid (18:0) simple triacylglycerol &rarr; *Tristearin*
+- Oleic acid (18:1) simple triacylglycerol &rarr; *Triolein*
+
+:::
+
+
+::: {.callout-note}
+Most naturally occurring triacylglycerols are mixed @nelsonLehningerPrinciplesBiochemistry2021
+:::
+
+
+To name non-simple triacylglycerols without ambiguity, the name *and* position of each fatty acid must be specified @nelsonLehningerPrinciplesBiochemistry2021.
+
+
+
+# Role in Energy Storage
+
+In vertebrates, triacylglycerols are stored in specialized cells called "adipocytes", or "fat cells" @nelsonLehningerPrinciplesBiochemistry2021.
+These adipocytes store large amounts of triacylglycerols as fat droplets that nearly fill the cell @nelsonLehningerPrinciplesBiochemistry2021.
+
+# Versus polysaccharides
+
+Triacylglycerols have 2 significant advantages that make it better for energy storage than polysaccharides (starch or glycogen) @nelsonLehningerPrinciplesBiochemistry2021.
+
+
+1. Fatty acid carbon atoms are more reduced and therefore yield more (&gt;2x) energy
+1. Triacylglycerols are hydrophobic and do not need to be hydrated @nelsonLehningerPrinciplesBiochemistry2021. Oppositely, polysaccharides need to be hydrated and thus require the organism to carry extra water to maintain polysaccharide hydration @nelsonLehningerPrinciplesBiochemistry2021.
+
+
+Triacylglycerols can hold much more energy (weeks to months) than glycogen @nelsonLehningerPrinciplesBiochemistry2021.
+Glycogen has its benefits since it can produce metabolic energy *quicker* due to their water solubility @nelsonLehningerPrinciplesBiochemistry2021.
+
+
+
+# Serum {#serum}
+
+Blood test for serum triglycerides
+

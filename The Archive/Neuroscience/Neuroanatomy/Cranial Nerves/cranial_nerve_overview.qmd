@@ -8,22 +8,82 @@ Function:
 
 Anatomy:
 
-- Telencephalon: [Olfactory CN I]({{< var ref-cn1.path >}})
-- Diencephalon: CN II
-- Midbrain:
-    - CN III (from interpeduncular fossa)
-    - CN IV (from posterior aspect from brainstem inferior to Inferior colliculus)
-    - Pons: CNV from Basilar Pons
-- Pontomedullary junction:
-    - CN VI: Medial
-    - CN VII: Lateral
-    - CN VIII: Lateral
-- Medulla:
-    - CNIX Rostral medulla
-    - CNX: Posterior to Olive
-    - CNXII: Anterior to Olive
-- Upper cervical levels of spinal cord:
-    - CN IX
+
+
+::: {#tbl-cn-anatomy}
+
+
+<table class="compact-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>CN</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Cerebrum</td>
+      <td>Telencephalon</td>
+      <td>[Olfactory CN I]({{< var ref-cn1.path >}})</td>
+    </tr>
+    <tr>
+      <td style="border-top: 1px solid #dee2e6;">Diencephalon</td>
+      <td style="border-top: 1px solid #dee2e6;">[Optic CN II]({{< var ref-cn2.path >}})</td>
+    </tr>
+    <tr style="border-top: 1px solid #212529;">
+      <td rowspan="2">Midbrain</td>
+      <td></td>
+      <td>[Oculomotor CN III]({{< var ref-cn3.path >}})</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>[Trochlear CN IV]({{< var ref-cn4.path >}})</td>
+    </tr>
+    <tr style="border-top: 1px solid #212529;">
+      <td rowspan="7">Brainstem</td>
+      <td>Pons</td>
+      <td>[Trigeminal CN V]({{< var ref-cn5.path >}})</td>
+    </tr>
+    <tr>
+      <td rowspan="3" style="border-top: 1px solid #dee2e6;">Pontomedullary junction</td>
+      <td style="border-top: 1px solid #dee2e6;">[Abducens CN VI]({{< var ref-cn6.path >}})</td>
+    </tr>
+    <tr>
+      <td>[Facial CN VII]({{< var ref-cn7.path >}})</td>
+    </tr>
+    <tr>
+      <td>[Vestibulocochlear CN VIII]({{< var ref-cn8.path >}})</td>
+    </tr>
+    <tr>
+      <td rowspan="3" style="border-top: 1px solid #dee2e6;">Medulla</td>
+      <td style="border-top: 1px solid #dee2e6;">[Glossopharyngeal CN IX]({{< var ref-cn9.path >}})</td>
+    </tr>
+    <tr>
+      <td>[Vagus CN X]({{< var ref-cn10.path >}})</td>
+    </tr>
+    <tr>
+      <td>[Hypoglossal CN XII]({{< var ref-cn12.path >}})</td>
+    </tr>
+    <tr style="border-top: 1px solid #212529;">
+      <td>Spinal cord</td>
+      <td></td>
+      <td>[Accessory CN XI]({{< var ref-cn11.path >}})</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="3"><strong>Source:</strong> Blumenfeld @blumenfeldNeuroanatomyClinicalCases2022</td>
+    </tr>
+  </tfoot>
+</table>
+
+
+
+Cranial Nerve Origins
+
+:::
+
 
 
 
@@ -33,4 +93,15 @@ Anatomy:
 ## Parasympathetic Pathways
 
 ![Cranial Nerve Sympathetic Pathways](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.6 cranial nerve parasympathetic pathways blumenfield2022.png)
+
+
+
+
+# Nuclei
+
+
+{{< include "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/table_cranial_nerve_nuclei.qmd" >}}
+
+
+
 

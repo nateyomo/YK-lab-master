@@ -22,29 +22,10 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
-<script src="../../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="../../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../../../../../../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../../../../../../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../../../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
@@ -88,6 +69,9 @@ div.csl-indent {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
 <link rel="stylesheet" href="../../../../../../styles.css">
@@ -150,7 +134,13 @@ div.csl-indent {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#stretch" id="toc-stretch" class="nav-link active" data-scroll-target="#stretch">Stretch</a></li>
+  </ul>
+</nav>
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
@@ -170,7 +160,7 @@ div.csl-indent {
   <div class="quarto-title-meta-heading">Affiliations</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#ngy">Nathaniel Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+    <p class="author"><a href="https://yomokerst.com/about.html#ngy">Nathaniel Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -181,7 +171,7 @@ div.csl-indent {
           </p>
       </div>
     <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+    <p class="author"><a href="https://yomokerst.com/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -209,459 +199,15 @@ div.csl-indent {
 <li>Gastrocnemius</li>
 <li>Soleus</li>
 </ul>
-<div class="cell">
-<div class="cell-output-display">
-<div id="xbowkdrwqn" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#xbowkdrwqn table {
-  font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-#xbowkdrwqn thead, #xbowkdrwqn tbody, #xbowkdrwqn tfoot, #xbowkdrwqn tr, #xbowkdrwqn td, #xbowkdrwqn th {
-  border-style: none;
-}
-
-#xbowkdrwqn p {
-  margin: 0;
-  padding: 0;
-}
-
-#xbowkdrwqn .gt_table {
-  display: table;
-  border-collapse: collapse;
-  line-height: normal;
-  margin-left: auto;
-  margin-right: auto;
-  color: #333333;
-  font-size: 16px;
-  font-weight: normal;
-  font-style: normal;
-  background-color: #FFFFFF;
-  width: auto;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #A8A8A8;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #A8A8A8;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-}
-
-#xbowkdrwqn .gt_caption {
-  padding-top: 4px;
-  padding-bottom: 4px;
-}
-
-#xbowkdrwqn .gt_title {
-  color: #333333;
-  font-size: 125%;
-  font-weight: initial;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-color: #FFFFFF;
-  border-bottom-width: 0;
-}
-
-#xbowkdrwqn .gt_subtitle {
-  color: #333333;
-  font-size: 85%;
-  font-weight: initial;
-  padding-top: 3px;
-  padding-bottom: 5px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-color: #FFFFFF;
-  border-top-width: 0;
-}
-
-#xbowkdrwqn .gt_heading {
-  background-color: #FFFFFF;
-  text-align: center;
-  border-bottom-color: #FFFFFF;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-
-#xbowkdrwqn .gt_bottom_border {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-
-#xbowkdrwqn .gt_col_headings {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-
-#xbowkdrwqn .gt_col_heading {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 6px;
-  padding-left: 5px;
-  padding-right: 5px;
-  overflow-x: hidden;
-}
-
-#xbowkdrwqn .gt_column_spanner_outer {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  padding-top: 0;
-  padding-bottom: 0;
-  padding-left: 4px;
-  padding-right: 4px;
-}
-
-#xbowkdrwqn .gt_column_spanner_outer:first-child {
-  padding-left: 0;
-}
-
-#xbowkdrwqn .gt_column_spanner_outer:last-child {
-  padding-right: 0;
-}
-
-#xbowkdrwqn .gt_column_spanner {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  overflow-x: hidden;
-  display: inline-block;
-  width: 100%;
-}
-
-#xbowkdrwqn .gt_spanner_row {
-  border-bottom-style: hidden;
-}
-
-#xbowkdrwqn .gt_group_heading {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  text-align: left;
-}
-
-#xbowkdrwqn .gt_empty_group_heading {
-  padding: 0.5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: middle;
-}
-
-#xbowkdrwqn .gt_from_md > :first-child {
-  margin-top: 0;
-}
-
-#xbowkdrwqn .gt_from_md > :last-child {
-  margin-bottom: 0;
-}
-
-#xbowkdrwqn .gt_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  margin: 10px;
-  border-top-style: solid;
-  border-top-width: 1px;
-  border-top-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  overflow-x: hidden;
-}
-
-#xbowkdrwqn .gt_stub {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#xbowkdrwqn .gt_stub_row_group {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-  vertical-align: top;
-}
-
-#xbowkdrwqn .gt_row_group_first td {
-  border-top-width: 2px;
-}
-
-#xbowkdrwqn .gt_row_group_first th {
-  border-top-width: 2px;
-}
-
-#xbowkdrwqn .gt_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#xbowkdrwqn .gt_first_summary_row {
-  border-top-style: solid;
-  border-top-color: #D3D3D3;
-}
-
-#xbowkdrwqn .gt_first_summary_row.thick {
-  border-top-width: 2px;
-}
-
-#xbowkdrwqn .gt_last_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-
-#xbowkdrwqn .gt_grand_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#xbowkdrwqn .gt_first_grand_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-style: double;
-  border-top-width: 6px;
-  border-top-color: #D3D3D3;
-}
-
-#xbowkdrwqn .gt_last_grand_summary_row_top {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-style: double;
-  border-bottom-width: 6px;
-  border-bottom-color: #D3D3D3;
-}
-
-#xbowkdrwqn .gt_striped {
-  background-color: rgba(128, 128, 128, 0.05);
-}
-
-#xbowkdrwqn .gt_table_body {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-
-#xbowkdrwqn .gt_footnotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-
-#xbowkdrwqn .gt_footnote {
-  margin: 0px;
-  font-size: 90%;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#xbowkdrwqn .gt_sourcenotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-
-#xbowkdrwqn .gt_sourcenote {
-  font-size: 90%;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#xbowkdrwqn .gt_left {
-  text-align: left;
-}
-
-#xbowkdrwqn .gt_center {
-  text-align: center;
-}
-
-#xbowkdrwqn .gt_right {
-  text-align: right;
-  font-variant-numeric: tabular-nums;
-}
-
-#xbowkdrwqn .gt_font_normal {
-  font-weight: normal;
-}
-
-#xbowkdrwqn .gt_font_bold {
-  font-weight: bold;
-}
-
-#xbowkdrwqn .gt_font_italic {
-  font-style: italic;
-}
-
-#xbowkdrwqn .gt_super {
-  font-size: 65%;
-}
-
-#xbowkdrwqn .gt_footnote_marks {
-  font-size: 75%;
-  vertical-align: 0.4em;
-  position: initial;
-}
-
-#xbowkdrwqn .gt_asterisk {
-  font-size: 100%;
-  vertical-align: 0;
-}
-
-#xbowkdrwqn .gt_indent_1 {
-  text-indent: 5px;
-}
-
-#xbowkdrwqn .gt_indent_2 {
-  text-indent: 10px;
-}
-
-#xbowkdrwqn .gt_indent_3 {
-  text-indent: 15px;
-}
-
-#xbowkdrwqn .gt_indent_4 {
-  text-indent: 20px;
-}
-
-#xbowkdrwqn .gt_indent_5 {
-  text-indent: 25px;
-}
-
-#xbowkdrwqn .katex-display {
-  display: inline-flex !important;
-  margin-bottom: 0.75em !important;
-}
-
-#xbowkdrwqn div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
-  height: 0px !important;
-}
-</style>
-
-<table class="gt_table caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-quarto-disable-processing="false" data-quarto-bootstrap="false">
+<div class="cell" data-message="false" data-execution_count="1">
+<div id="tbl-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="1" data-message="false">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Triceps Surae Muscle Group
+</figcaption>
+<div aria-describedby="tbl-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display">
+<table class="dataframe oian-table do-not-create-environment cell caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
 <colgroup>
 <col style="width: 20%">
 <col style="width: 20%">
@@ -670,139 +216,54 @@ div.csl-indent {
 <col style="width: 20%">
 </colgroup>
 <thead>
-<tr class="gt_heading header">
-<th colspan="5" class="gt_heading gt_title gt_font_normal gt_bottom_border">Triceps Surae muscle group</th>
-</tr>
-<tr class="gt_col_headings even">
-<th id="name_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Muscle</th>
-<th id="origin_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Origin</th>
-<th id="insertion_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Insertion</th>
-<th id="innervation_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Innervation</th>
-<th id="action_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Action</th>
+<tr class="header">
+<th data-quarto-table-cell-role="th">Muscle</th>
+<th data-quarto-table-cell-role="th">Origin</th>
+<th data-quarto-table-cell-role="th">Insertion</th>
+<th data-quarto-table-cell-role="th">Innervation</th>
+<th data-quarto-table-cell-role="th">Action</th>
 </tr>
 </thead>
-<tbody class="gt_table_body">
+<tbody>
 <tr class="odd">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html">Gastrocnemius</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="../../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html#origin">Superior-posterior aspect of Medial Femoral Condyle</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html#origin">Lateral surface of Lateral Femoral Condyle</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p>[Superior-posterior aspect of Medial Femoral Condyle](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[Lateral surface of Lateral Femoral Condyle](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html#insertion">Calcaneal tuberosity via Achilles’ Tendon</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li>[Calcaneal tuberosity via Achilles’ Tendon](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd#insertion) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html#nerve">Tibial n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="../../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html#nerve">S1</a> - <a href="../../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html#nerve">S2</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span>
-</p><ul>
-<li>[Tibial n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd#nerve) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p>[S1](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd#nerve) - [S2](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5LbmVlPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5bRmxleGlvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvS25lZSBhbmQgTG93ZXIgTGVnL1Bvc3RlcmlvciBjb21wYXJ0bWVudC9nYXN0cm9jbmVtaXVzLnFtZCNhY3Rpb24pIFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo8cD48c3Ryb25nPlRDSjwvc3Ryb25nPjwvcD4KPHVsPgo8bGk+W1BGXSgvVGhlIEFyY2hpdmUvQW5hdG9teS9Ta2VsZXRhbCBNdXNjbGVzL0xvd2VyIGxpbWIgbXVzY2xlcy9LbmVlIGFuZCBMb3dlciBMZWcvUG9zdGVyaW9yIGNvbXBhcnRtZW50L2dhc3Ryb2NuZW1pdXMucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+Cg==">
-<span class="gt_from_md">
-<strong>Knee</strong>
-<p></p>
-<ul>
-<li>[Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>TCJ</strong></p>
-<ul>
-<li>[PF](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html">Gastrocnemius</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#origin">Superior-posterior aspect of Medial Femoral Condyle</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#origin">Lateral surface of Lateral Femoral Condyle</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#insertion">Calcaneal tuberosity via Achilles' Tendon</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#innervation">Tibial n.</a><br>
+S1 - S2</td>
+<td><strong>TCJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#action">PF</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#action">Flexion</a></td>
 </tr>
 <tr class="even">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.html">Soleus</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="../../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.html#origin">Posterior Fibula</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.html#origin">Posterior Tibia</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p>[Posterior Fibula](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[Posterior Tibia](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.html#insertion">Calcaneal tuberosity via Achilles’ Tendon</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li>[Calcaneal tuberosity via Achilles’ Tendon](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#insertion) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.html#nerve">Tibial n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="../../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.html#nerve">S1</a> - <a href="../../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.html#nerve">S2</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span>
-</p><ul>
-<li>[Tibial n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#nerve) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p>[S1](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#nerve) - [S2](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5Mb3dlciBsZWc8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPltTdGFiaWxpemF0aW9uXSgvVGhlIEFyY2hpdmUvQW5hdG9teS9Ta2VsZXRhbCBNdXNjbGVzL0xvd2VyIGxpbWIgbXVzY2xlcy9LbmVlIGFuZCBMb3dlciBMZWcvUG9zdGVyaW9yIGNvbXBhcnRtZW50L3NvbGV1c19tdXNjbGUucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+CjxwPjxzdHJvbmc+VENKPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5bUEZdKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0tuZWUgYW5kIExvd2VyIExlZy9Qb3N0ZXJpb3IgY29tcGFydG1lbnQvc29sZXVzX211c2NsZS5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPC91bD4K">
-<span class="gt_from_md">
-<strong>Lower leg</strong>
-<p></p>
-<ul>
-<li>[Stabilization](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>TCJ</strong></p>
-<ul>
-<li>[PF](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/soleus_muscle.html">Soleus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/soleus_muscle.html#origin">Posterior Fibula</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/soleus_muscle.html#origin">Posterior Tibia</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/soleus_muscle.html#insertion">Calcaneal tuberosity via Achilles' Tendon</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/soleus_muscle.html#innervation">Tibial n.</a><br>
+S1 - S2</td>
+<td><strong>TCJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/soleus_muscle.html#action">PF</a><br>
+<strong>Lower leg</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/soleus_muscle.html#action">Stabilization</a></td>
 </tr>
 </tbody>
 </table>
-
 </div>
 </div>
+</figure>
 </div>
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
-<div id="ref-gilroyAtlasAnatomy2020" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Gilroy AM, MacPherson BR, Wikenheiser JC, Voll MM, Wesker K, Schünke M, eds. <em>Atlas of Anatomy</em>. 4th ed. Thieme; 2020.</div>
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<section id="stretch" class="level1">
+<h1>Stretch</h1>
+<ul>
+<li><a href="../../../../../../The Archive/Interventions/AFS/3d_calf_stretch.html">3D Calf Stretch</a></li>
+</ul>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Triceps Surae Muscle
-Group. <a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/triceps_surae_muscle_group.html">https://nateyomo.github.io/Yomogida-Kerstein-Lab/The
+Group. <a href="https://yomokerst.com/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/triceps_surae_muscle_group.html">https://yomokerst.com/The
 Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower
 Leg/Posterior compartment/triceps_surae_muscle_group.html</a></div>
 </div></div></section></div></main> <!-- /main -->
@@ -1040,7 +501,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/nateyomo\.github\.io\/Yomogida-Kerstein-Lab");
+      var filterRegex = new RegExp("https:\/\/yomokerst\.com");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

@@ -7,12 +7,42 @@ title: Spinalis Muscle
 
 ![Intermediate intrinsic muscles of the back / Erector spinae (Posterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Erector Spinae/images/gilroyatlas 310b intermediate back muscles.png)
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Spinalis Cervicis]({{< var ref-spinalis-cervicis.path >}}) | {{< var ref-spinalis-cervicis.origin >}} | {{< var ref-spinalis-cervicis.insertion >}} | {{< var ref-spinalis-cervicis.nerve >}} | {{< var ref-spinalis-cervicis.action >}} |
-| [Spinalis Thoracis]({{< var ref-spinalis-thoracis.path >}}) | {{< var ref-spinalis-thoracis.origin >}} | {{< var ref-spinalis-thoracis.insertion >}} | {{< var ref-spinalis-thoracis.nerve >}} | {{< var ref-spinalis-thoracis.action >}} |
+```{python tbl-spinalis-muscles-oian}
+#| label: tbl-spinalis-muscles-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: Spinalis muscles
 
-: Spinalis Muscle OIAN {.striped .hover}
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'muscle_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['spinalis_cervicis | spinalis_thoracis']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
 
 
 # Spinalis Cervicis

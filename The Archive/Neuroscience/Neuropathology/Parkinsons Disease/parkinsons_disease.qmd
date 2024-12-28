@@ -149,11 +149,84 @@ The pathophysiology of PD is characterized by 2 phases @osullivanPhysicalRehabil
 1. Degeneration of dopaminergic neurons in the SNpc @osullivanPhysicalRehabilitation2019
 1. Addition of [Lewy Bodies](#alpha-synuclein) @osullivanPhysicalRehabilitation2019
 
+::: {#tbl-proposed-pathogenic-mechanisms}
+
+<table class="basic-table">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Proposed pathogenesis</th>
+            <th>Genetic evidence</th>
+            <th>Biomarkers</th>
+            <th>Therapeutic implications</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>&uarr; SNCA expression</td>
+            <td>&uarr; in &alpha;-syn protein results in increased aggregation in cell death and dysfunction</td>
+            <td>&uarr; SNCA gene dose results in PD</td>
+            <td>&alpha;-syn and phospho-syn blood and CSF measures</td>
+            <td>&darr; in SNCA transcription or translation</td>
+        </tr>
+        <tr>
+            <td>&uarr; &alpha;-syn aggregation</td>
+            <td>Formation of oligomers and fibrils is toxic to cells</td>
+            <td>Coding mutations in SNCA gene lead to α-syn aggregation</td>
+            <td>rt-QUIC assays of CSF, skin and olfactory mucosal biopsies</td>
+            <td>Anti-aggregation therapies</td>
+        </tr>
+        <tr>
+            <td>Mitochondrial dysfunction</td>
+            <td>Reduced complex 1 activity <br> abnormal calcium homeostasis <br> increased reactive oxygen species <br> reduced mitochondrial ATP production</td>
+            <td>Multiple PD gene mutations lead to changes in mitochondrial function <br> e.g. *PRKN*, *PINK1* and *LRRK2*</td>
+            <td>Magnetic resonance spectroscopy analysis of Pi/ATP ratios; <br> Measurement of ATP and mitochondrial function in skin biopsies</td>
+            <td>Enhancing mitochondrial biogenesis and function</td>
+        </tr>
+        <tr>
+            <td>Altered endosomal-lysosomal trafficking</td>
+            <td>Activation of *LRRK2* and *VPS35* lead to phosphorylation of RAB proteins leading to &darr; lysosomal function; and altered response to membrane damage</td>
+            <td>Rare pathogenic variants in *LRRK2* (e.g. *G2019S*) and *VPS35* lead to &uarr; RAB phosphorylation</td>
+            <td>Serum Rab protein phosphorylation</td>
+            <td>Reducing *LRRK2* protein levels and/or kinase activity via ASO therapy or kinase inhibitors</td>
+        </tr>
+        <tr>
+            <td>Lysosomal dysfunction</td>
+            <td>Impaired &alpha;-synuclein degradation leading to increased cellular &alpha;-synuclein</td>
+            <td>*GBA1* mutations are associated with PD; </br> rare variants in other genes may be relevant</td>
+            <td>GCase protein and enzyme activity measurements; </br> GSLs in blood and CSF</td>
+            <td>Modulators of &beta;-glucocerebrosidase activity</td>
+        </tr>
+        <tr>
+            <td>Immune activation & neuroinflammation</td>
+            <td>Multiple factors (&alpha;-syn aggregates, mitochondrial antigens, and gut endotoxins) trigger immune responses, driving neuroinflammation and neuronal toxicity</td>
+            <td>*HLA* variants are associated with PD; </br> *LRRK2*, *PRKN* and *PINK1* are involved in inflammatory pathways</td>
+            <td>C-Reactive protein </br> interleukins </br> PET imaging of activated microglia</td>
+            <td>Immunomodulatory or anti-inflammatory therapies</td>
+        </tr>
+        <tr>
+            <td>Cell to cell spread</td>
+            <td>Toxic &alpha;-syn can spread to neighboring and distant cells via extracellular vesicles (*potentially*)</td>
+            <td>N/a</td>
+            <td>&alpha;-syn aggregations via rt-QUIC assays of CSF, skin, and olfactory mucosal biopsies</td>
+            <td>Monoclonal antibodies or other therapies: </br> &darr; release of toxic proteins </br> Inhibition of extracellular transit </br> &darr; reuptake by recipient cells</td>
+        </tr>
+        <tr>
+            <td colspan="5">Source: Morris et al. 2024 @morrisPathogenesisParkinsonsDisease2024</td>
+        </tr>
+    </tbody>
+</table>
+
+Proposed pathogenic mechanisms of Parkinson's Disease 
+
+:::
 
 ## Degeneration of Dopaminergic neurons
 
 - Loss of the melanin-containing neurons produces characteristic **results in** Depigmentation in the substantia nigra with a characteristic pallor @osullivanPhysicalRehabilitation2019.
 - Numerous other brain regions of people with PD show structural and functional changes **resulting in** impaired modulation of other neurotransmitters (acetylcholine, serotonin, noradrenaline, glutamate, and GABA) @osullivanPhysicalRehabilitation2019.
+
+
 
 
 
@@ -257,15 +330,31 @@ In post-mortem studies, microglial activation/ elevated inflammatory cytokines f
 Insulin resistance + impaired glucose metabolism are associated with the development and progression of PD @hongInsulinResistancePromotes2020.
 Insulin resistances promotes PD through increased &alpha;-syn expression, mitochondrial dysfunction, and elevated ROS production @hongInsulinResistancePromotes2020.
 
-In an SR by Ruiz-Pozo  Systematic Review
-Insulin resistance was associated with alpha syn aggregation, dopaminergic neuronal loss, autophagy and neuroinflammation
-Blood tests determining insulin sensitivity/metabolic health can be useful in determining risk of developing PD
-Once one has PD: 
-Enhancing insulin signaling pathways can have neuroprotective effects/improve motor and cognitive fxns in PD patients (Sharma, 2021) (Wang, 2020)
-Enhance insulin signaling via: Balanced diet, exercise, antidiabetic agents, insulin therapies
+In 2023, Ruiz-Pozo et al. @ruiz-pozoMolecularMechanismsRelationship2023, performd a systematic review investigating the relationship between insulin resistance and Parkinson's Disease.
+Insulin resistance was associated with &alpha;-syn aggregation, dopaminergic neuronal loss, autophagy, and neuroinflammation @ruiz-pozoMolecularMechanismsRelationship2023.
+
+Based on this information, this can be helpful in both risk assessment and treatment.
+
+
+Blood tests determining insulin sensitivity/metabolic health can be useful in determining risk of developing PD @ruiz-pozoMolecularMechanismsRelationship2023.
+
+For patients who already have PD, metabolic health and specifically insulin sensitivity should be considered when developing a plan of care.
+Enhancing insulin signaling pathways can have neuroprotective effects/improve motor and cognitive fxns in PD patients [@sharmaTherapiesModulatingInsulin2021; @wangAntidiabeticAgentsTreatment2020].
+
+Interventions to enhance insulin sensitivity include:
+
+- Balanced diet
+- Exercise
+- Antidiabetic agents
+- Insulin therapies
+
+<details>
 Exercise - increases glucose uptake in muscles thu insulin independence paths/improves mitochondrial fxn
+
 Diet - 
+
 Antidiabetic agents like exenatide, which improve insulin sensitivity, have shown promise in clinical trials for PD, leading to significant improvements in motor and non-motor symptoms
+</details>
 
 
 # Basal Ganglia Loop Dysfunction

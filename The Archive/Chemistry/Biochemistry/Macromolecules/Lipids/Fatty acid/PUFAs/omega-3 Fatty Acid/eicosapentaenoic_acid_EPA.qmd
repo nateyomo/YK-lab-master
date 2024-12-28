@@ -1,0 +1,13 @@
+---
+title: Eicosapentaenoic acid (EPA)
+subtitle: Omega-3 Fatty Acid
+---
+
+
+
+- 20:5
+- $\Delta^{5,8,11,14,17}$
+
+# Synethsis
+
+EPA is synthesized in humans using [&alpha;-linolenic acid (APA)]({{< var ref-alpha-linolenic-acid.path >}})

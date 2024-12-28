@@ -1,0 +1,31 @@
+---
+title: High-density lipoprotein (HDL)
+---
+
+
+<!-- (See Chapter 21 Lehninger  for descriptions of LDL and HDL — low-density and high-density lipoprotein — cholesterol and their  health effects.)  -->
+
+# Serum {#serum}
+
+
+
+
+# U-shaped Curve
+
+When observing the relationship between HDL and mortality a U-shaped curve emerges.
+
+Both [abnormally low](#abnormally-low) and [abnormally high](#abnormally-high) of HDL-C are associated with increased risk of all-cause mortality and atherosclerotic cardiovascular disease mortality @razaviHighDensityLipoproteinCholesterol2023.
+
+
+:::{.callout}
+
+REad:
+
+- Liu C, Dhindsa D, Almuwaqqat Z, Sun YV, Quyyumi AA. Very high high-density lipoprotein cholesterol levels and cardiovascular mortality. Am J Cardiol. 2022;167(188):120–1.Among individuals without overt CVD, very-high HDL-C was independently associated with a higher risk of cardiovascular and all-cause mortality in men, but not women.  10••. Liu C, Dhindsa D, - Almuwaqqat Z, Ko YA, Mehta A, Alkhoder AA, et al. Association between high-density lipoprotein cholesterol levels and adverse cardiovascular outcomes in high-risk populations. JAMA Cardiol. 2022;7(7):672–80. [PubMed: 35583863] Among individuals with coronary artery disease, very-high HDL-C was independently associated with a higher risk of cardiovascular and all-cause mortality.
+
+:::
+
+# Abnormally low {#abnormal-low}
+
+
+# Abnormally high {#abnormal-high}

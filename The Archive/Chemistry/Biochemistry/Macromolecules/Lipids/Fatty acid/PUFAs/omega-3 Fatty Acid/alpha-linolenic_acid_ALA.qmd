@@ -1,0 +1,15 @@
+---
+title: Alpha-Linolenic Acid (ALA)
+subtitle: Omega-3 Fatty Acid
+---
+
+
+
+# Synthesis
+
+ALA cannot be synthesized in humans, but rather is obtained through diet
+
+
+# Function
+
+ALA is used to create other &omega;-3 fatty acids, including [eicosapentaenoic acid (EPA)]({{< var ref-eicosapentaenoic-acid.path >}}) and [docosahexaenoic acid (DHA)]({{< var ref-docosahexaenoic-acid.path >}})

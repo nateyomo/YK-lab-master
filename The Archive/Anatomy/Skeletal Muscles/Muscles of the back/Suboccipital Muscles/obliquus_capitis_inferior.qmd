@@ -2,28 +2,60 @@
 title: Obliquus capitis inferior muscle
 ---
 
-# OIAN
+:::{layout-ncol="3"}
 ![Schematic view of Suboccipital muscles (posterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Suboccipital Muscles/images/suboccipitals 3.6a gilroyAtlasAnatomy2020.png){#fig-suboccipitalmm36aagilroyAtlasAnatomy2020}
 
 ![Suboccipital muscles (posterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Suboccipital Muscles/images/suboccipitals 3.6b gilroyAtlasAnatomy2020.png){#fig-suboccipitalmm36bagilroyAtlasAnatomy2020}
 
 ![suboccipital muscles (left lateral view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Suboccipital Muscles/images/suboccipitals left lateral 3.6c gilroyAtlasAnatomy2020.png){#fig-suboccipitalmm36cagilroyAtlasAnatomy2020}
+:::
 
-| Muscle  | Origin  | Insertion | Nerve | Action |
-|--------|----------|-----------|-------|--------|
-| [Obliquus Capitis Inferior]({{< var ref-obliquus-capitis-inferior.path >}}) | {{< var ref-obliquus-capitis-inferior.origin >}} | {{< var ref-obliquus-capitis-inferior.insertion >}} | {{< var ref-obliquus-capitis-inferior.nerve >}} | {{< var ref-obliquus-capitis-inferior.action >}} |
-: Obliquus Capitis Inferior OIAN {.striped .hover}
+```{python tbl-oian}
+#| label: tbl-oian
+#| warning: false
+#| message: false
+#| echo: false
 
-## Origin {#origin}
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'muscle_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['obliquus_capitis_inferior']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+# Origin {#origin}
 C2 (SP) @gilroyAtlasAnatomy2020
 
-## Insertion {#insertion}
+# Insertion {#insertion}
 C1 TP @gilroyAtlasAnatomy2020
 
-## Innervation {#innervation}
+# Innervation {#innervation}
 [Suboccipital N.]({{< var ref-suboccipital-nerve.path >}}) AKA [Posterior ramus of C1]({{< var ref-nerve-root.c1 >}}) @gilroyAtlasAnatomy2020
 
-## Action {#action}
+# Action {#action}
 
 - **Bilateral**: Extend head
 - **Unilateral**: I/L rotation

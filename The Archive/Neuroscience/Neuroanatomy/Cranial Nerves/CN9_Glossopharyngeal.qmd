@@ -2,10 +2,13 @@
 title: CNIX Glossopharyngeal Nerve
 ---
 
-:::{.callout-note}
-
+<!-- 
+to read
+- Chapter 12 Brainstem I: Surface Anatomy and Cranial Nerves @blumenfeldNeuroanatomyClinicalCases2022 
 - Welzack Chapter 66 Trigeminal and Glossopharyngeal Neuralgia @mcmahonWallMelzackTextbook2013
-:::
+
+-->
+
 
 # Functions
 

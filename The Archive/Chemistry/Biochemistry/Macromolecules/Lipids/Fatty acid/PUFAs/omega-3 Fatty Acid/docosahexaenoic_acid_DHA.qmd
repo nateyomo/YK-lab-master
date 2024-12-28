@@ -1,0 +1,13 @@
+---
+title: Docosahexaenoic acid (DHA)
+subtitle: Omega-3 Fatty Acid
+---
+
+
+- 22:6
+- $\Delta^{4,7,10,13,16,19}$
+
+# Synthesis
+
+DHA is synthesized in humans using &alpha;-linolenic acid (ALA) @nelsonLehningerPrinciplesBiochemistry2021.
+

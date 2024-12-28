@@ -7,17 +7,26 @@ The platysma covers the pec and deltoid and extends to inferior margin of body o
 It functions as one of the muscles of facial expression and can restrain head extension.
 
 
-# OIAN
+
 
 | Muscle  | Origin | Insertion | Nerve | Action |
 |------|--------|-------|----------|--------|
 | [Platysma muscle]({{< var ref-platysma.path >}}) | {{< var ref-platysma.origin >}} | {{< var ref-platysma.insertion >}} | {{< var ref-platysma.nerve >}} | {{< var ref-platysma.action >}} |
 
-# Origin {#origin}
+# Anatomy
+## Overview
+## Origin {#origin}
 Skin over lower neck and upper lateral thorax @gilroyAtlasAnatomy2020
 
-# Insertion {#insertion}
+## Insertion {#insertion}
 [Mandible (inf border)]({{< var ref-mandible-bone.path >}}), Skin over lower face, Angle of mouth @gilroyAtlasAnatomy2020
+
+## Variations
+
+The above information is the *usual* presentation of the platysma, but there are many anatomical variations.
+
+- A hybrid muscle that is the combination of the SCM and [platysma]({{< var ref-platysma.path >}}) @donnellyTravellSimonsSimons2019
+
 
 # Innervation {#innervation}
 

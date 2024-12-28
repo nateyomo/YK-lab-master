@@ -9,11 +9,41 @@ title: Rectus Capitis Posterior Minor
 
 ![suboccipital muscles (left lateral view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Suboccipital Muscles/images/suboccipitals left lateral 3.6c gilroyAtlasAnatomy2020.png)
 
-| Muscle  | Origin  | Insertion | Nerve | Action |
-|--------|----------|-----------|-------|--------|
-|[Rectus Capitis Posterior Minor]({{< var ref-rectus-capitis-posterior-minor.path >}}) | {{< var ref-rectus-capitis-posterior-minor.origin >}} | {{< var ref-rectus-capitis-posterior-minor.insertion >}} | {{< var ref-rectus-capitis-posterior-minor.nerve >}} | {{< var ref-rectus-capitis-posterior-minor.action >}} |
+```{python tbl-oian}
+#| label: tbl-oian
+#| warning: false
+#| message: false
+#| echo: false
 
-: Rectus Capitis Posterior Minor OIAN {.striped .hover}
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'muscle_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['rectus_capitis_posterior_minor']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
 
 ## Origin {#origin}
 C1 (posterior tubercle) @gilroyAtlasAnatomy2020

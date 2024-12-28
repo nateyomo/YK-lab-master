@@ -1,0 +1,16 @@
+---
+title: Omega-3 fatty Acids (&omega;-3)
+subtitle: Polyunsaturated Fatty Acid
+---
+
+
+Omega-3 Fatty Acids refer to polyunsaturated fatty acids where the first double bound is between the 3rd (C-3) and 4th (C-4) carbon.
+
+- [&alpha;-linolenic acid (ALA)]({{< var ref-alpha-linolenic-acid.path >}})
+- [Eicosapentaenoic acid (EPA)]({{< var ref-eicosapentaenoic-acid.path >}})
+- [Decosahexaenoic acid (DHA)]({{< var ref-decosahexaenoic-acid.path >}})
+
+
+# Diet
+
+An imbalance of omega-6 and omega-3 PUFAs in  the diet is associated with an increased risk of cardiovascular disease @nelsonLehningerPrinciplesBiochemistry2021

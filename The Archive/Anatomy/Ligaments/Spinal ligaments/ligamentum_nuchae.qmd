@@ -1,0 +1,6 @@
+---
+title: Ligamentum nuchae
+---
+
+
+The Nuchal ligament serves as an attachment for the [upper trapezius]({{< var ref-upper-trapezius.path >}}), [splenius capitis]({{< var ref-splenius-capitis.path >}}), and [splenius cervicis]({{< var ref-splenius-cervicis.path >}}) @neumannKinesiologyMusculoskeletalSystem2017.

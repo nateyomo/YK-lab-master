@@ -7,13 +7,42 @@ title: Iliocostalis
 
 ![Intermediate intrinsic muscles of the back / Erector spinae (Posterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Erector Spinae/images/gilroyatlas 310b intermediate back muscles.png){#fig-intermediatebackmm310gilroyAtlasAnatomy2020}
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Iliocostalis cervicis]({{< var ref-iliocostalis-cervicis.path >}}) | {{< var ref-iliocostalis-cervicis.origin >}} | {{< var ref-iliocostalis-cervicis.insertion >}} | {{< var ref-iliocostalis-cervicis.nerve >}} | {{< var ref-iliocostalis-cervicis.action >}} |
-| [Iliocostalis thoracis]({{< var ref-iliocostalis-thoracis.path >}}) | {{< var ref-iliocostalis-thoracis.origin >}} | {{< var ref-iliocostalis-thoracis.insertion >}} | {{< var ref-iliocostalis-thoracis.nerve >}} | {{< var ref-iliocostalis-thoracis.action >}} |
-| [Iliocostalis lumborum]({{< var ref-iliocostalis-lumborum.path >}}) | {{< var ref-iliocostalis-lumborum.origin >}} | {{< var ref-iliocostalis-lumborum.insertion >}} | {{< var ref-iliocostalis-lumborum.nerve >}}  | {{< var ref-iliocostalis-lumborum.action >}} |
+```{python tbl-iliocostalis-muscles-oian}
+#| label: tbl-iliocostalis-muscles-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: Iliocostalis muscles
 
-: Iliocostalis OIAN {.striped .hover}
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'muscle_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['iliocostalis_cervicis | iliocostalis_thoracis | iliocostalis_lumborum']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
 
 
 # Iliocostalis Cervicis
