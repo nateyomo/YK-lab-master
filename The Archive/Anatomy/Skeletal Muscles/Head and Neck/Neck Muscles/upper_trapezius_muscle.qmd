@@ -3,7 +3,6 @@ title: Upper Trapezius
 ---
 
 
-# Overview
 
 ```{python tbl-oian}
 #| label: tbl-oian
@@ -41,10 +40,23 @@ else:
 
 ```
 
+
+
 # Origin {#origin}
+
+- [Occipital bone]({{< var ref-occipital-bone.path >}}) @gilroyAtlasAnatomy2020
+- SP of C1–C7 @gilroyAtlasAnatomy2020
 
 # Insertion {#insertion}
 
+[Clavicle (lateral one third)]({{< var ref-clavicle-bone.path >}}) @gilroyAtlasAnatomy2020
+
 # Innervation {#innervation}
 
+- **Motor**: [CN XI Accessory n.]({{< var ref-cn11.path >}}) ([C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) @brazisLocalizationClinicalNeurology2022
+- **Proprioception**: Cervical plexus ([C2]({{< var ref-nerve-root.c2 >}}), [C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) @gilroyAtlasAnatomy2020
+
 # Action {#action}
+
+- **Scapula**: Elevation, Upward rotation @gilroyAtlasAnatomy2020
+- **Neck**: I/L sidebend and C/L rotation @gilroyAtlasAnatomy2020

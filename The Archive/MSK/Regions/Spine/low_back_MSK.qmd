@@ -59,3 +59,20 @@ Proposed by Richardson
 - Frontal: ~30&deg;
 - Transverse: 10&deg;
 - Rotation and lateral bending are coupled contralaterally
+
+
+
+# Special tests
+
+- Centralization @duttonDuttonOrthopaedicExamination2020
+- SL Squat @duttonDuttonOrthopaedicExamination2020
+- Loss of extension @duttonDuttonOrthopaedicExamination2020
+- Neurodynamic mobility testing @duttonDuttonOrthopaedicExamination2020
+- Milgram's test @duttonDuttonOrthopaedicExamination2020
+- Posteroanterior pressure @duttonDuttonOrthopaedicExamination2020
+- Prone instability @duttonDuttonOrthopaedicExamination2020
+- Anterior stability test @duttonDuttonOrthopaedicExamination2020
+- Lateral stability test @duttonDuttonOrthopaedicExamination2020
+- Hip abduction test @duttonDuttonOrthopaedicExamination2020
+- Passive lumbar extension test @duttonDuttonOrthopaedicExamination2020
+- Passive lumbar extension test @duttonDuttonOrthopaedicExamination2020

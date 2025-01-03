@@ -1,0 +1,19 @@
+---
+title: Sternothyroid muscle
+---
+
+
+
+
+# Origin {#origin}
+
+# Insertion {#insertion}
+
+# Innervation {#innervation}
+
+# Action {#action}
+
+
+::: {.callout-note}
+The sternothyroid muscle serves as an active stabilizer of the [sternoclavicular joint]({{< var ref-sternoclavicular-joint.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+:::

@@ -1,0 +1,287 @@
+---
+title: Nutrition & Lifestyle Recommendations
+---
+
+
+::: {.callout-caution title="Disclaimer"}
+The lifestyle recommendations provided in this document are based on current scientific and clinical information. They are intended for educational purposes only and should not be considered comprehensive of all proper treatments or methods of care. These recommendations do not replace the independent professional judgment of the treating healthcare provider, who should consider individual patient variations. Always consult with your healthcare provider before making any changes to your treatment plan!
+:::
+
+
+# Fat
+
+According to Lehninger, the optimal dietary ratio of omega-6 to omega-3 fatty acids in the diet ranges from 1:1 and 4:1 @nelsonLehningerPrinciplesBiochemistry2021.
+
+
+
+# Avoid Pesticides
+
+## Why
+
+- Pesticides have been shown to increase neuroinflammation [@weisChlorpyrifosPesticidePromotes2021; @mostafalouLinkOrganophosphorusPesticides2018]
+- Pesticide exposure increases the risk of developing many neurological disorders: Alzhiemers, Parkinsons, Multiple Sclerosis [@arabNeurotoxicityPesticidesContext2022]
+- Exposure to pesticides can worsen symptoms in Parkinson’s [@liProximityResidentialWorkplace2023]
+
+## How
+
+
+
+::: {.columns}
+::: {.column}
+
+{{< iconify dashicons food size=5x >}}
+
+:::
+::: {.column}
+### Food
+:::
+:::
+- Eat Organic foods (FDA approved to have less pesticides)
+
+
+
+
+
+
+::: {.columns}
+::: {.column}
+
+{{< iconify ion water-outline size=5x >}}
+
+:::
+::: {.column}
+### Water
+:::
+:::
+
+
+- Filter Water: In order to decrease contaminants (ie pesticides, trichlorethylene, heavy metals)
+- Do not drink well water (high in pesticides)
+- One example: Reverse Osmosis (RO) water filter with or without activated carbon filter
+- RO is effective at removing contaminants: 95% of heavy metals, pesticides, and other pollutants [@yuRemovalMetalsAssimilable2024]
+- Activated carbon filtering in combination with RO helps to absorb even more pesticides/pollutants [@schoonenbergkegelReverseOsmosisFollowed2010]
+- Important notes about RO: replacement of filters will be needed, need to re-add minerals as RO strips water of all minerals (even good ones): calcium/magnesium additions can also make the water taste better [@vingerhoedsSensoryQualityDrinking2016], consider high quality ROs that do not leach PFAS from their membranes (PFAS are harmful as they are forever chemicals that are neurotoxic and can lead to PD and other neurodegenerative diseases)- [@sadiaExploringPerfluoroalkylPolyfluoroalkyl2024], can also test water after to ensure function
+- Avoid use of household pesticides, use organic gardening methods
+- Do not frequently visit places with many pesticides such as:
+    - Golf courses [@bekkenNovelFrameworkEstimating2021]
+    - Agricultural areas
+    - Some soccer fields
+    - Even residential areas: gardens/lawns/parks/playgrounds can all spray pesticides @Pettigrove2022
+
+
+::: {.columns}
+::: {.column}
+
+{{< iconify material-symbols air size=5x >}}
+
+:::
+::: {.column}
+
+### Air
+
+:::
+:::
+
+
+To reduce inhalation exposure inside home : HEPA air filters-shown to reduce airborne pesticides
+In addition, AC filters can accumulate pesticides, so regular replacement of AC filters can be beneficial to decrease exposure [@jiaScreeningOrganophosphateEsters2023]
+American College of Allergy, Asthma + Immunology recommends replacement of AC filters every 3 months to reduce exposure to contaminants like pesticides 
+If exposure to pesticides is unavoidable: Masks/gloves can decrease exposure [@furlong2015]
+
+# Avoid Processed Meats, Eat Organic, Grass Fed Meats
+
+Consumption of processed meats is associated with higher inflammatory markers [@schwedhelmPlasmaInflammationMarkers2017]
+For Meat : choose organic, grass fed protein-higher anti inflammatory properties, more nutrient profiles [@ribas-agustiNutritionalPropertiesOrganic2019; @reynoldsConjugatedLinoleicAcidEnriched2009]
+
+# Food storage
+
+
+- Avoid PFAS chemicals
+    - These chemicals tend to be in some food packages like paper/plastic/coated metals. Opt for fresh, unprocessed foods and use glass/stainless steel containers for storage, stainless steel for cooking-avoid non-stick cookware [@phelpsPolyfluoroalkylSubstancesFood2024]
+- Limit Microplastics when you can 
+    - Micro/Nanoplastics can cause neuronal harm &rarr; neuroinflammation [@liMicroplasticsHumanBody2024]
+
+## How
+
+- Use water and shower filters
+- Avoid plastic containers
+- Limit use of plastic bags/packaging, use HEPA air filters, filter water, choose natural fibers like cotton, wool or silk for clothing/rugs/bed sheets/other textiles: synthetic fibers shed microplastics during washing/wear [@liMicroplasticsHumanBody2024; @fangMicroplasticIngestionAtmospheric2022]
+- Use Glass, Stainless steel for storage/cooking
+
+
+
+
+# Dry cleaning
+
+- Avoid Dry Cleaning Your Clothes
+- Use of chemicals in dry cleaning (ie trichloroethylene/PCE) can have neurotoxic effects
+    - Can cause neuroinflammation [@baleReviewPotentialNeurotoxic2011]
+
+## How
+
+- If doing laundry at home is not possible, opt for green laundry services 
+- Choose services that disclose ingredients in cleaning products
+- Look for “Green Seal” or “EPA Safer Choice” certifications
+    - These mean that they use non toxic chemicals! 
+
+# Laundry
+
+## Why
+
+- Avoid certain chemicals
+- Chlorine bleach can generate carbon tetrachloride (known neurotoxicant) [@odabasiHalogenatedVolatileOrganic2008]
+- Certain laundry detergents containing sodium dodecyl sulfate (SDS) can induce inflammation  [@rinaldiHouseholdLaundryDetergents2024].
+- *Methylisothiazolinone* is also neurotoxic and can lead to neuronal damage [@duVitroNeurotoxicityMethylisothiazolinone2002]
+
+## What to do differently
+
+- Environment Working Group (EWG) has a [website](https://www.ewg.org/cleaners/) that ranks items from laundry to makeup based on toxicity levels and is a good resource for finding what brand works best for you (look for EWG verified for the best ones) 
+- Other options:
+    - Hydrogen peroxide is an effective/safe alternative to bleach
+    - Detergents free from SDS or other harsh surfactants can be used
+    - Look for those certified by Green Seal or EPA safer choice
+    - Baking Soda and Vinegar are also safe laundry alternatives that have antimicrobial properties
+
+
+# Dishwashing
+
+- Avoid alcohol ethoxylates (e.g. *Laureth*) - they elicit a strong toxic/gut epithelial barrier damaging effect @ogulur2022.
+- This damage can lead to “leaky gut” associated with chronic inflammatory diseases. Check the ingredients - many common brands like dawn, palmolive, ajax, use these. 
+Castile soaps could be a good option (esp w/ no fragrance).
+
+::: {.callout-tip}
+check EWG's website [here](https://www.ewg.org/cleaners/) for a list of non toxic brands
+:::
+
+
+
+# Makeup, Sunscreen, & Skincare
+
+- Certain Chemicals can lead to inflammation
+- One such one is BP-3 which can lead to neuroinflammation [@maciejskaMechanismMicroglialCell2023]
+- For healthier alternatives: EWG's website [here](https://www.ewg.org/cleaners/) ranks and verifies products based on toxicity
+
+
+# Avoid Heavy Metals
+
+- Welding/Mining/Smelting
+- Avoid exposure to heavy metals (e.g. [manganese]({{< var ref-manganese.path >}})): avoid being near welding/mining/smelting [@huangImpactEnvironmentalRisk2022].
+- Inhalation of these fumes can lead to dopaminergic neurotoxicity/mitochondrial dysfunction [@huangImpactEnvironmentalRisk2022]
+
+# Get Good Sleep!
+
+- Create a regular sleep schedule, avoid stimulants like caffeine before bed
+- Exercise! High intensity exercises can help improve sleep quality (Min et al, 2021), Yoga/Tai chi can reduce stress/improve sleep as well
+- Avoid screens or use blue light blocking glasses while watching screens at night 
+- They help increase melatonin levels and improve sleep quality (Hester et al, 2021)
+
+
+# Avoid Synthetic Food Dyes
+
+
+Avoid:
+
+- [Tartazine (Yellow no. 5)]({{< var ref-yellow5.path >}})
+- [Erythrosine (Red no. 3)]({{< var ref-red3.path >}})
+- [Allura Red RC (Red no. 40)]({{< var ref-red40.path >}})
+- Others
+
+Neurotoxic + inflammatory [@damotharanBiochemicalProcessesMediating2024]
+
+
+
+# Limit Alcohol Consumption
+
+
+Reducing alcohol intake can help manage blood pressure and reduce risk of further health complications
+
+# Limit Smoking or Vaping
+
+Quitting smoking can reduce disease progression/improve overall health
+
+# Insulin Sensitivity 
+Diet balanced in vegetables, fruits, whole grains, proteins can enhance insulin sensitivity and reduce inflammation (Mirabelli et al, 2020)
+Avoid: sugary beverages/foods, highly processed foods, trans fats, refined grains like white bread/pastries as they can spike blood glucose (Giugliano et al, 2006)
+
+
+# Probiotic Consumption! 
+Have been shown to reduce inflammation and improve the gut-brain axis (Kesika et al, 2021)(Kim et al, 2023)
+Some examples include fermented foods like:  Yogurt, Kefir, Sauerkraut, Kimchi, Miso, Tempeh, Pickles, Kombucha
+
+
+# Stress
+Chronic stress can negatively impact neurological health (Santiago et al, 2023)
+Mindfulness techniques, meditation, exercises, socializing are all ways in which you can decrease stress levels
+
+
+
+# Social Engagement
+Social connections and engaging in cognitive activities can preserve cognitive function and improve quality of life! (Santiago et al, 2023)
+Join a group fitness class, book club, etc!
+
+# Hydration
+
+
+2 Liters or 8 cups a day
+
+# Vitamin D/Sun Exposure
+To maintain adequate vitamin D levels (Elliott et al, 2024)
+5-10 min in summer, 35% of body exposed
+45 min in winter, 10% of body exposed 
+
+# WEAR SUNSCREEN 
+
+- Note sunscreen does not inhibit Vitamin D synthesis (Young et al, 2019)
+
+
+
+
+
+# Citations
+
+
+American College of Allergy, Asthma and Immunology https://acaai.org/allergies/management-treatment/living-with-allergies/air-filters/ Bale AS, Barone S Jr, Scott CS, Cooper GS. A review of potential neurotoxic mechanisms among three chlorinated organic solvents. Toxicol Appl Pharmacol. 2011;255(1):113-126. doi:10.1016/j.taap.2011.05.008
+
+
+
+
+
+
+
+
+
+
+
+Yoritaka A, Takanashi M, Hirayama M, Nakahara T, Ohta S, Hattori N. Pilot study of H₂ therapy in Parkinson's disease: a randomized double-blind placebo-controlled trial. Mov Disord. 2013;28(6):836-839. doi:10.1002/mds.25375
+
+Fujita K, Seike T, Yutsudo N, et al. Hydrogen in drinking water reduces dopaminergic neuronal loss in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine mouse model of Parkinson's disease. PLoS One. 2009;4(9):e7247. Published 2009 Sep 30. doi:10.1371/journal.pone.0007247
+
+
+
+
+
+
+
+
+Hester L, Dang D, Barker CJ, et al. Evening wear of blue-blocking glasses for sleep and mood disorders: a systematic review. Chronobiol Int. 2021;38(10):1375-1383. doi:10.1080/07420528.2021.1930029
+
+Min L, Wang D, You Y, Fu Y, Ma X. Effects of High-Intensity Interval Training on Sleep: A Systematic Review and Meta-Analysis. Int J Environ Res Public Health. 2021;18(20):10973. Published 2021 Oct 19. doi:10.3390/ijerph182010973
+
+
+
+
+Giugliano D, Ceriello A, Esposito K. The effects of diet on inflammation: emphasis on the metabolic syndrome. J Am Coll Cardiol. 2006;48(4):677-685. doi:10.1016/j.jacc.2006.03.052
+
+Mirabelli M, Chiefari E, Arcidiacono B, et al. Mediterranean Diet Nutrients to Turn the Tide against Insulin Resistance and Related Diseases. Nutrients. 2020;12(4):1066. Published 2020 Apr 12. doi:10.3390/nu12041066
+
+Kesika P, Suganthy N, Sivamaruthi BS, Chaiyasut C. Role of gut-brain axis, gut microbial composition, and probiotic intervention in Alzheimer's disease. Life Sci. 2021;264:118627. doi:10.1016/j.lfs.2020.118627
+
+Kim CS, Jung S, Hwang GS, Shin DM. Gut microbiota indole-3-propionic acid mediates neuroprotective effect of probiotic consumption in healthy elderly: A randomized, double-blind, placebo-controlled, multicenter trial and in vitro study. Clin Nutr. 2023;42(6):1025-1033. doi:10.1016/j.clnu.2023.04.001
+
+Santiago JA, Potashkin JA. Physical activity and lifestyle modifications in the treatment of neurodegenerative diseases. Front Aging Neurosci. 2023;15:1185671. Published 2023 May 26. doi:10.3389/fnagi.2023.1185671
+
+Elliott TM, Gordon LG, Webb A, Kift R, Foeglein A, Neale RE. Making the sunshine vitamin - How much sun exposure is needed to maintain 25-hydroxy vitamin D concentration?. Photochem Photobiol. 2024;100(3):746-755. doi:10.1111/php.13854
+
+Young AR, Narbutt J, Harrison GI, et al. Optimal sunscreen use, during a sun holiday with a very high ultraviolet index, allows vitamin D synthesis without sunburn. Br J Dermatol. 2019;181(5):1052-1062. doi:10.1111/bjd.17888
+
+

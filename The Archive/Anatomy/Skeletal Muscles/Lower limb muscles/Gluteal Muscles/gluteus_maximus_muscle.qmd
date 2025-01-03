@@ -72,6 +72,8 @@ The gluteus maximus muscle is innervated by nerve roots [L5]({{< var ref-nerve-r
 - Lower fibers: Hip adduction @gilroyAtlasAnatomy2020 
 
 
+At &ge;60&deg; hip flexion, the *upper fibers* of the gluteus maximus switch and produce an *internal rotation* torque @neumannKinesiologyMusculoskeletalSystem2017.
+
 # Biomechanics
 
 The moment arm of the gluteus maximus decreases as the hip moves into flexion @neumannKinesiologyMusculoskeletalSystem2017.

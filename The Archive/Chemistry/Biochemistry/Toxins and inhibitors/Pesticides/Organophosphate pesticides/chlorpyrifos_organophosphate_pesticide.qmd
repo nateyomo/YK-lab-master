@@ -1,0 +1,34 @@
+---
+title: Chlorpyrifos (CPF)
+subtitle: Organophosphate Pesticide
+---
+
+
+
+CPF is particularly hazardous to humans since it can cross the blood-brain barrier @weisChlorpyrifosPesticidePromotes2021.
+
+
+CPF exposure has been demonstrated to be poisonous to humans whether it is through dietary intake, inhalation, or dermal absorption @weisChlorpyrifosPesticidePromotes2021
+
+
+
+CPF residues and therefore exposure is commonly detected on the outside of vegetables, fruits, grains, and water sources @weisChlorpyrifosPesticidePromotes2021.
+In addition, CPF residue concentrations frequently exceed the acute reference dose @weisChlorpyrifosPesticidePromotes2021.
+
+
+
+# Pathophysiology
+
+## Blood-brain barrier vulnerability
+Evidence suggests that CPF can cause harm by crossing the BBB and then subsequently worsening the integrity and increasing the permeability of the BBB @weisChlorpyrifosPesticidePromotes2021.
+This results in increased vulnerability to free radicals, resulting in morphological and functional alterations in the CNS @weisChlorpyrifosPesticidePromotes2021.
+
+## AChE inhibition
+
+*CPF* is hypothesized to impact cholinergic neurotransmission through inhibition of acetylcholinesterase activity (AChE) in the brain @weisChlorpyrifosPesticidePromotes2021.
+
+## Neuroinflammation
+
+Exposure to organophosphate pesticides, including CPF, is linked to neuroinflammation, which is a key step in the pathogenesis of neurodegenerative diseases @weisChlorpyrifosPesticidePromotes2021.
+
+

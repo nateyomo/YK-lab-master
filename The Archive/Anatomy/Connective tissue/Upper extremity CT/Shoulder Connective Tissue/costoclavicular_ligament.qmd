@@ -1,0 +1,31 @@
+---
+title: Costoclavicular ligament
+---
+
+
+The *costoclavicular ligament* is a passive stabilizer of the [sternoclavicular joint]({{< var ref-sternoclavicular-joint.path >}})
+
+
+# Anatomy
+
+The *costoclavicular ligament* extends from the 1st rib cartilage to the [costal tuberosity]({{< var ref-clavicle-bone.costal-tuberosity >}}) on the inferior aspect of the clavicle @neumannKinesiologyMusculoskeletalSystem2017.
+
+The ligament can be anatomically divided into 2 bundles:
+
+1. Anterior bundle
+1. Posterior bundle
+
+The *anterior bundle* and *posterior bundle* run perpendicular to eachother @neumannKinesiologyMusculoskeletalSystem2017.
+The anterior bundle runs obliquely in a superolateral direction, while the *posterior bundle* runs in a posteromedial direction @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+
+# Function
+
+
+Since the fibers run in perpendicular directions, this allows the ligament as a whole to assist in stabilization of all sternoclavicular movements (elevation, protraction, retraction) except depression @neumannKinesiologyMusculoskeletalSystem2017.
+
+- Both the anterior and posterior bundles resist end range elevation @neumannKinesiologyMusculoskeletalSystem2017.
+- The anterior bundle resists elevation and retraction @neumannKinesiologyMusculoskeletalSystem2017.
+- The posterior bundle resists endrange elevation and protraction @neumannKinesiologyMusculoskeletalSystem2017.
+

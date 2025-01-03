@@ -31,7 +31,6 @@ flowchart TD
 
 ```
 
-
 ![Central Olfactory Structures](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig18.6 central olfactory structures blumenfeldNeuroanatomyClinicalCases2022.png)
 
 

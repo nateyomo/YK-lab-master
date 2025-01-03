@@ -2,7 +2,6 @@
 title: Piriformis Muscle
 ---
 
-# Overview
 
 ```{python tbl-oian}
 #| label: tbl-oian-piriformis
@@ -53,8 +52,11 @@ Direct branches from sacral plexus [S1]({{< var ref-nerve-root.s1 >}}) and [S2](
 
 # Action {#action}
 
-- Hip: External rotation, abduction, and extension of the hip joint
-- Stabilizes the hip joint
+According to Gilroy @gilroyAtlasAnatomy2020, the piriformis functions in External rotation, abduction, extension and stabilization of the hip joint.
+
+This is only partly true.
+
+At &ge;60&deg; hip flexion, the piriformis produces an internal rotation torque @neumannKinesiologyMusculoskeletalSystem2017.
 
 
 # Anatomy

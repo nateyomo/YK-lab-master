@@ -62,6 +62,6 @@ The gluteus maximus muscle is innervated by nerve roots [L4]({{< var ref-nerve-r
 - Anterior fibers: flexion and internal rotation @gilroyAtlasAnatomy2020 
 - Posterior fibers: extension and external rotation @gilroyAtlasAnatomy2020 
 
- 
+ At &ge;60&deg; hip flexion, the *posterior fibers* of the gluteus minimus switch and produce an *internal rotation* torque @neumannKinesiologyMusculoskeletalSystem2017.
 
 

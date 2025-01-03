@@ -3,3 +3,39 @@ title: Lumbar Spine ROM testing
 ---
 
 
+::: {#tbl-lumbar-rom}
+
+<table class="basic-table">
+  <thead>
+    <tr>
+      <th>Movement</th>
+      <th>Range (&deg;)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Flexion</td>
+      <td>70–90&deg;</td>
+    </tr>
+    <tr>
+      <td>Extension</td>
+      <td>30–50&deg;</td>
+    </tr>
+    <tr>
+      <td>Side bending</td>
+      <td>25–35&deg;</td>
+    </tr>
+    <tr>
+      <td>Axial rotation</td>
+      <td>20–40&deg;</td>
+    </tr>
+    <tr>
+      <td colspan="2">**Source**: @duttonDuttonOrthopaedicExamination2020</td>
+    </tr>
+  </tbody>
+</table>
+
+Lumbar Spine Active Range of Motion
+
+
+:::

@@ -1,0 +1,12 @@
+{
+  "hash": "3d9a73cbc38e741092b18c73b43bc911",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Shoulder Internal Rotator muscles\n---\n\n::: {#tbl-ghj-ir-oian .cell message='false' tbl-cap='Glenohumeral Internal Rotator muscles' execution_count=1}\n\n::: {.cell-output .cell-output-stdout}\n```\nWarning: No 'path' link found for variable 'ref-anterior-deltoid' in YAML data.\nWarning: No 'origin' link found for variable 'ref-anterior-deltoid' in YAML data.\nWarning: No 'origin' link found for variable 'ref-anterior-deltoid' in YAML data.\nWarning: No 'origin' link found for variable 'ref-anterior-deltoid' in YAML data.\nError parsing YAML file: while scanning a quoted scalar\n  in \"/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml\", line 3078, column 9\nfound unexpected end of stream\n  in \"/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml\", line 3078, column 69\nWarning: No 'origin' link found for variable 'ref-biceps-brachii-short-head' in YAML data.\nError processing the Excel file: 'NoneType' object has no attribute 'get'\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "shoulder_internal_rotators_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

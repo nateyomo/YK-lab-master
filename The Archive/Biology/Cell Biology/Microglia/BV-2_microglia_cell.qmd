@@ -1,0 +1,10 @@
+---
+title: BV-2 Microglia
+---
+
+
+BV-2 microglial cell line was derived from the immortalized murine neonatal microglia @weisChlorpyrifosPesticidePromotes2021.
+BV-2 Microglial cells are used frequently by *in vitro* models in order to study brain inflammation as a **substitute** for the primary microglia @weisChlorpyrifosPesticidePromotes2021.
+BV-2 Microglial cells are preferentially used for studies compared to primary microglia, due to the high fidelity of the BV-2 response @weisChlorpyrifosPesticidePromotes2021.
+
+

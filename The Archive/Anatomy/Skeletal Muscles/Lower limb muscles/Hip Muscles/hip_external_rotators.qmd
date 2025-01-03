@@ -24,6 +24,10 @@ title: Hip External Rotator Muscles
 
 :::
 
+::: {.callout-note}
+Some of the external rotator muscles, such as the gluteus medius (posterior fibers), piriformis, gluteus maximus (upper fibers), and gluteus minimus (posterior fibers), switch actions and act as internal rotators when the hip is flexed about &ge;60&deg; @neumannKinesiologyMusculoskeletalSystem2017.
+:::
+
 # Primary
 
 ```{python tbl-primary-hip-external-rotators-oian}

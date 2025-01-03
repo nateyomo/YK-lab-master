@@ -52,7 +52,7 @@
         <tr class="branchial-color">
             <td rowspan="4">Branchial motor</td>
             <td rowspan="4">Special visceral efferent</td>
-            <td rowspan="4">[Muscles of mastication]({{< var ref-mastication-muscles.path >}}), Facial expression, Middle ear, Pharynx, Larynx, Sternomastoid, [Upper trapezius]({{< var ref-upper-trapezius.innervation >}})</td>
+            <td rowspan="4">[Muscles of mastication]({{< var ref-mastication.muscles >}}), Facial expression, Middle ear, Pharynx, Larynx, Sternomastoid, [Upper trapezius]({{< var ref-upper-trapezius.innervation >}})</td>
             <td>[Trigeminal motor]({{< var ref-trigeminal-motor-nucleus.path >}})</td>
             <td>[CN V]({{< var ref-cn5.path >}})</td>
         </tr>
@@ -93,7 +93,7 @@
         <tr class="visceral-sensory-color">
             <td>Visceral sensory</td>
             <td>Special visceral afferent</td>
-            <td>Taste</td>
+            <td>[Taste]({{< var ref-taste.path >}}) </td>
             <td>[Nucleus solitarius (rostral portion)]({{< var ref-nucleus-solitarius.path >}})</td>
             <td>CN [VII]({{< var ref-cn7.path >}}), [IX]({{< var ref-cn9.path >}}), [X]({{< var ref-cn10.path >}})</td>
         </tr>

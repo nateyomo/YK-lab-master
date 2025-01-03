@@ -40,10 +40,29 @@ else:
 
 ```
 
-# Origin {#origin}
+::: {.callout}
+
+Middle trapezius AKA *Transverse part* of the trapezius
+
+:::
+
+# Origin
+
+Aponeurosis at T1–T4 SP @gilroyAtlasAnatomy2020
+
 
 # Insertion {#insertion}
 
+[Acromion of Scapula]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
+
 # Innervation {#innervation}
 
+- **Motor**: [CN XI Accessory n.]({{< var ref-cn11.path >}}) ([C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) @brazisLocalizationClinicalNeurology2022
+- **Proprioception**: Cervical plexus ([C2]({{< var ref-nerve-root.c2 >}}), [C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) @gilroyAtlasAnatomy2020
+
 # Action {#action}
+
+- Scapular retraction @gilroyAtlasAnatomy2020
+- Stabilize the scapula during upward rotation @gilroyAtlasAnatomy2020
+    - Stabilizes the serratus anterior during upward rotation by counteracting the protraction Serratus Anterior @gilroyAtlasAnatomy2020
+

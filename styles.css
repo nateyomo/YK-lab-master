@@ -174,7 +174,7 @@ cite a {
 .oian-table {
     width: 100%;
     border-collapse: collapse;
-    font-size: 14px; /* Adjust to your desired size */
+    font-size: 12.5px; /* Adjust to your desired size */
   }
 
   .oian-table th, .oian-table td {

@@ -228,6 +228,65 @@ def process_oian_table(filter_column=None, filter_identifiers=None):
         print("Excel file does not exist. Please check the path.")
         return None
 
+
+def process_functional_unit_table(filter_column=None, filter_identifiers=None):
+    """
+    Process an Excel file to create an HTML table of muscle OIAN data.
+
+    Args:
+        filter_column (str): The column to filter the data by.
+        filter_identifiers (list): The values to include in the filter.
+
+    Returns:
+        str: An HTML table representation of the processed data.
+    """
+    base_dir = here()
+    excel_path = base_dir / "yk_tables.xlsx"
+    
+    if excel_path.exists():
+        try:
+            # Step 1: Read the Excel file into a DataFrame
+            df = pd.read_excel(excel_path, sheet_name='OIAN', header=0)
+
+            # Step 2: Use process_muscle_data to filter and get YAML identifiers
+            df, yaml_identifiers = process_muscle_data(df, filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+            # Step 3: Format and hyperlink muscle name
+            df['name_final'] = df.apply(
+                lambda row: f'<a href="{get_link(row["variable_yaml"], "path")}">{row["name_text"]}</a>' 
+                if pd.notna(row["name_text"]) and row["name_text"] and row["variable_yaml"] else '', 
+                axis=1
+            )
+
+            # Step 4: Format columns
+            df['synergist_final'] = df.apply(
+                lambda row: format_origin(row['muscle_identifier'], yaml_identifiers.get(row['muscle_identifier'], None), df), axis=1
+            )
+            df['antagonist_final'] = df.apply(
+                lambda row: format_insertion(row['muscle_identifier'], yaml_identifiers.get(row['muscle_identifier'], None), df), axis=1
+            )
+
+            # Step 6: Rename the columns
+            aggregated_df.rename(columns={
+                'functional_unit_action_text': 'Action',
+                'synergist_final': 'Synergists',
+                'antagonist_final': 'Antagonists'
+            }, inplace=True)
+
+            # Step 7: Create the final HTML table
+            functional_unit_table = aggregated_df[['Muscle', 'Origin', 'Insertion', 'Innervation', 'Action']].to_html(
+                classes='oian-table', index=False, escape=False
+            )
+            return functional_unit_table
+        except Exception as e:
+            print(f"Error processing the Excel file: {e}")
+            return None
+    else:
+        print("Excel file does not exist. Please check the path.")
+        return None
+
+
+
 if __name__ == "__main__":
     # Example usage
     filter_column = 'muscle_identifier'  # Column to filter by

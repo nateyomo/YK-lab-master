@@ -1,7 +1,7 @@
 ---
 title: Trapezius Muscles
 ---
-# Overview
+
 
 ```{python tbl-oian}
 #| label: tbl-oian
@@ -39,69 +39,24 @@ else:
 
 ```
 
-# Upper Trapezius
-AKA Descending part of the trapezius
 
-## Origin: 
+# Palpation
 
-- [Occipital bone]({{< var ref-occipital-bone.path >}}) @gilroyAtlasAnatomy2020
-- SP of C1–C7 @gilroyAtlasAnatomy2020
+The trapezius is the muscle most commonly found to have constrictions and/ or trigger point activity. To locate the trapezius, identify the following structures:
 
-## Insertion {#insertion}:
+- [Clavicle]({{< var ref-clavicle-bone.palpation >}})
+- Spine of the scapula
 
-[Clavicle (lateral one third)]({{< var ref-clavicle-bone.path >}}) @gilroyAtlasAnatomy2020
+Bony prominence of the upper scapula bounded laterally by the acromion, which forms the lateral tip of the shoulder girdle, and medially by the root of the spine of the scapula, the flattened, triangular surface located on a horizontal line with the spinous process of T3. 
 
-## Nerve: 
+External occipital protuberance—Locate the base of the skull at the midline, just superior to the cervical spinous processes. Moving superiorly from the midline onto the skull, you come to the external occipital protuberance. Its most prominent protrusion is called the inion, or the “bump of knowledge.” Move laterally from the external occipital protuberance to palpate the superior nuchal lines, short transverse ridges that may or may not be palpable. 
 
-- **Motor**: [CN XI Accessory n.]({{< var ref-cn11.path >}}) ([C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) @brazisLocalizationClinicalNeurology2022
-- **Proprioception**: Cervical plexus ([C2]({{< var ref-nerve-root.c2 >}}), [C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) @gilroyAtlasAnatomy2020
-
-## Action {#action}
-
-- **Scapula**: Elevation, Upward rotation @gilroyAtlasAnatomy2020
-- **Neck**: I/L sidebend and C/L rotation @gilroyAtlasAnatomy2020
-
-
-
-# Middle Trapezius OIAN
-AKA Transverse part of the trapezius
-
-## Origin
-
-Aponeurosis at T1–T4 SP @gilroyAtlasAnatomy2020
-
-
-## Insertion {#insertion}:
-
-[Acromion of Scapula]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
-
-## Nerve: 
-
-- **Motor**: [CN XI Accessory n.]({{< var ref-cn11.path >}}) ([C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) @brazisLocalizationClinicalNeurology2022
-- **Proprioception**: Cervical plexus ([C2]({{< var ref-nerve-root.c2 >}}), [C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) @gilroyAtlasAnatomy2020
-
-## Action
-
-- Scapular retraction @gilroyAtlasAnatomy2020
-- Stabilize the scapula during upward rotation @gilroyAtlasAnatomy2020
-    - Stabilizes the serratus anterior during upward rotation by counteracting the protraction Serratus Anterior @gilroyAtlasAnatomy2020
+[Nuchal ligament]({{< var ref-nuchal-ligament.palpation >}}) —If the patient elongates his spine by pulling the crown of the head up and dropping the chin in toward the throat, you will be able to palpate the cordlike nuchal ligament connecting the spinous processes of each of the cervical vertebrae. When the patient is relaxed the nuchal ligament will not be readily palpable. Spinous processes of C1–T12—Carefully differentiate each of the cervical and thoracic vertebrae, understanding that C1 spinous process cannot be palpated.
 
 
 
 
-# Lower Trapezius OIAN
 
-## Origin
-SP of T5–T12 @gilroyAtlasAnatomy2020
 
-## Insertion {#insertion}
 
-[Scapular Spine]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
 
-## Nerve: 
-- **Motor**: [CN XI Accessory n.]({{< var ref-cn11.path >}}) ([C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) @brazisLocalizationClinicalNeurology2022
-- **Proprioception**: Cervical plexus ([C2]({{< var ref-nerve-root.c2 >}}), [C3]({{< var ref-nerve-root.c3 >}}), [C4]({{< var ref-nerve-root.c4 >}})) @gilroyAtlasAnatomy2020
-
-## Action
-
-**STJ**: Retraction, Depression, Upward Rotation @gilroyAtlasAnatomy2020

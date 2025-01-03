@@ -1,0 +1,5 @@
+---
+title: Anterior sternoclavicular joint ligament
+---
+
+Passive stabilizer of the [sternoclavicular joint]({{< var ref-sternoclavicular-joint.path >}}) @neumannKinesiologyMusculoskeletalSystem2017.

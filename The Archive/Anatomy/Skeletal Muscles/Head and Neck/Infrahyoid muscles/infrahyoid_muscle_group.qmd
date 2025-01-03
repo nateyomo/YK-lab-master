@@ -9,12 +9,18 @@ INFRAHYOID muscles - sternohyoid, sternothyroid, thyrohyoid, omohyoid (inferior 
 - help with speech, [swallowing]({{< var ref-swallowing.path >}}), and tongue movements
 
 
+- Sternohyoid
+- Sternothyroid
+- Thyrohyoid
+- Omohyoid
 
-```{python tbl-oian}
-#| label: tbl-oian-inferior-gemellus
+
+```{python tbl-infrahyoid-muscle-group-oian}
+#| label: tbl-infrahyoid-muscle-group-oian
 #| warning: false
 #| message: false
 #| echo: false
+#| tbl-cap: Infrahyoid muscle group
 
 from pathlib import Path
 import pandas as pd

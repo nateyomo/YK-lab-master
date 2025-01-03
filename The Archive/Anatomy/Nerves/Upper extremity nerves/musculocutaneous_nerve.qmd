@@ -9,11 +9,13 @@ The musculocutaneous nerve (Fig. 3-10) is the terminal branch of the lateral cor
 # Anatomy
 
 # Origin {#origin}
+
 The [musculocutaneous nerve]({{< var ref-musculocutaneous-nerve.path >}}) arises from the terminal branch of the [lateral cord]({{< var ref-brachial-plexus.lateral-cord >}}) which comes from anterior divisions of the [Superior trunk]({{< var ref-brachial-plexus.superior-trunk >}}) and [middle trunk]({{< var ref-brachial-plexus.middle-trunk >}}) and thus is supplied by nerve roots {{< var ref-musculocutaneous-nerve.roots >}} @duttonDuttonOrthopaedicExamination2020.
 
 ![Musculocutaneous nerve @duttonDuttonOrthopaedicExamination2020](/The Archive/Anatomy/Nerves/Upper extremity nerves/images/Dutton fig3.10 The musculocutaneous (C5–6) nerve.png)
 
-## Path
+# Path
+
 After arising from the [lateral cord]({{< var ref-brachial-plexus.lateral-cord >}}) of the brachial plexus at the level of [coracoid process]({{< var ref-scapula-bone.coracoid-process >}}) and proceeds caudally and laterally @duttonDuttonOrthopaedicExamination2020. 
 As it travels caudally and laterally down the arm, the musculocutaneous nerve gives branches to the coracobrachialis, before penetrating this muscle 3–8 cm below the [coracoid process]({{< var ref-scapula-bone.coracoid-process >}}) @duttonDuttonOrthopaedicExamination2020.
 The nerve then runs through and supplies, the biceps brachii and partially innervates brachialis muscles, before emerging between the biceps brachii and the brachioradialis muscles 2–5 cm above the elbow @duttonDuttonOrthopaedicExamination2020. 
@@ -24,27 +26,41 @@ After emerging between the biceps and brachioradialis (2-5cm above the elbow), t
 # Innervation {#innervation}
 ## Motor innervation
 
-```{r}
-#| echo: false
+```{python tbl-musculocutaneous-nerve-oian}
+#| label: tbl-musculocutaneous-nerve-oian
 #| warning: false
 #| message: false
+#| echo: false
+#| tbl-cap: "Muscles innervated by Musculocutaneous n."
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "innervation_identifier"  # or "group_identifier"
-filter_patterns <- "musculocutaneous_nerve"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Musculocutaneous n. Muscle Innervations"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'innervation_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['musculocutaneous_nerve']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
 
 ## Cutaneous Innervation
@@ -53,7 +69,16 @@ The Musculocutaneous nerve becomes the
 
 
 
-# Injury
+# Dysfunction
+
+- Coracobrachialis entrapment @duttonDuttonOrthopaedicExamination2020
+
+# Lesion
+
+- **Muscular impact** Coracobrachialis, biceps brachii, and brachialis
+- **Impact**: Weak elbow flexion with forearm supinated @duttonDuttonOrthopaedicExamination2020
+
+# Etiology
 
 ## Atraumatic
 

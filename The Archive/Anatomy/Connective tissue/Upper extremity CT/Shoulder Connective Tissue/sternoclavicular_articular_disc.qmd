@@ -1,0 +1,23 @@
+---
+title: Sternoclavicular Articular disc
+---
+
+Passive stabilizer of the [sternoclavicular joint]({{< var ref-sternoclavicular-joint.path >}}) @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+# Anatomy
+
+Based on cadaveric studies, the *sternoclavicular articular disc* is only "fully formed" in 50% of individuals @neumannKinesiologyMusculoskeletalSystem2017.
+"Fully formed" is defined as extending across the joint and separating the joint into a medial and lateral joint cavities @neumannKinesiologyMusculoskeletalSystem2017.
+
+In general, the *articular disc* is flattened and is attached inferiorly on the lateral aspect of the [clavicular facet]({{< var ref-clavicle-bone.clavicular-facet >}}) and superiorly on the sternal end of the clavicle as well as the [interclavicular ligament]({{< var ref-interclavicular-ligament.path >}}) @neumannKinesiologyMusculoskeletalSystem2017. 
+Lastly, the outer edge of the disc is attached to the internal surface of the sternoclavicular joint capsule @neumannKinesiologyMusculoskeletalSystem2017.
+
+# Histology
+The sternoclavicular articular disc is composed of [fibrocartilage]({{< var ref-fibrocartilage.path >}})
+
+# Function
+
+The *articular disc* functions to strengthen the articulation and assist in shock absorption by increasing joint contact @neumannKinesiologyMusculoskeletalSystem2017.
+The increased shock absorption is so effective that degenerative arthritis is rare at this joint @neumannKinesiologyMusculoskeletalSystem2017.
+

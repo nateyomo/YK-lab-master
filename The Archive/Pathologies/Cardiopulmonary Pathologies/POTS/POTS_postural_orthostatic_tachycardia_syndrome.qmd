@@ -1,0 +1,410 @@
+---
+title: Postural Orthostatic Tachycardia Syndrome (POTS)
+---
+
+# Definition
+
+Must last at least 6 months and characterized by:
+
+1. An Increase in HR >=30 BPM within 5-10 min of quiet standing or upright tilt (or >=40 bpm in those 12-19 years old) @bryarlyPosturalOrthostaticTachycardia2019.
+1. The absence of orthostatic hypotension (>20 mmHg drop in systolic or >10 mmHg drop in diastolic) @bryarlyPosturalOrthostaticTachycardia2019.
+1. Frequent symptoms that occur with standing such as lightheadedness, palpitations, tremulousness, generalized weakness, blurred vision, exercise intolerance, fatigue @bryarlyPosturalOrthostaticTachycardia2019.
+
+
+
+# Epidemiology
+
+- Typically young women (mean age 30 years) @bryarlyPosturalOrthostaticTachycardia2019.
+- Most frequently preceded by symptoms of viral illness (~42%) or can occur post operatively (~9.5%) @bryarlyPosturalOrthostaticTachycardia2019.
+- Usually a stressor will precipitate symptom onset: trauma, pregnancy, virus, or surgery @bryarlyPosturalOrthostaticTachycardia2019.
+- A period of deconditioning (i.e. bedrest, decrease in activity) correlating with onset of POTS is debated-deconditioning could be a cardiac trigger or just something seen after diagnosis and thus a period of inactivity d/t symptoms @blitshteynPosturalTachycardiaSyndrome2016.
+- Average HR increase from supine to upright of ~44BPM
+POTS onset can be subacute (14%), insidious (6%) or acute (12%) @bryarlyPosturalOrthostaticTachycardia2019.
+
+
+# Symptoms
+
+::: {.callout-note}
+Patients will typically feel faint, but will likely **not** faint @bryarlyPosturalOrthostaticTachycardia2019.
+:::
+
+::: {.columns}
+::: {.column}
+
+- Fatigue @bryarlyPosturalOrthostaticTachycardia2019
+- Lightheadedness @bryarlyPosturalOrthostaticTachycardia2019
+- Palpitations @bryarlyPosturalOrthostaticTachycardia2019
+- Cognitive impairments @bryarlyPosturalOrthostaticTachycardia2019.
+
+:::
+::: {.column}
+
+- GI symptoms: 
+    - Nausea @bryarlyPosturalOrthostaticTachycardia2019.
+    - Abdominal pain @bryarlyPosturalOrthostaticTachycardia2019.
+- Bladder complaints (suprapubic pain) @bryarlyPosturalOrthostaticTachycardia2019.
+
+:::
+::: {.column}
+
+- Peripheral edema @bryarlyPosturalOrthostaticTachycardia2019
+- Acrocyanosis @bryarlyPosturalOrthostaticTachycardia2019
+- Clammy skin @bryarlyPosturalOrthostaticTachycardia2019
+- Joint hypermobility @bryarlyPosturalOrthostaticTachycardia2019
+- Changes in peripheral sensation @bryarlyPosturalOrthostaticTachycardia2019
+
+:::
+:::
+
+
+
+# Pathophysiology
+
+
+
+- True cause is unknown @benarrochPosturalTachycardiaSyndrome2012
+- Triggers can include:
+    - Pregnancy @benarrochPosturalTachycardiaSyndrome2012
+    - Major trauma @benarrochPosturalTachycardiaSyndrome2012
+    - Viral illness (especially + GI fluid loss) @benarrochPosturalTachycardiaSyndrome2012
+    - Prolonged bed rest @benarrochPosturalTachycardiaSyndrome2012
+- Causes sympathoexcitation @benarrochPosturalTachycardiaSyndrome2012
+- Standing up triggers activation of baroreflex and also a vestibulosympathetic reflex @benarrochPosturalTachycardiaSyndrome2012
+- Lack of readaptation of vestibulosympathetic response can cause → tachycardia @benarrochPosturalTachycardiaSyndrome2012
+- Subtypes have been identified and potential systems involved in each @benarrochPosturalTachycardiaSyndrome2012
+
+
+"impaired sympathetic vasoconstriction leading to venous pooling, hypovolemia, deconditioning, and hyperadrenergic state.
+Excessive reflex sympathoexcitation may be triggered by orthostatic stress via reduced baroreceptor input to the nucleus of the solitary tract (NTS) and activation of vestibulosympathetic reflexes (VSR) relayed via the medial vestibular nucleus (MVN), resulting in increased activity of sympathoexcitatory neurons of the rostral ventrolateral medulla. 
+Many comorbidities of POTS, including visceral pain and dysmotility, other chronic pain conditions, and dizziness may reflect abnormal processing of interoceptive information, relayed via the NTS and parabrachial nucleus (PBN) via the ventromedial portion of the thalamus to a central network that includes the anterior cingulate cortex, insula, amygdala, hypothalamus, and periaqueductal gray region." @benarrochPosturalTachycardiaSyndrome2012
+
+
+
+1. Standing up
+1. Decreased baroreceptor input/activation of vestibulosympathetic reflex
+1. Increased sympathetic drive 
+
+::: {.callout-note}
+Chronic pain pathways also involved
+:::
+
+
+
+# Subtypes
+
+```{python fig-subtype-frequency}
+#| message: false
+#| echo: false
+#| warning: false
+#| label: fig-subtype-frequency
+#| fig-cap: "plotly Subtypes [@angeliSymptomPresentationPhenotype2024]"
+
+import plotly.express as px
+import pandas as pd
+
+# Data for the bar chart
+data = {
+    "Subtype": ["Hyperadrenergic", "Hypovolemic", "Neuropathic", "2 subtypes", "3 subtypes"],
+    "Frequency (%)": [75, 44.9, 37.8, 41.7, 11.4]
+}
+df = pd.DataFrame(data)
+
+# Create horizontal bar chart
+fig = px.bar(
+    df,
+    x="Frequency (%)",
+    y="Subtype",
+    orientation="h",
+    color_discrete_sequence=["#212529"],  # Bar color
+    labels={"Frequency (%)": "Frequency (%)", "Subtype": "Subtypes"},
+)
+
+# Customize layout for better display
+fig.update_layout(
+    xaxis=dict(range=[0, 100]),  # Set X-axis range
+    template="plotly_white",     # Use light theme
+    title_x=0.5                  # Center the title
+)
+
+# Show the interactive plot
+fig.show()
+
+
+
+```
+
+@marPosturalOrthostaticTachycardia2020
+
+# Neuropathic Subtype
+
+Neuropathic POTs occurs when lower extremity sympathetic *denervation* results in reduced venoconstriction and therefore venous pooling [@bryarlyPosturalOrthostaticTachycardia2019; @zhaoPosturalOrthostaticTachycardia2024].
+This is usually caused by an autonomic neuropathy of lower limbs [@bryarlyPosturalOrthostaticTachycardia2019; @zhaoPosturalOrthostaticTachycardia2024].
+Since there is an inability to increase vascular tone in the lower extremity, these individuals experience an exaggerated heart rate (Tachycardia) and CO in an attempt to maintain mean arterial pressure (MAP) [@bryarlyPosturalOrthostaticTachycardia2019; @zhaoPosturalOrthostaticTachycardia2024]. 
+
+:::{.callout-note}
+This subtype generally has less anxiety, depression, greater overall self perceived health related QOL scores compared to other subtypes [@bryarlyPosturalOrthostaticTachycardia2019; @zhaoPosturalOrthostaticTachycardia2024].
+:::
+
+This subtype was proposed due to studies that found &gt;50% of the POTS cohort demonstrated anhidrosis (loss of sweat function) in distal lower extremities and reduced c-fiber density on skin biopsy [@zhaoPosturalOrthostaticTachycardia2024].
+In addition, POTS patients have been observed to have decreased norepinephrine "spillover" in their lower extremities despite normal *systemic* norepinephrine spillover [@zhaoPosturalOrthostaticTachycardia2024].
+The researchers believed that this difference was indicative of injuried terminal lower extremity nerves resulting in norepinephrine uptake dysfunction [@zhaoPosturalOrthostaticTachycardia2024].
+
+## Treatment Focus
+
+- Decrease blood pooling @zhaoPosturalOrthostaticTachycardia2024
+- Move blood back to heart + brain @zhaoPosturalOrthostaticTachycardia2024
+
+## Pharmacological intervention
+
+- Midodrine @zhaoPosturalOrthostaticTachycardia2024
+    - Alpha1-adrenergic agonist
+    - Constricts peripheral vessels, increasing venous return
+- Pyridostigmine @zhaoPosturalOrthostaticTachycardia2024
+
+
+# Hyperadrenergic Subtype {#hyperadrenergic}
+
+- In short: High Norepinephrine levels (Stress! Sympathetic system is overactivated!) @cite
+- Elevated standing plasma norepi levels &ge;600pg/mL + symptoms of increased sympathetic tone &rarr; causes sympathetic symptoms including: palpitations, tremors, HTN, anxiety, tachycardia @cite.
+
+:::{.callout-note}
+
+Common comorbidity with this type of POTS is MCAS (Wang et al, 2021) 
+Identifying and treating MCAS can help decrease POTS symptoms
+What is norepi?
+NT that regulates fight or flight – elevated BP /HR, stimulates wakefulness, reduces digestive activity
+EXCITATORY NT
+
+:::
+
+## Why does this happen?
+
+- NET (norepi transporter) deficiency or loss of function due to gene mutation &rarr; decreased NET protein content @lambertAlteredSympatheticNervous2008
+- Baroreflex failure or tumor in adrenal glands called pheochromocytoma @benarrochPosturalTachycardiaSyndrome2012.
+- NET block is frequently seen in pharm inhibition by meds like antidepressants. These are often useful in treating cognitive/depression effects of POTS, so one must insure pharmacy is not the reason for the POTS &rarr; high catecholamine levels.
+
+:::{.callout-note}
+
+Tx typically focuses on decreasing activity of sympathetic NS
+Meds include clonidine (CNS sympatholytic med that dec CNS tone)
+Beta blocker – prevents sympathetic activity PERIPHERALLY by blocking B adrenergic receptors bound by norepi
+
+:::
+
+# Hypovolemic subtype {#hypovolemic}
+
+- Decreased plasma, red blood cell, total blood volumes @verninoPosturalOrthostaticTachycardia2021
+    - This reduces stroke volume and leads to compensatory tachycardia to maintain cardiac output and blood pressure @verninoPosturalOrthostaticTachycardia2021
+- This subtype shows great improvements with intravenous saline to cause acute plasma volume expansion @verninoPosturalOrthostaticTachycardia2021
+    - Good rescue therapy but long term infusions are not recommended due to complications @verninoPosturalOrthostaticTachycardia2021
+- RAAS dysregulation
+    - Impaired ability of RAAS to expand blood volume @verninoPosturalOrthostaticTachycardia2021
+    - Reduced plasma Renin and Aldosterone @verninoPosturalOrthostaticTachycardia2021
+    - Elevated Angiotensin II  @verninoPosturalOrthostaticTachycardia2021
+    - Unknown if targeting this hormone system will restore blood volume. Future study! @verninoPosturalOrthostaticTachycardia2021
+
+## Treatment
+
+::: {.columns}
+::: {.column}
+### High volume and salt intake
+
+Some studies suggest that salt intake 6-10g and fluid intake of 2-3L can increase blood volume @fuExerciseNonpharmacologicalTreatment2018.
+
+:::
+::: {.column}
+### Compression garments
+
+When wearing compression garments with at least 20-30mmHg pressure can reduce venous pooling @fuExerciseNonpharmacologicalTreatment2018.
+Compression garments can include leg stockings, abdominal binders, or even a pair of biker-style shorts @fuExerciseNonpharmacologicalTreatment2018.
+:::
+::: {.column}
+
+### Raise head of bed
+
+Raising the head of the bed by 4-6 inches (~10-15cm) can shift fluid during *mild* orthostatic stress to the lower body @fuExerciseNonpharmacologicalTreatment2018.
+This fluid shift activates the *renin-angiotensin-aldosterone system*, leading to fluid retention at the kidneys and blood volume expansion @fuExerciseNonpharmacologicalTreatment2018.
+:::
+:::
+
+
+# Joint Hypermobility Related Subtype
+
+- POTS + hEDS (hypermobile Ehlers-Danlos)
+    - Connective tissue disorder causing hyperextension of skin/hypermobility of joints @cite
+
+- 80% of hEDS pts will have POTS OR dysautonomia without orthostatic hypotension @cite
+- 18% of POTS pts meet criteria for EDS @cite
+    - POTS pts may be predisposed to the venous pooling due to vascular impairment from laxity of connective tissue @cite.
+    - Will have frequent joint subluxations/soft skin/chronic pain @cite
+    - Autonomic dysregulation symptoms: palpitations, lightheadedness, chest pain, presyncope, syncope @cite
+
+
+# Immune Related Subtype {#immune-related}
+
+- Immune pathways may be involved in POTS @zadourianPosturalOrthostaticTachycardia2018.
+    - Especially if MCAS is present:
+        - Will experience Episodic flushing + tachycardia @zadourianPosturalOrthostaticTachycardia2018.
+        - HTN + Orthostatic Tachycardia with standing @zadourianPosturalOrthostaticTachycardia2018.
+- Unclear if sympathetic activation leads to the mast cell degranulation or if the MCAS initiates the release of vasodilators and compensation from sympathetic activation @zadourianPosturalOrthostaticTachycardia2018.
+- Immunotherapy research for POTS is limited @zadourianPosturalOrthostaticTachycardia2018.
+    - However, autoantibodies have been identified @zadourianPosturalOrthostaticTachycardia2018.
+    - Antibody to the nicotinic acetylcholine receptor (nAChR)  @zadourianPosturalOrthostaticTachycardia2018.
+    - Antagonists for alpha1 adrenergic and beta 1 and beta 2 adrenergic receptors have been found in serum of POTs patients @zadourianPosturalOrthostaticTachycardia2018.
+
+# Subjective Examination
+
+- Subtype? Tests done to determine?
+- How do they decrease sympathetic system activation?
+- Hypermobility (EDS hx?)
+- MCAS? Another coexisting diagnosis?
+- Medications (beta blockers, antidepressants, etc)
+- Nutrition changes?
+- What aggravates sx? Heat, certain foods,?
+- Cognitive dysfunction? Brain fog?
+    - Exercise can worsen patient perception of cognitive function, but regular exercise programs can improve cognitive symptoms and physical symptoms of POTS
+    - For this reason, patients can be hesitant to start an exercise regime w/ delayed benefit. 
+    - Caffeine can either help or hinder cognition/POTS symptoms. 
+        - It is a vasoconstrictor, but does cause elevated HR and in some cases diuresis (dec fluids not good)
+
+# DDX
+
+
+:::{layout-ncol="2"}
+
+### Inappropriate sinus tachycardia
+
+- Will have symptoms in any position &gt;100 bpm even when lying down @fuExerciseNonpharmacologicalTreatment2018.
+
+### Pheochromocytoma
+
+- Tumor of adrenal glands-Usually benign, 20% @cancerousfuExerciseNonpharmacologicalTreatment2018.
+- Increase in epinephrine AND norepinephrine @cancerousfuExerciseNonpharmacologicalTreatment2018.
+- More likely to have symptoms lying down then POTS @cancerousfuExerciseNonpharmacologicalTreatment2018.
+
+### Hyper/hypothyroidism
+
+- Weight loss/gain @cancerousfuExerciseNonpharmacologicalTreatment2018.
+- Elevated resting HR like POTS, but shouldnt increase a lot in standing (with post hr inc by 40 bpm) @cancerousfuExerciseNonpharmacologicalTreatment2018.
+- Can have a goiter (swelling in neck) @cancerousfuExerciseNonpharmacologicalTreatment2018.
+- TSH blood test can rule out @cancerousfuExerciseNonpharmacologicalTreatment2018.
+
+### Vasovagal syncope
+
+- BP and HR drop @cancerousfuExerciseNonpharmacologicalTreatment2018.
+- Will pass out @cancerousfuExerciseNonpharmacologicalTreatment2018.
+
+:::
+
+# Treatment
+
+::: {.callout}
+See:
+
+- Zadourian table 1 @zadourianPosturalOrthostaticTachycardia2018 
+- treatment rec table @2015AHA
+
+:::
+
+::: {.callout-note}
+There are no current class 1 treatment recommendations for POTS
+:::
+
+Nonpharmacologic treatments are typically attempted first.
+This includes [exercising](#exercise), increasing [salt](#salt)/[fluid intake](#fluid-intake), using [compression devices](#compression-garments), tensing muscles, changing diet/routine @zadourianPosturalOrthostaticTachycardia2018.
+These are all things to *add* to your lifestyle, but you should also avoid dehydration, alcohol, and extreme heat @zadourianPosturalOrthostaticTachycardia2018.
+
+
+
+
+## Intravenous immunoglobulin (IVIG) therapy {#ivig}
+
+- Some case reports + one retrospective case series provides some evidence of efficacy of IVIG @cite
+    - Case series: 38 patients, 83.5% improved on composite autonomic symptom scale 31 and/or functional ability score. Mean pretreatment score was 21% which improved to a 74% for responsive patients after at least 1 year of IVIG  @cite
+- Besides potential placebo effect, intravenous infusion does provide a temporary increase in plasma volume through injection independent of immunomodulatory effects, confusing interpretations of results  @cite
+- One double blind RCT is underway to evaluate this further (NCT03919773) @cite
+
+## Exercise {#exercise}
+
+The best Class IIA treatment is exercise @zadourianPosturalOrthostaticTachycardia2018.
+
+- Typically gradual –3 month program
+- Usually rowing/swimming/recumbent bike for first month (30-40 min 3-4x a week)
+- Upright bike second month (30-45 min, 3-5x week)
+- Treadmill/elliptial for the third month (30-45, 5-6x week) 
+- Incorporate strengthening as well! 
+    - Start with SEATED equipment not free weights
+    - Increased muscle mass in legs means more blood returned with each step you take
+    - Body weight at first, always take 1 day off to recover from strength workouts
+    - Core/leg focus
+- Should improve standing HR/QOL outcome measures
+
+## Salt intake
+2-3 L of water a day,  of salt!! For hyperadrenergic POTS especially
+Increasing salt intake to 10-12g/day is a Class IIB treatment @zadourianPosturalOrthostaticTachycardia2018.
+This can be in the form of diet or IV saline infusion @zadourianPosturalOrthostaticTachycardia2018.
+IV infusion of up to 2L of saline for acute clinical decompensation, midodrine or low dose B blocker, fludrocortisone, pyridostigmine, clonidine, or alpha methyldopa for central hyperadrenergic POTS pts @zadourianPosturalOrthostaticTachycardia2018.
+
+## Fluid intake {#fluid-intake}
+
+Increased fluid intake to 2-3L/day of water considered a Class IIB treatment @zadourianPosturalOrthostaticTachycardia2018.
+
+
+## Craniosacral therapy
+
+In a case report with a 39 year old male suffering from POTS, the patient received an osteopathic manipulative treatment (OMT) to specifically compress the 4th ventricle @taflerManagementPostViralPostural2023.
+
+This treatment has been associated with the production of hyperparasympathetic and anti-inflammatory effects @taflerManagementPostViralPostural2023.
+Based on these treatment effects, this therapeutic treatment is hypothesized to help overcome the small-fiber neuropathy caused by the viral illness @taflerManagementPostViralPostural2023.
+Craniosacral therapy: osteopathic technique that uses light touch to evaluate/balance restrictions in the craniosacral system @taflerManagementPostViralPostural2023.
+
+In an SR/MA by Cook et al (2024), the findings suggest that craniosacral therapy (CST) is helpful to enter a parasympathetic state w/ HRV (heart rate variability).
+
+::: {.callout-caution}
+Although these results seem promising, more studies are required to further examine this treatment against a placebo effect
+:::
+
+## Counter Maneuvers {#counter-maneuvers}
+
+::: {.columns}
+::: {.column}
+Classically described countermeasures include squeezing of a rubber ball, leg crossing and muscle tensing, or muscle pumping @fuExerciseNonpharmacologicalTreatment2018.
+For relieving the orthostatic insult: squatting, sitting, or lying down when patient becomes symptomatic. Feet up on wall is another @fuExerciseNonpharmacologicalTreatment2018.
+:::
+::: {.column}
+
+- Squeezing a rubber ball @fuExerciseNonpharmacologicalTreatment2018
+- Leg crossing & muscle tensing @fuExerciseNonpharmacologicalTreatment2018
+- Muscle pumping @fuExerciseNonpharmacologicalTreatment2018
+- Squatting, sitting, or lying down @fuExerciseNonpharmacologicalTreatment2018
+- Cough cardiopulmoanry resuscitation @fuExerciseNonpharmacologicalTreatment2018
+- Negative-pressure breathing maneuver @fuExerciseNonpharmacologicalTreatment2018
+- Skin surface cooling @fuExerciseNonpharmacologicalTreatment2018
+
+:::
+:::
+
+
+
+## Nutrition {#nutrition}
+
+:::{layout-ncol="3"}
+
+### Avoid large meals
+Large meals can increases sx by pulling blood to GI tract @cite.
+Suggested to eat 4-5 small meals per day with balance between carbs, fats, protein @cite.
+
+
+### Low carbohydrate density
+Carbohydrate dense meals, especially simple carbs like sugar or flour, have been shown to inc POTS symptoms in some patients @cite.
+
+### Avoid triggers
+Examine your reaction to gluten/dairy (some patients find these triggering for POTS symptoms) @cite.
+
+### Caffeine
+Caffeine has been found to trigger POTS in some cases @cite.
+
+### Avoid alcohol {#avoid-alcohol}
+Alcohol intake should be decreased or outright avoided since due to dehydration and increased hypotension due to vein dilation @cite.
+
+:::

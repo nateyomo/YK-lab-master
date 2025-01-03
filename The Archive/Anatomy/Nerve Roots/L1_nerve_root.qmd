@@ -37,3 +37,18 @@ gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_titl
 
 gt_table
 ```
+
+
+# Compression
+
+Compression of L3 nerve root includes:
+
+- Pain in the middle lumbar spine, upper buttock, whole anterior thigh and knee, medial knee, and just above the ankle @duttonDuttonOrthopaedicExamination2020
+- Dural signs of prone knee flexion
+- SLR will occassionally be positive @duttonDuttonOrthopaedicExamination2020
+- &darr; Extension ROM
+- Weakness
+    - Slight weakness of iliopsoas @duttonDuttonOrthopaedicExamination2020
+    - Gross loss of quadriceps strength @duttonDuttonOrthopaedicExamination2020
+- Hypoesthesia of the medial aspect of the knee and lower leg @duttonDuttonOrthopaedicExamination2020
+- Patellar reflex Absent (0) or reduced (1)

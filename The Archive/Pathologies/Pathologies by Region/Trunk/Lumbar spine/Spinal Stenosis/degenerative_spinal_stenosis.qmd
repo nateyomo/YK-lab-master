@@ -3,8 +3,93 @@ title: Degenerative Spinal Stenosis (DSS)
 ---
 
 
-"Degenerative spinal stenosis (DSS), a narrowing of the spinal canal, nerve root canal (lateral recess), or intervertebral foramen of the lumbar spine, and subsequent compression of the neural and vascular structures, is predominantly a disorder of the elderly—it is the most common diagnosis associated with lumbar spine surgery in patients older than 60 years.199 "
+Degenerative spinal stenosis (DSS) refers to a narrowing of the spinal canal (central), nerve root canal (lateral recess), or intervertebral foramen (foraminal stenosis) of the lumbar spine due to chronic degeneration of tissue @duttonDuttonOrthopaedicExamination2020.
+This narrowing can in the compression of the neural and vascular structures @duttonDuttonOrthopaedicExamination2020.
 
-# Diagnosis
+Since DSS is due to chronic degeneration, rates increase with older age @duttonDuttonOrthopaedicExamination2020.
 
-DSS is being diagnosed more frequently. The reasons for this are the widespread use of sophisticated noninvasive imaging techniques and the increasing elderly population. Lumbar spinal stenosis may be classified as central or lateral.
+
+
+# Claudication
+Claudication refers to a compression and occlusion of the arteries or veins running through the canal @duttonDuttonOrthopaedicExamination2020.
+Long term claudication can result in nerve root ischemia and resulting in symptoms @duttonDuttonOrthopaedicExamination2020.
+
+# Neurogenic claudication
+
+*Neurogenic claudication* or "pseudoclaudication" refers to physical impingement of the nerve root @duttonDuttonOrthopaedicExamination2020.
+
+Compressive loading of the spine can also exacerbate symptoms, such as those that occur with prolonged standing. Central stenosis, which can result in symptoms related to cauda equina compression, may occur more often with certain movements or changes in posture:
+
+
+
+# Aggs & Eases
+
+Often, walking is aggravating when someone has nerve root ischemia or claudication and those symptoms are relieved by sitting @duttonDuttonOrthopaedicExamination2020.
+
+Compressive load to the spine can aggravate symptoms @duttonDuttonOrthopaedicExamination2020. A common example is prolonged standing @duttonDuttonOrthopaedicExamination2020.
+
+
+- Postures with lumbar lordosis can be aggravating since lordosis *shortens* the length of the canal @duttonDuttonOrthopaedicExamination2020.
+- Lumbar extension narrows the canal @duttonDuttonOrthopaedicExamination2020.
+- Sidebending narrows the canal, but to not as signficantly as extension @duttonDuttonOrthopaedicExamination2020.
+
+## Eases
+
+Lumbar flexion is an easing factor since it *opens* the canal and increases arterial blood flow and venous capacity @duttonDuttonOrthopaedicExamination2020.
+
+
+# Symptoms
+
+Central stenosis can result in compression of the *cauda equina*, resulting in a constellation of cauda equina symptoms @duttonDuttonOrthopaedicExamination2020.
+
+
+# Presentation
+
+Most LSS patients have:
+
+- Reduced hip flexor flexibility, especially [iliopsoas]({{< var ref-iliopsoas.mlt >}}) and [rectus femoris]({{< var ref-rectus-femoris.mlt >}}) @duttonDuttonOrthopaedicExamination2020.
+The hip extensor muscles (gluteus maximus and hamstrings) usually are lengthened.
+
+# Examination
+
+
+
+
+## History
+
+Symptomatic LSS patients typically have a long history of LBP @duttonDuttonOrthopaedicExamination2020.
+The primary symptom is generally unilateral or bilateral leg pain @duttonDuttonOrthopaedicExamination2020.
+
+
+
+# DDX
+
+
+
+# Treatment
+
+- Lumbar thrust, nerve mobilization, and exercise resulted in minimally clinically important differences @duttonDuttonOrthopaedicExamination2020
+
+
+
+my ideas:
+
+- Assess limitations of other joints resulting in excessive lumbar spine mobility and load
+    - Upper body: Thoracic spine, shoulders
+    - Lower body: Hips
+- Avoid excessive lumbar extension
+    - Work on segmental spinal extensors
+        - Spinal wave / Cat-cows
+        - Lumbar reversals
+        - seated jeffersons
+        - horizontal cable RDLs
+- Neurodynamic mobility
+    - Sciatic nerve glides
+- Detone hip flexors
+    - prevent or reduce anterior translation (shearing) of upper L/s
+- Trunk stability
+    - Intraabdominal pressure
+- Functional training
+    - Perform movement observation of patient's main functional goals
+- Core training -chloe
+    - 

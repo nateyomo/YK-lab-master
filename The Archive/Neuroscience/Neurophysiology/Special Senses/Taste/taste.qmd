@@ -1,0 +1,11 @@
+---
+title: Taste
+subtitle: Special Sense
+---
+
+
+
+[Nucleus solitarius (rostral portion)]({{< var ref-nucleus-solitarius.path >}}) @blumenfeldNeuroanatomyClinicalCases2022
+
+
+CN [VII]({{< var ref-cn7.path >}}), [IX]({{< var ref-cn9.path >}}), [X]({{< var ref-cn10.path >}}) @blumenfeldNeuroanatomyClinicalCases2022

@@ -1,0 +1,10 @@
+---
+title: Touch
+subtitle: Sensation
+---
+
+
+The touch sensation is a form of "General somatic sensory" @blumenfeldNeuroanatomyClinicalCases2022.
+
+
+Touch sensation for the face goes through the [CNV Trigeminal n.]({{< var ref-cn5.path >}}) through the Trigeminal nuclei

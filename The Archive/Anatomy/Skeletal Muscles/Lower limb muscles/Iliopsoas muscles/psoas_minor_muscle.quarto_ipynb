@@ -1,0 +1,96 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Psoas Minor Muscle\n",
+        "---"
+      ],
+      "id": "9dd4224f"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'muscle_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['psoas_minor']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Origin {#origin}\n",
+        "T12, L1 vertebrae and intervertebral disk (lateral surfaces) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Insertion {#insertion}\n",
+        "Pectineal line, iliopubic ramus, iliac fascia; lowermost fibers may reach inguinal lig. @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Innervation {#innervation}\n",
+        "L1–L2 (L3) spinal nn. @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Action {#action}\n",
+        "Weak flexor of the trunk @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "\n",
+        "# Overview\n",
+        "\n",
+        "Found in only 50% of the population @gilroyAtlasAnatomy2020 \n",
+        "\n",
+        "“The psoas minor, present in approximately 50% of the population, is often found on the superficial surface of the psoas major (see Fig. 31.19). It is not a muscle of the lower limb. It originates, inserts, and exerts its action on the abdomen” @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "\n",
+        "# Stretches {#stretch}\n",
+        "\n",
+        "- [3D hip flexor stretch]({{< var ref-3d-hip-flexor-stretch.path >}})"
+      ],
+      "id": "2f480297"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

@@ -56,7 +56,7 @@ else:
 # Action {#action}
 
 - Clavicle depression, elevation of 1st rib @duttonDuttonOrthopaedicExamination2020.
-- This action primarily stabilizes the clavicle in the sternoclavicular joint [@duttonDuttonOrthopaedicExamination2020; @gilroyAtlasAnatomy2020]
+- This action primarily stabilizes the clavicle in the sternoclavicular joint [@duttonDuttonOrthopaedicExamination2020; @gilroyAtlasAnatomy2020; @neumannKinesiologyMusculoskeletalSystem2017].
 
 
 

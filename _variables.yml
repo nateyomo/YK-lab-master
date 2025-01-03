@@ -62,15 +62,77 @@ ref-c1-bone:
   transverse-process:
     path: "/"
     palpation: "/The Archive/Anatomy/Bones/Vertebrae/c1_vertebrae_bone.qmd#transverse-process-palpation"
+  spinous-process:
+    path: "/"
+    palpation: "/"
+ref-c2-bone:
+  path: "/The Archive/Anatomy/Bones/Vertebrae/c2_vertebrae_bone.html"
+  palpation: "/The Archive/Anatomy/Bones/Vertebrae/c2_vertebrae_bone.html#palpation"
+  transverse-process:
+    path: "/The Archive/Anatomy/Bones/Vertebrae/c2_vertebrae_bone.html#transverse-process"
+    palpation: "/The Archive/Anatomy/Bones/Vertebrae/c2_vertebrae_bone.html#transverse-process-palpation"
+  spinous-process:
+    path: "/The Archive/Anatomy/Bones/Vertebrae/c2_vertebrae_bone.html#spinous-process"
+    palpation: "/The Archive/Anatomy/Bones/Vertebrae/c2_vertebrae_bone.html#spinous-process-palpation"
+ref-c3-bone:
+  path: "/The Archive/Anatomy/Bones/Vertebrae/c3_vertebrae_bone.html"
+  palpation: "/The Archive/Anatomy/Bones/Vertebrae/c3_vertebrae_bone.html#palpation"
+  transverse-process:
+    path: "/The Archive/Anatomy/Bones/Vertebrae/c3_vertebrae_bone.html#transverse-process"
+    palpation: "/The Archive/Anatomy/Bones/Vertebrae/c3_vertebrae_bone.html#transverse-process-palpation"
+  spinous-process:
+    path: "/The Archive/Anatomy/Bones/Vertebrae/c3_vertebrae_bone.html#spinous-process"
+    palpation: "/The Archive/Anatomy/Bones/Vertebrae/c3_vertebrae_bone.html#spinous-process-palpation"
+ref-c4-bone:
+  path: "/The Archive/Anatomy/Bones/Vertebrae/c4_vertebrae_bone.html"
+  palpation: "/The Archive/Anatomy/Bones/Vertebrae/c4_vertebrae_bone.html#palpation"
+  transverse-process:
+    path: "/The Archive/Anatomy/Bones/Vertebrae/c4_vertebrae_bone.html#transverse-process"
+    palpation: "/The Archive/Anatomy/Bones/Vertebrae/c4_vertebrae_bone.html#transverse-process-palpation"
+  spinous-process:
+    path: "/The Archive/Anatomy/Bones/Vertebrae/c4_vertebrae_bone.html#spinous-process"
+    palpation: "/The Archive/Anatomy/Bones/Vertebrae/c4_vertebrae_bone.html#spinous-process-palpation"
+ref-c5-bone:
+  path: "/The Archive/Anatomy/Bones/Vertebrae/c5_vertebrae_bone.html"
+  palpation: "/The Archive/Anatomy/Bones/Vertebrae/c5_vertebrae_bone.html#palpation"
+  transverse-process:
+    path: "/The Archive/Anatomy/Bones/Vertebrae/c5_vertebrae_bone.html#transverse-process"
+    palpation: "/The Archive/Anatomy/Bones/Vertebrae/c5_vertebrae_bone.html#transverse-process-palpation"
+  spinous-process:
+    path: "/The Archive/Anatomy/Bones/Vertebrae/c5_vertebrae_bone.html#spinous-process"
+    palpation: "/The Archive/Anatomy/Bones/Vertebrae/c5_vertebrae_bone.html#spinous-process-palpation"
+ref-c6-bone:
+  path: "/The Archive/Anatomy/Bones/Vertebrae/c6_vertebrae_bone.html"
+  palpation: "/The Archive/Anatomy/Bones/Vertebrae/c6_vertebrae_bone.html#palpation"
+  transverse-process:
+    path: "/The Archive/Anatomy/Bones/Vertebrae/c6_vertebrae_bone.html#transverse-process"
+    palpation: "/The Archive/Anatomy/Bones/Vertebrae/c6_vertebrae_bone.html#transverse-process-palpation"
+  spinous-process:
+    path: "/The Archive/Anatomy/Bones/Vertebrae/c6_vertebrae_bone.html#spinous-process"
+    palpation: "/The Archive/Anatomy/Bones/Vertebrae/c6_vertebrae_bone.html#spinous-process-palpation"
+ref-c7-bone:
+  path: "/The Archive/Anatomy/Bones/Vertebrae/c7_vertebrae_bone.html"
+  palpation: "/The Archive/Anatomy/Bones/Vertebrae/c7_vertebrae_bone.html#palpation"
+  transverse-process:
+    path: "/The Archive/Anatomy/Bones/Vertebrae/c7_vertebrae_bone.html#transverse-process"
+    palpation: "/The Archive/Anatomy/Bones/Vertebrae/c7_vertebrae_bone.html#transverse-process-palpation"
+  spinous-process:
+    path: "/The Archive/Anatomy/Bones/Vertebrae/c7_vertebrae_bone.html#spinous-process"
+    palpation: "/The Archive/Anatomy/Bones/Vertebrae/c7_vertebrae_bone.html#spinous-process-palpation"
 ### Upper extremity bones
 ref-clavicle-bone:
   path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/clavicle_bone.html"
   palpation: "/The Archive/Anatomy/Bones/Upper Extremity Bones/clavicle_bone.html#palpation"
 ref-scapula-bone:
   path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html"
-  superior-border: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html#superior-border"
-  coracoid-process: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html#coracoid-process"
-  scapular-spine: "//The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html"
+  superior-border: 
+    path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html#superior-border"
+  coracoid-process: 
+    path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html#coracoid-process"
+  scapular-spine: 
+    path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html#scapular-spine"
+    palpation: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scapula_bone.html#scapular-spine-palpation"
+
 ref-humerus-bone:
   path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html"
   intertubercular-groove: "/The Archive/Anatomy/Bones/Upper Extremity Bones/humerus_bone.html#intertubercular-groove"
@@ -253,9 +315,22 @@ ref-temporomandibular-joint:
   path: "/The Archive/Anatomy/Joints/temporomandibular_joint.html"
   articular-disc: "/The Archive/Anatomy/Joints/temporomandibular_joint.html#articular-disc"
 ref-sternoclavicular-joint:
-  path: "/The Archive/Anatomy/Joints/sternoclavicular_joint.html"
-  palpation: "/The Archive/Anatomy/Joints/sternoclavicular_joint.html#palpation"
-
+  path: "/The Archive/Anatomy/Joints/UE Joints/Sternoclavicular joint/sternoclavicular_joint.html"
+  elevation: "/The Archive/Anatomy/Joints/UE Joints/Sternoclavicular joint/sternoclavicular_joint.html#elevation"
+  depression: "/The Archive/Anatomy/Joints/UE Joints/Sternoclavicular joint/sternoclavicular_joint.html#depression"
+  protraction: "/The Archive/Anatomy/Joints/UE Joints/Sternoclavicular joint/sternoclavicular_joint.html#protraction"
+  retraction: "/The Archive/Anatomy/Joints/UE Joints/Sternoclavicular joint/sternoclavicular_joint.html#retraction"
+  anterior-rotation: "/The Archive/Anatomy/Joints/UE Joints/Sternoclavicular joint/sternoclavicular_joint.html#anterior-rotation"
+  posterior-rotation: "/The Archive/Anatomy/Joints/UE Joints/Sternoclavicular joint/sternoclavicular_joint.html#posterior-rotation"
+  palpation: "/The Archive/Anatomy/Joints/UE Joints/Sternoclavicular joint/sternoclavicular_joint.html#palpation"
+ref-scapulothoracic-joint:
+  path: "/The Archive/Anatomy/Joints/UE Joints/scapulothoracic_joint.html"
+  protraction: "/The Archive/Anatomy/Joints/UE Joints/scapulothoracic_joint.html#protraction"
+  retraction: "/The Archive/Anatomy/Joints/UE Joints/scapulothoracic_joint.html#retraction"
+  upward-rotation: "/The Archive/Anatomy/Joints/UE Joints/scapulothoracic_joint.html#upward-rotation"
+  downward-rotation: "/The Archive/Anatomy/Joints/UE Joints/scapulothoracic_joint.html#downward-rotation"
+  posterior-tilt: "/The Archive/Anatomy/Joints/UE Joints/scapulothoracic_joint.html#posterior-tilt"
+  anterior-tilt: "/The Archive/Anatomy/Joints/UE Joints/scapulothoracic_joint.html#anterior-tilt"
 ### Spine joints
 ref-apophyseal-joint:
   path: "/The Archive/Anatomy/Joints/Spine joints/apophyseal_joint.html"
@@ -343,6 +418,16 @@ ref-deep-transverse-metatarsal-ligament:
   path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Ankle and foot Ligaments/deep_transverse_metatarsal_ligament.html"
 ref-long-plantar-ligament:
   path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Ankle and foot Ligaments/long_plantar_ligament.html"
+### UE connective tissue
+#### Shoulder connective tissue
+ref-anterior-sternoclavicular-ligament:
+  path: "/The Archive/Anatomy/Connective tissue/Upper extremity CT/Shoulder Connective Tissue/anterior_sternoclavicular_ligament.html"
+ref-posterior-sternoclavicular-ligament:
+  path: "/The Archive/Anatomy/Connective tissue/Upper extremity CT/Shoulder Connective Tissue/posterior_sternoclavicular_ligament.html"
+ref-interclavicular-ligament:
+  path: "/The Archive/Anatomy/Connective tissue/Upper extremity CT/Shoulder Connective Tissue/interclavicular_ligament.html"
+ref-costoclavicular-ligament:
+  path: "/The Archive/Anatomy/Connective tissue/Upper extremity CT/Shoulder Connective Tissue/costoclavicular_ligament.html"
 ## Multi-system structures
 ### Upper extremity
 ref-thoracic-outlet:
@@ -796,8 +881,6 @@ ref-sternocleidomastoid:
   pain-pattern: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#pain-pattern"
   mmt: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#mmt"
   vascularization: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#vascularization"
-
-
 ref-trapezius:
   path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/trapezius_muscle.html"
 ref-upper-trapezius:
@@ -844,6 +927,21 @@ ref-posterior-scalene:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Scalene muscles/posterior_scalene.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Scalene muscles/posterior_scalene.html#nerve"
   action: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Scalene muscles/posterior_scalene.html#action"
+
+### Shoulder muscles
+ref-shoulder-flexor-muscles:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder muscle groups/shoulder_flexor_muscles.html"
+ref-shoulder-extensor-muscles:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder muscle groups/shoulder_extensor_muscles.html"
+ref-shoulder-abductor-muscles:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder muscle groups/shoulder_abductor_muscles.html"
+ref-shoulder-adductor-muscles:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder muscle groups/shoulder_adductor_muscles.html"
+ref-shoulder-internal-rotator-muscles:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder muscle groups/shoulder_internal_rotator_muscles.html"
+ref-shoulder-external-rotator-muscles:
+  path: "The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder muscle groups/shoulder_external_rotator_muscles.html"
+
 
 
 ### Anterior axioappendicular muscles
@@ -1223,6 +1321,7 @@ ref-palmar-interossei-hand:
 ref-iliopsoas-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliopsoas_muscle_group.html"
   mmt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliopsoas_muscle_group.html#mmt"
+  mlt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliopsoas_muscle_group.html#mlt"
 ref-iliacus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliacus_muscle.html"
   origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliacus_muscle.html#origin"
@@ -1391,6 +1490,7 @@ ref-rectus-femoris:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/rectus_femoris.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/rectus_femoris.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/rectus_femoris.html#action"
+  mlt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/rectus_femoris.html#mlt"
 
 ref-vastus-lateralis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/vastus_lateralis.html"
@@ -1931,6 +2031,7 @@ ref-medial-plantar-nerve:
 
 ref-nuchal-ligament:
   path: "/The Archive/Anatomy/Ligaments/nuchal_ligament.html"
+  palpation: "/The Archive/Anatomy/Ligaments/nuchal_ligament.html#palpation"
 
 ### LE Ligaments
 #### Hip ligaments
@@ -1961,6 +2062,11 @@ ref-calcaneofibular-ligament:
 ref-subclavian-vein:
   path: "/The Archive/Anatomy/Veins/Upper Extremity/subclavian_vein.html"
 
+# Biology
+## Cellular biology
+ref-microglia:
+  path: "/The Archive/Biology/Cell Biology/Microglia/microglia_cell.html"
+
 # Cardiac System
 ## Cardiac Evaluation
 ref-cardiac-evaluation:
@@ -1989,6 +2095,15 @@ ref-hydroxyproline:
 ref-carbohydrate:
   path: "/The Archive/Chemistry/Biochemistry/Carbohydrates/carbohydrates.html"
   metabolism: "/The Archive/Physiology/Metabolism/Carbohydrate Metabolism/carbohydrate_metabolism.html"
+## Macromolecules
+### Toxins and inhibitors
+ref-red40:
+  path: "/The Archive/Chemistry/Biochemistry/Toxins and inhibitors/Food dyes/red40_allura_red.html"
+ref-red3:
+  path: "/The Archive/Chemistry/Biochemistry/Toxins and inhibitors/Food dyes/red3_erythrosine.html"
+ref-yellow5:
+  path: "/The Archive/Chemistry/Biochemistry/Toxins and inhibitors/Food dyes/yellow5_tartrazine.html"
+
 ## Vitamins
 ref-vitamin-e:
   path: "/The Archive/Chemistry/Biochemistry/Vitamins/vitamin_e.html"
@@ -2082,6 +2197,8 @@ ref-low-density-lipoprotein:
   path: "/The Archive/Chemistry/Biochemistry/Lipoproteins/LDL_low-density_lipoprotein.html"
   serum: "/The Archive/Chemistry/Biochemistry/Lipoproteins/LDL_low-density_lipoprotein.html#serum"
 ## Minerals
+ref-manganese:
+  path: "/The Archive/Chemistry/Biochemistry/Macromolecules/Minerals/manganese.html"
 ref-zinc:
   path: "/The Archive/Chemistry/Biochemistry/Minerals/zinc_dietary.html"
 ref-magnesium:
@@ -2157,7 +2274,8 @@ ref-testosterone:
   path: "/The Archive/Endocrinology/Hormones/testosterone.html"
 ref-estrogen:
   path: "/The Archive/Endocrinology/Hormones/estrogen.html"
-
+ref-norepinephrine:
+  path: "/The Archive/Endocrinology/Hormones/norepinephrine.html"
 # Evidence Based Practice (EBP)
 ref-EBP-index:
   path: "/The Archive/Evidene Based Practice/EBP_index.html"
@@ -2339,6 +2457,7 @@ ref-speech:
   path: "/The Archive/Examination/Movement Analysis/Functions/speech_function.html"
 ref-mastication:
   path: "/The Archive/Examination/Movement Analysis/Functions/mastication.html"
+  muscles: "/The Archive/Examination/Movement Analysis/Functions/mastication.html#muscles"
 
 ### Balance
 ref-balance-strategies:
@@ -2747,6 +2866,8 @@ ref-kallmann-syndrome:
 ## Cardiopulmonary Pathologies
 ref-postural-orthostatic-tachycardia-syndrome:
   path: "/The Archive/Pathologies/Cardiopulmonary Pathologies/POTS_postural_orthostatic_tachycardia_syndrome.html"
+ref-neuropathic-postural-orthostatic-tachycardia-syndrome:
+  path: "/The Archive/Pathologies/Cardiopulmonary Pathologies/POTS/neuropathic_postural_orthostatic_tachycardia_syndrome.html"
 ## Inner ear pathologies
 ref-menieres-disease:
   path: "/The Archive/Pathologies/Inner Ear Pathologies/Menieres_disease.html"
@@ -3101,6 +3222,8 @@ ref-medial-corticospinal-tract:
 ref-alpha-synuclein:
   path: "/The Archive/Neuroscience/Neuropathophysiology/alpha-synuclein/alpha-synuclein.html"
 ### Special Senses
+ref-taste:
+  path: "/The Archive/Neuroscience/Neurophysiology/Special Senses/Taste/taste.html"
 ref-gustation:
   path: "/The Archive/Neuroscience/Neurophysiology/Special Senses/gustation.html"
 ref-olfaction:
@@ -3300,6 +3423,9 @@ ref-sensation:
   vibratory: "/The Archive/Systems/Sensation/vibratory_sensation.html"
   deep-touch: "/The Archive/Systems/Sensation/deep_touch_sensation.html"
   temperature: "/The Archive/Systems/Sensation/temperature_sensation.html"
+### Touch sensation
+ref-touch-sensation:
+  path: "/The Archive/Systems/Sensation/Touch/touch_sensation.html"
 ## Movement systems
 ref-movement-system:
   path: "/The Archive/Systems/Movement/movement_system_overview.html"

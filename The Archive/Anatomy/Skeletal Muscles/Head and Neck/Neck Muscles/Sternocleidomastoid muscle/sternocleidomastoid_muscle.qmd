@@ -171,6 +171,10 @@ The lower portion of the SCM muscle belly is supplied by the [suprascapular arte
 
 Since the SCM has [2 distinct heads](#origin), each head has a different direction of pull, and could be classified as “cruciate” and slightly “spiralizer” [@donnellyTravellSimonsSimons2019].
 
+::: {.callout-note}
+The SCM serves as an active stabilizer of the [sternoclavicular joint]({{< var ref-sternoclavicular-joint.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+:::
+
 ## Unilateral Contraction
 
 The SCM works *unilaterally* to create **ipsilateral sidebend** of the cervical spine [@gilroyAtlasAnatomy2020; @finandoTriggerPointTherapy2005; @neumannKinesiologyMusculoskeletalSystem2017] and **contralateral rotation** of the cervical spine [@gilroyAtlasAnatomy2020; @finandoTriggerPointTherapy2005; @neumannKinesiologyMusculoskeletalSystem2017].
@@ -206,15 +210,11 @@ The coactivation of the SCM during chewing and swallowing may play a role in  sp
 # Functional unit {#functional-unit}
 
 
-<!-- 
+The functional unit refers to the muscles that reinforce (synergists) and counter (antagonists) the muscle's actions @donnellyTravellSimonsSimons2019.
+The organization and neural connections of the sensory motor cortex illustrate the functional interdependence of these structures as a cohesive unit @donnellyTravellSimonsSimons2019.
 
-Need to be able to tell it:
-1. Exceptions (the muscle we are making a synergist with)
-1. Synergists & Antagonists
-1. For spine rotation and sidebend, we need to be able to instruct if we are talking about ipsilateral or contralateral (maybe make a way to to say contralatera=true to say to run it through that part of the program)
-1. Need to be able to give it multiple entries for antagonist, synergist since there are multiple functions
-
- -->
+The functional unit is clinically relevant since the presence of a trigger point (TrP) in one muscle of the unit increases the probability that TrPs will develop in other muscles of the unit @donnellyTravellSimonsSimons2019.
+In addition, when treating TrPs in a muscle, the TrPs may then develop in other muscles of the functional unit @donnellyTravellSimonsSimons2019.
 
 # Biomechanics {#biomechanics}
 
@@ -453,14 +453,44 @@ In practice, cue a patient to "touch your chin to your shoulder."
 :::
 
 
+
+
 # Strengthening
 
+## Progressions
 
-"Isometric against mild forward resistance" exercise @finandoTriggerPointTherapy2005
+- Gravity-eliminated (upright) position with manual isometric resistance
+- Against gravity (Supine)
+
+
+## Sagittal plane
+
+The SCM is multi-joint muscle when you look at each cervical vertebrae as an individual joint.
+Thus, when training the SCM in the sagittal plane (e.g. supine neck flexion), you can bias the SCM by performing cervical flexion while keeping the occiput (C0-C1) in extension.
+This will place the muscle in a more shortened position, making it less efficient and requiring *more* recruitment to complete the movement.
+
+
+## Cues
+
+To effectively bias, the SCM we need to recruit it in all 3 planes of motion.
+Bringing the [insertion](#insertion) closer to the [origin](#origin) will achieve that.
+A good cue I use is "touch the back of your ear to your collarbone."
+
+
+# Exercises
+
+## Isometric against mild forward resistance
+
+@finandoTriggerPointTherapy2005
 
 1. Gently place the palm on the forehead
     - Instruct the patient "do not let me move you"
 2. Have the patient clasp their hands behind their head just below the crown and have the patient press their neck against the resistance of the hands @finandoTriggerPointTherapy2005
 
-# Clinical significance
+## Supine Dynamic neck flexion with rotation
+
+- Place the patient in hooklying
+- Have them bring their head up and look at their *contralateral* foot.
+- This will create neck flexion with contralateral rotation
+
 

@@ -1,0 +1,106 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Vastus Intermedius\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        ":::{layout-ncol=\"3\"}\n",
+        "\n",
+        "![Schematic of Anterior Thigh Muscles @gilroyAtlasAnatomy2020 </br> 1: Sartorius </br> 2: Rectus Femoris </br> 3: Vastus Medialis </br> 4: Vastus Lateralis </br> Vastus Intermedius](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24a anterior thigh muscles schematic.png)\n",
+        "\n",
+        "\n",
+        "![Deep Layer of Anterior Thigh Muscle @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24c anterior thigh muscles deep layer.png)\n",
+        "\n",
+        ":::\n"
+      ],
+      "id": "72f3f578"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'muscle_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['vastus_intermedius']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Origin {#origin}\n",
+        "Femoral shaft (anterior side) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Insertion {#insertion}\n",
+        "\n",
+        "Tibial tuberosity (via patellar lig.) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Nerve\n",
+        "\n",
+        "[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Action {#action}\n",
+        "\n",
+        "**Knee**: Extension @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "\n",
+        "\n",
+        "# Notes\n",
+        "    \n",
+        "\"The vastus intermedius (see Fig. 19-7) has its origin in the proximal part of the femur, and its line of action is directly in line with the femur.  \" @duttonDuttonOrthopaedicExamination2020\n",
+        "\n",
+        "\"The deepest quadriceps muscle, the vastus intermedius, is located primarily just deep to the rectus femoris and vastus lateralis. Deep to the vastus intermedius is the poorly defined articularis genu. This muscle contains a few slips of fibers that attach proximally to the anterior side of the distal femur, and then distally into the anterior capsule. This muscle pulls the capsule and synovial membrane proximally during active knee extension.303 The articularis genu is analogous to the poorly defined articularis cubiti at the elbow.\" @duttonDuttonOrthopaedicExamination2020"
+      ],
+      "id": "e7e41f96"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

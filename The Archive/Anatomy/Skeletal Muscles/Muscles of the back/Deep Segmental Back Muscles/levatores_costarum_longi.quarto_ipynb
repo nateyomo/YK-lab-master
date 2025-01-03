@@ -1,0 +1,104 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Levatores Costarum Longi\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        ":::{layout-ncol=\"3\"}\n",
+        "\n",
+        "\n",
+        "\n",
+        ":::\n"
+      ],
+      "id": "3abf9727"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'muscle_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['levatores_costarum_longi']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        ":::{layout-ncol=\"2\"}\n",
+        "\n",
+        "### Origin {#origin}\n",
+        "\n",
+        "C7–T11 TP @gilroyAtlasAnatomy2020 \n",
+        "\n",
+        "\n",
+        "### Insertion {#insertion}\n",
+        "\n",
+        "Costal angle of rib 2 vertebrae below @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "\n",
+        "### Nerve\n",
+        "\n",
+        "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "\n",
+        "### Action {#action}\n",
+        "\n",
+        "- **Bilateral**: Extends T/S\n",
+        "- **Unilateral**: T/S ipsilateral flexion, T/S Contralateral rotation\n",
+        "\n",
+        ":::"
+      ],
+      "id": "0205edcc"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

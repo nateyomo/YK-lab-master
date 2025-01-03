@@ -12,14 +12,66 @@ title: Scapulothoracic Joint
 - 10&deg; ant tilt
 - 5-10&deg; upward rotation
 
-# Kinematics
+# Primary movements
 
-## Upward Rotation
+There are 6 primary movements of the scapulothoracic joint:
 
-60 deg upward rotation during arm elevation
+1. [Elevation](#elevation)
+1. [Depression](#depression)
+1. [Protraction](#protraction)
+1. [Retraction](#retraction)
+1. [Upward rotation](#upward-rotation)
+1. [Downward rotation](#downward-rotation)
+
+## Elevation {#elevation}
+
+Elevation refers to when the scapula slides superiorly relative to the thorax @neumannKinesiologyMusculoskeletalSystem2017.
+Shruggint the shoulders is an example of scapular elevation @neumannKinesiologyMusculoskeletalSystem2017.
 
 
+- Includes elevation of clavicle at SC and downward rot of scap at AC
 
+
+## Depression
+
+Depression of the scapulothoracic joint refers to when the scapula slides inferiorly relative to the thorax from an elevated position @neumannKinesiologyMusculoskeletalSystem2017.
+
+- Lats
+- Pec Minor
+- Lower trapezius
+
+
+## Protraction {#protraction}
+
+*Protraction* refers to when the [medial border of the scapula]({{< var ref-scapula-bone.medial-border >}}) slides anterolaterally relative to the thorax @neumannKinesiologyMusculoskeletalSystem2017.
+This will result in movement of the [medial border]({{< var ref-scapula-bone.medial-border >}}) *away* from the spine.
+An example of protraction is when you are reaching forward as far as possible @neumannKinesiologyMusculoskeletalSystem2017.
+
+## Retraction {#retraction}
+
+Scapular *retraction* refers to when the [medial border of the scapula]({{< var ref-scapula-bone.medial-border >}}) slides posteromedially relative to the thorax *towards* the midline @neumannKinesiologyMusculoskeletalSystem2017.
+This is exemplified when you "pinch" the shoulder blades together.
+
+## Upward Rotation {#upward-rotation}
+
+During scapular *upward rotation*, the [inferior angle of the scapula]({{< var ref-scapula-bone.inferior-angle >}}) *rotates* superiolaterally relative to the thorax @neumannKinesiologyMusculoskeletalSystem2017
+This results in the [glenoid fossa]({{< var ref-scapula-bone.glenoid-fossa >}}) facing upwards @neumannKinesiologyMusculoskeletalSystem2017.
+
+Upward rotation is a key component when raising the arm upward @neumannKinesiologyMusculoskeletalSystem2017.
+
+60&deg; upward rotation during arm elevation
+
+
+## Downward rotation {#downward-rotation}
+
+Downward rotation refers to when the [inferior angle of the scapula]({{< var ref-scapula-bone.inferior-angle >}}) *rotates* in an inferomedially direction @neumannKinesiologyMusculoskeletalSystem2017.
+Downward rotation is most obvious when *lowering* the scapula from an upwardly rotated position @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+*Downward rotation* is key component of lowering the arm down to one's side @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+# Other kinematics
 
 ### Force couple
 
@@ -27,11 +79,9 @@ title: Scapulothoracic Joint
 - Upper trap (Initiation and throughout)
 - Late phase: Lower trap
 
-### Stabilization
 
-- Middle trap (add / retract) which counteract the protraction force of the Serratus anterior, resulting in stabilization of the scapula
 
-## Downward rotation
+
 
 ## Anterior Tilt
 
@@ -39,17 +89,7 @@ title: Scapulothoracic Joint
 
 20&deg; post tilt during arm elevation
 
-## Elevation
 
-Scapular elevation (pure)
-Includes elevation of clavicle at SC and downward rot of scap at AC
-
-
-## Depression
-
-- Lats
-- Pec Minor
-- Lower trapezius
 
 ## Internal Rotation
 
@@ -57,10 +97,14 @@ Includes elevation of clavicle at SC and downward rot of scap at AC
 
 ## External Rotation
 
-<= 5&deg
+<= 5&deg;
 
 # Stabilization
 
 The Serratus Anterior (along with the rhomboids) serves to aid in scapular stability during arm elevation @duttonDuttonOrthopaedicExamination2020 
 
 ![Superior View of the shoulder: You can see how the rhomboids and SA both actively stabilize the scapulothoracic joint by pulling the scapula towards the thoracic wall @duttonDuttonOrthopaedicExamination2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/images/Dutton fig16.2 Superior aspect of shoulder.png)
+
+### Stabilization
+
+- Middle trap (add / retract) which counteract the protraction force of the Serratus anterior, resulting in stabilization of the scapula
