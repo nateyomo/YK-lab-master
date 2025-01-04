@@ -5,7 +5,7 @@ title: Hip Pathologies
 
 # Pain
 
-- [Greater trochanteric pain syndrome]({{< var  >}})
+- Greater trochanteric pain syndrome
 
 # Joint
 

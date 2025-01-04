@@ -22,7 +22,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -134,7 +153,13 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#secondary" id="toc-secondary" class="nav-link active" data-scroll-target="#secondary">Secondary</a></li>
+  </ul>
+</nav>
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
@@ -191,755 +216,18 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="cell" data-message="false" data-execution_count="1">
 <div class="cell-output cell-output-stdout">
-<pre><code>Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'path' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'path' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'path' link found for variable 'ref-anterior-deltoid' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'path' link found for variable 'ref-teres-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'path' link found for variable 'ref-teres-minor' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'path' link found for variable 'ref-coracobrachialis' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
+<pre><code>Warning: No 'path' link found for variable 'ref-anterior-deltoid' in YAML data.
 Warning: No 'origin' link found for variable 'ref-anterior-deltoid' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
 Warning: No 'origin' link found for variable 'ref-anterior-deltoid' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
 Warning: No 'origin' link found for variable 'ref-anterior-deltoid' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-teres-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-teres-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-teres-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-coracobrachialis' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-coracobrachialis' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'origin' link found for variable 'ref-coracobrachialis' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
 Warning: No 'insertion' link found for variable 'ref-anterior-deltoid' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
 Warning: No 'insertion' link found for variable 'ref-anterior-deltoid' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
 Warning: No 'insertion' link found for variable 'ref-anterior-deltoid' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-teres-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-teres-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-teres-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-teres-minor' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-teres-minor' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-coracobrachialis' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-coracobrachialis' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'insertion' link found for variable 'ref-coracobrachialis' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
 Warning: No 'innervation' link found for variable 'ref-anterior-deltoid' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
 Warning: No 'innervation' link found for variable 'ref-anterior-deltoid' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
 Warning: No 'innervation' link found for variable 'ref-anterior-deltoid' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-teres-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-teres-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-teres-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-teres-minor' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-teres-minor' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-coracobrachialis' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-coracobrachialis' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'innervation' link found for variable 'ref-coracobrachialis' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-pectoralis-major' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
-Warning: No 'action' link found for variable 'ref-latissimus-dorsi' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
 Warning: No 'action' link found for variable 'ref-anterior-deltoid' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
 Warning: No 'action' link found for variable 'ref-anterior-deltoid' in YAML data.
-Error parsing YAML file: while scanning a simple key
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 917, column 1
-could not find expected ':'
-  in "/Users/nathanielyomogida/Documents/GitHub/YK-lab-master/_variables.yml", line 918, column 1
 Warning: No 'action' link found for variable 'ref-anterior-deltoid' in YAML data.
 Warning: No 'action' link found for variable 'ref-anterior-deltoid' in YAML data.
 Warning: No 'action' link found for variable 'ref-anterior-deltoid' in YAML data.
@@ -948,7 +236,7 @@ Warning: No 'action' link found for variable 'ref-anterior-deltoid' in YAML data
 Warning: No 'action' link found for variable 'ref-anterior-deltoid' in YAML data.
 Warning: No 'action' link found for variable 'ref-anterior-deltoid' in YAML data.</code></pre>
 </div>
-<div id="tbl-ghj-add-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="1" data-message="false">
+<div id="tbl-ghj-add-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="1">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-ghj-add-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;1: Glenohumeral adductor muscles
@@ -982,52 +270,52 @@ C5 - C6</td>
 <td><strong>GHJ</strong>: <a href="https://yomokerst.com">Flexion</a>, <a href="https://yomokerst.com">IR</a>, <a href="https://yomokerst.com">Adduction</a></td>
 </tr>
 <tr class="even">
-<td><a href="https://yomokerst.com">Coracobrachialis</a></td>
-<td><a href="https://yomokerst.com">Coracoid process</a></td>
-<td><a href="https://yomokerst.com">Humerus (in line with crest of lesser tubercle)</a></td>
-<td><a href="https://yomokerst.com">Musculocutaneous n.</a><br>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Arm%20Anterior%20Muscles/coracobrachialis.html">Coracobrachialis</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Arm%20Anterior%20Muscles/coracobrachialis.html#origin">Coracoid process</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Arm%20Anterior%20Muscles/coracobrachialis.html#insertion">Humerus (in line with crest of lesser tubercle)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Arm%20Anterior%20Muscles/coracobrachialis.html#innervation">Musculocutaneous n.</a><br>
 C5 - C7</td>
 <td><strong>GHJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Arm%20Anterior%20Muscles/coracobrachialis.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Arm%20Anterior%20Muscles/coracobrachialis.html#action">Adduction</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Arm%20Anterior%20Muscles/coracobrachialis.html#action">IR</a></td>
 </tr>
 <tr class="odd">
-<td><a href="https://yomokerst.com">Latissimus dorsi</a></td>
-<td><a href="https://yomokerst.com">T7-T12 SP</a><br>
-<a href="https://yomokerst.com">Thoracolumbar fascia</a><br>
-<a href="https://yomokerst.com">Inferior angle of scapula</a><br>
-<a href="https://yomokerst.com">9-12 ribs</a><br>
-<a href="https://yomokerst.com">Posterior third of Iliac crest</a></td>
-<td><a href="https://yomokerst.com">Floor of the intertubercular groove of the humerus</a></td>
-<td><a href="https://yomokerst.com">Thoracodorsal n.</a><br>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Posterior%20Muscles/latissimus_dorsi.html">Latissimus dorsi</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Posterior%20Muscles/latissimus_dorsi.html#origin">T7-T12 SP</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Posterior%20Muscles/latissimus_dorsi.html#origin">Thoracolumbar fascia</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Posterior%20Muscles/latissimus_dorsi.html#origin">Inferior angle of scapula</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Posterior%20Muscles/latissimus_dorsi.html#origin">9-12 ribs</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Posterior%20Muscles/latissimus_dorsi.html#origin">Posterior third of Iliac crest</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Posterior%20Muscles/latissimus_dorsi.html#insertion">Floor of the intertubercular groove of the humerus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Posterior%20Muscles/latissimus_dorsi.html#innervation">Thoracodorsal n.</a><br>
 C6 - C8</td>
-<td><strong>GHJ</strong>: <a href="https://yomokerst.com">IR</a>, <a href="https://yomokerst.com">adduction</a>, <a href="https://yomokerst.com">Extension</a><br>
-<strong>Respiration</strong>: <a href="https://yomokerst.com">"cough muscle"</a></td>
+<td><strong>GHJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Posterior%20Muscles/latissimus_dorsi.html#action">IR</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Posterior%20Muscles/latissimus_dorsi.html#action">adduction</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Posterior%20Muscles/latissimus_dorsi.html#action">Extension</a><br>
+<strong>Respiration</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Posterior%20Muscles/latissimus_dorsi.html#action">"cough muscle"</a></td>
 </tr>
 <tr class="even">
-<td><a href="https://yomokerst.com">Pectoralis major</a></td>
-<td><a href="https://yomokerst.com">Clavicle (medial half)</a><br>
-<a href="https://yomokerst.com">Sternum</a><br>
-<a href="https://yomokerst.com">Costal cartilages 1-6</a><br>
-<a href="https://yomokerst.com">Rectus sheath (anterior layer)</a></td>
-<td><a href="https://yomokerst.com">Humerus (crest of greater tubercle)</a></td>
-<td><a href="https://yomokerst.com">Lateral pectoral n.</a><br>
-<a href="https://yomokerst.com">Medial pectoral n.</a><br>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Anterior%20Muscles/pectoralis_major_muscle.html">Pectoralis major</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Anterior%20Muscles/pectoralis_major_muscle.html#origin">Clavicle (medial half)</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Anterior%20Muscles/pectoralis_major_muscle.html#origin">Sternum</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Anterior%20Muscles/pectoralis_major_muscle.html#origin">Costal cartilages 1-6</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Anterior%20Muscles/pectoralis_major_muscle.html#origin">Rectus sheath (anterior layer)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Anterior%20Muscles/pectoralis_major_muscle.html#insertion">Humerus (crest of greater tubercle)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Anterior%20Muscles/pectoralis_major_muscle.html#innervation">Lateral pectoral n.</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Anterior%20Muscles/pectoralis_major_muscle.html#innervation">Medial pectoral n.</a><br>
 C5 - T1</td>
-<td><strong>Entire muscle</strong>: <a href="https://yomokerst.com">Adduction</a>, <a href="https://yomokerst.com">IR</a><br>
-<strong>Clavicular &amp; Sternocostal parts</strong>: <a href="https://yomokerst.com">Flexion</a>, <a href="https://yomokerst.com">Aids in respiration when shoulder is fixed</a></td>
+<td><strong>Entire muscle</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Anterior%20Muscles/pectoralis_major_muscle.html#action">Adduction</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Anterior%20Muscles/pectoralis_major_muscle.html#action">IR</a><br>
+<strong>Clavicular &amp; Sternocostal parts</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Anterior%20Muscles/pectoralis_major_muscle.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Axioappendicular%20Anterior%20Muscles/pectoralis_major_muscle.html#action">Aids in respiration when shoulder is fixed</a></td>
 </tr>
 <tr class="odd">
-<td><a href="https://yomokerst.com">Teres major</a></td>
-<td><a href="https://yomokerst.com">Inferior angle of Scapula</a></td>
-<td><a href="https://yomokerst.com">Crest of lesser tubercle of humerus</a></td>
-<td><a href="https://yomokerst.com">Thoracodorsal n.</a><br>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Intrinsic%20Shoulder%20Muscles/teres_major.html">Teres major</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Intrinsic%20Shoulder%20Muscles/teres_major.html#origin">Inferior angle of Scapula</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Intrinsic%20Shoulder%20Muscles/teres_major.html#insertion">Crest of lesser tubercle of humerus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Intrinsic%20Shoulder%20Muscles/teres_major.html#innervation">Thoracodorsal n.</a><br>
 C5 - C6</td>
 <td><strong>GHJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Intrinsic%20Shoulder%20Muscles/teres_major.html#action">IR</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Intrinsic%20Shoulder%20Muscles/teres_major.html#action">Adduction</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Intrinsic%20Shoulder%20Muscles/teres_major.html#action">Extension</a></td>
 </tr>
 <tr class="even">
-<td><a href="https://yomokerst.com">Teres minor</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Intrinsic%20Shoulder%20Muscles/Rotator%20Cuff/teres_minor_muscle.html">Teres minor</a></td>
 <td></td>
-<td><a href="https://yomokerst.com">Greater tubercle of Humerus</a></td>
-<td><a href="https://yomokerst.com">Axillary n.</a><br>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Intrinsic%20Shoulder%20Muscles/Rotator%20Cuff/teres_minor_muscle.html#insertion">Greater tubercle of Humerus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Intrinsic%20Shoulder%20Muscles/Rotator%20Cuff/teres_minor_muscle.html#innervation">Axillary n.</a><br>
 C5 - C6</td>
 <td><strong>GHJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Intrinsic%20Shoulder%20Muscles/Rotator%20Cuff/teres_minor_muscle.html#action">ER</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Intrinsic%20Shoulder%20Muscles/Rotator%20Cuff/teres_minor_muscle.html#action">Weak adduction</a></td>
 </tr>
@@ -1038,10 +326,21 @@ C5 - C6</td>
 </figure>
 </div>
 </div>
+<section id="secondary" class="level1">
+<h1>Secondary</h1>
+<ul>
+<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/coracobrachialis.html">Coracobrahialis</a> is a secondary shoulder adductor<span class="citation" data-cites="bielTrailGuideBody2019"><sup><a href="#ref-bielTrailGuideBody2019" role="doc-biblioref">1</a></sup></span>.</li>
+</ul>
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-bielTrailGuideBody2019" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Biel A. <em>Trail Guide to the Body: A Hands-on Guide to Locating Muscles, Bones, and More</em>. 6th ed. Books of Discovery; 2019.</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Shoulder adductor
 muscles. <a href="https://yomokerst.com/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder muscle groups/shoulder_adductor_muscles.html">https://yomokerst.com/The
 Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder muscle

@@ -2,7 +2,7 @@
 title: Gluteus Medius
 ---
 
-# Overview
+
 
 ```{python tbl-oian}
 #| label: tbl-glute-ed-oian
