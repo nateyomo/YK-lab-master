@@ -58,8 +58,6 @@ website:
         text: Home
       - href: The Archive/research_and_development_index.qmd
         text: "R&D"
-      - href: guide.qmd
-        text: Guide
       - href: journal_club_index.qmd
         text: Journal Club
       - about.qmd

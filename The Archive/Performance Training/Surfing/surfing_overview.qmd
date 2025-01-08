@@ -2,7 +2,38 @@
 title: Surfing (Overview)
 ---
 
+We can break surfing into multiple sections
 
+- Paddling
+    - Breathing
+    - Endurance
+    - Thoracic extension
+- Duckdiving
+- Paddle in
+    - Double paddle
+    - Kicking
+- Takeoff
+- Bottom turn
+- Surfing maneuvers
+
+
+All surfing maneuvers are 3 dimensional techniques that require power, mobility, and stability in multiple planes of motion.
+
+
+
+Fundamental parts of each maneuver:
+
+- Compression
+- Extension
+- Rotation
+
+
+
+# Brad Gerlach
+
+
+::: {.columns}
+::: {.column}
 Fundamentals (1&2) as described by Brad Gerlach
 
 - Takeoff
@@ -13,6 +44,9 @@ Fundamentals (1&2) as described by Brad Gerlach
 - Floater
 - Basic Air
 - Speed generation
+
+:::
+::: {.column}
 
 Fundamentals 3 as described by Brad Gerlach
 
@@ -25,6 +59,13 @@ Fundamentals 3 as described by Brad Gerlach
 - Blowtail (FS & BS)
 - FS Layback
 - BS Top Turn
+
+:::
+:::
+
+
+
+
 
 
 # Pre-surf Warm up

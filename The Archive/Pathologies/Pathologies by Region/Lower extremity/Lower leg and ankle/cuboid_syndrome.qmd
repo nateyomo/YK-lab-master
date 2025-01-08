@@ -7,7 +7,7 @@ title: Cuboid Syndrome
 - Locked cuboid
 - Cuboid fault syndrome
 - Lateral plantar neuritis
-- Subluxed cuboid @dutton
+- Subluxed cuboid @duttonDuttonOrthopaedicExamination2020
 :::
 
 a common but poorly recognized source of lateral midfoot pain where the cuboid subluxes, commonly in a plantar and medial direction. 
@@ -15,7 +15,7 @@ a common but poorly recognized source of lateral midfoot pain where the cuboid s
 The calcaneocuboid joint can be repetitively subluxed with strong forces, although the subluxation is usually a temporary occurrence. 
 
 # Etiology
-“During excessive inversion and plantar flexion, the fibularis (peroneus) longus contraction may cause a forceful eversion causing the cuboid to sublux medially. In addition, other etiologies have been proposed including overuse, excessive pronation, midtarsal instability, increasing body weight, training on uneven surfaces, or a lateral ankle or lateral foot sprain. “ dutton
+“During excessive inversion and plantar flexion, the fibularis (peroneus) longus contraction may cause a forceful eversion causing the cuboid to sublux medially. In addition, other etiologies have been proposed including overuse, excessive pronation, midtarsal instability, increasing body weight, training on uneven surfaces, or a lateral ankle or lateral foot sprain. “ @duttonDuttonOrthopaedicExamination2020
 
 # Clinical Presentation
 

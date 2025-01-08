@@ -6,11 +6,15 @@ title: Sternoclavicular Joint (SCJ)
 to do:
 
 - Kapanje
-- Kisner and Kolby
+
 - dutton
+- manskeOrthopedicJointMobilization2019
 
 Completed
-- Neuman -->
+- Neuman
+- Kisner and Kolby
+ -->
+
 
 The sternoclavicular joint is a synovial saddle joint
 
@@ -131,11 +135,6 @@ At the sternoclavicular joint, the [clavicle]({{< var ref-clavicle-bone.path >}}
 # Stabilization
 
 Tissues that stabilize the SCJ:
-
-
-
-
-
 
 ::: {.columns}
 ::: {.column}

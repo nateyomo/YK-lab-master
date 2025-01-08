@@ -2,39 +2,198 @@
 title: Acromioclavicular Joint (ACJ)
 ---
 
+<!-- 
+to do:
+
+- Kapanje
+
+- dutton
+- manskeOrthopedicJointMobilization2019
+- Neuman
+- Kisner and Kolby
+
+Completed:
+
+ -->
+
 # Overview
 
+The acromioclavicular joint (ACJ) is a *gliding/plane joint* that refers to the articulation between the lateral aspect of the clavicle and the [acromion of the scapula]({{< var ref-scapula-bone.acromion >}}) @neumannKinesiologyMusculoskeletalSystem2017.
 
-Coracoacromial
+# Anatomy
+
+The joint consists of:
+
+- 2 bones
+    - Acromion of the scapula
+    - Lateral aspect of the clavicle
+- 1 articular disc (acromioclavicular articular disc)
+- ligaments
+- muscles
+
+
+The part of the acromion that accepts the clavicular facet faces *superiorly* and *medially* @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+
+<!-- Coracoacromial
 Roof of GH joint
 AC joint mvmt
 upward/downward rotation
 ant/post tilt
-IR/ER
+IR/ER -->
 
+# Periarticular connective tissue
+
+The connective tissue of the ACJ includes:
+
+- Acromioclavicular articular disc
+- AC Joint capsule
+- Ligaments
+    - Coracoclavicular
+    - Coracoclavicular
+
+## Coracoclavicular ligament
+
+The coracoclavicular ligament provides passive stability to the AC joint @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+This ligament is broken into 2 distinct parts:
+
+1. Coracoclavicular Trapezoid lig.
+1. Coracoclavicular Conoid lig.
+
+
+
+::: {.columns}
+::: {.column}
+### Trapezoid lig.
+
+The trapezoid lig. extends superolaterally from the superior surface of the [coracoid process]({{< var ref-scapula-bone.coracoid-process >}}) to the trapezoid line on the clavicle @neumannKinesiologyMusculoskeletalSystem2017. 
+:::
+::: {.column}
+
+### Conoid lig. {#conoid}
+
+The conoid ligament near vertically from the proximal base of the [coracoid process]({{< var ref-scapula-bone.coracoid-process >}}) to the [conoid tubercle on the clavicle]({{< var ref-clavicle-bone.conoid-tubercle >}}) @neumannKinesiologyMusculoskeletalSystem2017.
+:::
+:::
+
+The coracoclavicular lig. is one of the strongest ligaments in the shoulder @neumannKinesiologyMusculoskeletalSystem2017.
+The coracoclavicular ligaments' near-vertical attachment, suggest that it plays an important role in suspending the scapula and subsequent upper extremity from the clavicle @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+## Superior capsular ligament {#superior-capsular-ligament}
+
+The *superior capsular ligament* is reinforced by the deltoid and trapezius attachments @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+
+
+
+
+
+
+
+# Joint cartilage
+
+The articular surfaces of the clavicle and acromion are lined with a layer of fibrocartilage tissue @neumannKinesiologyMusculoskeletalSystem2017.
+
+# Articular disc {#articular-disc}
+
+The fibrocartilaginous articular disc separates the articular surfaces at the ACJ @neumannKinesiologyMusculoskeletalSystem2017.
+Based on cadaveric dissection, the acromioclavicular articular disc is found "fully complete" in only 10% of cadavers, indicating that this joint is prone to degeneration @neumannKinesiologyMusculoskeletalSystem2017.
 
 # Kinematics
 
+The motions of the ACJ have both proximal and distal functions.
+Proximally, the ACJ's motions help to maintain the optimal mobility and alignment of the [scapulothoracic joint]({{< var ref-scapulothoracic-joint.path >}}) @neumannKinesiologyMusculoskeletalSystem2017.
+
+Distally, the ACJ orients the scapula to optimize the articulation of the glenohumeral joint @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+The ACJ's motions are described based on scapular movement relative to the clavicle @neumannKinesiologyMusculoskeletalSystem2017.
+
+The ACJ is a triaxial joint with 3 degrees of freedom:
+
+::: {.columns}
+::: {.column}
+### Primary motions
+
+- **Frontal plane**: [Upward](#upward-rotation) & [downward rotation](#downward-rotation) @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
+::: {.column}
+### Secondary motions
+
+- **Sagittal plane**: Anterior & Posterior tilting
+- **Transverse plane**: 
+
+:::
+:::
+
+
+
+
+
+
+
+
+Since the joint surfaces of the clavicle and scapula are so flat, the concave-convex rules do not apply to this joint @neumannKinesiologyMusculoskeletalSystem2017.
+
 ## Posterior Rotation
 
-Coracoclavicular (Conoid and Trapezoid) helps post rotation
+Coracoclavicular (Conoid and Trapezoid) helps posterior rotation
 
 
 Coracoacromial ligament makes up the roof of the GHJ
 
-## Upward rotation
+## Upward rotation {#upward-rotation}
 
-## Downward rotation
+Upward rotation refers to when the scapula moves upward and outward in the frontal plane relative to the clavicle @neumannKinesiologyMusculoskeletalSystem2017.
+The ACJ can have up to 30&deg; of upward rotation @neumannKinesiologyMusculoskeletalSystem2017.
 
-## Anterior Tilt
-
-## Posterior Tilt
-
-## Internal Rotation
-
-## External Rotation
+Upward rotation is important during full shoulder abduction or flexion @neumannKinesiologyMusculoskeletalSystem2017.
+This motion is an important factor in scapulohumeral rhythm and scapulothoracic mobility @neumannKinesiologyMusculoskeletalSystem2017.
 
 
+
+## Downward rotation {#downward-rotation}
+
+*Downward rotation* of the ACJ refers to the motion of returning the scapula from upward rotation back to neutral @neumannKinesiologyMusculoskeletalSystem2017.
+Downward rotation is associated with shoulder adduction or extension @neumannKinesiologyMusculoskeletalSystem2017.
+
+## Anterior Tilt {#anterior-tilt}
+
+ACJ *anterior tilt* refers to the anterior horizontal movement of the glenoid fossa in the sagittal plane @neumannKinesiologyMusculoskeletalSystem2017.
+
+Anterior tilt is an important component in full shoulder flexion.
+
+
+
+## Posterior Tilt {#posterior-tilt}
+
+ACJ *posterior tilt* refers to the posterior horizontal movement of the glenoid fossa in the sagittal plane @neumannKinesiologyMusculoskeletalSystem2017.
+
+Posterior tilt is best appreciated during full shoulder extension.
+
+
+## Internal Rotation {#ir}
+
+*Internal rotation* (IR) is a secondary motion of the ACJ that refers to the rotation of the *glenoid fossa* in the transverse plane @neumannKinesiologyMusculoskeletalSystem2017.
+ACJ IR is considered a "secondary motion" since it functions to maintain scapular alignment with the thorax @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+ACJ IR is important during full protraction and horizontal adduction.
+
+
+## External Rotation {#er}
+
+ACJ *external rotation* (IR) is a secondary motion of the ACJ that refers to the rotation of the *glenoid fossa* away from midline in the transverse plane @neumannKinesiologyMusculoskeletalSystem2017.
+ACJ ER is considered a "secondary motion" since it functions to maintain scapular alignment with the thorax @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+ACJ ER is important during full retraction and horizontal abduction.
 
 
 # Innervation {#innervation}
@@ -43,12 +202,57 @@ Coracoacromial ligament makes up the roof of the GHJ
 
 # Stabilization
 
-# Dysfunction
-
-# Mobilizations
 
 # Tests
 
 
 
+# Dysfunction
 
+AC joint injuries are a common shoulder injury in contact sports @neumannKinesiologyMusculoskeletalSystem2017.
+Most ACJ injuries are [partial strains](#partial-strain), but [dislocations](#dislocation) can occur at this joint as well @neumannKinesiologyMusculoskeletalSystem2017.
+
+# Partial strain {#partial-strain}
+# Dislocation {#dislocation}
+
+The ACJ is susceptible to dislocation due to the sloped orientation of the articular facets as well as the likelihood of receiving shear forces through the UE @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+For example, if one were to fall and strike the superior aspect of the shoulder, this can result in an inferior and medial translation of the acromion on the clavicle @neumannKinesiologyMusculoskeletalSystem2017.
+
+The superior and inferior capsular ligaments act as the 1st line of defense in preventing the acromion from dislocating inferomedially @neumannKinesiologyMusculoskeletalSystem2017.
+If the translation is severe enough, the [coracoclavicular ligament](#coracoclavicular-ligament) can secondary resistance to horizontal shear @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+If the shear force exceeds the strength of the active and passive stabilizers, this can result in muscle strain, ligament ruptuer, and dislocation of the ACJ @neumannKinesiologyMusculoskeletalSystem2017.
+
+# Osteoarthritis
+
+Chronic trauma to the ACJ and its CT may result in instability and compensatory movement and postural patterns of the scapulothoracic joint @neumannKinesiologyMusculoskeletalSystem2017.
+These patterns may result in *posttraumatic ACJ osteoarthritis* @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+# Mobilizations
+
+## Anterior glide
+
+An *anterior glide* mobilization of the ACJ is indicated for patients with limited mobility of the ACJ @kisnerTherapeuticExerciseFoundations2018.
+
+### Technique
+
+- Place the patient in sitting or prone
+- Stand behind the patient
+- Wrap your lateral hand around the acromion process to stabilize the scapula @kisnerTherapeuticExerciseFoundations2018.
+- Patient Position Sitting or prone
+- Place the thumb of your medial hand on the posterior distal clavicle. You may have to push through the *upper trapezius* muscle @kisnerTherapeuticExerciseFoundations2018.
+- Apply the mobilizing force with your thumb by pushing the clavicle anteriorly relative to the acromion @kisnerTherapeuticExerciseFoundations2018.
+
+::: {.callout-tip}
+If the patient is in prone, you can stabilize the acromion by placing a towel under the ipsilateral shoulder @kisnerTherapeuticExerciseFoundations2018.
+:::
+
+# Exercises
+
+- Low-high cable row with deep squat inhale
+    - This is a good exercise for working on ACJ mobility since the cables will pull your shoulders into forward into ACJ IR
+    - At the bottom of the squat, focusing on a large inhale will expand the lungs and the back of the thorax, requiring even more ACJ IR

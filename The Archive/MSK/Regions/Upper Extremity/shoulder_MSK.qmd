@@ -26,6 +26,8 @@ The Shoulder complex is made up of 3 joints and 1 pseudo joint:
 1. [Glenohumeral Joint (GHJ)]({{< var ref-glenohumeral-joint.path >}})
 1. The Scapulothoracic Joint is considered a "psuedo joint" @duttonDuttonOrthopaedicExamination2020
 
+The [SCJ]({{< var ref-sternoclavicular-joint.path >}}) provides *gross* movement of the clavicle, while the [ACJ]({{< var ref-acromioclavicular-joint.path >}}) provides fine motor control of the clavicle @neumannKinesiologyMusculoskeletalSystem2017.
+
 ### 1 Physiologic Area
 
 - Suprahumeral/Subacromial space

@@ -70,4 +70,7 @@ One of the borders of the [thoracic outlet]({{< var ref-thoracic-outlet.path >}}
 
 "The coracoid process (see Fig. 16-3) projects forward like a crow’s beak, for which it is named. This forward position provides an efficient lever whereby the small pectoralis muscle can help to stabilize the scapula. In addition, the process serves as a point of origin for the coracobrachialis and the short head of the biceps muscle" @duttonDuttonOrthopaedicExamination2020
 
+- Attachment for coracoclavicular trapezius ligament @neumannKinesiologyMusculoskeletalSystem2017
+- Attachment for [coracoclavicular conoid lig.]({{< var ref-coracoclavicular-conoid-ligament.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+
 ## Subscapular fossa of scapula {#subscapular-fossa}

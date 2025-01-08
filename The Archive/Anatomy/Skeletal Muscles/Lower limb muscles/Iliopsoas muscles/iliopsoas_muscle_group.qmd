@@ -47,6 +47,11 @@ The iliopsoas muscle group act as synergists during:
 
 - [Unilateral SCM MMT]({{< var ref-sternocleidomastoid.mmt >}}) @weinstockNeuroKineticTherapyInnovative2010
 
+
+# Muscle length test (MLT) {#mlt}
+
 # Stretches {#stretch}
 
 - [3D hip flexor stretch]({{< var ref-3d-hip-flexor-stretch.path >}})
+
+

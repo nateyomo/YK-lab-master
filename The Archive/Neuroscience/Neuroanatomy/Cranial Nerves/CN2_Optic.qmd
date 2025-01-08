@@ -30,8 +30,8 @@ flowchart TD
 ```
 
 # Overview
-CNII Optic Nerve is the only cranial nerve that is used to transmit information about vision to the brain.
-CNII is considered part of the CNS since it is myelinated using oligodendrocytes
+CN II Optic Nerve is the only cranial nerve that is used to transmit information about vision to the brain.
+CN II is considered part of the CNS since it is myelinated using oligodendrocytes
 
 # Pathway
 
@@ -55,3 +55,16 @@ Optic tract
 6. Optic tract
 7. (Synapse) Lateral geniculate nucleus in Thalamus -> 
 8. Optic radiations -> Occipital cortex
+
+# Pupillary light reflex
+
+The optic n. is involved in the afferent aspect of the [pupillary light reflex]({{< var ref-pupillary-light-reflex.path >}}).
+
+
+# Dysfunction
+
+- [Multiple sclerosis](#multiple-sclerosis)
+
+# Multiple sclerosis
+The optic nerve can be damaged in multiple scerosis since it is myelinated by oligodendrocytes.
+

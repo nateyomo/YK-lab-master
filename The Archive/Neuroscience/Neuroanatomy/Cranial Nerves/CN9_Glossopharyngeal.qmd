@@ -1,5 +1,5 @@
 ---
-title: CNIX Glossopharyngeal Nerve
+title: CN IX Glossopharyngeal Nerve
 ---
 
 <!-- 
@@ -30,4 +30,4 @@ to read
 | Collet-Sicard | CN [IX]({{< var ref-cn9.path >}}), [X]({{< var ref-cn10.path >}}), [XI]({{< var ref-cn11.path >}}), [XII]({{< var ref-cn12.path >}}) @brazisLocalizationClinicalNeurology2022  | Retroparotid space usually <br> Lesion may be intracranial or extracranial @brazisLocalizationClinicalNeurology2022  |
 | Villaret | CN [IX]({{< var ref-cn9.path >}}), [X]({{< var ref-cn10.path >}}), [XI]({{< var ref-cn11.path >}}), [XII]({{< var ref-cn12.path >}}) <br> Plus the sympathetic chain <br> [CN VII]({{< var ref-cn7.path >}}) is occassionally involved @brazisLocalizationClinicalNeurology2022  | Retroparotid or retropharyngeal space @brazisLocalizationClinicalNeurology2022  |
 | Garcin (hemibase syndrome) | All Cranial Nerves on one side <br> (often incomplete) @brazisLocalizationClinicalNeurology2022  | Often infiltrative; <br> Arising from base of skull (especially nasopharyngeal carcinoma) @brazisLocalizationClinicalNeurology2022  |
-: Syndromes involving CN9-12 (CNIX-CNXII) from Table 13-1 @brazisLocalizationClinicalNeurology2022 {.striped .hover}
+: Syndromes involving CN9-12 (CN IX-XII) from Table 13-1 @brazisLocalizationClinicalNeurology2022 {.striped .hover}

@@ -25,3 +25,12 @@ Serves as one of the borders of the [thoracic outlet]({{< var ref-thoracic-outle
 
 : Muscle attachments on the medial 1/3 of the clavicle {.striped .hover}
 </details>
+
+## Trapezoid line
+
+attachment point for the [coracoclavicular trapezius lig.]({{< var ref-coracoclavicular-trapezius-lig.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
+
+
+## Conoid tubercle {#conoid-tubercle}
+
+- Attachment for [coracoclavicular conoid lig.]({{< var ref-coracoclavicular-conoid-ligament.path >}}) @neumannKinesiologyMusculoskeletalSystem2017

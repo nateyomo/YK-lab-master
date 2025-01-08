@@ -3,9 +3,9 @@ citation: false
 author: []
 ---
 
-![](/branding/square logo/square 3 lines full.svg)
+![](/branding/square logo/square 3 lines full.svg){.nolightbox}
 
-- [**The Archive**](/The Archive/research_and_development_index.qmd): A database for information, ranging from anatomy, microbiology, neurology, Patient examination, and rehabilitation.
+- [**R&D**](/The Archive/research_and_development_index.qmd): A database for information, ranging from anatomy, microbiology, neurology, Patient examination, and rehabilitation.
 - [**About**](about.qmd): Read more about the authors of the site
-- [**Guide**](guide.qmd): The best ways to use and read this website
 - [**Journal club**](journal_club_index.qmd): A blog where we will post summaries of interesting articles
+

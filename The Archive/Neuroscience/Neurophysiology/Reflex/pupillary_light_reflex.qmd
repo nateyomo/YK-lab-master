@@ -3,7 +3,15 @@ title: Pupillary Light Reflex
 ---
 
 
-Pupillary light reflex is to prevent excess light and cause damage to the eye
+Pupillary light reflex is a mechanism designed to prevent excess light from amaging the eye.
+
+# Anatomy
+
+- [CN II Optic n.]({{< var ref-cn2.path >}})
+- nuclei:
+- [CN III Oculomotor n.]({{< var ref-cn3.path >}})
+
+
 
 
 

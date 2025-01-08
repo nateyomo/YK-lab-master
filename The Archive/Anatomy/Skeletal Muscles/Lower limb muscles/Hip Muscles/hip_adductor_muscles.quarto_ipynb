@@ -1,0 +1,144 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Hip Adductor Muscles\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        ":::{layout-ncol=\"2\"}\n",
+        "\n",
+        "### Primary\n",
+        "\n",
+        "\n",
+        "\n",
+        "- [Pectineus]({{< var ref-pectineus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- [Adductor Longus]({{< var ref-adductor-longus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- [Gracilis]({{< var ref-gracilis.path >}}) @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- [Adductor Brevis]({{< var ref-adductor-brevis.path >}}) @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- [Adductor Magnus]({{< var ref-adductor-magnus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        "### Secondary\n",
+        "\n",
+        "- [Biceps Femoris Long Head]({{< var ref-biceps-femoris-long-head.path >}}) @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- [Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) (inferior/ posterior fibers) @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- [Quadratus Femoris]({{< var ref-quadratus-femoris.path >}}) @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- [Obturator Externus]({{< var ref-obturator-externus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n",
+        "\n",
+        "# Primary\n"
+      ],
+      "id": "8972f775"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-primary-hip-adductor-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "#| tbl-cap: Primary hip adductors\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'functional_group_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['primary_hip_adductor']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-primary-hip-adductor-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Secondary\n"
+      ],
+      "id": "408abbe9"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-secondary-hip-adductor-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "#| tbl-cap: Secondary hip adductors\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'functional_group_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['secondary_hip_adductor']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-secondary-hip-adductor-oian",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

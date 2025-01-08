@@ -97,7 +97,7 @@ Chronic pain pathways also involved
 #| echo: false
 #| warning: false
 #| label: fig-subtype-frequency
-#| fig-cap: "plotly Subtypes [@angeliSymptomPresentationPhenotype2024]"
+#| fig-cap: "POTS Subtypes [@angeliSymptomPresentationPhenotype2024]"
 
 import plotly.express as px
 import pandas as pd
@@ -123,7 +123,8 @@ fig = px.bar(
 fig.update_layout(
     xaxis=dict(range=[0, 100]),  # Set X-axis range
     template="plotly_white",     # Use light theme
-    title_x=0.5                  # Center the title
+    title_x=0.5,                  # Center the title
+    dragmode=False 
 )
 
 # Show the interactive plot

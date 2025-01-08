@@ -47,7 +47,7 @@ TOS with no specific pathological evidence is classified as disputed TOS @hooper
 Although TOS is affected my multiple variables, there are a few structures that directly compress the structures:
 
 - Tumor
-- [1st rib elevation]({{< var ref-1st-rib.elevation >}})
+- [1st rib elevation]({{< var ref-1st-rib-bone.elevation >}})
 - Pec minor tight (especially at full elevation)
 - Ant/mid scalene
 - Cervical rib approximation

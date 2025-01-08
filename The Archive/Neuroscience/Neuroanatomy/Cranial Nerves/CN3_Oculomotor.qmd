@@ -1,5 +1,5 @@
 ---
-title: CNIII Oculomotor Nerve
+title: CN III Oculomotor Nerve
 ---
 
 <!-- 
@@ -29,14 +29,14 @@ flowchart TD
 
 # Overview
 
-- CNIII refers to nerve fibers containing somatic motor fibers running to extraocular muscles of the eye as well as parasympathetic efferent fibers running to the muscles in the lens.
-- CNIII is myelinated by Schwann cells and is therefore considered part of the PNS.
+- CN III refers to nerve fibers containing somatic motor fibers running to extraocular muscles of the eye as well as parasympathetic efferent fibers running to the muscles in the lens.
+- CN III is myelinated by Schwann cells and is therefore considered part of the PNS.
 
 
 
 # Pathway
 
-- CNIII travels with [CN IV]({{< var ref-cn4.path >}}) and [VI]({{< var ref-cn6.path >}}) through the cavernous sinus @blumenfeldNeuroanatomyClinicalCases2022.
+- CN III travels with [CN IV]({{< var ref-cn4.path >}}) and [VI]({{< var ref-cn6.path >}}) through the cavernous sinus @blumenfeldNeuroanatomyClinicalCases2022.
 
 - Next, these three nerves leave the skull through the superior orbital fissure to synapse and innervate the [extraocular muscles]({{< var ref-extraocular-muscles.path >}}) @blumenfeldNeuroanatomyClinicalCases2022.
 - CN III also carries parasympathetics to the pupillary constrictor and to the ciliary muscle of the lens @blumenfeldNeuroanatomyClinicalCases2022.

@@ -9979,7 +9979,7 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "The Archive: A database for information, ranging from anatomy, microbiology, neurology, Patient examination, and rehabilitation.\nAbout: Read more about the authors of the site\nGuide: The best ways to use and read this website\nJournal club: A blog where we will post summaries of interesting articles"
+    "text": "R&D: A database for information, ranging from anatomy, microbiology, neurology, Patient examination, and rehabilitation.\nAbout: Read more about the authors of the site\nJournal club: A blog where we will post summaries of interesting articles"
   },
   {
     "objectID": "guide.html",
@@ -21054,5 +21054,61 @@
     "title": "Effects of Cold Bath Post-Exercise",
     "section": "Fatigue Recovery Results",
     "text": "Fatigue Recovery Results\nThey found that water temp and CWI sites have no effect on fatigue recovery"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis_MS.html",
+    "href": "The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis_MS.html",
+    "title": "Multiple Sclerosis",
+    "section": "",
+    "text": "Resources\n\n\n\n\nSuzanne - Ch14martinNeurologicInterventionsPhysical2021a?\nMultiple sclerosis (MS) refers to a progressive autoimmune disease where the immune system attacks oligodendrocytes resulting in demyelination of the brain, spinal cord, CNI Olfactory n., and CNII Optic n.1. MS is characterized by inflammation, selective demyelination, and gliosis1."
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis_MS.html#theories",
+    "href": "The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis_MS.html#theories",
+    "title": "Multiple Sclerosis",
+    "section": "Theories",
+    "text": "Theories\nTheories(Olek and Mowry 2023)\n\n“The most widely accepted theory is that MS begins as an inflammatory immune-mediated disorder characterized by autoreactive lymphocytes”olekManifestationsMultipleSclerosis2023?\n“Later, the disease is dominated by microglial activation and chronic neurodegeneration”olekManifestationsMultipleSclerosis2023?"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis_MS.html#relapsing-remitting",
+    "href": "The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis_MS.html#relapsing-remitting",
+    "title": "Multiple Sclerosis",
+    "section": "Relapsing remitting (RRMS)",
+    "text": "Relapsing remitting (RRMS)\n\n\n\nShort duration attacks with full or partial recovery\nMay or may not leave lasting symptoms/deficits\nMost common\n\n\n\n\n\n\n                                                \n\n\nFigure 2: RPMS time-severity pattern"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis_MS.html#primary-progressive",
+    "href": "The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis_MS.html#primary-progressive",
+    "title": "Multiple Sclerosis",
+    "section": "Primary progressive (PPMS)",
+    "text": "Primary progressive (PPMS)\n\n\n\nWorsens over time\nLack of attacks/exacerbations\nSteady increase in disability\n\n\n\n\n\n\n                                                \n\n\nFigure 3: PPMS time-severity pattern"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis_MS.html#secondary-progressive",
+    "href": "The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis_MS.html#secondary-progressive",
+    "title": "Multiple Sclerosis",
+    "section": "Secondary progressive (SPMS)",
+    "text": "Secondary progressive (SPMS)\n\n\n\nCombo of primary progressive and relapsing remitting\nInitially relapsing remitting then turns to progressing as sx inc without remission periods\n\n\n\n\n\n\n                                                \n\n\nFigure 4: SPMS Time-severity pattern"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis_MS.html#progressive-relapsing",
+    "href": "The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis_MS.html#progressive-relapsing",
+    "title": "Multiple Sclerosis",
+    "section": "Progressive relapsing (PRMS)",
+    "text": "Progressive relapsing (PRMS)\n\n\n\nWorst type\nSteady inc in disability with attacks\nEliminated from usage in 2013 (this type)\n\n\n\n\n\n\n                                                \n\n\nFigure 5: PRMS Time-severity pattern with diagonal connections"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis_MS.html#functional-systems-fs",
+    "href": "The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis_MS.html#functional-systems-fs",
+    "title": "Multiple Sclerosis",
+    "section": "Functional systems (FS)",
+    "text": "Functional systems (FS)\n\n\n\nFunctional system\nAbbr.\n\n\n\n\nPyramidal\nP\n\n\nCerebellar\nC11\n\n\nBrainstem\nBS\n\n\nSensory\nS\n\n\nBowel and Bladder\nBB\n\n\nVisual\nV\n\n\nCerebral or Mental\nCb\n\n\nOther\nO"
+  },
+  {
+    "objectID": "The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis_MS.html#fs-scoring",
+    "href": "The Archive/Neuroscience/Neuropathology/Multiple Sclerosis/multiple_sclerosis_MS.html#fs-scoring",
+    "title": "Multiple Sclerosis",
+    "section": "FS Scoring",
+    "text": "FS Scoring\nThe FS are scored on a scale of 0 (low level of problems) to 5 or 6 (high level of problems) to best reflect the level of disability observed clinically. The “Other” category consists of any other neurologic findings attributed to MS and is dichotomous, with 0 as none and 1 as any present. In contrast, the total EDSS score is determined by two factors: gait and FS scores.\nEDSS scores below 4.0 are determined by the FS scores alone. People with EDSS scores of 4.0 and above may have some degree of gait impairment. Scores between 4.0 and 9.5 are determined by both gait abilities and the FS scores. For simplicity, many experts gauge the EDSS scores between 4.0 and 9.5 entirely by gait, without considering the FS scores. The EDSS is widely used and accepted as a valid tool to clinically measure and evaluate MS patients’ level of functioning."
   }
 ]
