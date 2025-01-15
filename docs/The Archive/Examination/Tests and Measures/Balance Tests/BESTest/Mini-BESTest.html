@@ -1,0 +1,1527 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.37">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Nathaniel Yomogida">
+<meta name="author" content="Chloë Kerstein">
+
+<title>Mini-BESTest</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../../../">
+<link href="../../../../..//images/brain-favicon.png" rel="icon" type="image/png">
+<script src="../../../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-43df0d6f53b733b42d37fa7808e17715.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../../../site_libs/bootstrap/bootstrap-2cd373bbd777488a2901da25ac479b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../../../site_libs/bootstrap/bootstrap-dark-30247d3b2cd0522fbeca720c4281c240.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "?",
+    "H"
+  ],
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../../../../styles.css">
+<meta name="twitter:title" content="Mini-BESTest">
+<meta name="twitter:description" content="Mini Balance Evaluation Systems Test">
+<meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
+<meta name="twitter:site" content="@YomoKerstLab">
+<meta name="twitter:card" content="summary">
+</head>
+
+<body class="floating nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../../../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../../../branding/Yomokerst/yomokerst heavy condensed.svg" alt="" class="navbar-logo">
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../../The Archive/research_and_development_index.html"> 
+<span class="menu-text">R&amp;D</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../../journal_club_index.html"> 
+<span class="menu-text">Journal Club</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../../contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#setup" id="toc-setup" class="nav-link active" data-scroll-target="#setup">Setup</a>
+  <ul class="collapse">
+  <li><a href="#subject-conditions" id="toc-subject-conditions" class="nav-link" data-scroll-target="#subject-conditions">Subject Conditions</a></li>
+  <li><a href="#equipment" id="toc-equipment" class="nav-link" data-scroll-target="#equipment">Equipment</a></li>
+  </ul></li>
+  <li><a href="#scoring" id="toc-scoring" class="nav-link" data-scroll-target="#scoring">Scoring</a></li>
+  <li><a href="#form" id="toc-form" class="nav-link" data-scroll-target="#form">Form</a>
+  <ul class="collapse">
+  <li><a href="#anticipatory" id="toc-anticipatory" class="nav-link" data-scroll-target="#anticipatory">Anticipatory</a>
+  <ul class="collapse">
+  <li><a href="#form-sit-to-stand" id="toc-form-sit-to-stand" class="nav-link" data-scroll-target="#form-sit-to-stand">1 Sit-to-stand</a></li>
+  <li><a href="#form-rise-to-toes" id="toc-form-rise-to-toes" class="nav-link" data-scroll-target="#form-rise-to-toes">2 Rise to toes</a></li>
+  <li><a href="#form-slb" id="toc-form-slb" class="nav-link" data-scroll-target="#form-slb">3 Single leg static balance</a></li>
+  </ul></li>
+  <li><a href="#reactive-postural-control" id="toc-reactive-postural-control" class="nav-link" data-scroll-target="#reactive-postural-control">Reactive postural control</a>
+  <ul class="collapse">
+  <li><a href="#form-compensatory-stepping-correction-forward" id="toc-form-compensatory-stepping-correction-forward" class="nav-link" data-scroll-target="#form-compensatory-stepping-correction-forward">4 Compensatory stepping correction - Forward</a></li>
+  <li><a href="#form-compensatory-stepping-correction-backward" id="toc-form-compensatory-stepping-correction-backward" class="nav-link" data-scroll-target="#form-compensatory-stepping-correction-backward">5 Compensatory stepping correction - Backward</a></li>
+  <li><a href="#form-compensatory-stepping-correction-lateral" id="toc-form-compensatory-stepping-correction-lateral" class="nav-link" data-scroll-target="#form-compensatory-stepping-correction-lateral">6 Compensatory stepping correction - Lateral</a></li>
+  </ul></li>
+  <li><a href="#form-sensory-orientation" id="toc-form-sensory-orientation" class="nav-link" data-scroll-target="#form-sensory-orientation">Sensory orientation</a>
+  <ul class="collapse">
+  <li><a href="#form-feet-together-eyes-open-balance" id="toc-form-feet-together-eyes-open-balance" class="nav-link" data-scroll-target="#form-feet-together-eyes-open-balance">7 Feet together, Eyes open, static balance</a></li>
+  <li><a href="#form-feet-together-eyes-closed-balance" id="toc-form-feet-together-eyes-closed-balance" class="nav-link" data-scroll-target="#form-feet-together-eyes-closed-balance">8 Feet together, Eyes closed, static balance</a></li>
+  <li><a href="#form-incline-eyes-closed-balance" id="toc-form-incline-eyes-closed-balance" class="nav-link" data-scroll-target="#form-incline-eyes-closed-balance">9 Incline (DF) Eyes closed static balance</a></li>
+  </ul></li>
+  <li><a href="#form-dynamic-gait" id="toc-form-dynamic-gait" class="nav-link" data-scroll-target="#form-dynamic-gait">Dynamic gait</a>
+  <ul class="collapse">
+  <li><a href="#form-change-in-gait-speed" id="toc-form-change-in-gait-speed" class="nav-link" data-scroll-target="#form-change-in-gait-speed">10 Change in Gait Speed</a></li>
+  <li><a href="#form-walk-horizontal-head-turn" id="toc-form-walk-horizontal-head-turn" class="nav-link" data-scroll-target="#form-walk-horizontal-head-turn">11 Walk + Horizontal Head Turns</a></li>
+  <li><a href="#forms-gait-with-pivot-turn" id="toc-forms-gait-with-pivot-turn" class="nav-link" data-scroll-target="#forms-gait-with-pivot-turn">12 Gait + Pivot turns</a></li>
+  <li><a href="#form-step-over-obstacles" id="toc-form-step-over-obstacles" class="nav-link" data-scroll-target="#form-step-over-obstacles">13 Step over obstacles</a></li>
+  <li><a href="#form-timed-up-and-go-dual-task" id="toc-form-timed-up-and-go-dual-task" class="nav-link" data-scroll-target="#form-timed-up-and-go-dual-task">14 Timed Up &amp; Go with Dual-task</a></li>
+  </ul></li>
+  </ul></li>
+  </ul>
+</nav>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Mini-BESTest</h1>
+<p class="subtitle lead">Mini Balance Evaluation Systems Test</p>
+</div>
+
+
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Authors</div>
+  <div class="quarto-title-meta-heading">Affiliations</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author"><a href="https://yomokerst.com/about.html#ngy">Nathaniel Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Doctor of Physical Therapy
+          </p>
+        <p class="affiliation">
+            B.S. in Kinesiology
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author"><a href="https://yomokerst.com/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Doctor of Physical Therapy
+          </p>
+        <p class="affiliation">
+            B.A. in Neuroscience
+          </p>
+      </div>
+  </div>
+
+<div class="quarto-title-meta">
+
+      
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="setup" class="level1">
+<h1>Setup</h1>
+<section id="subject-conditions" class="level2">
+<h2 class="anchored" data-anchor-id="subject-conditions">Subject Conditions</h2>
+<p>Subject should be tested with flat-heeled shoes OR shoes and socks off.</p>
+</section>
+<section id="equipment" class="level2">
+<h2 class="anchored" data-anchor-id="equipment">Equipment</h2>
+<ol type="1">
+<li>Temper® foam (also called T-foamTM 4 inches thick, medium density T41 firmness rating)</li>
+<li>chair without arm rests or wheels</li>
+<li>Incline ramp</li>
+<li>Stopwatch</li>
+<li>A box (9” height)</li>
+<li>3 meter distance measured out and marked on the floor with tape [from chair]</li>
+</ol>
+</section>
+</section>
+<section id="scoring" class="level1">
+<h1>Scoring</h1>
+<p>The test consists of 14 items which can be scored from 0-2 points. Therefore the test has a minimum score of 0/28 and a maximum score of 28/28.</p>
+<p>For each item, “0” indicates the lowest level of function and “2” the highest level of function.</p>
+<ul>
+<li><strong>Assistive devices</strong>: If a subject must use an assistive device for an item, score that item one category lower.</li>
+<li><strong>Physical assistance</strong>: If a subject requires physical assistance to perform an item, score “0” for that item.</li>
+</ul>
+</section>
+<section id="form" class="level1">
+<h1>Form</h1>
+<ol type="1">
+<li><p><a href="#form-sit-to-stand">Sit-to-stand</a></p></li>
+<li><p><a href="#form-rise-to-toes">Rise to toes</a></p></li>
+<li><p><a href="#form-slb">Single leg static balance</a></p></li>
+<li><p><a href="#form-compensatory-stepping-correction-forward">Compensatory stepping correction - Forward</a></p></li>
+<li><p><a href="#form-compensatory-stepping-correction-backward">Compensatory stepping correction - Backward</a></p></li>
+<li><p><a href="#form-compensatory-stepping-correction-lateral">Compensatory stepping correction - Lateral</a></p></li>
+<li><p><a href="#form-feet-together-eyes-open-balance">Feet together, Eyes open, static balance</a></p></li>
+<li><p><a href="#form-feet-together-eyes-closed-balance">Feet together, Eyes closed, static balance</a></p></li>
+<li><p><a href="#form-incline-eyes-closed-balance">Incline (DF) Eyes closed static balance</a></p></li>
+</ol>
+<section id="anticipatory" class="level2">
+<h2 class="anchored" data-anchor-id="anticipatory">Anticipatory</h2>
+<p>Anticipatory subsection consists of 3 items with a maximum score of 6 points.</p>
+<ol type="1">
+<li><a href="#form-sit-to-stand">Sit-to-stand</a></li>
+<li><a href="#form-rise-to-toes">Rise to toes</a></li>
+<li><a href="#form-slb">Single leg static balance</a></li>
+</ol>
+<section id="form-sit-to-stand" class="level3">
+<h3 class="anchored" data-anchor-id="form-sit-to-stand">1 Sit-to-stand</h3>
+<p>Instruction: “Cross your arms across your chest. Try not to use your hands unless you must. Do not let your legs lean against the back of the chair when you stand. Please stand up now.”</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 66%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Score</th>
+<th>Level</th>
+<th>Criteria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2</td>
+<td>Normal</td>
+<td>Comes to stand without use of hands and stabilizes independently</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>Moderate</td>
+<td>Comes to stand WITH use of hands on first attempt</td>
+</tr>
+<tr class="odd">
+<td>0</td>
+<td>Severe</td>
+<td>Unable to stand up from chair without assistance, OR needs several attempts with use of hands</td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>“Note the initiation of the movement, and the use of the subject’s hands on the seat of the chair, the thighs, or the thrusting of the arms forward.”</p>
+</div>
+</div>
+</section>
+<section id="form-rise-to-toes" class="level3">
+<h3 class="anchored" data-anchor-id="form-rise-to-toes">2 Rise to toes</h3>
+<p>Instruction: “Place your feet shoulder width apart. Place your hands on your hips. Try to rise as high as you can onto your toes. I will count out loud to 3 seconds. Try to hold this pose for at least 3 seconds. Look straight ahead. Rise now.”</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 66%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Score</th>
+<th>Level</th>
+<th>Criteria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2</td>
+<td>Normal</td>
+<td>Stable for 3s with maximum height</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>Moderate</td>
+<td>Heels up, but not full range (smaller than when holding hands), OR noticeable instability for 3s</td>
+</tr>
+<tr class="odd">
+<td>0</td>
+<td>Severe</td>
+<td>&lt;3s</td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>“Allow the subject two attempts. Score the best attempt. (If you suspect that subject is using less than full height, ask the subject to rise up while holding the examiners’ hands.) Make sure the subject looks at a non-moving target 4-12 feet away”</p>
+</div>
+</div>
+</section>
+<section id="form-slb" class="level3">
+<h3 class="anchored" data-anchor-id="form-slb">3 Single leg static balance</h3>
+<p>Instruction: “Look straight ahead. Keep your hands on your hips. Lift your leg off of the ground behind you without touching or resting your raised leg upon your other standing leg. Stay standing on one leg as long as you can. Look straight ahead. Lift now.”</p>
+<p>To score each side separately use the trial with the longest time. To calculate the sub-score and total score use the side [left or right] with the lowest numerical score [i.e.&nbsp;the worse side].</p>
+<ul>
+<li>Left:
+<ul>
+<li>Trial 1:_____ seconds</li>
+<li>Trial 2:_____ seconds</li>
+</ul></li>
+<li>Right:
+<ul>
+<li>Trial 1:_____ seconds</li>
+<li>Trial 2:_____ seconds</li>
+</ul></li>
+</ul>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Score</th>
+<th>Level</th>
+<th>Criteria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2</td>
+<td>Normal</td>
+<td>20s</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>Moderate</td>
+<td>&lt; 20s</td>
+</tr>
+<tr class="odd">
+<td>0</td>
+<td>Severe</td>
+<td>Unable</td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Include the <em>best</em> score from the <em>worst</em> side.</p>
+</div>
+</div>
+<p>“Allow the subject two attempts and record the times. Record the number of seconds the subject can hold up to a maximum of 20 seconds. Stop timing when the subject moves hands off of hips or puts a foot down. Make sure the subject looks at a non-moving target 4-12 feet ahead. Repeat on other side.”</p>
+<details>
+<summary>
+Example
+</summary>
+<p>You have a patient who scores the following:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Trial</th>
+<th>Right</th>
+<th>Left</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Trial 1</td>
+<td>17s</td>
+<td>19s</td>
+</tr>
+<tr class="even">
+<td>Trial 2</td>
+<td>20s</td>
+<td>15s</td>
+</tr>
+</tbody>
+</table>
+<p>When scoring <strong>both</strong> legs, you would report the best score from the two trials:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Right</th>
+<th>Left</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>20s (2/2)</td>
+<td>19s (1/2)</td>
+</tr>
+</tbody>
+</table>
+<p>When calculating the subscore or the overall score, you cannot include both legs, since each item can only be worth 2 points. Thus, you must choose the leg with the <em>worse</em> score, in this case, it would be the left leg. You would report this items score as follows:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Item</th>
+<th>Time</th>
+<th>Score</th>
+<th>Level</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Item 3</td>
+<td>19s</td>
+<td>1/2 pt</td>
+<td>Moderate</td>
+</tr>
+</tbody>
+</table>
+</details>
+</section>
+</section>
+<section id="reactive-postural-control" class="level2">
+<h2 class="anchored" data-anchor-id="reactive-postural-control">Reactive postural control</h2>
+<p><em>Reactive postural control</em> subsection consists of 3 items with a maximum score of 6 points.</p>
+<ul>
+<li><a href="#form-compensatory-stepping-correction-forward">Compensatory stepping correction - Forward</a></li>
+<li><a href="#form-compensatory-stepping-correction-backward">Compensatory stepping correction - Backward</a></li>
+<li><a href="#form-compensatory-stepping-correction-lateral">Compensatory stepping correction - Lateral</a></li>
+</ul>
+<section id="form-compensatory-stepping-correction-forward" class="level3">
+<h3 class="anchored" data-anchor-id="form-compensatory-stepping-correction-forward">4 Compensatory stepping correction - Forward</h3>
+<p>Instruction: “Stand with your feet shoulder width apart, arms at your sides. Lean forward against my hands beyond your forward limits. When I let go, do whatever is necessary, including taking a step, to avoid a fall.”</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 66%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Score</th>
+<th>Level</th>
+<th>Criteria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2</td>
+<td>Normal</td>
+<td>Recovers independently with a single, large step (second realignment step is allowed)</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>Moderate</td>
+<td>Moderate: More than one step used to recover equilibrium</td>
+</tr>
+<tr class="odd">
+<td>0</td>
+<td>Severe</td>
+<td>No step, OR would fall if not caught, OR falls spontaneously</td>
+</tr>
+</tbody>
+</table>
+<p>“Stand in front of the subject with one hand on each shoulder and ask the subject to lean forward (Make sure there is room for them to step forward). Require the subject to lean until the subject’s shoulders and hips are in front of toes. After you feel the subject’s body weight in your hands, very suddenly release your support. The test must elicit a step. NOTE: Be prepared to catch subject.”</p>
+</section>
+<section id="form-compensatory-stepping-correction-backward" class="level3">
+<h3 class="anchored" data-anchor-id="form-compensatory-stepping-correction-backward">5 Compensatory stepping correction - Backward</h3>
+<p>Instruction: “Stand with your feet shoulder width apart, arms at your sides. Lean backward against my hands beyond your backward limits. When I let go, do whatever is necessary, including taking a step, to avoid a fall.”</p>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Caution
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Be prepared to catch subject!</p>
+</div>
+</div>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 66%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Score</th>
+<th>Level</th>
+<th>Criteria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2</td>
+<td>Normal</td>
+<td>Recovers independently with a single, large step</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>Moderate</td>
+<td>More than one step used to recover equilibrium</td>
+</tr>
+<tr class="odd">
+<td>0</td>
+<td>Severe</td>
+<td>No step, OR would fall if not caught, OR falls spontaneously</td>
+</tr>
+</tbody>
+</table>
+<p>“Stand behind the subject with one hand on each scapula and ask the subject to lean backward (Make sure there is room for the subject to step backward.) Require the subject to lean until their shoulders and hips are in back of their heels. After you feel the subject’s body weight in your hands, very suddenly release your support. Test must elicit a step”</p>
+</section>
+<section id="form-compensatory-stepping-correction-lateral" class="level3">
+<h3 class="anchored" data-anchor-id="form-compensatory-stepping-correction-lateral">6 Compensatory stepping correction - Lateral</h3>
+<p>Instruction: “Stand with your feet together, arms down at your sides. Lean into my hand beyond your sideways limit. When I let go, do whatever is necessary, including taking a step, to avoid a fall.”</p>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Caution
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Be prepared to catch subject!</p>
+</div>
+</div>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 66%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Score</th>
+<th>Level</th>
+<th>Criteria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2</td>
+<td>Normal</td>
+<td>Recovers independently with 1 step (crossover or lateral OK)</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>Moderate</td>
+<td>Several steps to recover equilibrium</td>
+</tr>
+<tr class="odd">
+<td>0</td>
+<td>Severe</td>
+<td>Falls, or cannot step</td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Only include the score for the <em>worst</em> side.</p>
+</div>
+</div>
+<p>Stand to the side of the subject, place one hand on the side of the subject’s pelvis, and have the subject lean their whole body into your hands. Require the subject to lean until the midline of the pelvis is over the right (or left) foot and then suddenly release your hold</p>
+</section>
+</section>
+<section id="form-sensory-orientation" class="level2">
+<h2 class="anchored" data-anchor-id="form-sensory-orientation">Sensory orientation</h2>
+<p>Sensory orientation is a subsection with a subscore of 6 points.</p>
+<ul>
+<li><a href="#form-feet-together-eyes-open-balance">Item 7: Feet together, Eyes open, static balance</a></li>
+<li><a href="#form-feet-together-eyes-closed-balance">Item 8 Feet together, Eyes closed, static balance</a></li>
+<li><a href="#form-incline-eyes-closed-balance">Item 9 Incline (DF) Eyes closed static balance</a></li>
+</ul>
+<section id="form-feet-together-eyes-open-balance" class="level3">
+<h3 class="anchored" data-anchor-id="form-feet-together-eyes-open-balance">7 Feet together, Eyes open, static balance</h3>
+<p>Instruction: “Place your hands on your hips. Place your feet together until almost touching. Look straight ahead. Be as stable and still as possible, until I say stop.”</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Score</th>
+<th>Level</th>
+<th>Criteria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2</td>
+<td>Normal</td>
+<td>≥30s</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>Moderate</td>
+<td>&lt;30s</td>
+</tr>
+<tr class="odd">
+<td>0</td>
+<td>Severe</td>
+<td>Unable</td>
+</tr>
+</tbody>
+</table>
+<p>“Record the time the subject was able to stand with feet together up to a maximum of 30 seconds. Make sure subject looks at a non-moving target 4-12 feet away.”</p>
+</section>
+<section id="form-feet-together-eyes-closed-balance" class="level3">
+<h3 class="anchored" data-anchor-id="form-feet-together-eyes-closed-balance">8 Feet together, Eyes closed, static balance</h3>
+<p>Instruction: “Step onto the foam. Place your hands on your hips. Place your feet together until almost touching. Be as stable and still as possible, until I say stop. I will start timing when you close your eyes.”</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Score</th>
+<th>Level</th>
+<th>Criteria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2</td>
+<td>Normal</td>
+<td>≥30s</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>Moderate</td>
+<td>&lt;30s</td>
+</tr>
+<tr class="odd">
+<td>0</td>
+<td>Severe</td>
+<td>Unable</td>
+</tr>
+</tbody>
+</table>
+<p>“Use medium density Temper® foam, 4 inches thick. Assist subject in stepping onto foam. Record the time the subject was able to stand in each condition to a maximum of 30 seconds. Have the subject step off of the foam between trials. Flip the foam over between each trial to ensure the foam has retained its shape.”</p>
+</section>
+<section id="form-incline-eyes-closed-balance" class="level3">
+<h3 class="anchored" data-anchor-id="form-incline-eyes-closed-balance">9 Incline (DF) Eyes closed static balance</h3>
+<p>Instruction: “Step onto the incline ramp. Please stand on the incline ramp with your toes toward the top. Place your feet shoulder width apart and have your arms down at your sides. I will start timing when you close your eyes.”</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Score</th>
+<th>Level</th>
+<th>Criteria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2</td>
+<td>Normal</td>
+<td>≥30s</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>Moderate</td>
+<td>&lt;30s</td>
+</tr>
+<tr class="odd">
+<td>0</td>
+<td>Severe</td>
+<td>Unable</td>
+</tr>
+</tbody>
+</table>
+<p>“Aid the subject onto the ramp. Once the subject closes eyes, begin timing and record time. Note if there is excessive sway.”</p>
+</section>
+</section>
+<section id="form-dynamic-gait" class="level2">
+<h2 class="anchored" data-anchor-id="form-dynamic-gait">Dynamic gait</h2>
+<p>The <em>dynamic gait</em> subsection consists of 5 items and a maximum of 10 points.</p>
+<ul>
+<li><a href="#form-change-in-gait-speed">Item 10: Change in gait speed</a></li>
+<li><a href="#form-walk-horizontal-head-turn">Item 11: Walk + Horizontal head turns</a></li>
+<li><a href="#forms-gait-with-pivot-turn">Item 12 Gait + Pivot turns</a></li>
+<li><a href="#form-step-over-obstacles">Item 13 Step over obstacles</a></li>
+<li><a href="#form-timed-up-and-go-dual-task">Item 14 Timed Up &amp; Go with Dual-task</a></li>
+</ul>
+<section id="form-change-in-gait-speed" class="level3">
+<h3 class="anchored" data-anchor-id="form-change-in-gait-speed">10 Change in Gait Speed</h3>
+<p>Instruction: “Begin walking at your normal speed, when I tell you ‘fast’, walk as fast as you can. When I say ‘slow’, walk very slowly.”</p>
+<p>“Allow the subject to take 3-5 steps at normal speed, and then say “fast”. After 3-5 fast steps, say “slow”. Allow 3-5 slow steps before the subject stops walking.”</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 66%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Score</th>
+<th>Level</th>
+<th>Criteria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2</td>
+<td>Normal</td>
+<td>Significantly changes walking speed without imbalance</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>Moderate</td>
+<td>Unable to change walking speed or signs of imbalance</td>
+</tr>
+<tr class="odd">
+<td>0</td>
+<td>Severe</td>
+<td>Unable to achieve significant change in walking speed AND signs of imbalance</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="form-walk-horizontal-head-turn" class="level3">
+<h3 class="anchored" data-anchor-id="form-walk-horizontal-head-turn">11 Walk + Horizontal Head Turns</h3>
+<p>Instruction: “Begin walking at your normal speed, when I say “right”, turn your head and look to the right. When I say “left” turn your head and look to the left. Try to keep yourself walking in a straight line.”</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 66%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Score</th>
+<th>Level</th>
+<th>Criteria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2</td>
+<td>Normal</td>
+<td>Performs head turns with no change in gait speed and good balance</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>Moderate</td>
+<td>Performs head turns with reduction in gait speed</td>
+</tr>
+<tr class="odd">
+<td>0</td>
+<td>Severe</td>
+<td>Performs head turns with imbalance</td>
+</tr>
+</tbody>
+</table>
+<p>“Allow the subject to reach normal speed, and give the commands “right, left” every 3-5 steps. Score if you see a problem in either direction. If subject has severe cervical restrictions allow combined head and trunk movements.”</p>
+</section>
+<section id="forms-gait-with-pivot-turn" class="level3">
+<h3 class="anchored" data-anchor-id="forms-gait-with-pivot-turn">12 Gait + Pivot turns</h3>
+<p>Instruction: “Begin walking at your normal speed. When I tell you to ‘turn and stop’, turn as quickly as you can, face the opposite direction, and stop. After the turn, your feet should be close together.”</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Score</th>
+<th>Level</th>
+<th>Criteria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2</td>
+<td>Normal</td>
+<td>Turns with feet close FAST (&lt; 3 steps) with good balance</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>Moderate</td>
+<td>Turns with feet close SLOW (&gt;4 steps) with good balance</td>
+</tr>
+<tr class="odd">
+<td>0</td>
+<td>Severe</td>
+<td>Cannot turn with feet close at any speed without imbalance</td>
+</tr>
+</tbody>
+</table>
+<p>“Demonstrate a pivot turn. Once the subject is walking at normal speed, say “turn and stop.” Count the number of steps from “turn” until the subject is stable. Imbalance may be indicated by wide stance, extra stepping or trunk motion. ”</p>
+</section>
+<section id="form-step-over-obstacles" class="level3">
+<h3 class="anchored" data-anchor-id="form-step-over-obstacles">13 Step over obstacles</h3>
+<p>Instruction: “Begin walking at your normal speed. When you get to the box, step over it, not around it and keep walking.”</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 66%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Score</th>
+<th>Level</th>
+<th>Criteria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2</td>
+<td>Normal</td>
+<td>Able to step over box with minimal change of gait speed and with good balance</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>Moderate</td>
+<td>Steps over box but touches box OR displays cautious behavior by slowing gait</td>
+</tr>
+<tr class="odd">
+<td>0</td>
+<td>Severe</td>
+<td>Unable to step over box OR steps around box</td>
+</tr>
+</tbody>
+</table>
+<p>“Place the box (9 inches or 23 cm height) 10 feet away from where the subject will begin walking. Two shoeboxes taped together works well to create this apparatus”</p>
+</section>
+<section id="form-timed-up-and-go-dual-task" class="level3">
+<h3 class="anchored" data-anchor-id="form-timed-up-and-go-dual-task">14 Timed Up &amp; Go with Dual-task</h3>
+<ul>
+<li><p>3 meter walk</p></li>
+<li><p>Instruction TUG: “When I say ‘Go’, stand up from chair, walk at your normal speed across the tape on the floor, turn around, and come back to sit in the chair.” Instruction TUG with Dual Task: “Count backwards by threes starting at ___. When I say ‘Go’, stand up from chair, walk at your normal speed across the tape on the floor, turn around, and come back to sit in the chair. Continue counting backwards the entire time.”</p></li>
+<li><p>TUG: ________seconds;</p></li>
+<li><p>Dual Task TUG: ________seconds</p></li>
+</ul>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 66%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Score</th>
+<th>Level</th>
+<th>Criteria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2</td>
+<td>Normal</td>
+<td>No noticeable change in sitting, standing or walking while backward counting when compared to TUG without Dual Task</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>Moderate</td>
+<td>Dual Task affects either counting OR walking (&gt;10%) when compared to the TUG without Dual Task</td>
+</tr>
+<tr class="odd">
+<td>0</td>
+<td>Severe</td>
+<td>Stops counting while walking OR stops walking while counting</td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>If the patient’s gait speed decreases more than 10% when adding the Dual Task, the score should be ↓<em>decreased</em> by a point.</p>
+</div>
+</div>
+<p>“Use the TUG time to determine the effects of dual tasking. The subject should walk a 3 meter distance. TUG: Have the subject sitting with the subject’s back against the chair. The subject will be timed from the moment you say “Go” until the subject returns to sitting. Stop timing when the subject’s buttocks hit the chair bottom and the subject’s back is against the chair. The chair should be firm without arms. TUG With Dual Task: While sitting determine how fast and accurately the subject can count backwards by threes starting from a number between 100-90. Then, ask the subject to count from a different number and after a few numbers say “Go”. Time the subject from the moment you say “Go” until the subject returns to the sitting position. Score dual task as affecting counting or walking if speed slows (&gt;10%) from TUG and or new signs of imbalance.”</p>
+
+
+</section>
+</section>
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div class="">Yomogida N, Kerstein C. Mini-BESTest. <a href="https://yomokerst.com/The Archive/Examination/Tests and Measures/Balance Tests/BESTest/Mini-BESTest.html">https://yomokerst.com/The
+Archive/Examination/Tests and Measures/Balance
+Tests/BESTest/Mini-BESTest.html</a></div>
+</div></div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/yomokerst\.com");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

@@ -37,7 +37,7 @@
         "- [Gluteus minimus]({{< var ref-gluteus-minimus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017\n",
         "- [TFL]({{< var ref-tensor-fascia-latae.path >}}) @neumannKinesiologyMusculoskeletalSystem2017\n"
       ],
-      "id": "b61fdfb0"
+      "id": "84a7a255"
     },
     {
       "cell_type": "code",
@@ -92,7 +92,7 @@
         "- Rectus Femoris @neumannKinesiologyMusculoskeletalSystem2017\n",
         "- Anterior (superior) fibers of the glut max @neumannKinesiologyMusculoskeletalSystem2017\n"
       ],
-      "id": "42d9e7f2"
+      "id": "dbe97e70"
     },
     {
       "cell_type": "code",
@@ -176,7 +176,7 @@
         "# Dysfunction\n",
         "Greater trochanteric Pain syndrome (GTPS)"
       ],
-      "id": "11cb36db"
+      "id": "c92ed323"
     }
   ],
   "metadata": {

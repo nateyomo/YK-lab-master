@@ -1,0 +1,369 @@
+---
+title: Mini-BESTest
+subtitle: Mini Balance Evaluation Systems Test
+---
+
+
+
+
+# Setup
+
+## Subject Conditions
+
+Subject should be tested with flat-heeled shoes OR shoes and socks off.
+
+## Equipment
+
+1. Temper® foam (also called T-foamTM 4 inches thick, medium density T41 firmness rating)
+1. chair without arm rests or wheels
+1. Incline ramp
+1. Stopwatch
+1. A box (9” height)
+1. 3 meter distance measured out and marked on the floor with tape [from chair]
+
+# Scoring
+
+The test consists of 14 items which can be scored from 0-2 points.
+Therefore the test has a minimum score of 0/28 and a maximum score of 28/28.
+
+For each item, “0” indicates the lowest level of function and “2” the highest level of function.
+
+- **Assistive devices**: If a subject must use an assistive device for an item, score that item one category lower.
+- **Physical assistance**: If a subject requires physical assistance to perform an item, score “0” for that item.
+
+# Form
+
+1. [Sit-to-stand](#form-sit-to-stand)
+1. [Rise to toes](#form-rise-to-toes)
+1. [Single leg static balance](#form-slb)
+1. [Compensatory stepping correction - Forward](#form-compensatory-stepping-correction-forward)
+1. [Compensatory stepping correction - Backward](#form-compensatory-stepping-correction-backward)
+1. [Compensatory stepping correction - Lateral](#form-compensatory-stepping-correction-lateral)
+
+1. [Feet together, Eyes open, static balance](#form-feet-together-eyes-open-balance)
+1. [Feet together, Eyes closed, static balance](#form-feet-together-eyes-closed-balance)
+1. [Incline (DF) Eyes closed static balance](#form-incline-eyes-closed-balance)
+
+## Anticipatory
+
+Anticipatory subsection consists of 3 items with a maximum score of 6 points.
+
+1. [Sit-to-stand](#form-sit-to-stand)
+1. [Rise to toes](#form-rise-to-toes)
+1. [Single leg static balance](#form-slb)
+
+### 1 Sit-to-stand {#form-sit-to-stand}
+
+Instruction: “Cross your arms across your chest. Try not to use your hands unless you must. Do not let your legs lean
+against the back of the chair when you stand. Please stand up now.”
+
+
+| Score | Level | Criteria |
+|-|-|----|
+|2| Normal | Comes to stand without use of hands and stabilizes independently |
+|1| Moderate | Comes to stand WITH use of hands on first attempt |
+|0| Severe| Unable to stand up from chair without assistance, OR needs several attempts with use of hands |
+
+::: {.callout-note}
+"Note the initiation of the movement, and the use of the subject’s hands on the seat of the chair, the
+thighs, or the thrusting of the arms forward."
+:::
+
+### 2 Rise to toes {#form-rise-to-toes}
+
+Instruction: “Place your feet shoulder width apart. Place your hands on your hips. Try to rise as high as you can onto your
+toes. I will count out loud to 3 seconds. Try to hold this pose for at least 3 seconds. Look straight ahead. Rise now.”
+
+
+| Score | Level | Criteria |
+|-|-|----|
+|2| Normal | Stable for 3s with maximum height |
+|1| Moderate | Heels up, but not full range (smaller than when holding hands), OR noticeable instability for 3s |
+|0| Severe| <3s |
+
+::: {.callout-note}
+"Allow the subject two attempts. Score the best attempt. (If you suspect that subject is using less than full
+height, ask the subject to rise up while holding the examiners’ hands.) Make sure the subject looks at a
+non-moving target 4-12 feet away"
+:::
+
+### 3 Single leg static balance {#form-slb}
+
+Instruction: “Look straight ahead. Keep your hands on your hips. Lift your leg off of the ground behind you without touching or
+resting your raised leg upon your other standing leg. Stay standing on one leg as long as you can. Look straight ahead. Lift
+now.”
+
+
+To score each side separately use the trial with the longest time.
+To calculate the sub-score and total score use the side [left or right] with the lowest numerical score [i.e. the worse side].
+
+
+- Left:
+    - Trial 1:_____ seconds
+    - Trial 2:_____ seconds
+- Right:
+    - Trial 1:_____ seconds
+    - Trial 2:_____ seconds
+
+| Score | Level | Criteria |
+|-|-|----|
+|2| Normal | 20s |
+|1| Moderate | < 20s |
+|0| Severe| Unable |
+
+
+::: {.callout-note}
+Include the *best* score from the *worst* side.
+:::
+
+"Allow the subject two attempts and record the times. Record the number of seconds the subject can hold
+up to a maximum of 20 seconds. Stop timing when the subject moves hands off of hips or puts a foot
+down. Make sure the subject looks at a non-moving target 4-12 feet ahead. Repeat on other side."
+
+<details>
+    <summary>Example</summary>
+You have a patient who scores the following:
+
+| Trial | Right | Left |
+|-|-|-|
+| Trial 1 | 17s | 19s |
+| Trial 2 | 20s| 15s |
+
+When scoring **both** legs, you would report the best score from the two trials:
+
+| Right | Left |
+|-|-|
+| 20s (2/2) | 19s (1/2) |
+
+When calculating the subscore or the overall score, you cannot include both legs, since each item can only be worth 2 points.
+Thus, you must choose the leg with the *worse* score, in this case, it would be the left leg.
+You would report this items score as follows:
+
+| Item | Time | Score | Level |
+|-|-|-|-|
+| Item 3 | 19s | 1/2 pt | Moderate |
+
+</details>
+
+## Reactive postural control
+
+*Reactive postural control* subsection consists of 3 items with a maximum score of 6 points.
+
+- [Compensatory stepping correction - Forward](#form-compensatory-stepping-correction-forward)
+- [Compensatory stepping correction - Backward](#form-compensatory-stepping-correction-backward)
+- [Compensatory stepping correction - Lateral](#form-compensatory-stepping-correction-lateral)
+
+### 4 Compensatory stepping correction - Forward {#form-compensatory-stepping-correction-forward}
+
+Instruction: “Stand with your feet shoulder width apart, arms at your sides. Lean forward against my hands beyond your
+forward limits. When I let go, do whatever is necessary, including taking a step, to avoid a fall.”
+
+
+| Score | Level | Criteria |
+|-|-|----|
+|2| Normal | Recovers independently with a single, large step (second realignment step is allowed) |
+|1| Moderate | Moderate: More than one step used to recover equilibrium |
+|0| Severe| No step, OR would fall if not caught, OR falls spontaneously|
+
+"Stand in front of the subject with one hand on each shoulder and ask the subject to lean forward (Make
+sure there is room for them to step forward). Require the subject to lean until the subject’s shoulders and
+hips are in front of toes. After you feel the subject’s body weight in your hands, very suddenly release
+your support. The test must elicit a step. NOTE: Be prepared to catch subject. "
+
+### 5 Compensatory stepping correction - Backward {#form-compensatory-stepping-correction-backward}
+
+Instruction: “Stand with your feet shoulder width apart, arms at your sides. Lean backward against my hands beyond your
+backward limits. When I let go, do whatever is necessary, including taking a step, to avoid a fall.”
+
+::: {.callout-caution}
+Be prepared to catch subject!
+:::
+
+| Score | Level | Criteria |
+|-|-|----|
+|2| Normal | Recovers independently with a single, large step |
+|1| Moderate | More than one step used to recover equilibrium |
+|0| Severe| No step, OR would fall if not caught, OR falls spontaneously |
+
+"Stand behind the subject with one hand on each scapula and ask the subject to lean backward (Make
+sure there is room for the subject to step backward.) Require the subject to lean until their shoulders and
+hips are in back of their heels. After you feel the subject’s body weight in your hands, very suddenly
+release your support. Test must elicit a step"
+
+### 6 Compensatory stepping correction - Lateral {#form-compensatory-stepping-correction-lateral}
+
+Instruction: “Stand with your feet together, arms down at your sides. Lean into my hand beyond your sideways limit. When I
+let go, do whatever is necessary, including taking a step, to avoid a fall.”
+
+::: {.callout-caution}
+Be prepared to catch subject!
+:::
+
+| Score | Level | Criteria |
+|-|-|----|
+|2| Normal | Recovers independently with 1 step (crossover or lateral OK)|
+|1| Moderate | Several steps to recover equilibrium |
+|0| Severe| Falls, or cannot step |
+
+
+::: {.callout-note}
+Only include the score for the *worst* side.
+:::
+
+Stand to the side of the subject, place one hand on the side of the subject’s pelvis, and have the subject
+lean their whole body into your hands. Require the subject to lean until the midline of the pelvis is over
+the right (or left) foot and then suddenly release your hold
+
+## Sensory orientation {#form-sensory-orientation}
+
+Sensory orientation is a subsection with a subscore of 6 points.
+
+- [Item 7: Feet together, Eyes open, static balance](#form-feet-together-eyes-open-balance)
+- [Item 8 Feet together, Eyes closed, static balance](#form-feet-together-eyes-closed-balance)
+- [Item 9 Incline (DF) Eyes closed static balance](#form-incline-eyes-closed-balance)
+
+
+### 7 Feet together, Eyes open, static balance {#form-feet-together-eyes-open-balance}
+
+Instruction: “Place your hands on your hips. Place your feet together until almost touching. Look straight ahead. Be as stable
+and still as possible, until I say stop.”
+
+| Score | Level | Criteria |
+|-|-|----|
+|2| Normal | &ge;30s |
+|1| Moderate | &lt;30s |
+|0| Severe| Unable |
+
+"Record the time the subject was able to stand with feet together up to a maximum of 30 seconds. Make
+sure subject looks at a non-moving target 4-12 feet away."
+
+### 8 Feet together, Eyes closed, static balance {#form-feet-together-eyes-closed-balance}
+
+
+Instruction: “Step onto the foam. Place your hands on your hips. Place your feet together until almost touching. Be as stable
+and still as possible, until I say stop. I will start timing when you close your eyes.” 
+
+| Score | Level | Criteria |
+|-|-|----|
+|2| Normal | &ge;30s |
+|1| Moderate | &lt;30s |
+|0| Severe| Unable |
+
+"Use medium density Temper® foam, 4 inches thick. Assist subject in stepping onto foam. Record the
+time the subject was able to stand in each condition to a maximum of 30 seconds. Have the subject step
+off of the foam between trials. Flip the foam over between each trial to ensure the foam has retained its
+shape. "
+
+### 9 Incline (DF) Eyes closed static balance {#form-incline-eyes-closed-balance}
+
+Instruction: “Step onto the incline ramp. Please stand on the incline ramp with your toes toward the top. Place your feet
+shoulder width apart and have your arms down at your sides. I will start timing when you close your eyes.” 
+
+| Score | Level | Criteria |
+|-|-|----|
+|2| Normal | &ge;30s |
+|1| Moderate | &lt;30s |
+|0| Severe| Unable |
+
+"Aid the subject onto the ramp. Once the subject closes eyes, begin timing and record time. Note if there
+is excessive sway."
+
+## Dynamic gait {#form-dynamic-gait}
+
+The *dynamic gait* subsection consists of 5 items and a maximum of 10 points.
+
+- [Item 10: Change in gait speed](#form-change-in-gait-speed)
+- [Item 11: Walk + Horizontal head turns](#form-walk-horizontal-head-turn)
+- [Item 12 Gait + Pivot turns](#forms-gait-with-pivot-turn)
+- [Item 13 Step over obstacles](#form-step-over-obstacles)
+- [Item 14 Timed Up & Go with Dual-task](#form-timed-up-and-go-dual-task)
+
+### 10 Change in Gait Speed {#form-change-in-gait-speed}
+
+Instruction: “Begin walking at your normal speed, when I tell you ‘fast’, walk as fast as you can. When I say ‘slow’, walk very
+slowly.”
+
+"Allow the subject to take 3-5 steps at normal speed, and then say “fast”. After 3-5 fast steps, say “slow”.
+Allow 3-5 slow steps before the subject stops walking."
+
+| Score | Level | Criteria |
+|-|-|----|
+|2| Normal | Significantly changes walking speed without imbalance |
+|1| Moderate | Unable to change walking speed or signs of imbalance |
+|0| Severe| Unable to achieve significant change in walking speed AND signs of imbalance |
+
+### 11 Walk + Horizontal Head Turns {#form-walk-horizontal-head-turn}
+
+Instruction: “Begin walking at your normal speed, when I say “right”, turn your head and look to the right. When I say “left”
+turn your head and look to the left. Try to keep yourself walking in a straight line.”
+
+| Score | Level | Criteria |
+|-|-|----|
+|2| Normal | Performs head turns with no change in gait speed and good balance |
+|1| Moderate | Performs head turns with reduction in gait speed |
+|0| Severe | Performs head turns with imbalance |
+
+"Allow the subject to reach normal speed, and give the commands “right, left” every 3-5 steps. Score if
+you see a problem in either direction. If subject has severe cervical restrictions allow combined head and
+trunk movements."
+
+### 12 Gait + Pivot turns {#forms-gait-with-pivot-turn}
+
+Instruction: “Begin walking at your normal speed. When I tell you to ‘turn and stop’, turn as quickly as you can, face the
+opposite direction, and stop. After the turn, your feet should be close together.”
+
+| Score | Level | Criteria |
+|-|-|----|
+|2| Normal |Turns with feet close FAST (< 3 steps) with good balance |
+|1| Moderate | Turns with feet close SLOW (>4 steps) with good balance|
+|0| Severe| Cannot turn with feet close at any speed without imbalance|
+
+"Demonstrate a pivot turn. Once the subject is walking at normal speed, say “turn and stop.” Count the
+number of steps from “turn” until the subject is stable. Imbalance may be indicated by wide stance, extra
+stepping or trunk motion. "
+
+### 13 Step over obstacles {#form-step-over-obstacles}
+
+Instruction: “Begin walking at your normal speed. When you get to the box, step over it, not around it and keep walking.”
+
+| Score | Level | Criteria |
+|-|-|----|
+|2| Normal |Able to step over box with minimal change of gait speed and with good balance|
+|1| Moderate | Steps over box but touches box OR displays cautious behavior by slowing gait|
+|0| Severe| Unable to step over box OR steps around box|
+
+"Place the box (9 inches or 23 cm height) 10 feet away from where the subject will begin walking. Two
+shoeboxes taped together works well to create this apparatus"
+
+### 14 Timed Up & Go with Dual-task {#form-timed-up-and-go-dual-task}
+
+- 3 meter walk
+- Instruction TUG: “When I say ‘Go’, stand up from chair, walk at your normal speed across the tape on the floor, turn around,
+and come back to sit in the chair.”
+Instruction TUG with Dual Task: “Count backwards by threes starting at ___. When I say ‘Go’, stand up from chair, walk at
+your normal speed across the tape on the floor, turn around, and come back to sit in the chair. Continue counting backwards
+the entire time.”
+
+- TUG: ________seconds;
+- Dual Task TUG: ________seconds
+
+| Score | Level | Criteria |
+|-|-|----|
+|2| Normal | No noticeable change in sitting, standing or walking while backward counting when compared to TUG without Dual Task|
+|1| Moderate | Dual Task affects either counting OR walking (>10%) when compared to the TUG without Dual Task|
+|0| Severe| Stops counting while walking OR stops walking while counting|
+
+::: {.callout-note}
+If the patient's gait speed decreases more than 10% when adding the Dual Task, the score
+should be &darr;*decreased* by a point.
+:::
+
+"Use the TUG time to determine the effects of dual tasking. The subject should walk a 3 meter distance.
+TUG: Have the subject sitting with the subject’s back against the chair. The subject will be timed from the
+moment you say “Go” until the subject returns to sitting. Stop timing when the subject’s buttocks hit the
+chair bottom and the subject’s back is against the chair. The chair should be firm without arms. TUG
+With Dual Task: While sitting determine how fast and accurately the subject can count backwards by
+threes starting from a number between 100-90. Then, ask the subject to count from a different number
+and after a few numbers say “Go”. Time the subject from the moment you say “Go” until the subject
+returns to the sitting position. Score dual task as affecting counting or walking if speed slows (>10%)
+from TUG and or new signs of imbalance."

@@ -8,7 +8,7 @@
         "title: Psoas Major Muscle\n",
         "---"
       ],
-      "id": "be368d87"
+      "id": "802f5175"
     },
     {
       "cell_type": "code",
@@ -81,7 +81,7 @@
         "\n",
         "- [3D hip flexor stretch]({{< var ref-3d-hip-flexor-stretch.path >}})"
       ],
-      "id": "01421820"
+      "id": "5951a9d5"
     }
   ],
   "metadata": {

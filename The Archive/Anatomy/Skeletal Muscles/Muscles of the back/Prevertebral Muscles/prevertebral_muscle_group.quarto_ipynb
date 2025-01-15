@@ -27,7 +27,7 @@
         "| [Rectus Capitis Lateralis]({{< var ref-rectus-capitis-lateralis.path >}}) | {{< var ref-rectus-capitis-lateralis.origin >}} | {{< var ref-rectus-capitis-lateralis.insertion >}} | {{< var ref-rectus-capitis-lateralis.nerve >}} | {{< var ref-rectus-capitis-lateralis.action >}} |\n",
         ": Prevertebral Muscle Group {.striped .hover}\n"
       ],
-      "id": "e1214b29"
+      "id": "aad46a37"
     },
     {
       "cell_type": "code",

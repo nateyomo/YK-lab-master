@@ -8,7 +8,7 @@
         "title: Iliopsoas muscles\n",
         "---"
       ],
-      "id": "122c93ed"
+      "id": "d7f947cb"
     },
     {
       "cell_type": "code",
@@ -70,7 +70,7 @@
         "\n",
         "- [3D hip flexor stretch]({{< var ref-3d-hip-flexor-stretch.path >}})\n"
       ],
-      "id": "e68f9510"
+      "id": "ae440280"
     }
   ],
   "metadata": {
