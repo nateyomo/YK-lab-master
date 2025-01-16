@@ -2467,6 +2467,9 @@ ref-ankle-balance-strategy:
 ref-hip-balance-strategy:
   path: "/The Archive/Examination/Movement Analysis/Balance/balance_strategies.html"
 
+ref-mini-bestest:
+  path: "/The Archive/Examination/Tests and Measures/Balance Tests/BESTest/Mini-BESTest.html"
+
 ## Tests and measures
 ref-tinels-test:
   path: "/The Archive/Examination/Tests and Measures/Tinels_test.html"
@@ -3288,11 +3291,14 @@ ref-parkinsons-disease:
   path: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/parkinsons_disease.html"
   fog: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/freezing_of_gait_FOG.html"
   hoehn-and-yahr-scale: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/hoehn_and_yahr_scale.html"
-  tests:
-    UPDRS: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD Tests and Measures/UPDRS_unified_parkinsons_disease_rating_scale.html"
+  tests: ""
   intervention:
     gait: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD_gait.html"
     motor-disease-severity: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD_motor_disease_severity.html"
+ref-hoehn-and-yahr-scale:
+  path: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/hoehn_and_yahr_scale.html"
+ref-unified-parkinsons-disease-rating-scale:
+  path: "/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD Tests and Measures/UPDRS_unified_parkinsons_disease_rating_scale.html"
 ### Spinal Cord Injury
 ref-spinal-cord-injury:
   path: "/The Archive/Neuroscience/Neuropathology/SCI/spinal_cord_injury.html"

@@ -1,10 +1,7 @@
 ---
-title: Berg Balance Scale (BBS)
+title: Balance Test Overview
 ---
 
-
-
-# Indications
 
 
 In studies on patients with Parkinson's disease @kingComparingMiniBESTestBerg2012, multiple sclerosis @rossCohortStudyComparing2016 and spinal cord injuries @jorgensenComparisonBergBalance2017, the *Mini-BESTest* had a less significant ceiling effect and higher sensitivity in detecting balance improvements compared to other balance scales like the *Berg Balance Scale*.

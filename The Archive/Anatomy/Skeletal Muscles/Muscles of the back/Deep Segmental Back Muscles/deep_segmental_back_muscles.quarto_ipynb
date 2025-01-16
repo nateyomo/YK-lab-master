@@ -22,7 +22,7 @@
         "| [Lateral Intertransversarii Lumbora]({{< var ref-lateral-intertransversarii-lumbora.path >}}) | {{< var ref-lateral-intertransversarii-lumbora.origin >}} | {{< var ref-lateral-intertransversarii-lumbora.insertion >}} | {{< var ref-lateral-intertransversarii-lumbora.nerve >}} | {{< var ref-lateral-intertransversarii-lumbora.action >}} |\n",
         ": Deep Segmental Back Muscles {.striped .hover}\n"
       ],
-      "id": "fdd05403"
+      "id": "879366ae"
     },
     {
       "cell_type": "code",

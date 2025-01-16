@@ -8,7 +8,7 @@
         "title: Sternothyroid muscle\n",
         "---"
       ],
-      "id": "4158074b"
+      "id": "fe874b54"
     },
     {
       "cell_type": "code",
@@ -69,7 +69,7 @@
         "The sternothyroid muscle serves as an active stabilizer of the [sternoclavicular joint]({{< var ref-sternoclavicular-joint.path >}}) @neumannKinesiologyMusculoskeletalSystem2017\n",
         ":::"
       ],
-      "id": "cacb031e"
+      "id": "d51465c4"
     }
   ],
   "metadata": {

@@ -22,7 +22,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -132,7 +151,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#setup" id="toc-setup" class="nav-link active" data-scroll-target="#setup">Setup</a>
+  <li><a href="#psychometrics" id="toc-psychometrics" class="nav-link active" data-scroll-target="#psychometrics">Psychometrics</a></li>
+  <li><a href="#parkinsons-disease" id="toc-parkinsons-disease" class="nav-link" data-scroll-target="#parkinsons-disease">Parkinson’s Disease</a></li>
+  <li><a href="#indications" id="toc-indications" class="nav-link" data-scroll-target="#indications">Indications</a></li>
+  <li><a href="#setup" id="toc-setup" class="nav-link" data-scroll-target="#setup">Setup</a>
   <ul class="collapse">
   <li><a href="#subject-conditions" id="toc-subject-conditions" class="nav-link" data-scroll-target="#subject-conditions">Subject Conditions</a></li>
   <li><a href="#equipment" id="toc-equipment" class="nav-link" data-scroll-target="#equipment">Equipment</a></li>
@@ -140,13 +162,13 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#scoring" id="toc-scoring" class="nav-link" data-scroll-target="#scoring">Scoring</a></li>
   <li><a href="#form" id="toc-form" class="nav-link" data-scroll-target="#form">Form</a>
   <ul class="collapse">
-  <li><a href="#anticipatory" id="toc-anticipatory" class="nav-link" data-scroll-target="#anticipatory">Anticipatory</a>
+  <li><a href="#form-anticipatory" id="toc-form-anticipatory" class="nav-link" data-scroll-target="#form-anticipatory">Anticipatory</a>
   <ul class="collapse">
   <li><a href="#form-sit-to-stand" id="toc-form-sit-to-stand" class="nav-link" data-scroll-target="#form-sit-to-stand">1 Sit-to-stand</a></li>
   <li><a href="#form-rise-to-toes" id="toc-form-rise-to-toes" class="nav-link" data-scroll-target="#form-rise-to-toes">2 Rise to toes</a></li>
   <li><a href="#form-slb" id="toc-form-slb" class="nav-link" data-scroll-target="#form-slb">3 Single leg static balance</a></li>
   </ul></li>
-  <li><a href="#reactive-postural-control" id="toc-reactive-postural-control" class="nav-link" data-scroll-target="#reactive-postural-control">Reactive postural control</a>
+  <li><a href="#form-reactive-postural-control" id="toc-form-reactive-postural-control" class="nav-link" data-scroll-target="#form-reactive-postural-control">Reactive postural control</a>
   <ul class="collapse">
   <li><a href="#form-compensatory-stepping-correction-forward" id="toc-form-compensatory-stepping-correction-forward" class="nav-link" data-scroll-target="#form-compensatory-stepping-correction-forward">4 Compensatory stepping correction - Forward</a></li>
   <li><a href="#form-compensatory-stepping-correction-backward" id="toc-form-compensatory-stepping-correction-backward" class="nav-link" data-scroll-target="#form-compensatory-stepping-correction-backward">5 Compensatory stepping correction - Backward</a></li>
@@ -166,6 +188,12 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#form-step-over-obstacles" id="toc-form-step-over-obstacles" class="nav-link" data-scroll-target="#form-step-over-obstacles">13 Step over obstacles</a></li>
   <li><a href="#form-timed-up-and-go-dual-task" id="toc-form-timed-up-and-go-dual-task" class="nav-link" data-scroll-target="#form-timed-up-and-go-dual-task">14 Timed Up &amp; Go with Dual-task</a></li>
   </ul></li>
+  </ul></li>
+  <li><a href="#form-testing-delete-later" id="toc-form-testing-delete-later" class="nav-link" data-scroll-target="#form-testing-delete-later">Form testing DELETE LATER</a>
+  <ul class="collapse">
+  <li><a href="#item-2" id="toc-item-2" class="nav-link" data-scroll-target="#item-2">Item 2</a></li>
+  <li><a href="#item-3-slb" id="toc-item-3-slb" class="nav-link" data-scroll-target="#item-3-slb">Item 3 SLB</a></li>
+  <li><a href="#total-score" id="toc-total-score" class="nav-link" data-scroll-target="#total-score">Total score</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -224,6 +252,49 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>The <em>Mini Balance Evaluation Systems Test</em> also known as the <em>Mini-BESTest</em> consists of 14 items that evaluate different aspects of balance:</p>
+<ul>
+<li><a href="#form-anticipatory">Anticipatory postural adjustments</a></li>
+<li><a href="#form-reactive-postural-control">Reactive postural control</a></li>
+<li><a href="#form-sensory-orientation">Sensory orientation</a></li>
+<li><a href="#form-dynamic-gait">Dynamic gait</a></li>
+</ul>
+<p>Each item is scored from 0 (worst) to 2 (best/normal) for a maximum of 28 total points.</p>
+<p>The Mini-BEStest is most notably used in pathological populations, such as: Stroke, <a href="#parkinsons-disease">Parkinson’s disease</a>, Multiple sclerosis (MS), Peripheral neuropathy secondary to Type 2 diabetes</p>
+<section id="psychometrics" class="level1">
+<h1>Psychometrics</h1>
+<p>MCID 4 points- Early subacute stroke (Tamura et al, 2024) 4 points - Parkinson’s (Godi, 2020)</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Population</th>
+<th>MCID</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Early subacute stroke</td>
+<td>4pts<span class="citation" data-cites="tamuraPooledMinimalClinically2024"><sup><a href="#ref-tamuraPooledMinimalClinically2024" role="doc-biblioref">1</a></sup></span></td>
+</tr>
+<tr class="even">
+<td>Parkinson’s disease</td>
+<td>4pts<span class="citation" data-cites="godiResponsivenessMinimalClinically2020"><sup><a href="#ref-godiResponsivenessMinimalClinically2020" role="doc-biblioref">2</a></sup></span></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="parkinsons-disease" class="level1">
+<h1>Parkinson’s Disease</h1>
+<p>King et al<span class="citation" data-cites="kingComparingMiniBESTestBerg2012"><sup><a href="#ref-kingComparingMiniBESTestBerg2012" role="doc-biblioref">3</a></sup></span> attempted to find a cut-off points of the <em>Mini-BESTest</em> to differentiate patients with and without postural response deficits<span class="citation" data-cites="kingComparingMiniBESTestBerg2012"><sup><a href="#ref-kingComparingMiniBESTestBerg2012" role="doc-biblioref">3</a></sup></span>. When using a a cutoff of &gt;21/28 pts, postural response deficits could be differentiated with a sensitivity of 0.89 and a specificity of 0.81<span class="citation" data-cites="kingComparingMiniBESTestBerg2012"><sup><a href="#ref-kingComparingMiniBESTestBerg2012" role="doc-biblioref">3</a></sup></span>.</p>
+<p>In patients with mild PD, the results of the <em>Mini-BESTest</em> are highly correlated with the <em>Berg Balance Scale (BBS)</em> (r = 0.79, P &lt; 0.001), while experiencing less significant ceililng effects that the BBS suffers from<span class="citation" data-cites="kingComparingMiniBESTestBerg2012"><sup><a href="#ref-kingComparingMiniBESTestBerg2012" role="doc-biblioref">3</a></sup></span>.</p>
+<p>Mini-BESTest is more effective than the Berg for predicting the <a href="../../../../../The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD Tests and Measures/UPDRS_unified_parkinsons_disease_rating_scale.html">motor score on the <em>Unified Parkinson’s Disease Rating Scale (UPDRS)</em></a> and for discriminating between those with and without postural response deficits as measured by the <a href="{{< ref-hoehn-and-yahr-scale.path >}}">Hoehn and Yahr (H&amp;Y) scale</a><span class="citation" data-cites="kingComparingMiniBESTestBerg2012"><sup><a href="#ref-kingComparingMiniBESTestBerg2012" role="doc-biblioref">3</a></sup></span>.</p>
+</section>
+<section id="indications" class="level1">
+<h1>Indications</h1>
+<p>Clinicians are saturated with potential measures of balance, so how does the <em>Mini-BESTest</em> fit into one’s toolkit?</p>
+<p>In studies on patients with Parkinson’s disease<span class="citation" data-cites="kingComparingMiniBESTestBerg2012"><sup><a href="#ref-kingComparingMiniBESTestBerg2012" role="doc-biblioref">3</a></sup></span>, multiple sclerosis<span class="citation" data-cites="rossCohortStudyComparing2016"><sup><a href="#ref-rossCohortStudyComparing2016" role="doc-biblioref">4</a></sup></span> and spinal cord injuries<span class="citation" data-cites="jorgensenComparisonBergBalance2017"><sup><a href="#ref-jorgensenComparisonBergBalance2017" role="doc-biblioref">5</a></sup></span>, the <em>Mini-BESTest</em> had a less significant ceiling effect and higher sensitivity in detecting balance improvements compared to other balance scales like the <em>Berg Balance Scale</em>. This means that it is more difficult to reach the max score (ceiling) on the <em>Mini-BESTest</em> compared to the <em>BBS</em><span class="citation" data-cites="rossCohortStudyComparing2016 jorgensenComparisonBergBalance2017"><sup><a href="#ref-rossCohortStudyComparing2016" role="doc-biblioref">4</a>,<a href="#ref-jorgensenComparisonBergBalance2017" role="doc-biblioref">5</a></sup></span>.</p>
+<p>Thus, this test excels at finding balance impairments for <em>higher</em> functioning populations than the <em>Berg Balance Scale</em>.</p>
+</section>
 <section id="setup" class="level1">
 <h1>Setup</h1>
 <section id="subject-conditions" class="level2">
@@ -264,8 +335,8 @@ ul.task-list li input[type="checkbox"] {
 <li><p><a href="#form-feet-together-eyes-closed-balance">Feet together, Eyes closed, static balance</a></p></li>
 <li><p><a href="#form-incline-eyes-closed-balance">Incline (DF) Eyes closed static balance</a></p></li>
 </ol>
-<section id="anticipatory" class="level2">
-<h2 class="anchored" data-anchor-id="anticipatory">Anticipatory</h2>
+<section id="form-anticipatory" class="level2">
+<h2 class="anchored" data-anchor-id="form-anticipatory">Anticipatory</h2>
 <p>Anticipatory subsection consists of 3 items with a maximum score of 6 points.</p>
 <ol type="1">
 <li><a href="#form-sit-to-stand">Sit-to-stand</a></li>
@@ -487,8 +558,8 @@ Example
 </details>
 </section>
 </section>
-<section id="reactive-postural-control" class="level2">
-<h2 class="anchored" data-anchor-id="reactive-postural-control">Reactive postural control</h2>
+<section id="form-reactive-postural-control" class="level2">
+<h2 class="anchored" data-anchor-id="form-reactive-postural-control">Reactive postural control</h2>
 <p><em>Reactive postural control</em> subsection consists of 3 items with a maximum score of 6 points.</p>
 <ul>
 <li><a href="#form-compensatory-stepping-correction-forward">Compensatory stepping correction - Forward</a></li>
@@ -498,6 +569,59 @@ Example
 <section id="form-compensatory-stepping-correction-forward" class="level3">
 <h3 class="anchored" data-anchor-id="form-compensatory-stepping-correction-forward">4 Compensatory stepping correction - Forward</h3>
 <p>Instruction: “Stand with your feet shoulder width apart, arms at your sides. Lean forward against my hands beyond your forward limits. When I let go, do whatever is necessary, including taking a step, to avoid a fall.”</p>
+<table class="basic-table">
+<thead>
+<tr>
+<th>
+Score
+</th>
+<th>
+Level
+</th>
+<th>
+Criteria
+</th>
+</tr>
+</thead>
+<tbody>
+<tr onclick="setScore(2, this, 'score4')" data-score-group="score4" style="cursor: pointer;">
+<td>
+2
+</td>
+<td>
+Normal
+</td>
+<td>
+Recovers independently with a single, large step (second realignment step is allowed)
+</td>
+</tr>
+<tr onclick="setScore(1, this, 'score4')" data-score-group="score4" style="cursor: pointer;">
+<td>
+1
+</td>
+<td>
+Moderate
+</td>
+<td>
+More than one step used to recover equilibrium
+</td>
+</tr>
+<tr onclick="setScore(0, this, 'score5')" data-score-group="score5" style="cursor: pointer;">
+<td>
+0
+</td>
+<td>
+Severe
+</td>
+<td>
+No step, OR would fall if not caught, OR falls spontaneously
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+Current Score4: <span id="currentScore4">0</span>
+</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 16%">
@@ -547,6 +671,59 @@ Caution
 <p>Be prepared to catch subject!</p>
 </div>
 </div>
+<table class="basic-table">
+<thead>
+<tr>
+<th>
+Score
+</th>
+<th>
+Level
+</th>
+<th>
+Criteria
+</th>
+</tr>
+</thead>
+<tbody>
+<tr onclick="setScore(2, this, 'score5')" data-score-group="score5" style="cursor: pointer;">
+<td>
+2
+</td>
+<td>
+Normal
+</td>
+<td>
+Recovers independently with a single, large step
+</td>
+</tr>
+<tr onclick="setScore(1, this, 'score5')" data-score-group="score5" style="cursor: pointer;">
+<td>
+1
+</td>
+<td>
+Moderate
+</td>
+<td>
+More than one step used to recover equilibrium
+</td>
+</tr>
+<tr onclick="setScore(0, this, 'score5')" data-score-group="score5" style="cursor: pointer;">
+<td>
+0
+</td>
+<td>
+Severe
+</td>
+<td>
+No step, OR would fall if not caught, OR falls spontaneously
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+Item 5 Current: <span id="currentScore5">0</span>
+</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 16%">
@@ -596,6 +773,59 @@ Caution
 <p>Be prepared to catch subject!</p>
 </div>
 </div>
+<table class="basic-table">
+<thead>
+<tr>
+<th>
+Score
+</th>
+<th>
+Level
+</th>
+<th>
+Criteria
+</th>
+</tr>
+</thead>
+<tbody>
+<tr onclick="setScore(2, this, 'score6')" data-score-group="score6" style="cursor: pointer;">
+<td>
+2
+</td>
+<td>
+Normal
+</td>
+<td>
+Recovers independently with a single, large step
+</td>
+</tr>
+<tr onclick="setScore(1, this, 'score6')" data-score-group="score6" style="cursor: pointer;">
+<td>
+1
+</td>
+<td>
+Moderate
+</td>
+<td>
+More than one step used to recover equilibrium
+</td>
+</tr>
+<tr onclick="setScore(0, this, 'score6')" data-score-group="score6" style="cursor: pointer;">
+<td>
+0
+</td>
+<td>
+Severe
+</td>
+<td>
+No step, OR would fall if not caught, OR falls spontaneously
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+Item 6 Current: <span id="currentScore6">0</span>
+</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 16%">
@@ -654,6 +884,29 @@ Note
 <section id="form-feet-together-eyes-open-balance" class="level3">
 <h3 class="anchored" data-anchor-id="form-feet-together-eyes-open-balance">7 Feet together, Eyes open, static balance</h3>
 <p>Instruction: “Place your hands on your hips. Place your feet together until almost touching. Look straight ahead. Be as stable and still as possible, until I say stop.”</p>
+<div id="item7Timer">
+<pre><code>&lt;p id="item7Time"&gt;0.0 s&lt;/p&gt;
+&lt;button id="startItem7Timer"&gt;Start&lt;/button&gt;
+&lt;button id="stopItem7Timer"&gt;Stop&lt;/button&gt;
+&lt;button id="resetItem7Timer"&gt;Reset&lt;/button&gt;</code></pre>
+</div>
+<script>
+
+function item3calculateScore(finalTime) {
+        if (finalTime === "Unable") {
+            return 0;
+        }
+        const timeInSeconds = finalTime / 1000;
+        if (timeInSeconds < 30) {
+            return 1;
+        }
+        else if (timeInSeconds >= 30) {
+            return 2;
+        }
+        return "Error";
+    }
+
+</script>
 <table class="caption-top table">
 <thead>
 <tr class="header">
@@ -902,37 +1155,6 @@ Note
 <li><p>TUG: ________seconds;</p></li>
 <li><p>Dual Task TUG: ________seconds</p></li>
 </ul>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 66%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Score</th>
-<th>Level</th>
-<th>Criteria</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>2</td>
-<td>Normal</td>
-<td>No noticeable change in sitting, standing or walking while backward counting when compared to TUG without Dual Task</td>
-</tr>
-<tr class="even">
-<td>1</td>
-<td>Moderate</td>
-<td>Dual Task affects either counting OR walking (&gt;10%) when compared to the TUG without Dual Task</td>
-</tr>
-<tr class="odd">
-<td>0</td>
-<td>Severe</td>
-<td>Stops counting while walking OR stops walking while counting</td>
-</tr>
-</tbody>
-</table>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -947,13 +1169,547 @@ Note
 </div>
 </div>
 <p>“Use the TUG time to determine the effects of dual tasking. The subject should walk a 3 meter distance. TUG: Have the subject sitting with the subject’s back against the chair. The subject will be timed from the moment you say “Go” until the subject returns to sitting. Stop timing when the subject’s buttocks hit the chair bottom and the subject’s back is against the chair. The chair should be firm without arms. TUG With Dual Task: While sitting determine how fast and accurately the subject can count backwards by threes starting from a number between 100-90. Then, ask the subject to count from a different number and after a few numbers say “Go”. Time the subject from the moment you say “Go” until the subject returns to the sitting position. Score dual task as affecting counting or walking if speed slows (&gt;10%) from TUG and or new signs of imbalance.”</p>
+</section>
+</section>
+</section>
+<section id="form-testing-delete-later" class="level1">
+<h1>Form testing DELETE LATER</h1>
+<script>
+    function setScore(value, element, scoreId) {
+        // Update the displayed score
+        document.getElementById(`current${scoreId.charAt(0).toUpperCase() + scoreId.slice(1)}`).innerText = value;
+
+        // Calculate the total score
+        calculateTotal();
+
+        // Reset background color for all elements in the same group
+        const elements = document.querySelectorAll(`[data-score-group="${scoreId}"]`);
+        elements.forEach(el => el.style.backgroundColor = ''); // Reset all elements
+
+        // Highlight the clicked element
+        element.style.backgroundColor = 'lightblue';
+    }
+
+    function calculateTotal() {
+        // Get the current scores from the spans
+        const score1 = parseInt(document.getElementById("currentScore1").innerText) || 0;
+        const score2 = parseInt(document.getElementById("currentScore2").innerText) || 0;
+        const score3 = parseInt(document.getElementById("currentScore3").innerText) || 0;
+        const score4 = parseInt(document.getElementById("currentScore4").innerText) || 0;
+
+        // Calculate the total score
+        const total = score1 + score2 + score3 + score4;
+
+        // Update the total score display
+        document.getElementById("totalScore").innerText = total;
+    }
+</script>
+<h2 class="anchored" data-anchor-id="form-testing-delete-later">
+Click to Assign Score to Item 1
+</h2>
+<table class="basic-table">
+<thead>
+<tr>
+<th>
+Score
+</th>
+<th>
+Level
+</th>
+<th>
+Criteria
+</th>
+</tr>
+</thead>
+<tbody>
+<tr onclick="setScore(2, this, 'score1')" data-score-group="score1" style="cursor: pointer;">
+<td>
+2
+</td>
+<td>
+Normal
+</td>
+<td>
+Comes to stand without use of hands and stabilizes independently
+</td>
+</tr>
+<tr onclick="setScore(1, this, 'score1')" data-score-group="score1" style="cursor: pointer;">
+<td>
+1
+</td>
+<td>
+Moderate
+</td>
+<td>
+Comes to stand WITH use of hands on first attempt
+</td>
+</tr>
+<tr onclick="setScore(0, this, 'score1')" data-score-group="score1" style="cursor: pointer;">
+<td>
+0
+</td>
+<td>
+Severe
+</td>
+<td>
+Unable to stand up from chair without assistance, OR needs several attempts with use of hands
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+Current Score1: <span id="currentScore1">0</span>
+</p>
+<section id="item-2" class="level2">
+<h2 class="anchored" data-anchor-id="item-2">Item 2</h2>
+<table class="basic-table">
+<thead>
+<tr>
+<th>
+Score
+</th>
+<th>
+Level
+</th>
+<th>
+Criteria
+</th>
+</tr>
+</thead>
+<tbody>
+<tr onclick="setScore(2, this, 'score2')" data-score-group="score2" style="cursor: pointer;">
+<td>
+2
+</td>
+<td>
+Normal
+</td>
+<td>
+Stable for 3s with maximum height
+</td>
+</tr>
+<tr onclick="setScore(1, this, 'score2')" data-score-group="score2" style="cursor: pointer;">
+<td>
+1
+</td>
+<td>
+Moderate
+</td>
+<td>
+Heels up, but not full range (smaller than when holding hands), OR noticeable instability for 3s
+</td>
+</tr>
+<tr onclick="setScore(0, this, 'score2')" data-score-group="score2" style="cursor: pointer;">
+<td>
+0
+</td>
+<td>
+Severe
+</td>
+<td>
+&lt;3s
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+Current Score2: <span id="currentScore2">0</span>
+</p>
+</section>
+<section id="item-3-slb" class="level2">
+<h2 class="anchored" data-anchor-id="item-3-slb">Item 3 SLB</h2>
+<table class="basic-table">
+<thead>
+<tr>
+<th>
+</th>
+<th colspan="2">
+LLE
+</th>
+<th colspan="2">
+RLE
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+Trial 1
+</td>
+<td id="item3LeftTrial1">
+— s
+</td>
+<td>
+<button id="item3LeftTrial1TimerButton">
+Start Timer
+</button>
+<button id="item3LeftTrial1UnableButton">
+Unable
+</button>
+</td>
+<td id="item3RightTrial1">
+— s
+</td>
+<td>
+<button id="item3RightTrial1TimerButton">
+Start Timer
+</button>
+<button id="item3RightTrial1UnableButton">
+Unable
+</button>
+</td>
+</tr>
+<tr>
+<td>
+Trial 2
+</td>
+<td id="item3LeftTrial2">
+— s
+</td>
+<td>
+<button id="item3LeftTrial2TimerButton">
+Start Timer
+</button>
+<button id="item3LeftTrial2UnableButton">
+Unable
+</button>
+</td>
+<td id="item3RightTrial2">
+— s
+</td>
+<td>
+<button id="item3RightTrial2TimerButton">
+Start Timer
+</button>
+<button id="item3RightTrial2UnableButton">
+Unable
+</button>
+</td>
+</tr>
+<tr>
+<td>
+Final Time
+</td>
+<td id="finalLLETime" colspan="2">
+— s
+</td>
+<td id="finalRLETime" colspan="2">
+— s
+</td>
+</tr>
+<tr>
+<td>
+Final Score
+</td>
+<td id="finalLLEScore" colspan="2">
+—
+</td>
+<td id="finalRLEScore" colspan="2">
+—
+</td>
+</tr>
+</tbody>
+</table>
+<script>
+    let timers = [null, null, null, null];
+    let startTimes = [0, 0, 0, 0];
+    let elapsedTimes = [0, 0, 0, 0];
+    let isRunning = [false, false, false, false];
+
+    document.getElementById("item3LeftTrial1TimerButton").addEventListener("click", () => toggleTimer(0, "item3LeftTrial1", "item3LeftTrial1TimerButton"));
+    document.getElementById("item3RightTrial1TimerButton").addEventListener("click", () => toggleTimer(1, "item3RightTrial1", "item3RightTrial1TimerButton"));
+    document.getElementById("item3LeftTrial2TimerButton").addEventListener("click", () => toggleTimer(2, "item3LeftTrial2", "item3LeftTrial2TimerButton"));
+    document.getElementById("item3RightTrial2TimerButton").addEventListener("click", () => toggleTimer(3, "item3RightTrial2", "item3RightTrial2TimerButton"));
+
+    document.getElementById("item3LeftTrial1UnableButton").addEventListener("click", () => setUnable("item3LeftTrial1"));
+    document.getElementById("item3RightTrial1UnableButton").addEventListener("click", () => setUnable("item3RightTrial1"));
+    document.getElementById("item3LeftTrial2UnableButton").addEventListener("click", () => setUnable("item3LeftTrial2"));
+    document.getElementById("item3RightTrial2UnableButton").addEventListener("click", () => setUnable("item3RightTrial2"));
+
+    function toggleTimer(index, resultId, buttonId) {
+        if (!isRunning[index]) {
+            startTimer(index, resultId, buttonId);
+        } else {
+            stopTimer(index, resultId, buttonId);
+        }
+    }
+
+    function startTimer(index, resultId, buttonId) {
+        startTimes[index] = performance.now();
+        isRunning[index] = true;
+        document.getElementById(buttonId).innerText = "Stop Timer";
+        elapsedTimes[index] = 0;
+        updateTimer(index, resultId);
+    }
+
+    function updateTimer(index, resultId, buttonId) {
+        const currentTime = performance.now();
+        elapsedTimes[index] = Math.min(currentTime - startTimes[index], 20000);
+        document.getElementById(resultId).innerText = (elapsedTimes[index] / 1000).toFixed(3) + "s";
+
+        if (elapsedTimes[index] < 20000) {
+            // Continue updating if under 20 seconds
+            timers[index] = requestAnimationFrame(() => updateTimer(index, resultId, buttonId));
+        } else {
+            // Stop the timer when 20 seconds is reached
+            stopTimer(index, resultId, buttonId);
+        }
+    }
+
+
+    function stopTimer(index, resultId, buttonId = null) {
+        if (isRunning[index]) {
+            isRunning[index] = false;
+            cancelAnimationFrame(timers[index]);
+            if (buttonId) {
+                document.getElementById(buttonId).innerText = "Start Timer"; // Reset button text
+            }
+        }
+        checkLongestTimes();
+    }
+    
+    let score3;
+
+    function checkLongestTimes() {
+        // Compute LLE times
+        const lleTimes = [
+            elapsedTimes[0], // Trial 1 LLE
+            elapsedTimes[2], // Trial 2 LLE
+        ];
+        const lleValid = lleTimes.filter(time => time !== -Infinity);
+
+        // Compute RLE times
+        const rleTimes = [
+            elapsedTimes[1], // Trial 1 RLE
+            elapsedTimes[3], // Trial 2 RLE
+        ];
+        const rleValid = rleTimes.filter(time => time !== -Infinity);
+
+        // Set LLE Final Time
+        let finalLLETime;
+        if (lleValid.length > 0) {
+            finalLLETime = Math.max(...lleValid);
+            document.getElementById("finalLLETime").innerText = `${(finalLLETime / 1000).toFixed(3)} s`;
+        } else {
+            finalLLETime = "Unable";
+            document.getElementById("finalLLETime").innerText = "Unable";
+        }
+
+        // Set RLE Final Time
+        let finalRLETime;
+        if (rleValid.length > 0) {
+            finalRLETime = Math.max(...rleValid);
+            document.getElementById("finalRLETime").innerText = `${(finalRLETime / 1000).toFixed(3)} s`;
+        } else {
+            finalRLETime = "Unable";
+            document.getElementById("finalRLETime").innerText = "Unable";
+        }
+
+        // Update scores based on final times
+        const finalLLEScore = item3calculateScore(finalLLETime);
+        const finalRLEScore = item3calculateScore(finalRLETime);
+
+        document.getElementById("finalLLEScore").innerText = finalLLEScore;
+        document.getElementById("finalRLEScore").innerText = finalRLEScore;
+
+        // Update the smallest time bolding
+        boldSmallestTime();
+
+        // Bold the scores if their corresponding final times are bold
+        syncBoldWithTimes("finalLLETime", "finalLLEScore");
+        syncBoldWithTimes("finalRLETime", "finalRLEScore");
+
+        // Set score3 based on which side is bolded
+        setScore3();
+    }
+
+    function item3calculateScore(finalTime) {
+        if (finalTime === "Unable") {
+            return 0;
+        }
+        
+        const timeInSeconds = finalTime / 1000;
+
+        if (timeInSeconds < 20) {
+            return 1;
+        } else if (timeInSeconds >= 20) {
+            return 2;
+        }
+
+        return "Undefined"; // Optional, could be omitted if not needed
+    }
+
+
+
+
+
+    function boldSmallestTime() {
+        const times = [
+            { id: "finalLLETime", value: document.getElementById("finalLLETime").innerText },
+            { id: "finalRLETime", value: document.getElementById("finalRLETime").innerText },
+        ];
+
+        // Normalize the times to handle "Unable"
+        const normalizedTimes = times.map(time => ({
+            id: time.id,
+            value: time.value === "Unable" ? -1 : parseFloat(time.value) || Infinity, // Treat "Unable" as the smallest time
+        }));
+
+        // Find the smallest normalized time
+        let smallestTime = Infinity;
+        let smallestTimeId = null;
+
+        for (const time of normalizedTimes) {
+            if (time.value < smallestTime) {
+                smallestTime = time.value;
+                smallestTimeId = time.id;
+            }
+        }
+
+        // Reset font weight for all times
+        times.forEach(time => {
+            document.getElementById(time.id).style.fontWeight = "normal";
+        });
+
+        // Bold the smallest time
+        if (smallestTimeId) {
+            document.getElementById(smallestTimeId).style.fontWeight = "bold";
+        }
+    }
+
+    function syncBoldWithTimes(timeElementId, scoreElementId) {
+        const timeElement = document.getElementById(timeElementId);
+        const scoreElement = document.getElementById(scoreElementId);
+
+        if (timeElement.style.fontWeight === "bold") {
+            scoreElement.style.fontWeight = "bold";
+        } else {
+            scoreElement.style.fontWeight = "normal";
+        }
+    }
+
+    function setScore3() {
+        const lleTime = document.getElementById("finalLLETime").innerText;
+        const rleTime = document.getElementById("finalRLETime").innerText;
+
+        // Reset currentScore3 to 0 by default
+        let currentScore3 = 0; 
+
+        // Check which time is bolded and calculate the corresponding score
+        if (document.getElementById("finalLLETime").style.fontWeight === "bold") {
+            currentScore3 = item3calculateScore(lleTime);
+        } else if (document.getElementById("finalRLETime").style.fontWeight === "bold") {
+            currentScore3 = item3calculateScore(rleTime);
+        }
+        // Update the score3 display
+        document.getElementById("currentScore3").innerText = currentScore3;
+    }
+
+
+    function setUnable(resultId) {
+        const index = getIndexFromResultId(resultId); // Get the corresponding index
+        stopTimer(index, resultId, null); // Stop the timer
+        elapsedTimes[index] = -Infinity; // Set time to a value that indicates "Unable"
+        document.getElementById(resultId).innerText = "Unable"; // Set display to "Unable"
+        checkLongestTimes(); // Recheck final times
+    }
+
+    function getIndexFromResultId(resultId) {
+        // Map result IDs to their respective indices
+        switch (resultId) {
+            case "item3LeftTrial1": return 0;
+            case "item3RightTrial1": return 1;
+            case "item3LeftTrial2": return 2;
+            case "item3RightTrial2": return 3;
+            default: return -1; // Invalid ID
+        }
+    }
+</script>
+<p>
+Current Score3: <span id="currentScore3">0</span>
+</p>
+</section>
+<section id="total-score" class="level2">
+<h2 class="anchored" data-anchor-id="total-score">Total score</h2>
+<p>
+Total: <span id="totalScore">0</span>
+</p>
+<table class="basic-table">
+<thead>
+<tr>
+<th>
+Score
+</th>
+<th>
+Level
+</th>
+<th>
+Criteria
+</th>
+</tr>
+</thead>
+<tbody>
+<tr onclick="setScore(2, this, 'score4')" data-score-group="score4" style="cursor: pointer;">
+<td>
+2
+</td>
+<td>
+Normal
+</td>
+<td>
+No noticeable change in sitting, standing or walking while backward counting when compared to TUG without Dual Task
+</td>
+</tr>
+<tr onclick="setScore(1, this, 'score4')" data-score-group="score4" style="cursor: pointer;">
+<td>
+1
+</td>
+<td>
+Moderate
+</td>
+<td>
+Dual Task affects either counting OR walking (&gt;10%) when compared to the TUG without Dual Task
+</td>
+</tr>
+<tr onclick="setScore(0, this, 'score4')" data-score-group="score4" style="cursor: pointer;">
+<td>
+0
+</td>
+<td>
+Severe
+</td>
+<td>
+Stops counting while walking OR stops walking while counting
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+Current Score4: <span id="currentScore4">0</span>
+</p>
+
 
 
 </section>
 </section>
-</section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-tamuraPooledMinimalClinically2024" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Tamura S, Miyata K, Hasegawa S, Kobayashi S, Shioura K, Usuda S. Pooled <span>Minimal Clinically Important Differences</span> of the <span>Mini-Balance Evaluation Systems Test</span> in <span>Patients With Early Subacute Stroke</span>: <span>A Multicenter Prospective Observational Study</span>. <em>Physical Therapy</em>. 2024;104(4):pzae017. doi:<a href="https://doi.org/10.1093/ptj/pzae017">10.1093/ptj/pzae017</a></div>
+</div>
+<div id="ref-godiResponsivenessMinimalClinically2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Godi M, Arcolin I, Giardini M, Corna S, Schieppati M. Responsiveness and minimal clinically important difference of the <span>Mini-BESTest</span> in patients with <span>Parkinson</span>’s disease. <em>Gait &amp; Posture</em>. 2020;80:14-19. doi:<a href="https://doi.org/10.1016/j.gaitpost.2020.05.004">10.1016/j.gaitpost.2020.05.004</a></div>
+</div>
+<div id="ref-kingComparingMiniBESTestBerg2012" class="csl-entry" role="listitem">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">King LA, Priest KC, Salarian A, Pierce D, Horak FB. Comparing the <span>Mini-BESTest</span> with the <span>Berg Balance Scale</span> to <span>Evaluate Balance Disorders</span> in <span>Parkinson</span>’s <span>Disease</span>. <em>Parkinson’s Disease</em>. 2012;2012:1-7. doi:<a href="https://doi.org/10.1155/2012/375419">10.1155/2012/375419</a></div>
+</div>
+<div id="ref-rossCohortStudyComparing2016" class="csl-entry" role="listitem">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Ross E, Purtill H, Uszynski M, et al. Cohort <span>Study Comparing</span> the <span>Berg Balance Scale</span> and the <span>Mini-BESTest</span> in <span>People Who Have Multiple Sclerosis</span> and <span>Are Ambulatory</span>. <em>Physical Therapy</em>. 2016;96(9):1448-1455. doi:<a href="https://doi.org/10.2522/ptj.20150416">10.2522/ptj.20150416</a></div>
+</div>
+<div id="ref-jorgensenComparisonBergBalance2017" class="csl-entry" role="listitem">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Jørgensen V, Opheim A, Halvarsson A, Franzén E, Roaldsen KS. Comparison of the <span>Berg Balance Scale</span> and the <span>Mini-BESTest</span> for <span>Assessing Balance</span> in <span>Ambulatory People With Spinal Cord Injury</span>: <span>Validation Study</span>. <em>Physical Therapy</em>. 2017;97(6):677-687. doi:<a href="https://doi.org/10.1093/ptj/pzx030">10.1093/ptj/pzx030</a></div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Mini-BESTest. <a href="https://yomokerst.com/The Archive/Examination/Tests and Measures/Balance Tests/BESTest/Mini-BESTest.html">https://yomokerst.com/The
 Archive/Examination/Tests and Measures/Balance
 Tests/BESTest/Mini-BESTest.html</a></div>

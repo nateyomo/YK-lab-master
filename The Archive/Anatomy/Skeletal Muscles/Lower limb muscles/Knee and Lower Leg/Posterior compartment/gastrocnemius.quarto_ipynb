@@ -21,7 +21,7 @@
         "\n",
         "# Overview\n"
       ],
-      "id": "88b798fe"
+      "id": "722f0e09"
     },
     {
       "cell_type": "code",
@@ -152,7 +152,7 @@
         "\n",
         "- [3D Calf Stretch]({{< var ref-3d-calf-stretch.path >}})"
       ],
-      "id": "577ca003"
+      "id": "b08671da"
     }
   ],
   "metadata": {

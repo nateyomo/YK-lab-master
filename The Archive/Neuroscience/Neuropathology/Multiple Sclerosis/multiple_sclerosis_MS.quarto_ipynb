@@ -62,7 +62,7 @@
         "- [Secondary progressive (SPMS)](#secondary-progressive)\n",
         "- [Progressive relapsing (PRMS)](#progressive-relapsing)\n"
       ],
-      "id": "cad587b6"
+      "id": "649eecc9"
     },
     {
       "cell_type": "code",
@@ -129,7 +129,7 @@
         "    for i in range(len(fig.data)):\n",
         "        fig.data[i].visible = 'legendonly' if i not in visible_indices else True"
       ],
-      "id": "b1d53e1e",
+      "id": "aaa855b3",
       "execution_count": null,
       "outputs": []
     },
@@ -165,7 +165,7 @@
         ":::\n",
         "::: {.column}\n"
       ],
-      "id": "2f3779ab"
+      "id": "47e96f32"
     },
     {
       "cell_type": "code",
@@ -213,7 +213,7 @@
         ":::\n",
         "::: {.column}"
       ],
-      "id": "40d7cc33"
+      "id": "d8a37e4c"
     },
     {
       "cell_type": "code",
@@ -250,7 +250,7 @@
         ":::\n",
         "::: {.column}"
       ],
-      "id": "5729c462"
+      "id": "4fb3c76e"
     },
     {
       "cell_type": "code",
@@ -291,7 +291,7 @@
         ":::\n",
         "::: {.column}"
       ],
-      "id": "fae98cbd"
+      "id": "3fae4321"
     },
     {
       "cell_type": "code",
@@ -504,7 +504,7 @@
         "The intensity should be moderate and range \n",
         "between 11 and 13 on the 20-point rating of perceived exertion scale, or between 40% and 60% peak oxygen consumption or peak heart rate. "
       ],
-      "id": "16e8e6c4"
+      "id": "0f6d9e23"
     }
   ],
   "metadata": {

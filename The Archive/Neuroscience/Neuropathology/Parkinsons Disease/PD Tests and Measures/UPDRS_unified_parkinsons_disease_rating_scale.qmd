@@ -12,6 +12,7 @@ title: Unified Parkinson’s Disease Rating Scale (UPDRS)
 - Part VI: S&E ADL scale
 
 
+The motor score of the UPDRS can be predicted by the [Mini-BESTest]({{< var ref-mini-bestest.path >}}) @kingComparingMiniBESTestBerg2012.
 
 # Clinical Use
 

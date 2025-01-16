@@ -1,5 +1,5 @@
 ---
-title: Hoehn and Yahr Scale
+title: "Hoehn and Yahr Scale"
 ---
 
 - The Hoehn & Yahr (H&Y) system for grading severity of Parkinson’s disease (PD) symptoms uses a scale of 1 to 5 to evaluate the extent of patients’ clinical disability
@@ -58,6 +58,9 @@ title: Hoehn and Yahr Scale
 
 
 :::
+
+
+
 
 # Interpretation
 
