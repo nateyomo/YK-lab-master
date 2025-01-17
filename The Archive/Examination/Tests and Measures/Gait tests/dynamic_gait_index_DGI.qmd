@@ -1,0 +1,5 @@
+---
+title: Dynamic Gait Index (DGI)
+---
+
+The DGI has become outdated and replaced by its improved successor the [Functional Gait Assessment (FGA)]({{< var ref-functional-gait-assessment.path >}})

@@ -8,7 +8,7 @@
         "title: Psoas Minor Muscle\n",
         "---"
       ],
-      "id": "dba17a99"
+      "id": "2961ce92"
     },
     {
       "cell_type": "code",
@@ -80,7 +80,7 @@
         "\n",
         "- [3D hip flexor stretch]({{< var ref-3d-hip-flexor-stretch.path >}})"
       ],
-      "id": "73514d22"
+      "id": "df9f9f94"
     }
   ],
   "metadata": {

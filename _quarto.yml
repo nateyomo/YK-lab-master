@@ -16,7 +16,7 @@ author:
 - id: NGY
   number: 1
   name: 
-    given: Nathaniel
+    given: Nate
     family: Yomogida
   email: "nate.yomogida.pt@gmail.com"
   url: "https://yomokerst.com/about.html#ngy"
@@ -44,7 +44,7 @@ publisher: Yomogida-Kerstein Laboratory
 website:
   twitter-card:
     creator: "@NateYomogida and @Chloe_Kerstein"
-    site: "@YomoKerstLab"
+    site: "@yomokerst"
   favicon: "/images/brain-favicon.png"
   page-navigation: true
   search:

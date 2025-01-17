@@ -1,0 +1,500 @@
+---
+title: Functional Gait Assessment (FGA)
+---
+
+
+
+
+
+# Form
+
+
+1. [Gait level surface](#form-level-gait)
+1. [Changing gait speed](#form-changing-gait-speed)
+1. [Gait with Horizontal Head Turns](#form-horizontal-head-turn)
+1. [Gait with Vertical Head Turns](#form-vertical-head-turn)
+1. [Pivot Turn](#form-pivot-turn)
+1. [Step Over Obstacle](#form-step-over-obstacle)
+1. [Narrow Base of Support](#form-narrow-bos)
+1. [Eyes Closed](#form-eyes-closed)
+
+## 1 Level Gait {#form-level-gait}
+
+Instructions: Walk at your normal speed from here to the next mark (6 m
+[20 ft]).
+
+
+
+
+
+<table class="basic-table">
+    <thead>
+        <tr>
+            <th>Score</th>
+            <th>Level</th>
+            <th>Criteria</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr onclick="setScore(3, this, 'score1')" data-score-group="score1" style="cursor: pointer;">
+            <td>3</td>
+            <td>Normal</td>
+            <td>Walks 6 m (20 ft) in less than 5.5 seconds, no assistive devices, good speed, no evidence for imbalance, normal gait pattern, deviates no more than 15.24 cm (6 in) outside of the 30.48-cm (12-in) walkway width</td>
+        </tr>
+        <tr onclick="setScore(2, this, 'score1')" data-score-group="score1" style="cursor: pointer;">
+            <td>2</td>
+            <td>Mild Impairment</td>
+            <td>6m (20 ft) in &lt;7sec but &gt;5.5 seconds uses assistive device, slower speed, mild gait deviations, or deviates 15.24 – 25.4 cm (6 – 10 in) outside of the 30.48-cm (12-in) walkway width</td>
+        </tr>
+        <tr onclick="setScore(1, this, 'score1')" data-score-group="score1" style="cursor: pointer;">
+            <td>1</td>
+            <td>Moderate impairment</td>
+            <td>Walks 6 m (20 ft), slow speed, abnormal gait pattern, evidence for imbalance, or deviates 25.4 – 38.1 cm (10 – 15 in) outside of the 30.48-cm (12-in) walkway width. Requires more than 7 seconds to ambulate 6 m (20 ft)</td>
+        </tr>
+        <tr onclick="setScore(0, this, 'score1')" data-score-group="score1" style="cursor: pointer;">
+            <td>0</td>
+            <td>Severe impairment</td>
+            <td>Cannot walk 6 m (20 ft) without assistance, severe gait deviations or imbalance, deviates greater than 38.1 cm (15 in) outside of the 30.48-cm (12-in) walkway width or reaches and touches the wall</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<p>Item 1 Score: <span id="currentScore1">Not tested</span></p>
+
+
+## 2 Changing Gait Speed {#form-changing-gait-speed}
+
+Instructions: Begin walking at your normal pace (for 1.5 m [5 ft]). When
+I tell you “go,” walk as fast as you can (for 1.5 m [5 ft]). When I tell you
+“slow,” walk as slowly as you can (for 1.5 m [5 ft]).
+
+<table class="basic-table">
+    <thead>
+        <tr>
+            <th>Score</th>
+            <th>Impairment</th>
+            <th>Criteria</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr onclick="setScore(3, this, 'score2')" data-score-group="score2" style="cursor: pointer;">
+            <td>3</td>
+            <td>Normal</td>
+            <td>Able to smoothly change walking speed without loss of balance or gait deviation. Shows a significant difference in walking speeds between normal, fast, and slow speeds. Deviates no more than 15.24 cm (6 in) outside of the 30.48-cm (12-in) walkway width.</td>
+        </tr>
+        <tr onclick="setScore(2, this, 'score2')" data-score-group="score2" style="cursor: pointer;">
+            <td>2</td>
+            <td>Mild</td>
+            <td>Is able to change speed but demonstrates mild gait deviations, deviates 15.24 – 25.4 cm (6 – 10 in) outside of the 30.48-cm (12-in) walkway width, or no gait deviations but unable to achieve a significant change in velocity, or uses an assistive device.</td>
+        </tr>
+        <tr onclick="setScore(1, this, 'score2')" data-score-group="score2" style="cursor: pointer;">
+            <td>1</td>
+            <td>Moderate</td>
+            <td>Makes only minor adjustments to walking speed, or accomplishes a change in speed with significant gait deviations, deviates 25.4 – 38.1 cm (10 – 15 in) outside the 30.48-cm (12-in) walkway width, or changes speed but loses balance but is able to recover and continue walking.</td>
+        </tr>
+        <tr onclick="setScore(0, this, 'score2')" data-score-group="score2" style="cursor: pointer;">
+            <td>0</td>
+            <td>Severe</td>
+            <td>Cannot change speeds, deviates greater than 38.1 cm (15 in) outside 30.48-cm (12-in) walkway width, or loses balance and has to reach for wall or be caught.</td>
+        </tr>
+    </tbody>
+</table>
+
+<p>Item 2 Score: <span id="currentScore2">Not tested</span></p>
+
+
+## 3 Gait with Horizontal Head Turns {#form-horizontal-head-turn}
+
+Instructions: Walk from here to the next mark 6 m (20 ft) away. Begin
+walking at your normal pace. Keep walking straight; after 3 steps, turn
+your head to the right and keep walking straight while looking to the
+right. After 3 more steps, turn your head to the left and keep walking
+straight while looking left. Continue alternating looking right and left
+every 3 steps until you have completed 2 repetitions in each direction.
+
+
+<table class="basic-table">
+    <thead>
+        <tr>
+            <th>Score</th>
+            <th>Impairment</th>
+            <th>Criteria</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr onclick="setScore(3, this, 'score3')" data-score-group="score3" style="cursor: pointer;">
+            <td>3</td>
+            <td>Normal</td>
+            <td>Performs head turns smoothly with no change in gait. Deviates no more than 15.24 cm (6 in) outside 30.48-cm (12-in) walkway width.</td>
+        </tr>
+        <tr onclick="setScore(2, this, 'score3')" data-score-group="score3" style="cursor: pointer;">
+            <td>2</td>
+            <td>Mild impairment</td>
+            <td>Performs head turns smoothly with slight change in gait velocity (eg, minor disruption to smooth gait path), deviates 15.24 – 25.4 cm (6 – 10 in) outside 30.48-cm (12-in) walkway width, or uses an assistive device.</td>
+        </tr>
+        <tr onclick="setScore(1, this, 'score3')" data-score-group="score3" style="cursor: pointer;">
+            <td>1</td>
+            <td>Moderate impairment</td>
+            <td>Performs head turns with moderate change in gait velocity, slows down, deviates 25.4 – 38.1 cm (10 – 15 in) outside 30.48-cm (12-in) walkway width but recovers, can continue to walk.</td>
+        </tr>
+        <tr onclick="setScore(0, this, 'score3')" data-score-group="score3" style="cursor: pointer;">
+            <td>0</td>
+            <td>Severe impairment</td>
+            <td>Performs task with severe disruption of gait (eg, staggers 38.1 cm [15 in] outside 30.48-cm (12-in) walkway width, loses balance, stops, or reaches for wall).</td>
+        </tr>
+    </tbody>
+</table>
+
+<p>Item 3 Score: <span id="currentScore3">Not tested</span></p>
+
+
+## 4 Gait with Vertical Head Turns {#form-vertical-head-turn}
+Instructions: Walk from here to the next mark (6 m [20 ft]). Begin walking
+at your normal pace. Keep walking straight; after 3 steps, tip your head
+up and keep walking straight while looking up. After 3 more steps, tip
+your head down, keep walking straight while looking down. Continue
+alternating looking up and down every 3 steps until you have completed
+2 repetitions in each direction.
+
+
+<table class="basic-table">
+    <thead>
+        <tr>
+            <th>Score</th>
+            <th>Impairment</th>
+            <th>Criteria</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr onclick="setScore(3, this, 'score4')" data-score-group="score4" style="cursor: pointer;">
+            <td>3</td>
+            <td>Normal</td>
+            <td>Performs head turns with no change in gait. Deviates no more than 15.24 cm (6 in) outside 30.48-cm (12-in) walkway width.</td>
+        </tr>
+        <tr onclick="setScore(2, this, 'score4')" data-score-group="score4" style="cursor: pointer;">
+            <td>2</td>
+            <td>Mild</td>
+            <td>Performs task with slight change in gait velocity (eg, minor disruption to smooth gait path), deviates 15.24–25.4 cm (6–10 in) outside 30.48-cm (12-in) walkway width or uses an assistive device.</td>
+        </tr>
+        <tr onclick="setScore(1, this, 'score4')" data-score-group="score4" style="cursor: pointer;">
+            <td>1</td>
+            <td>Moderate</td>
+            <td>Performs task with moderate change in gait velocity, slows down, deviates 25.4–38.1 cm (10–15 in) outside 30.48-cm (12-in) walkway width but recovers, can continue to walk.</td>
+        </tr>
+        <tr onclick="setScore(0, this, 'score4')" data-score-group="score4" style="cursor: pointer;">
+            <td>0</td>
+            <td>Severe</td>
+            <td>Performs task with severe disruption of gait (eg, staggers 38.1 cm [15 in] outside 30.48-cm (12-in) walkway width, loses balance, stops, or reaches for wall).</td>
+        </tr>
+    </tbody>
+</table>
+
+<p>Item 4 Score: <span id="currentScore4">Not tested</span></p>
+
+
+## 5 Pivot Turn {#form-pivot-turn}
+
+Instructions: Begin with walking at your normal pace. When I tell you,
+“turn and stop,” turn as quickly as you can to face the opposite direction
+and stop.
+
+
+<table class="basic-table">
+    <thead>
+        <tr>
+            <th>Score</th>
+            <th>Impairment</th>
+            <th>Criteria</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr onclick="setScore(3, this, 'score5')" data-score-group="score5" style="cursor: pointer;">
+            <td>3</td>
+            <td>Normal</td>
+            <td>Pivot turns safely within 3 seconds and stops quickly with no loss of balance.</td>
+        </tr>
+        <tr onclick="setScore(2, this, 'score5')" data-score-group="score5" style="cursor: pointer;">
+            <td>2</td>
+            <td>Mild</td>
+            <td>Pivot turns safely in more than 3 seconds and stops with no loss of balance, or pivot turns safely within 3 seconds and stops with mild imbalance, requires small steps to catch balance.</td>
+        </tr>
+        <tr onclick="setScore(1, this, 'score5')" data-score-group="score5" style="cursor: pointer;">
+            <td>1</td>
+            <td>Moderate</td>
+            <td>Turns slowly, requires verbal cueing, or requires several small steps to catch balance following turn and stop.</td>
+        </tr>
+        <tr onclick="setScore(0, this, 'score5')" data-score-group="score5" style="cursor: pointer;">
+            <td>0</td>
+            <td>Severe</td>
+            <td>Cannot turn safely, requires assistance to turn and stop.</td>
+        </tr>
+    </tbody>
+</table>
+
+<p>Item 5 Score: <span id="currentScore5">Not tested</span></p>
+
+
+
+## 6 Step Over Obstacle {#form-step-over-obstacle}
+
+Instructions: Begin walking at your normal speed. When you come to the
+shoe box, step over it, not around it, and keep walking.
+
+
+<table class="basic-table">
+    <thead>
+        <tr>
+            <th>Score</th>
+            <th>Impairment</th>
+            <th>Criteria</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr onclick="setScore(3, this, 'score6')" data-score-group="score6" style="cursor: pointer;">
+            <td>3</td>
+            <td>Normal</td>
+            <td>Is able to step over 2 stacked shoe boxes taped together (22.86 cm [9 in] total height) without changing gait speed; no evidence of imbalance.</td>
+        </tr>
+        <tr onclick="setScore(2, this, 'score6')" data-score-group="score6" style="cursor: pointer;">
+            <td>2</td>
+            <td>Mild</td>
+            <td>Is able to step over one shoe box (11.43 cm [4.5 in] total height) without changing gait speed; no evidence of imbalance.</td>
+        </tr>
+        <tr onclick="setScore(1, this, 'score6')" data-score-group="score6" style="cursor: pointer;">
+            <td>1</td>
+            <td>Moderate</td>
+            <td>Is able to step over one shoe box (11.43 cm [4.5 in] total height) but must slow down and adjust steps to clear box safely. May require verbal cueing.</td>
+        </tr>
+        <tr onclick="setScore(0, this, 'score6')" data-score-group="score6" style="cursor: pointer;">
+            <td>0</td>
+            <td>Severe</td>
+            <td>Cannot perform without assistance.</td>
+        </tr>
+    </tbody>
+</table>
+
+<p>Item 6 Score: <span id="currentScore6">Not tested</span></p>
+
+
+## 7 Narrow Base of Support {#form-narrow-bos}
+
+Instructions: Walk on the floor with arms folded across the chest, feet
+aligned heel to toe in tandem for a distance of 3.6 m [12 ft]. The number
+of steps taken in a straight line are counted for a maximum of 10 steps.
+Grading: Mark the highest category that applies.
+
+<table class="basic-table">
+    <thead>
+        <tr>
+            <th>Score</th>
+            <th>Impairment</th>
+            <th>Criteria</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr onclick="setScore(3, this, 'score7')" data-score-group="score7" style="cursor: pointer;">
+            <td>3</td>
+            <td>Normal</td>
+            <td>Is able to ambulate for 10 steps heel to toe with no staggering.</td>
+        </tr>
+        <tr onclick="setScore(2, this, 'score7')" data-score-group="score7" style="cursor: pointer;">
+            <td>2</td>
+            <td>Mild</td>
+            <td>Ambulates 7–9 steps.</td>
+        </tr>
+        <tr onclick="setScore(1, this, 'score7')" data-score-group="score7" style="cursor: pointer;">
+            <td>1</td>
+            <td>Moderate</td>
+            <td>Ambulates 4–7 steps.</td>
+        </tr>
+        <tr onclick="setScore(0, this, 'score7')" data-score-group="score7" style="cursor: pointer;">
+            <td>0</td>
+            <td>Severe</td>
+            <td>Ambulates less than 4 steps heel to toe or cannot perform without assistance.</td>
+        </tr>
+    </tbody>
+</table>
+
+<p>Item 7 Score: <span id="currentScore7">Not tested</span></p>
+
+
+## 8. Eyes Closed {#form-eyes-closed}
+
+Instructions: Walk at your normal speed from here to the next mark (6 m
+[20 ft]) with your eyes closed.
+Grading: Mark the highest category that applies.
+
+<table class="basic-table">
+    <thead>
+        <tr>
+            <th>Score</th>
+            <th>Impairment</th>
+            <th>Criteria</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr onclick="setScore(3, this, 'score8')" data-score-group="score8" style="cursor: pointer;">
+            <td>3</td>
+            <td>Normal</td>
+            <td>Walks 6 m (20 ft), no assistive devices, good speed, no evidence of imbalance, normal gait pattern, deviates no more than 15.24 cm (6 in) outside 30.48-cm (12-in) walkway width. Ambulates 6 m (20 ft) in less than 7 seconds.</td>
+        </tr>
+        <tr onclick="setScore(2, this, 'score8')" data-score-group="score8" style="cursor: pointer;">
+            <td>2</td>
+            <td>Mild</td>
+            <td>Walks 6 m (20 ft), uses assistive device, slower speed, mild gait deviations, deviates 15.24 – 25.4 cm (6 – 10 in) outside 30.48-cm (12-in) walkway width. Ambulates 6 m (20 ft) in less than 9 seconds but greater than 7 seconds.</td>
+        </tr>
+        <tr onclick="setScore(1, this, 'score8')" data-score-group="score8" style="cursor: pointer;">
+            <td>1</td>
+            <td>Moderate</td>
+            <td>Walks 6 m (20 ft), slow speed, abnormal gait pattern, evidence for imbalance, deviates 25.4 – 38.1 cm (10 – 15 in) outside 30.48-cm (12-in) walkway width. Requires more than 9 seconds to ambulate 6 m (20 ft).</td>
+        </tr>
+        <tr onclick="setScore(0, this, 'score8')" data-score-group="score8" style="cursor: pointer;">
+            <td>0</td>
+            <td>Severe</td>
+            <td>Cannot walk 6 m (20 ft) without assistance, severe gait deviations or imbalance, deviates greater than 38.1 cm (15 in) outside 30.48-cm (12-in) walkway width or will not attempt task.</td>
+        </tr>
+    </tbody>
+</table>
+
+<p>Item 8 Score: <span id="currentScore8">Not tested</span></p>
+
+
+## 9 Backwards {#form-backwards}
+Instructions: Walk backwards until I tell you to stop.
+Grading: Mark the highest category that applies.
+
+<table class="basic-table">
+    <thead>
+        <tr>
+            <th>Score</th>
+            <th>Impairment</th>
+            <th>Criteria</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr onclick="setScore(3, this, 'score9')" data-score-group="score9" style="cursor: pointer;">
+            <td>3</td>
+            <td>Normal</td>
+            <td>Walks 6m (20 ft), no assistive devices, good speed, no evidence for imbalance, normal gait pattern, deviates no more than 15.24 cm (6 in) outside 30.48-cm (12-in) walkway width.</td>
+        </tr>
+        <tr onclick="setScore(2, this, 'score9')" data-score-group="score9" style="cursor: pointer;">
+            <td>2</td>
+            <td>Mild</td>
+            <td>Walks 6 m (20 ft), uses assistive device, slower speed, mild gait deviations, deviates 15.24 – 25.4 cm (6 – 10 in) outside 30.48-cm (12-in) walkway width.</td>
+        </tr>
+        <tr onclick="setScore(1, this, 'score9')" data-score-group="score9" style="cursor: pointer;">
+            <td>1</td>
+            <td>Moderate</td>
+            <td>Walks 6 m (20 ft), slow speed, abnormal gait pattern, evidence for imbalance, deviates 25.4 – 38.1 cm (10 – 15 in) outside 30.48-cm (12-in) walkway width.</td>
+        </tr>
+        <tr onclick="setScore(0, this, 'score9')" data-score-group="score9" style="cursor: pointer;">
+            <td>0</td>
+            <td>Severe</td>
+            <td>Cannot walk 6 m (20 ft) without assistance, severe gait deviations or imbalance, deviates greater than 38.1 cm (15 in) outside 30.48-cm (12-in) walkway width or will not attempt task.</td>
+        </tr>
+    </tbody>
+</table>
+
+<p>Item 9 Score: <span id="currentScore9">Not tested</span></p>
+
+## 10 Stairs
+
+Instructions: Walk up these stairs as you would at home (ie, using the rail
+if necessary). At the top turn around and walk down.
+
+
+<table class="basic-table">
+    <thead>
+        <tr>
+            <th>Score</th>
+            <th>Impairment</th>
+            <th>Criteria</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr onclick="setScore(3, this, 'score10')" data-score-group="score10" style="cursor: pointer;">
+            <td>3</td>
+            <td>Normal</td>
+            <td>Alternating feet, no rail.</td>
+        </tr>
+        <tr onclick="setScore(2, this, 'score10')" data-score-group="score10" style="cursor: pointer;">
+            <td>2</td>
+            <td>Mild</td>
+            <td>Alternating feet, must use rail.</td>
+        </tr>
+        <tr onclick="setScore(1, this, 'score10')" data-score-group="score10" style="cursor: pointer;">
+            <td>1</td>
+            <td>Moderate</td>
+            <td>Two feet to a stair; must use rail.</td>
+        </tr>
+        <tr onclick="setScore(0, this, 'score10')" data-score-group="score10" style="cursor: pointer;">
+            <td>0</td>
+            <td>Severe</td>
+            <td>Cannot do safely.</td>
+        </tr>
+    </tbody>
+</table>
+
+<p>Item 10 Score: <span id="currentScore10">Not tested</span></p>
+
+
+
+## Results
+
+<script>
+    function setScore(value, element, scoreId) {
+        // Update the displayed score
+        document.getElementById(`current${scoreId.charAt(0).toUpperCase() + scoreId.slice(1)}`).innerText = value;
+
+        // Reset background color for all elements in the same group
+        const elements = document.querySelectorAll(`[data-score-group="${scoreId}"]`);
+        elements.forEach(el => el.style.backgroundColor = ''); // Reset all elements
+
+        calculateTotal()
+
+        // Highlight the clicked element with a color based on the score value
+        let color;
+        switch (value) {
+            case 3:
+                color = '#aae8a9'; // Color for Normal
+                break;
+            case 2:
+                color = '#f2e9ae'; // Color for Mild
+                break;
+            case 1:
+                color = '#f7b18b'; // Color for Moderate
+                break;
+            case 0:
+                color = '#fa8484'; // Color for Severe
+                break;
+            default:
+                color = ''; // Default (no highlight)
+        }
+        element.style.backgroundColor = color; // Set the background color
+    }
+
+
+    function calculateTotal() {
+        // Get the current scores from the spans
+        const score1 = parseInt(document.getElementById("currentScore1").innerText) || 0;
+        const score2 = parseInt(document.getElementById("currentScore2").innerText) || 0;
+        const score3 = parseInt(document.getElementById("currentScore3").innerText) || 0;
+        const score4 = parseInt(document.getElementById("currentScore4").innerText) || 0;
+        const score5 = parseInt(document.getElementById("currentScore5").innerText) || 0;
+        const score6 = parseInt(document.getElementById("currentScore6").innerText) || 0;
+        const score7 = parseInt(document.getElementById("currentScore7").innerText) || 0;
+        const score8 = parseInt(document.getElementById("currentScore8").innerText) || 0;
+        const score9 = parseInt(document.getElementById("currentScore9").innerText) || 0;
+        const score10 = parseInt(document.getElementById("currentScore10").innerText) || 0;
+
+        // Calculate the total score
+        const total = score1 + score2 + score3 + score4 + score5 + score6 + score7 + score8 + score9 + score10;
+
+        // Update the total score display
+        document.getElementById("totalScore").innerText = total;
+    }
+
+</script>
+
+<p>Total: <span id="totalScore">0</span></p> 

@@ -2470,6 +2470,11 @@ ref-hip-balance-strategy:
 ref-mini-bestest:
   path: "/The Archive/Examination/Tests and Measures/Balance Tests/BESTest/Mini-BESTest.html"
 
+
+### Gait tests
+ref-functional-gait-assessment:
+  path: "/The Archive/Examination/Tests and Measures/Gait tests/functional_gait_assessment_FGA.html"
+
 ## Tests and measures
 ref-tinels-test:
   path: "/The Archive/Examination/Tests and Measures/Tinels_test.html"
