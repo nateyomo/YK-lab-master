@@ -481,6 +481,10 @@
     <lastmod>2024-08-09T20:51:32.825Z</lastmod>
   </url>
   <url>
+    <loc>https://yomokerst.com/The Archive/Examination/Tests and Measures/Gait tests/dynamic_gait_index_DGI.html</loc>
+    <lastmod>2025-01-17T05:21:54.367Z</lastmod>
+  </url>
+  <url>
     <loc>https://yomokerst.com/The Archive/Examination/Tests and Measures/Trunk Tests/Lumbar Spine Tests/prone_instability_test_lumbar_spine.html</loc>
     <lastmod>2024-04-21T05:52:33.246Z</lastmod>
   </url>
@@ -519,6 +523,14 @@
   <url>
     <loc>https://yomokerst.com/The Archive/Examination/Tests and Measures/Balance Tests/3MBWT_3_meter_backwards_walk_test.html</loc>
     <lastmod>2024-05-09T15:16:25.273Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yomokerst.com/The Archive/Examination/Tests and Measures/Balance Tests/timed_up-and-go_test_TUG.html</loc>
+    <lastmod>2025-01-16T22:29:37.686Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yomokerst.com/The Archive/Examination/Tests and Measures/Balance Tests/BESTest/Mini-BESTest.html</loc>
+    <lastmod>2025-01-17T08:22:21.310Z</lastmod>
   </url>
   <url>
     <loc>https://yomokerst.com/The Archive/Examination/Tests and Measures/Head and Neck Tests/cervical_distraction_test.html</loc>
@@ -2581,10 +2593,6 @@
     <lastmod>2024-01-28T21:01:30.950Z</lastmod>
   </url>
   <url>
-    <loc>https://yomokerst.com/The Archive/Neuroscience/Neuro Examination/Neuro Tests and Measures/functional_gait_assessment_FGA.html</loc>
-    <lastmod>2024-01-28T21:01:30.951Z</lastmod>
-  </url>
-  <url>
     <loc>https://yomokerst.com/The Archive/Neuroscience/Neuro Examination/Neuro Tests and Measures/5x_sit_to_stand_test.html</loc>
     <lastmod>2024-02-08T16:34:38.909Z</lastmod>
   </url>
@@ -2622,7 +2630,7 @@
   </url>
   <url>
     <loc>https://yomokerst.com/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD Tests and Measures/UPDRS_unified_parkinsons_disease_rating_scale.html</loc>
-    <lastmod>2024-02-27T18:02:31.843Z</lastmod>
+    <lastmod>2025-01-16T01:33:39.547Z</lastmod>
   </url>
   <url>
     <loc>https://yomokerst.com/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/mds-pd-criteria_movement_disorder_society_parkinsons_disease_clinical_diagnostic_criteria.html</loc>
@@ -3546,7 +3554,7 @@
   </url>
   <url>
     <loc>https://yomokerst.com/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/hoehn_and_yahr_scale.html</loc>
-    <lastmod>2024-12-16T01:52:00.536Z</lastmod>
+    <lastmod>2025-01-16T01:34:53.512Z</lastmod>
   </url>
   <url>
     <loc>https://yomokerst.com/The Archive/Neuroscience/Neuropathology/Parkinsons Disease/PD_gait.html</loc>
@@ -3582,10 +3590,6 @@
   </url>
   <url>
     <loc>https://yomokerst.com/The Archive/Neuroscience/Neuro Examination/Neuro Tests and Measures/activities-specific_balance_confidence_scale.html</loc>
-    <lastmod>2024-01-28T21:01:30.950Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yomokerst.com/The Archive/Neuroscience/Neuro Examination/Neuro Tests and Measures/berg_balance_scale.html</loc>
     <lastmod>2024-01-28T21:01:30.950Z</lastmod>
   </url>
   <url>
@@ -5645,8 +5649,16 @@
     <lastmod>2024-06-14T20:44:40.796Z</lastmod>
   </url>
   <url>
+    <loc>https://yomokerst.com/The Archive/Examination/Tests and Measures/Balance Tests/balance_tests_overview.html</loc>
+    <lastmod>2025-01-16T01:47:11.634Z</lastmod>
+  </url>
+  <url>
     <loc>https://yomokerst.com/The Archive/Examination/Tests and Measures/Balance Tests/RPS_rate_of_perceived_stability.html</loc>
     <lastmod>2024-02-13T19:11:56.051Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yomokerst.com/The Archive/Examination/Tests and Measures/Balance Tests/berg_balance_scale.html</loc>
+    <lastmod>2025-01-16T01:46:47.728Z</lastmod>
   </url>
   <url>
     <loc>https://yomokerst.com/The Archive/Examination/Tests and Measures/Tinels_test.html</loc>
@@ -5683,6 +5695,10 @@
   <url>
     <loc>https://yomokerst.com/The Archive/Examination/Tests and Measures/Trunk Tests/Lumbar Spine Tests/lateral_stability_test_lumbar_spine.html</loc>
     <lastmod>2024-04-21T05:52:33.246Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yomokerst.com/The Archive/Examination/Tests and Measures/Gait tests/functional_gait_assessment_FGA.html</loc>
+    <lastmod>2025-01-17T08:29:12.892Z</lastmod>
   </url>
   <url>
     <loc>https://yomokerst.com/The Archive/Examination/Tests and Measures/Strength/bunkie_test.html</loc>
@@ -6163,17 +6179,5 @@
   <url>
     <loc>https://yomokerst.com/Journal club/jc2_post-exercise_cold_immersion.html</loc>
     <lastmod>2024-01-30T21:21:31.938Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yomokerst.com/The Archive/Examination/Tests and Measures/Balance Tests/BESTest/Mini-BESTest.html</loc>
-    <lastmod>2025-01-17T08:22:21.310Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yomokerst.com/The Archive/Examination/Tests and Measures/Gait tests/dynamic_gait_index_DGI.html</loc>
-    <lastmod>2025-01-17T05:21:54.367Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yomokerst.com/The Archive/Examination/Tests and Measures/Gait tests/functional_gait_assessment_FGA.html</loc>
-    <lastmod>2025-01-17T08:29:12.892Z</lastmod>
   </url>
 </urlset>
