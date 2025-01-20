@@ -1075,6 +1075,9 @@ from TUG and or new signs of imbalance."
                 color = ''; // Default (no highlight)
         }
         element.style.backgroundColor = color; // Set the background color
+
+        // Recalculate the totals
+        calculateTotal();
     }
 
 
@@ -1118,6 +1121,7 @@ from TUG and or new signs of imbalance."
 <p>Reactive Postural Control Subtotal: <span id="reactive_subtotal">0</span></p>
 <p>Sensory Orientation Subtotal: <span id="sensory_orientation_subtotal">0</span></p>
 <p>Dynamic Gait Subtotal: <span id="dynamic_gait_subtotal">0</span></p>
+
 <p>Total: <span id="totalScore">0</span></p>
 
 
