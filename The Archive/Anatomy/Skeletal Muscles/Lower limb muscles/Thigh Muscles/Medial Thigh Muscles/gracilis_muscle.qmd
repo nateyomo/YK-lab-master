@@ -63,6 +63,9 @@ else:
 **Hip**: Adduction and Flexion @gilroyAtlasAnatomy2020
 **Knee**: Flexion and Internal rotation @gilroyAtlasAnatomy2020
 
+::: {.callout-note}
+According to Brad Jones, the gracilis is a hip flexor until 40&deg; Hip flexion @jonesProjectFoundations2025.
+:::
 
 
 # Overview

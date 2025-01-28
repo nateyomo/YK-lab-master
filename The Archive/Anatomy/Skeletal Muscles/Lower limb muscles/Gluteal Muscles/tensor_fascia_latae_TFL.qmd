@@ -53,13 +53,12 @@ Iliotibial Tract @gilroyAtlasAnatomy2020
 
 The TFL is innervated by nerve roots [L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}}), and [S1]({{< var ref-nerve-root.s1 >}}), via the [Superior gluteal nerve]({{< var ref-superior-gluteal-nerve.path >}})  @gilroyAtlasAnatomy2020
 
-
-
 # Action {#action}
 
 - Tenses the fascia latae @gilroyAtlasAnatomy2020
 - Hip joint: abduction, flexion, and internal rotation @gilroyAtlasAnatomy2020
 
+The TFL is a strong hip flexor and is a key pelvis stabilizer @jonesProjectFoundations2025.
 
 
 # Notes

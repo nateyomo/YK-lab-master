@@ -52,6 +52,12 @@ else:
 
 - [Anterior inferior iliac spine (AIIS)]({{< var ref-coxal-bone.aiis >}}) @gilroyAtlasAnatomy2020
 - Acetabular roof of hip joint @gilroyAtlasAnatomy2020 
+- Ilium @jonesProjectFoundations2025
+
+
+::: {.callout-note}
+The rectus femoris origin on the ASIS combines with the path of the ilio-femoral lig. strengthening the anterior aspect of the joint capsule @jonesProjectFoundations2025.
+:::
 
 # Insertion {#insertion}
 
@@ -63,11 +69,18 @@ Tibial tuberosity (via patellar lig.) @gilroyAtlasAnatomy2020
 
 # Action {#action}
 
+
+
+
 - **Hip**: Flexion @gilroyAtlasAnatomy2020
 - **Knee**: Extension @gilroyAtlasAnatomy2020
 
 
-Since the rectus femoris crosses both the hip and knee, "this gives the hip joint substantial significance with respect to the knee extensor mechanism in the examination and intervention" @duttonDuttonOrthopaedicExamination2020
+The rectus femoris muscle is a *2-joint muscle*, acting on both the hip and the knee.
+As a result, these two joints can impact the rectus femoris' efficiency on the other.
+The hip joint can significantly impact the rectus femoris' role in the knee extensor mechanism @duttonDuttonOrthopaedicExamination2020.
+In addition, the rectus femoris' ability to efficiently flex the knee is proportional to the degree of hip flexion @jonesProjectFoundations2025.
+
 
 :::{.callout-note}
 "The line of pull of the rectus femoris, with respect to the patella, is at an angle of about 5 degrees with the femoral shaft (see Fig. 20-12)." @duttonDuttonOrthopaedicExamination2020 

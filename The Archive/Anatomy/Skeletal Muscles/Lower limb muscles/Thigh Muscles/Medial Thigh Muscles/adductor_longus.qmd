@@ -63,3 +63,8 @@ Femur (linea aspera, medial lip in the middle third of the femur) @gilroyAtlasAn
 
 - **Hip joint**: adduction and flexion (up to 70&deg;); extension (past 80&deg; of flexion)
 - **Pelvic Stabilization**: Coronal and Sagittal planes
+
+
+::: {.callout-note}
+According to Brad Jones, the adductor longus flexes up to 50&deg;, but then generates a hip extension force past 70&deg; @jonesProjectFoundations2025.
+:::

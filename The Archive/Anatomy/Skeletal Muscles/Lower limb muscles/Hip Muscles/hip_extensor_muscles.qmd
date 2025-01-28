@@ -100,6 +100,38 @@ else:
 ```
 
 
+# Insertional groups
+
+The hip extensors can also be organized into two groups based on their insertion:
+
+::: {.columns}
+::: {.column}
+
+### Upper femur insertion
+
+- Glute max @jonesProjectFoundations2025
+- glute med @jonesProjectFoundations2025
+- glute min @jonesProjectFoundations2025
+
+:::
+::: {.column}
+
+### Distal knee joint insertion
+
+- biceps femoris long head @jonesProjectFoundations2025
+- biceps femoris short head @jonesProjectFoundations2025
+- Semitendinosus @jonesProjectFoundations2025
+- Semimembranosus @jonesProjectFoundations2025
+
+:::
+:::
+
+# Secondary actions
+
+The hip extensors have secondary actions of *abduction* and *adduction* based on their position relative to the anterior-posterior axis  @jonesProjectFoundations2025.
+
+
+
 # Anatomy and Individual Actions
 “The primary hip extensors are the gluteus maximus, the ham­ strings (i.e., the long head of the biceps femoris, the semitendi­ nosus, and the semimembranosus), and the posterior head of the adductor magnus (Fig. 12.39).57 The middle and posterior fibers of the gluteus medius and the anterior fibers of the adductor magnus are secondary extensors.162 With the hip flexed to at least about 70 degrees and beyond, most adductors muscles (with the possible exception of the pectineus) are capable of assisting with hip extension.” @neumannKinesiologyMusculoskeletalSystem2017
 

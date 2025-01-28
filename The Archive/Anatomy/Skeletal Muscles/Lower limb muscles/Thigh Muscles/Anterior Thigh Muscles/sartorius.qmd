@@ -67,6 +67,8 @@ Medial to the Tibial Tuberosity via the [Pes Anserine]({{< var ref-pes-anserine 
 
 # Action {#action}
 
+The sartorius muscle acts primarily as a [hip flexor]({{< var ref-hip-flexor-muscle-group.path >}}) @jonesProjectFoundations2025.
+
 - **Hip**: Flexion, ER, ABD @gilroyAtlasAnatomy2020 
 - **Knee**: Flexion, IR @gilroyAtlasAnatomy2020 
 

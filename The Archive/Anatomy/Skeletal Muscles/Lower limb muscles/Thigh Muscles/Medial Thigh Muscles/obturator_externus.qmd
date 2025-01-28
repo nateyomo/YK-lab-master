@@ -48,7 +48,11 @@ else:
 
 
 # Origin {#origin}
-Outer surface of the obturator membrane and its bony boundaries @gilroyAtlasAnatomy2020
+Outer surface of the obturator membrane and its bony boundaries [@gilroyAtlasAnatomy2020].
+
+# Path {#path}
+
+From its [origin](#origin) the OE and its tendon wind posteriorly below the hip joint and run superiorly to its [insertion on the floor of the trochanteric fossa](#insertion) @jonesProjectFoundations2025.
 
 
 # Insertion {#insertion}
@@ -66,8 +70,10 @@ Trochanteric fossa of the femur @gilroyAtlasAnatomy2020
 - **Hip**: adduction and external rotation @gilroyAtlasAnatomy2020
 - **Pelvic Stabilization**: Sagittal plane @gilroyAtlasAnatomy2020
 
+According to Brad Jones @jonesProjectFoundations2025, the OE is an external rotator when in hip flexion, and acts to slightly flex the hip @jonesProjectFoundations2025.
 
-
+At ~30-40&deg; of *internal rotation*, the OE's runs exactly inferior to the center of the joint, and thus stops functioning as an external rotator @jonesProjectFoundations2025.
+When the hip is internally rotated past 40&deg;, the OE generates an external rotation torque @jonesProjectFoundations2025.
 
 # Overview
 

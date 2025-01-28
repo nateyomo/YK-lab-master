@@ -1425,6 +1425,8 @@ ref-hip-external-rotator-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_external_rotators.html"
 ref-hip-internal-rotator-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/Hip_internal_rotators_muscles.html"
+ref-pelvitrochanteric-muscle-group:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/pelvitrochanteric_muscle_group.html"
 
 ref-pectineus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus_muscle.html"
@@ -2643,6 +2645,12 @@ ref-cyriax-release-maneuver:
 ## Therex
 ref-overhead-squat:
   path: "/The Archive/Interventions/Therex/Squat/overhead_squat.html"
+
+### Foundational exercises
+ref-foundational-exercises:
+  path: "/The Archive/Interventions/Therex/Foundational Exercises/foundational_exercises.html"
+ref-posterior-hip-table-recovery-exercise:
+  path: "/The Archive/Interventions/Therex/Foundational Exercises/foundational_exercises.html#posterior-hip-table-exercise"
 
 # Microbiology
 ref-microbiology-index:

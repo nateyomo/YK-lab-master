@@ -1,0 +1,118 @@
+---
+title: Manual Therapy Overview
+---
+
+
+# Tips
+
+Here is the current aspects of manual therapy I am currently working on:
+
+
+- Dont shear as much, it will be more irritating
+- You can strum and feel around for general examination, but for in depth palpation, use small surface area and sink in
+
+
+# Goal setting
+
+The purpose of *goal setting* is to establish the client's **wants** versus their **needs**, and identifying how their current behavior is not achieving these states @jonesProjectPhysicalTherapy2025.
+
+::: {.columns}
+::: {.column}
+### Wants
+Wants describe a client's *true* goals @jonesProjectPhysicalTherapy2025.
+This could include aesthetic goals or even mimicking a person they aspire to be @jonesProjectPhysicalTherapy2025. 
+Sometimes these goals are not realistic, but these are important to consider since this is how the client defines **success** @jonesProjectPhysicalTherapy2025.
+
+:::
+::: {.column}
+### Needs
+
+Needs refer to the necessary behavior a client needs to achieve physical progress @jonesProjectPhysicalTherapy2025.
+Sometimes, a client's **needs** do not align with their **wants** @jonesProjectPhysicalTherapy2025.
+
+:::
+:::
+
+# Understanding why the client is seeking help
+
+"Includes establishing a timeline leading up to their current state. This timeline helps to uncover acute vs chronic injury. Curent complains and objective dysfunctions create a big picture of how the body is adjusting to its problems"
+
+::: {.columns}
+::: {.column}
+### Acute
+"Acute" refers to ongoing symptoms that have lasted &lt; 1 month @jonesProjectPhysicalTherapy2025.
+When in the acute stage, the body is working to protect the concerning area @jonesProjectPhysicalTherapy2025.
+
+:::
+::: {.column}
+### Chronic
+
+Chronic refers to ongoing symptoms that have lasted &gt; 1 month @jonesProjectPhysicalTherapy2025.
+At this point, the body begins to "normalize" itself to the situation by creating compensatory movement patterns @jonesProjectPhysicalTherapy2025.
+
+
+:::
+:::
+
+
+Injury timeline also impact *treatment response timelines* @jonesProjectPhysicalTherapy2025.
+In general, the longer the injury timeline, the greater the treatment response timeline and therefore the slower the recovery @jonesProjectPhysicalTherapy2025.
+
+
+It is important to note that treatments are **painful** @jonesProjectPhysicalTherapy2025.
+To create a response, you must **stress** the system.
+Treatments must be aggressive to create a significant stress @jonesProjectPhysicalTherapy2025.
+
+::: {.callout-note}
+For more info read these b project sections: :
+
+1. Assessment
+1. Treatment
+1. Treatment response
+1. Reassessment
+:::
+
+
+# Assessment
+
+p23 @jonesProjectPhysicalTherapy2025
+
+# Treatment
+
+p26 @jonesProjectPhysicalTherapy2025
+
+
+
+# Treatment response
+
+p28 @jonesProjectPhysicalTherapy2025
+
+
+# Reassessment
+
+p29 @jonesProjectPhysicalTherapy2025
+
+
+# Ending a table session
+
+p29 @jonesProjectPhysicalTherapy2025
+
+
+# Inventory
+
+## Torso
+
+- 
+
+## Hip
+
+## Knee
+
+## Foot/ankle
+
+## Shoulder
+
+## Elbow/hand
+
+## Neck
+

@@ -2,6 +2,10 @@
 title: Abdominal wall muscles
 ---
 
+
+
+
+
 - Anterior
     - Rectus abdominis
     - Pyramidalis
@@ -13,7 +17,24 @@ title: Abdominal wall muscles
     - Psoas major
     - Iliacus
     - Quadratus lumborum (QL)
+    - Psoas minor @jonesProjectFoundations2025
 
+
+::: {.callout-note}
+Brad Jones @jonesProjectFoundations2025 separated the abdominal wall into 2 sections:
+
+- Anterolateral
+    - External oblique
+    - Internal oblique
+    - Transversus abdominis
+    - Rectus abdominis
+    - Pyramidalis
+- Posterior
+    - Psoas major
+    - Iliacus
+    - Quadratus lumborum (QL)
+    - Psoas minor @jonesProjectFoundations2025
+:::
 
 
 ```{python tbl-abdominal-wall-oian}
@@ -51,3 +72,48 @@ else:
     print("Script file does not exist. Please check the path.")
 
 ```
+
+
+# Anterolateral abdominal wall
+
+The 5 paired muscles of the anterolateral abdominal wall can be divided into 2 groups @jonesProjectFoundations2025:
+
+::: {.columns}
+::: {.column}
+### Anterior vertical muscles
+
+- Rectus abdominis @jonesProjectFoundations2025
+- Pyramidalis @jonesProjectFoundations2025
+
+:::
+::: {.column}
+
+### Lateral flat muscles
+
+- Transverse abdominis
+- Internal oblique
+- External oblique
+
+:::
+:::
+
+
+
+
+# Hollowing
+
+All of these muscles are important for flexion and "hollowing" @jonesProjectFoundations2025.
+Each part of the abdominal wall draws in a different part of the body towards the midline of the (linea alba).
+The external obliques draw in the ribcage infero-medially.
+The internal obliques draw the ilium superior medially.
+the transverse abdominis draws the sides of the body medially.
+The rectus abdominis pulls the ribcage inferiorly and pelvis superiorly.
+
+
+# Trunk Flexion
+
+2 levers:
+
+1. Pubic symphysis to the sacral promontory
+1. Xiphoid to thoracic spine
+

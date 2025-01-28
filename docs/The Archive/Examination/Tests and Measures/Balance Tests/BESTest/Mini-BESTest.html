@@ -8,6 +8,7 @@
 
 <meta name="author" content="Nate Yomogida">
 <meta name="author" content="Chloë Kerstein">
+<meta name="keywords" content="Mini BEST Test, MiniBESt, Mini Balance Evaluation Systems Test">
 
 <title>Mini-BESTest</title>
 <style>
@@ -243,6 +244,12 @@ div.csl-indent {
   </div>
   
 
+<div>
+  <div class="keywords">
+    <div class="block-title">Keywords</div>
+    <p>Mini BEST Test, MiniBESt, Mini Balance Evaluation Systems Test</p>
+  </div>
+</div>
 
 </header>
 
@@ -411,7 +418,7 @@ Unable to stand up from chair without assistance, OR needs several attempts with
 </tbody>
 </table>
 <p>
-Item 1 Score: <span id="currentScore1">Not tested</span>
+Item 1 Score: <span class="score1">Not tested</span>
 </p>
 </section>
 <section id="form-rise-to-toes" class="level3">
@@ -481,7 +488,7 @@ Severe
 </tbody>
 </table>
 <p>
-Item 2 Score: <span id="currentScore2">Not tested</span>
+Item 2 Score: <span class="score2">Not tested</span>
 </p>
 </section>
 <section id="form-slb" class="level3">
@@ -813,17 +820,21 @@ Final Score
 
      function setScore3(item3finalLLETime, item3finalRLETime) {
         // Reset currentScore3 to 0 by default
-        let currentScore3 = 0; 
+        let score3 = 0; 
 
         // Check which time is bolded and calculate the corresponding score
         if (document.getElementById("item3finalLLETime").style.fontWeight === "bold") {
-            currentScore3 = item3calculateScore(item3finalLLETime); // Use seconds directly
+            score3 = item3calculateScore(item3finalLLETime); // Use seconds directly
         } else if (document.getElementById("item3finalRLETime").style.fontWeight === "bold") {
-            currentScore3 = item3calculateScore(item3finalRLETime); // Use seconds directly
+            score3 = item3calculateScore(item3finalRLETime); // Use seconds directly
         }
 
-        // Update the score3 display
-        document.getElementById("currentScore3").innerText = currentScore3;
+        
+        // Update the score3 display in the element with the class 'score3'
+        document.querySelector('.score3').innerText = score3;
+
+        // Return the score3 value
+        return score3;
     }
 
     function setUnable(resultId) {
@@ -846,7 +857,7 @@ Final Score
     }
 </script>
 <p>
-Item 3 Score: <span id="currentScore3">0</span>
+Item 3 Score: <span class="score3">0</span>
 </p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -973,7 +984,7 @@ Moderate
 More than one step used to recover equilibrium
 </td>
 </tr>
-<tr onclick="setScore(0, this, 'score5')" data-score-group="score5" style="cursor: pointer;">
+<tr onclick="setScore(0, this, 'score4')" data-score-group="score4" style="cursor: pointer;">
 <td>
 0
 </td>
@@ -987,7 +998,7 @@ No step, OR would fall if not caught, OR falls spontaneously
 </tbody>
 </table>
 <p>
-Current Score4: <span id="currentScore4">0</span>
+Current Score4: <span class="score4">0</span>
 </p>
 <p>“Stand in front of the subject with one hand on each shoulder and ask the subject to lean forward (Make sure there is room for them to step forward). Require the subject to lean until the subject’s shoulders and hips are in front of toes. After you feel the subject’s body weight in your hands, very suddenly release your support. The test must elicit a step. NOTE: Be prepared to catch subject.”</p>
 </section>
@@ -1058,7 +1069,7 @@ No step, OR would fall if not caught, OR falls spontaneously
 </tbody>
 </table>
 <p>
-Item 5 score: <span id="currentScore5">0</span>
+Item 5 score: <span class="score5">0</span>
 </p>
 <p>“Stand behind the subject with one hand on each scapula and ask the subject to lean backward (Make sure there is room for the subject to step backward.) Require the subject to lean until their shoulders and hips are in back of their heels. After you feel the subject’s body weight in your hands, very suddenly release your support. Test must elicit a step”</p>
 </section>
@@ -1129,7 +1140,7 @@ No step, OR would fall if not caught, OR falls spontaneously
 </tbody>
 </table>
 <p>
-Item 6 Score: <span id="currentScore6">0</span>
+Item 6 Score: <span class="score6">0</span>
 </p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -1159,31 +1170,6 @@ Note
 <h3 class="anchored" data-anchor-id="form-feet-together-eyes-open-balance">7 Feet together, Eyes open, static balance</h3>
 <p>Instruction: “Place your hands on your hips. Place your feet together until almost touching. Look straight ahead. Be as stable and still as possible, until I say stop.”</p>
 <p>“Record the time the subject was able to stand with feet together up to a maximum of 30 seconds. Make sure subject looks at a non-moving target 4-12 feet away.”</p>
-<!-- <div id="item7Timer">
-    <p id="item7Time">0.0 s</p>
-    <button id="startItem7Timer">Start</button>
-    <button id="stopItem7Timer">Stop</button>
-    <button id="resetItem7Timer">Reset</button>
-</div>
-
-
-<script>
-
-function item7calculateScore(finalTime) {
-        if (finalTime === "Unable") {
-            return 0;
-        }
-        const timeInSeconds = finalTime / 1000;
-        else if (timeInSeconds < 30) {
-            return 1;
-        }
-        else if (timeInSeconds >= 30) {
-            return 2;
-        }
-        return "Error";
-    }
-
-</script> -->
 <table class="basic-table">
 <thead>
 <tr>
@@ -1199,7 +1185,7 @@ Criteria
 </tr>
 </thead>
 <tbody>
-<tr onclick="setScore(2, this, 'score7')" data-score-group="score7" style="cursor: pointer;" aria-label="Normal: ≥30s">
+<tr data-score-group="score7" aria-label="Normal: ≥30s">
 <td>
 2
 </td>
@@ -1210,7 +1196,7 @@ Normal
 ≥30s
 </td>
 </tr>
-<tr onclick="setScore(1, this, 'score7')" data-score-group="score7" style="cursor: pointer;" aria-label="Moderate: <30s">
+<tr data-score-group="score7" aria-label="Moderate: <30s">
 <td>
 1
 </td>
@@ -1221,7 +1207,7 @@ Moderate
 &lt;30s
 </td>
 </tr>
-<tr onclick="setScore(0, this, 'score7')" data-score-group="score7" style="cursor: pointer;" aria-label="Severe: Unable">
+<tr data-score-group="score7" aria-label="Severe: Unable">
 <td>
 0
 </td>
@@ -1234,8 +1220,17 @@ Unable
 </tr>
 </tbody>
 </table>
+<p id="item7trial">
+— s
+</p>
+<button id="item7TimerButton">
+Start Timer
+</button>
+<button id="item7UnableButton">
+Unable
+</button>
 <p>
-Item 7 Current: <span id="currentScore7">0</span>
+Item 7 Score: <span class="score7">0</span>
 </p>
 </section>
 <section id="form-feet-together-eyes-closed-balance" class="level3">
@@ -1257,7 +1252,7 @@ Criteria
 </tr>
 </thead>
 <tbody>
-<tr onclick="setScore(2, this, 'score8')" data-score-group="score8" style="cursor: pointer;" aria-label="Normal: ≥30s">
+<tr data-score-group="score8" aria-label="Normal: ≥30s">
 <td>
 2
 </td>
@@ -1268,7 +1263,7 @@ Normal
 ≥30s
 </td>
 </tr>
-<tr onclick="setScore(1, this, 'score8')" data-score-group="score8" style="cursor: pointer;" aria-label="Moderate: <30s">
+<tr data-score-group="score8" aria-label="Moderate: <30s">
 <td>
 1
 </td>
@@ -1279,7 +1274,7 @@ Moderate
 &lt;30s
 </td>
 </tr>
-<tr onclick="setScore(0, this, 'score8')" data-score-group="score8" style="cursor: pointer;" aria-label="Severe: Unable">
+<tr data-score-group="score8" aria-label="Severe: Unable">
 <td>
 0
 </td>
@@ -1292,8 +1287,17 @@ Unable
 </tr>
 </tbody>
 </table>
+<p id="item8trial">
+— s
+</p>
+<button id="item8TimerButton">
+Start Timer
+</button>
+<button id="item8UnableButton">
+Unable
+</button>
 <p>
-Item 8 Current: <span id="currentScore8">0</span>
+Item 8 Score: <span class="score8">0</span>
 </p>
 </section>
 <section id="form-incline-eyes-closed-balance" class="level3">
@@ -1349,8 +1353,17 @@ Unable
 </tr>
 </tbody>
 </table>
+<p id="item9trial">
+— s
+</p>
+<button id="item9TimerButton">
+Start Timer
+</button>
+<button id="item9UnableButton">
+Unable
+</button>
 <p>
-Item 9 Current: <span id="currentScore9">0</span>
+Item 9 Score: <span class="score9">0</span>
 </p>
 <p>“Aid the subject onto the ramp. Once the subject closes eyes, begin timing and record time. Note if there is excessive sway.”</p>
 </section>
@@ -1420,7 +1433,7 @@ Unable to achieve significant change in walking speed AND signs of imbalance
 </tbody>
 </table>
 <p>
-Item 10 Score: <span id="currentScore10">0</span>
+Item 10 Score: <span class="score10">0</span>
 </p>
 </section>
 <section id="form-walk-horizontal-head-turn" class="level3">
@@ -1478,7 +1491,7 @@ Performs head turns with imbalance
 </tbody>
 </table>
 <p>
-Item 11 Current: <span id="currentScore11">0</span>
+Item 11 Current: <span class="score11">0</span>
 </p>
 </section>
 <section id="forms-gait-with-pivot-turn" class="level3">
@@ -1536,7 +1549,7 @@ Cannot turn with feet close at any speed without imbalance
 </tbody>
 </table>
 <p>
-Item 12 Current: <span id="currentScore12">0</span>
+Item 12 Current: <span class="score12">0</span>
 </p>
 </section>
 <section id="form-step-over-obstacles" class="level3">
@@ -1594,16 +1607,14 @@ Unable to step over box OR steps around box
 </tbody>
 </table>
 <p>
-Item 13 Score: <span id="currentScore13">0</span>
+Item 13 Score: <span class="score13">0</span>
 </p>
 </section>
 <section id="form-timed-up-and-go-dual-task" class="level3">
 <h3 class="anchored" data-anchor-id="form-timed-up-and-go-dual-task">14 Timed Up &amp; Go with Dual-task</h3>
 <ul>
-<li><p>3 meter walk</p></li>
-<li><p>Instruction TUG: “When I say ‘Go’, stand up from chair, walk at your normal speed across the tape on the floor, turn around, and come back to sit in the chair.” Instruction TUG with Dual Task: “Count backwards by threes starting at ___. When I say ‘Go’, stand up from chair, walk at your normal speed across the tape on the floor, turn around, and come back to sit in the chair. Continue counting backwards the entire time.”</p></li>
-<li><p>TUG: ________seconds;</p></li>
-<li><p>Dual Task TUG: ________seconds</p></li>
+<li>3 meter walk</li>
+<li>Instruction TUG: “When I say ‘Go’, stand up from chair, walk at your normal speed across the tape on the floor, turn around, and come back to sit in the chair.” Instruction TUG with Dual Task: “Count backwards by threes starting at ___. When I say ‘Go’, stand up from chair, walk at your normal speed across the tape on the floor, turn around, and come back to sit in the chair. Continue counting backwards the entire time.”</li>
 </ul>
 <table class="basic-table">
 <thead>
@@ -1620,7 +1631,7 @@ Criteria
 </tr>
 </thead>
 <tbody>
-<tr onclick="setScore(2, this, 'score14')" data-score-group="score14" style="cursor: pointer;" aria-label="Normal: No noticeable change in sitting, standing or walking while backward counting when compared to TUG without Dual Task">
+<tr data-score-group="score14" aria-label="Normal: No noticeable change in sitting, standing or walking while backward counting when compared to TUG without Dual Task">
 <td>
 2
 </td>
@@ -1631,7 +1642,7 @@ Normal
 No noticeable change in sitting, standing or walking while backward counting when compared to TUG without Dual Task
 </td>
 </tr>
-<tr onclick="setScore(1, this, 'score14')" data-score-group="score14" style="cursor: pointer;" aria-label="Moderate: Dual Task affects either counting or walking (>10%) when compared to the TUG without Dual Task">
+<tr data-score-group="score14" aria-label="Moderate: Dual Task affects either counting or walking (>10%) when compared to the TUG without Dual Task">
 <td>
 1
 </td>
@@ -1642,7 +1653,7 @@ Moderate
 Dual Task affects either counting OR walking (&gt;10%) when compared to the TUG without Dual Task
 </td>
 </tr>
-<tr onclick="setScore(0, this, 'score14')" data-score-group="score14" style="cursor: pointer;" aria-label="Severe: Stops counting while walking or stops walking while counting">
+<tr data-score-group="score14" aria-label="Severe: Stops counting while walking or stops walking while counting">
 <td>
 0
 </td>
@@ -1655,9 +1666,120 @@ Stops counting while walking OR stops walking while counting
 </tr>
 </tbody>
 </table>
+<p>Item 14 TUG Time: <span class="item14TugDisplay" style="min-width: 10.3em; padding: 5px; display: inline-block;">Not tested</span> <button id="item14TugTimerButton">Start</button> <button id="item14TugUnableButton">Unable</button></p>
+<p>Item 14 Cognitive TUG Time: <span class="item14CognitiveTugDisplay" style="min-width: 6em; padding: 5px; display: inline-block;">Not tested</span> <button id="item14CognitiveTugTimerButton">Start</button> <button id="item14CognitiveTugUnableButton">Unable</button></p>
 <p>
-Item 14 Score: <span id="currentScore14">0</span>
+Item 14 Score: <span class="score14">Not tested</span>
 </p>
+<script>
+    let item14Tugtime = 0; // Holds the TUG time in ms
+    let item14CognitiveTugtime = 0; // Holds the Cognitive TUG time in ms
+    let tugInterval = null;
+    let cognitiveTugInterval = null;
+
+    // Helper function to update elements by class name
+    const updateElementsByClass = (className, textContent) => {
+        document.querySelectorAll(`.${className}`).forEach(element => {
+            element.textContent = textContent;
+        });
+    };
+
+    // Helper function to update the score
+    const updateScore14 = () => {
+        // Check if either time is set to "Unable"
+        if (item14Tugtime === null || item14CognitiveTugtime === null) {
+            updateElementsByClass('score14', "0");
+        } else if (item14Tugtime > 0 && item14CognitiveTugtime > 0) {
+            // Compare cognitive TUG time with TUG time
+            if (item14CognitiveTugtime >= item14Tugtime * 0.9) {
+                updateElementsByClass('score14', "2"); // Score is 2
+            } else {
+                updateElementsByClass('score14', "1"); // Score is 1
+            }
+        } else {
+            updateElementsByClass('score14', "Not tested"); // Default message
+        }
+
+        // Recalculate the totals
+        calculateTotal();
+    };
+
+
+    // Helper function to start a timer for item 14
+    const item14StartTimer = (className, onComplete) => {
+        const elements = document.querySelectorAll(`.${className}`);
+        let startTime = Date.now();
+
+        const interval = setInterval(() => {
+            const elapsedTime = Date.now() - startTime;
+            elements.forEach(element => {
+                element.textContent = (elapsedTime / 1000).toFixed(3) + ' s';
+            });
+
+            if (typeof onComplete === 'function') {
+                onComplete(elapsedTime, interval);
+            }
+        }, 10);
+
+        return interval;
+    };
+
+    // Event listener for the TUG timer button
+    document.getElementById('item14TugTimerButton').addEventListener('click', function () {
+        const tugButton = this;
+        if (tugInterval) {
+            clearInterval(tugInterval);
+            tugInterval = null;
+            tugButton.textContent = "Start";
+            updateScore14(); // Update score after stopping the timer
+        } else {
+            tugButton.textContent = "Stop";
+            tugInterval = item14StartTimer('item14TugDisplay', (elapsedTime) => {
+                item14Tugtime = elapsedTime; // Save the TUG time
+            });
+        }
+    });
+
+    // Event listener for the Cognitive TUG timer button
+    document.getElementById('item14CognitiveTugTimerButton').addEventListener('click', function () {
+        const cognitiveTugButton = this;
+        if (cognitiveTugInterval) {
+            clearInterval(cognitiveTugInterval);
+            cognitiveTugInterval = null;
+            cognitiveTugButton.textContent = "Start";
+            updateScore14(); // Update score after stopping the timer
+        } else {
+            cognitiveTugButton.textContent = "Stop";
+            cognitiveTugInterval = item14StartTimer('item14CognitiveTugDisplay', (elapsedTime) => {
+                item14CognitiveTugtime = elapsedTime; // Save the Cognitive TUG time
+            });
+        }
+    });
+
+    // Event listener for the TUG unable button
+    document.getElementById('item14TugUnableButton').addEventListener('click', function () {
+        if (tugInterval) {
+            clearInterval(tugInterval);
+            tugInterval = null;
+        }
+        item14Tugtime = null; // Reset time to 0
+        updateElementsByClass('item14TugDisplay', "Unable");
+        document.getElementById('item14TugTimerButton').textContent = "Start";
+        updateScore14(); // Update score
+    });
+
+    // Event listener for the Cognitive TUG unable button
+    document.getElementById('item14CognitiveTugUnableButton').addEventListener('click', function () {
+        if (cognitiveTugInterval) {
+            clearInterval(cognitiveTugInterval);
+            cognitiveTugInterval = null;
+        }
+        item14CognitiveTugtime = null; // Reset time to 0
+        updateElementsByClass('item14CognitiveTugDisplay', "Unable");
+        document.getElementById('item14CognitiveTugTimerButton').textContent = "Start";
+        updateScore14(); // Update score
+    });
+</script>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -1676,10 +1798,100 @@ Note
 </section>
 <section id="final-results" class="level2">
 <h2 class="anchored" data-anchor-id="final-results">Final Results</h2>
+<p>
+Item 1 STS: <span class="score1">Not tested</span> <br> Item 2 Heel Raise: <span class="score2">Not tested</span> <br> Item 3 SLB: <span class="score3">Not tested</span> <br> Anticipatory Subtotal: <span class="anticipatory_subtotal">0</span>
+</p>
+<p>
+Item 4 Forward compensatory step: <span class="score4">Not tested</span> <br> Item 5 Backward compensatory step: <span class="score5">Not tested</span> <br> Item 6 Lateral compensatory step: <span class="score6">Not tested</span> <br>Reactive Postural Control Subtotal: <span class="reactive_subtotal">0</span>
+</p>
+<p>
+Item 7 Static balance (Feet together + EO): <span class="score7">Not tested</span> <br> Item 8 Static balance (Feet together + EC + FOAM): <span class="score8">Not tested</span> <br> Item 9 Incline + EC Balance: <span class="score9">Not tested</span> <br> Sensory Orientation Subtotal: <span class="sensory_orientation_subtotal">0</span>
+</p>
+<p>
+Item 10 Change in gait speed: <span class="score10">Not tested</span> <br> Item 11 Gait + Horizontal head turns: <span class="score11">Not tested</span> <br> Item 12 Gait + Pivot: <span class="score12">Not tested</span> <br> Item 13 Step over Obstacle: <span class="score13">Not tested</span> <br> Item 14 TUG + TUG Cog: <span class="score14">Not tested</span> <br> Dynamic Gait Subtotal: <span class="dynamic_gait_subtotal">0</span>
+</p>
+<p>
+Total: <span class="totalScore">0</span>
+</p>
 <script>
+    const initializeTimer = (trialId, timerButtonId, unableButtonId, scoreClass) => {
+    const trialElement = document.getElementById(trialId);
+    const timerButton = document.getElementById(timerButtonId);
+    const unableButton = document.getElementById(unableButtonId);
+    const scoreElements = document.querySelectorAll(scoreClass); // Use querySelectorAll to get all matching elements
+
+    let interval = null;
+    let elapsedTime = 0;
+    const maxTime = 30000; // 30 seconds in milliseconds
+
+    const updateScore = () => {
+        let score;
+        if (elapsedTime === 0) {
+            score = 0;
+        } else if (elapsedTime < maxTime) {
+            score = 1;
+        } else {
+            score = 2;
+        }
+
+        // Update all score elements
+        scoreElements.forEach(scoreElement => {
+            scoreElement.textContent = score; // Set the same score for all elements
+        });
+
+        // Recalculate the totals
+        calculateTotal();
+    };
+
+    timerButton.addEventListener('click', () => {
+        if (interval) {
+            clearInterval(interval); // Pause the timer
+            interval = null;
+            timerButton.textContent = 'Start Timer';
+        } else {
+            const startTime = Date.now() - elapsedTime;
+            interval = setInterval(() => {
+                elapsedTime = Date.now() - startTime;
+
+                if (elapsedTime >= maxTime) {
+                    elapsedTime = maxTime;
+                    clearInterval(interval);
+                    interval = null;
+                    timerButton.disabled = true; // Disable the timer button after max time
+                }
+
+                trialElement.textContent = (elapsedTime / 1000).toFixed(3) + ' s';
+                updateScore();
+            }, 10); // Update every 10ms
+
+            timerButton.textContent = 'Pause Timer';
+        }
+    });
+
+    unableButton.addEventListener('click', () => {
+        if (interval) {
+            clearInterval(interval); // Stop the timer if running
+            interval = null;
+            timerButton.textContent = 'Start Timer';
+        }
+        elapsedTime = 0; // Reset elapsed time to 0
+        trialElement.textContent = 'Unable';
+        timerButton.disabled = false; // Re-enable the timer button if it was disabled
+        updateScore();
+    });
+};
+
+    // Initialize timers for Items 7, 8, and 9
+    initializeTimer('item7trial', 'item7TimerButton', 'item7UnableButton', '.score7');
+    initializeTimer('item8trial', 'item8TimerButton', 'item8UnableButton', '.score8');
+    initializeTimer('item9trial', 'item9TimerButton', 'item9UnableButton', '.score9');
+</script>
+<script>
+
     function setScore(value, element, scoreId) {
-        // Update the displayed score
-        document.getElementById(`current${scoreId.charAt(0).toUpperCase() + scoreId.slice(1)}`).innerText = value;
+        // Update the displayed score in all elements with the scoreId class
+        const scoreElements = document.querySelectorAll(`.${scoreId}`);
+        scoreElements.forEach(el => el.innerText = value); // Update all instances
 
         // Reset background color for all elements in the same group
         const elements = document.querySelectorAll(`[data-score-group="${scoreId}"]`);
@@ -1707,22 +1919,24 @@ Note
     }
 
 
+
     function calculateTotal() {
-        // Get the current scores from the spans
-        const score1 = parseInt(document.getElementById("currentScore1").innerText) || 0;
-        const score2 = parseInt(document.getElementById("currentScore2").innerText) || 0;
-        const score3 = parseInt(document.getElementById("currentScore3").innerText) || 0;
-        const score4 = parseInt(document.getElementById("currentScore4").innerText) || 0;
-        const score5 = parseInt(document.getElementById("currentScore5").innerText) || 0;
-        const score6 = parseInt(document.getElementById("currentScore6").innerText) || 0;
-        const score7 = parseInt(document.getElementById("currentScore7").innerText) || 0;
-        const score8 = parseInt(document.getElementById("currentScore8").innerText) || 0;
-        const score9 = parseInt(document.getElementById("currentScore9").innerText) || 0;
-        const score10 = parseInt(document.getElementById("currentScore10").innerText) || 0;
-        const score11 = parseInt(document.getElementById("currentScore11").innerText) || 0;
-        const score12 = parseInt(document.getElementById("currentScore12").innerText) || 0;
-        const score13 = parseInt(document.getElementById("currentScore13").innerText) || 0;
-        const score14 = parseInt(document.getElementById("currentScore14").innerText) || 0;
+
+        // Get the current scores from the spans using class selectors
+        const score1 = parseInt(document.querySelector(".score1").innerText) || 0;
+        const score2 = parseInt(document.querySelector(".score2").innerText) || 0;
+        const score3 = parseInt(document.querySelector(".score3").innerText) || 0;
+        const score4 = parseInt(document.querySelector(".score4").innerText) || 0;
+        const score5 = parseInt(document.querySelector(".score5").innerText) || 0;
+        const score6 = parseInt(document.querySelector(".score6").innerText) || 0;
+        const score7 = parseInt(document.querySelector(".score7").innerText) || 0;
+        const score8 = parseInt(document.querySelector(".score8").innerText) || 0;
+        const score9 = parseInt(document.querySelector(".score9").innerText) || 0;
+        const score10 = parseInt(document.querySelector(".score10").innerText) || 0;
+        const score11 = parseInt(document.querySelector(".score11").innerText) || 0;
+        const score12 = parseInt(document.querySelector(".score12").innerText) || 0;
+        const score13 = parseInt(document.querySelector(".score13").innerText) || 0;
+        const score14 = parseInt(document.querySelector(".score14").innerText) || 0;
 
         // Calculate the total score
         const anticipatory_subtotal = score1 + score2 + score3;
@@ -1731,30 +1945,77 @@ Note
         const dynamic_gait_subtotal = score10 + score11 + score12 + score13 + score14;
         const total = score1 + score2 + score3 + score4 + score5 + score6 + score7 + score8 + score9 + score10 + score11 + score12 + score13 + score14;
 
-        // Update the total score display
-        document.getElementById("anticipatory_subtotal").innerText = anticipatory_subtotal;
-        document.getElementById("reactive_subtotal").innerText = reactive_subtotal;
-        document.getElementById("sensory_orientation_subtotal").innerText = sensory_orientation_subtotal;
-        document.getElementById("dynamic_gait_subtotal").innerText = dynamic_gait_subtotal;
-        document.getElementById("totalScore").innerText = total;
+        document.querySelectorAll('.anticipatory_subtotal').forEach((element) => {
+            element.innerText = anticipatory_subtotal;
+        });
+        document.querySelectorAll('.reactive_subtotal').forEach((element) => {
+            element.innerText = reactive_subtotal;
+        });
+        document.querySelectorAll('.sensory_orientation_subtotal').forEach((element) => {
+            element.innerText = sensory_orientation_subtotal;
+        });
+        document.querySelectorAll('.dynamic_gait_subtotal').forEach((element) => {
+            element.innerText = dynamic_gait_subtotal;
+        });
+        document.querySelectorAll('.totalScore').forEach((element) => {
+            element.innerText = total;
+        });
+
     }
 
 </script>
-<p>
-Anticipatory Subtotal: <span id="anticipatory_subtotal">0</span>
-</p>
-<p>
-Reactive Postural Control Subtotal: <span id="reactive_subtotal">0</span>
-</p>
-<p>
-Sensory Orientation Subtotal: <span id="sensory_orientation_subtotal">0</span>
-</p>
-<p>
-Dynamic Gait Subtotal: <span id="dynamic_gait_subtotal">0</span>
-</p>
-<p>
-Total: <span id="totalScore">0</span>
-</p>
+<button id="copyButton">
+Copy Scores
+</button>
+<script>
+    document.getElementById('copyButton').addEventListener('click', function() {
+        // Initialize an array to hold the score texts
+        let scoresToCopy = [];
+
+        // Get the text content of each score class and add it to the array
+        scoresToCopy.push(`Item 1 STS: ${document.querySelector('.score1').innerText}`);
+        scoresToCopy.push(`Item 2 Heel Raise: ${document.querySelector('.score2').innerText}`);
+        scoresToCopy.push(`Item 3 SLB: ${document.querySelector('.score3').innerText}`);
+        scoresToCopy.push(`Anticipatory Subtotal: ${document.querySelector('.anticipatory_subtotal').innerText}`);
+        scoresToCopy.push(`Item 4 Forward compensatory step: ${document.querySelector('.score4').innerText}`);
+        scoresToCopy.push(`Item 5 Backward compensatory step: ${document.querySelector('.score5').innerText}`);
+        scoresToCopy.push(`Item 6 Lateral compensatory step: ${document.querySelector('.score6').innerText}`);
+        scoresToCopy.push(`Reactive Postural Control Subtotal: ${document.querySelector('.reactive_subtotal').innerText}`);
+        scoresToCopy.push(`Item 7 Static balance (Feet together + EO): ${document.querySelector('.score7').innerText}`);
+        scoresToCopy.push(`Item 8 Static balance (Feet together + EC + FOAM): ${document.querySelector('.score8').innerText}`);
+        scoresToCopy.push(`Item 9 Incline + EC Balance: ${document.querySelector('.score9').innerText}`);
+        scoresToCopy.push(`Sensory Orientation Subtotal: ${document.querySelector('.sensory_orientation_subtotal').innerText}`);
+        scoresToCopy.push(`Item 10 Change in gait speed: ${document.querySelector('.score10').innerText}`);
+        scoresToCopy.push(`Item 11 Gait + Horizontal head turns: ${document.querySelector('.score11').innerText}`);
+        scoresToCopy.push(`Item 12 Gait + Pivot: ${document.querySelector('.score12').innerText}`);
+        scoresToCopy.push(`Item 13 Step over Obstacle: ${document.querySelector('.score13').innerText}`);
+        scoresToCopy.push(`Item 14 TUG + TUG Cog: ${document.querySelector('.score14').innerText}`);
+        scoresToCopy.push(`Dynamic Gait Subtotal: ${document.querySelector('.dynamic_gait_subtotal').innerText}`);
+        scoresToCopy.push(`Total: ${document.querySelector('.totalScore').innerText}`);
+
+        // Join the scores with new line character
+        let textToCopy = scoresToCopy.join('\n');
+
+        // Create a temporary textarea element to hold the text
+        let tempTextArea = document.createElement('textarea');
+        tempTextArea.value = textToCopy;
+
+        // Append the textarea to the body (required for the copy command)
+        document.body.appendChild(tempTextArea);
+
+        // Select the text in the textarea
+        tempTextArea.select();
+
+        // Copy the text to the clipboard
+        document.execCommand('copy');
+
+        // Remove the temporary textarea
+        document.body.removeChild(tempTextArea);
+
+        // Optional: Alert the user that the text has been copied
+        alert('Scores copied to clipboard!');
+    });
+</script>
 
 
 

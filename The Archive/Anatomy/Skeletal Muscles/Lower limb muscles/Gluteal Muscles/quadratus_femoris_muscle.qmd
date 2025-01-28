@@ -57,6 +57,10 @@ Sacral plexus Direct Branches ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var
 **Hip**: External rotation @gilroyAtlasAnatomy2020
 
 
+::: {.callout-note}
+The QF may extend or flex the hip depending on its position @jonesProjectFoundations2025.
+:::
+
 
 # Palpation
 

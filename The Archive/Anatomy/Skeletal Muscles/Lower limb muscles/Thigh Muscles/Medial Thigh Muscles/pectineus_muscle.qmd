@@ -60,7 +60,9 @@ Femur (pectineal line and proximal linea aspera) @gilroyAtlasAnatomy2020
 
 # Action {#action}
 
-- **Hip joint**: ER, ADD, slight flex
+- **Hip joint**: ER (when &gt;30-40&deg; hip IR), ADD, slight flex
 - **Pelvis**: Stabilization in coronal and sagittal plane
 
 
+At ~30-40&deg; of *internal rotation*, the pectineus runs exactly inferior to the center of the joint, and thus stops functioning as an external rotator @jonesProjectFoundations2025.
+When the hip is internally rotated past 40&deg;, the pectineus generates an external rotation torque @jonesProjectFoundations2025.

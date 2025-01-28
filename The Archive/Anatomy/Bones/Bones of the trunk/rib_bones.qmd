@@ -4,7 +4,7 @@ title: Ribs (Bone)
 
 # Overview
 
-There are 12 pairs of rib bones in the human body.
+There are 12 pairs of rib bones which correspond to the 12 thoracic vertebrae (T1-T12).
 These ribs structurally function to protect the vital organs but also serve as functional levers for respiration.
 
 

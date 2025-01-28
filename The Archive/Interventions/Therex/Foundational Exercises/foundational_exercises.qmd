@@ -1,0 +1,120 @@
+---
+title: Foundational Exercises
+---
+
+Foundational exercises were a concept I learned during my internship at *b Project* under the mentorship of Brad Jones.
+
+
+The exercises include:
+
+1. [Wall sits and Long sits](#long-sitting)
+1. Prone
+1. Reverse / Flat (Supine)
+1. Bug
+1. Seated
+1. Plank / Hands-Knees contact
+1. Hemi
+1. Shoulder Ts
+1. Shoulder Ws
+1. Shoulder Ys
+1. Deadlifts
+1. Squats
+1. Single leg stability
+
+
+
+# Long Sitting {#long-sitting}
+
+Wall sits are a form of long sitting, but are modified and regressed by using the wall as a cue and balance aide.
+
+
+# Prone
+
+# Deadlifts
+
+# Squats
+
+# Recovery Exercises
+
+- [Rear straight leg table Exercise](#rear-straight-leg-table-exercise)
+- [Posterior hip table exercise](#posterior-hip-table-exercise)
+- [Anterior knee table exercise](#anterior-knee-table-exercise)
+- [Posterior straight leg DF wedge](#posterior-straight-leg-df-wedge)
+- [Anterior hip + Hip wedge](#anterior-hip-hip-wedge)
+
+## Rear straight leg table Exercise {#rear-straight-leg-table}
+
+
+- Straighten torso
+- Squeeze lead leg straight and bring the toes towards you
+- Hip pivot lean into stretch
+
+::: {.callout-tip}
+Align your trunk to hinge at the hip @jonesProjectPhysicalTherapy2025
+:::
+
+Dosage: 2x30s
+
+## Posterior hip table exercise {#posterior-hip-table-exercise}
+
+The *posterior hip table exercise* is purpose built for increasing/maintaining the range of the deep hip stabilizers @jonesProjectPhysicalTherapy2025.
+
+- Sit on the table's surface so that your ipsilateral hip and foot are supported.
+- Align your torso and keep it straight while leveling your hips.
+- Add hip rotation pivot to increase the stretch
+
+::: {.callout-important}
+Align your trunk and level hips to surface
+:::
+
+Dosage: 2x30s
+
+## Anterior knee table exercise {#anterior-knee-table-exercise}
+
+The *anterior knee table exercise* assists in improving or maintaining available range of motion to the anterior hip and knee @jonesProjectPhysicalTherapy2025.
+If you are performing it correctly, you should feel a stretch down the front of your thigh.
+
+- Hook ankle on edge of stretching surface
+- Align your foot, knee, and hip to the floor
+- Squeeze the buttocks and abdomen (pull the naval towards your spine) to stabilize the torso
+- Lean backwards and pivot your knee into a stretch
+
+::: {.callout-important}
+Create a straight line from the shoulder to your knee.
+:::
+
+Perform Daily 2x30s
+
+## Posterior straight leg DF wedge {#posterior-straight-leg-df-wedge}
+
+The DF wedge also known as the "calf wedge position" refers to when the toes are wedged upwards, resulting in increased dorsiflexion.
+You should feel a stretch behind the knee when performing this correctly.
+
+- Bend ankle on stretching surface
+- Squeeze knee straight
+- Load weight over leg stacking the hip, knee, and ankle into stretch
+
+::: {.callout-important}
+Align hips over stretching leg
+:::
+
+Dosage: 2x30s daily
+
+## Anterior hip + Hip wedge {#anterior-hip-hip-wedge-exercise}
+
+The the anterior hip exercise in the *hip wedge position* is designed to improve the range of motion at the front of the hip.
+This stretches multiple structures and the most stretched structur will vary by which region is tightest.
+
+This exercise is similar to the [anterior knee table exercise](#anterior-knee-table-exercise).
+The key difference is that the *Anterior hip + Hip wedge* pivots at the **hip** whereas the [anterior knee table exercise](#anterior-knee-table-exercise) pivots at the knee. 
+
+
+- Squeeze your buttocks and abdominals to align your torso
+- Create a straight line from the shoulder to your knee
+- Lean body forward into a stretch
+
+::: {.callout-important}
+Align hips over stretching leg
+:::
+
+Perform 2x30s daily

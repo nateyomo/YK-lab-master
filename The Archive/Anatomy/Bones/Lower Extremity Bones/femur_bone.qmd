@@ -29,6 +29,13 @@ The femoral head can be found just *inferior* to the middle 1/3 of the *inguinal
 
 The femoral head is covered by *articular cartilage* except for the *fova* @neumannKinesiologyMusculoskeletalSystem2017.
 
+## Femoral Neck
+
+The length of the femoral neck impacts the efficiency of the [gluteus medius]({{< var ref-gluteus-medius.path >}}) and [glute min]({{< var ref-gluteus-minimus.path >}}) muscles @jonesProjectFoundations2025. 
+
+If there was no femoral neck, the available ROM of the hip would increase *significantly*, but the moment arm of the gluteus medius and gluteus minimus would shorter and thus its torque generation would be significantly less @jonesProjectFoundations2025.
+
+
 # Load-Absorption
 
 The femur can withstand the high repetitive forces due to walking and other activities via its composition of [compact bone](#compact-bone) and [cancellous bone](#cancellous-bone) @neumannKinesiologyMusculoskeletalSystem2017.

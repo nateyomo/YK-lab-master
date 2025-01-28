@@ -43,14 +43,13 @@ else:
 
 
 # Origin {#origin}
-Ischial tuberosity
 
-
+Ischial tuberosity @gilroyAtlasAnatomy2020
 
 
 # Insertion {#insertion}
 
-Joins obturator internus tendon to medial surface of greater trochanter
+Joins obturator internus tendon to medial surface of greater trochanter @gilroyAtlasAnatomy2020.
 
 # Innervation {#innervation}
 

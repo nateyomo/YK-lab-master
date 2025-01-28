@@ -1,16 +1,41 @@
 ---
 title: Deadlift Exercise
+keywords:
+    - Foundational exercise
 ---
 
-# Setup
+# Assessment
+
+- Bar path
+
+
+## Bar path
+
+# Modified Deadlift
+
+
+
+# Deadlift (BW)
+
+
+
+# Single leg Modified deadlift
+
+# Single Leg Deadlift
+
+
+
+
+# Barbell Deadlift
+## Setup
 Bar in line with shoe laces
 Arms straight with lats engaged
 Neutral spine
 
-# Action {#action}
+## Action
 Engage lats and press thru feet
 
-# Key Points
+## Key Points
 
 - Stand up w bar
 - Neutral spine
@@ -18,14 +43,14 @@ Engage lats and press thru feet
 - Hips and shoulders move at same time
 - Heels down
 
-# Faults
+## Faults
 
 - Lose neutral spine
 - Early Arm bend
 - Hips/shoulder out of sync
 - Heels up (Make sure to keep heelds down)
 
-# Treatment Principles
+## Treatment Principles
 
 - Cueing HUGE
 - Regression; 

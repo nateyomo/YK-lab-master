@@ -1,0 +1,52 @@
+---
+title: Bug Exercise
+keywords:
+    - Deadbugs
+---
+
+
+# Assessment
+
+
+
+# Bug (Bent Knee)
+
+- Collectively recruit the abdominals by "pulling the waistline/naval towards your back" @jonesProjectPhysicalTherapy2025
+    - If the abdomen protrudes, you are improperly recruiting the abdominals @jonesProjectPhysicalTherapy2025.
+- Keep your pelvis on the floor by activating the low back muscles to counter the abdominals @jonesProjectPhysicalTherapy2025.
+- Shoulder retraction: @jonesProjectPhysicalTherapy2025
+- Chin tuck: @jonesProjectPhysicalTherapy2025
+
+
+
+# Bug Bent knee Leg Reach
+
+Adding a leg reach starting from the *bent knee* position loads the hip flexors and challenges trunk and pelvis alignment @jonesProjectPhysicalTherapy2025.
+As the thigh moves towards the horizontal plane, this increases the torque and difficulty @jonesProjectPhysicalTherapy2025.
+
+
+::: {.callout-note}
+Move as far as you can while maintaining your trunk and pelvis alignment @jonesProjectPhysicalTherapy2025.
+:::
+
+
+- Abdominal recruitment: Make sure you contract the abdominals, but be mindful not to let the leg reach decrease the contraction @jonesProjectPhysicalTherapy2025.
+    - If you feel the abdominal tension decrease, then you have gone too far and have lost alignment @jonesProjectPhysicalTherapy2025.
+- Low back: Do not smash your low back into the floor @jonesProjectPhysicalTherapy2025.
+    - Rather, focus on maintaining balance between the abdominal and low back muscles @jonesProjectPhysicalTherapy2025.
+- Do not let your thighs pass vertical towards your trunk @jonesProjectPhysicalTherapy2025.
+
+# Bug Straight Split Leg Reach Position
+
+Starting from the *Bent Knee Bug*, straighten your knees and begin performing alternating leg reaches @jonesProjectPhysicalTherapy2025.
+As one leg is moving up, the other should be moving downwards @jonesProjectPhysicalTherapy2025.
+
+
+# Shoulder positions
+
+- Maintaining shoulder retraction and depression is the most basic shoulder position
+- T are a progression since they have an increased Horizontal abduction moment.
+- Ws add complexity since it is a *2 joint* movement, involving the shoulder and elbow.
+- T-ERs or W-ERs are complex since it involves 3D movement of the GHJ of Abduction with external rotation.
+    - T-ERs have a greater horizontal abduction moment and less of an ER moment
+    - W-ERs have less of a horizontal abduction moment and a greater ER moment.

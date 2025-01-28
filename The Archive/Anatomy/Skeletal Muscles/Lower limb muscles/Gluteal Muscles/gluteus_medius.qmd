@@ -1,6 +1,8 @@
 ---
 title: Gluteus Medius
+subtitle: The Main Hip Abductor 
 ---
+
 
 
 
@@ -56,11 +58,22 @@ The gluteus maximus muscle is innervated by nerve roots [L4]({{< var ref-nerve-r
 
 # Action {#action}
 
-- Entire muscle: abducts the hip, stabilizes the pelvis in the coronal plane @gilroyAtlasAnatomy2020
-- Anterior fibers: flexion and internal rotation @gilroyAtlasAnatomy2020 
-- Posterior fibers: extension and external rotation @gilroyAtlasAnatomy2020
+- **Entire muscle**: abducts the hip, stabilizes the pelvis in the coronal plane @gilroyAtlasAnatomy2020
+- **Anterior fibers**: flexion and internal rotation @gilroyAtlasAnatomy2020 
+- **Posterior fibers**: extension and external rotation @gilroyAtlasAnatomy2020
     - At &ge;60&deg; hip flexion, the *posterior fibers* of the gluteus minimus switch and produce an *internal rotation* torque @neumannKinesiologyMusculoskeletalSystem2017.
 
+
+The Glute med is the "main hip abductor" due to its efficiency and strength.
+The Glute med is efficient since it is almost perpendicular to its lever arm @jonesProjectFoundations2025.
+
+The glute med and glute min are both oriented mostly in the frontal plane, but the glute med is a greater abductor since it can produce ~16kg of force, which is more than 3x that of the gluteus minimus @jonesProjectFoundations2025.
+
+The glute med's insertional angle on the greater trochanter varies with degree of hip abduction @jonesProjectFoundations2025.
+At neutral, the angle is *not* perpendicular, thus the force generate by the glute med results in a hip abduction moment *and* joint compression which increases articular contact @jonesProjectFoundations2025.
+
+As the hip moves into abduction, the insertional angle becomes more perpendicular, resulting in a greater hip abduction moment and decreased hip joint approximation force @jonesProjectFoundations2025.
+This trend continues until the hip reaches 35&deg; abduction, which is exactly perpendicular @jonesProjectFoundations2025.
 
 
 # Overview
@@ -69,3 +82,12 @@ The gluteus maximus muscle is innervated by nerve roots [L4]({{< var ref-nerve-r
 # Tests & Measures
 
 - External Derotation Test (gluteus medius tendinopathy)
+
+# Exercise
+
+A wedge forcing the foot into hyper-dorsiflexion will cause the client to prevent excessive anterior knee translation and force more hip hinge, which will activate the glutes.
+
+- Single leg bridge (with 90&deg; knee flexion and pushing through the hindfoot)
+- Wall triple extension
+- Bridge (toes up)
+- S/L Hip abduction to high knee

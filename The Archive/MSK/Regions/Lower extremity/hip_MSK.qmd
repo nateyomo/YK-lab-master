@@ -1,6 +1,205 @@
 ---
-title: Musculoskeletal Approach to the Hip
+title: Hip Musculoskeletal Dynamics
 ---
+
+# Dysfunction & Compensation {#dysfunction-and-compensation}
+
+- Primary dysfunction: 
+    - The epicenter of the manual therapy battle
+    - This is the region will *not* respond to treatment without the necessary time and effort @jonesProjectPhysicalTherapy2025.
+- Secondary dysfunction:
+    - Regions of the body that are adjusted their role and function due to the primary dysfunction
+    - Over time, the secondary dysfunctions will occur until *tertiary compensations* appear @jonesProjectPhysicalTherapy2025.
+
+
+
+The trunk's muscle tolerance is generally *much lower* than the leg's muscle guarding @jonesProjectPhysicalTherapy2025.
+As a result, the legs will tend to disengage and rely on trunk mobility to achieve a movement.
+
+
+
+
+# Assessment (b proj)
+
+- Observation
+- Symptoms
+- Subjective
+
+## Observation
+
+- Assessing a client prior to the formal session, is an opportunity to gather the most candid movement and posture analysis.
+
+## Symptoms
+
+Symptoms generally dictate a client's chief complaint.
+Symptoms should be used as cues to the condition and are important to address in the plan of care, but should *not* be used to guide the plan of care.
+
+For example, a client could be experiencing trunk pain as the source of their symptoms, but the *cause* and *primary dysfunction* is actually the hip.
+In this scenario, hyperfixating on the trunk would be a disservice to this patient, and would require constant symptom management until the *primary dysfunction* is addressed.
+
+
+
+## Subjective
+
+Before you throw the patient on the table and go to town poking and prodding, take a moment to gather a complete subjective.
+
+Take a moment to listen to:
+
+- The patient's story
+- Their description of the 
+
+- List the client's activities and activities of daily living.
+    - Frequency
+    - Duration
+    - Intensity
+
+::: {.callout-caution}
+Client's will often exclude their favorite activities from their list of aggravating factors.
+:::
+
+## Table assessment
+
+The table assessment should be guided based on a combination of your [observations](#observation) and their [subjective account](#subjective).
+
+
+### Initial setup
+
+- Patient position: Prone with hips supported and feet supported.
+- Clinician: Generally to the side of the patient
+- Bend the knee so that you can use the distal lower leg as a lever to assess hip rotation
+
+## Palpation
+
+To assess the hip here is how i usually start:
+
+- Begin at the gluteal insertions around the rim of the ischium and iliac crests.
+- move towards the center of the glutes and assess tone
+- Move to the greater trochanter and assess hip IR
+- assess the tendinous insertions of the Hip's deep stabilizer muscles
+- Assess/treat the muscle bellies of the deep stabilizers.
+
+## Rotation assessment
+
+Hip rotation is a solid starting point for assessing the quality of the hip's range of motion.
+This test can assess the quality of both *internal rotation* and *extension*.
+
+## Posterior hip muscle pathways
+
+As you approach the hip in a practical/clinical sense, it will benefit you to group the muscles in terms of *purpose* rather than as individual muscles.
+
+Setup:
+
+- Use your treatment hand to palpate the posterior hip muscles.
+- Bend the knee to 90&deg; and keep the thigh supported against the treatment table.
+- Your opposite hand is holding the individual's distal lower leg.
+- Using your *opposite* hand, rotate the hip from neutral (vertical lower leg) to internal rotation (away from midline) @jonesProjectPhysicalTherapy2025.
+
+Note:
+
+- Hip end feel
+- Muscle tension changes
+
+::: {.callout-tip title="Guarding end feel"}
+A guarding end feel has **no elasticity**.
+
+When a muscle is guarding, it will abruptly stop since it is protecting the body from a stretch.
+Muscle guard release begins at neutral.
+As the muscle release progresses, slowly progress the range of internal rotation.
+:::
+
+
+## Prone treatment Categories
+
+- Gluteus maximus (Deep and superficial layers)
+- Pelvitrochanteric muscles
+- Gluteus medius and gluteus minimus
+- Hamstrings, hip adductors, and IT band
+
+## Iliotibial tract and hip ROM in sidelying
+
+Lateral stability is crucial to weight bearing and linear movements.
+The [TFL]({{< var ref-tensor-fascia-latae.path >}}) and [Glute max]({{< var ref-gluteus-maximuspath >}}) co-activate and tense the [IT band]({{< var ref-iliotibial-band.path >}}) to affect lateral stability @jonesProjectPhysicalTherapy2025.
+
+::: {.callout-note}
+Laterally leaning into one's [IT band]({{< var ref-iliotibial-band.path >}}) is a common compensation when one lacks activate lateral leg stability @jonesProjectPhysicalTherapy2025.
+:::
+
+
+
+# Stabilization (b proj)
+
+The ligaments of the femoracetabular joint include the iliofemoral, pubofemoral, and ischiofemoral ligaments.
+All of these ligaments are tensioned in extension.
+
+The posterior hip is supported by the deep stabilizers
+The anterior hip is supported by the long tendons of the hip flexors
+
+# Treatment Plan
+
+# Manual therapy
+
+- Manual therapy should be prioritized around the [primary dysfunction](#dysfunction-and-compensation).
+
+
+# Abduction
+
+Abduction refers to when the leg pivots directly laterally relative to the pelvis @jonesProjectFoundations2025.
+
+ROM of this movement will depend on *pelvic positioning* and *torso control* @jonesProjectFoundations2025.
+When measuring ROM, the limit of abduction is when the pelvis begins to move with the leg in question @jonesProjectFoundations2025.
+
+When reaching the abduction ROM limit of one hip, it will typically be followed by activation of the contralateral hip @jonesProjectFoundations2025.
+The passive limit of the ipsilateral hip and contralateral activation of the other results in lateral tilting of the pelvis towards the ipsilateral side @jonesProjectFoundations2025.
+
+## Sidelying Activation
+
+- Patient sidelying and facing slightly towards the floor to promote hip abduction/extension
+- Body position is the key to isolating the hip and preventing/minimizing compensatory counter movements @jonesProjectFoundations2025.
+- Hold end position for 5 seeconds.
+    - This prevents the compensations that occur by bouncing between eccentric and concentric phases @jonesProjectFoundations2025.
+
+## Hip abduction + High knee
+
+Adding a *high knee* component allows the linear movement to explore the full range, while holding the leg laterally against gravity @jonesProjectFoundations2025.
+
+Keys to setup
+
+- 
+
+# Adduction
+
+Adduction of the hips refers to when the leg pivots medially relative to the pelvis @jonesProjectFoundations2025.
+
+::: {.callout-tip}
+"Due to opposite leg contact, there is no true adduction range" @jonesProjectFoundations2025
+:::
+
+Hip adduction is a *relative* movement, only occurring when moving *from* abduction to neutral @jonesProjectFoundations2025.
+
+
+## Hip Adduction / Wall Assist / Hand Resist
+
+"Using a wall to assist in performing hand resistant hip adduction is not a true adduction movement. The adduction is coming from flexion + abduction + rotation position into flexion/adduction/rotation AROM. The goal is to activate hip adduction to release muscle guarding into greater pROM hip abduction range" @jonesProjectFoundations2025.
+
+### Setup
+
+The setup is similar to the *wall sit foundational exercise* but instead of a "V" position of the lower extremity, we employ the "butterfly" position @jonesProjectFoundations2025.
+
+- Sit at the crease of the wall and the floor
+- Roll your hips forward (Anterior pelvic tilt) in order to push your glutes as far into the crease as possible
+- Activate your abdominals by drawing your naval towards the wall without losing your hip position
+- Retract and depress your shoulders
+- Look forward (chin tuck) and bring your head backwards (retract) to hold it against the wall
+- Bend both knees and externally rotate the hips so that the plantar feet are in contact with eachother at midline.
+- Note the starting position of each leg, if they are symmetrical and how much range they hips have in this position.
+- Place both hands on the medial surface of each knee
+- Apply pressure to create tension on the hip adductors and feel for feedback
+
+Elasticity is a sign of healthy adductor and hips @jonesProjectFoundations2025.
+Pain and rigidity is a sign of dysfunction @jonesProjectFoundations2025.
+
+
+
 
 # Osteology
 ## Innominate
@@ -24,7 +223,7 @@ title: Musculoskeletal Approach to the Hip
 
 ## Pack Position
 
-# Osteokinematics
+
 
 # Arthrokinematics
 
@@ -41,7 +240,7 @@ title: Musculoskeletal Approach to the Hip
 ## Treatment of Unstable hip
 
 
-# Study Questions
+<!-- # Study Questions
 
 1. What structures convert the greater sciatic notch to a foramen? List three structures (nerves or muscles) that pass through this foramen.
     - 
@@ -77,7 +276,7 @@ title: Musculoskeletal Approach to the Hip
 1. A standard way for persons to stretch their own rectus femoris is to simultaneously flex the knee while extending the hip. When performing this stretch, some persons with a tightened rectus femoris also hold their extended hip slightly abducted. Why would this be?
     - 
 1. Which muscle depicted in the dynamic bilateral hip adduction event of Fig. 12.33 is actively eccentrically? Please justify your answer.
-    - 
+    -  -->
 
 
 

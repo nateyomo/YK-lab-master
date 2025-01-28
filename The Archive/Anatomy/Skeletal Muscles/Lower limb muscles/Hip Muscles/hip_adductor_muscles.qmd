@@ -102,3 +102,24 @@ else:
     print("Script file does not exist. Please check the path.")
 
 ```
+
+
+
+# Hip Adduction / Wall Assist / Hand Resist
+
+<!-- Read hip_msk for more info or updated info -->
+
+"Using a wall to assist in performing hand resistant hip adduction is not a true adduction movement. The adduction is coming from flexion + abduction + rotation position into flexion/adduction/rotation AROM. The goal is to activate hip adduction to release muscle guarding into greater pROM hip abduction range" @jonesProjectFoundations2025.
+
+## Setup
+
+The setup is similar to the *wall sit foundational exercise* but instead of a "V" position of the lower extremity, we employ the "butterfly" position @jonesProjectFoundations2025.
+
+- Sit at the crease of the wall and the floor
+- Roll your hips forward (Anterior pelvic tilt) in order to push your glutes as far into the crease as possible
+- Activate your abdominals by drawing your naval towards the wall without losing your hip position
+- Retract and depress your shoulders
+- Look forward (chin tuck) and bring your head backwards (retract) to hold it against the wall
+- Bend both knees and externally rotate the hips so that the plantar feet are in contact with eachother at midline.
+- Place both hands on the medial surface of each knee
+- Apply pressure to create tension on the hip adductors and feel for feedback

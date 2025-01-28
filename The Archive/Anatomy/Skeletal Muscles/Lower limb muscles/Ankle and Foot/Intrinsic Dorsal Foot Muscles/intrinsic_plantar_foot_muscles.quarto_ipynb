@@ -1,0 +1,171 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Intrinsic Dorsal Foot Muscles\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        ":::{layout-ncol=\"4\"}\n",
+        "![Schematic of 1st layer of Plantar Intrinsic Foot Muscles @gilroyAtlasAnatomy2020 </br> 1: Abductor hallucis </br> 2: Flexor digitorum brevis </br> Abductor digiti minimi](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.20a schematic intrinsic 1st layer foot muscles.png)\n",
+        "\n",
+        "\n",
+        "![Schematic of 2nd layer of Plantar Intrinsic Foot Muscles @gilroyAtlasAnatomy2020 </br> 1: Quadratus Plantae </br> 2: Lumbricals </br> 3: Flexor Hallucis Brevis </br> 4: Adductor hallucis </br> 5: Flexor digiti minimi </br> 6: Opponens digiti minimi </br> 7: Plantar interossei </br> 8: Dorsal Interossei](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.21a schematic intrinsic 2nd layer foot muscles.png)\n",
+        "\n",
+        "![Schematic of 3rd layer of Plantar Intrinsic Foot Muscles @gilroyAtlasAnatomy2020 </br> 1: Quadratus Plantae </br> 2: Lumbricals </br> 3: Flexor Hallucis Brevis </br> 4: Adductor hallucis </br> 5: Flexor digiti minimi </br> 6: Opponens digiti minimi </br> 7: Plantar interossei </br> 8: Dorsal Interossei](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.21b schematic intrinsic 3rd layer foot muscles.png)\n",
+        "\n",
+        "![Schematic of 4th layer of Plantar Intrinsic Foot Muscles </br> 1: Quadratus Plantae @gilroyAtlasAnatomy2020 </br> 2: Lumbricals </br> 3: Flexor Hallucis Brevis </br> 4: Adductor hallucis </br> 5: Flexor digiti minimi </br> 6: Opponens digiti minimi </br> 7: Plantar interossei </br> 8: Dorsal Interossei](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.21c schematic intrinsic 4th layer foot muscles.png)\n",
+        ":::\n",
+        "\n",
+        ":::{layout-ncol=\"3\"}\n",
+        "![1st Layer Intrinsic Plantar Foot Muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.20b intrinsic 1st layer foot muscles.png)\n",
+        "\n",
+        "![2nd and 4th Layers of Intrinsic Plantar Foot Muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.22a intrinsic 2nd and 4th layer foot muscles.png)\n",
+        "\n",
+        "![3rd Layer of Intrinsic Plantar Foot Muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.22b intrinsic 3rd layer foot muscles.png)\n",
+        "\n",
+        ":::\n",
+        "\n",
+        "# 1st Layer\n"
+      ],
+      "id": "6dd92caf"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-intrinsic-superficial-plantar-foot-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'group_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['foot_plantar_intrinsic_superficial']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-intrinsic-superficial-plantar-foot-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# 2nd Layer\n",
+        "\n",
+        "| Muscle  | Origin | Insertion | Nerve | Action |\n",
+        "|------|--------|-------|----------|--------|\n",
+        "| [Quadratus Plantae]({{< var ref-quadratus-plantae.path >}}) | {{< var ref-quadratus-plantae.origin >}} | {{< var ref-quadratus-plantae.insertion >}} | {{< var ref-quadratus-plantae.nerve >}} | {{< var ref-quadratus-plantae.action >}} |\n",
+        "| [Lumbricals]({{< var ref-foot-lumbricals.path >}}) | {{< var ref-foot-lumbricals.origin >}} | {{< var ref-foot-lumbricals.insertion >}} | {{< var ref-foot-lumbricals.nerve >}} | {{< var ref-foot-lumbricals.action >}} |\n",
+        ": {.striped .hover}\n"
+      ],
+      "id": "b37c4b42"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-intrinsic-deep-plantar-foot-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'group_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['foot_plantar_intrinsic_deep']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-intrinsic-deep-plantar-foot-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# 3rd Layer\n",
+        "\n",
+        "| Muscle  | Origin | Insertion | Nerve | Action |\n",
+        "|------|--------|-------|----------|--------|\n",
+        "| [Flexor Hallucis Brevis]({{< var ref-flexor-hallucis-brevis.path >}}) | {{< var ref-flexor-hallucis-brevis.origin >}} | {{< var ref-flexor-hallucis-brevis.insertion >}} | {{< var ref-flexor-hallucis-brevis.nerve >}} | {{< var ref-flexor-hallucis-brevis.action >}} |\n",
+        "| [Adductor Hallucis]({{< var ref-adductor-hallucis.path >}}) | {{< var ref-adductor-hallucis.origin >}} | {{< var ref-adductor-hallucis.insertion >}} | {{< var ref-adductor-hallucis.nerve >}} | {{< var ref-adductor-hallucis.action >}} |\n",
+        "| [Flexor Digiti Minimi Brevis (Foot)]({{< var ref-flexor-digiti-minimi-brevis-foot.path >}}) | {{< var ref-flexor-digiti-minimi-brevis-foot.origin >}} | {{< var ref-flexor-digiti-minimi-brevis-foot.insertion >}} | {{< var ref-flexor-digiti-minimi-brevis-foot.nerve >}} | {{< var ref-flexor-digiti-minimi-brevis-foot.action >}} |\n",
+        "| [Opponens Digiti Minimi]({{< var ref-opponens-digiti-minimi-foot.path >}}) | {{< var ref-opponens-digiti-minimi-foot.origin >}} | {{< var ref-opponens-digiti-minimi-foot.insertion >}} | {{< var ref-opponens-digiti-minimi-foot.nerve >}} | {{< var ref-opponens-digiti-minimi-foot.action >}} |\n",
+        ": {.striped .hover}\n",
+        "\n",
+        "# 4th Layer\n",
+        "\n",
+        "| Muscle  | Origin | Insertion | Nerve | Action |\n",
+        "|------|--------|-------|----------|--------|\n",
+        "| [Plantar Interossei]({{< var ref-plantar-interossei.path >}}) | {{< var ref-plantar-interossei.origin >}} | {{< var ref-plantar-interossei.insertion >}} | {{< var ref-plantar-interossei.nerve >}} | {{< var ref-plantar-interossei.action >}} |\n",
+        "| [Dorsal Interossei]({{< var ref-dorsal-interossei.path >}}) | {{< var ref-dorsal-interossei.origin >}} | {{< var ref-dorsal-interossei.insertion >}} | {{< var ref-dorsal-interossei.nerve >}} | {{< var ref-dorsal-interossei.action >}} |\n",
+        ": {.striped .hover}"
+      ],
+      "id": "d89f324d"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

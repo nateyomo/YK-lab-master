@@ -1,0 +1,275 @@
+---
+title: Torso Region
+subtitle: Musculoskeletal Overview
+---
+
+
+The torso can be defined as the combination of the pelvis and the trunk @jonesProjectFoundations2025.
+
+# Foundations {#foundation}
+
+# Torso inventory
+
+- Glute origins
+- A&rarr;P Joint mobility
+- SP Depth
+- SP spacing
+- Curvature of spinal column
+- Bilateral TPs
+- Bilateral superficial paraspinals
+- Deep paraspinals
+- QL (pelvic, vertebral TP, and 12th rib outline)
+
+
+
+## Glute origins
+
+The origins (proximal attachment) of the glutes can be found by palpating the rim of the pelvis along the iliac crest.
+
+## A&rarr;P Joint mobility
+
+It is difficult to decipher what is "normal" vs "abnormal" joint mobility for the spine.
+
+Each segment behaves slightly different from the next.
+When considering mobility we can use a few concepts to determine if a segment is behaving dysfunctionally.
+
+
+Is the segment significantly less mobile than the segment above *and* below?
+
+Even if you would expect the spine to be less mobile towards a certain area, if a segment is less mobile than its immediate neighbors than this breaks a pattern and should be noted.
+
+## Spinous processes
+
+# Torso
+
+# Lumbar Spine
+
+## ROM
+
+### Lateral flexion
+
+The lateral flexion range of motion varies by individual and age @jonesProjectFoundations2025.
+
+In general, normal lateral flexion is **20-30&deg;** @jonesProjectFoundations2025.
+
+::: {#tbl-lateral-flexion-rom-age}
+<table class="basic-table">
+  <caption>
+    Baseline ROM is for the 2-13 years group. Down arrows (&darr;) indicate a decrease in ROM relative to this baseline.
+  </caption>
+  <thead>
+    <tr>
+      <th>Age Range (years)</th>
+      <th>Lateral Spine Flexion ROM (&deg;)</th>
+      <th>Change from Baseline (&deg;)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2-13</td>
+      <td>62&deg;</td>
+      <td>Baseline</td>
+    </tr>
+    <tr>
+      <td>35-49</td>
+      <td>31&deg; &darr;</td>
+      <td>-31&deg;</td>
+    </tr>
+    <tr>
+      <td>50-64</td>
+      <td>29&deg; &darr;</td>
+      <td>-33&deg;</td>
+    </tr>
+    <tr>
+      <td>65-77</td>
+      <td>22&deg; &darr;</td>
+      <td>-40&deg;</td>
+    </tr>
+  </tbody>
+</table>
+
+Age related Lumbar Spine Lateral Flexion ROM changes [@jonesProjectFoundations2025]
+
+:::
+
+
+::: {#tbl-segmental-lateral-flexion-age}
+<table class="basic-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th>2-13 (years)</th>
+      <th>35-49 (years)</th>
+      <th>50-64 (years)</th>
+      <th>65-77 (years)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>L1-2</b></td>
+      <td>12&deg;</td>
+      <td>5&deg;</td>
+      <td>6&deg;</td>
+      <td>4&deg;</td>
+    </tr>
+    <tr>
+      <td><b>L2-3</b></td>
+      <td>12&deg;</td>
+      <td>8&deg;</td>
+      <td>7&deg;</td>
+      <td>7&deg;</td>
+    </tr>
+    <tr>
+      <td><b>L3-4</b></td>
+      <td>16&deg;</td>
+      <td>8&deg;</td>
+      <td>8&deg;</td>
+      <td>6&deg;</td>
+    </tr>
+    <tr>
+      <td><b>L4-5</b></td>
+      <td>15&deg;</td>
+      <td>8&deg;</td>
+      <td>7&deg;</td>
+      <td>5&deg;</td>
+    </tr>
+    <tr>
+      <td><b>L5-S1</b></td>
+      <td>7&deg;</td>
+      <td>2&deg;</td>
+      <td>1&deg;</td>
+      <td>0&deg;</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+Age related Lateral Flexion Segmental ROM Changes
+
+:::
+
+Segmentally, each joint has slightly different ranges of motion.
+The lateral flexion available at L5-S1 segment is limited and rapidly drops during into old age @jonesProjectFoundations2025.
+
+L3-L4 is one of the most mobile segments, and has 16&deg; in adolescence and drops to 8&deg; in adulthood @jonesProjectFoundations2025.
+
+# Thoracic Spine
+
+
+
+
+
+# Torso Treatment Checklist
+
+::: {.callout-note}
+It is important to note that even healthy joints with healthy supporting structures can perform compensatory or dysfunctional movements @jonesProjectPhysicalTherapy2025.
+:::
+
+
+Functionally, we can evaluate joints by its respective limits of movement.
+
+To comprehensively and successfully assess the torso, we need to perform an analysis on the joints, ligaments, and muscles @jonesProjectPhysicalTherapy2025.
+Only then can we create a "big picture" of the region's overall function @jonesProjectPhysicalTherapy2025.
+
+
+Alignment, Mobility, and Muscle activation can be used to guide our understanding of torso function @jonesProjectPhysicalTherapy2025.
+
+The pelvis position should be considered when assessing the torso, since this is the platform that the torso sits on @jonesProjectPhysicalTherapy2025.
+Check the angle between the pelvis and one or both of the lower extremities @jonesProjectPhysicalTherapy2025.
+
+
+
+
+
+
+
+
+
+## Weight bearing
+
+- "Note how the client's feet absorb and align to the floor" [@jonesProjectPhysicalTherapy2025].
+- Follow each bony segment up the chain to the pelvis [@jonesProjectPhysicalTherapy2025].
+- "Each segment of the trunk will attempt to absorb and couner the positioning of the pelvis in attempts to neutralize alignment" @jonesProjectPhysicalTherapy2025
+
+## Observation
+
+Items to note:
+
+::: {.columns}
+::: {.column}
+### Spinous Processes
+
+- Depth 
+- Spacing between Spinous processes
+- Tissue quality on either side of SP (guarding, swelling, atrophy, etc)
+:::
+::: {.column}
+### Transverse process
+
+- Compare depth bilaterally
+:::
+::: {.column}
+### Vertebral column
+
+- Overall curvature (with hips and ankles supported) @jonesProjectPhysicalTherapy2025
+    - You should expect the curvature in the lumbar spine to peak at L3, this indicates that L3 is the most mobile
+
+:::
+:::
+
+
+
+
+
+
+Patient positioning
+
+- Start prone for general assessment
+- Add pillow under hips/lower abdomen and foam roll under ankles when assessing spinal curvature
+
+## Muscle Pathways
+
+Describe assessment
+
+- Is muscle guarding present @jonesProjectPhysicalTherapy2025
+- Is there less tone at a segment unilaterally or bilateraly? @jonesProjectPhysicalTherapy2025
+- "Is there scarring or swelling along the muscle pathway, unilaterally or bilaterally?" @jonesProjectPhysicalTherapy2025
+
+
+Response to treatment
+
+- "Muscle guarding reduces"
+- "Segmental alignment improves"
+- "Muscle tone normalizes regionally"
+
+
+## Segmental Joint mobility
+
+@jonesProjectPhysicalTherapy2025
+
+To assess joint mobility, we must consider both *alignment* between segments and the *freedom/mobility* of each segment.
+
+- Alignment: Aligned vs malaligned
+- Freedom/mobility: Hypomobile vs normal vs hypermobile
+
+Description
+
+- "are there central SP spacing and depth changes?" @jonesProjectPhysicalTherapy2025
+- "Any segmental alignment changes present on the unilateral or bilateral surfaces of posterior articular pillars. Use a pressure dpeth beyond soft tissue depth tot compare above and below segments and left to right at each segment" @jonesProjectPhysicalTherapy2025
+- Note rigidity at joint level pressure @jonesProjectPhysicalTherapy2025
+- Note instability to endpoint pressure @jonesProjectPhysicalTherapy2025
+
+Response
+
+- "Positive changes in segmental alignment" @jonesProjectPhysicalTherapy2025
+- "Normalizing segmental mobility into a position of alignment" @jonesProjectPhysicalTherapy2025
+- "Remaining limits to mobility with alignment deviations to address in future sessions"
+
+
+
+# Treatment
+
+- Gapping
+    - Gapping spinous processes
+    - Gliding superior segment antero-superiorly relative to lower segment

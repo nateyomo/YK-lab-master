@@ -43,7 +43,13 @@ else:
 
 # Origin {#origin}
 
-Inner surface of the obturator membrane and its bony boundaries @gilroyAtlasAnatomy2020
+The OI originates from the Inner surface of the obturator membrane and its bony boundaries [@gilroyAtlasAnatomy2020].
+
+# Path {#path}
+
+From its [origin](#origin) the OI courses through the pelvic cavity posteriorly and exits through the *lesser sciatic foramen* @jonesProjectFoundations2025.
+At the *lesser sciatic foramen* the OI tendon bends sharply to continue laterally to run parallel with the [piriformis]({{< var ref-piriformis.path >}}) to its [insertion](#insertion) on the medial surface of the greater trochanter @jonesProjectFoundations2025.
+
 
 # Insertion {#insertion}
 Medial surface of the greater trochanter @gilroyAtlasAnatomy2020
@@ -53,6 +59,7 @@ Medial surface of the greater trochanter @gilroyAtlasAnatomy2020
 Sacral plexus ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020
 
 # Action {#action}
+
 - External rotation and extension of the hip joint (also active in abduction, depending on the joint’s position) @gilroyAtlasAnatomy2020
 - Stabilizes hip joint -DrK
 

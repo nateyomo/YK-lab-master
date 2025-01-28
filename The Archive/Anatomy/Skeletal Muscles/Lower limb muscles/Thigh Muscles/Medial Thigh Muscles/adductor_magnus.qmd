@@ -73,6 +73,10 @@ else:
 - **Pelvic Stabilization**: Coronal and Sagittal planes @gilroyAtlasAnatomy2020
 
 
+::: {.callout-note}
+According to Brad Jones, the adductor magnus is a hip extensor until -20&deg; Hip extension @jonesProjectFoundations2025.
+:::
+
 
 # Anatomy
 

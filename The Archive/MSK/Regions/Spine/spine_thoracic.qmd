@@ -2,6 +2,39 @@
 title: Thoracic Spine
 ---
 
+# Osteology
+
+The thoracic spine consists of 12 vertebrae (T1-12) that sit between the vertebrae of the cervical spine and lumbar spine.
+
+The thoracic vertebrae are larger than cervical but smaller than lumbar vertebrae.
+As you descend the vertebral column, the thoracic vertebrae increase in size in order to support more and more BW% @jonesProjectFoundations2025.
+
+
+Ribs 2-9 insert between 2 vertebrae at the superior costal facet and inferior costal facet.
+Ribs 1, 10, 11, and 12 insert on a *single* vertebrae at the *complete costal facet* @jonesProjectFoundations2025.
+
+
+Vertebrae T1-T10 have *transverse costal facets* which is an articulation between the transverse process and the tubercle of the adjacent rib.
+T11 and T12 lack a transverse costal facet since ribs 11 and 12 do not have tubercles @jonesProjectFoundations2025.
+
+Ribs 11-12 are floating ribs and lack cartilaginous attachment to the sternum *and* tubercles @jonesProjectFoundations2025.
+
+
+At the thoracic spine, the spinous processes are angled sharply inferiorly.
+
+Thus the SPs vary in how far the SP is compared to the vertebral body:
+
+- T1-T3 = at the level
+- T4-T6 = Half segment below
+- T7-T9 = Full segment below
+- T10 = Full segment below
+- T11 = Half segment below
+- T12 = At the level
+
+
+
+
+
 # Kyphosis
 
 Thoracic kyphosis can reduce the space available to the lungs, resulting in limitations in deep breathing @neumannKinesiologyMusculoskeletalSystem2017.

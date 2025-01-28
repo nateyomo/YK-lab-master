@@ -1,5 +1,5 @@
 ---
-title: Functional Foundations
+title: Gray Institute Functional Foundations
 subtitle: Continued education by the Gray Institute
 description: this is a summary of my notes from the Gray Institute courses.
 ---

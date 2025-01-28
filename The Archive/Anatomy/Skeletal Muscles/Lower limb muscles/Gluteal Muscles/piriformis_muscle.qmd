@@ -40,15 +40,20 @@ else:
 ```
 
 # Origin {#origin}
-Anterior surface of sacrum
+Anterior surface of sacrum [@gilroyAtlasAnatomy2020] from the 2nd-4th sacral segments [@jonesProjectFoundations2025].
+
+# Path
+
+After its [origin](#origin) the piriformis runs through the *greater sciatic foramen* before reaching its [insertion on the greater trochanter](#insertion) @jonesProjectFoundations2025.
+
 
 # Insertion {#insertion}
 
-Apex of the greater trochanter of the femur
+Apex of the greater trochanter of the femur [@gilroyAtlasAnatomy2020].
 
 # Innervation {#innervation}
 
-Direct branches from sacral plexus [S1]({{< var ref-nerve-root.s1 >}}) and [S2]({{< var ref-nerve-root.s2 >}})
+Direct branches from sacral plexus [S1]({{< var ref-nerve-root.s1 >}}) and [S2]({{< var ref-nerve-root.s2 >}}) [@gilroyAtlasAnatomy2020].
 
 # Action {#action}
 
@@ -58,6 +63,26 @@ This is only partly true.
 
 At &ge;60&deg; hip flexion, the piriformis produces an internal rotation torque @neumannKinesiologyMusculoskeletalSystem2017.
 
+
+::: {.columns}
+::: {.column}
+### Neutral
+
+- **ER**
+- **Flexion**
+- Abduction
+
+:::
+::: {.column}
+### 60&deg; Flexion
+
+- **IR**
+- **Extension**
+- Abductor
+
+
+:::
+:::
 
 # Anatomy
 

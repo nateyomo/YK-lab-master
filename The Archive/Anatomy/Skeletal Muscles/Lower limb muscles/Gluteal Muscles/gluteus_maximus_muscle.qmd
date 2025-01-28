@@ -72,7 +72,22 @@ The gluteus maximus muscle is innervated by nerve roots [L5]({{< var ref-nerve-r
 - Lower fibers: Hip adduction @gilroyAtlasAnatomy2020 
 
 
+
 At &ge;60&deg; hip flexion, the *upper fibers* of the gluteus maximus switch and produce an *internal rotation* torque @neumannKinesiologyMusculoskeletalSystem2017.
+
+::: {.callout-note}
+Since the glute max can only abduct with its *highest* fibers, the majority of the muscle's force in the frontal plane is into adduction @jonesProjectFoundations2025.
+:::
+
+# Practical function
+
+ROM and intensity will modulate glute max involvement @jonesProjectFoundations2025.
+Hip extension during walking recruits more hamstring activation and miniscule glute max @jonesProjectFoundations2025.
+
+Increasing the activity intensity to running or jumping will cause a much greater Glute max recruitment @jonesProjectFoundations2025.
+
+Likewise, increase the amount of hip flexion required, such as running up a steep slope will also increase glute max recruitment @jonesProjectFoundations2025.
+
 
 # Biomechanics
 
@@ -88,6 +103,11 @@ The more hip flexion decreases the moment arm of the gluteus maximus and therefo
 
 # Exercises
 
+A wedge forcing the foot into hyper-dorsiflexion will cause the client to prevent excessive anterior knee translation and force more hip hinge, which will activate the glutes.
+
 - Single leg bridge (with 90&deg; knee flexion and pushing through the hindfoot)
 - Wall triple extension
-- 
+- Bridge (toes up)
+- S/L Hip abduction to high knee
+
+

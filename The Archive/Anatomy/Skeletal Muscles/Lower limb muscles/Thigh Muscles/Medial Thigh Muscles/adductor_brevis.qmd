@@ -64,5 +64,8 @@ Femur (linea aspera, medial lip in the middle third of the femur) @gilroyAtlasAn
 - **Hip joint**: adduction and flexion (up to 70&deg;); extension (past 80&deg; of flexion)
 - **Pelvic Stabilization**: Coronal and Sagittal planes
 
+::: {.callout-note}
+According to Brad Jones, the adductor brevis is a hip flexor until 50&deg; Hip flexion, at which point it acts as a hip extensor @jonesProjectFoundations2025.
+:::
 
 # Overview
