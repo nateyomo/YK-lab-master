@@ -1,0 +1,204 @@
+---
+title: Squat Foundational Exercise
+---
+
+
+# Goals
+
+- Controlled *active* stability
+- Alignment
+    - Maintained arch
+    - Neutral ankle
+    - Knee between 1st and 2nd dtoe
+- [Sequencing speed: Controlled](#sequencing-speed)
+
+# Sequencing Speed {#sequencing-speed}
+
+When working on stability, it is important to use *slow* eccentric movements in order to cue the joints to actively control descent, rather than relying on passive structures.
+
+# Assessment
+
+
+- Bar path
+- Arch control
+- Knee and hip timing
+
+## Bar Path
+
+*Bar path* refers to the line that the bar moves when viewed in the sagittal plane.
+The bar should move *perpendicular* to the floor.
+
+
+## Timing
+
+The knee and hip should start their descent at the same time and reach the end at the same time @jonesProjectPhysicalTherapy2025.
+
+## Load share
+
+Assess the load-sharing between the hips and the knees.
+The hips should drive back to load the glutes **and** the knees should drive forward to load the quadriceps.
+
+
+# Knee
+
+The knee is considered a *reactive joint*: it becomes malaligned as a reaction of improper hip or foot/ankle mechanics @jonesProjectPhysicalTherapy2025.
+However, the knee can control its own *sequencing speed*, thus can change how quickly it moves through its range relative to the other joints.
+
+Individuals with knee pain generally ease their symptoms by keeping the knees directly above the ankles to minimize knee extensor torque.
+In order to keep the knees in this position, the body compensate for the lack of dorsiflexion and knee flexion ROM @jonesProjectPhysicalTherapy2025.
+This will result in a high thigh angle and the trunk moving towards parallel @jonesProjectPhysicalTherapy2025.
+
+The knee does **not** function to create alignment, this is the coordinate effort between the ankle and hip @jonesProjectPhysicalTherapy2025.
+However, the knee's primary function is controlling [sequencing speed](#sequencing-speed) of compound movements and the resultant [timing](#timing) @jonesProjectPhysicalTherapy2025.
+
+# Hips
+
+The hips are "reluctant team members" and if they are not performing their job as shock absorbers, this responsibility can be pushed onto the knees and low back @jonesProjectPhysicalTherapy2025.
+
+The most common hip compensation occurs when the knees and trunk are used to absorb the lack of hip range @jonesProjectPhysicalTherapy2025.
+
+
+# Pelvis
+
+Pelvic stability is created through the tug-of-war between the trunk muscles and lower extremity muscles @jonesProjectPhysicalTherapy2025.
+The sacroiliac joint (SIJ) has limited mobility and any movement must be handled by the above lumbar segments and the inferior segments (hip joints) @jonesProjectPhysicalTherapy2025.
+
+# Trunk
+
+The trunk's role during a squat is to align and stabilize against the pivoting movements of the hip.
+
+
+
+
+
+# Patient Presentation
+
+## Low-back Pain Patient
+
+Patients with low back pain will prioritize their lumbar lordosis throughout the movement in order to minimize low back motion @jonesProjectPhysicalTherapy2025.
+In addition, these patients tend to maintain a vertical trunk, in order to reduce shearing loads on the spine @jonesProjectPhysicalTherapy2025.
+The arching required to attain this vertical compensation causes a posterior shift in the *center of mass*.
+This is countered by excessive anterior knee translation to shift the *center of mass* forward to the center.
+
+
+## Knee Pain patient
+
+Individuals with knee pain will attempt to limit the amount of torque on the knee by keeping the knees directly above the ankles, minimizing the *moment arm*.
+Since the knees are translated more posterior than normal, the *center of mass* is shifted posteriorly.
+The trunk and pelvis compensate for lack of knee range.
+The pelvis will prevent the *thigh angle* from dropping past horizontal (&lt;90&deg; knee flexion).
+The trunk will move into flexion in order to shift the *center of mass* anteriorly to return to center.
+
+
+# Compensations
+
+Individuals will attempt to compensate in order to find stability @jonesProjectPhysicalTherapy2025.
+Leaning on instability is *not* stability @jonesProjectPhysicalTherapy2025.
+
+For example, a common compensation while squating is toeing out (hip ER) and flattening the arch (pronation) @jonesProjectPhysicalTherapy2025.
+This creates a stable surface, but at the cost of alignment of the lower leg, knee, and upper leg since these must counter the foot position @jonesProjectPhysicalTherapy2025.
+Malalignment can result in excessive torsion through these regions.
+
+## Back Pain
+
+# Progression
+
+- Balance Assisted rack
+- Bodyweight
+- Barbell
+    - Challenges sagittal plane
+- Split squat
+    - Challenges frontal/coronal plane
+- Squat + Paloff
+    - Challenges transverse plane
+
+- Eyes closed
+- Ground contact
+    - Airex
+    - Indo board
+
+# Balance-assisted squat
+
+Use a balance assisted squat with a squat rack in order to help the patient overcome stability limitations and access the end-position of the squat.
+This is important in building the proprioceptive *sense of center*.
+
+Intra-progressions of balance-assisted:
+
+- Double hand hold on static object (i.e. squat rack)
+- double handhold on dynamic object (i.e. elastic bands)
+
+# Squat
+
+## Purpose
+
+The purpose of squatting is to keep the shoulders vertical while going into triple flexion.
+This is different from the deadlift, where we focus on keeping a vertical path of the bar rather than the shoulders.
+The squat has a much more open hip angle at the bottom position compared to the deadlift due to the vertical trunk position.
+
+The lower extremity must balance lower extremity speed with lower extremity range of movement @jonesProjectPhysicalTherapy2025.
+
+## Setup
+
+- Active tall position
+- knees in extension to slight flexion but *not* in hyperextension.
+- Stance width can vary based on the functional goal.
+    - If *depth* is the goal then use *feet outside of shoulders stance*.
+
+## Keys & Focus
+
+Use a rack to provide additional stability and end position.
+It is more important to have the correct position with balance assistance, in order to build the correct motor pattern.
+Once they can attain the correct position, progressively decrease balance assist.
+
+
+
+
+
+
+# Barbell Back squat
+
+- Shoulder: Requires shoulder retraction/abduction/ER for proper setup.
+
+::: {.callout-tip}
+Use shoulder W exercises to achieve this position.
+:::
+
+
+# Split Squat
+
+The *split squat* provides insight into posture and movements related to *stride*.
+The patient must achieve the squat position while balancing the opposing leg positions.
+
+- Front knee: Stable
+- Torso: Stable
+- Rear hip: Extension
+
+## Setup
+
+- Stance:
+    - Hip width apart
+    - Leg spacing:
+    - Leg spacing that is too short will prevent the patient from descending without losing form
+    - Leg spacing that is too far will make the rear hip immobile and drives the trunk forward 
+
+To find the correct stance, straighten the front knee (0&deg; extension) over the ankle.
+
+
+- Pelvis
+    - Pointed forward (no rotation)
+    - Level in frontal/coronal plane
+    - Assess pelvic tilt (sagittal plane)
+
+- Trunk
+    - Assess the trunk *after* assessing setting the pelvis.
+
+::: {.callout-note}
+I think you could try going into a half-kneeling position where the rear knee is directly under the hip and the front knee is directly above the front ankle.
+:::
+
+## Movement
+
+The rear leg's position with the extreme anterior knee translation places increased torque on the knee extensors.
+The front leg's position with the knee directly above the ankle places increased torque on the hip extensors.
+
+

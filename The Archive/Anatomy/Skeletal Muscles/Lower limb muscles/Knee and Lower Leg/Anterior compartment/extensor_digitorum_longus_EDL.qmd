@@ -70,6 +70,10 @@ else:
 - **STJ**: Eversion
 - **MTP & IP 2-5 Toe**: Extension
 
+::: {.callout-note}
+The EDL is the *only* muscle that can produce 5th toe extension @jonesProjectFoundations2025.
+:::
+
 # MMT 
 
 "The EDL and the EDB muscles produce the motion of extension at the MTP and IP joints of the lateral four digits from a flexed position." @duttonDuttonOrthopaedicExamination2020

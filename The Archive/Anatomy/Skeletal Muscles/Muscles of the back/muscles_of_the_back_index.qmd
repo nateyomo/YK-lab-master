@@ -1,3 +1,7 @@
+---
+title: Muscles of the Back
+---
+# OIAN
 ## Suboccipitals
 
 ```{python tbl-suboccipital-oian}
@@ -287,3 +291,21 @@ else:
     print("Script file does not exist. Please check the path.")
 
 ```
+
+
+# Lumbar spine muscles
+
+
+For the lumbar spine, we will organize the muscles based on depth (superficial &rarr; deep) as well as location from midline (medial &rarr; lateral).
+
+
+## Palpation
+
+### Prone
+
+- vertebra
+    - SPs
+    - spacing
+    - rotation
+    - Depth
+- 

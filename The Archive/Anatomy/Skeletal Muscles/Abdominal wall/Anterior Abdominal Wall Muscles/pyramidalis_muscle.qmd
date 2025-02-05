@@ -1,0 +1,67 @@
+---
+title: Pyramidalis Muscle
+subtitle: Anterior abdominal wall muscle
+---
+
+
+
+```{python tbl-oian}
+#| label: tbl-pyramidalis-oian
+#| warning: false
+#| message: false
+#| echo: false
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'muscle_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['pyramidalis']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+# Origin {#origin}
+
+Pubis (anterior to rectus abdominis) @gilroyAtlasAnatomy2020.
+
+# Insertion {#insertion}
+
+The pyramidalis runs within the rectus sheath to insert on the *linea alba* @gilroyAtlasAnatomy2020.
+
+# Innervation {#innervation}
+
+The pyramidalis is innervated by the [Subcostal n.]({{< var ref-subcostal-nerve.path >}}) with origins from the [T12]({{< var ref-nerve-root.t12 >}}) @gilroyAtlasAnatomy2020.
+
+
+# Action {#action}
+
+In a literal sense the linea alba "tenses" the linea alba [@gilroyAtlasAnatomy2020; @jonesProjectFoundations2025].
+
+# Overview
+
+The muscle is only present in 80% of the population @jonesProjectFoundations2025 and can even be absent in one or both sides @jonesProjectFoundations2025.
+
+::: {.callout-note}
+If the pyramidalis is absent, the [rectus abdominis]({{< var ref-rectus-abdominis.path >}}) will adjust and increase its size.
+:::

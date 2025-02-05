@@ -1,0 +1,16 @@
+---
+title: Modified Deadlift (MDL)
+subtitle: Foundational Exercise
+---
+
+
+The *modified deadlift* is a deadlift variation where the knee is static in active knee extension or slight flexion (~10-0&deg; flexion).
+This movement is commonly confused with the *romanian deadlift (RDL)* which also occurs with a static knee position, but the key difference is that the knee position in RDLs is more flexed.
+
+
+# Bar Path
+
+The *absolute* bar path does not follow a purely vertical line in MDLs.
+due to the lack of knee translation, the trunk must translate forward as the hip posteriorly translates.
+We do however observe the angle between the wrist and shoulder.
+The wrist should remain directly under the shoulder at all times.

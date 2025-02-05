@@ -20,7 +20,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "f3e5ea42"
+      "id": "dbac8b33"
     },
     {
       "cell_type": "code",
@@ -87,13 +87,17 @@
         "- **STJ**: Eversion\n",
         "- **MTP & IP 2-5 Toe**: Extension\n",
         "\n",
+        "::: {.callout-note}\n",
+        "The EDL is the *only* muscle that can produce 5th toe extension @jonesProjectFoundations2025.\n",
+        ":::\n",
+        "\n",
         "# MMT \n",
         "\n",
         "\"The EDL and the EDB muscles produce the motion of extension at the MTP and IP joints of the lateral four digits from a flexed position.\" @duttonDuttonOrthopaedicExamination2020\n",
         "\n",
         "- Apply resistance dorsal surface of the proximal and distal phalanges into toe flexion @duttonDuttonOrthopaedicExamination2020 "
       ],
-      "id": "a83c39ac"
+      "id": "488cd2ae"
     }
   ],
   "metadata": {

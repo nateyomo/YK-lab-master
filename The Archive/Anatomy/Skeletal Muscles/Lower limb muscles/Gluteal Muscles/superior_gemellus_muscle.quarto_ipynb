@@ -6,12 +6,9 @@
       "source": [
         "---\n",
         "title: Superior Gemellus Muscle\n",
-        "---\n",
-        "\n",
-        "\n",
-        "# OIAN\n"
+        "---"
       ],
-      "id": "6892e102"
+      "id": "759a433e"
     },
     {
       "cell_type": "code",
@@ -75,9 +72,13 @@
         "\n",
         "# Overview\n",
         "\n",
-        "“The gemellus\tsuperior and inferior (from the Latin root geminus, meaning twins) are two, small, nearly identically sized muscles with proximal attachments on either side of the lesser sciatic notch (see Fig. 12.43). Each muscle blends in with the central tendon of the obturator internus for a common attachment to the femur. Immediately below the gemellus inferior is the quadratus\t femoris muscle. This flat muscle arises from the external side of the ischial tuberosity and inserts on the posterior side of the proximal femur. In cases of abnormal bony morphology, this muscle may become impinged between the lesser trochanter and ischium, typically during motions that involve the extremes of external rotation.212 If chronic and repetitive, this clinically termed “ischiofemoral impingement” may cause groin and buttock pain along with abnormal MR signaling from the qua­ dratus femoris muscle” @neumannKinesiologyMusculoskeletalSystem2017 "
+        "“The gemellus\tsuperior and inferior (from the Latin root geminus, meaning twins) are two, small, nearly identically sized muscles with proximal attachments on either side of the lesser sciatic notch (see Fig. 12.43). Each muscle blends in with the central tendon of the obturator internus for a common attachment to the femur. Immediately below the gemellus inferior is the quadratus\t femoris muscle. This flat muscle arises from the external side of the ischial tuberosity and inserts on the posterior side of the proximal femur. In cases of abnormal bony morphology, this muscle may become impinged between the lesser trochanter and ischium, typically during motions that involve the extremes of external rotation.212 If chronic and repetitive, this clinically termed “ischiofemoral impingement” may cause groin and buttock pain along with abnormal MR signaling from the qua­ dratus femoris muscle” @neumannKinesiologyMusculoskeletalSystem2017 \n",
+        "\n",
+        "# Dysfunction\n",
+        "\n",
+        "- Gemelli-obturator internus syndrome"
       ],
-      "id": "ec67d7d5"
+      "id": "fc68ea1e"
     }
   ],
   "metadata": {

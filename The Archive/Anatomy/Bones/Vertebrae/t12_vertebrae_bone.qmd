@@ -6,3 +6,45 @@ title: T12 Vertebrae
 # Transverse process
 
 There is no transverse costal facet on T12 since the T
+
+
+# Anterior Malalignment
+
+Due to the iliopsoas (psoas major and minor) attachment to the anterior aspect of L1, an overactive iliopsoas can result in an anterior translation of the vertebrae.
+
+
+```{python tbl-psoas-major-minor-oian}
+#| label: tbl-psoas-major-minor-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Psoas Major and Minor OIAN"
+
+    from pathlib import Path
+    import pandas as pd
+    from pyprojroot import here
+    from IPython.core.display import display, HTML
+
+    # Set the path for the script file
+    script_file_path = here("scripts/process_oian_table.py")
+
+    # Check if the script file exists
+    if script_file_path.exists():
+        import sys
+        sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+        from process_oian_table import process_oian_table  # Import the specific function
+
+        # Define the column to filter by and the identifiers to include
+        filter_column = 'muscle_identifier'  # Choose the column you want to filter by
+        filter_identifiers = ['psoas_minor', 'psoas_major']  # Replace with actual identifiers you want to include
+
+        # Call the function to get the HTML table with filtering
+        html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+        if html_table:
+            # Render the HTML table for display
+            display(HTML(html_table))  # Use display to render the HTML properly
+    else:
+        print("Script file does not exist. Please check the path.")
+```

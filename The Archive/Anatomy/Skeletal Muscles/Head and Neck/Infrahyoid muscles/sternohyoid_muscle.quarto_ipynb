@@ -8,7 +8,7 @@
         "title: Sternohyoid muscle\n",
         "---"
       ],
-      "id": "03888591"
+      "id": "db3ff436"
     },
     {
       "cell_type": "code",
@@ -69,7 +69,7 @@
         "The sternohyoid muscle serves as an active stabilizer of the [sternoclavicular joint]({{< var ref-sternoclavicular-joint.path >}}) @neumannKinesiologyMusculoskeletalSystem2017\n",
         ":::"
       ],
-      "id": "512f7fd2"
+      "id": "48a99eb1"
     }
   ],
   "metadata": {

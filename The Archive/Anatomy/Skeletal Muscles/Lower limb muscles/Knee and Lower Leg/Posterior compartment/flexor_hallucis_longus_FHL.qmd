@@ -67,8 +67,11 @@ else:
 - **STJ**: INV @gilroyAtlasAnatomy2020
 - **MTP and IP 1st toe**: Flexion @gilroyAtlasAnatomy2020
 
+The [posterior tibialis]({{< var ref-posterior-tibialis.action >}}) and [flexor hallucis longus]({{< var ref-flexor-hallucis-longus.action >}}) also improves the stability of ankle joint by creating a dynamic pinch between the malleoli, which improves joint contact during plantarflexio @jonesProjectFoundations2025.
 
-
+The FHL also plays a role in calcaneal frontal plane stabilization.
+Although it does not *insert* on the calcaneus, the FHL tendon "hooks" onto the calcaneus in the *sustentaculum tali* allowing it to exert a force upon the calcaneus @jonesProjectFoundations2025.
+The FHL tendon can control and prevent excessive calcaneal varus/adduction.
 
 # MMT
 

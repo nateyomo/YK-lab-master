@@ -3,9 +3,40 @@ citation: false
 author: []
 ---
 
-![](/branding/square logo/square 3 lines full.svg){.nolightbox}
+<!-- ![](/branding/square logo/square 3 lines full.svg){.nolightbox} -->
+![](/branding/Yomokerst/yomokerst heavy condensed.svg){.nolightbox width="80%" fig-align="center"}
 
-- [**R&D**](/The Archive/research_and_development_index.qmd): A database for information, ranging from anatomy, microbiology, neurology, Patient examination, and rehabilitation.
-- [**About**](about.qmd): Read more about the authors of the site
-- [**Journal club**](journal_club_index.qmd): A blog where we will post summaries of interesting articles
+<a href="/The Archive/research_and_development_index.qmd" 
+   style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
+  
+  {{< iconify raphael books size=5x >}}
+  
+  <span style="display: block; max-width: 80%;">
+    <strong>R&D</strong> <br>
+    A database for information, ranging from anatomy, microbiology, neurology, Patient examination, and rehabilitation.
+  </span>
 
+</a>
+
+<a href="about.qmd"
+   style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
+  
+  {{< iconify f7 person-2-fill size=5x >}}
+  
+  <span style="display: block; max-width: 80%;">
+    <strong>**About**</strong> </br>Read more about the authors of the site.
+  </span>
+
+</a>
+
+
+<a href="journal_club_index.qmd"
+   style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
+  
+  {{< iconify iconoir journal-page size=5x >}}
+  
+  <span style="display: block; max-width: 80%;">
+    <strong>**Journal club**</strong> </br>A blog where we will post summaries of interesting articles.
+  </span>
+
+</a>

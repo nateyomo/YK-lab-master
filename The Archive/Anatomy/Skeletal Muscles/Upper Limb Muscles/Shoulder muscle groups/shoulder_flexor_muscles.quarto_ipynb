@@ -8,7 +8,7 @@
         "title: Shoulder Flexor muscles\n",
         "---"
       ],
-      "id": "913057f3"
+      "id": "db41548f"
     },
     {
       "cell_type": "code",
@@ -67,7 +67,7 @@
         "\n",
         "- [Coracobrahialis]({{< var ref-coracobrachialis.path >}}) is a secondary shoulder flexor @bielTrailGuideBody2019."
       ],
-      "id": "533235b6"
+      "id": "11ef0c8c"
     }
   ],
   "metadata": {

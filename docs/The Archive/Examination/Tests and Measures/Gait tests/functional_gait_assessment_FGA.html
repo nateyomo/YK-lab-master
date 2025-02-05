@@ -140,9 +140,9 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#form-pivot-turn" id="toc-form-pivot-turn" class="nav-link" data-scroll-target="#form-pivot-turn">5 Pivot Turn</a></li>
   <li><a href="#form-step-over-obstacle" id="toc-form-step-over-obstacle" class="nav-link" data-scroll-target="#form-step-over-obstacle">6 Step Over Obstacle</a></li>
   <li><a href="#form-narrow-bos" id="toc-form-narrow-bos" class="nav-link" data-scroll-target="#form-narrow-bos">7 Narrow Base of Support</a></li>
-  <li><a href="#form-eyes-closed" id="toc-form-eyes-closed" class="nav-link" data-scroll-target="#form-eyes-closed">8. Eyes Closed</a></li>
+  <li><a href="#form-eyes-closed" id="toc-form-eyes-closed" class="nav-link" data-scroll-target="#form-eyes-closed">8 Eyes Closed</a></li>
   <li><a href="#form-backwards" id="toc-form-backwards" class="nav-link" data-scroll-target="#form-backwards">9 Backwards</a></li>
-  <li><a href="#stairs" id="toc-stairs" class="nav-link" data-scroll-target="#stairs">10 Stairs</a></li>
+  <li><a href="#form-stairs" id="toc-form-stairs" class="nav-link" data-scroll-target="#form-stairs">10 Stairs</a></li>
   <li><a href="#results" id="toc-results" class="nav-link" data-scroll-target="#results">Results</a></li>
   </ul></li>
   </ul>
@@ -212,10 +212,12 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="#form-step-over-obstacle">Step Over Obstacle</a></li>
 <li><a href="#form-narrow-bos">Narrow Base of Support</a></li>
 <li><a href="#form-eyes-closed">Eyes Closed</a></li>
+<li><a href="#form-backwards">Backwards</a></li>
+<li><a href="#form-stairs">Stairs</a></li>
 </ol>
 <section id="form-level-gait" class="level2">
 <h2 class="anchored" data-anchor-id="form-level-gait">1 Level Gait</h2>
-<p>Instructions: Walk at your normal speed from here to the next mark (6 m [20 ft]).</p>
+<p>Instructions: Walk at your normal speed from here to the next mark (6m [20 ft]).</p>
 <table class="basic-table">
 <thead>
 <tr>
@@ -247,7 +249,7 @@ Walks 6 m (20 ft) in less than 5.5 seconds, no assistive devices, good speed, no
 2
 </td>
 <td>
-Mild Impairment
+Mild
 </td>
 <td>
 6m (20 ft) in &lt;7sec but &gt;5.5 seconds uses assistive device, slower speed, mild gait deviations, or deviates 15.24 – 25.4 cm (6 – 10 in) outside of the 30.48-cm (12-in) walkway width
@@ -258,7 +260,7 @@ Mild Impairment
 1
 </td>
 <td>
-Moderate impairment
+Moderate
 </td>
 <td>
 Walks 6 m (20 ft), slow speed, abnormal gait pattern, evidence for imbalance, or deviates 25.4 – 38.1 cm (10 – 15 in) outside of the 30.48-cm (12-in) walkway width. Requires more than 7 seconds to ambulate 6 m (20 ft)
@@ -278,7 +280,7 @@ Cannot walk 6 m (20 ft) without assistance, severe gait deviations or imbalance,
 </tbody>
 </table>
 <p>
-Item 1 Score: <span id="currentScore1">Not tested</span>
+Item 1 Score: <span class="score1">Not tested</span>
 </p>
 </section>
 <section id="form-changing-gait-speed" class="level2">
@@ -291,7 +293,7 @@ Item 1 Score: <span id="currentScore1">Not tested</span>
 Score
 </th>
 <th>
-Impairment
+Level
 </th>
 <th>
 Criteria
@@ -346,7 +348,7 @@ Cannot change speeds, deviates greater than 38.1 cm (15 in) outside 30.48-cm (12
 </tbody>
 </table>
 <p>
-Item 2 Score: <span id="currentScore2">Not tested</span>
+Item 2 Score: <span class="score2">Not tested</span>
 </p>
 </section>
 <section id="form-horizontal-head-turn" class="level2">
@@ -359,7 +361,7 @@ Item 2 Score: <span id="currentScore2">Not tested</span>
 Score
 </th>
 <th>
-Impairment
+Level
 </th>
 <th>
 Criteria
@@ -414,7 +416,7 @@ Performs task with severe disruption of gait (eg, staggers 38.1 cm [15 in] outsi
 </tbody>
 </table>
 <p>
-Item 3 Score: <span id="currentScore3">Not tested</span>
+Item 3 Score: <span class="score3">Not tested</span>
 </p>
 </section>
 <section id="form-vertical-head-turn" class="level2">
@@ -482,7 +484,7 @@ Performs task with severe disruption of gait (eg, staggers 38.1 cm [15 in] outsi
 </tbody>
 </table>
 <p>
-Item 4 Score: <span id="currentScore4">Not tested</span>
+Item 4 Score: <span class="score4">Not tested</span>
 </p>
 </section>
 <section id="form-pivot-turn" class="level2">
@@ -495,7 +497,7 @@ Item 4 Score: <span id="currentScore4">Not tested</span>
 Score
 </th>
 <th>
-Impairment
+Level
 </th>
 <th>
 Criteria
@@ -550,7 +552,7 @@ Cannot turn safely, requires assistance to turn and stop.
 </tbody>
 </table>
 <p>
-Item 5 Score: <span id="currentScore5">Not tested</span>
+Item 5 Score: <span id="score5">Not tested</span>
 </p>
 </section>
 <section id="form-step-over-obstacle" class="level2">
@@ -618,7 +620,7 @@ Cannot perform without assistance.
 </tbody>
 </table>
 <p>
-Item 6 Score: <span id="currentScore6">Not tested</span>
+Item 6 Score: <span class="score6">Not tested</span>
 </p>
 </section>
 <section id="form-narrow-bos" class="level2">
@@ -631,7 +633,7 @@ Item 6 Score: <span id="currentScore6">Not tested</span>
 Score
 </th>
 <th>
-Impairment
+Level
 </th>
 <th>
 Criteria
@@ -686,11 +688,11 @@ Ambulates less than 4 steps heel to toe or cannot perform without assistance.
 </tbody>
 </table>
 <p>
-Item 7 Score: <span id="currentScore7">Not tested</span>
+Item 7 Score: <span class="score7">Not tested</span>
 </p>
 </section>
 <section id="form-eyes-closed" class="level2">
-<h2 class="anchored" data-anchor-id="form-eyes-closed">8. Eyes Closed</h2>
+<h2 class="anchored" data-anchor-id="form-eyes-closed">8 Eyes Closed</h2>
 <p>Instructions: Walk at your normal speed from here to the next mark (6 m [20 ft]) with your eyes closed. Grading: Mark the highest category that applies.</p>
 <table class="basic-table">
 <thead>
@@ -754,7 +756,7 @@ Cannot walk 6 m (20 ft) without assistance, severe gait deviations or imbalance,
 </tbody>
 </table>
 <p>
-Item 8 Score: <span id="currentScore8">Not tested</span>
+Item 8 Score: <span class="score8">Not tested</span>
 </p>
 </section>
 <section id="form-backwards" class="level2">
@@ -822,11 +824,11 @@ Cannot walk 6 m (20 ft) without assistance, severe gait deviations or imbalance,
 </tbody>
 </table>
 <p>
-Item 9 Score: <span id="currentScore9">Not tested</span>
+Item 9 Score: <span class="score9">Not tested</span>
 </p>
 </section>
-<section id="stairs" class="level2">
-<h2 class="anchored" data-anchor-id="stairs">10 Stairs</h2>
+<section id="form-stairs" class="level2">
+<h2 class="anchored" data-anchor-id="form-stairs">10 Stairs</h2>
 <p>Instructions: Walk up these stairs as you would at home (ie, using the rail if necessary). At the top turn around and walk down.</p>
 <table class="basic-table">
 <thead>
@@ -835,7 +837,7 @@ Item 9 Score: <span id="currentScore9">Not tested</span>
 Score
 </th>
 <th>
-Impairment
+Level
 </th>
 <th>
 Criteria
@@ -890,21 +892,26 @@ Cannot do safely.
 </tbody>
 </table>
 <p>
-Item 10 Score: <span id="currentScore10">Not tested</span>
+Item 10 Score: <span class="score10">Not tested</span>
 </p>
 </section>
 <section id="results" class="level2">
 <h2 class="anchored" data-anchor-id="results">Results</h2>
+<p>
+Item 1 Score: <span class="score1">Not tested</span> <br>Item 2 Score: <span class="score2">Not tested</span> <br>Item 3 Score: <span class="score3">Not tested</span> <br>Item 4 Score: <span class="score4">Not tested</span> <br>Item 5 Score: <span class="score5">Not tested</span> <br>Item 6 Score: <span class="score6">Not tested</span> <br>Item 7 Score: <span class="score7">Not tested</span> <br>Item 8 Score: <span class="score8">Not tested</span> <br>Item 9 Score: <span class="score9">Not tested</span> <br>Item 10 Score: <span class="score10">Not tested</span>
+</p>
+<p>
+Total: <span class="totalScore">0</span>
+</p>
 <script>
     function setScore(value, element, scoreId) {
-        // Update the displayed score
-        document.getElementById(`current${scoreId.charAt(0).toUpperCase() + scoreId.slice(1)}`).innerText = value;
+        // Update the displayed score in all elements with the scoreId class
+        const scoreElements = document.querySelectorAll(`.${scoreId}`);
+        scoreElements.forEach(el => el.innerText = value); // Update all instances
 
         // Reset background color for all elements in the same group
         const elements = document.querySelectorAll(`[data-score-group="${scoreId}"]`);
         elements.forEach(el => el.style.backgroundColor = ''); // Reset all elements
-
-        calculateTotal()
 
         // Highlight the clicked element with a color based on the score value
         let color;
@@ -925,33 +932,84 @@ Item 10 Score: <span id="currentScore10">Not tested</span>
                 color = ''; // Default (no highlight)
         }
         element.style.backgroundColor = color; // Set the background color
+
+        // Recalculate the totals
+        calculateTotal();
     }
 
 
     function calculateTotal() {
         // Get the current scores from the spans
-        const score1 = parseInt(document.getElementById("currentScore1").innerText) || 0;
-        const score2 = parseInt(document.getElementById("currentScore2").innerText) || 0;
-        const score3 = parseInt(document.getElementById("currentScore3").innerText) || 0;
-        const score4 = parseInt(document.getElementById("currentScore4").innerText) || 0;
-        const score5 = parseInt(document.getElementById("currentScore5").innerText) || 0;
-        const score6 = parseInt(document.getElementById("currentScore6").innerText) || 0;
-        const score7 = parseInt(document.getElementById("currentScore7").innerText) || 0;
-        const score8 = parseInt(document.getElementById("currentScore8").innerText) || 0;
-        const score9 = parseInt(document.getElementById("currentScore9").innerText) || 0;
-        const score10 = parseInt(document.getElementById("currentScore10").innerText) || 0;
+        const score1 = parseInt(document.querySelector(".score1").innerText) || 0;
+        const score2 = parseInt(document.querySelector(".score2").innerText) || 0;
+        const score3 = parseInt(document.querySelector(".score3").innerText) || 0;
+        const score4 = parseInt(document.querySelector(".score4").innerText) || 0;
+        const score5 = parseInt(document.querySelector(".score5").innerText) || 0;
+        const score6 = parseInt(document.querySelector(".score6").innerText) || 0;
+        const score7 = parseInt(document.querySelector(".score7").innerText) || 0;
+        const score8 = parseInt(document.querySelector(".score8").innerText) || 0;
+        const score9 = parseInt(document.querySelector(".score9").innerText) || 0;
+        const score10 = parseInt(document.querySelector(".score10").innerText) || 0;
 
         // Calculate the total score
         const total = score1 + score2 + score3 + score4 + score5 + score6 + score7 + score8 + score9 + score10;
 
         // Update the total score display
-        document.getElementById("totalScore").innerText = total;
+        document.querySelectorAll(".totalScore").forEach(el => {
+            el.innerText = total; // Update each totalScore element
+        });
     }
 
 </script>
-<p>
-Total: <span id="totalScore">0</span>
-</p>
+<!-- Copy button for copying the final results to clipboard -->
+<button id="copyButton">
+Copy Scores
+</button>
+<script>
+    document.getElementById('copyButton').addEventListener('click', function() {
+        // Get today's date in "Mon DD, YYYY" format
+        let today = new Date();
+        let formattedDate = today.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+
+        // Initialize an array to hold the score texts
+        let scoresToCopy = [`Yomokerst - Functional Gait Assessment (${formattedDate})`];
+
+        // Get the text content of each score class and add it to the array
+        scoresToCopy.push(`Item 1 Level Gait: ${document.querySelector('.score1').innerText}`);
+        scoresToCopy.push(`Item 2 Changing speed: ${document.querySelector('.score2').innerText}`);
+        scoresToCopy.push(`Item 3 Horizontal Head turns: ${document.querySelector('.score3').innerText}`);
+        scoresToCopy.push(`Item 4 Vertical Head turns: ${document.querySelector('.score4').innerText}`);
+        scoresToCopy.push(`Item 5 Pivot turn: ${document.querySelector('.score5').innerText}`);
+        scoresToCopy.push(`Item 6 Step over obstacle: ${document.querySelector('.score6').innerText}`);
+        scoresToCopy.push(`Item 7 Narrow base: ${document.querySelector('.score7').innerText}`);
+        scoresToCopy.push(`Item 8 Eyes closed: ${document.querySelector('.score8').innerText}`);
+        scoresToCopy.push(`Item 9 Backwards: ${document.querySelector('.score9').innerText}`);
+        scoresToCopy.push(`Item 10 Stairs: ${document.querySelector('.score10').innerText}`);
+        scoresToCopy.push(`Total: ${document.querySelector('.totalScore').innerText}`);
+
+        // Join the scores with a new line character
+        let textToCopy = scoresToCopy.join('\n');
+
+        // Create a temporary textarea element to hold the text
+        let tempTextArea = document.createElement('textarea');
+        tempTextArea.value = textToCopy;
+
+        // Append the textarea to the body (required for the copy command)
+        document.body.appendChild(tempTextArea);
+
+        // Select the text in the textarea
+        tempTextArea.select();
+
+        // Copy the text to the clipboard
+        document.execCommand('copy');
+
+        // Remove the temporary textarea
+        document.body.removeChild(tempTextArea);
+
+        // Optional: Alert the user that the text has been copied
+        alert('Scores copied to clipboard!');
+    });
+</script>
 
 
 </section>

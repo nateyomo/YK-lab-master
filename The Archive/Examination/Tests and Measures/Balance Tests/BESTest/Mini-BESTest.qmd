@@ -290,225 +290,7 @@ To calculate the sub-score and total score use the side [left or right] with the
     </tbody>
 </table>
 
-<script>
-    let timers = [null, null, null, null];
-    let startTimes = [0, 0, 0, 0];
-    let elapsedTimes = [null, null, null, null]; // Use null to represent uninitialized trials
-    let isRunning = [false, false, false, false];
 
-    document.getElementById("item3LeftTrial1TimerButton").addEventListener("click", () => toggleTimer(0, "item3LeftTrial1", "item3LeftTrial1TimerButton"));
-    document.getElementById("item3RightTrial1TimerButton").addEventListener("click", () => toggleTimer(1, "item3RightTrial1", "item3RightTrial1TimerButton"));
-    document.getElementById("item3LeftTrial2TimerButton").addEventListener("click", () => toggleTimer(2, "item3LeftTrial2", "item3LeftTrial2TimerButton"));
-    document.getElementById("item3RightTrial2TimerButton").addEventListener("click", () => toggleTimer(3, "item3RightTrial2", "item3RightTrial2TimerButton"));
-
-    document.getElementById("item3LeftTrial1UnableButton").addEventListener("click", () => setUnable("item3LeftTrial1"));
-    document.getElementById("item3RightTrial1UnableButton").addEventListener("click", () => setUnable("item3RightTrial1"));
-    document.getElementById("item3LeftTrial2UnableButton").addEventListener("click", () => setUnable("item3LeftTrial2"));
-    document.getElementById("item3RightTrial2UnableButton").addEventListener("click", () => setUnable("item3RightTrial2"));
-
-    function toggleTimer(index, resultId, buttonId) {
-        if (!isRunning[index]) {
-            startTimer(index, resultId, buttonId);
-        } else {
-            stopTimer(index, resultId, buttonId);
-        }
-    }
-
-    function startTimer(index, resultId, buttonId) {
-        startTimes[index] = performance.now();
-        isRunning[index] = true;
-        document.getElementById(buttonId).innerText = "Stop Timer";
-        elapsedTimes[index] = 0; // Set to 0 only when the timer is explicitly started
-        updateTimer(index, resultId);
-    }
-
-    function updateTimer(index, resultId) {
-        const currentTime = performance.now();
-        elapsedTimes[index] = Math.min(currentTime - startTimes[index], 20000);
-        document.getElementById(resultId).innerText = (elapsedTimes[index] / 1000).toFixed(3) + "s";
-
-        if (elapsedTimes[index] < 20000) {
-            // Continue updating if under 20 seconds
-            timers[index] = requestAnimationFrame(() => updateTimer(index, resultId));
-        } else {
-            // Stop the timer when 20 seconds is reached
-            stopTimer(index, resultId); // This will now properly update the button text
-        }
-    }
-
-    function stopTimer(index, resultId, buttonId = null) {
-        if (isRunning[index]) {
-            isRunning[index] = false;
-            cancelAnimationFrame(timers[index]);
-            if (buttonId) {
-                document.getElementById(buttonId).innerText = "Start Timer"; // Update button text
-            }
-        }
-        checkLongestTimes();
-    }
-
-    
-    let score3;
-
-    function checkLongestTimes() {
-        // Compute LLE times
-        const item3lleTimes = [
-            elapsedTimes[0], // Trial 1 LLE
-            elapsedTimes[2], // Trial 2 LLE
-        ];
-        const item3lleValid = item3lleTimes.filter(time => time !== null && time !== -Infinity);
-
-        // Compute RLE times
-        const item3rleTimes = [
-            elapsedTimes[1], // Trial 1 RLE
-            elapsedTimes[3], // Trial 2 RLE
-        ];
-        const item3rleValid = item3rleTimes.filter(time => time !== null && time !== -Infinity);
-
-        // Set LLE Final Time
-        let item3finalLLETime;
-        if (item3lleValid.length > 0) {
-            item3finalLLETime = Math.max(...item3lleValid);
-            document.getElementById("item3finalLLETime").innerText = `${(item3finalLLETime / 1000).toFixed(3)}`;
-        } else {
-            item3finalLLETime = "Unable";
-            document.getElementById("item3finalLLETime").innerText = "Unable";
-        }
-
-        // Set RLE Final Time
-        let item3finalRLETime;
-        if (item3rleValid.length > 0) {
-            item3finalRLETime = Math.max(...item3rleValid);
-            document.getElementById("item3finalRLETime").innerText = `${(item3finalRLETime / 1000).toFixed(3)}`;
-        } else {
-            item3finalRLETime = "Unable";
-            document.getElementById("item3finalRLETime").innerText = "Unable";
-        }
-
-        // Update scores based on final times
-        const item3finalLLEScore = item3calculateScore(item3finalLLETime);
-        const item3finalRLEScore = item3calculateScore(item3finalRLETime);
-
-        document.getElementById("item3finalLLEScore").innerText = item3finalLLEScore;
-        document.getElementById("item3finalRLEScore").innerText = item3finalRLEScore;
-
-        // Update the smallest time bolding
-        boldSmallestTime();
-
-        // Bold the scores if their corresponding final times are bold
-        syncBoldWithTimes("item3finalLLETime", "item3finalLLEScore");
-        syncBoldWithTimes("item3finalRLETime", "item3finalRLEScore");
-
-        // Set score3 based on which side is bolded
-        setScore3(item3finalLLETime, item3finalRLETime);
-
-        // Calculate the total score
-        calculateTotal();
-    }
-
-
-    function item3calculateScore(finalTime) {
-        if (finalTime === "Unable") {
-            return 0;
-        }
-        
-        const timeInSeconds = finalTime / 1000;
-
-        if (timeInSeconds < 20) {
-            return 1;
-        } else if (timeInSeconds >= 20) {
-            return 2;
-        }
-        
-    }
-
-
-
-
-
-    function boldSmallestTime() {
-        const times = [
-            { id: "item3finalLLETime", value: document.getElementById("item3finalLLETime").innerText },
-            { id: "item3finalRLETime", value: document.getElementById("item3finalRLETime").innerText },
-        ];
-
-        // Normalize the times to handle "Unable"
-        const normalizedTimes = times.map(time => ({
-            id: time.id,
-            value: time.value === "Unable" ? -1 : parseFloat(time.value) || Infinity, // Treat "Unable" as the smallest time
-        }));
-
-        // Find the smallest normalized time
-        let smallestTime = Infinity;
-        let smallestTimeId = null;
-
-        for (const time of normalizedTimes) {
-            if (time.value < smallestTime) {
-                smallestTime = time.value;
-                smallestTimeId = time.id;
-            }
-        }
-
-        // Reset font weight for all times
-        times.forEach(time => {
-            document.getElementById(time.id).style.fontWeight = "normal";
-        });
-
-        // Bold the smallest time
-        if (smallestTimeId) {
-            document.getElementById(smallestTimeId).style.fontWeight = "bold";
-        }
-    }
-
-    function syncBoldWithTimes(timeElementId, scoreElementId) {
-        const timeElement = document.getElementById(timeElementId);
-        const scoreElement = document.getElementById(scoreElementId);
-
-        if (timeElement.style.fontWeight === "bold") {
-            scoreElement.style.fontWeight = "bold";
-        } else {
-            scoreElement.style.fontWeight = "normal";
-        }
-    }
-
-     function setScore3(item3finalLLETime, item3finalRLETime) {
-        // Reset currentScore3 to 0 by default
-        let score3 = 0; 
-
-        // Check which time is bolded and calculate the corresponding score
-        if (document.getElementById("item3finalLLETime").style.fontWeight === "bold") {
-            score3 = item3calculateScore(item3finalLLETime); // Use seconds directly
-        } else if (document.getElementById("item3finalRLETime").style.fontWeight === "bold") {
-            score3 = item3calculateScore(item3finalRLETime); // Use seconds directly
-        }
-
-        
-        // Update the score3 display in the element with the class 'score3'
-        document.querySelector('.score3').innerText = score3;
-
-        // Return the score3 value
-        return score3;
-    }
-
-    function setUnable(resultId) {
-        const index = getIndexFromResultId(resultId); // Get the corresponding index
-        stopTimer(index, resultId, null); // Stop the timer
-        elapsedTimes[index] = -Infinity; // Set time to a value that indicates "Unable"
-        document.getElementById(resultId).innerText = "Unable"; // Set display to "Unable"
-        checkLongestTimes(); // Recheck final times
-    }
-
-    function getIndexFromResultId(resultId) {
-        // Map result IDs to their respective indices
-        switch (resultId) {
-            case "item3LeftTrial1": return 0;
-            case "item3RightTrial1": return 1;
-            case "item3LeftTrial2": return 2;
-            case "item3RightTrial2": return 3;
-            default: return -1; // Invalid ID
-        }
-    }
-</script>
 
 
 <p>Item 3 Score: <span class="score3">0</span></p>
@@ -524,27 +306,26 @@ down. Make sure the subject looks at a non-moving target 4-12 feet ahead. Repeat
 
 <details>
     <summary>Example</summary>
-You have a patient who scores the following:
+        You have a patient who scores the following:
 
-| Trial | Right | Left |
-|-|-|-|
-| Trial 1 | 17s | 19s |
-| Trial 2 | 20s| 15s |
+        | Trial | Right | Left |
+        |-|-|-|
+        | Trial 1 | 17s | 19s |
+        | Trial 2 | 20s| 15s |
 
-When scoring **both** legs, you would report the best score from the two trials:
+        When scoring **both** legs, you would report the best score from the two trials:
 
-| Right | Left |
-|-|-|
-| 20s (2/2 pt) | 19s (1/2 pt) |
+        | Right | Left |
+        |-|-|
+        | 20s (2/2 pt) | 19s (1/2 pt) |
 
-When calculating the subscore or the overall score, you cannot include both legs, since each item can only be worth 2 points.
-Thus, you must choose the leg with the *worse* score, in this case, it would be the left leg.
-You would report this items score as follows:
+        When calculating the subscore or the overall score, you cannot include both legs, since each item can only be worth 2 points.
+        Thus, you must choose the leg with the *worse* score, in this case, it would be the left leg.
+        You would report this items score as follows:
 
-| Item | Time | Score | Level |
-|-|-|-|-|
-| Item 3 | 19s | 1/2 pt | Moderate |
-
+        | Item | Time | Score | Level |
+        |-|-|-|-|
+        | Item 3 | 19s | 1/2 pt | Moderate |
 </details>
 
 ## Reactive postural control {#form-reactive-postural-control}
@@ -732,7 +513,7 @@ sure subject looks at a non-moving target 4-12 feet away."
 
 
 
-<p id="item7trial">--- s</p>
+<p class="item7trial">--- s</p>
 <button id="item7TimerButton">Start Timer</button>
 <button id="item7UnableButton">Unable</button>
 
@@ -777,7 +558,7 @@ shape. "
     </tbody>
 </table>
 
-<p id="item8trial">--- s</p>
+<p class="item8trial">--- s</p>
 <button id="item8TimerButton">Start Timer</button>
 <button id="item8UnableButton">Unable</button>
 <p>Item 8 Score: <span class="score8">0</span></p>
@@ -815,7 +596,7 @@ shoulder width apart and have your arms down at your sides. I will start timing 
     </tbody>
 </table>
 
-<p id="item9trial">--- s</p>
+<p class="item9trial">--- s</p>
 <button id="item9TimerButton">Start Timer</button>
 <button id="item9UnableButton">Unable</button>
 <p>Item 9 Score: <span class="score9">0</span></p>
@@ -1036,11 +817,382 @@ Item 14 Cognitive TUG Time: <span class="item14CognitiveTugDisplay" style="min-w
 
 <p>Item 14 Score: <span class="score14">Not tested</span></p>
 
+
+
+<strong>Item 14 TUG + TUG Cog: </strong> <span class="score14">Not tested</span> (<strong>TUG: </strong><span class="item14TugDisplay"></span>, <strong>Cog-TUG: </strong><span class="item14CognitiveTugDisplay"> </span>, <strong>%&Delta;</strong><span class="item14PercentChangeDisplay"> </span>)
+
+
+
+
+
+::: {.callout-note}
+If the patient's gait speed decreases more than 10% when adding the Dual Task, the score
+should be &darr;*decreased* by a point.
+:::
+
+"Use the TUG time to determine the effects of dual tasking. The subject should walk a 3 meter distance.
+TUG: Have the subject sitting with the subject’s back against the chair. The subject will be timed from the
+moment you say “Go” until the subject returns to sitting. Stop timing when the subject’s buttocks hit the
+chair bottom and the subject’s back is against the chair. The chair should be firm without arms. TUG
+With Dual Task: While sitting determine how fast and accurately the subject can count backwards by
+threes starting from a number between 100-90. Then, ask the subject to count from a different number
+and after a few numbers say “Go”. Time the subject from the moment you say “Go” until the subject
+returns to the sitting position. Score dual task as affecting counting or walking if speed slows (>10%)
+from TUG and or new signs of imbalance."
+
+## Final Results
+
+
+<p>
+    Item 1 STS: <span class="score1">Not tested</span>
+    </br> Item 2 Heel Raise: <span class="score2">Not tested</span>
+    </br> Item 3 SLB: <span class="score3">Not tested</span>
+    </br> Anticipatory Subtotal: <span class="anticipatory_subtotal">0</span>
+</p>
+
+<p>
+    Item 4 Forward compensatory step: <span class="score4">Not tested</span>
+    </br> Item 5 Backward compensatory step: <span class="score5">Not tested</span>
+    </br> Item 6 Lateral compensatory step: <span class="score6">Not tested</span>
+    </br>Reactive Postural Control Subtotal: <span class="reactive_subtotal">0</span>
+</p>
+
+<p>
+    Item 7 Static balance (Feet together + EO): <span class="score7">Not tested</span> (<span class=item7trial>NA</span>)
+    </br> Item 8 Static balance (Feet together + EC + FOAM): <span class="score8">Not tested</span> (<span class=item8trial>NA</span>)
+    </br> Item 9 Incline + EC Balance: <span class="score9">Not tested</span> (<span class=item9trial>NA</span>)
+    </br> Sensory Orientation Subtotal: <span class="sensory_orientation_subtotal">0</span>
+</p>
+
+<p>
+    Item 10 Change in gait speed: <span class="score10">Not tested</span>
+    </br> Item 11 Gait + Horizontal head turns: <span class="score11">Not tested</span>
+    </br> Item 12 Gait + Pivot: <span class="score12">Not tested</span>
+    </br> Item 13 Step over Obstacle: <span class="score13">Not tested</span>
+    </br> Item 14 TUG + TUG Cog: <span class="score14">Not tested</span> (TUG: <span class="item14TugDisplay"></span>, Cog-TUG: <span class="item14CognitiveTugDisplay"> </span>, %&Delta;: <span class="item14PercentChangeDisplay"> </span>)
+    </br> Dynamic Gait Subtotal: <span class="dynamic_gait_subtotal">0</span>
+</p>
+
+<p>Total: <span class="totalScore">0</span></p>
+
+<button id="copyButton">Copy Scores</button>
+
+<!-- Timers for item 3 -->
+
+<script>
+    let timers = [null, null, null, null];
+    let startTimes = [0, 0, 0, 0];
+    let elapsedTimes = [null, null, null, null]; // Use null to represent uninitialized trials
+    let isRunning = [false, false, false, false];
+
+    document.getElementById("item3LeftTrial1TimerButton").addEventListener("click", () => toggleTimer(0, "item3LeftTrial1", "item3LeftTrial1TimerButton"));
+    document.getElementById("item3RightTrial1TimerButton").addEventListener("click", () => toggleTimer(1, "item3RightTrial1", "item3RightTrial1TimerButton"));
+    document.getElementById("item3LeftTrial2TimerButton").addEventListener("click", () => toggleTimer(2, "item3LeftTrial2", "item3LeftTrial2TimerButton"));
+    document.getElementById("item3RightTrial2TimerButton").addEventListener("click", () => toggleTimer(3, "item3RightTrial2", "item3RightTrial2TimerButton"));
+
+    document.getElementById("item3LeftTrial1UnableButton").addEventListener("click", () => setUnable("item3LeftTrial1"));
+    document.getElementById("item3RightTrial1UnableButton").addEventListener("click", () => setUnable("item3RightTrial1"));
+    document.getElementById("item3LeftTrial2UnableButton").addEventListener("click", () => setUnable("item3LeftTrial2"));
+    document.getElementById("item3RightTrial2UnableButton").addEventListener("click", () => setUnable("item3RightTrial2"));
+
+    function toggleTimer(index, resultId, buttonId) {
+        if (!isRunning[index]) {
+            startTimer(index, resultId, buttonId);
+        } else {
+            stopTimer(index, resultId, buttonId);
+        }
+    }
+
+    function startTimer(index, resultId, buttonId) {
+        startTimes[index] = performance.now();
+        isRunning[index] = true;
+        document.getElementById(buttonId).innerText = "Stop Timer";
+        elapsedTimes[index] = 0; // Set to 0 only when the timer is explicitly started
+        updateTimer(index, resultId);
+    }
+
+    function updateTimer(index, resultId) {
+        const currentTime = performance.now();
+        elapsedTimes[index] = Math.min(currentTime - startTimes[index], 20000);
+        document.getElementById(resultId).innerText = (elapsedTimes[index] / 1000).toFixed(3) + "s";
+
+        if (elapsedTimes[index] < 20000) {
+            // Continue updating if under 20 seconds
+            timers[index] = requestAnimationFrame(() => updateTimer(index, resultId));
+            checkLongestTimes();
+        } else {
+            // Stop the timer when 20 seconds is reached
+            stopTimer(index, resultId); // This will now properly update the button text
+        }
+    }
+
+    function stopTimer(index, resultId, buttonId = null) {
+        if (isRunning[index]) {
+            isRunning[index] = false;
+            cancelAnimationFrame(timers[index]);
+            if (buttonId) {
+                document.getElementById(buttonId).innerText = "Start Timer"; // Update button text
+            }
+        }
+        checkLongestTimes();
+    }
+
+    
+    let score3;
+
+    function checkLongestTimes() {
+        // Compute LLE times
+        const item3lleTimes = [
+            elapsedTimes[0], // Trial 1 LLE
+            elapsedTimes[2], // Trial 2 LLE
+        ];
+        const item3lleValid = item3lleTimes.filter(time => time !== null && time !== -Infinity);
+
+        // Compute RLE times
+        const item3rleTimes = [
+            elapsedTimes[1], // Trial 1 RLE
+            elapsedTimes[3], // Trial 2 RLE
+        ];
+        const item3rleValid = item3rleTimes.filter(time => time !== null && time !== -Infinity);
+
+        // Set LLE Final Time
+        let item3finalLLETime;
+        if (item3lleValid.length > 0) {
+            item3finalLLETime = Math.max(...item3lleValid);
+            document.getElementById("item3finalLLETime").innerText = `${(item3finalLLETime / 1000).toFixed(3)}`;
+        } else {
+            item3finalLLETime = "Unable";
+            document.getElementById("item3finalLLETime").innerText = "Unable";
+        }
+
+        // Set RLE Final Time
+        let item3finalRLETime;
+        if (item3rleValid.length > 0) {
+            item3finalRLETime = Math.max(...item3rleValid);
+            document.getElementById("item3finalRLETime").innerText = `${(item3finalRLETime / 1000).toFixed(3)}`;
+        } else {
+            item3finalRLETime = "Unable";
+            document.getElementById("item3finalRLETime").innerText = "Unable";
+        }
+
+        // Update scores based on final times
+        const item3finalLLEScore = item3calculateScore(item3finalLLETime);
+        const item3finalRLEScore = item3calculateScore(item3finalRLETime);
+
+        document.getElementById("item3finalLLEScore").innerText = item3finalLLEScore;
+        document.getElementById("item3finalRLEScore").innerText = item3finalRLEScore;
+
+        // Update the smallest time bolding
+        boldSmallestTime();
+
+        // Bold the scores if their corresponding final times are bold
+        syncBoldWithTimes("item3finalLLETime", "item3finalLLEScore");
+        syncBoldWithTimes("item3finalRLETime", "item3finalRLEScore");
+
+        // Set score3 based on which side is bolded
+        setScore3(item3finalLLETime, item3finalRLETime);
+
+        // Calculate the total score
+        calculateTotal();
+    }
+
+
+    function item3calculateScore(finalTime) {
+        if (finalTime === "Unable") {
+            return 0;
+        }
+        
+        const timeInSeconds = finalTime / 1000;
+
+        if (timeInSeconds < 20) {
+            return 1;
+        } else if (timeInSeconds >= 20) {
+            return 2;
+        }
+
+
+        
+    }
+
+    function boldSmallestTime() {
+        const times = [
+            { id: "item3finalLLETime", value: document.getElementById("item3finalLLETime").innerText },
+            { id: "item3finalRLETime", value: document.getElementById("item3finalRLETime").innerText },
+        ];
+
+        // Normalize the times to handle "Unable"
+        const normalizedTimes = times.map(time => ({
+            id: time.id,
+            value: time.value === "Unable" ? -1 : parseFloat(time.value) || Infinity, // Treat "Unable" as the smallest time
+        }));
+
+        // Find the smallest normalized time
+        let smallestTime = Infinity;
+        let smallestTimeId = null;
+
+        for (const time of normalizedTimes) {
+            if (time.value < smallestTime) {
+                smallestTime = time.value;
+                smallestTimeId = time.id;
+            }
+        }
+
+        // Reset font weight for all times
+        times.forEach(time => {
+            document.getElementById(time.id).style.fontWeight = "normal";
+        });
+
+        // Bold the smallest time
+        if (smallestTimeId) {
+            document.getElementById(smallestTimeId).style.fontWeight = "bold";
+        }
+    }
+
+    function syncBoldWithTimes(timeElementId, scoreElementId) {
+        const timeElement = document.getElementById(timeElementId);
+        const scoreElement = document.getElementById(scoreElementId);
+
+        if (timeElement.style.fontWeight === "bold") {
+            scoreElement.style.fontWeight = "bold";
+        } else {
+            scoreElement.style.fontWeight = "normal";
+        }
+    }
+
+     function setScore3(item3finalLLETime, item3finalRLETime) {
+        // Reset currentScore3 to 0 by default
+        let score3 = 0; 
+
+        // Check which time is bolded and calculate the corresponding score
+        if (document.getElementById("item3finalLLETime").style.fontWeight === "bold") {
+            score3 = item3calculateScore(item3finalLLETime); // Use seconds directly
+        } else if (document.getElementById("item3finalRLETime").style.fontWeight === "bold") {
+            score3 = item3calculateScore(item3finalRLETime); // Use seconds directly
+        }
+        
+        // Update the score3 display in the element with the class 'score3'
+        document.querySelectorAll('.score3').forEach(el => el.innerText = score3);
+
+
+        // Return the score3 value
+        return score3;
+    }
+
+    function setUnable(resultId) {
+        const index = getIndexFromResultId(resultId); // Get the corresponding index
+        stopTimer(index, resultId, null); // Stop the timer
+        elapsedTimes[index] = -Infinity; // Set time to a value that indicates "Unable"
+        document.getElementById(resultId).innerText = "Unable"; // Set display to "Unable"
+        checkLongestTimes(); // Recheck final times
+    }
+
+    function getIndexFromResultId(resultId) {
+        // Map result IDs to their respective indices
+        switch (resultId) {
+            case "item3LeftTrial1": return 0;
+            case "item3RightTrial1": return 1;
+            case "item3LeftTrial2": return 2;
+            case "item3RightTrial2": return 3;
+            default: return -1; // Invalid ID
+        }
+    }
+</script>
+
+<!-- Timers for item 7, 8, 9 -->
+
+<script>
+    const initializeTimer = (trialClass, timerButtonId, unableButtonId, scoreClass) => {
+        const trialElements = document.querySelectorAll(trialClass); // Get all matching elements
+        const timerButton = document.getElementById(timerButtonId);
+        const unableButton = document.getElementById(unableButtonId);
+        const scoreElements = document.querySelectorAll(scoreClass); // Use querySelectorAll for matching score elements
+
+        let interval = null;
+        let elapsedTime = 0;
+        const maxTime = 30000; // 30 seconds in milliseconds
+
+        const updateScore = () => {
+            let score;
+            if (elapsedTime === 0) {
+                score = 0;
+            } else if (elapsedTime < maxTime) {
+                score = 1;
+            } else {
+                score = 2;
+            }
+
+            // Update all score elements
+            scoreElements.forEach(scoreElement => {
+                scoreElement.textContent = score;
+            });
+
+            // Update all trial elements
+            trialElements.forEach(trialElement => {
+                trialElement.textContent = elapsedTime === 0 ? 'Unable' : (elapsedTime / 1000).toFixed(3) + ' s';
+            });
+
+            // Recalculate totals if necessary
+            calculateTotal();
+        };
+
+        timerButton.addEventListener('click', () => {
+            if (interval) {
+                clearInterval(interval); // Pause the timer
+                interval = null;
+                timerButton.textContent = 'Start Timer';
+            } else {
+                const startTime = Date.now() - elapsedTime;
+                interval = setInterval(() => {
+                    elapsedTime = Date.now() - startTime;
+
+                    if (elapsedTime >= maxTime) {
+                        elapsedTime = maxTime;
+                        clearInterval(interval);
+                        interval = null;
+                        timerButton.disabled = true; // Disable the timer button after max time
+                    }
+
+                    // Update all trial elements dynamically
+                    trialElements.forEach(trialElement => {
+                        trialElement.textContent = (elapsedTime / 1000).toFixed(3) + ' s';
+                    });
+                    updateScore();
+                }, 10); // Update every 10ms
+
+                timerButton.textContent = 'Pause Timer';
+            }
+        });
+
+        unableButton.addEventListener('click', () => {
+            if (interval) {
+                clearInterval(interval); // Stop the timer if running
+                interval = null;
+                timerButton.textContent = 'Start Timer';
+            }
+            elapsedTime = 0; // Reset elapsed time to 0
+
+            // Set all trial elements to "Unable"
+            trialElements.forEach(trialElement => {
+                trialElement.textContent = 'Unable';
+            });
+            timerButton.disabled = false; // Re-enable the timer button if it was disabled
+            updateScore();
+        });
+    };
+
+    // Initialize timers for Items 7, 8, and 9
+    initializeTimer('.item7trial', 'item7TimerButton', 'item7UnableButton', '.score7');
+    initializeTimer('.item8trial', 'item8TimerButton', 'item8UnableButton', '.score8');
+    initializeTimer('.item9trial', 'item9TimerButton', 'item9UnableButton', '.score9');
+</script>
+
+<!-- Item 14 timer -->
 <script>
     let item14Tugtime = 0; // Holds the TUG time in ms
     let item14CognitiveTugtime = 0; // Holds the Cognitive TUG time in ms
     let tugInterval = null;
     let cognitiveTugInterval = null;
+    let item14PercentChange = null;
 
     // Helper function to update elements by class name
     const updateElementsByClass = (className, textContent) => {
@@ -1054,6 +1206,7 @@ Item 14 Cognitive TUG Time: <span class="item14CognitiveTugDisplay" style="min-w
         // Check if either time is set to "Unable"
         if (item14Tugtime === null || item14CognitiveTugtime === null) {
             updateElementsByClass('score14', "0");
+            updateElementsByClass('item14PercentChangeDisplay', "N/A"); // Reset percent change
         } else if (item14Tugtime > 0 && item14CognitiveTugtime > 0) {
             // Compare cognitive TUG time with TUG time
             if (item14CognitiveTugtime >= item14Tugtime * 0.9) {
@@ -1061,13 +1214,24 @@ Item 14 Cognitive TUG Time: <span class="item14CognitiveTugDisplay" style="min-w
             } else {
                 updateElementsByClass('score14', "1"); // Score is 1
             }
+
+            // Calculate percent change
+            item14PercentChange = 1 - (item14Tugtime / item14CognitiveTugtime);
+
+            // Format percent change as a percentage (e.g., "10.00%")
+            const percentChangeFormatted = (item14PercentChange * 100).toFixed(2) + "%";
+
+            // Update the display
+            updateElementsByClass('item14PercentChangeDisplay', percentChangeFormatted);
         } else {
             updateElementsByClass('score14', "Not tested"); // Default message
+            updateElementsByClass('item14PercentChangeDisplay', "N/A"); // Reset percent change
         }
 
         // Recalculate the totals
         calculateTotal();
     };
+
 
 
     // Helper function to start a timer for item 14
@@ -1146,136 +1310,7 @@ Item 14 Cognitive TUG Time: <span class="item14CognitiveTugDisplay" style="min-w
     });
 </script>
 
-
-
-
-
-
-::: {.callout-note}
-If the patient's gait speed decreases more than 10% when adding the Dual Task, the score
-should be &darr;*decreased* by a point.
-:::
-
-"Use the TUG time to determine the effects of dual tasking. The subject should walk a 3 meter distance.
-TUG: Have the subject sitting with the subject’s back against the chair. The subject will be timed from the
-moment you say “Go” until the subject returns to sitting. Stop timing when the subject’s buttocks hit the
-chair bottom and the subject’s back is against the chair. The chair should be firm without arms. TUG
-With Dual Task: While sitting determine how fast and accurately the subject can count backwards by
-threes starting from a number between 100-90. Then, ask the subject to count from a different number
-and after a few numbers say “Go”. Time the subject from the moment you say “Go” until the subject
-returns to the sitting position. Score dual task as affecting counting or walking if speed slows (>10%)
-from TUG and or new signs of imbalance."
-
-## Final Results
-
-
-<p>
-    Item 1 STS: <span class="score1">Not tested</span>
-    </br> Item 2 Heel Raise: <span class="score2">Not tested</span>
-    </br> Item 3 SLB: <span class="score3">Not tested</span>
-    </br> Anticipatory Subtotal: <span class="anticipatory_subtotal">0</span>
-</p>
-
-<p>
-    Item 4 Forward compensatory step: <span class="score4">Not tested</span>
-    </br> Item 5 Backward compensatory step: <span class="score5">Not tested</span>
-    </br> Item 6 Lateral compensatory step: <span class="score6">Not tested</span>
-    </br>Reactive Postural Control Subtotal: <span class="reactive_subtotal">0</span>
-</p>
-
-<p>
-    Item 7 Static balance (Feet together + EO): <span class="score7">Not tested</span>
-    </br> Item 8 Static balance (Feet together + EC + FOAM): <span class="score8">Not tested</span>
-    </br> Item 9 Incline + EC Balance: <span class="score9">Not tested</span>
-    </br> Sensory Orientation Subtotal: <span class="sensory_orientation_subtotal">0</span>
-</p>
-
-<p>
-    Item 10 Change in gait speed: <span class="score10">Not tested</span>
-    </br> Item 11 Gait + Horizontal head turns: <span class="score11">Not tested</span>
-    </br> Item 12 Gait + Pivot: <span class="score12">Not tested</span>
-    </br> Item 13 Step over Obstacle: <span class="score13">Not tested</span>
-    </br> Item 14 TUG + TUG Cog: <span class="score14">Not tested</span>
-    </br> Dynamic Gait Subtotal: <span class="dynamic_gait_subtotal">0</span>
-</p>
-
-<p>Total: <span class="totalScore">0</span></p>
-
-
-<script>
-    const initializeTimer = (trialId, timerButtonId, unableButtonId, scoreClass) => {
-    const trialElement = document.getElementById(trialId);
-    const timerButton = document.getElementById(timerButtonId);
-    const unableButton = document.getElementById(unableButtonId);
-    const scoreElements = document.querySelectorAll(scoreClass); // Use querySelectorAll to get all matching elements
-
-    let interval = null;
-    let elapsedTime = 0;
-    const maxTime = 30000; // 30 seconds in milliseconds
-
-    const updateScore = () => {
-        let score;
-        if (elapsedTime === 0) {
-            score = 0;
-        } else if (elapsedTime < maxTime) {
-            score = 1;
-        } else {
-            score = 2;
-        }
-
-        // Update all score elements
-        scoreElements.forEach(scoreElement => {
-            scoreElement.textContent = score; // Set the same score for all elements
-        });
-
-        // Recalculate the totals
-        calculateTotal();
-    };
-
-    timerButton.addEventListener('click', () => {
-        if (interval) {
-            clearInterval(interval); // Pause the timer
-            interval = null;
-            timerButton.textContent = 'Start Timer';
-        } else {
-            const startTime = Date.now() - elapsedTime;
-            interval = setInterval(() => {
-                elapsedTime = Date.now() - startTime;
-
-                if (elapsedTime >= maxTime) {
-                    elapsedTime = maxTime;
-                    clearInterval(interval);
-                    interval = null;
-                    timerButton.disabled = true; // Disable the timer button after max time
-                }
-
-                trialElement.textContent = (elapsedTime / 1000).toFixed(3) + ' s';
-                updateScore();
-            }, 10); // Update every 10ms
-
-            timerButton.textContent = 'Pause Timer';
-        }
-    });
-
-    unableButton.addEventListener('click', () => {
-        if (interval) {
-            clearInterval(interval); // Stop the timer if running
-            interval = null;
-            timerButton.textContent = 'Start Timer';
-        }
-        elapsedTime = 0; // Reset elapsed time to 0
-        trialElement.textContent = 'Unable';
-        timerButton.disabled = false; // Re-enable the timer button if it was disabled
-        updateScore();
-    });
-};
-
-    // Initialize timers for Items 7, 8, and 9
-    initializeTimer('item7trial', 'item7TimerButton', 'item7UnableButton', '.score7');
-    initializeTimer('item8trial', 'item8TimerButton', 'item8UnableButton', '.score8');
-    initializeTimer('item9trial', 'item9TimerButton', 'item9UnableButton', '.score9');
-</script>
-
+<!-- setScore and calculateTotal -->
 <script>
 
     function setScore(value, element, scoreId) {
@@ -1356,16 +1391,17 @@ from TUG and or new signs of imbalance."
 </script>
 
 
+<!-- Copy button for copying the final results to clipboard -->
 
-
-
-
-<button id="copyButton">Copy Scores</button>
 
 <script>
     document.getElementById('copyButton').addEventListener('click', function() {
+        // Get today's date in "Mon DD, YYYY" format
+        let today = new Date();
+        let formattedDate = today.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+
         // Initialize an array to hold the score texts
-        let scoresToCopy = [];
+        let scoresToCopy = [`Yomokerst - Mini-BEST (${formattedDate})`];
 
         // Get the text content of each score class and add it to the array
         scoresToCopy.push(`Item 1 STS: ${document.querySelector('.score1').innerText}`);
@@ -1376,15 +1412,29 @@ from TUG and or new signs of imbalance."
         scoresToCopy.push(`Item 5 Backward compensatory step: ${document.querySelector('.score5').innerText}`);
         scoresToCopy.push(`Item 6 Lateral compensatory step: ${document.querySelector('.score6').innerText}`);
         scoresToCopy.push(`Reactive Postural Control Subtotal: ${document.querySelector('.reactive_subtotal').innerText}`);
-        scoresToCopy.push(`Item 7 Static balance (Feet together + EO): ${document.querySelector('.score7').innerText}`);
-        scoresToCopy.push(`Item 8 Static balance (Feet together + EC + FOAM): ${document.querySelector('.score8').innerText}`);
-        scoresToCopy.push(`Item 9 Incline + EC Balance: ${document.querySelector('.score9').innerText}`);
+        scoresToCopy.push(
+            `Item 7 Static balance (Feet together + EO): ${document.querySelector('.score7').innerText}` +
+            ` (${document.querySelector('.item7trial').innerText})`
+            );
+        scoresToCopy.push(
+            `Item 8 Static balance (Feet together + EC + FOAM): ${document.querySelector('.score8').innerText}` +
+            ` (${document.querySelector('.item8trial').innerText})`
+            );
+        scoresToCopy.push(
+            `Item 9 Incline + EC Balance: ${document.querySelector('.score9').innerText}` +
+            ` (${document.querySelector('.item9trial').innerText})`
+            );
         scoresToCopy.push(`Sensory Orientation Subtotal: ${document.querySelector('.sensory_orientation_subtotal').innerText}`);
         scoresToCopy.push(`Item 10 Change in gait speed: ${document.querySelector('.score10').innerText}`);
         scoresToCopy.push(`Item 11 Gait + Horizontal head turns: ${document.querySelector('.score11').innerText}`);
         scoresToCopy.push(`Item 12 Gait + Pivot: ${document.querySelector('.score12').innerText}`);
         scoresToCopy.push(`Item 13 Step over Obstacle: ${document.querySelector('.score13').innerText}`);
-        scoresToCopy.push(`Item 14 TUG + TUG Cog: ${document.querySelector('.score14').innerText}`);
+        scoresToCopy.push(
+            `Item 14 TUG + TUG Cog: ${document.querySelector('.score14').innerText} ` +
+            `(TUG: ${document.querySelector('.item14TugDisplay').innerText}, ` +
+            `Cog-TUG: ${document.querySelector('.item14CognitiveTugDisplay').innerText}, ` +
+            `%Δ: ${document.querySelector('.item14PercentChangeDisplay').innerText})`
+        );
         scoresToCopy.push(`Dynamic Gait Subtotal: ${document.querySelector('.dynamic_gait_subtotal').innerText}`);
         scoresToCopy.push(`Total: ${document.querySelector('.totalScore').innerText}`);
 
@@ -1411,4 +1461,3 @@ from TUG and or new signs of imbalance."
         alert('Scores copied to clipboard!');
     });
 </script>
-

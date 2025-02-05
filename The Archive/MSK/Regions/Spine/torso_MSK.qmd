@@ -192,9 +192,12 @@ Check the angle between the pelvis and one or both of the lower extremities @jon
 - Follow each bony segment up the chain to the pelvis [@jonesProjectPhysicalTherapy2025].
 - "Each segment of the trunk will attempt to absorb and couner the positioning of the pelvis in attempts to neutralize alignment" @jonesProjectPhysicalTherapy2025
 
-## Observation
+## Alignment
 
-Items to note:
+- Overall curvature
+- 
+
+# Palpation
 
 ::: {.columns}
 ::: {.column}
@@ -217,10 +220,6 @@ Items to note:
 
 :::
 :::
-
-
-
-
 
 
 Patient positioning

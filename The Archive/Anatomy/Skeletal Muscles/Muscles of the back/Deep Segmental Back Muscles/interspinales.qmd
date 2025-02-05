@@ -2,16 +2,6 @@
 title: Interspinales Muscle
 ---
 
-# OIAN
-
-![Posterior view of the deep segmental back muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/images/313b Deep intrinsic back muscles.png)
-
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Interspinales Cervicis]({{< var ref-interspinales-cervicis.path >}}) | {{< var ref-interspinales-cervicis.origin >}} | {{< var ref-interspinales-cervicis.insertion >}} | {{< var ref-interspinales-cervicis.nerve >}} | {{< var ref-interspinales-cervicis.action >}} |
-| [Interspinales Lumbora]({{< var ref-interspinales-lumbora.path >}}) | {{< var ref-interspinales-lumbora.origin >}} | {{< var ref-interspinales-lumbora.insertion >}} | {{< var ref-interspinales-lumbora.nerve >}} | {{< var ref-interspinales-lumbora.action >}} |
-
-: Interspinales Muscles OIAN {.striped .hover}
 
 ```{python tbl-interspinales-muscles-oian}
 #| label: tbl-interspinales-muscles-oian
@@ -49,6 +39,10 @@ else:
 
 ```
 
+# Overview
+
+The *interspinales muscle* exists throughout the spine, but is separated into two sections: [*interspinalis cervicis*](#interspinales-cervicis) and [*interspinalis lumbora*](#interspinales-lumbora) since these two regions are where the muscle is most defined @jonesProjectFoundations2025.
+
 
 # Interspinales Cervicis
 ## Origin {#origin}
@@ -77,3 +71,7 @@ L1-L5: SP of superiorly adjacent vertebrae @gilroyAtlasAnatomy2020
 
 - **BIL**: Stabilizes and extends cervical and lumbar vertebrae @gilroyAtlasAnatomy2020
 - **UNIL**: I/L SB cervical and lumbar spines @gilroyAtlasAnatomy2020
+
+# Practical function
+
+Since these muscles can act to extend each vertebrae individually and how close they run to the intervertebral joint, these muscles play a role in segmental stabilization of the spine @jonesProjectFoundations2025.

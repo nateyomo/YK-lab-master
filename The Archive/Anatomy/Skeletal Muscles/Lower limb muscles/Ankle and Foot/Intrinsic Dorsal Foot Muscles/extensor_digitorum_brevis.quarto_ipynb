@@ -17,7 +17,7 @@
         "\n",
         "# Overview\n"
       ],
-      "id": "799f284f"
+      "id": "1f697c30"
     },
     {
       "cell_type": "code",
@@ -74,6 +74,7 @@
         "Bases of middle phalanges of digits 2-4 @gilroyAtlasAnatomy2020\n",
         "\n",
         "\n",
+        "According to Brad Jones @jonesProjectFoundations2025, the EDB inserts distally on the lateral aspect of the [EDL tendons]({{< var ref-extensor-digitorum-longus.path >}}) @jonesProjectFoundations2025.\n",
         "\n",
         "# Nerve\n",
         "\n",
@@ -82,13 +83,17 @@
         "# Action {#action}\n",
         "**MTP/PIP 2-4**: Extension @gilroyAtlasAnatomy2020\n",
         "\n",
+        "::: {.callout-note}\n",
+        "Since the EDB only inserts and acts on toes 2-4, the 5th (pinky) toe only extends through [EDL]({{< var ref-extensor-digitorum-longus.action >}}) contraction @jonesProjectFoundations2025.\n",
+        ":::\n",
+        "\n",
         "# MMT \n",
         "\n",
         "\"The EDL and the EDB muscles produce the motion of extension at the MTP and IP joints of the lateral four digits from a flexed position.\" @duttonDuttonOrthopaedicExamination2020\n",
         "\n",
         "- Apply resistance dorsal surface of the proximal and distal phalanges into toe flexion @duttonDuttonOrthopaedicExamination2020 "
       ],
-      "id": "a74b4b2b"
+      "id": "4f13b11f"
     }
   ],
   "metadata": {

@@ -16,7 +16,7 @@
         "![Medial Thigh muscle superficial layer @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/images/gilroyatlas fig31.22b medial thigh superficial layer.png)\n",
         ":::\n"
       ],
-      "id": "a40b09f0"
+      "id": "04d9711e"
     },
     {
       "cell_type": "code",
@@ -64,6 +64,10 @@
       "cell_type": "markdown",
       "metadata": {},
       "source": [
+        "# Overview\n",
+        "\n",
+        "The gracilis is the only [primary adductor]({{< var ref-hip-adductor-muscle-group.path >}}) that crosses the knee.\n",
+        "\n",
         "# Origin {#origin}\n",
         "\n",
         "- Inferior pubic ramus @gilroyAtlasAnatomy2020\n",
@@ -88,7 +92,7 @@
         "\n",
         "# Overview"
       ],
-      "id": "131bcc29"
+      "id": "d9272746"
     }
   ],
   "metadata": {

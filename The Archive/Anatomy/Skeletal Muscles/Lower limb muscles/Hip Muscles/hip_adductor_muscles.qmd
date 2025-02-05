@@ -8,7 +8,7 @@ title: Hip Adductor Muscles
 
 ### Primary
 
-
+The *Adductor group* refers to the 5 Primary adductor muscles @bielTrailGuideBody2019:
 
 - [Pectineus]({{< var ref-pectineus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
 - [Adductor Longus]({{< var ref-adductor-longus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
@@ -19,99 +19,112 @@ title: Hip Adductor Muscles
 ### Secondary
 
 - [Biceps Femoris Long Head]({{< var ref-biceps-femoris-long-head.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
-- [Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) (inferior/ posterior fibers) @neumannKinesiologyMusculoskeletalSystem2017
+- [Gluteus Maximus (inferior/ posterior fibers)]({{< var ref-gluteus-maximus.path >}})  @neumannKinesiologyMusculoskeletalSystem2017
 - [Quadratus Femoris]({{< var ref-quadratus-femoris.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
 - [Obturator Externus]({{< var ref-obturator-externus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
 
 :::
 
-# Primary
-
 ```{python tbl-primary-hip-adductor-oian}
-#| label: tbl-primary-hip-adductor-oian
-#| warning: false
-#| message: false
-#| echo: false
-#| tbl-cap: "Primary hip adductors"
+    #| label: tbl-primary-hip-adductor-oian
+    #| warning: false
+    #| message: false
+    #| echo: false
+    #| tbl-cap: "Primary hip adductors"
 
-from pathlib import Path
-import pandas as pd
-from pyprojroot import here
-from IPython.core.display import display, HTML
+    from pathlib import Path
+    import pandas as pd
+    from pyprojroot import here
+    from IPython.core.display import display, HTML
 
-# Set the path for the script file
-script_file_path = here("scripts/process_oian_table.py")
+    # Set the path for the script file
+    script_file_path = here("scripts/process_oian_table.py")
 
-# Check if the script file exists
-if script_file_path.exists():
-    import sys
-    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+    # Check if the script file exists
+    if script_file_path.exists():
+        import sys
+        sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-    from process_oian_table import process_oian_table  # Import the specific function
+        from process_oian_table import process_oian_table  # Import the specific function
 
-    # Define the column to filter by and the identifiers to include
-    filter_column = 'functional_group_identifier'  # Choose the column you want to filter by
-    filter_identifiers = ['primary_hip_adductor']  # Replace with actual identifiers you want to include
+        # Define the column to filter by and the identifiers to include
+        filter_column = 'functional_group_identifier'  # Choose the column you want to filter by
+        filter_identifiers = ['primary_hip_adductor']  # Replace with actual identifiers you want to include
 
-    # Call the function to get the HTML table with filtering
-    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+        # Call the function to get the HTML table with filtering
+        html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
 
-    if html_table:
-        # Render the HTML table for display
-        display(HTML(html_table))  # Use display to render the HTML properly
-else:
-    print("Script file does not exist. Please check the path.")
+        if html_table:
+            # Render the HTML table for display
+            display(HTML(html_table))  # Use display to render the HTML properly
+    else:
+        print("Script file does not exist. Please check the path.")
 
 ```
-
-# Secondary
 
 ```{python tbl-secondary-hip-adductor-oian}
-#| label: tbl-secondary-hip-adductor-oian
-#| warning: false
-#| message: false
-#| echo: false
-#| tbl-cap: "Secondary hip adductors"
+    #| label: tbl-secondary-hip-adductor-oian
+    #| warning: false
+    #| message: false
+    #| echo: false
+    #| tbl-cap: "Secondary hip adductors"
 
-from pathlib import Path
-import pandas as pd
-from pyprojroot import here
-from IPython.core.display import display, HTML
+    from pathlib import Path
+    import pandas as pd
+    from pyprojroot import here
+    from IPython.core.display import display, HTML
 
-# Set the path for the script file
-script_file_path = here("scripts/process_oian_table.py")
+    # Set the path for the script file
+    script_file_path = here("scripts/process_oian_table.py")
 
-# Check if the script file exists
-if script_file_path.exists():
-    import sys
-    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+    # Check if the script file exists
+    if script_file_path.exists():
+        import sys
+        sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-    from process_oian_table import process_oian_table  # Import the specific function
+        from process_oian_table import process_oian_table  # Import the specific function
 
-    # Define the column to filter by and the identifiers to include
-    filter_column = 'functional_group_identifier'  # Choose the column you want to filter by
-    filter_identifiers = ['secondary_hip_adductor']  # Replace with actual identifiers you want to include
+        # Define the column to filter by and the identifiers to include
+        filter_column = 'functional_group_identifier'  # Choose the column you want to filter by
+        filter_identifiers = ['secondary_hip_adductor']  # Replace with actual identifiers you want to include
 
-    # Call the function to get the HTML table with filtering
-    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+        # Call the function to get the HTML table with filtering
+        html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
 
-    if html_table:
-        # Render the HTML table for display
-        display(HTML(html_table))  # Use display to render the HTML properly
-else:
-    print("Script file does not exist. Please check the path.")
+        if html_table:
+            # Render the HTML table for display
+            display(HTML(html_table))  # Use display to render the HTML properly
+    else:
+        print("Script file does not exist. Please check the path.")
 
 ```
 
+# Anatomical Layers
 
+## Anterior view
 
-# Hip Adduction / Wall Assist / Hand Resist
+When viewed anteriorly, we can break down the primary adductor group into 3 layers:
+
+1. Anterior Superficial (Most anterior): Pectineus and adductor longus
+    1. The gracilis is also superficial, but lies more medial than the pectineus and adductor longus
+1. Anterior Intermediate: Adductor brevis
+1. Anterior Deep (Most posterior): Adductor magnus
+
+::: {.callout-tip}
+Due to the Adductor magnus' broad shape and posterior location, it is called the "floor of the adductors" @bielTrailGuideBody2019.
+:::
+
+# Foundational Exercises
+
+- [Hip Adduction / Wall Assist / Hand Resist](#hip-adduction--wall-assist--hand-resist)
+
+## Hip Adduction / Wall Assist / Hand Resist
 
 <!-- Read hip_msk for more info or updated info -->
 
 "Using a wall to assist in performing hand resistant hip adduction is not a true adduction movement. The adduction is coming from flexion + abduction + rotation position into flexion/adduction/rotation AROM. The goal is to activate hip adduction to release muscle guarding into greater pROM hip abduction range" @jonesProjectFoundations2025.
 
-## Setup
+### Setup
 
 The setup is similar to the *wall sit foundational exercise* but instead of a "V" position of the lower extremity, we employ the "butterfly" position @jonesProjectFoundations2025.
 

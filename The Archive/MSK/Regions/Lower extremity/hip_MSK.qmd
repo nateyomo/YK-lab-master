@@ -78,10 +78,53 @@ To assess the hip here is how i usually start:
 - assess the tendinous insertions of the Hip's deep stabilizer muscles
 - Assess/treat the muscle bellies of the deep stabilizers.
 
+### Adductor palpation
+
+
+- Patient positioned in *prone*
+- Start at ischial tuberosity and role infero-medially
+    - Note the difference in fiber direction and depth between the hamstring fibers and the adductor fibers
+    - At the ischial tuberosity, you should be able to palpate the [origin of the adductor magnus]({{< var ref-adductor-magnus.origin >}})
+- Work your way down the femoral shaft, rolling medially to palpate the insertions of the adductors
+- Proximal 1/4 of the femoral shaft
+    - The adductor magnus will be the most posteriorly superficial adductor muscle.
+    - After diving through the adductor magnus you will reach the posterior intermediate compartment, and you will palpate the adductor brevis.
+    - Lastly, the pectineus inserts most anteriorly and thus will be palpated last.
+- Middle half of the femoral shaft
+    - You will first palpate the adductor magnus
+    - Diving deeper, you will be able to palpate adductor longus and adductor brevis.
+    - Both of these muscles are at the intermediate layer, and thus transition between these two muscles should be at the same depth.
+    - The adductor brevis muscle will be more superior
+    - The adductor longus inserts inferior to the adductor brevis.
+- Distal 1/4
+    - The adductor longus' insertion will end by the distal 1/4 of the femur.
+    - The adductor magnus' insertion will also stop and then reinsert at the *adductor tubercle*.
+        - The space created is the *adductor hiatus*.
+
+### Sidelying palpation
+
+
+- IT Band
+    - Follow it proximally as it moves anterolaterally to join the TFL
+    - Palpate it posterolaterally as it joins the gluteus maximus proximally
+    - Assess the IT band against the femur as moves distally
+    - It should feel fibrous, but the layers should be able to shear freely
+    - Feel how the IT band acts as a divider between the lateral quadriceps and the hamstrings.
+- TFL
+- Glute max
+    - Its transition in the IT Band
+- Glute med and glute min
+- Assess the lateral roll and inferomedial glide of the femoroacetabular joint.
+    - Press under the greater trochanter and into the femoral neck.
+    - Normal: Elastic feeling
+    - Abnormal: Premature and rigid end feel (no elastic bounce/give)
+
 ## Rotation assessment
 
 Hip rotation is a solid starting point for assessing the quality of the hip's range of motion.
 This test can assess the quality of both *internal rotation* and *extension*.
+
+
 
 ## Posterior hip muscle pathways
 
@@ -176,8 +219,22 @@ Adduction of the hips refers to when the leg pivots medially relative to the pel
 
 Hip adduction is a *relative* movement, only occurring when moving *from* abduction to neutral @jonesProjectFoundations2025.
 
+Exercises include:
 
-## Hip Adduction / Wall Assist / Hand Resist
+- [Seated wall Hip adduction contract relax](#seated-wall-hip-adduction-contract-relax)
+
+# Foundational Exercises
+
+
+- [Seated wall Hip adduction contract relax](#seated-wall-hip-adduction-contract-relax)
+    - Adductor stretch
+    - Abduction ROM (not true abduction)
+- Dead bugs
+    - Hip flexor activation
+- 
+
+
+## Hip Adduction / Wall Assist / Hand Resist {#seated-wall-hip-adduction-contract-relax}
 
 "Using a wall to assist in performing hand resistant hip adduction is not a true adduction movement. The adduction is coming from flexion + abduction + rotation position into flexion/adduction/rotation AROM. The goal is to activate hip adduction to release muscle guarding into greater pROM hip abduction range" @jonesProjectFoundations2025.
 

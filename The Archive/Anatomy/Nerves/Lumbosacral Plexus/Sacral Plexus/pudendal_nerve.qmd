@@ -48,3 +48,5 @@ gt_table
 # Cutaneous Innervation
 
 # Dysfunction
+
+- Deep gluteal syndrome is an increasingly recognized disease entity, caused by compression of the sciatic or pudendal nerve due to non-discogenic pelvic lesions

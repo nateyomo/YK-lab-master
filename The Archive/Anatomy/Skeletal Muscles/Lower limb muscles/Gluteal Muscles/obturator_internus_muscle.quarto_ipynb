@@ -6,12 +6,9 @@
       "source": [
         "---\n",
         "title: Obturator Internus Muscle (OI)\n",
-        "---\n",
-        "\n",
-        "\n",
-        "# Overview\n"
+        "---"
       ],
-      "id": "0d3d05ad"
+      "id": "ba4e9f63"
     },
     {
       "cell_type": "code",
@@ -88,13 +85,16 @@
         "\n",
         "“Ultrasound ­guided EMG analysis of the obturator internus and several other external rotator muscles in 10 human subjects.98 The obturator internus was usually the first muscle to become active during a gradually increasing isometric effort to abduct and externally rotate the hip.” @neumannKinesiologyMusculoskeletalSystem2017\n",
         "\n",
+        "# Dysfunction\n",
+        "\n",
+        "- Gemelli-obturator internus syndrome\n",
         "\n",
         "# Stretch\n",
         "\n",
         "Child's Pose stretch can be used to stretch the Obturator Internus muscle.\n",
         "By cueing the knees to stay straight instead of moving into hip ER, this better stretches the obturator internus."
       ],
-      "id": "fcf179d9"
+      "id": "a70068f1"
     }
   ],
   "metadata": {

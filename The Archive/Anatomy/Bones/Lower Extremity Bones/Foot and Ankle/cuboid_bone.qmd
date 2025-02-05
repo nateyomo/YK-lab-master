@@ -3,16 +3,130 @@ title: Cuboid bone
 ---
 
 
+
+::: {.callout}
 "As its name indicates, the cuboid has six surfaces, three of which articulate with adjacent tarsal bones (see Figs. 14.4, 14.5, and 14.7). The distal surface articulates with the bases of both the fourth and the fifth metatarsals. The cuboid is therefore homologous to the hamate bone in the wrist." @neumannKinesiologyMusculoskeletalSystem2017 
 
 "The entire, curved proximal surface of the cuboid articulates with the calcaneus (see Fig. 14.4). The medial surface has an oval facet for articulation with the lateral cuneiform and a small facet for articulation with the navicular. A distinct groove runs across the plantar surface of the cuboid, which in life is occupied by the tendon of the fibularis longus muscle (see Fig. 14.5)." @neumannKinesiologyMusculoskeletalSystem2017
+:::
+
+
+
+The cuboid is supported by the [fibularis longus]({{< var ref-fibularis-longus.path >}}) as its tendon passes around the lateral and inferior aspect of the cuboid as it runs towards its insertion on the medial cuneiform and [base of 1st metatarsal]({{< var ref-1st-metatarsal-bone.base >}}).
+
+
+
+# Muscular attachments
+
+
+::: {#tbl-cuboid-insertion}
+
+```{python tbl-cuboid-insertion-oian}
+#| label: tbl-cuboid-insertion-oian
+#| warning: false
+#| message: false
+#| echo: false
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'insertion_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['cuboid_bone']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+Muscular insertions on the cuboid
+
+:::
+
+
+::: {#tbl-cuboid-origins}
+
+```{python tbl-cuboid-origin-oian}
+#| label: tbl-cuboid-origin-oian
+#| warning: false
+#| message: false
+#| echo: false
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'origin_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['cuboid_bone']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+Muscles originating from the cuboid
+:::
+
 
 # Joints
 
-> "An understanding of the shape of the talus is crucial to understanding much of the kinesiology of the ankle and foot" @neumannKinesiologyMusculoskeletalSystem2017
+::: {.callout}
+
+"An understanding of the shape of the talus is crucial to understanding much of the kinesiology of the ankle and foot" @neumannKinesiologyMusculoskeletalSystem2017
 
 "As will be described, the talus is mechanically involved with all three of these joints. The multiple articulations made by the talus help to explain the bone’s complex shape, with nearly 70% of its surface covered with articular cartilage. An understanding of the shape of the talus is crucial to understanding much of the kinesiology of the ankle and foot." @neumannKinesiologyMusculoskeletalSystem2017
+:::
+
+# Mechanics
+
+The cuboid functions better in plantarflexion, rather than extension.
+
+
+
+
 
 # Palpation
 
 The cuboid bone can be palpated by moving distally approximately one finger-breadth from the sinus tarsi @duttonDuttonOrthopaedicExamination2020 
+
+
+
+# Assessment
+
+- Assess relative cuboid movement 

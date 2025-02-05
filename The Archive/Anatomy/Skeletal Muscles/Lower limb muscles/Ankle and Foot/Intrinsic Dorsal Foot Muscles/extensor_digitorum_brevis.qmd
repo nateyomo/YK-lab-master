@@ -56,6 +56,7 @@ Calcaneus (lateral dorsal surface) @gilroyAtlasAnatomy2020
 Bases of middle phalanges of digits 2-4 @gilroyAtlasAnatomy2020
 
 
+According to Brad Jones @jonesProjectFoundations2025, the EDB inserts distally on the lateral aspect of the [EDL tendons]({{< var ref-extensor-digitorum-longus.path >}}) @jonesProjectFoundations2025.
 
 # Nerve
 
@@ -63,6 +64,10 @@ Bases of middle phalanges of digits 2-4 @gilroyAtlasAnatomy2020
 
 # Action {#action}
 **MTP/PIP 2-4**: Extension @gilroyAtlasAnatomy2020
+
+::: {.callout-note}
+Since the EDB only inserts and acts on toes 2-4, the 5th (pinky) toe only extends through [EDL]({{< var ref-extensor-digitorum-longus.action >}}) contraction @jonesProjectFoundations2025.
+:::
 
 # MMT 
 

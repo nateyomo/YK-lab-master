@@ -46,6 +46,10 @@ else:
 
 ```
 
+# Overview
+
+The gracilis is the only [primary adductor]({{< var ref-hip-adductor-muscle-group.path >}}) that crosses the knee.
+
 # Origin {#origin}
 
 - Inferior pubic ramus @gilroyAtlasAnatomy2020

@@ -22,10 +22,29 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../../../../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../../../../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
@@ -69,10 +88,14 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
 <link rel="stylesheet" href="../../../../styles.css">
 <meta name="twitter:title" content="L5 Vertebrae">
+<meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
 <meta name="twitter:site" content="@yomokerst">
 <meta name="twitter:card" content="summary">
@@ -127,7 +150,13 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#malalignment" id="toc-malalignment" class="nav-link active" data-scroll-target="#malalignment">Malalignment</a></li>
+  </ul>
+</nav>
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
@@ -182,10 +211,63 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="malalignment" class="level1">
+<h1>Malalignment</h1>
+<p>Unlike T12-L4, the psoas major does <em>not</em> have an origin on the vertebral body or IVD of L5 in most cases<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span>. However, psoas major does attach to L5’s transverse process which can result inipsilateral rotation of that segment if dysfunctional.</p>
+<div class="cell" data-message="false" data-execution_count="1">
+<div id="tbl-psoas-major-minor-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="1" data-message="false">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-psoas-major-minor-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Psoas Major
+</figcaption>
+<div aria-describedby="tbl-psoas-major-minor-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display">
+<table class="dataframe oian-table do-not-create-environment cell caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th">Muscle</th>
+<th data-quarto-table-cell-role="th">Origin</th>
+<th data-quarto-table-cell-role="th">Insertion</th>
+<th data-quarto-table-cell-role="th">Innervation</th>
+<th data-quarto-table-cell-role="th">Action</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Iliopsoas%20muscles/psoas_major_muscle.html">Psoas Major</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Iliopsoas%20muscles/psoas_major_muscle.html#origin">T12-L4 and associated IV discs</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Iliopsoas%20muscles/psoas_major_muscle.html#origin">L1-L5 TP</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Iliopsoas%20muscles/psoas_major_muscle.html#insertion">Lesser Trochanter</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Iliopsoas%20muscles/psoas_major_muscle.html#nerve">Lumbar Plexus Direct Br.</a><br>
+L1 - L3</td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Iliopsoas%20muscles/psoas_major_muscle.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Iliopsoas%20muscles/psoas_major_muscle.html#action">ER</a><br>
+<strong>L/S (unilateral contraction with femur fixed)</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Iliopsoas%20muscles/psoas_major_muscle.html#action">I/L spine sidebend</a><br>
+<strong>L/S (bilateral contraction)</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Iliopsoas%20muscles/psoas_major_muscle.html#action">Raises trunk from supine position</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</figure>
+</div>
+</div>
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-gilroyAtlasAnatomy2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Gilroy AM, MacPherson BR, Wikenheiser JC, Voll MM, Wesker K, Schünke M, eds. <em>Atlas of Anatomy</em>. 4th ed. Thieme; 2020.</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. L5 Vertebrae. <a href="https://yomokerst.com/The Archive/Anatomy/Bones/Vertebrae/l5_vertebrae_bone.html">https://yomokerst.com/The
 Archive/Anatomy/Bones/Vertebrae/l5_vertebrae_bone.html</a></div>
 </div></div></section></div></main> <!-- /main -->

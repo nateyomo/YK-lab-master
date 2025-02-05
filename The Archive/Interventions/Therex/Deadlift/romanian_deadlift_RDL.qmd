@@ -1,0 +1,11 @@
+---
+title: Romanian Deadlift (RDL)
+---
+
+
+
+The *Romanian deadlift (RDL)* is a deadlift variation where the hip and knee move together from the *active tall extension* position into a deadlift pattern.
+At about 50% into a deadlift pattern, the knee becomes static and the hip continues into a full deadlift.
+
+I do not employ this deadlift variation clinically since you are building a movement pattern where the hip and knee do not have coordinated sequencing and you should just perform a standard deadlift for sequence patterning.
+In addition, this deadlift variation involves dynamic knee and hip movement, thus is not as good at isolating the hip as the [modified deadlift]({{< var ref-modified-deadlift.path >}}).

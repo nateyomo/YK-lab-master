@@ -1,12 +1,29 @@
 ---
-title: Musculoskeletal Approach to the Knee
+title: Knee Region
+subtitle: A Musculoskeletal Overview
 ---
 
+The knee region as a whole exists as an intermediate to link the hip and ankle/foot.
+This region consists of [joints](#joints) that primarily perform sagittal flexion and extension in order to control the distance between the body and the ground @jonesProjectFoundations2025.
 
-# Anatomy
+
+# Development
+
+The patellofemoral joint (PFJ) does not even have a patella until ages 2-6 years.
+As a baby takes its first steps ~12mo, the lower extremity begins to adapt and develop *with purpose* @jonesProjectFoundations2025.
+
+# Joints {#joint}
+
+The joints of the knee work together to primarily create sagittal plane flexion-extension.
 
 - Tibiofemoral joint
 - Patellofemoral Joint
+
+## Axis of Rotation
+
+Flexion and extension are sagittal plane movements, thus the *axis of rotation* occurs in the frontal plane.
+This AOR passes through the femoral condyles.
+
 
 
 :::{.callout-note title="Find an area for this"}
@@ -43,7 +60,15 @@ title: Musculoskeletal Approach to the Knee
 
 :::
 
-# Valgus
+# Alignment
+
+## Q-angle
+
+## Varus 
+
+
+
+## Valgus
 
 :::{layout-ncol="3"}
 ### Kinematics

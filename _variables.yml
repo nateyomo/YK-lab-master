@@ -46,6 +46,7 @@ ref-bone-index:
 ref-sternum-bone:
   path: "/The Archive/Anatomy/Bones/Bones of the trunk/sternum_bone.html"
   manubrium: "/The Archive/Anatomy/Bones/Bones of the trunk/sternum_bone.html"
+  xiphoid-process: "/The Archive/Anatomy/Bones/Bones of the trunk/sternum_bone.html"
 ref-1st-rib-bone:
   path: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib_bone.html"
   hypomobility: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib_bone.html#hypomobility"
@@ -204,8 +205,10 @@ ref-lateral-cuneiform-bone:
   path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/cuneiforms/lateral_cuneiform_bone.html"
 ref-1st-metatarsal-bone:
   path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/Metatarsals/1st_metatarsal_bone.html"
+  base: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/Metatarsals/1st_metatarsal_bone.html#base"
 ref-2nd-metatarsal-bone:
   path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/Metatarsals/2nd_metatarsal_bone.html"
+  base: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/Metatarsals/2nd_metatarsal_bone.html#base"
 ref-3rd-metatarsal-bone:
   path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/Foot and Ankle/Metatarsals/3rd_metatarsal_bone.html"
 ref-4th-metatarsal-bone:
@@ -351,9 +354,9 @@ ref-femoroacetabular-joint:
 ref-tibiofemoral-joint:
   path: "/The Archive/Anatomy/Joints/LE Joints/TFJ_tibiofemoral_joint.html"
 ref-proximal-tibiofibular-joint:
-  path: "/The Archive/Anatomy/Joints/LE Joints/proximal_tibiofibular_joint.html"
+  path: "/The Archive/Anatomy/Joints/LE Joints/tibiofibular_joints.html"
 ref-distal-tibiofibular-joint:
-  path: "/The Archive/Anatomy/Joints/LE Joints/distal_tibiofibular_joint.html"
+  path: "/The Archive/Anatomy/Joints/LE Joints/tibiofibular_joints.html"
 
 ref-talocrural-joint:
   path: "/The Archive/Anatomy/Joints/LE Joints/Foot and Ankle Joints/talocrural_joint_TCJ.html"
@@ -443,6 +446,15 @@ ref-interscalene-triangle:
 ## oian
 ref-oians: 
   path: "/The Archive/Anatomy/Skeletal Muscles/OIAN.html"
+
+### Abdominal wall
+
+ref-pyramidalis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/Anterior Abdominal Wall Muscles/pyramidalis_muscle.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/Anterior Abdominal Wall Muscles/pyramidalis_muscle.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/Anterior Abdominal Wall Muscles/pyramidalis_muscle.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/Anterior Abdominal Wall Muscles/pyramidalis_muscle.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/Anterior Abdominal Wall Muscles/pyramidalis_muscle.html#action" 
 
 ### Muscles of the back
 ref-sternalis:
@@ -658,36 +670,38 @@ ref-interspinales-lumbora:
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/interspinales.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/interspinales.html#action"
 
+ref-intertransversarii-muscle-group:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/intertransversarii.html"
 ref-anterior-intertransversarii-cervicis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/anterior_intertransversarii_cervicis.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/anterior_intertransversarii_cervicis.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/anterior_intertransversarii_cervicis.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/anterior_intertransversarii_cervicis.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/anterior_intertransversarii_cervicis.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/anterior_intertransversarii_cervicis.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/anterior_intertransversarii_cervicis.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/anterior_intertransversarii_cervicis.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/anterior_intertransversarii_cervicis.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/anterior_intertransversarii_cervicis.html#action"
 ref-posterior-intertransversarii-cervicis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/posterior_intertransversarii_cervicis.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/posterior_intertransversarii_cervicis.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/posterior_intertransversarii_cervicis.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/posterior_intertransversarii_cervicis.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/posterior_intertransversarii_cervicis.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/posterior_intertransversarii_cervicis.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/posterior_intertransversarii_cervicis.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/posterior_intertransversarii_cervicis.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/posterior_intertransversarii_cervicis.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/posterior_intertransversarii_cervicis.html#action"
 ref-medial-intertransversarii-cervicis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/medial_intertransversarii_cervicis.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/medial_intertransversarii_cervicis.html#origin"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/medial_intertransversarii_cervicis.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/medial_intertransversarii_cervicis.html#origin"
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/medial_intertransversarii_cervicis.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/medial_intertransversarii_cervicis.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/medial_intertransversarii_cervicis.html#action"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/medial_intertransversarii_cervicis.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/medial_intertransversarii_cervicis.html#action"
 ref-medial-intertransversarii-lumbora:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/medial_intertransversarii_lumbora.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/medial_intertransversarii_lumbora.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/medial_intertransversarii_lumbora.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/medial_intertransversarii_lumbora.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/medial_intertransversarii_lumbora.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/medial_intertransversarii_lumbora.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/medial_intertransversarii_lumbora.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/medial_intertransversarii_lumbora.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/medial_intertransversarii_lumbora.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/medial_intertransversarii_lumbora.html#action"
 ref-lateral_intertransversarii_lumbora:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/lateral_intertransversarii_lumbora.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/lateral_intertransversarii_lumbora.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/lateral_intertransversarii_lumbora.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/lateral_intertransversarii_lumbora.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/lateral_intertransversarii_lumbora.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/lateral_intertransversarii_lumbora.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/lateral_intertransversarii_lumbora.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/lateral_intertransversarii_lumbora.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/lateral_intertransversarii_lumbora.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/Intertransversarii muscles/lateral_intertransversarii_lumbora.html#action"
 ref-levatores-costarum-breves:
   path: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/levatores_costarum.html"
   origin: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/levatores_costarum.html#origin"
@@ -1413,9 +1427,9 @@ ref-quadratus-femoris:
 ref-hip-abductor-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_abductor_muscles.html"
 ref-hip-adductor-muscle-group:
-  path: "/"
-  primary: "[Pectineus]({{< var ref-pectineus.path >}}) </br> [Gracilis]({{< var ref-gracilis.path >}}) </br> [Adductor Longus]({{< var ref-adductor-longus.path >}}) </br> [Adductor Brevis]({{< var ref-adductor-brevis.path >}}) </br> [Adductor Magnus]({{< var ref-adductor-magnus.path >}})"
-  secondary: "[Gluteus Maximus]({{< var ref-gluteus-maximus.path >}}) (*especially inferior fibers*) </br> [Quadratus Femoris]({{< var ref-quadratus-femoris.path >}}) </br> [Obturator Externus]({{< var ref-obturator-externus.path >}}) </br> [Biceps Femoris Long Head]({{< var ref-biceps-femoris-long-head.path >}})"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_adductor_muscles.html"
+  primary: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_adductor_muscles.html"
+  secondary: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_adductor_muscles.html"
 ref-hip-flexor-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_flexor_muscles.html"
   mmt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_flexor_muscles.html"
@@ -1562,6 +1576,8 @@ ref-tibialis-anterior:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/tibialis_anterior.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/tibialis_anterior.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/tibialis_anterior.html#action"
+  mmt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/tibialis_anterior.html#mmt"
+
 
 ref-extensor-hallucis-longus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/extensor_hallucis_longus_EHL.html"
@@ -1615,6 +1631,7 @@ ref-tibialis-posterior:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.html#action"
+  mmt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.html#mmt"
   tendonitis: "/The Archive/Pathologies/Joint pathologies/Ankle and Foot/Tendinopathy/tibialis_posterior_tendonitis.html"
   pails-rails: "/The Archive/Pathologies/Joint pathologies/Ankle and Foot/Tendinopathy/tibialis_posterior_tendonitis.html#pails-rails"
 ref-flexor-digitorum-longus:
@@ -1645,6 +1662,7 @@ ref-fibularis-longus:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus_muscle.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus_muscle.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus_muscle.html#action"
+  mmt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus_muscle.html#mmt"
 
 ref-fibularis-brevis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis_muscle.html"
@@ -1652,6 +1670,8 @@ ref-fibularis-brevis:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis_muscle.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis_muscle.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis_muscle.html#action"
+  mmt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis_muscle.html#mmt"
+
 
 
 ### Intrinsic Dorsal foot muscles
@@ -2560,8 +2580,10 @@ ref-fulcrum-test-stress-fracture:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/fulcrum_test_stress_fracture.html"
 ref-straight-leg-raise-test:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/straight_leg_raise_test.html"
+  contract-relax: "/The Archive/Examination/Tests and Measures/Lower extremity tests/straight_leg_raise_test.html#contract-relax"
 ref-thomas-test:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/thomas_test.html"
+  contract-relax: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/thomas_test.html#contract-relax"
 ### Foot and ankle tests
 ref-navicular-drop-test:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Ankle and Foot Tests/navicular_drop_test.html"
@@ -2571,6 +2593,9 @@ ref-external-derotation-test:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/External_Derotation_Test.html"
 ref-craigs-test:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/Craigs_test.html"
+ref-faber-test:
+  path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/FABER_test.html"
+  contract-relax: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/FABER_test.html#contract-relax"
 
 
 # genetics & Genomics
@@ -2643,14 +2668,26 @@ ref-cyriax-release-maneuver:
   path: "/The Archive/Interventions/Upper Extremity/cyriax_release_maneuver.html"
 
 ## Therex
-ref-overhead-squat:
-  path: "/The Archive/Interventions/Therex/Squat/overhead_squat.html"
 
 ### Foundational exercises
 ref-foundational-exercises:
   path: "/The Archive/Interventions/Therex/Foundational Exercises/foundational_exercises.html"
 ref-posterior-hip-table-recovery-exercise:
   path: "/The Archive/Interventions/Therex/Foundational Exercises/foundational_exercises.html#posterior-hip-table-exercise"
+
+ref-deadlift:
+  path: "/The Archive/Interventions/Therex/Foundational Exercises/deadlift_foundational_exercise.html"
+ref-modified-deadlift:
+  path: "/The Archive/Interventions/Therex/Foundational Exercises/modified_deadlift_foundational_MDL.html"
+ref-romanian-deadlift:
+  path: "/The Archive/Interventions/Therex/Foundational Exercises/romanian_deadlift_RDL.html"
+
+ref-squat:
+  path: "/"
+ref-split-squat:
+  path: "/"
+ref-overhead-squat:
+  path: "/The Archive/Interventions/Therex/Squat/overhead_squat.html"
 
 # Microbiology
 ref-microbiology-index:

@@ -2,6 +2,10 @@
 title: Talocrural Joint (TCJ)
 ---
 
+- Hinge joint between the proximal tibia and fibula with the distal talus @jonesProjectFoundations2025.
+- This joint is a chokepoint of the forces and must bear full bodyweight @jonesProjectFoundations2025.
+
+
 
 # Osteokinematics
 
@@ -13,6 +17,9 @@ title: Talocrural Joint (TCJ)
 
 
 # Arthrokinematics
+
+
+# Stability
 
 
 

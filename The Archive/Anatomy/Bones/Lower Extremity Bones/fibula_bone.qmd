@@ -13,7 +13,16 @@ The lateral malleolus acts as a pulley for the tendons of the [Fibularis Longus]
 
 The medial surface of the lateral malleolus forms the lateral aspect of the mortise that articulates with the talus in the TCJ @neumannKinesiologyMusculoskeletalSystem2017.
 
+# Fibular styloid process
 
+- Insertion of the [biceps femoris long head]({{< var ref-biceps-femoris-long-head.insertion >}})
 
+# Biomechanics
+
+The fibula moves in a diagonal direction relative to the tibia.
+
+When moving away from the tibia, the fibula moves laterally and superiorly.
+
+When moving *towards* the tibia, the fibula moves medially and inferiorly @jonesProjectFoundations2025.
 
 # Load

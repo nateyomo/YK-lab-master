@@ -21,7 +21,7 @@
         "![Tibialis Posterior insertion @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.24d tibialis posterior insertion.png)\n",
         ":::\n"
       ],
-      "id": "a0ac1a93"
+      "id": "5723f92a"
     },
     {
       "cell_type": "code",
@@ -95,8 +95,7 @@
         "- **Longitudinal Arch**: Support @gilroyAtlasAnatomy2020\n",
         "- **Transverse Arch**: Support @gilroyAtlasAnatomy2020\n",
         "\n",
-        "\n",
-        "\n",
+        "The [posterior tibialis]({{< var ref-posterior-tibialis.action >}}) and [flexor hallucis longus]({{< var ref-flexor-hallucis-longus.action >}}) also improves the stability of ankle joint by creating a dynamic pinch between the malleoli, which improves joint contact during plantarflexio @jonesProjectFoundations2025.\n",
         "\n",
         "# Tendon\n",
         "\n",
@@ -146,7 +145,7 @@
         "\n",
         "- [3D Calf Stretch]({{< var ref-3d-calf-stretch.path >}})"
       ],
-      "id": "ede783c7"
+      "id": "744e71ee"
     }
   ],
   "metadata": {

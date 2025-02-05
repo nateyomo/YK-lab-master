@@ -4,9 +4,14 @@
       "cell_type": "markdown",
       "metadata": {},
       "source": [
+        "---\n",
+        "title: Muscles of the Back\n",
+        "---\n",
+        "\n",
+        "# OIAN\n",
         "## Suboccipitals\n"
       ],
-      "id": "baecdefc"
+      "id": "42f0d475"
     },
     {
       "cell_type": "code",
@@ -62,7 +67,7 @@
         "- [Rectus Capitis anterior]({{< var ref-rectus-capitis-anterior.path >}})\n",
         "- [Rectus Capitis Lateralis]({{< var ref-rectus-capitis-lateralis.path >}})\n"
       ],
-      "id": "e4d35618"
+      "id": "7f7cf9a8"
     },
     {
       "cell_type": "code",
@@ -118,7 +123,7 @@
         "- [Splenius capitis]({{< var ref-splenius-capitis.path >}})\n",
         "- [Splenius cervicis]({{< var ref-splenius-cervicis.path >}})\n"
       ],
-      "id": "4cc83a1d"
+      "id": "89296f66"
     },
     {
       "cell_type": "code",
@@ -197,7 +202,7 @@
         ":::\n",
         ":::\n"
       ],
-      "id": "72a6357c"
+      "id": "58caf22d"
     },
     {
       "cell_type": "code",
@@ -255,7 +260,7 @@
         "- [Semispinalis Cervicis]({{< var ref-semispinalis-cervicis.path >}})\n",
         "- [Semispinalis Thoracis]({{< var ref-semispinalis-thoracis.path >}})\n"
       ],
-      "id": "075972dd"
+      "id": "6f11e8b1"
     },
     {
       "cell_type": "code",
@@ -309,7 +314,7 @@
         "- [Interspinales Cervicis]({{< var ref-interspinales-cervicis.path >}})\n",
         "- [Interspinales Lumbora]({{< var ref-interspinales-lumbora.path >}})\n"
       ],
-      "id": "de9344be"
+      "id": "60565496"
     },
     {
       "cell_type": "code",
@@ -353,6 +358,29 @@
       "id": "tbl-deep-segmental-back-oian",
       "execution_count": null,
       "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Lumbar spine muscles\n",
+        "\n",
+        "\n",
+        "For the lumbar spine, we will organize the muscles based on depth (superficial &rarr; deep) as well as location from midline (medial &rarr; lateral).\n",
+        "\n",
+        "\n",
+        "## Palpation\n",
+        "\n",
+        "### Prone\n",
+        "\n",
+        "- vertebra\n",
+        "    - SPs\n",
+        "    - spacing\n",
+        "    - rotation\n",
+        "    - Depth\n",
+        "- "
+      ],
+      "id": "fe492bbf"
     }
   ],
   "metadata": {

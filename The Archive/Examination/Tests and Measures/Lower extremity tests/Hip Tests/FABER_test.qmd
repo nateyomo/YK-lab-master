@@ -18,3 +18,9 @@ subtitle: Hip provocation maneuver
 # Interpretation
 
 A positive FABER test can help to rule in an [acetabular labral tear]({{< var ref-acetebular-labral-tear.path > >}}) @wongPhysicalExaminationHip2022.
+
+
+
+# Contract-relax Technique {#contract-relax}
+
+

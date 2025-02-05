@@ -1,0 +1,65 @@
+---
+title: Rectus Abdominis
+subtitle: Anterior abdominal wall muscle
+---
+
+
+
+```{python tbl-oian}
+#| label: tbl-rectus-abdominis-oian
+#| warning: false
+#| message: false
+#| echo: false
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'muscle_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['rectus_abdominis']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+# Origin {#origin}
+
+- Lateral head: *crest of pubis* to the *pubic tubercle* @gilroyAtlasAnatomy2020.
+- Medial head: anterior region of *pubic symphysis* @gilroyAtlasAnatomy2020.
+
+# Insertion {#insertion}
+
+- Cartilage of ribs 5-7 @gilroyAtlasAnatomy2020.
+- xiphoid process of the sternum @gilroyAtlasAnatomy2020.
+
+# Innervation {#innervation}
+
+The pyramidalis is innervated by the [Intercostal nn.]({{< var ref-intercostal-nerves.path >}}) originating from [T5]({{< var ref-nerve-root.t5 >}})-[T12]({{< var ref-nerve-root.t12 >}}) and the [Subcostal n.]({{< var ref-subcostal-nerve.path >}}) with origins from the [T12]({{< var ref-nerve-root.t12 >}}) @gilroyAtlasAnatomy2020.
+
+
+# Action {#action}
+
+- Trunk flexion @gilroyAtlasAnatomy2020
+- Abdomen compression @gilroyAtlasAnatomy2020.
+- Pelvic stabilization @gilroyAtlasAnatomy2020
+
+# Overview
