@@ -2,6 +2,12 @@
 title: Extensor Pollicis Brevis (EPB)
 ---
 
+![Mucous sheaths of the dorsal hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image424 The mucous sheaths of the tendons on the back of the wrist.gif)
+
+![Transverse section of distal forearm @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image421 Transverse section across distal ends of radius and ulna.gif)
+
+![Transverse cut of the Hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image422 Transverse section across the wrist and digits.gif)
+
 
 ```{python tbl-oian}
 #| label: tbl-oian

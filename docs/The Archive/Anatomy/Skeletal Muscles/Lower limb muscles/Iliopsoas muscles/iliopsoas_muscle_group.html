@@ -22,6 +22,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 /* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
@@ -213,15 +247,48 @@ div.csl-indent {
 </header>
 
 
-<div class="cell" data-message="false" data-execution_count="1">
-<div id="tbl-iliopsoas-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="1">
-<figure class="quarto-float quarto-float-tbl figure">
-<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-iliopsoas-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Table&nbsp;1: Iliopsoas muscle group
-</figcaption>
-<div aria-describedby="tbl-iliopsoas-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div id="0bed7fe8" class="cell" data-execution_count="1">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| label: tbl-iliopsoas-oian</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| warning: false</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| message: false</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| echo: false</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| tbl-cap: "Iliopsoas muscle group"</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> pathlib <span class="im">import</span> Path</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>    <span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> pyprojroot <span class="im">import</span> here</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> IPython.core.display <span class="im">import</span> display, HTML</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Set the path for the script file</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>    script_file_path <span class="op">=</span> here(<span class="st">"scripts/process_oian_table.py"</span>)</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Check if the script file exists</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> script_file_path.exists():</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>        <span class="im">import</span> sys</span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>        sys.path.append(<span class="bu">str</span>(script_file_path.parent))  <span class="co"># Add the directory of the script to the system path</span></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>        <span class="im">from</span> process_oian_table <span class="im">import</span> process_oian_table  <span class="co"># Import the specific function</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>        <span class="co"># Define the column to filter by and the identifiers to include</span></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>        filter_column <span class="op">=</span> <span class="st">'group_identifier'</span>  <span class="co"># Choose the column you want to filter by</span></span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>        filter_identifiers <span class="op">=</span> [<span class="st">'iliopsoas_muscles'</span>]  <span class="co"># Replace with actual identifiers you want to include</span></span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>        <span class="co"># Call the function to get the HTML table with filtering</span></span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>        html_table <span class="op">=</span> process_oian_table(filter_column<span class="op">=</span>filter_column, filter_identifiers<span class="op">=</span>filter_identifiers)</span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span> html_table:</span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a>            <span class="co"># Render the HTML table for display</span></span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>            display(HTML(html_table))  <span class="co"># Use display to render the HTML properly</span></span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span>:</span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>        <span class="bu">print</span>(<span class="st">"Script file does not exist. Please check the path."</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>/var/folders/1l/3yjsq4vn4q92b8_bq89ptr800000gn/T/ipykernel_87717/2050710442.py:10: DeprecationWarning:
+
+Importing display from IPython.core.display is deprecated since IPython 7.14, please import from IPython.display
+</code></pre>
+</div>
 <div class="cell-output cell-output-display">
-<table class="dataframe oian-table do-not-create-environment cell caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<table class="dataframe oian-table caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
 <colgroup>
 <col style="width: 20%">
 <col style="width: 20%">
@@ -275,14 +342,12 @@ L1 - L3</td>
 </table>
 </div>
 </div>
-</figure>
-</div>
-</div>
+<p>The iliopsoas is the most powerful hip flexor<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">1</a></sup></span>.</p>
 <section id="mmt" class="level1">
 <h1>Manual muscle tests</h1>
 <p>The iliopsoas muscle group act as synergists during:</p>
 <ul>
-<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#mmt">Unilateral SCM MMT</a><span class="citation" data-cites="weinstockNeuroKineticTherapyInnovative2010"><sup><a href="#ref-weinstockNeuroKineticTherapyInnovative2010" role="doc-biblioref">1</a></sup></span></li>
+<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#mmt">Unilateral SCM MMT</a><span class="citation" data-cites="weinstockNeuroKineticTherapyInnovative2010"><sup><a href="#ref-weinstockNeuroKineticTherapyInnovative2010" role="doc-biblioref">2</a></sup></span></li>
 </ul>
 </section>
 <section id="mlt" class="level1">
@@ -299,8 +364,11 @@ L1 - L3</td>
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-jonesProjectFoundations2025" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Jones B. <em>B <span>Project Foundations</span></em>. b Project; 2025.</div>
+</div>
 <div id="ref-weinstockNeuroKineticTherapyInnovative2010" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Weinstock D. <em><span>NeuroKinetic</span> Therapy: An Innovative Approach to Manual Muscle Testing</em>. North Atlantic Books; 2010.</div>
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Weinstock D. <em><span>NeuroKinetic</span> Therapy: An Innovative Approach to Manual Muscle Testing</em>. North Atlantic Books; 2010.</div>
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Iliopsoas muscles. <a href="https://yomokerst.com/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliopsoas_muscle_group.html">https://yomokerst.com/The

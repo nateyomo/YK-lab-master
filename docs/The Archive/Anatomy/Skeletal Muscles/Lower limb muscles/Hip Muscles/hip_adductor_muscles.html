@@ -22,6 +22,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 /* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
@@ -95,7 +129,6 @@ div.csl-indent {
 
 <link rel="stylesheet" href="../../../../../styles.css">
 <meta name="twitter:title" content="Hip Adductor Muscles">
-<meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
 <meta name="twitter:site" content="@yomokerst">
 <meta name="twitter:card" content="summary">
@@ -154,11 +187,16 @@ div.csl-indent {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#primary-1" id="toc-primary-1" class="nav-link active" data-scroll-target="#primary-1">Primary</a></li>
-  <li><a href="#secondary-1" id="toc-secondary-1" class="nav-link" data-scroll-target="#secondary-1">Secondary</a></li>
+  <li><a href="#anatomical-layers" id="toc-anatomical-layers" class="nav-link active" data-scroll-target="#anatomical-layers">Anatomical Layers</a>
+  <ul class="collapse">
+  <li><a href="#anterior-view" id="toc-anterior-view" class="nav-link" data-scroll-target="#anterior-view">Anterior view</a></li>
+  </ul></li>
+  <li><a href="#foundational-exercises" id="toc-foundational-exercises" class="nav-link" data-scroll-target="#foundational-exercises">Foundational Exercises</a>
+  <ul class="collapse">
   <li><a href="#hip-adduction-wall-assist-hand-resist" id="toc-hip-adduction-wall-assist-hand-resist" class="nav-link" data-scroll-target="#hip-adduction-wall-assist-hand-resist">Hip Adduction / Wall Assist / Hand Resist</a>
   <ul class="collapse">
   <li><a href="#setup" id="toc-setup" class="nav-link" data-scroll-target="#setup">Setup</a></li>
+  </ul></li>
   </ul></li>
   </ul>
 </nav>
@@ -223,36 +261,72 @@ div.csl-indent {
 <div class="quarto-layout-row">
 <section id="primary" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <h3 class="anchored" data-anchor-id="primary">Primary</h3>
-<ul>
-<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus_muscle.html">Pectineus</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span></li>
-<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_longus.html">Adductor Longus</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span></li>
-<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis_muscle.html">Gracilis</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span></li>
-<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_brevis.html">Adductor Brevis</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span></li>
-<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.html">Adductor Magnus</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span></li>
-</ul>
+<p>The <em>Adductor group</em> refers to the 5 Primary adductor muscles<span class="citation" data-cites="bielTrailGuideBody2019"><sup><a href="#ref-bielTrailGuideBody2019" role="doc-biblioref">1</a></sup></span>:</p>
 </section>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<ul>
+<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus_muscle.html">Pectineus</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">2</a></sup></span></li>
+<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_longus.html">Adductor Longus</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">2</a></sup></span></li>
+<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis_muscle.html">Gracilis</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">2</a></sup></span></li>
+<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_brevis.html">Adductor Brevis</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">2</a></sup></span></li>
+<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.html">Adductor Magnus</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">2</a></sup></span></li>
+</ul>
+</div>
+</div>
+<div class="quarto-layout-row">
 <section id="secondary" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <h3 class="anchored" data-anchor-id="secondary">Secondary</h3>
 <ul>
-<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.html">Biceps Femoris Long Head</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span></li>
-<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_maximus_muscle.html">Gluteus Maximus</a> (inferior/ posterior fibers)<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span></li>
-<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris_muscle.html">Quadratus Femoris</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span></li>
-<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/obturator_externus.html">Obturator Externus</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span></li>
+<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.html">Biceps Femoris Long Head</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">2</a></sup></span></li>
+<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_maximus_muscle.html">Gluteus Maximus (inferior/ posterior fibers)</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">2</a></sup></span></li>
+<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris_muscle.html">Quadratus Femoris</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">2</a></sup></span></li>
+<li><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/obturator_externus.html">Obturator Externus</a><span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">2</a></sup></span></li>
 </ul>
 </section>
 </div>
 </div>
-<section id="primary-1" class="level1">
-<h1>Primary</h1>
-<div class="cell" data-message="false" data-execution_count="1">
-<div id="tbl-primary-hip-adductor-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="1">
-<figure class="quarto-float quarto-float-tbl figure">
-<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-primary-hip-adductor-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Table&nbsp;1: Primary hip adductors
-</figcaption>
-<div aria-describedby="tbl-primary-hip-adductor-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div id="eba4599e" class="cell" data-execution_count="1">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| label: tbl-primary-hip-adductor-oian</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| warning: false</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| message: false</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| echo: false</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| tbl-cap: "Primary hip adductors"</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> pathlib <span class="im">import</span> Path</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>    <span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> pyprojroot <span class="im">import</span> here</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> IPython.core.display <span class="im">import</span> display, HTML</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Set the path for the script file</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>    script_file_path <span class="op">=</span> here(<span class="st">"scripts/process_oian_table.py"</span>)</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Check if the script file exists</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> script_file_path.exists():</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>        <span class="im">import</span> sys</span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>        sys.path.append(<span class="bu">str</span>(script_file_path.parent))  <span class="co"># Add the directory of the script to the system path</span></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>        <span class="im">from</span> process_oian_table <span class="im">import</span> process_oian_table  <span class="co"># Import the specific function</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>        <span class="co"># Define the column to filter by and the identifiers to include</span></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>        filter_column <span class="op">=</span> <span class="st">'functional_group_identifier'</span>  <span class="co"># Choose the column you want to filter by</span></span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>        filter_identifiers <span class="op">=</span> [<span class="st">'primary_hip_adductor'</span>]  <span class="co"># Replace with actual identifiers you want to include</span></span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>        <span class="co"># Call the function to get the HTML table with filtering</span></span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>        html_table <span class="op">=</span> process_oian_table(filter_column<span class="op">=</span>filter_column, filter_identifiers<span class="op">=</span>filter_identifiers)</span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span> html_table:</span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a>            <span class="co"># Render the HTML table for display</span></span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>            display(HTML(html_table))  <span class="co"># Use display to render the HTML properly</span></span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span>:</span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>        <span class="bu">print</span>(<span class="st">"Script file does not exist. Please check the path."</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>/var/folders/1l/3yjsq4vn4q92b8_bq89ptr800000gn/T/ipykernel_86628/1784269217.py:10: DeprecationWarning:
+
+Importing display from IPython.core.display is deprecated since IPython 7.14, please import from IPython.display
+</code></pre>
+</div>
 <div class="cell-output cell-output-display">
-<table class="dataframe oian-table do-not-create-environment cell caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<table class="dataframe oian-table caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
 <colgroup>
 <col style="width: 20%">
 <col style="width: 20%">
@@ -326,21 +400,48 @@ L2 - L3</td>
 </table>
 </div>
 </div>
-</figure>
+<div id="11a5fff6" class="cell" data-execution_count="2">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| label: tbl-secondary-hip-adductor-oian</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| warning: false</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| message: false</span></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| echo: false</span></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| tbl-cap: "Secondary hip adductors"</span></span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> pathlib <span class="im">import</span> Path</span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>    <span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> pyprojroot <span class="im">import</span> here</span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> IPython.core.display <span class="im">import</span> display, HTML</span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Set the path for the script file</span></span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>    script_file_path <span class="op">=</span> here(<span class="st">"scripts/process_oian_table.py"</span>)</span>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Check if the script file exists</span></span>
+<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> script_file_path.exists():</span>
+<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a>        <span class="im">import</span> sys</span>
+<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>        sys.path.append(<span class="bu">str</span>(script_file_path.parent))  <span class="co"># Add the directory of the script to the system path</span></span>
+<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a>        <span class="im">from</span> process_oian_table <span class="im">import</span> process_oian_table  <span class="co"># Import the specific function</span></span>
+<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a>        <span class="co"># Define the column to filter by and the identifiers to include</span></span>
+<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a>        filter_column <span class="op">=</span> <span class="st">'functional_group_identifier'</span>  <span class="co"># Choose the column you want to filter by</span></span>
+<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a>        filter_identifiers <span class="op">=</span> [<span class="st">'secondary_hip_adductor'</span>]  <span class="co"># Replace with actual identifiers you want to include</span></span>
+<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a>        <span class="co"># Call the function to get the HTML table with filtering</span></span>
+<span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a>        html_table <span class="op">=</span> process_oian_table(filter_column<span class="op">=</span>filter_column, filter_identifiers<span class="op">=</span>filter_identifiers)</span>
+<span id="cb3-28"><a href="#cb3-28" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-29"><a href="#cb3-29" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span> html_table:</span>
+<span id="cb3-30"><a href="#cb3-30" aria-hidden="true" tabindex="-1"></a>            <span class="co"># Render the HTML table for display</span></span>
+<span id="cb3-31"><a href="#cb3-31" aria-hidden="true" tabindex="-1"></a>            display(HTML(html_table))  <span class="co"># Use display to render the HTML properly</span></span>
+<span id="cb3-32"><a href="#cb3-32" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span>:</span>
+<span id="cb3-33"><a href="#cb3-33" aria-hidden="true" tabindex="-1"></a>        <span class="bu">print</span>(<span class="st">"Script file does not exist. Please check the path."</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>/var/folders/1l/3yjsq4vn4q92b8_bq89ptr800000gn/T/ipykernel_86628/186737318.py:10: DeprecationWarning:
+
+Importing display from IPython.core.display is deprecated since IPython 7.14, please import from IPython.display
+</code></pre>
 </div>
-</div>
-</section>
-<section id="secondary-1" class="level1">
-<h1>Secondary</h1>
-<div class="cell" data-message="false" data-execution_count="2">
-<div id="tbl-secondary-hip-adductor-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="2">
-<figure class="quarto-float quarto-float-tbl figure">
-<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-secondary-hip-adductor-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Table&nbsp;2: Secondary hip adductors
-</figcaption>
-<div aria-describedby="tbl-secondary-hip-adductor-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <div class="cell-output cell-output-display">
-<table class="dataframe oian-table do-not-create-environment cell caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<table class="dataframe oian-table caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
 <colgroup>
 <col style="width: 20%">
 <col style="width: 20%">
@@ -438,17 +539,46 @@ L5 - S2</td>
 </table>
 </div>
 </div>
-</figure>
+<section id="anatomical-layers" class="level1">
+<h1>Anatomical Layers</h1>
+<section id="anterior-view" class="level2">
+<h2 class="anchored" data-anchor-id="anterior-view">Anterior view</h2>
+<p>When viewed anteriorly, we can break down the primary adductor group into 3 layers:</p>
+<ol type="1">
+<li>Anterior Superficial (Most anterior): Pectineus and adductor longus
+<ol type="1">
+<li>The gracilis is also superficial, but lies more medial than the pectineus and adductor longus</li>
+</ol></li>
+<li>Anterior Intermediate: Adductor brevis</li>
+<li>Anterior Deep (Most posterior): Adductor magnus</li>
+</ol>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Due to the Adductor magnus’ broad shape and posterior location, it is called the “floor of the adductors”<span class="citation" data-cites="bielTrailGuideBody2019"><sup><a href="#ref-bielTrailGuideBody2019" role="doc-biblioref">1</a></sup></span>.</p>
 </div>
 </div>
 </section>
-<section id="hip-adduction-wall-assist-hand-resist" class="level1">
-<h1>Hip Adduction / Wall Assist / Hand Resist</h1>
+</section>
+<section id="foundational-exercises" class="level1">
+<h1>Foundational Exercises</h1>
+<ul>
+<li><a href="#hip-adduction--wall-assist--hand-resist">Hip Adduction / Wall Assist / Hand Resist</a></li>
+</ul>
+<section id="hip-adduction-wall-assist-hand-resist" class="level2">
+<h2 class="anchored" data-anchor-id="hip-adduction-wall-assist-hand-resist">Hip Adduction / Wall Assist / Hand Resist</h2>
 <!-- Read hip_msk for more info or updated info -->
-<p>“Using a wall to assist in performing hand resistant hip adduction is not a true adduction movement. The adduction is coming from flexion + abduction + rotation position into flexion/adduction/rotation AROM. The goal is to activate hip adduction to release muscle guarding into greater pROM hip abduction range”<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
-<section id="setup" class="level2">
-<h2 class="anchored" data-anchor-id="setup">Setup</h2>
-<p>The setup is similar to the <em>wall sit foundational exercise</em> but instead of a “V” position of the lower extremity, we employ the “butterfly” position<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+<p>“Using a wall to assist in performing hand resistant hip adduction is not a true adduction movement. The adduction is coming from flexion + abduction + rotation position into flexion/adduction/rotation AROM. The goal is to activate hip adduction to release muscle guarding into greater pROM hip abduction range”<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">3</a></sup></span>.</p>
+<section id="setup" class="level3">
+<h3 class="anchored" data-anchor-id="setup">Setup</h3>
+<p>The setup is similar to the <em>wall sit foundational exercise</em> but instead of a “V” position of the lower extremity, we employ the “butterfly” position<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">3</a></sup></span>.</p>
 <ul>
 <li>Sit at the crease of the wall and the floor</li>
 <li>Roll your hips forward (Anterior pelvic tilt) in order to push your glutes as far into the crease as possible</li>
@@ -464,13 +594,17 @@ L5 - S2</td>
 
 </section>
 </section>
+</section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-bielTrailGuideBody2019" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Biel A. <em>Trail Guide to the Body: A Hands-on Guide to Locating Muscles, Bones, and More</em>. 6th ed. Books of Discovery; 2019.</div>
+</div>
 <div id="ref-neumannKinesiologyMusculoskeletalSystem2017" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. <em>Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation</em>. 3rd ed. Elsevier; 2017.</div>
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. <em>Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation</em>. 3rd ed. Elsevier; 2017.</div>
 </div>
 <div id="ref-jonesProjectFoundations2025" class="csl-entry" role="listitem">
-<div class="csl-left-margin">2. </div><div class="csl-right-inline">Jones B. <em>B <span>Project Foundations</span></em>. b Project; 2024.</div>
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Jones B. <em>B <span>Project Foundations</span></em>. b Project; 2025.</div>
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Hip Adductor Muscles.

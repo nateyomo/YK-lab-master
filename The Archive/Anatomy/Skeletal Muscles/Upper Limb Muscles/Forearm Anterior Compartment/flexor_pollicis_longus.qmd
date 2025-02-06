@@ -2,6 +2,13 @@
 title: Flexor Pollicis Longus (FPL)
 ---
 
+![Mucous sheaths of the tendons of the wrist and digits @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image423 The mucous sheaths of the tendons on the front of the wrist and digits.gif)
+
+![Transverse section of distal forearm @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image421 Transverse section across distal ends of radius and ulna.gif)
+
+![Transverse cut of the Hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image422 Transverse section across the wrist and digits.gif)
+
+![Palmar muscles of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image427 The muscles of the left hand. Palmar surface.gif)
 
 ```{python tbl-oian}
 #| label: tbl-oian

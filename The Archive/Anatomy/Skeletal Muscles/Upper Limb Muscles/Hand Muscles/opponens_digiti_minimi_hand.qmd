@@ -2,6 +2,7 @@
 title: Opponens Digiti Minimi (Hand)
 ---
 
+![Muscles of the thumb @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image426 The muscles of the thumb.gif)
 
 ```{python tbl-oian}
 #| label: tbl-oian

@@ -1,3 +1,19 @@
 ---
 title: Metatarsophalangeal Joints (MTP)
 ---
+
+
+# Osteokinematics
+
+- Extension: 50-60&deg; actively
+- Flexion:
+    - 30-40&deg; AROM
+    - 90&deg; passively (i.e. during *terminal stance*)
+- Abduction: Minimal
+- Adduction: Minimal
+
+
+# Ligaments
+
+All 5 metatarsophalangeal joints are linked proximally by the *transverse metatarsal ligament* at each metatarsal head @jonesProjectFoundations2025.
+

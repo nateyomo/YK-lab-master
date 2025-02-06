@@ -254,6 +254,12 @@ Muscular attachments to the flexor retinaculum
 
 :::
 
+
+
+# Dorsal digital expansion
+
+- 
+
 # Ligaments {#ligaments}
 
 The ligaments of the ankle can be broken down into 2 main ligament systems: 
@@ -296,7 +302,25 @@ The ligaments of the ankle can be broken down into 2 main ligament systems:
 :::
 
 
+# Lower leg compartments
 
+The lower leg can be divided into 4 compartments:
+
+1. Anterior compartment
+1. Lateral compartment
+1. Deep posterior compartment
+1. Superficial posterior compartment
+
+The **anterior compartment** is outlined by the *anterior intermuscular septum* and the *interosseous membrane* @jonesProjectFoundations2025.
+The compartment contains the toe extensors and the ankle dorsiflexors @jonesProjectFoundations2025.
+
+
+The **lateral compartment** is outlined by the *posterior intermuscular septum* and the *anterior intermuscular septum* @jonesProjectFoundations2025.
+This compartment contains the fibularis muscles.
+
+The **deep posterior compartment** contains the toe flexors and some ankle extensors.
+
+The **superficial posterior compartment** contains powerful ankle plantarflexors known as the [triceps surae]({{< var ref-triceps-surae.path >}}).
 
 # Assessment
 
@@ -349,14 +373,42 @@ As a PT student, I was so preoccupied to diagnose a problem and label it a "X" s
 
 # Ankle assessment
 
-## Ankle DF assessment
+## Dorsiflexion
 
 - See if the ankle biases towards *1st toe dorsiflexion* or *5th toe dorsiflexion*.
 - Excessive 1st toe dorsiflexion (dorsiflexion + inversion) is indicative of excessive TCJ mobility and limited STJ mobility @jonesProjectFoundations2025.
 - Excessive *5th toe dorsiflexion* (DF + Eversion) is indicative of excessive STJ mobility with limited TCJ mobility.
 
+## Plantarflexion
 
-## Ankle Inversion/Eversion assessment
+
+## Dorsum tendon mobility
+
+Mobility of the dorsal tendons is discussed rarely in the literature.
+
+- Patient positioned in supine/long sitting with feet hanging off the edge of the table
+- Clinician positioned seated facing the feet
+- Gross check: Bring the patient into plantarflexion, feel *when* and *how* the TCJ hits end range.
+    - Earlier in the range is more remarkable
+    - A stiffer and more rigid end feel is remarkable and abnormal
+    - Try to assess if the plantarflexion is more limited in a certain direction since some tendons can be more adhered than others.
+- Proximal assessments: 
+    - Joint line palpation: Cloudier = worse
+
+Treatment:
+
+- Press your finger *between* the long tendons at the joint line to press on the talus.
+- With your other hand, hold onto the forefoot/midfoot and bring the ankle into slight dorsiflexion and then glide the foot posteriorly on the mortise.
+- This will result in you directly pressing on the talus posteriorly and gliding the whole foot, including the talus posteriorly on the stable lower leg.
+- The goal is to move the talus, which in turn pulls the joint capsule with it.
+- This will free up the tendons from the joint capsule.
+- Reassess the plantarflexion
+    - Did the restriction change in certain directions?
+    - Did the end feel change?
+    - Is the joint line *more* palpable?
+
+
+## Inversion/Eversion
 
 - calcaneal inversion and eversion are controlled and limited by the [fibularis longus]({{< var ref-fibularis-longus.action >}}) laterally and the [flexor hallucis longus]({{< var ref-flexor-hallucis-longus.action >}}) medially.
 - Assess the mobility of the [FHL]({{< var ref-flexor-hallucis-longus.path >}}) and [fibularis longus]({{< var ref-fibularis-longus.path >}}) tendons during gross inversion and eversion.
@@ -393,10 +445,19 @@ The 1st ray and the medial arch include similar structures and should be assesed
 
 ## 5th ray
 
+Treatment:
+
 - Press axially
 - Also press superomedially
 
 ## Cuboid assessment
+
+- Assess how the cuboid follows 5th ray inversion
+- Assess 5th MTP extension vs cuboid extension
+
+::: {.callout-note}
+The cuboid normally has less extension than the 5th MTP @jonesProjectFoundations2025
+:::
 
 # Dysfunction
 
@@ -410,12 +471,11 @@ The 1st ray and the medial arch include similar structures and should be assesed
 
 # Strength Tests
 
-- [Tib ant: DF/inv]({{< var ref-tibialis-anterior.mmt >}})
-- [Tib post: PF/inv]({{< var ref-tibialis-posterior.mmt >}})
-- PF + Eversion
-    - [Fib brevis]({{< var ref-fibularis-brevis.mmt >}}) & [fibularis long]({{< var ref-fibularis-longus.mmt >}})
+- [DF/inv: Tib ant]({{< var ref-tibialis-anterior.mmt >}})
 - [DF + Eversion: Fib tertius]({{< var ref-fibularis-tertius.mmt >}})
 - Plantarflexion: [Gastroc]({{< var ref-gastrocnemius.mmt >}}) and [soleus]({{< var ref-soleus.mmt >}})
+- PF + Eversion: [Fib brevis]({{< var ref-fibularis-brevis.mmt >}}) & [fibularis long]({{< var ref-fibularis-longus.mmt >}})
+- [PF/inv: tibialis posterior]({{< var ref-tibialis-posterior.mmt >}})
 
 # Special Tests
 

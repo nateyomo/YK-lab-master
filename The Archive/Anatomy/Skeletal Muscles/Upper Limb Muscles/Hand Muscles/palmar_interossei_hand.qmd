@@ -2,6 +2,8 @@
 title: Palmar Interossei of the Hand
 ---
 
+![Palmar Interossei of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image429 The Interossei volares of left hand.gif)
+
 
 ```{python tbl-oian}
 #| label: tbl-oian

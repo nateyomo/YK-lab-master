@@ -2,6 +2,8 @@
 title: Extensor Digitorum (ED)
 ---
 
+![Transverse cut of the Hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image422 Transverse section across the wrist and digits.gif)
+
 
 ```{python tbl-oian}
 #| label: tbl-oian
