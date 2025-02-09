@@ -2,9 +2,6 @@
 title: Spinalis Muscle
 ---
 
-![Schematic view of the intermediate intrinsic muscles of the back (Erector spinae) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Erector Spinae/images/gilroyatlas 3.9a schematic intermediate back muscles.png)
-
-![Intermediate intrinsic muscles of the back / Erector spinae (Posterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Erector Spinae/images/gilroyatlas 310b intermediate back muscles.png)
 
 ```{python tbl-spinalis-muscles-oian}
 #| label: tbl-spinalis-muscles-oian

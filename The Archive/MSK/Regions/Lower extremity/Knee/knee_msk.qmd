@@ -3,6 +3,43 @@ title: Knee Region
 subtitle: A Musculoskeletal Overview
 ---
 
+![Knee joint (Right anterior)](/The Archive/Images/Gray anatomy 1918 images/Myology/image345 Right knee-joint. Anterior view.gif){#fig-345-anterior-knee-joint}
+
+:::{layout-ncol="3"}
+![Muscles of the anterior hip and thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image430 Muscles of the iliac and anterior femoral regions.gif){#fig-image430-anterior-iliac-femoral}
+
+![Deep muscles of the medial femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image433 Deep muscles of the medial femoral region.gif){#fig-image433-deep-medial-femoral}
+
+![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif)
+:::
+
+:::{layout-ncol="3"}
+![Muscles of the anterior leg @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image437 Muscles of the front of the leg.gif)
+
+
+![Superficial muscles of the posterior leg @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif)
+
+![Deep muscles of the posterior leg @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image439 Muscles of the back of the leg. Deep layer.gif)
+:::
+
+
+:::{layout-ncol="3"}
+
+![Anterior knee joint (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image345 Right knee-joint. Anterior view.gif)
+
+![Posterior knee joint (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image346 Right knee-joint. Posterior view.gif)
+
+![Anterior knee joint ligaments (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image347 Right knee-joint, from the front, showing interior ligaments.gif)
+:::
+
+
+:::{layout-ncol="2"}
+![Posterior knee joint ligaments (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image348 Left knee-joint from behind, showing interior ligaments.gif)
+
+![Sagittal cross section of the Knee joint (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image350 Sagittal section of right knee-joint.gif)
+
+:::
+
 The knee region as a whole exists as an intermediate to link the hip and ankle/foot.
 This region consists of [joints](#joints) that primarily perform sagittal flexion and extension in order to control the distance between the body and the ground @jonesProjectFoundations2025.
 
@@ -16,8 +53,8 @@ As a baby takes its first steps ~12mo, the lower extremity begins to adapt and d
 
 The joints of the knee work together to primarily create sagittal plane flexion-extension.
 
-- Tibiofemoral joint
-- Patellofemoral Joint
+- [Tibiofemoral joint]({{< var ref-tibiofemoral-joint.path >}})
+- [Patellofemoral Joint]({{< var ref-patellofemoral-joint.path >}})
 
 ## Axis of Rotation
 
@@ -27,7 +64,13 @@ This AOR passes through the femoral condyles.
 
 
 :::{.callout-note title="Find an area for this"}
-"There are three fat pads located at the anterior knee: the quadriceps fat pad, the prefemoral fat pad, and the infrapatellar (Hoffa) fat pad. The fat pads of the knee house neurovascular projections. The functions of the fat pads include the following: ▶ Synovial fluid secretion ▶ Joint stability ▶ Neurovascular supply ▶ Occupiers of dead space" @duttonDuttonOrthopaedicExamination2020
+"There are three fat pads located at the anterior knee: the quadriceps fat pad, the prefemoral fat pad, and the infrapatellar (Hoffa) fat pad. The fat pads of the knee house neurovascular projections. The functions of the fat pads include the following:
+
+- Synovial fluid secretion
+- Joint stability
+- Neurovascular supply
+- Occupiers of dead space @duttonDuttonOrthopaedicExamination2020
+
 :::
 
 # Blood Supply
@@ -41,36 +84,253 @@ This AOR passes through the femoral condyles.
 
 "The knee joint is innervated by the posterior articular branch of the posterior tibial nerve, which is formed from all five anterior divisions (L4, L5, and S1–S3) of the sacral plexus (see below), and the terminal branches of the obturator and femoral nerves.23 The course and distribution of the femoral nerve are described in Chapter 3. The lateral portion of the capsule is innervated by the recurrent peroneal branch of the common fibular (peroneal) nerve, which is formed by the upper four posterior divisions (L4, L5, and S1, S2) of the sacral plexus (see below). The saphenous nerve is the largest cutaneous branch of the femoral nerve (L2–L4). It leaves the subsartorial canal approximately 8–10 cm above the medial condyle of the knee and gives off branches to the medial aspect of the knee. Entrapment of the saphenous nerve during its course here can occur because of direct trauma, genu valgus, or knee instability, resulting in saphenous neuritis. The sciatic nerve (see Chapter 3) provides motor branches to the hamstrings and all muscles below the knee.33 It also provides the sensory innervation to the posterior thigh and entire leg and foot below the knee (except the medial aspect, which is innervated by the saphenous nerve).33" @duttonDuttonOrthopaedicExamination2020 
 
-# Kinematics
 
-## Knee rotation
+# Knee Joint Capsule {#joint-capsule}
+
+:::{layout-nrow="1"}
+![Lateral view of Knee-joint capsule (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image351 Distended Capsule of right knee-joint Lateral aspect.gif){#fig-image351-lateral-knee-joint-capsule}
+
+![Posterior view of Knee-joint capsule (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image352 Distended Capsule of right knee-joint Posterior aspect.gif){#fig-image352-posterior-knee-joint-capsule}
+
+:::
+
+
+The *knee joint capsule* AKA the *articular capsule* refers to the fibrous sleeve that attaches the distal femur and proximal tibia.
+The inside of the knee joint capsule has a synovial lining @jonesProjectFoundations2025.
+
+Overall, the shape of the capsule is a cylinder that indents posteriorly between the femoral condyles @jonesProjectFoundations2025.
+The knee joint capsule is not continuous, there is an anterior opening in the capsule where the patella passes through @jonesProjectFoundations2025.
+
+The distal insertion of the knee joint capsules are distal to the tibiofemoral articulations @jonesProjectFoundations2025.
+The knee joint capsule attaches to the tibia just above the insertion of the [popliteus tendon]({{< var ref-popliteus.insertion >}}) @jonesProjectFoundations2025.
+
+The joint capsule lines the deep surface of the [gastrocnemius heads]({{< var ref-gastrocnemius.path >}}) and separates them from the condylar articular surfaces @jonesProjectFoundations2025.
+In this posterior region, the capsule is thickened and forms the posterior condylar plates @jonesProjectFoundations2025.
+
+To learn more about the [knee joint capsule, click here]({{< var ref-knee-joint.capsule >}}).
+
+# Bursa
+
+
+
+# Ligaments
+
+![Head of tibia with menisci and ligaments (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image349 Head of right tibia seen from above, showing menisci and attachments of ligaments.gif){#fig-image349-tibia-head}
+
+The [ACL]({{< var ref-anterior-cruciate-ligament.path >}}) runs against the lateral aspect of the [articular capsule](#joint-capsule) @jonesProjectFoundations2025.
+
+The [PCL]({{< var ref-posterior-cruciate-ligament.path >}}) runs against the *medial* layer of the [articular capsule](#joint-capsule) @jonesProjectFoundations2025.
+
+::: {.columns}
+::: {.column}
+
+### Extrinsic ligaments  
+
+- Anterior side  
+    - Patellar lig.  
+    - Medial longitudinal patellar retinaculum
+    - Lateral longitudinal patellar retinaculum
+    - Medial transverse patellar retinaculum
+    - Lateral transverse patellar retinaculum
+- Medial and lateral sides
+    - Medial (tibial) collateral lig.
+    - Lateral (fibular) collateral lig.
+- Posterior side
+    - Oblique popliteal lig.
+    - Arcuate popliteal lig.
+
+:::
+::: {.column}
+
+### Intrinsic ligaments of the knee:
+
+- [Anterior cruciate lig. (ACL)]({{< var ref-anterior-cruciate-ligament.path >}})
+- [Posterior cruciate lig. (PCL)]({{< var ref-posterior-cruciate-ligament.path >}})
+- [Transverse lig. of knee]({{< var ref-transverse-ligament-of-the-knee.path >}})
+- Posterior meniscofemoral ligament
+
+:::
+:::
+
+
+# Synovium {#synovium}
+
+The inner synovial membrane of the [joint capsule](#knee-joint-capsule) secretes the synovial fluid @jonesProjectFoundations2025.
+
+## Synovial membrane
+
+The synovial membrane is vascular and porous, thus allows diffusion of most molecules except for the largest ones @jonesProjectFoundations2025.
+The fluid that the synovial membrane allows through is called ["synovial fluid"](#synovial-fluid) which is a filtrate of blood plasma @jonesProjectFoundations2025.
+
+This is an important process for nutrient supply and waste removal from the avascular cartilage @jonesProjectFoundations2025.
+
+## Synovial fluid {#synovial-fluid}
+
+The blood plasma is filtered through the synovial membrane and becomes "synovial fluid."
+The synovial fluid has a yellow color and is highly viscous @jonesProjectFoundations2025.
+
+Synovial fluid builds up and forms a thin layer over the articular cartilage.
+Over time, the synovial fluid seeps into the micro-cavities and irregularities int he articular cartilage, which smooths the surface @jonesProjectFoundations2025.
+
+During knee joint loading and movement, the synovial fluid is squeezed out of the cartilage and helps to maintain a fresh fluid layer on the cartilage surface @jonesProjectFoundations2025.
+
+
+There are 2 primary functions of the synovial fluid:
+
+1. Nourish the articulation and associated cartilage @jonesProjectFoundations2025.
+1. Reduce friction between articular cartilage @jonesProjectFoundations2025.
+1. A tertiary role is to use phagocytotic cells to remove microbes and debris and minimize wear and tear @jonesProjectFoundations2025.
+
+## Plica {#plica}
+
+Plica refers to the fold or ridge of the synovial lining.
+Each fold differs in size and shape.
+
+There are 4 major plica that *can* be present in adults:
+
+1. Supra-patellar plica (55%) @jonesProjectFoundations2025
+1. Infra-patellar plica (65%) @jonesProjectFoundations2025
+1. Medial patellar plica (25%) @jonesProjectFoundations2025
+1. Lateral patellar plica (1%) @jonesProjectFoundations2025
+
+The [Infrapatellar plica]({{< var ref-plica.infrapatellar-plica >}}) is an extension from the synovial lining and the *inrapatellar fat pad* @jonesProjectFoundations2025.
+
+Learn more about [plica here]({{< var ref-plica.path >}}).
+
+# Flexion & Extension
+
+Sagittal flexion-extension is the primary movement of the knee.
+
+::: {.columns}
+::: {.column}
+### Extension
+
+Movement of the posterior lower leg away from the posterior thigh.
+0-5&deg; of hyperextension is common and normal, but &gt;5&deg; is called *genu recurvatum* and is considered excessive.
+
+:::
+::: {.column}
+### Flexion
+
+Flexion refers to the movement of the posterior lower leg moving towards the posterior thigh.
+Since the rectus femoris is a 2-joint muscle it will limit flexion to 120&deg; when the hip is extension.
+When the hip is in flexion, the knee can achieve 140&deg; normally @jonesProjectFoundations2025.
+
+:::
+:::
+
+
+# Axial rotation
+
+Since the knee is a condylar joint and not a true hinge joint, it has secondary motions of axial rotation.
+
 
 "Active axial rotation in either direction is freest with the knee partially flexed. This axial rotation action of the hamstrings can be appreciated by palpating the tendons of semitendinosus and biceps femoris behind the knee as the leg is actively internally and externally rotated repeatedly. This is performed while the subject sits with the knee flexed 70 to 90 degrees. As the knee is gradually extended, the pivot point of the rotating lower leg shifts from the knee to the hip. At full extension, active rotation at the knee is restricted because the knee is mechanically locked and most ligaments are pulled taut. Furthermore, the moment arm of the hamstrings for internal and external rotation of the knee is reduced significantly in full extension." @neumannKinesiologyMusculoskeletalSystem2017
 
-:::{layout-ncol="2"}
-### Internal Rotation
+## Internal Rotation
 
 - Semimembranosus @neumannKinesiologyMusculoskeletalSystem2017
 - Semitendinosus @neumannKinesiologyMusculoskeletalSystem2017
 
-### External Rotation
+
+
+## External Rotation
 
 - Biceps Femoris @neumannKinesiologyMusculoskeletalSystem2017
 
 
+## Active axial rotation
+
+You can perform active axial rotation of the tibia on the femur by:
+
+1. Sit on a table with the leg hanging off so the knee is in flexion.
+1. Rotate so the toes face medially, this will result in 30&deg; of knee internal rotation along with foot adduction @jonesProjectFoundations2025.
+1. Rotate the toes laterally to create 40&deg; of knee external rotation along with foot abduction @jonesProjectFoundations2025.
+
+
+::: {.callout-note}
+Decreasing the knee bend below 90-30&deg; flexion results in a decrease in rotation range @jonesProjectFoundations2025.
 :::
+
+## Passive axial rotation
+
+- Patient supine
+- Rotate the tibia internally and externally.
+- You should expect to feel more range of motion than active rotation.
+
+
+# Articular surfaces
+
+## Femoral condyles
+
+The femoral condyles form distal medial and lateral articular surfaces of the femur, and a central patellar groove articular surface
+
+## Tibial and patellar articular surfaces
+
+- The tibia and patella combine to form a transverse axis
+- The tibia creates "paralleling gutters" using the lateral articular surface and the medial articular surface @jonesProjectFoundations2025.
+
+## Tibiofemoral joint
+
+
+
+## Patellofemoral joint
+
+
+# Meniscus
+
+
 
 # Alignment
 
+Alignment is a vital consideration when understanding, assessing, and treating the knee.
+Abnormal loads distribution can result in premature degeneration.
+
+
+
 ## Q-angle
 
-## Varus 
+## Varus {#varus}
+
+Varus or *genu varum* refers to a lateral deviation in the knee.
+
+Chronic *genu varus* can result in medial tibiofemoral osteoarthritis.
+
+::: {.callout-note}
+*Genu varum* is usually paired with *coxa valga* at the hip.
+:::
+
+*genu varum* is quantified in 2 ways:
 
 
 
-## Valgus
+## Valgus {#valgus}
 
-:::{layout-ncol="3"}
+Valgus also known as *genu valgum* refers to the medial displacement of the knee.
+
+::: {.callout-note}
+*genu valgum* usually presents with *coxa vara* of the hip.
+:::
+
+## Measuring Genu Varum and Valgum
+
+There are two ways to measure *genu varum* and *genu valgus*:
+
+### Femoral shaft to tibia angle
+
+Measuring the angle between the *femoral shaft* and the *tibial shaft*.
+Normal is 170-174&deg; whereas positive *genu varum* is 180-185&deg; @jonesProjectFoundations2025.
+
+| Tibia-femur angle | |
+|-|-|
+| &lt;165&deg; | *genu valgum* |
+| 170-174&deg; | Normal |
+| &gt;180-185&deg; | *genu varum* |
+
+### HKA displacement
+
+The second method is to measure the knee's medial-lateral displacement from the line bisecting the relative center of the joint line between the hip and ankle @jonesProjectFoundations2025.
+
 ### Kinematics
 Valgus consists of femoral IR and Adduction, concomitant contralateral pelvic drop @dischiaviRethinkingDynamicKnee2019
 
@@ -86,5 +346,32 @@ Valgus consists of femoral IR and Adduction, concomitant contralateral pelvic dr
 
 # Examination
 
-## Special Tests
+# Tests
 
+
+- Patellafemoral joint mobility
+
+## Meniscus
+
+- Thessaly's test
+- Apley's test
+- Joint line palpation
+- McMurray's test
+
+## Lateral collateral ligament
+
+- Varus test
+
+## Medical collateral ligament
+
+- Valgus
+
+## ACL
+
+- Anterior drawer
+- Lachman's test
+
+
+## PCL
+
+- Posterior drawer

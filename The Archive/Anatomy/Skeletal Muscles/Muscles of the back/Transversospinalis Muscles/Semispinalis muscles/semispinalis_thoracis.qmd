@@ -2,9 +2,6 @@
 title: Semispinalis thoracis
 ---
 
-![Schematic, posterior view of the transversospinalis muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Transversospinalis Muscles/images/gilroyatlas 3.11ABC schematic transversospinalis muscles posterior view.png)
-
-![Posterior view of the Transversospinalis muscles @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/images/313a Deep intrinsic back muscles.png)
 
 ```{python tbl-oian}
 #| label: tbl-oian

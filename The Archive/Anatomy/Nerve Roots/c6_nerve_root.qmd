@@ -3,6 +3,8 @@ title: C6 Nerve Root
 ---
 
 
+![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif)
+
 | Level | Root | Pain & Sensory Change | Motor Weakness | Abnormal Reflexes |
 |-|-|---|--|-|
 | C4/C5 | C5 | Deltoid @hongReliabilityDiagnosticAccuracy2022 <br> Lateral arm @hongReliabilityDiagnosticAccuracy2022 | Deltoid @hongReliabilityDiagnosticAccuracy2022 <br> Biceps @hongReliabilityDiagnosticAccuracy2022 | Bicep reflex @hongReliabilityDiagnosticAccuracy2022 |
@@ -14,28 +16,47 @@ title: C6 Nerve Root
 
 # Motor Innervation
 
-```{r}
-#| echo: false
+```{python tbl-c6-oian}
+#| label: tbl-c6-oian
 #| warning: false
 #| message: false
+#| echo: false
 
-# Load the here package
-library(here)
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
 
-# Source the functions script
-source(here("scripts/gt_oian.R"))
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
 
-# Example usage
-identifier_col <- "root_identifier"  # or "group_identifier"
-filter_patterns <- "C6"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "C6 Nerve Root Skeletal Muscle Innervations"
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
 
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
+    from process_oian_table import process_oian_table  # Import the specific function
 
-gt_table
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'root_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['C6']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
 ```
+
+# Dermatome
+
+![Dermatomal cutaneous distribution @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image797 Distribution of cutaneous nerves. Ventral aspect.gif)
+
+![Dermatomal cutaneous distribution (Posterior) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image798 Distribution of cutaneous nerves. Dorsal aspect.gif)
 
 # Contribution
 

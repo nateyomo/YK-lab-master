@@ -3,14 +3,6 @@ title: Articularis Genus
 subtitle: Distal Fibers of Vastus Intermedius
 ---
 
-:::{layout-ncol="3"}
-
-![Schematic of Anterior Thigh Muscles @gilroyAtlasAnatomy2020 </br> 1: Sartorius </br> 2: Rectus Femoris </br> 3: Vastus Medialis </br> 4: Vastus Lateralis </br> Vastus Intermedius](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24a anterior thigh muscles schematic.png)
-
-
-![Deep Layer of Anterior Thigh Muscle @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24c anterior thigh muscles deep layer.png)
-
-:::
 
 
 ```{python tbl-oian}
@@ -52,8 +44,13 @@ else:
 # Origin {#origin}
 Anterior side of femoral shaft at level of the suprapatellar recess @gilroyAtlasAnatomy2020
 
+According to Brad Jones @jonesProjectFoundations2025, the articularis genus attaches to the suprapatellar bursa @jonesProjectFoundations2025.
+
 # Insertion {#insertion}
 Suprapatellar recess of knee joint capsule @gilroyAtlasAnatomy2020
+
+
+
 
 # Nerve
 

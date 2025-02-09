@@ -1,0 +1,113 @@
+---
+title: Soleus Muscle
+---
+
+
+:::{layout-ncol="3"}
+
+![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif)
+
+![Deep posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image439 Muscles of the back of the leg. Deep layer.gif)
+
+:::
+
+
+```{python tbl-oian}
+#| label: tbl-oian
+#| warning: false
+#| message: false
+#| echo: false
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'muscle_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['soleus']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
+
+
+
+# Origin {#origin}
+
+- Posterior fibula @gilroyAtlasAnatomy2020
+- Posterior Tibia @gilroyAtlasAnatomy2020  
+
+
+# Insertion {#insertion}
+
+Calcaneal tuberosity via the Achilles' tendon @gilroyAtlasAnatomy2020 
+
+# Innervation {#innervation}
+
+[Tibial N.]({{< var ref-tibial-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020 
+
+# Action {#action}
+
+- **TCJ**: Plantarflexion @gilroyAtlasAnatomy2020 
+- **Stabilizes leg** @gilroyAtlasAnatomy2020 
+
+
+# Biomechanics
+
+The Triceps Surae inserts onto the calcaneal tuberosity via the achilles tendon.
+The fulcrum is technically the distal foot and the external load acting upon this muscle, joint, tendon complex is at the tibia.
+Thus, this is a **second class lever** and as a result, the triceps surae create more torque relative to their force compared to most other muscles in the body.
+
+
+
+# Muscle Length Test {#muscle-length-test}
+
+- Test DF with Knee flexed to 45&deg;
+
+
+# Strength Testing
+
+"The soleus muscle produces plantar flexion of the ankle joint, regardless of the position of the knee. To determine the individual functioning of the soleus as a plantar flexor, the knee is flexed to minimize the effect of the gastrocnemius muscle. The soleus is tested in a similar manner to that of the gastrocnemius, except that the patient performs the unilateral heel raise with some degree of knee flexion. Ability to perform 10–15 raises in this fashion is considered normal, 5-9 raises graded as fair, 1–4 raises graded as poor, and zero repetitions graded as nonfunctional. Alternatively, the strength of the soleus can be tested with the patient in prone"
+
+
+# Pails & Rails {#pails-rails}
+
+::: {.columns}
+::: {.column}
+## P.A.I.L.'s
+
+- Plantarflexion
+
+:::
+::: {.column}
+## R.A.I.L.'s
+
+- Dorsiflexion
+
+:::
+:::
+
+
+# Stretch {#stretch}
+
+- [3D Calf Stretch]({{< var ref-3d-calf-stretch.path >}})

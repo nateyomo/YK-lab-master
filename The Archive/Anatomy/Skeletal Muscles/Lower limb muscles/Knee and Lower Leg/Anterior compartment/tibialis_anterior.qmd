@@ -2,6 +2,9 @@
 title: Tibialis Anterior Muscle
 ---
 
+![The Mucous sheaths of the tendons around the ankle (lateral view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image441 The mucous sheaths of the tendons around the ankle. Lateral aspect.gif)
+
+![The Mucous sheaths of the tendons around the ankle (medial view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image442 The mucous sheaths of the tendons around the ankle. Medial aspect.gif)
 
 
 ```{python tbl-oian}

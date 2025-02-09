@@ -2,6 +2,7 @@
 title: Obturator Nerve
 ---
 
+
 :::{.callout-note}
 Readings
 
@@ -9,10 +10,7 @@ Readings
 
 :::
 
-:::{layout-ncol="2"}
-![Cutaneous Distribution of the obturator nerve (Right leg, medial view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/images/gilroyatlas fig34.14 Obturator nerve Cutaneous distribution.png)
-![Obturator nerve (Right leg, anterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Lumbar plexus/images/gilroyatlas fig34.15 Obturator nerve right side anterior view.png)
-:::
+![The Obturator externus @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image436 The Obturator externus.gif)
 
 # Roots
 

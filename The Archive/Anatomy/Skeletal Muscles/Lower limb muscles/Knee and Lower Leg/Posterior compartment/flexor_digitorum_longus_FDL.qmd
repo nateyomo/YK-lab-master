@@ -3,9 +3,21 @@ title: Flexor Digitorum Longus (FDL)
 ---
 
 :::{layout-ncol="2"}
-![Schematic of Deep Flexors of the Posterior Compartment of the Leg </br> 1: Tibialis Posterior </br> 2: FDL </br> 3: FHL </br> 4: Popliteus @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.24a Schematic Posterior compartment of the leg deep flexors.png)
+![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif)
 
-![Deep Flexors of the Posterior Compartment of the Leg @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.24b Posterior compartment of the leg deep flexors.png)
+![Deep posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image439 Muscles of the back of the leg. Deep layer.gif)
+
+![The Mucous sheaths of the tendons around the ankle (medial view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image442 The mucous sheaths of the tendons around the ankle. Medial aspect.gif)
+:::
+
+:::{layout-ncol="3"}
+
+![1st layer of the plantar foot @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image443 Muscles of the sole of the foot. First layer.gif)
+
+![2nd layer of the plantar foot @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image444 Muscles of the sole of the foot. Second layer.gif)
+
+![3rd layer of the plantar foot @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image445 Muscles of the sole of the foot. Third layer.gif)
+
 :::
 
 

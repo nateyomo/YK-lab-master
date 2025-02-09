@@ -8,6 +8,16 @@ to read
 
 -->
 
+![Path of the facial and intermediate nerves @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image788 Plan of the facial and intermediate nerves and their communication with other nerves.gif)
+
+
+![The path and connections of CN VII Facial nerve in the temporal bone @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image789 The course and connections of the facial nerve in the temporal bone.gif)
+
+
+![Path of the upper portions of the CN IX Glossopharyngeal, CN X Vagus, and CN XI Accessory @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image791 Plan of upper portions of glossopharyngeal vagus and accessory nerves.gif)
+
+![Upper part of medulla spinalis, hindbrain, and midbrain (posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image792 Upper part of medulla spinalis and hind- and mid-brains posterior aspect exposed in situ.gif)
+
 # Somatic motor Pathway:
 Motor: Pre-central gyrus -> Corticobulbar tract (1°) -> (Pontomedullary junction) Facial motor nucleus -> Facial nerve (2°) -> Muscles of facial expression
 
@@ -37,3 +47,10 @@ Facial CN VII lesions vs UMN lesions:
 
 - Facial = weakness on half of the face
 - UMN: weakness on one half (but only the lower 2/3 = forehead not affected)
+
+
+# Palsy {#palsy}
+
+## Causes
+
+Lyme disease @roosNeurologicComplicationsLyme2021

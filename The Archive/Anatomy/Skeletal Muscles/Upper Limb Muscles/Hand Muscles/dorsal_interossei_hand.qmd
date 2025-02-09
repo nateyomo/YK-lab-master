@@ -2,6 +2,12 @@
 title: Dorsal Interossei of the Hand
 ---
 
+:::{layout-ncol="2"}
+![Palmar muscles of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image427 The muscles of the left hand. Palmar surface.gif)
+
+![Dorsal interossei (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image428 The Interossei dorsales of left hand.gif)
+:::
+
 
 ```{python tbl-oian}
 #| label: tbl-oian

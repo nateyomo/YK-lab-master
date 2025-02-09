@@ -63,9 +63,6 @@ div.csl-indent {
 <link href="../../../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../../../../site_libs/bootstrap/bootstrap-2cd373bbd777488a2901da25ac479b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../../../../../../site_libs/bootstrap/bootstrap-dark-30247d3b2cd0522fbeca720c4281c240.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<script src="../../../../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="../../../../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="../../../../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -99,11 +96,9 @@ div.csl-indent {
 <link rel="stylesheet" href="../../../../../../styles.css">
 <meta name="twitter:title" content="Rotatores breves">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://yomokerst.com/The Archive/Anatomy/Muscles/Muscles of the back/Transversospinalis Muscles/images/gilroyatlas 3.11ABC schematic transversospinalis muscles posterior view.png">
 <meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
 <meta name="twitter:site" content="@yomokerst">
-<meta name="twitter:image:alt" content="Schematic, posterior view of the transversospinalis muscles1">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="floating nav-fixed">
@@ -219,18 +214,6 @@ div.csl-indent {
 </header>
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../../../../The Archive/Anatomy/Muscles/Muscles of the back/Transversospinalis Muscles/images/gilroyatlas 3.11ABC schematic transversospinalis muscles posterior view.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Schematic, posterior view of the transversospinalis muscles @gilroyAtlasAnatomy2020"><img src="../../../../../../The Archive/Anatomy/Muscles/Muscles of the back/Transversospinalis Muscles/images/gilroyatlas 3.11ABC schematic transversospinalis muscles posterior view.png" class="img-fluid figure-img" alt="Schematic, posterior view of the transversospinalis muscles1"></a></p>
-<figcaption>Schematic, posterior view of the transversospinalis muscles<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span></figcaption>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../../../../../The Archive/Anatomy/Muscles/Muscles of the back/images/313a Deep intrinsic back muscles.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Posterior view of the Transversospinalis muscles @gilroyAtlasAnatomy2020"><img src="../../../../../../The Archive/Anatomy/Muscles/Muscles of the back/images/313a Deep intrinsic back muscles.png" class="img-fluid figure-img" alt="Posterior view of the Transversospinalis muscles1"></a></p>
-<figcaption>Posterior view of the Transversospinalis muscles<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span></figcaption>
-</figure>
-</div>
 <div id="tbl-oian" class="cell anchored" data-message="false" data-execution_count="1">
 <div class="cell-output cell-output-display">
 <table class="dataframe oian-table caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
@@ -849,38 +832,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
-(function() {
-  let previousOnload = window.onload;
-  window.onload = () => {
-    if (previousOnload) {
-      previousOnload();
-    }
-    lightboxQuarto.on('slide_before_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      const href = trigger.getAttribute('href');
-      if (href !== null) {
-        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-        if (imgEl !== null) {
-          const srcAttr = imgEl.getAttribute("src");
-          if (srcAttr && srcAttr.startsWith("data:")) {
-            slideConfig.href = srcAttr;
-          }
-        }
-      } 
-    });
-  
-    lightboxQuarto.on('slide_after_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(slideNode);
-      }
-    });
-  
-  };
-  
-})();
-          </script>
 
 
 

@@ -349,10 +349,20 @@ ref-sternocostal-joint:
   path: "/The Archive/Anatomy/Joints/Spine joints/sternocostal_joint_overview.html"
   1st: "/"
 ### LE Joints
+ref-knee-joint:
+  path: "/"
+  synovial-fluid: "/The Archive/MSK/Regions/Lower extremity/Knee/knee_msk.html#synovial-fluid"
+  synovial-membrane: "/The Archive/MSK/Regions/Lower extremity/Knee/knee_msk.html#synovial-membrane"
+  articular-capsule: "/The Archive/Anatomy/Connective tissue/Fibrous CT/Joint Capsule/knee_joint_capsule.html"
 ref-femoroacetabular-joint:
   path: "/The Archive/Anatomy/Joints/LE Joints/femoroacetabular_joint.html"
+ref-patellofemoral-joint:
+  path: "/The Archive/Anatomy/Joints/LE Joints/patellofemoral_joint.html"
 ref-tibiofemoral-joint:
   path: "/The Archive/Anatomy/Joints/LE Joints/TFJ_tibiofemoral_joint.html"
+  osteoarthritis: "/The Archive/Anatomy/Joints/LE Joints/TFJ_tibiofemoral_joint.html#osteoarthritis"
+  medial-osteoarthritis: "/The Archive/Anatomy/Joints/LE Joints/TFJ_tibiofemoral_joint.html#medial-osteoarthritis"
+  lateral-osteoarthritis: "/The Archive/Anatomy/Joints/LE Joints/TFJ_tibiofemoral_joint.html#lateral-osteoarthritis"
 ref-proximal-tibiofibular-joint:
   path: "/The Archive/Anatomy/Joints/LE Joints/tibiofibular_joints.html"
 ref-distal-tibiofibular-joint:
@@ -450,11 +460,11 @@ ref-oians:
 ### Abdominal wall
 
 ref-pyramidalis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/Anterior Abdominal Wall Muscles/pyramidalis_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/Anterior Abdominal Wall Muscles/pyramidalis_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/Anterior Abdominal Wall Muscles/pyramidalis_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/Anterior Abdominal Wall Muscles/pyramidalis_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/Anterior Abdominal Wall Muscles/pyramidalis_muscle.html#action" 
+  path: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/Anterior Abdominal Wall Muscles/pyramidalis.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/Anterior Abdominal Wall Muscles/pyramidalis.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/Anterior Abdominal Wall Muscles/pyramidalis.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/Anterior Abdominal Wall Muscles/pyramidalis.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/Anterior Abdominal Wall Muscles/pyramidalis.html#action" 
 
 ### Muscles of the back
 ref-sternalis:
@@ -779,11 +789,11 @@ ref-superior-auricular-muscle:
   action: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/superior_auricular_muscle.html#action"
 
 ref-posterior-auricular-muscle:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/posterior_auricular_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/posterior_auricular_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/posterior_auricular_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/posterior_auricular_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/posterior_auricular_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/superior_auricular_muscle.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/superior_auricular_muscle.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/superior_auricular_muscle.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/superior_auricular_muscle.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/superior_auricular_muscle.html#action"
 
 ref-zygomaticus-major:
   path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Facial Expression/zygomaticus_major.html"
@@ -863,11 +873,11 @@ ref-masseter:
   action: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Mastication/masseter.html#action"
 
 ref-temporalis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Mastication/temporalis_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Mastication/temporalis_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Mastication/temporalis_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Mastication/temporalis_muscle.html#nerve"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Mastication/temporalis_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Mastication/temporalis.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Mastication/temporalis.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Mastication/temporalis.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Mastication/temporalis.html#nerve"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Mastication/temporalis.html#action"
 
 ref-lateral-pterygoid:
   path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Muscles of Mastication/lateral_pterygoid.html"
@@ -886,17 +896,17 @@ ref-medial-pterygoid:
 
 #### Neck Muscles
 ref-sternocleidomastoid:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#action"
-  palpation: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#palpation"
-  pain-pattern: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#pain-pattern"
-  mmt: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#mmt"
-  vascularization: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid_muscle.html#vascularization"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid.html#action"
+  palpation: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid.html#palpation"
+  pain-pattern: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid.html#pain-pattern"
+  mmt: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid.html#mmt"
+  vascularization: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Sternocleidomastoid muscle/sternocleidomastoid.html#vascularization"
 ref-trapezius:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/trapezius_muscle.html"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/trapezius.html"
 ref-upper-trapezius:
   path: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/upper_trapezius.html"
   origin: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/upper_trapezius.html#origin"
@@ -943,49 +953,49 @@ ref-posterior-scalene:
   action: "/The Archive/Anatomy/Skeletal Muscles/Head and Neck/Neck Muscles/Scalene muscles/posterior_scalene.html#action"
 
 ### Shoulder muscles
-ref-shoulder-flexor-muscles:
+ref-shoulder-flexor-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder muscle groups/shoulder_flexor_muscles.html"
-ref-shoulder-extensor-muscles:
+ref-shoulder-extensor-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder muscle groups/shoulder_extensor_muscles.html"
-ref-shoulder-abductor-muscles:
+ref-shoulder-abductor-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder muscle groups/shoulder_abductor_muscles.html"
-ref-shoulder-adductor-muscles:
+ref-shoulder-adductor-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder muscle groups/shoulder_adductor_muscles.html"
-ref-shoulder-internal-rotator-muscles:
+ref-shoulder-internal-rotator-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder muscle groups/shoulder_internal_rotator_muscles.html"
-ref-shoulder-external-rotator-muscles:
+ref-shoulder-external-rotator-muscle-group:
   path: "The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Shoulder muscle groups/shoulder_external_rotator_muscles.html"
 
 
 
 ### Anterior axioappendicular muscles
 ref-pectoralis-major:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_major_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_major_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_major_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_major_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_major_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_major.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_major.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_major.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_major.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_major.html#action"
 
 ref-pectoralis-minor:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_minor_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_minor_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_minor_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_minor_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_minor_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_minor.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_minor.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_minor.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_minor.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/pectoralis_minor.html#action"
 
 ref-subclavius:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/subclavius_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/subclavius_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/subclavius_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/subclavius_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/subclavius_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/subclavius.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/subclavius.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/subclavius.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/subclavius.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/subclavius.html#action"
 
 ref-serratus-anterior:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior.html#action"
 
 ### Posterior axioappendicular muscles
 ref-latissimus-dorsi:
@@ -1016,25 +1026,25 @@ ref-rhomboid-minor:
 
 ### Scapulohumeral (Intrinsic Shoulder Muscles)
 ref-deltoid-muscle:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.html"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid.html"
 ref-deltoid-muscle-anterior:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid.html#action"
 ref-deltoid-muscle-lateral:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid.html#action"
 ref-deltoid-muscle-posterior:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/deltoid.html#action"
 ref-teres-major:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/teres_major.html"
   origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/teres_major.html#origin"
@@ -1046,29 +1056,29 @@ ref-teres-major:
 ref-rotator-cuff-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/rotator_cuff_muscles.html"
 ref-supraspinatus:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/supraspinatus_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/supraspinatus_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/supraspinatus_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/supraspinatus_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/supraspinatus_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/supraspinatus.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/supraspinatus.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/supraspinatus.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/supraspinatus.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/supraspinatus.html#action"
 ref-infraspinatus:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/infraspinatus_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/infraspinatus_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/infraspinatus_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/infraspinatus_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/infraspinatus_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/infraspinatus.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/infraspinatus.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/infraspinatus.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/infraspinatus.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/infraspinatus.html#action"
 ref-subscapularis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/subscapularis_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/subscapularis_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/subscapularis_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/subscapularis_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/subscapularis_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/subscapularis.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/subscapularis.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/subscapularis.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/subscapularis.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/subscapularis.html#action"
 ref-teres-minor:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/teres_minor_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/teres_minor_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/teres_minor_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/teres_minor_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/teres_minor_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/teres_minor.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/teres_minor.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/teres_minor.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/teres_minor.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/teres_minor.html#action"
 
 ### Muscles of Anterior Compartment of Arm
 ref-biceps-brachii-long-head:
@@ -1233,11 +1243,11 @@ ref-extensor-indicis:
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_indicis.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/extensor_indicis.html#action"
 ref-supinator:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/supinator_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/supinator_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/supinator_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/supinator_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/supinator_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/supinator.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/supinator.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/supinator.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/supinator.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/supinator.html#action"
 ref-abductor-pollicis-longus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/abductor_pollicis_longus.html"
   origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Posterior Compartment/abductor_pollicis_longus.html#origin"
@@ -1337,34 +1347,34 @@ ref-iliopsoas-muscle-group:
   mmt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliopsoas_muscle_group.html#mmt"
   mlt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliopsoas_muscle_group.html#mlt"
 ref-iliacus:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliacus_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliacus_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliacus_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliacus_muscle.html#nerve"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliacus_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliacus.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliacus.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliacus.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliacus.html#nerve"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/iliacus.html#action"
 
 ref-psoas-major:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_major_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_major_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_major_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_major_muscle.html#nerve"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_major_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_major.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_major.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_major.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_major.html#nerve"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_major.html#action"
 
 ref-psoas-minor:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_minor_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_minor_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_minor_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_minor_muscle.html#nerve"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_minor_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_minor.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_minor.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_minor.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_minor.html#nerve"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_minor.html#action"
 
 
 #### Gluteal muscles
 ref-gluteus-maximus:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_maximus_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_maximus_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_maximus_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_maximus_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_maximus_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_maximus.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_maximus.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_maximus.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_maximus.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_maximus.html#action"
 
 ref-gluteus-medius:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_medius.html"
@@ -1388,66 +1398,66 @@ ref-tensor-fascia-latae:
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/tensor_fascia_latae_TFL.html#action"
 
 ref-piriformis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis.html#action"
 
 ref-obturator-internus:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/obturator_internus_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/obturator_internus_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/obturator_internus_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/obturator_internus_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/obturator_internus_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/obturator_internus.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/obturator_internus.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/obturator_internus.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/obturator_internus.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/obturator_internus.html#action"
 
 ref-superior-gemellus:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/superior_gemellus_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/superior_gemellus_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/superior_gemellus_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/superior_gemellus_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/superior_gemellus_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/superior_gemellus.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/superior_gemellus.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/superior_gemellus.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/superior_gemellus.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/superior_gemellus.html#action"
 
 ref-inferior-gemellus:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/inferior_gemellus_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/inferior_gemellus_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/inferior_gemellus_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/inferior_gemellus_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/inferior_gemellus_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/inferior_gemellus.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/inferior_gemellus.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/inferior_gemellus.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/inferior_gemellus.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/inferior_gemellus.html#action"
 
 ref-quadratus-femoris:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris.html#action"
 
 
 #### Medial Thigh Muscles
 ref-hip-abductor-muscle-group:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_abductor_muscles.html"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_abductor_muscle_group.html"
 ref-hip-adductor-muscle-group:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_adductor_muscles.html"
-  primary: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_adductor_muscles.html"
-  secondary: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_adductor_muscles.html"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_adductor_muscle_group.html"
+  primary: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_adductor_muscle_group.html"
+  secondary: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_adductor_muscle_group.html"
 ref-hip-flexor-muscle-group:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_flexor_muscles.html"
-  mmt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_flexor_muscles.html"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_flexor_muscle_group.html"
+  mmt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_flexor_muscle_group.html"
 ref-hip-extensor-muscle-group:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_extensor_muscles.html"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_extensor_muscle_group.html"
 ref-hip-external-rotator-muscle-group:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_external_rotators.html"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_external_rotator_muscle_group.html"
 ref-hip-internal-rotator-muscle-group:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/Hip_internal_rotators_muscles.html"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/Hip_internal_rotator_muscle_group.html"
 ref-pelvitrochanteric-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/pelvitrochanteric_muscle_group.html"
 
 ref-pectineus:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus.html#action"
 
 ref-adductor-longus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_longus.html"
@@ -1464,11 +1474,11 @@ ref-adductor-brevis:
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_brevis.html#action"
 
 ref-gracilis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis.html#action"
 
 ref-obturator-externus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/obturator_externus.html"
@@ -1612,18 +1622,18 @@ ref-gastrocnemius:
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html#action"
 
 ref-soleus:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus.html#action"
 
 ref-plantaris:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris.html#action"
 
 ref-tibialis-posterior:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.html"
@@ -1649,28 +1659,28 @@ ref-flexor-hallucis-longus:
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.html#action"
 
 ref-popliteus:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus.html#action"
 
 ### Knee and ankle lateral compartment
 ref-fibularis-longus:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus_muscle.html#action"
-  mmt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus_muscle.html#mmt"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus.html#action"
+  mmt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_longus.html#mmt"
 
 ref-fibularis-brevis:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis_muscle.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis_muscle.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis_muscle.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis_muscle.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis_muscle.html#action"
-  mmt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis_muscle.html#mmt"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis.html#action"
+  mmt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Lateral compartment/fibularis_brevis.html#mmt"
 
 
 
@@ -1763,11 +1773,11 @@ ref-plantar-interossei-foot:
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/plantar_interossei.html#action"
 
 ref-dorsal-interossei-foot:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.html#nerve"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei.html#action"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei_foot.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei_foot.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei_foot.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei_foot.html#nerve"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/dorsal_interossei_foot.html#action"
 
 
 ## Nerve root
@@ -3144,6 +3154,7 @@ ref-cn6:
   path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN6_Abducens.html"
 ref-cn7:
   path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN7_Facial.html"
+  palsy: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN7_Facial.html#palsy"
 ref-cn8:
   path: "/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/CN8_Vestibulocochlear.html"
 ref-cn9:

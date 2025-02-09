@@ -6,12 +6,9 @@ the platysma is the most superficial mm in cervical region.
 The platysma covers the pec and deltoid and extends to inferior margin of body of mandible.
 It functions as one of the muscles of facial expression and can restrain head extension.
 
+![Nerves of the scalp and side of the neck @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image790 The nerves of the scalp face and side of neck.gif)
 
 
-
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Platysma muscle]({{< var ref-platysma.path >}}) | {{< var ref-platysma.origin >}} | {{< var ref-platysma.insertion >}} | {{< var ref-platysma.nerve >}} | {{< var ref-platysma.action >}} |
 
 # Anatomy
 ## Overview

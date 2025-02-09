@@ -8,6 +8,14 @@ to read
 
 -->
 
+![Path of the Oculomotor nerve @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image775 Plan of oculomotor nerve.gif)
+
+![Nerves of the orbit and ciliar ganglion (lateral view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image777 Nerves of the orbit and the ciliary ganglion. Side view.gif)
+
+![Mode of innervation of the recti medialis and lateralis @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image785 Figure showing the mode of innervation of the Recti medialis and lateralis of the eye.gif)
+
+![Oblique section through the right cavernous sinus @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image786 Oblique section through the right cavernous sinus.gif)
+
 ```{mermaid}
 flowchart TD
   A[Interpeduncular fossa of Midbrain] --> B[Oculomotor Nucleus]

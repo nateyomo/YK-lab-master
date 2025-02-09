@@ -1,0 +1,65 @@
+---
+title: Iliacus Muscle
+---
+
+![Muscles of the Iliac and Anterior femoral regions @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image430 Muscles of the iliac and anterior femoral regions.gif)
+
+
+```{python tbl-iliacus-oian}
+#| label: tbl-iliacus-oian
+#| warning: false
+#| message: false
+#| echo: false
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'muscle_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['iliacus']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+# Origin {#origin}
+Iliac fossa
+
+# Insertion {#insertion}
+Femur (lesser trochanter)
+
+# Innervation {#innervation}
+
+[Femoral N.]({{< var ref-femoral-nerve.path >}}) ([L2]({{< var ref-nerve-root.l2 >}}), [L3]({{< var ref-nerve-root.l3 >}})) @gilroyAtlasAnatomy2020 
+
+# Action {#action}
+
+- **Hip joint**: flexion and external rotation
+- **L/S**: unilateral contraction (with the femur fixed) flexes the trunk laterally to the same side; bilateral contraction raises the trunk from the supine position
+
+
+
+# Overview
+
+# Stretches
+
+- [3D hip flexor stretch]({{< var ref-3d-hip-flexor-stretch.path >}})

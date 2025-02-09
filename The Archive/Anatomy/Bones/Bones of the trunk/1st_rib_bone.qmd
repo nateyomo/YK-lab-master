@@ -146,3 +146,16 @@ Assessment
 
 Onset was associated with direct traumas, whiplash, shoulder girdle efforts, such as carrying heavy bags or pulling on ipsilateral arm, and shoulder surgery @mastromarchiFirstRibDysfunction2021
 
+
+# Mobilization
+
+
+## Safety
+
+- If pain/paresthesias w/ rib mobs, authors discourage use @hooperpart2ThoracicOutletSyndrome2010a
+- However if associated w a release phenomenon (nerve function regaining), continue doing mobilizations @hooperpart2ThoracicOutletSyndrome2010a
+
+
+## Indication
+
+- [Thoracic outlet syndrome]({{< var ref-thoracic-outlet.syndrome >}}) due to costoclavicular space compression @hooperpart2ThoracicOutletSyndrome2010a

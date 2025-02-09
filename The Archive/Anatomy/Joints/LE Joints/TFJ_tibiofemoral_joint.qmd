@@ -51,6 +51,15 @@ title: Tibiofemoral Joint
 "The transition from NWB to WB has been found to produce a threefold increase of anterior translation of the tibia relative to the femur in the ACL-deficient knee compared with the contralateral normal knees." @duttonDuttonOrthopaedicExamination2020
 :::
 
+# Osteoarthritis
+
+## Medial OA {medial-osteoarthritis}
+
+Chronic *genu varus* often results in medial tibiofemoral osteoarthritis @jonesProjectFoundations2025.
+
+## Lateral OA {#lateral-osteoarthritis}
+
+Chronic *genu valgum* often results in lateral tibiofemoral osteoarthritis @jonesProjectFoundations2025.
 
 # ROM
 

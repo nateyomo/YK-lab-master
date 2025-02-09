@@ -78,7 +78,7 @@ When looking at the shoulder as a whole, the coracobrachialis assists with the f
 
 # Function
 
-Coracobrachialis serves as a [secondary flexor]({{< var ref-shoulder-flexor-muscles.path >}}) and [adductor]({{< var ref-shoulder-adductor-muscles.path >}}) of the shoulder @bielTrailGuideBody2019.
+Coracobrachialis serves as a [secondary flexor]({{< var ref-shoulder-flexor-muscle-group.path >}}) and [adductor]({{< var ref-shoulder-adductor-muscle-group.path >}}) of the shoulder @bielTrailGuideBody2019.
 
  The coracobrachialis is usually recruitted when:
 

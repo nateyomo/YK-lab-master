@@ -3,15 +3,7 @@ title: Vastus Intermedius
 ---
 
 
-:::{layout-ncol="3"}
-
-![Schematic of Anterior Thigh Muscles @gilroyAtlasAnatomy2020 </br> 1: Sartorius </br> 2: Rectus Femoris </br> 3: Vastus Medialis </br> 4: Vastus Lateralis </br> Vastus Intermedius](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24a anterior thigh muscles schematic.png)
-
-
-![Deep Layer of Anterior Thigh Muscle @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24c anterior thigh muscles deep layer.png)
-
-:::
-
+![Cross-section of middle thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image432 Cross-section through the middle of the thigh.gif)
 
 ```{python tbl-oian}
 #| label: tbl-oian

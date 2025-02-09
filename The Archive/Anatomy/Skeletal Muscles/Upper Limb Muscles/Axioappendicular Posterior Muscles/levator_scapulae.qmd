@@ -3,6 +3,9 @@ title: Levator Scapulae
 ---
 
 
+![Hypoglossal nerve, cervical plexus, and their respective branches @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image794 Hypoglossal nerve cervical plexus and their branches.gif)
+
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false

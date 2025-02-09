@@ -3,16 +3,7 @@ title: Extensor Digitorum Longus (EHL)
 ---
 
 
-:::{layout-ncol="3"}
-
-![Schematic of Muscles in the Anterior Compartment of the Leg</br> 1: Tibialis Anterior </br> 2: Extensor Hallucis Longus </br> 3: Extensor Digitorum Longus </br> 4: Fibularis Tertius](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/images/gilroyatlas fig32.22a anterior compartment of leg schematic.png)
-
-
-![Muscles in the Anterior Compartment of the Leg](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/images/gilroyatlas fig32.22b anterior compartment of leg.png)
-
-
-:::
-
+![Muscles of the anterior leg @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image437 Muscles of the front of the leg.gif)
 
 
 ```{python tbl-oian}

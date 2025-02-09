@@ -3,6 +3,38 @@ title: Ankle and Foot Region
 subtitle: Musculoskeletal Overview
 ---
 
+:::{layout-ncol="3"}
+![Muscles of the anterior leg @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image437 Muscles of the front of the leg.gif)
+
+![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif)
+
+![Deep posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image439 Muscles of the back of the leg. Deep layer.gif)
+:::
+
+:::{layout-ncol="2"}
+![The Mucous sheaths of the tendons around the ankle (lateral view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image441 The mucous sheaths of the tendons around the ankle. Lateral aspect.gif)
+
+![The Mucous sheaths of the tendons around the ankle (medial view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image442 The mucous sheaths of the tendons around the ankle. Medial aspect.gif)
+
+:::
+
+:::{layout-ncol="3"}
+
+![1st layer of the plantar foot @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image443 Muscles of the sole of the foot. First layer.gif)
+
+![2nd layer of the plantar foot @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image444 Muscles of the sole of the foot. Second layer.gif)
+
+![3rd layer of the plantar foot @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image445 Muscles of the sole of the foot. Third layer.gif)
+
+:::
+
+:::{layout-ncol="2"}
+![Dorsal Interossei of the Foot @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image446 The Interossei dorsales. Left foot.gif)
+
+![Plantar Interossei of the Foot @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image447 The Interossei plantares. Left foot.gif)
+
+:::
+
 The ankle and foot are the first line of defense when reacting to ground reaction forces.
 The ankle functions to orient the body on the foot in the linear plane of movement @jonesProjectFoundations2025.
 Since the body delicately balances on the ankle, the foot must adjust and orient relative to the ankle @jonesProjectFoundations2025.
@@ -371,6 +403,15 @@ As a PT student, I was so preoccupied to diagnose a problem and label it a "X" s
 - Distal posterior 2/3:
     - [Flexor hallucis longus]({{< var ref-flexor-hallucis-longus.origin >}})
 
+Hooklying position
+
+- Clinician faces patient
+- Patient's heel on table with the foot dorsiflexed and the forefoot resting on the the clinician's knee.
+- Palpate the posterior fibula and use a *lumbrical grip* to assess movement of the fibula relative to the surrounding tissue @jonesProjectFoundations2025.
+    - This is *not* an assessment of the proximal or distal tibiofibular joints, but rather seeing how the fibula moves as you move distal to proximally.
+    - This is assessing how restricted the tissues around the fibula are.
+- Use the opposite hand to assess and treat the tissues on the medial aspect of the fibula to the tibia.
+
 # Ankle assessment
 
 ## Dorsiflexion
@@ -617,5 +658,3 @@ The cuboid normally has less extension than the 5th MTP @jonesProjectFoundations
     - Ant drawer?
 
 ## Medial Ankle (Deltoid ligament)
-
-- j

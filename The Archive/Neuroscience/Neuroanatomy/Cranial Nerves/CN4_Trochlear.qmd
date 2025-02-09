@@ -9,6 +9,17 @@ to read
 
 -->
 
+![Nerves of the Orbit](/The Archive/Images/Gray anatomy 1918 images/Neurology/image776 Nerves of the orbit. Seen from above.gif)
+
+![Nerves of the orbit and ciliar ganglion (lateral view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image777 Nerves of the orbit and the ciliary ganglion. Side view.gif)
+
+![Oblique section through the right cavernous sinus @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image786 Oblique section through the right cavernous sinus.gif)
+
+![Dissection showing the origins of the right ocular muscles and the nerves entering the superior orbital fissure @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image787 Dissection showing origins of right ocular muscles, and nerves entering by the superior orbital fissure.gif)
+
+
+![Upper part of medulla spinalis, hindbrain, and midbrain (posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image792 Upper part of medulla spinalis and hind- and mid-brains posterior aspect exposed in situ.gif)
+
 ```{mermaid}
 flowchart TB
   Lmidbrain[L Tegmentum of Midbrain] --> Decussate[Decussate]

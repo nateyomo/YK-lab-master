@@ -63,6 +63,9 @@ div.csl-indent {
 <link href="../../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../../../site_libs/bootstrap/bootstrap-2cd373bbd777488a2901da25ac479b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../../../../../site_libs/bootstrap/bootstrap-dark-30247d3b2cd0522fbeca720c4281c240.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -93,9 +96,10 @@ div.csl-indent {
 <link rel="stylesheet" href="../../../../../styles.css">
 <meta name="twitter:title" content="Knee Region">
 <meta name="twitter:description" content="A Musculoskeletal Overview">
+<meta name="twitter:image" content="https://yomokerst.com/The Archive/Images/Gray anatomy 1918 images/Myology/image345 Right knee-joint. Anterior view.gif">
 <meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
 <meta name="twitter:site" content="@yomokerst">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="floating nav-fixed">
@@ -158,15 +162,53 @@ div.csl-indent {
   </ul></li>
   <li><a href="#blood-supply" id="toc-blood-supply" class="nav-link" data-scroll-target="#blood-supply">Blood Supply</a></li>
   <li><a href="#innervation" id="toc-innervation" class="nav-link" data-scroll-target="#innervation">Innervation</a></li>
-  <li><a href="#kinematics" id="toc-kinematics" class="nav-link" data-scroll-target="#kinematics">Kinematics</a>
+  <li><a href="#joint-capsule" id="toc-joint-capsule" class="nav-link" data-scroll-target="#joint-capsule">Knee Joint Capsule</a></li>
+  <li><a href="#bursa" id="toc-bursa" class="nav-link" data-scroll-target="#bursa">Bursa</a></li>
+  <li><a href="#ligaments" id="toc-ligaments" class="nav-link" data-scroll-target="#ligaments">Ligaments</a></li>
+  <li><a href="#synovium" id="toc-synovium" class="nav-link" data-scroll-target="#synovium">Synovium</a>
   <ul class="collapse">
-  <li><a href="#knee-rotation" id="toc-knee-rotation" class="nav-link" data-scroll-target="#knee-rotation">Knee rotation</a></li>
+  <li><a href="#synovial-membrane" id="toc-synovial-membrane" class="nav-link" data-scroll-target="#synovial-membrane">Synovial membrane</a></li>
+  <li><a href="#synovial-fluid" id="toc-synovial-fluid" class="nav-link" data-scroll-target="#synovial-fluid">Synovial fluid</a></li>
+  <li><a href="#plica" id="toc-plica" class="nav-link" data-scroll-target="#plica">Plica</a></li>
   </ul></li>
+  <li><a href="#flexion-extension" id="toc-flexion-extension" class="nav-link" data-scroll-target="#flexion-extension">Flexion &amp; Extension</a></li>
+  <li><a href="#axial-rotation" id="toc-axial-rotation" class="nav-link" data-scroll-target="#axial-rotation">Axial rotation</a>
+  <ul class="collapse">
+  <li><a href="#internal-rotation" id="toc-internal-rotation" class="nav-link" data-scroll-target="#internal-rotation">Internal Rotation</a></li>
+  <li><a href="#external-rotation" id="toc-external-rotation" class="nav-link" data-scroll-target="#external-rotation">External Rotation</a></li>
+  <li><a href="#active-axial-rotation" id="toc-active-axial-rotation" class="nav-link" data-scroll-target="#active-axial-rotation">Active axial rotation</a></li>
+  <li><a href="#passive-axial-rotation" id="toc-passive-axial-rotation" class="nav-link" data-scroll-target="#passive-axial-rotation">Passive axial rotation</a></li>
+  </ul></li>
+  <li><a href="#articular-surfaces" id="toc-articular-surfaces" class="nav-link" data-scroll-target="#articular-surfaces">Articular surfaces</a>
+  <ul class="collapse">
+  <li><a href="#femoral-condyles" id="toc-femoral-condyles" class="nav-link" data-scroll-target="#femoral-condyles">Femoral condyles</a></li>
+  <li><a href="#tibial-and-patellar-articular-surfaces" id="toc-tibial-and-patellar-articular-surfaces" class="nav-link" data-scroll-target="#tibial-and-patellar-articular-surfaces">Tibial and patellar articular surfaces</a></li>
+  <li><a href="#tibiofemoral-joint" id="toc-tibiofemoral-joint" class="nav-link" data-scroll-target="#tibiofemoral-joint">Tibiofemoral joint</a></li>
+  <li><a href="#patellofemoral-joint" id="toc-patellofemoral-joint" class="nav-link" data-scroll-target="#patellofemoral-joint">Patellofemoral joint</a></li>
+  </ul></li>
+  <li><a href="#meniscus" id="toc-meniscus" class="nav-link" data-scroll-target="#meniscus">Meniscus</a></li>
   <li><a href="#alignment" id="toc-alignment" class="nav-link" data-scroll-target="#alignment">Alignment</a>
   <ul class="collapse">
   <li><a href="#q-angle" id="toc-q-angle" class="nav-link" data-scroll-target="#q-angle">Q-angle</a></li>
   <li><a href="#varus" id="toc-varus" class="nav-link" data-scroll-target="#varus">Varus</a></li>
   <li><a href="#valgus" id="toc-valgus" class="nav-link" data-scroll-target="#valgus">Valgus</a></li>
+  <li><a href="#measuring-genu-varum-and-valgum" id="toc-measuring-genu-varum-and-valgum" class="nav-link" data-scroll-target="#measuring-genu-varum-and-valgum">Measuring Genu Varum and Valgum</a>
+  <ul class="collapse">
+  <li><a href="#femoral-shaft-to-tibia-angle" id="toc-femoral-shaft-to-tibia-angle" class="nav-link" data-scroll-target="#femoral-shaft-to-tibia-angle">Femoral shaft to tibia angle</a></li>
+  <li><a href="#hka-displacement" id="toc-hka-displacement" class="nav-link" data-scroll-target="#hka-displacement">HKA displacement</a></li>
+  <li><a href="#kinematics" id="toc-kinematics" class="nav-link" data-scroll-target="#kinematics">Kinematics</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#injury-prediction" id="toc-injury-prediction" class="nav-link" data-scroll-target="#injury-prediction">Injury prediction</a></li>
+  <li><a href="#interventions" id="toc-interventions" class="nav-link" data-scroll-target="#interventions">Interventions</a></li>
+  <li><a href="#examination" id="toc-examination" class="nav-link" data-scroll-target="#examination">Examination</a></li>
+  <li><a href="#tests" id="toc-tests" class="nav-link" data-scroll-target="#tests">Tests</a>
+  <ul class="collapse">
+  <li><a href="#meniscus-1" id="toc-meniscus-1" class="nav-link" data-scroll-target="#meniscus-1">Meniscus</a></li>
+  <li><a href="#lateral-collateral-ligament" id="toc-lateral-collateral-ligament" class="nav-link" data-scroll-target="#lateral-collateral-ligament">Lateral collateral ligament</a></li>
+  <li><a href="#medical-collateral-ligament" id="toc-medical-collateral-ligament" class="nav-link" data-scroll-target="#medical-collateral-ligament">Medical collateral ligament</a></li>
+  <li><a href="#acl" id="toc-acl" class="nav-link" data-scroll-target="#acl">ACL</a></li>
+  <li><a href="#pcl" id="toc-pcl" class="nav-link" data-scroll-target="#pcl">PCL</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -225,17 +267,151 @@ div.csl-indent {
 </header>
 
 
-<p>The knee region as a whole exists as an intermediate to link the hip and ankle/foot. This region consists of <a href="#joints">joints</a> that primarily perform sagittal flexion and extension in order to control the distance between the body and the ground<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">1</a></sup></span>.</p>
+<div id="fig-345-anterior-knee-joint" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-345-anterior-knee-joint-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image345 Right knee-joint. Anterior view.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Figure&nbsp;1: Knee joint (Right anterior)"><img src="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image345 Right knee-joint. Anterior view.gif" class="img-fluid figure-img"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-345-anterior-knee-joint-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Knee joint (Right anterior)
+</figcaption>
+</figure>
+</div>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div id="fig-image430-anterior-iliac-femoral" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-image430-anterior-iliac-femoral-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image430 Muscles of the iliac and anterior femoral regions.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Figure&nbsp;2: Muscles of the anterior hip and thigh @grayAnatomyHumanBody1918"><img src="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image430 Muscles of the iliac and anterior femoral regions.gif" class="img-fluid figure-img"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-image430-anterior-iliac-femoral-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Muscles of the anterior hip and thigh<span class="citation" data-cites="grayAnatomyHumanBody1918"><sup><a href="#ref-grayAnatomyHumanBody1918" role="doc-biblioref">1</a></sup></span>
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div id="fig-image433-deep-medial-femoral" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-image433-deep-medial-femoral-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image433 Deep muscles of the medial femoral region.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="Figure&nbsp;3: Deep muscles of the medial femoral region @grayAnatomyHumanBody1918"><img src="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image433 Deep muscles of the medial femoral region.gif" class="img-fluid figure-img"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-image433-deep-medial-femoral-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: Deep muscles of the medial femoral region<span class="citation" data-cites="grayAnatomyHumanBody1918"><sup><a href="#ref-grayAnatomyHumanBody1918" role="doc-biblioref">1</a></sup></span>
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918"><img src="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif" class="img-fluid figure-img" alt="Muscles of the gluteal and posterior femoral region1"></a></p>
+<figcaption>Muscles of the gluteal and posterior femoral region<span class="citation" data-cites="grayAnatomyHumanBody1918"><sup><a href="#ref-grayAnatomyHumanBody1918" role="doc-biblioref">1</a></sup></span></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image437 Muscles of the front of the leg.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="Muscles of the anterior leg @grayAnatomyHumanBody1918"><img src="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image437 Muscles of the front of the leg.gif" class="img-fluid figure-img" alt="Muscles of the anterior leg1"></a></p>
+<figcaption>Muscles of the anterior leg<span class="citation" data-cites="grayAnatomyHumanBody1918"><sup><a href="#ref-grayAnatomyHumanBody1918" role="doc-biblioref">1</a></sup></span></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-6" title="Superficial muscles of the posterior leg @grayAnatomyHumanBody1918"><img src="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif" class="img-fluid figure-img" alt="Superficial muscles of the posterior leg1"></a></p>
+<figcaption>Superficial muscles of the posterior leg<span class="citation" data-cites="grayAnatomyHumanBody1918"><sup><a href="#ref-grayAnatomyHumanBody1918" role="doc-biblioref">1</a></sup></span></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image439 Muscles of the back of the leg. Deep layer.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-7" title="Deep muscles of the posterior leg @grayAnatomyHumanBody1918"><img src="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image439 Muscles of the back of the leg. Deep layer.gif" class="img-fluid figure-img" alt="Deep muscles of the posterior leg1"></a></p>
+<figcaption>Deep muscles of the posterior leg<span class="citation" data-cites="grayAnatomyHumanBody1918"><sup><a href="#ref-grayAnatomyHumanBody1918" role="doc-biblioref">1</a></sup></span></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image345 Right knee-joint. Anterior view.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-8" title="Anterior knee joint (right) @grayAnatomyHumanBody1918"><img src="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image345 Right knee-joint. Anterior view.gif" class="img-fluid figure-img" alt="Anterior knee joint (right)1"></a></p>
+<figcaption>Anterior knee joint (right)<span class="citation" data-cites="grayAnatomyHumanBody1918"><sup><a href="#ref-grayAnatomyHumanBody1918" role="doc-biblioref">1</a></sup></span></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image346 Right knee-joint. Posterior view.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-9" title="Posterior knee joint (right) @grayAnatomyHumanBody1918"><img src="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image346 Right knee-joint. Posterior view.gif" class="img-fluid figure-img" alt="Posterior knee joint (right)1"></a></p>
+<figcaption>Posterior knee joint (right)<span class="citation" data-cites="grayAnatomyHumanBody1918"><sup><a href="#ref-grayAnatomyHumanBody1918" role="doc-biblioref">1</a></sup></span></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image347 Right knee-joint, from the front, showing interior ligaments.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-10" title="Anterior knee joint ligaments (right) @grayAnatomyHumanBody1918"><img src="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image347 Right knee-joint, from the front, showing interior ligaments.gif" class="img-fluid figure-img" alt="Anterior knee joint ligaments (right)1"></a></p>
+<figcaption>Anterior knee joint ligaments (right)<span class="citation" data-cites="grayAnatomyHumanBody1918"><sup><a href="#ref-grayAnatomyHumanBody1918" role="doc-biblioref">1</a></sup></span></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image348 Left knee-joint from behind, showing interior ligaments.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-11" title="Posterior knee joint ligaments (right) @grayAnatomyHumanBody1918"><img src="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image348 Left knee-joint from behind, showing interior ligaments.gif" class="img-fluid figure-img" alt="Posterior knee joint ligaments (right)1"></a></p>
+<figcaption>Posterior knee joint ligaments (right)<span class="citation" data-cites="grayAnatomyHumanBody1918"><sup><a href="#ref-grayAnatomyHumanBody1918" role="doc-biblioref">1</a></sup></span></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image350 Sagittal section of right knee-joint.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-12" title="Sagittal cross section of the Knee joint (right) @grayAnatomyHumanBody1918"><img src="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image350 Sagittal section of right knee-joint.gif" class="img-fluid figure-img" alt="Sagittal cross section of the Knee joint (right)1"></a></p>
+<figcaption>Sagittal cross section of the Knee joint (right)<span class="citation" data-cites="grayAnatomyHumanBody1918"><sup><a href="#ref-grayAnatomyHumanBody1918" role="doc-biblioref">1</a></sup></span></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<p>The knee region as a whole exists as an intermediate to link the hip and ankle/foot. This region consists of <a href="#joints">joints</a> that primarily perform sagittal flexion and extension in order to control the distance between the body and the ground<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
 <section id="development" class="level1">
 <h1>Development</h1>
-<p>The patellofemoral joint (PFJ) does not even have a patella until ages 2-6 years. As a baby takes its first steps ~12mo, the lower extremity begins to adapt and develop <em>with purpose</em><span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">1</a></sup></span>.</p>
+<p>The patellofemoral joint (PFJ) does not even have a patella until ages 2-6 years. As a baby takes its first steps ~12mo, the lower extremity begins to adapt and develop <em>with purpose</em><span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
 </section>
 <section id="joint" class="level1">
 <h1>Joints</h1>
 <p>The joints of the knee work together to primarily create sagittal plane flexion-extension.</p>
 <ul>
-<li>Tibiofemoral joint</li>
-<li>Patellofemoral Joint</li>
+<li><a href="../../../../../The Archive/Anatomy/Joints/LE Joints/TFJ_tibiofemoral_joint.html">Tibiofemoral joint</a></li>
+<li><a href="../../../../../The Archive/Anatomy/Joints/LE Joints/patellofemoral_joint.html">Patellofemoral Joint</a></li>
 </ul>
 <section id="axis-of-rotation" class="level2">
 <h2 class="anchored" data-anchor-id="axis-of-rotation">Axis of Rotation</h2>
@@ -250,7 +426,13 @@ Find an area for this
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>“There are three fat pads located at the anterior knee: the quadriceps fat pad, the prefemoral fat pad, and the infrapatellar (Hoffa) fat pad. The fat pads of the knee house neurovascular projections. The functions of the fat pads include the following: ▶ Synovial fluid secretion ▶ Joint stability ▶ Neurovascular supply ▶ Occupiers of dead space”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">2</a></sup></span></p>
+<p>“There are three fat pads located at the anterior knee: the quadriceps fat pad, the prefemoral fat pad, and the infrapatellar (Hoffa) fat pad. The fat pads of the knee house neurovascular projections. The functions of the fat pads include the following:</p>
+<ul>
+<li>Synovial fluid secretion</li>
+<li>Joint stability</li>
+<li>Neurovascular supply</li>
+<li>Occupiers of dead space<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">3</a></sup></span></li>
+</ul>
 </div>
 </div>
 </section>
@@ -259,85 +441,380 @@ Find an area for this
 <h1>Blood Supply</h1>
 <p>“The major blood supply to this area comes from the femoral (see Chapter 19), popliteal, and genicular arteries.”</p>
 <ul>
-<li>“Popliteal. Before bifurcating into the anterior and posterior tibial arteries, the popliteal artery normally courses beneath and between the medial and lateral heads of the gastrocnemius, adjacent to the plantaris and popliteus muscles, and through the tendinous arch of the soleus.34,35 Alteration of these normal structural relationships can cause compression of the popliteal artery—popliteal artery entrapment syndrome (see Chapter 5).”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">2</a></sup></span></li>
-<li>“Genicular. The descending genicular artery arises from the femoral artery, just before it passes through the adductor hiatus and immediately divides into the saphenous branch of descending genicular artery and the articular branches of descending genicular artery. The superior medial genicular artery and the superior lateral genicular artery both arise from the popliteal artery. The middle genicular artery is a small branch of the popliteal artery that originates inferior or distal to both of the superior genicular arteries. Arising from the middle genicular artery are the inferior medial and inferior lateral genicular arteries”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">2</a></sup></span></li>
+<li>“Popliteal. Before bifurcating into the anterior and posterior tibial arteries, the popliteal artery normally courses beneath and between the medial and lateral heads of the gastrocnemius, adjacent to the plantaris and popliteus muscles, and through the tendinous arch of the soleus.34,35 Alteration of these normal structural relationships can cause compression of the popliteal artery—popliteal artery entrapment syndrome (see Chapter 5).”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">3</a></sup></span></li>
+<li>“Genicular. The descending genicular artery arises from the femoral artery, just before it passes through the adductor hiatus and immediately divides into the saphenous branch of descending genicular artery and the articular branches of descending genicular artery. The superior medial genicular artery and the superior lateral genicular artery both arise from the popliteal artery. The middle genicular artery is a small branch of the popliteal artery that originates inferior or distal to both of the superior genicular arteries. Arising from the middle genicular artery are the inferior medial and inferior lateral genicular arteries”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">3</a></sup></span></li>
 </ul>
 </section>
 <section id="innervation" class="level1">
 <h1>Innervation</h1>
-<p>“The knee joint is innervated by the posterior articular branch of the posterior tibial nerve, which is formed from all five anterior divisions (L4, L5, and S1–S3) of the sacral plexus (see below), and the terminal branches of the obturator and femoral nerves.23 The course and distribution of the femoral nerve are described in Chapter 3. The lateral portion of the capsule is innervated by the recurrent peroneal branch of the common fibular (peroneal) nerve, which is formed by the upper four posterior divisions (L4, L5, and S1, S2) of the sacral plexus (see below). The saphenous nerve is the largest cutaneous branch of the femoral nerve (L2–L4). It leaves the subsartorial canal approximately 8–10 cm above the medial condyle of the knee and gives off branches to the medial aspect of the knee. Entrapment of the saphenous nerve during its course here can occur because of direct trauma, genu valgus, or knee instability, resulting in saphenous neuritis. The sciatic nerve (see Chapter 3) provides motor branches to the hamstrings and all muscles below the knee.33 It also provides the sensory innervation to the posterior thigh and entire leg and foot below the knee (except the medial aspect, which is innervated by the saphenous nerve).33”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">2</a></sup></span></p>
+<p>“The knee joint is innervated by the posterior articular branch of the posterior tibial nerve, which is formed from all five anterior divisions (L4, L5, and S1–S3) of the sacral plexus (see below), and the terminal branches of the obturator and femoral nerves.23 The course and distribution of the femoral nerve are described in Chapter 3. The lateral portion of the capsule is innervated by the recurrent peroneal branch of the common fibular (peroneal) nerve, which is formed by the upper four posterior divisions (L4, L5, and S1, S2) of the sacral plexus (see below). The saphenous nerve is the largest cutaneous branch of the femoral nerve (L2–L4). It leaves the subsartorial canal approximately 8–10 cm above the medial condyle of the knee and gives off branches to the medial aspect of the knee. Entrapment of the saphenous nerve during its course here can occur because of direct trauma, genu valgus, or knee instability, resulting in saphenous neuritis. The sciatic nerve (see Chapter 3) provides motor branches to the hamstrings and all muscles below the knee.33 It also provides the sensory innervation to the posterior thigh and entire leg and foot below the knee (except the medial aspect, which is innervated by the saphenous nerve).33”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">3</a></sup></span></p>
 </section>
-<section id="kinematics" class="level1">
-<h1>Kinematics</h1>
-<section id="knee-rotation" class="level2">
-<h2 class="anchored" data-anchor-id="knee-rotation">Knee rotation</h2>
-<p>“Active axial rotation in either direction is freest with the knee partially flexed. This axial rotation action of the hamstrings can be appreciated by palpating the tendons of semitendinosus and biceps femoris behind the knee as the leg is actively internally and externally rotated repeatedly. This is performed while the subject sits with the knee flexed 70 to 90 degrees. As the knee is gradually extended, the pivot point of the rotating lower leg shifts from the knee to the hip. At full extension, active rotation at the knee is restricted because the knee is mechanically locked and most ligaments are pulled taut. Furthermore, the moment arm of the hamstrings for internal and external rotation of the knee is reduced significantly in full extension.”<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">3</a></sup></span></p>
+<section id="joint-capsule" class="level1">
+<h1>Knee Joint Capsule</h1>
 <div>
 
 </div>
-<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-panel" data-layout-nrow="1">
 <div class="quarto-layout-row">
-<section id="internal-rotation" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<h3 class="anchored" data-anchor-id="internal-rotation">Internal Rotation</h3>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div id="fig-image351-lateral-knee-joint-capsule" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-image351-lateral-knee-joint-capsule-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image351 Distended Capsule of right knee-joint Lateral aspect.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-13" title="Figure&nbsp;4: Lateral view of Knee-joint capsule (right) @grayAnatomyHumanBody1918"><img src="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image351 Distended Capsule of right knee-joint Lateral aspect.gif" class="img-fluid figure-img"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-image351-lateral-knee-joint-capsule-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;4: Lateral view of Knee-joint capsule (right)<span class="citation" data-cites="grayAnatomyHumanBody1918"><sup><a href="#ref-grayAnatomyHumanBody1918" role="doc-biblioref">1</a></sup></span>
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div id="fig-image352-posterior-knee-joint-capsule" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-image352-posterior-knee-joint-capsule-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image352 Distended Capsule of right knee-joint Posterior aspect.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-14" title="Figure&nbsp;5: Posterior view of Knee-joint capsule (right) @grayAnatomyHumanBody1918"><img src="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image352 Distended Capsule of right knee-joint Posterior aspect.gif" class="img-fluid figure-img"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-image352-posterior-knee-joint-capsule-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5: Posterior view of Knee-joint capsule (right)<span class="citation" data-cites="grayAnatomyHumanBody1918"><sup><a href="#ref-grayAnatomyHumanBody1918" role="doc-biblioref">1</a></sup></span>
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<p>The <em>knee joint capsule</em> AKA the <em>articular capsule</em> refers to the fibrous sleeve that attaches the distal femur and proximal tibia. The inside of the knee joint capsule has a synovial lining<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+<p>Overall, the shape of the capsule is a cylinder that indents posteriorly between the femoral condyles<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>. The knee joint capsule is not continuous, there is an anterior opening in the capsule where the patella passes through<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+<p>The distal insertion of the knee joint capsules are distal to the tibiofemoral articulations<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>. The knee joint capsule attaches to the tibia just above the insertion of the <a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus.html#insertion">popliteus tendon</a><span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+<p>The joint capsule lines the deep surface of the <a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html">gastrocnemius heads</a> and separates them from the condylar articular surfaces<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>. In this posterior region, the capsule is thickened and forms the posterior condylar plates<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+<p>To learn more about the <a href="?var:ref-knee-joint.capsule">knee joint capsule, click here</a>.</p>
+</section>
+<section id="bursa" class="level1">
+<h1>Bursa</h1>
+</section>
+<section id="ligaments" class="level1">
+<h1>Ligaments</h1>
+<div id="fig-image349-tibia-head" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-image349-tibia-head-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image349 Head of right tibia seen from above, showing menisci and attachments of ligaments.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-15" title="Figure&nbsp;6: Head of tibia with menisci and ligaments (right) @grayAnatomyHumanBody1918"><img src="../../../../../The Archive/Images/Gray anatomy 1918 images/Myology/image349 Head of right tibia seen from above, showing menisci and attachments of ligaments.gif" class="img-fluid figure-img"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-image349-tibia-head-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;6: Head of tibia with menisci and ligaments (right)<span class="citation" data-cites="grayAnatomyHumanBody1918"><sup><a href="#ref-grayAnatomyHumanBody1918" role="doc-biblioref">1</a></sup></span>
+</figcaption>
+</figure>
+</div>
+<p>The <a href="?var:ref-anterior-cruciate-ligament.path">ACL</a> runs against the lateral aspect of the <a href="#joint-capsule">articular capsule</a><span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+<p>The <a href="?var:ref-posterior-cruciate-ligament.path">PCL</a> runs against the <em>medial</em> layer of the <a href="#joint-capsule">articular capsule</a><span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+<div class="columns">
+<div class="column">
+<section id="extrinsic-ligaments" class="level3">
+<h3 class="anchored" data-anchor-id="extrinsic-ligaments">Extrinsic ligaments</h3>
 <ul>
-<li>Semimembranosus<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">3</a></sup></span></li>
-<li>Semitendinosus<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">3</a></sup></span></li>
+<li>Anterior side
+<ul>
+<li>Patellar lig.<br>
+</li>
+<li>Medial longitudinal patellar retinaculum</li>
+<li>Lateral longitudinal patellar retinaculum</li>
+<li>Medial transverse patellar retinaculum</li>
+<li>Lateral transverse patellar retinaculum</li>
+</ul></li>
+<li>Medial and lateral sides
+<ul>
+<li>Medial (tibial) collateral lig.</li>
+<li>Lateral (fibular) collateral lig.</li>
+</ul></li>
+<li>Posterior side
+<ul>
+<li>Oblique popliteal lig.</li>
+<li>Arcuate popliteal lig.</li>
+</ul></li>
 </ul>
 </section>
-<section id="external-rotation" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<h3 class="anchored" data-anchor-id="external-rotation">External Rotation</h3>
+</div><div class="column">
+<section id="intrinsic-ligaments-of-the-knee" class="level3">
+<h3 class="anchored" data-anchor-id="intrinsic-ligaments-of-the-knee">Intrinsic ligaments of the knee:</h3>
 <ul>
-<li>Biceps Femoris<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">3</a></sup></span></li>
+<li><a href="?var:ref-anterior-cruciate-ligament.path">Anterior cruciate lig. (ACL)</a></li>
+<li><a href="?var:ref-posterior-cruciate-ligament.path">Posterior cruciate lig. (PCL)</a></li>
+<li><a href="?var:ref-transverse-ligament-of-the-knee.path">Transverse lig. of knee</a></li>
+<li>Posterior meniscofemoral ligament</li>
 </ul>
 </section>
 </div>
 </div>
 </section>
+<section id="synovium" class="level1">
+<h1>Synovium</h1>
+<p>The inner synovial membrane of the <a href="#knee-joint-capsule">joint capsule</a> secretes the synovial fluid<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+<section id="synovial-membrane" class="level2">
+<h2 class="anchored" data-anchor-id="synovial-membrane">Synovial membrane</h2>
+<p>The synovial membrane is vascular and porous, thus allows diffusion of most molecules except for the largest ones<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>. The fluid that the synovial membrane allows through is called <a href="#synovial-fluid">“synovial fluid”</a> which is a filtrate of blood plasma<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+<p>This is an important process for nutrient supply and waste removal from the avascular cartilage<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+</section>
+<section id="synovial-fluid" class="level2">
+<h2 class="anchored" data-anchor-id="synovial-fluid">Synovial fluid</h2>
+<p>The blood plasma is filtered through the synovial membrane and becomes “synovial fluid.” The synovial fluid has a yellow color and is highly viscous<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+<p>Synovial fluid builds up and forms a thin layer over the articular cartilage. Over time, the synovial fluid seeps into the micro-cavities and irregularities int he articular cartilage, which smooths the surface<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+<p>During knee joint loading and movement, the synovial fluid is squeezed out of the cartilage and helps to maintain a fresh fluid layer on the cartilage surface<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+<p>There are 2 primary functions of the synovial fluid:</p>
+<ol type="1">
+<li>Nourish the articulation and associated cartilage<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</li>
+<li>Reduce friction between articular cartilage<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</li>
+<li>A tertiary role is to use phagocytotic cells to remove microbes and debris and minimize wear and tear<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</li>
+</ol>
+</section>
+<section id="plica" class="level2">
+<h2 class="anchored" data-anchor-id="plica">Plica</h2>
+<p>Plica refers to the fold or ridge of the synovial lining. Each fold differs in size and shape.</p>
+<p>There are 4 major plica that <em>can</em> be present in adults:</p>
+<ol type="1">
+<li>Supra-patellar plica (55%)<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span></li>
+<li>Infra-patellar plica (65%)<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span></li>
+<li>Medial patellar plica (25%)<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span></li>
+<li>Lateral patellar plica (1%)<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span></li>
+</ol>
+<p>The <a href="?var:ref-plica.infrapatellar-plica">Infrapatellar plica</a> is an extension from the synovial lining and the <em>inrapatellar fat pad</em><span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+<p>Learn more about <a href="../../../../../The Archive/Anatomy/Connective tissue/plica.html">plica here</a>.</p>
+</section>
+</section>
+<section id="flexion-extension" class="level1">
+<h1>Flexion &amp; Extension</h1>
+<p>Sagittal flexion-extension is the primary movement of the knee.</p>
+<div class="columns">
+<div class="column">
+<section id="extension" class="level3">
+<h3 class="anchored" data-anchor-id="extension">Extension</h3>
+<p>Movement of the posterior lower leg away from the posterior thigh. 0-5° of hyperextension is common and normal, but &gt;5° is called <em>genu recurvatum</em> and is considered excessive.</p>
+</section>
+</div><div class="column">
+<section id="flexion" class="level3">
+<h3 class="anchored" data-anchor-id="flexion">Flexion</h3>
+<p>Flexion refers to the movement of the posterior lower leg moving towards the posterior thigh. Since the rectus femoris is a 2-joint muscle it will limit flexion to 120° when the hip is extension. When the hip is in flexion, the knee can achieve 140° normally<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+</section>
+</div>
+</div>
+</section>
+<section id="axial-rotation" class="level1">
+<h1>Axial rotation</h1>
+<p>Since the knee is a condylar joint and not a true hinge joint, it has secondary motions of axial rotation.</p>
+<p>“Active axial rotation in either direction is freest with the knee partially flexed. This axial rotation action of the hamstrings can be appreciated by palpating the tendons of semitendinosus and biceps femoris behind the knee as the leg is actively internally and externally rotated repeatedly. This is performed while the subject sits with the knee flexed 70 to 90 degrees. As the knee is gradually extended, the pivot point of the rotating lower leg shifts from the knee to the hip. At full extension, active rotation at the knee is restricted because the knee is mechanically locked and most ligaments are pulled taut. Furthermore, the moment arm of the hamstrings for internal and external rotation of the knee is reduced significantly in full extension.”<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">4</a></sup></span></p>
+<section id="internal-rotation" class="level2">
+<h2 class="anchored" data-anchor-id="internal-rotation">Internal Rotation</h2>
+<ul>
+<li>Semimembranosus<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">4</a></sup></span></li>
+<li>Semitendinosus<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">4</a></sup></span></li>
+</ul>
+</section>
+<section id="external-rotation" class="level2">
+<h2 class="anchored" data-anchor-id="external-rotation">External Rotation</h2>
+<ul>
+<li>Biceps Femoris<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">4</a></sup></span></li>
+</ul>
+</section>
+<section id="active-axial-rotation" class="level2">
+<h2 class="anchored" data-anchor-id="active-axial-rotation">Active axial rotation</h2>
+<p>You can perform active axial rotation of the tibia on the femur by:</p>
+<ol type="1">
+<li>Sit on a table with the leg hanging off so the knee is in flexion.</li>
+<li>Rotate so the toes face medially, this will result in 30° of knee internal rotation along with foot adduction<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</li>
+<li>Rotate the toes laterally to create 40° of knee external rotation along with foot abduction<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</li>
+</ol>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Decreasing the knee bend below 90-30° flexion results in a decrease in rotation range<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+</div>
+</div>
+</section>
+<section id="passive-axial-rotation" class="level2">
+<h2 class="anchored" data-anchor-id="passive-axial-rotation">Passive axial rotation</h2>
+<ul>
+<li>Patient supine</li>
+<li>Rotate the tibia internally and externally.</li>
+<li>You should expect to feel more range of motion than active rotation.</li>
+</ul>
+</section>
+</section>
+<section id="articular-surfaces" class="level1">
+<h1>Articular surfaces</h1>
+<section id="femoral-condyles" class="level2">
+<h2 class="anchored" data-anchor-id="femoral-condyles">Femoral condyles</h2>
+<p>The femoral condyles form distal medial and lateral articular surfaces of the femur, and a central patellar groove articular surface</p>
+</section>
+<section id="tibial-and-patellar-articular-surfaces" class="level2">
+<h2 class="anchored" data-anchor-id="tibial-and-patellar-articular-surfaces">Tibial and patellar articular surfaces</h2>
+<ul>
+<li>The tibia and patella combine to form a transverse axis</li>
+<li>The tibia creates “paralleling gutters” using the lateral articular surface and the medial articular surface<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</li>
+</ul>
+</section>
+<section id="tibiofemoral-joint" class="level2">
+<h2 class="anchored" data-anchor-id="tibiofemoral-joint">Tibiofemoral joint</h2>
+</section>
+<section id="patellofemoral-joint" class="level2">
+<h2 class="anchored" data-anchor-id="patellofemoral-joint">Patellofemoral joint</h2>
+</section>
+</section>
+<section id="meniscus" class="level1">
+<h1>Meniscus</h1>
 </section>
 <section id="alignment" class="level1">
 <h1>Alignment</h1>
+<p>Alignment is a vital consideration when understanding, assessing, and treating the knee. Abnormal loads distribution can result in premature degeneration.</p>
 <section id="q-angle" class="level2">
 <h2 class="anchored" data-anchor-id="q-angle">Q-angle</h2>
 </section>
 <section id="varus" class="level2">
 <h2 class="anchored" data-anchor-id="varus">Varus</h2>
+<p>Varus or <em>genu varum</em> refers to a lateral deviation in the knee.</p>
+<p>Chronic <em>genu varus</em> can result in medial tibiofemoral osteoarthritis.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><em>Genu varum</em> is usually paired with <em>coxa valga</em> at the hip.</p>
+</div>
+</div>
+<p><em>genu varum</em> is quantified in 2 ways:</p>
 </section>
 <section id="valgus" class="level2">
 <h2 class="anchored" data-anchor-id="valgus">Valgus</h2>
-<div>
-
+<p>Valgus also known as <em>genu valgum</em> refers to the medial displacement of the knee.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<div class="quarto-layout-panel" data-layout-ncol="3">
-<div class="quarto-layout-row">
-<section id="kinematics-1" class="level3 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
-<h3 class="anchored" data-anchor-id="kinematics-1">Kinematics</h3>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><em>genu valgum</em> usually presents with <em>coxa vara</em> of the hip.</p>
+</div>
+</div>
+</section>
+<section id="measuring-genu-varum-and-valgum" class="level2">
+<h2 class="anchored" data-anchor-id="measuring-genu-varum-and-valgum">Measuring Genu Varum and Valgum</h2>
+<p>There are two ways to measure <em>genu varum</em> and <em>genu valgus</em>:</p>
+<section id="femoral-shaft-to-tibia-angle" class="level3">
+<h3 class="anchored" data-anchor-id="femoral-shaft-to-tibia-angle">Femoral shaft to tibia angle</h3>
+<p>Measuring the angle between the <em>femoral shaft</em> and the <em>tibial shaft</em>. Normal is 170-174° whereas positive <em>genu varum</em> is 180-185°<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Tibia-femur angle</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>&lt;165°</td>
+<td><em>genu valgum</em></td>
+</tr>
+<tr class="even">
+<td>170-174°</td>
+<td>Normal</td>
+</tr>
+<tr class="odd">
+<td>&gt;180-185°</td>
+<td><em>genu varum</em></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="hka-displacement" class="level3">
+<h3 class="anchored" data-anchor-id="hka-displacement">HKA displacement</h3>
+<p>The second method is to measure the knee’s medial-lateral displacement from the line bisecting the relative center of the joint line between the hip and ankle<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">2</a></sup></span>.</p>
+</section>
+<section id="kinematics" class="level3">
+<h3 class="anchored" data-anchor-id="kinematics">Kinematics</h3>
 <p>Valgus consists of femoral IR and Adduction, concomitant contralateral pelvic drop<span class="citation" data-cites="dischiaviRethinkingDynamicKnee2019"><sup><a href="#ref-dischiaviRethinkingDynamicKnee2019" role="doc-biblioref"><strong>dischiaviRethinkingDynamicKnee2019?</strong></a></sup></span></p>
 </section>
-<section id="interventions" class="level1 quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+</section>
+</section>
+<section id="injury-prediction" class="level1">
+<h1>Injury prediction</h1>
+</section>
+<section id="interventions" class="level1">
 <h1>Interventions</h1>
 <ul>
 <li>Tibial IR Interventions</li>
 </ul>
 </section>
+<section id="examination" class="level1">
+<h1>Examination</h1>
+</section>
+<section id="tests" class="level1">
+<h1>Tests</h1>
+<ul>
+<li>Patellafemoral joint mobility</li>
+</ul>
+<section id="meniscus-1" class="level2">
+<h2 class="anchored" data-anchor-id="meniscus-1">Meniscus</h2>
+<ul>
+<li>Thessaly’s test</li>
+<li>Apley’s test</li>
+<li>Joint line palpation</li>
+<li>McMurray’s test</li>
+</ul>
+</section>
+<section id="lateral-collateral-ligament" class="level2">
+<h2 class="anchored" data-anchor-id="lateral-collateral-ligament">Lateral collateral ligament</h2>
+<ul>
+<li>Varus test</li>
+</ul>
+</section>
+<section id="medical-collateral-ligament" class="level2">
+<h2 class="anchored" data-anchor-id="medical-collateral-ligament">Medical collateral ligament</h2>
+<ul>
+<li>Valgus</li>
+</ul>
+</section>
+<section id="acl" class="level2">
+<h2 class="anchored" data-anchor-id="acl">ACL</h2>
+<ul>
+<li>Anterior drawer</li>
+<li>Lachman’s test</li>
+</ul>
+</section>
+<section id="pcl" class="level2">
+<h2 class="anchored" data-anchor-id="pcl">PCL</h2>
+<ul>
+<li>Posterior drawer</li>
+</ul>
 
-</div>
-<div class="quarto-layout-row">
 
-</div>
-</div>
 
 </section>
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-grayAnatomyHumanBody1918" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Gray H. <em>Anatomy of the Human Body</em>. 20th ed. (Lewis WH, ed.). Lea &amp; Febiger; 1918. <a href="https://www.bartleby.com/107/">https://www.bartleby.com/107/</a></div>
+</div>
 <div id="ref-jonesProjectFoundations2025" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Jones B. <em>B <span>Project Foundations</span></em>. b Project; 2025.</div>
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Jones B. <em>B <span>Project Foundations</span></em>. b Project; 2025.</div>
 </div>
 <div id="ref-duttonDuttonOrthopaedicExamination2020" class="csl-entry" role="listitem">
-<div class="csl-left-margin">2. </div><div class="csl-right-inline">Dutton M. <em>Dutton’s Orthopaedic Examination, Evaluation, and Intervention</em>. 5th ed. McGraw Hill Education; 2020.</div>
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Dutton M. <em>Dutton’s Orthopaedic Examination, Evaluation, and Intervention</em>. 5th ed. McGraw Hill Education; 2020.</div>
 </div>
 <div id="ref-neumannKinesiologyMusculoskeletalSystem2017" class="csl-entry" role="listitem">
-<div class="csl-left-margin">3. </div><div class="csl-right-inline">Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. <em>Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation</em>. 3rd ed. Elsevier; 2017.</div>
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. <em>Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation</em>. 3rd ed. Elsevier; 2017.</div>
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Knee Region. <a href="https://yomokerst.com/The Archive/MSK/Regions/Lower extremity/Knee/knee_msk.html">https://yomokerst.com/The
@@ -905,6 +1382,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

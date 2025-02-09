@@ -3,10 +3,7 @@ title: Adductor Brevis
 ---
 
 :::{layout-ncol="3"}
-![Medial Thigh muscle superficial layer schematic </br> 1: Pectineus </br> 2: Adductor Longus </br> 3: Adductor Brevis </br> 4: Gracilis](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/images/gilroyatlas fig31.22 medial thigh superficial layer schematic.png)
-
-![Medial Thigh muscle superficial layer @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/images/gilroyatlas fig31.22b medial thigh superficial layer.png)
-
+![Deep muscles of the medial thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image433 Deep muscles of the medial femoral region.gif)
 :::
 
 ```{python tbl-oian}

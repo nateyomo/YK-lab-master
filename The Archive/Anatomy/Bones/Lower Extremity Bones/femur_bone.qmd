@@ -1,7 +1,34 @@
 ---
-title: Femur
+title: Femur Bone
+subtitle: Largest bone in the body
 ---
 
+
+
+![Right femur (superior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image243 Upper extremity of right femur viewed from behind and above.gif)
+
+The Archive/Images/Gray anatomy 1918 images/Myology/image244 Right femur. Anterior surface.gif
+The Archive/Images/Gray anatomy 1918 images/Myology/image245 Right femur. Posterior surface.gif
+The Archive/Images/Gray anatomy 1918 images/Myology/image246 Lower extremity of right femur viewed from below.gif
+The Archive/Images/Gray anatomy 1918 images/Myology/image247 Frontal longitudinal midsection of upper femur.gif
+The Archive/Images/Gray anatomy 1918 images/Myology/image248 Diagram of the lines of stress in the upper femur, based upon the mathematical analysis of the right femur. These result from the combination of the different kinds of stresses at each point in the femur.gif
+The Archive/Images/Gray anatomy 1918 images/Myology/image249 Frontal longitudinal midsection of left femur. Taken from the same subject as the one that was analyzed and shown in Figs. 248 and 250. 4:9 of natural size.gif
+The Archive/Images/Gray anatomy 1918 images/Myology/image250 Diagram of the computed lines of maximum stress in the normal femur.gif
+The Archive/Images/Gray anatomy 1918 images/Myology/image251 Intensity of the maximum tensile and compressive stresses in the upper femur. Computed for the load of 100 pounds on the right femur.gif
+The Archive/Images/Gray anatomy 1918 images/Myology/image252 Plan of ossification of the femur. From five centers.gif
+The Archive/Images/Gray anatomy 1918 images/Myology/image253 Epiphysial lines of femur in a young adult. Anterior aspect. The lines of attachment of the articular capsules are in blue.gif
+The Archive/Images/Gray anatomy 1918 images/Myology/image254 Epiphysial lines of femur in a young adult. Posterior aspect. The lines of attachment of the articular capsules are in blue.gif
+
+
+# Muscles
+
+![Cross-section of middle thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image432 Cross-section through the middle of the thigh.gif)
+
+![Deep muscles of the medial thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image433 Deep muscles of the medial femoral region.gif)
+
+![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif)
+
+![Deep posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image439 Muscles of the back of the leg. Deep layer.gif)
 
 # Histology {#histology}
 
@@ -74,8 +101,16 @@ The *angle of inclination* refers to the angle between the femoral neck and medi
 Femoral torsion can be measured via the [Craig's Test]({{< var ref-craigs-test.path >}})
 
 
-# Landmarks
 
+# Femoral condyles
+
+These two condyles are not identical.
+
+The medial condyle is narrower and projects more anteriorly than the lateral condyle.
+
+
+
+# Landmarks
 
 ## Linea Aspera {#linea-aspera}
 

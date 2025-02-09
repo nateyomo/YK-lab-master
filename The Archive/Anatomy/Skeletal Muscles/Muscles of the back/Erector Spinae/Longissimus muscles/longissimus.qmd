@@ -2,9 +2,6 @@
 title: Longissimus Muscle
 ---
 
-![Schematic view of the intermediate intrinsic muscles of the back (Erector spinae) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Erector Spinae/images/gilroyatlas 3.9a schematic intermediate back muscles.png){#fig-schematicintermediatebackmm39gilroyAtlasAnatomy2020}
-
-![Intermediate intrinsic muscles of the back / Erector spinae (Posterior view) @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Erector Spinae/images/gilroyatlas 310b intermediate back muscles.png){#fig-intermediatebackmm310gilroyAtlasAnatomy2020}
 
 ```{python tbl-longissimus-muscles-oian}
 #| label: tbl-longissimus-muscles-oian

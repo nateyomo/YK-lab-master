@@ -3,15 +3,8 @@ title: Quadriceps Femoris
 subtitle: Muscle Group
 ---
 
-:::{layout-ncol="3"}
+![Muscles of the Iliac and Anterior femoral regions @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image430 Muscles of the iliac and anterior femoral regions.gif)
 
-![Schematic of Anterior Thigh Muscles @gilroyAtlasAnatomy2020 </br> 1: Sartorius </br> 2: Rectus Femoris </br> 3: Vastus Medialis </br> 4: Vastus Lateralis </br> Vastus Intermedius](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24a anterior thigh muscles schematic.png)
-
-![Superficial Layer of Anterior Thigh Muscle @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24b anterior thigh muscles superficial layer.png)
-
-![Deep Layer of Anterior Thigh Muscle @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/images/gilroyatlas fig31.24c anterior thigh muscles deep layer.png)
-
-:::
 
 # Muscles
 
@@ -80,10 +73,15 @@ The quadriceps muscles can act to extend the knee when the foot is off the groun
 "In the previous examples, eccentric activation of the quadriceps is employed to decelerate knee flexion. Concentric contraction of this muscle, in contrast, accelerates the tibia or femur toward knee extension. This action is often used to raise the body’s center of mass, such as during running uphill, jumping, or standing from a seated position." @neumannKinesiologyMusculoskeletalSystem2017
 
 
+# Antagonist-Synergists
+
+The [gastrocnemius]({{< var ref-gastrocnemius.action >}}) functions as an antagonist-synergist with the quadriceps @jonesProjectFoundations2025.
+
 
 # Biomechanical Interactions between External and Internal Torques
 
 "In many upright activities, an external (flexor) torque is acting on the knee. This external torque is equal to the external load being moved or supported, multiplied by its external moment arm. The external flexor torque must often be met or exceeded by an opposing internal (extensor) torque, which is the product of quadriceps force multiplied by its internal moment arm. An understanding of how these opposing torques are produced and functionally interact is the focus of this section. This topic is an important component of many aspects of strengthening the quadriceps as part of a rehabilitation program." @neumannKinesiologyMusculoskeletalSystem2017
+
 
 ## External Torque Demands Placed against the Quadriceps: Contrasting “Tibial-on-Femoral” with “Femoral-on-Tibial” Methods of Knee Extension
 

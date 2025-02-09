@@ -1,0 +1,80 @@
+---
+title: Obturator Internus Muscle (OI)
+---
+
+![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif)
+
+```{python tbl-oian}
+#| label: tbl-oian-obturator-internus
+#| warning: false
+#| message: false
+#| echo: false
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'muscle_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['obturator_internus']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
+# Origin {#origin}
+
+The OI originates from the Inner surface of the obturator membrane and its bony boundaries [@gilroyAtlasAnatomy2020].
+
+# Path {#path}
+
+From its [origin](#origin) the OI courses through the pelvic cavity posteriorly and exits through the *lesser sciatic foramen* @jonesProjectFoundations2025.
+At the *lesser sciatic foramen* the OI tendon bends sharply to continue laterally to run parallel with the [piriformis]({{< var ref-piriformis.path >}}) to its [insertion](#insertion) on the medial surface of the greater trochanter @jonesProjectFoundations2025.
+
+
+# Insertion {#insertion}
+Medial surface of the greater trochanter @gilroyAtlasAnatomy2020
+
+# Innervation {#innervation}
+
+Sacral plexus ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- External rotation and extension of the hip joint (also active in abduction, depending on the joint’s position) @gilroyAtlasAnatomy2020
+- Stabilizes hip joint -DrK
+
+
+
+# Function
+
+
+“Ultrasound ­guided EMG analysis of the obturator internus and several other external rotator muscles in 10 human subjects.98 The obturator internus was usually the first muscle to become active during a gradually increasing isometric effort to abduct and externally rotate the hip.” @neumannKinesiologyMusculoskeletalSystem2017
+
+# Dysfunction
+
+- Gemelli-obturator internus syndrome
+
+# Stretch
+
+Child's Pose stretch can be used to stretch the Obturator Internus muscle.
+By cueing the knees to stay straight instead of moving into hip ER, this better stretches the obturator internus.

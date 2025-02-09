@@ -63,9 +63,6 @@ div.csl-indent {
 <link href="../../../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../../../../site_libs/bootstrap/bootstrap-2cd373bbd777488a2901da25ac479b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../../../../../../site_libs/bootstrap/bootstrap-dark-30247d3b2cd0522fbeca720c4281c240.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<script src="../../../../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="../../../../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="../../../../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -98,10 +95,9 @@ div.csl-indent {
 
 <link rel="stylesheet" href="../../../../../../styles.css">
 <meta name="twitter:title" content="Longissimus Muscle">
-<meta name="twitter:image" content="https://yomokerst.com/The Archive/Anatomy/Muscles/Muscles of the back/Erector Spinae/images/gilroyatlas 3.9a schematic intermediate back muscles.png">
 <meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
 <meta name="twitter:site" content="@yomokerst">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="floating nav-fixed">
@@ -234,26 +230,6 @@ div.csl-indent {
 </header>
 
 
-<div id="fig-schematicintermediatebackmm39gilroyAtlasAnatomy2020" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-schematicintermediatebackmm39gilroyAtlasAnatomy2020-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<a href="../../../../../../The Archive/Anatomy/Muscles/Muscles of the back/Erector Spinae/images/gilroyatlas 3.9a schematic intermediate back muscles.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Figure&nbsp;1: Schematic view of the intermediate intrinsic muscles of the back (Erector spinae) @gilroyAtlasAnatomy2020"><img src="../../../../../../The Archive/Anatomy/Muscles/Muscles of the back/Erector Spinae/images/gilroyatlas 3.9a schematic intermediate back muscles.png" class="img-fluid figure-img"></a>
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-schematicintermediatebackmm39gilroyAtlasAnatomy2020-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;1: Schematic view of the intermediate intrinsic muscles of the back (Erector spinae)<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span>
-</figcaption>
-</figure>
-</div>
-<div id="fig-intermediatebackmm310gilroyAtlasAnatomy2020" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-intermediatebackmm310gilroyAtlasAnatomy2020-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<a href="../../../../../../The Archive/Anatomy/Muscles/Muscles of the back/Erector Spinae/images/gilroyatlas 310b intermediate back muscles.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Figure&nbsp;2: Intermediate intrinsic muscles of the back / Erector spinae (Posterior view) @gilroyAtlasAnatomy2020"><img src="../../../../../../The Archive/Anatomy/Muscles/Muscles of the back/Erector Spinae/images/gilroyatlas 310b intermediate back muscles.png" class="img-fluid figure-img"></a>
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-intermediatebackmm310gilroyAtlasAnatomy2020-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;2: Intermediate intrinsic muscles of the back / Erector spinae (Posterior view)<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">1</a></sup></span>
-</figcaption>
-</figure>
-</div>
 <div class="cell" data-message="false" data-execution_count="1">
 <div id="tbl-longissimus-muscles-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="1" data-message="false">
 <figure class="quarto-float quarto-float-tbl figure">
@@ -962,38 +938,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
-(function() {
-  let previousOnload = window.onload;
-  window.onload = () => {
-    if (previousOnload) {
-      previousOnload();
-    }
-    lightboxQuarto.on('slide_before_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      const href = trigger.getAttribute('href');
-      if (href !== null) {
-        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-        if (imgEl !== null) {
-          const srcAttr = imgEl.getAttribute("src");
-          if (srcAttr && srcAttr.startsWith("data:")) {
-            slideConfig.href = srcAttr;
-          }
-        }
-      } 
-    });
-  
-    lightboxQuarto.on('slide_after_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(slideNode);
-      }
-    });
-  
-  };
-  
-})();
-          </script>
 
 
 

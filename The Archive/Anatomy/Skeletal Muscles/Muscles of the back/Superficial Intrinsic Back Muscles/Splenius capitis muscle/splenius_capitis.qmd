@@ -2,9 +2,6 @@
 title: Splenius Capitis
 ---
 
-![Superficial intrinsic back muscles Right side posterior view @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Superficial Intrinsic Back Muscles/images/gilroyatlas 3.8ab schematic superficial intrinsic back mm.png)
-
-![Superficial intrinsic back muscles posterior view @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Muscles/Muscles of the back/Superficial Intrinsic Back Muscles/images/gilroyatlas 3.10a superficial intrinsic back mm .png)
 
 
 ```{python tbl-oian}

@@ -2,13 +2,9 @@
 title: Obturator Externus
 ---
 
-:::{layout-ncol="2"}
+![Deep muscles of the medial thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image433 Deep muscles of the medial femoral region.gif)
 
-![Medial Thigh muscle deep layer schematic </br> 1: Obturator Externus </br> 2: Adductor Magnus](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/images/gilroyatlas fig31.23 medial thigh deep layer schematic.png)
-
-![Medial Thigh muscle deep layer @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/images/gilroyatlas fig31.23b medial thigh deep layer.png)
-
-:::
+![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif)
 
 ```{python tbl-oian}
 #| label: tbl-oian

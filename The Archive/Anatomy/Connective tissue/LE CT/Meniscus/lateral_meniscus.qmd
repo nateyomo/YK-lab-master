@@ -2,6 +2,11 @@
 title: Lateral Meniscus
 ---
 
+
+
+![Head of tibia with menisci and ligaments (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image349 Head of right tibia seen from above, showing menisci and attachments of ligaments.gif){#fig-image349-tibia-head}
+
+
 "The lateral meniscus, which forms a C-shaped incomplete circle,25 sits atop the convex lateral tibial plateau (see Fig. 20-2). It occupies a larger portion (approximately 80%) of the articular surface than the medial meniscus (approximately 60%) and is more mobile than its medial counterpart.23 Both horns of the lateral meniscus are attached to the tibia.23 " @duttonDuttonOrthopaedicExamination2020
 
 "The periphery of the lateral meniscus attaches to the tibia, the capsule, and the coronary ligament, but not to the LCL. The posterior horn of the lateral meniscus attaches to the inner aspect of the medial femoral condyle via the anterior and posterior meniscofemoral ligaments of Humphrey and Wrisberg, respectively23:" @duttonDuttonOrthopaedicExamination2020
@@ -19,6 +24,13 @@ title: Lateral Meniscus
 :::{.callout-note}
 "The lateral meniscus often is associated with the appearance of synovial-filled cysts, which may occur following a minor injury to the meniscus and produce a small internal tear. As fluid begins to congregate within this tear, it is pushed deeper and deeper into the meniscus. The swelling eventually produces a small bulge on the lateral aspect of the meniscus." @duttonDuttonOrthopaedicExamination2020
 :::
+
+# Examination
+
+- McMurray's
+- Thessaly's
+- Joint line palpation
+- Apley's Test
 
 # Relationship to other structures
 
