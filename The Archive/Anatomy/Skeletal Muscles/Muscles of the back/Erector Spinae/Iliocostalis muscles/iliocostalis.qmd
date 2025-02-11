@@ -28,7 +28,7 @@ if script_file_path.exists():
 
     # Define the column to filter by and the identifiers to include
     filter_column = 'muscle_identifier'  # Choose the column you want to filter by
-    filter_identifiers = ['iliocostalis_cervicis | iliocostalis_thoracis | iliocostalis_lumborum']  # Replace with actual identifiers you want to include
+    filter_identifiers = ['iliocostalis_cervicis', 'iliocostalis_thoracis', 'iliocostalis_lumborum']  # Replace with actual identifiers you want to include
 
     # Call the function to get the HTML table with filtering
     html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
@@ -70,7 +70,7 @@ C4-C6 TP @gilroyAtlasAnatomy2020
 # Iliocostalis Lumborum
 ## Origin {#origin}
 
-Sacrum, iliac crest, lumbar vertebrae SP; lower thoracic vertebrae TP @gilroyAtlasAnatomy2020
+[Sacrum]({{< var ref-sacrum-bone.path >}}), [iliac crest]({{< var ref-ilium-bone.iliac-crest >}}), lumbar vertebrae SP; lower thoracic vertebrae TP @gilroyAtlasAnatomy2020
 
 ## Insertion {#insertion}
 

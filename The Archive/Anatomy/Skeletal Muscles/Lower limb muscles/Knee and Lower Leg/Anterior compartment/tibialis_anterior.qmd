@@ -87,3 +87,8 @@ The tibialis anterior works more as a supinator rather than an adductor @jonesPr
 
 
 :::
+
+
+# Shin splints
+
+Tibialis anterior dysfunction can lead to [shin splints]({{< var ref-shin-splints.path >}}), more specifically [*anterior shin splints*]({{< var ref-anterior-shin-splints.path >}}).

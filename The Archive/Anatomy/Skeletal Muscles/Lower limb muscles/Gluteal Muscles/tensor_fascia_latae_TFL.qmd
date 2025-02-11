@@ -58,6 +58,9 @@ The TFL is innervated by nerve roots [L4]({{< var ref-nerve-root.l4 >}}), [L5]({
 
 - Tenses the fascia latae @gilroyAtlasAnatomy2020
 - Hip joint: abduction, flexion, and internal rotation @gilroyAtlasAnatomy2020
+- Knee joint:
+    - When the knee is *flexed* the TFL can perform external rotation of tibia on the femur @jonesProjectFoundations2025.
+    - When the knee is *extended* the TFL has a negligible rotation moment, but instead creates knee extension @jonesProjectFoundations2025.
 
 The TFL is a strong hip flexor and is a key pelvis stabilizer @jonesProjectFoundations2025.
 

@@ -2,9 +2,9 @@
 title: Biceps Femoris Short Head
 ---
 
-![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif)
+![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}
 
-![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif)
+![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif){#fig-gray1918-image438}
 
 ```{python tbl-oian}
 #| label: tbl-oian
@@ -44,7 +44,8 @@ else:
 
 # Origin {#origin}
 
-- Lateral lip of the linea aspera in the middle third of the femur @gilroyAtlasAnatomy2020
+- Lateral lip of the linea aspera in the middle third of the femur [@gilroyAtlasAnatomy2020; @jonesProjectFoundations2025]
+- Lateral supracondylar line of the femur @jonesProjectFoundations2025
 
 
 # Insertion {#insertion}
@@ -57,3 +58,7 @@ Head of Fibula @gilroyAtlasAnatomy2020
 # Action {#action}
 
 **Knee**: Flexion and External rotation @gilroyAtlasAnatomy2020
+
+
+Biceps femoris short head is the only *monoarticular* external rotator of the knee @jonesProjectFoundations2025.
+Therefore, hip position does not change its ability to externally rotate the knee.

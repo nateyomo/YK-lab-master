@@ -3,7 +3,7 @@ title: S5 Nerve Root (S5)
 ---
 
 
-![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif)
+![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif){#fig-gray1918-image796}
 
 # Motor Innervation
 

@@ -1,0 +1,109 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Obturator Externus\n",
+        "---\n",
+        "\n",
+        "\n",
+        "![Deep muscles of the medial thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image433 Deep muscles of the medial femoral region.gif)\n",
+        "\n",
+        "![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}\n"
+      ],
+      "id": "14d97dd8"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'muscle_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['obturator_externus']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Origin {#origin}\n",
+        "Outer surface of the obturator membrane and its bony boundaries [@gilroyAtlasAnatomy2020].\n",
+        "\n",
+        "# Path {#path}\n",
+        "\n",
+        "From its [origin](#origin) the OE and its tendon wind posteriorly below the hip joint and run superiorly to its [insertion on the floor of the trochanteric fossa](#insertion) @jonesProjectFoundations2025.\n",
+        "\n",
+        "\n",
+        "# Insertion {#insertion}\n",
+        "\n",
+        "Trochanteric fossa of the femur @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "\n",
+        "# Innervation {#innervation}\n",
+        "\n",
+        "[Obturator N.]({{< var ref-obturator-nerve.path >}}) ([L3]({{< var ref-nerve-root.l3 >}}), [L4]({{< var ref-nerve-root.l4 >}})) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "\n",
+        "# Action {#action}\n",
+        "\n",
+        "- **Hip**: adduction and external rotation @gilroyAtlasAnatomy2020\n",
+        "- **Pelvic Stabilization**: Sagittal plane @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "According to Brad Jones @jonesProjectFoundations2025, the OE is an external rotator when in hip flexion, and acts to slightly flex the hip @jonesProjectFoundations2025.\n",
+        "\n",
+        "At ~30-40&deg; of *internal rotation*, the OE's runs exactly inferior to the center of the joint, and thus stops functioning as an external rotator @jonesProjectFoundations2025.\n",
+        "When the hip is internally rotated past 40&deg;, the OE generates an external rotation torque @jonesProjectFoundations2025.\n",
+        "\n",
+        "# Overview\n",
+        "\n",
+        "“The obturator\t externus muscle arises from the external side of the obturator membrane and adjacent ilium (see Fig. 12.14). The belly of this muscle is visible from the anterior side of the pelvis after removal of the adductor longus and pectineus muscles (see Fig. 12.26, left side). The muscle attaches posteriorly on the femur at the trochanteric fossa (see Fig. 12.6). (Based on its leverage to produce adduction, location, and innervation, the obturator externus is more anatomically associated with the adductor\tgroup of muscles than with the other five short external rotators. The obturator externus is innervated by nerve roots that originate from the lumbar plexus [via the obturator nerve], as are most of the other adductor muscles. The other small external rotators, in contrast, are innervated through the sacral plexus, with nerve roots as low as S2.)” @neumannKinesiologyMusculoskeletalSystem2017 "
+      ],
+      "id": "8c71d790"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

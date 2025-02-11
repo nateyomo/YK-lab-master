@@ -1,0 +1,105 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Extensor Pollicis Longus (EPL)\n",
+        "---\n",
+        "\n",
+        "\n",
+        "![Mucous sheaths of the dorsal hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image424 The mucous sheaths of the tendons on the back of the wrist.gif)\n",
+        "\n",
+        "![Transverse section of distal forearm @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image421 Transverse section across distal ends of radius and ulna.gif)\n",
+        "\n",
+        "![Transverse cut of the Hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image422 Transverse section across the wrist and digits.gif)\n"
+      ],
+      "id": "a0be5a55"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'muscle_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['extensor_pollicis_longus']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Origin {#origin}\n",
+        "\n",
+        "- Ulna (Posterior surface) @gilroyAtlasAnatomy2020\n",
+        "- IO membrane @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "\n",
+        "\n",
+        "# Insertion {#insertion}\n",
+        "\n",
+        "Base of distal phalanx of thumb @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Innervation {#innervation}\n",
+        "\n",
+        "[Posterior Interosseous N.]({{< var ref-posterior-interosseous-nerve.path >}}) ([C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}})) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Action {#action}\n",
+        "\n",
+        "- **Wrist**: Extension @gilroyAtlasAnatomy2020\n",
+        "- **2nd MCP, PIP, DIP**: Extension @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "# Notes"
+      ],
+      "id": "23d0cbc5"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

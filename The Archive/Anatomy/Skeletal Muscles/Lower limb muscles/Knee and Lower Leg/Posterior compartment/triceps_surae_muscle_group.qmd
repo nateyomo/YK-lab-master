@@ -7,8 +7,8 @@ title: Triceps Surae Muscle Group
 - Soleus
 
 
-```{python tbl-oian}
-#| label: tbl-oian
+```{python tbl-triceps-surae-oian}
+#| label: tbl-triceps-surae-oian
 #| warning: false
 #| message: false
 #| echo: false
@@ -45,7 +45,10 @@ else:
 ```
 
 
-
+- Since the gastrocnemius is a *biarticular* muscle, its ability to plantarflex is influenced by the knee position.
+    - When the knee is extended, the gastrocnemius is lengthened and is more efficient at plantarflexion.
+    - When the knee is *flexed* the gastrocnemius is shortened and becomes less efficient while plantarflexing.
+- Conversely, the soleus is a monoarticular muscle, so its length-tension curve is only affected by the ankle's position.
 
 
 # Stretch {#stretch}

@@ -1,0 +1,22 @@
+---
+title: The Cross Country Athlete
+---
+
+
+# Pathologies
+
+- Patellofemoral pain syndrome
+- [Shin splints]({{< var ref-shin-splints.path >}})
+
+
+
+## Pediatric pathologies
+
+- 8-14yr
+    - Sever's Disease (Calcaneal apophysitis)
+    - Iselin's disease (5th Metatarsal tuberosity apophysitis)
+- Osgood-Schlatter's Disease (Tibial tuberosity )
+
+
+
+## Geriatric pathologies

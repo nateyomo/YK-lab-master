@@ -3,7 +3,7 @@ title: Tibialis Posterior Muscle
 ---
 
 :::{layout-ncol="2"}
-![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif)
+![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif){#fig-gray1918-image438}
 
 ![Deep posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image439 Muscles of the back of the leg. Deep layer.gif)
 
@@ -132,3 +132,8 @@ The [posterior tibialis]({{< var ref-posterior-tibialis.action >}}) and [flexor 
 # Stretch {#stretch}
 
 - [3D Calf Stretch]({{< var ref-3d-calf-stretch.path >}})
+
+
+# Shin splints
+
+Tibialis posterior dysfunction can lead to [shin splints]({{< var ref-shin-splints.path >}}), more specifically [*posterior shin splints*]({{< var ref-posterior-shin-splints.path >}}).

@@ -1,0 +1,109 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: C1 Nerve Root\n",
+        "---\n",
+        "\n",
+        "\n",
+        "![Path of the Hypoglossal nerve @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image795 Plan of hypoglossal nerve.gif){#fig-gray1918-image795}\n",
+        "\n",
+        "![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif){#fig-gray1918-image796}\n",
+        "\n",
+        "# Anatoy\n",
+        "\n",
+        "C1 lacks a dorsal root @brazisLocalizationClinicalNeurology2022\n",
+        "\n",
+        "# Innervation {#innervation}\n",
+        "\n",
+        "This root supplies muscles that provide multiple functions:\n",
+        "\n",
+        "- Support the head\n",
+        "- Fix the neck\n",
+        "- Assist in neck flexion\n",
+        "- Assist in extension\n",
+        "- Tilt the head to one side\n",
+        "\n",
+        "Specific Muscle innervations\n",
+        "\n",
+        "infrahyoid muscles.\n"
+      ],
+      "id": "f184601a"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-c1-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'root_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['C1']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-c1-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Lesion\n",
+        "\n",
+        "Due to the lack of motor root, C1 lesions are characterized purely by motor symptoms @brazisLocalizationClinicalNeurology2022.\n",
+        "\n",
+        "\n",
+        "Clinically, C1 lesions usually result in minor motor difficulties.\n",
+        "\n",
+        "\"Because there is no dorsal root from C1, lesions of this root result in purely motor symptoms. This root supplies muscles that support the head, fix the neck, assist in neck flexion and extension, and tilt the head to one side. These, include the longus capitis, rectus capitis, obliquus capitis, longissimus capitis and cervicis, multifidi, intertransversarii, rotatores, semispinalis, and infrahyoid muscles. C1 lesions usually result in minor motor difficulties.\" @brazisLocalizationClinicalNeurology2022 \n",
+        "\n",
+        "\n",
+        "## Case Study\n",
+        "\n",
+        "Greathouse DG, Joshi A. Radiculopathy of the eighth cervical nerve. J Orthop Sports Phys Ther. 2010;40(12):811-817. doi:10.2519/jospt.2010.3187"
+      ],
+      "id": "e6fe4ded"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

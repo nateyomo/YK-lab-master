@@ -1,0 +1,83 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Prevertebral Muscle Group\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        ":::{layout-ncol=\"3\"}\n",
+        "\n",
+        "\n",
+        "\n",
+        ":::\n",
+        "\n",
+        "| Muscle  | Origin | Insertion | Nerve | Action |\n",
+        "|------|--------|-------|----------|--------|\n",
+        "| [Longus Capitis]({{< var ref-longus-capitis.path >}}) | {{< var ref-longus-capitis.origin >}} | {{< var ref-longus-capitis.insertion >}} | {{< var ref-longus-capitis.nerve >}} | {{< var ref-longus-capitis.action >}} |\n",
+        "| [Longus Colli Cervicis]({{< var ref-longus-colli-cervicis.path >}}) | {{< var ref-longus-colli-cervicis.origin >}} | {{< var ref-longus-colli-cervicis.insertion >}} | {{< var ref-longus-colli-cervicis.nerve >}} | {{< var ref-longus-colli-cervicis.action >}} |\n",
+        "| [Rectus Capitis Anterior]({{< var ref-rectus-capitis-anterior.path >}}) | {{< var ref-rectus-capitis-anterior.origin >}} | {{< var ref-rectus-capitis-anterior.insertion >}} | {{< var ref-rectus-capitis-anterior.nerve >}} | {{< var ref-rectus-capitis-anterior.action >}} |\n",
+        "| [Rectus Capitis Lateralis]({{< var ref-rectus-capitis-lateralis.path >}}) | {{< var ref-rectus-capitis-lateralis.origin >}} | {{< var ref-rectus-capitis-lateralis.insertion >}} | {{< var ref-rectus-capitis-lateralis.nerve >}} | {{< var ref-rectus-capitis-lateralis.action >}} |\n",
+        ": Prevertebral Muscle Group {.striped .hover}\n"
+      ],
+      "id": "f49921f4"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-prevertebral-muscles-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "#| tbl-cap: Prevertebral muscles\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'group_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['prevertebral_muscle_group']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-prevertebral-muscles-oian",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

@@ -6,7 +6,7 @@ subtitle: Musculoskeletal Overview
 :::{layout-ncol="3"}
 ![Muscles of the anterior leg @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image437 Muscles of the front of the leg.gif)
 
-![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif)
+![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif){#fig-gray1918-image438}
 
 ![Deep posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image439 Muscles of the back of the leg. Deep layer.gif)
 :::
@@ -658,3 +658,11 @@ The cuboid normally has less extension than the 5th MTP @jonesProjectFoundations
     - Ant drawer?
 
 ## Medial Ankle (Deltoid ligament)
+
+
+# Pathologies
+
+
+- [Shin splints]({{< var ref-shin-splints.path >}})
+    - [Anterior shin splints]({{< var ref-anterior-shin-splints.path >}})
+    - [Posterior shin splints]({{< var ref-posterior-shin-splints.path >}})

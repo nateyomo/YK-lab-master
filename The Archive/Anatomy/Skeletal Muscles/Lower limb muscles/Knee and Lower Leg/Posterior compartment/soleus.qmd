@@ -5,7 +5,7 @@ title: Soleus Muscle
 
 :::{layout-ncol="3"}
 
-![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif)
+![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif){#fig-gray1918-image438}
 
 ![Deep posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image439 Muscles of the back of the leg. Deep layer.gif)
 
@@ -71,6 +71,9 @@ Calcaneal tuberosity via the Achilles' tendon @gilroyAtlasAnatomy2020
 - **TCJ**: Plantarflexion @gilroyAtlasAnatomy2020 
 - **Stabilizes leg** @gilroyAtlasAnatomy2020 
 
+# Related structures
+
+The [tibial nerve]({{< var ref-tibial-nerve.path >}}) enters the lower leg then pierces the soleus muscle @jonesProjectFoundations2025.
 
 # Biomechanics
 

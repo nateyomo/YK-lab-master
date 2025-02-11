@@ -2,17 +2,12 @@
 title: Hamstring Muscles
 ---
 
-:::{layout-ncol="3"}
 
-![Schematic of Posterior Thigh Muscles @gilroyAtlasAnatomy2020 </br> 1: Biceps Femoris </br> 2: Semimembranosus </br> 3: Semitendinosus](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/images/gilroyatlas fig31.25a posterior thigh muscles schematic.png)
+![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}
 
-![Posterior Thigh Muscles Superficial Group @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/images/gilroyatlas fig31.25b posterior thigh muscles superficial group.png)
+![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif){#fig-gray1918-image438}
 
-
-![Posterior Thigh Muscles Deep Group @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/images/gilroyatlas fig31.25c posterior thigh muscles deep group.png)
-
-
-:::
+![Cross-section of middle thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image432 Cross-section through the middle of the thigh.gif)
 
 # Muscles
 
@@ -69,7 +64,19 @@ else:
 
 "As a group, the hamstrings primarily function to extend the hip and to flex the knee. The hamstrings are innervated by branches of the sciatic nerve." @duttonDuttonOrthopaedicExamination2020 
 
+# Action
+
+Since the hamstrings, except for [biceps femoris short head]({{< var ref-biceps-femoris-short-head.action >}}), are 2-joint muscles perform hip extension and knee flexion, their action is dependent on hip position @jonesProjectFoundations2025.
+
+At 40&deg; hip flexion, the hamstrings lengthen, and generally resist this lengthening by simultaneously flexing the knee @jonesProjectFoundations2025.
+At &gt;90&deg; the relative hamstring lengthening will limit knee extension @jonesProjectFoundations2025.
+
+Increasing hip flexion lengthens the hamstrings and improves their efficiency as knee flexors @jonesProjectFoundations2025.
+Conversely, increasing knee extension also lengthens the hamstrings and improves their efficiency as hip extensors @jonesProjectFoundations2025.
+
 # Function
+
+
 
 According to the Gray Institute @grayinstituteFunctionalTechniques, the hamstrings function primarily in an upright and closed chain position @grayinstituteFunctionalTechniques.
 In addition, the hamstrings are considered "knee flexors" but this lacks nuance. 

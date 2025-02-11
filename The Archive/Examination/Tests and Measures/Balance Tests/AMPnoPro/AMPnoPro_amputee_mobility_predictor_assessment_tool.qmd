@@ -1,0 +1,133 @@
+---
+title: Amputee Mobility Predictor Asseessment Tool (AMPnoPRO)
+---
+
+
+# Form
+
+
+::: {.columns}
+::: {.column}
+### Instructions
+
+- Testee is seated in a hard chair 40-50cm height with arms.
+- The following maneuvers are tested with or without the prosthesis.
+- Advise the person of each task or group of tasks prior to performance.
+- Please avoid unnecessary chatter throughout the test and no task should be performed if either the tester or testee is uncertain of a safe outcome.
+- One attempt only per item
+- Maximum of 2 days allowed to complete assessment
+
+
+:::
+::: {.column}
+
+### Items
+
+1. [Sitting Balance](#form-item1)
+1. [Sitting Reach](#form-item2)
+1. [Chair-to-chair transfer 90&deg;](#form-item3)
+1. [Arises from chair (Single effort)](#form-item4)
+1. [Arises from chair (Multiple effort)](#form-item5)
+1. [Immediate standing balance (1st 5sec)](#form-item6)
+1. [Standing balance](#form-item7)
+1. [Amypro only](#form-item8)
+1. [Standing reach](#form-item9)
+1. [Nudge test](#form-item10)
+1. [Standing Balance Eyes closed](#form-item11)
+1. [Picking object off of floor](#form-item12)
+1. [Stand-to-Sit](#form-item13)
+1. [Initiation of gait](#form-item14)
+1. [Hopping 8 meters](#form-item15)
+1. [Step continuity](#form-item16)
+1. [Turning](#form-item17)
+1. [Variable cadence](#form-item18)
+1. [Hopping over an obstacle](#form-item19)
+1. [Stairs](#form-item20)
+1. [Assistive Device Selection](#form-item21)
+
+:::
+:::
+
+
+- Date
+- Assessor
+- Time
+
+| Right limb | Left limb |
+|-|-|
+|PF | PF |
+| TT | TT |
+| KD | KD |
+| TF | TF |
+| HD | HD |
+| Intact | Intact |
+
+## 1 Sitting Balance {#form-item1}
+
+Sit forward *without* backrest with your arms folded across your chest
+
+| Score | Criteria |
+|-|-|
+|1| &ge;60s |
+|0| &lt;60s |
+
+
+Comments:
+
+
+## 2 Sitting Reach {#form-item2}
+
+The clinician stands facing the patient and holds a ruler 26cm *further* than extended arm midline to the sternum, or against the wall, intact foot midline.
+
+**Instructions**: Reach forwards and grasp the ruler using your preferred arm.
+
+|Score | Criteria |
+|-|-|
+| 2 | Reaches forward and successfully grasps item |
+| 1 | Cannot grasp or requires arm support |
+| 0 | Does not attempt |
+
+
+## 3 Chair-to-chair transfer 90&deg; {#form-item3}
+
+
+
+## 4 Arises from chair (Single effort) {#form-item4}
+## 5 Arises from chair (Multiple effort) {#form-item5}
+## 6 Immediate standing balance (1st 5sec) {#form-item6}
+
+## 7 Standing balance {#form-item7}
+
+## 8 Amypro only {#form-item8}
+
+
+## 9 Standing reach {#form-item9}
+
+
+## 10 Nudge test {#form-item10}
+
+## 11 Standing Balance Eyes closed {#form-item11}
+
+## 12 Picking object off of floor {#form-item12}
+
+
+## 13 Stand-to-Sit {#form-item13}
+
+## 14 Initiation of gait {#form-item14}
+## 15 Hopping 8 meters {#form-item15}
+
+
+## 16 Step continuity {#form-item16}
+
+## 17 Turning {#form-item17}
+
+## 18 Variable cadence {#form-item18}
+
+## 19 Hopping over an obstacle {#form-item19}
+
+
+
+## 20 Stairs {#form-item20}
+
+
+## 21 Assistive Device Selection {#form-item21}

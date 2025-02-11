@@ -3,9 +3,9 @@ title: C4 Nerve Root (C4)
 ---
 
 
-![Hypoglossal nerve, cervical plexus, and their respective branches @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image794 Hypoglossal nerve cervical plexus and their branches.gif)
+![Hypoglossal nerve, cervical plexus, and their respective branches @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image794 Hypoglossal nerve cervical plexus and their branches.gif){#fig-gray1918-image794}
 
-![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif)
+![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif){#fig-gray1918-image796}
 
 # Motor Innervation
 
@@ -47,9 +47,14 @@ else:
 
 # Dermatome
 
-![Dermatomal cutaneous distribution @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image797 Distribution of cutaneous nerves. Ventral aspect.gif)
-
-![Dermatomal cutaneous distribution (Posterior) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image798 Distribution of cutaneous nerves. Dorsal aspect.gif)
+::: {.columns}
+::: {.column}
+![Dermatomal cutaneous distribution @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image797 Distribution of cutaneous nerves. Ventral aspect.gif){#fig-gray1918-image797}
+:::
+::: {.column}
+![Dermatomal cutaneous distribution (Posterior) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image798 Distribution of cutaneous nerves. Dorsal aspect.gif){#fig-gray1918-image798}
+:::
+:::
 
 # Lesion
 

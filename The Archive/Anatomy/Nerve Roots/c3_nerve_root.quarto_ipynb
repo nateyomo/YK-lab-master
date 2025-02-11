@@ -1,0 +1,99 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: C3 Nerve Root (C3)\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "![Hypoglossal nerve, cervical plexus, and their respective branches @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image794 Hypoglossal nerve cervical plexus and their branches.gif){#fig-gray1918-image794}\n",
+        "\n",
+        "![Path of the Hypoglossal nerve @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image795 Plan of hypoglossal nerve.gif){#fig-gray1918-image795}\n",
+        "\n",
+        "![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif){#fig-gray1918-image796}\n",
+        "\n",
+        "# Motor Innervation\n"
+      ],
+      "id": "7f0f74b4"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-c3-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'root_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['C3']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-c3-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Dermatome\n",
+        "\n",
+        "::: {.columns}\n",
+        "::: {.column}\n",
+        "![Dermatomal cutaneous distribution @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image797 Distribution of cutaneous nerves. Ventral aspect.gif){#fig-gray1918-image797}\n",
+        ":::\n",
+        "::: {.column}\n",
+        "![Dermatomal cutaneous distribution (Posterior) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image798 Distribution of cutaneous nerves. Dorsal aspect.gif){#fig-gray1918-image798}\n",
+        ":::\n",
+        ":::\n",
+        "\n",
+        "# Lesion\n",
+        "\n",
+        "\"Sensory disturbances occur on the lower occiput, the angle of the jaw, and the upper neck [28]. Paresis may occur in the scalene and levator scapulae muscles of the neck (including the infrahyoids, semispinalis capitis and cervicis, longissimus capitis and cervicis, intertransversarii, rotatores, multifidi), and in the trapezius (shoulder elevation), this last muscle being predominantly innervated by the spinal accessory nerve (cranial nerve XI). Diaphragmatic paresis may also result because the phrenic nerve receives some of its fibers from the C3 segment.\" @brazisLocalizationClinicalNeurology2022\n",
+        "\n",
+        "\"Irritation of the C3 nerve root may cause a painful, burning, red ear (red ear syndrome) [15]. The increased ear temperature may be caused by antidromic release of vasodilator peptides. This red ear syndrome may also occur with temporomandibular joint dysfunction and with thalamic lesions [15].\" @brazisLocalizationClinicalNeurology2022"
+      ],
+      "id": "9fc77db1"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

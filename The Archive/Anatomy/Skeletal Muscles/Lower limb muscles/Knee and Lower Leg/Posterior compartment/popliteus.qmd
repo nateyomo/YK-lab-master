@@ -1,16 +1,13 @@
 ---
 title: Popliteus Muscle
+subtitle: The "Key" to the knee
 ---
 
 :::{layout-ncol="2"}
-![Schematic of Deep Flexors of the Posterior Compartment of the Leg </br> 1: Tibialis Posterior </br> 2: FDL </br> 3: FHL </br> 4: Popliteus @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.24a Schematic Posterior compartment of the leg deep flexors.png)
-
-![Deep Flexors of the Posterior Compartment of the Leg @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/images/gilroyatlas fig32.24b Posterior compartment of the leg deep flexors.png)
 
 ![Deep posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image439 Muscles of the back of the leg. Deep layer.gif)
 :::
 
-# Overview
 
 ```{python tbl-oian}
 #| label: tbl-oian
@@ -54,10 +51,23 @@ else:
 
 - Lateral femoral condyle @gilroyAtlasAnatomy2020 
 - Lateral Meniscus (post. horn) @gilroyAtlasAnatomy2020
+- The popliteus also originates from the *oblique popliteal ligament* @jonesProjectFoundations2025.
+
+
+# Pathway
+
+The popliteus arises from its [origin on the lateral femur](#origin) and it penetrates the [knee joint capsule]({{< var ref-knee-joint.capsule >}}) but **not** the synovium @jonesProjectFoundations2025.
+
+The popliteus then runs between the [LCL]({{< var ref-knee-lateral-collateral-ligament.path >}}) and [lateral meniscus]({{< var ref-meniscus.lateral >}}) @jonesProjectFoundations2025.
+As it passes the [lateral meniscus]({{< var ref-meniscus.lateral >}}), the popliteus sends out fibrous expansions on the posterior edge of the lateral meniscus @jonesProjectFoundations2025.
+
+Finally, it emerges from the [capsule]({{< var ref-knee-joint.capsule >}}), but deep to the [Arcuate popliteal ligament]({{< var ref-knee-arcuate-popliteal-ligament.path >}}) @jonesProjectFoundations2025.
 
 
 # Insertion {#insertion}
-Posterior tibial surface (*above the origin at the soleus*)
+
+Posterior tibial surface (*above the origin at the soleus*) [@gilroyAtlasAnatomy2020; @jonesProjectFoundations2025].
+
 
 
 
@@ -67,9 +77,19 @@ Posterior tibial surface (*above the origin at the soleus*)
 
 # Action {#action}
 
-- **Knee**: flexes and unlocks the knee by externally rotating the femur on the fixed tibia @gilroyAtlasAnatomy2020 
+The popliteus weakly flexes the knee [@gilroyAtlasAnatomy2020; @jonesProjectFoundations2025].
+During knee flexion, the popliteus' [origin on the femoral condyle](#origin) shifts superiorly and anteriorly, resulting in a stretch tension and improving its ability to internally rotate the knee @jonesProjectFoundations2025.
+
+
+The popliteus Internally rotates the knee and *unlocks* it by externally rotating the femur on a fixed tibia [@gilroyAtlasAnatomy2020; @jonesProjectFoundations2025].
+
+The Popliteus performs accessory knee motion by pulling the posterior tibial plateua *posteriorly* and *laterally* @jonesProjectFoundations2025.
+
+
 
 # Biomechanics
+
+The popliteus achieves knee internal rotation in two ways:
 
 - OKC: IR rotates tibia on femur
 - CKC: ER rotates femur on tibia

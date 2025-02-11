@@ -5,7 +5,7 @@ title: Spinal Cord
 
 ![Upper part of medulla spinalis, hindbrain, and midbrain (posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image792 Upper part of medulla spinalis and hind- and mid-brains posterior aspect exposed in situ.gif)
 
-![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif)
+![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif){#fig-gray1918-image796}
 
 # Pathway
 

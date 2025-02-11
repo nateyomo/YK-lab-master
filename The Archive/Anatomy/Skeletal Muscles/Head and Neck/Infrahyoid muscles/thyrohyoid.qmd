@@ -4,7 +4,7 @@ title: Thyrohyoid muscle
 
 
 
-![Hypoglossal nerve, cervical plexus, and their respective branches @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image794 Hypoglossal nerve cervical plexus and their branches.gif)
+![Hypoglossal nerve, cervical plexus, and their respective branches @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image794 Hypoglossal nerve cervical plexus and their branches.gif){#fig-gray1918-image794}
 
 
 ```{python tbl-oian}
@@ -50,6 +50,6 @@ else:
 
 # Innervation {#innervation}
 
-![Path of the Hypoglossal nerve @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image795 Plan of hypoglossal nerve.gif)
+![Path of the Hypoglossal nerve @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image795 Plan of hypoglossal nerve.gif){#fig-gray1918-image795}
 
 # Action {#action}

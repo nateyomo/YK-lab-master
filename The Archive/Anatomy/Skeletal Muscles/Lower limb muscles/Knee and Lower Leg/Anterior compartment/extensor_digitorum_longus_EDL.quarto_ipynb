@@ -1,0 +1,105 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Extensor Digitorum Longus (EHL)\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "![Muscles of the anterior leg @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image437 Muscles of the front of the leg.gif)\n"
+      ],
+      "id": "9bc7304e"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'muscle_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['extensor_digitorum_longus']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Origin {#origin}\n",
+        "\n",
+        "- Tibia (lateral condyle) @gilroyAtlasAnatomy2020\n",
+        "- Fibula (head and medial surface) @gilroyAtlasAnatomy2020\n",
+        "- IO membrane @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Insertion {#insertion}\n",
+        "\n",
+        "- 2nd to 5th toes (*at the dorsal aponeuroses at the bases of the distal phalanges*) @gilroyAtlasAnatomy2020 \n",
+        "\n",
+        "# Nerve\n",
+        "[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L4]({{< var ref-nerve-root.l4 >}}), [L5]({{< var ref-nerve-root.l5 >}})) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Action {#action}\n",
+        "\n",
+        "- **TCJ**: DF\n",
+        "- **STJ**: Eversion\n",
+        "- **MTP & IP 2-5 Toe**: Extension\n",
+        "\n",
+        "::: {.callout-note}\n",
+        "The EDL is the *only* muscle that can produce 5th toe extension @jonesProjectFoundations2025.\n",
+        ":::\n",
+        "\n",
+        "# MMT \n",
+        "\n",
+        "\"The EDL and the EDB muscles produce the motion of extension at the MTP and IP joints of the lateral four digits from a flexed position.\" @duttonDuttonOrthopaedicExamination2020\n",
+        "\n",
+        "- Apply resistance dorsal surface of the proximal and distal phalanges into toe flexion @duttonDuttonOrthopaedicExamination2020 "
+      ],
+      "id": "3d1b8b23"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

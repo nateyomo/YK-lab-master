@@ -353,7 +353,7 @@ ref-knee-joint:
   path: "/"
   synovial-fluid: "/The Archive/MSK/Regions/Lower extremity/Knee/knee_msk.html#synovial-fluid"
   synovial-membrane: "/The Archive/MSK/Regions/Lower extremity/Knee/knee_msk.html#synovial-membrane"
-  articular-capsule: "/The Archive/Anatomy/Connective tissue/Fibrous CT/Joint Capsule/knee_joint_capsule.html"
+  capsule: "/The Archive/Anatomy/Connective tissue/Fibrous CT/Joint Capsule/knee_joint_capsule.html"
 ref-femoroacetabular-joint:
   path: "/The Archive/Anatomy/Joints/LE Joints/femoroacetabular_joint.html"
 ref-patellofemoral-joint:
@@ -426,6 +426,10 @@ ref-sacrotuberous-ligament:
 ### Knee ligaments
 ref-knee-ligaments:
   path: "/The Archive/Anatomy/Ligaments/Knee ligaments/knee_ligaments.html"
+ref-knee-anterior-cruciate-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Knee ligaments/ACL_anterior_cruciate_ligament.html"
+ref-knee-posterior-cruciate-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Knee ligaments/PCL_posterior_cruciate_ligament.html"
 ### Ankle and foot
 ref-deep-transverse-metatarsal-ligament:
   path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Ankle and foot Ligaments/deep_transverse_metatarsal_ligament.html"
@@ -1548,7 +1552,7 @@ ref-articularis-genus:
 
 
 #### Posterior Thigh Muscles
-ref-hamstrings:
+ref-hamstring-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/hamstrings.html"
 ref-biceps-femoris-long-head:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.html"
@@ -2910,6 +2914,13 @@ ref-periostitis:
   path: "/The Archive/Pathologies/Bone pathologies/periostitis.html"
 
 # Muscle pathologies
+
+ref-shin-splints:
+  path: "/The Archive/Pathologies/Muscle Pathologies/shin_splints.html"
+ref-anterior-shin-splints:
+  path: "/The Archive/Pathologies/Muscle Pathologies/shin_splints.html"
+ref-posterior-shin-splints:
+  path: "/The Archive/Pathologies/Muscle Pathologies/shin_splints.html"
 
 ref-delayed-onset-muscle-soreness:
   path: "/The Archive/Pathologies/Muscle Pathologies/delayed_onset_muscle_soreness_DOMS.html"

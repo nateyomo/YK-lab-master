@@ -24,6 +24,14 @@ This patient will protract their shoulders in order to create the *allusion* of 
 Shoulder protraction places the shoulder in an unstable position.
 Full shoulder protraction places the retractor muscles in their most stretched position, causing them to be weaker than at midrange @jonesProjectPhysicalTherapy2025.
 
+
+# Stance
+
+Stance varies based on the individual, but it should be somewhere between hip and shoulder width apart.
+
+::: {.callout-tip}
+A wider stance can help to better expose asymmetries in range of motion or stability @jonesProjectPhysicalTherapy2025.
+:::
 # Assessment
 
 - Bar path
@@ -52,7 +60,6 @@ The bar should follow a perfectly vertical path during the movement.
 
 
 # Deadlift (BW)
-
 
 
 # Single leg Modified deadlift

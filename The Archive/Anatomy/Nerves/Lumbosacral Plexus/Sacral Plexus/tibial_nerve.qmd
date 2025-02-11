@@ -2,6 +2,8 @@
 title: Tibial Nerve
 ---
 
+Note the [tibial nerve]({{< var ref-tibial-nerve.path >}}) as it follows a distal path through the center of the tibiofemoral joint line, but then quickly courses medially towards the *tarsal tunnel* @jonesProjectFoundations2025.
+The [tibial nerve]({{< var ref-tibial-nerve.path >}}) enters the lower leg then pierces the soleus muscle @jonesProjectFoundations2025.
 
 # Roots
 
