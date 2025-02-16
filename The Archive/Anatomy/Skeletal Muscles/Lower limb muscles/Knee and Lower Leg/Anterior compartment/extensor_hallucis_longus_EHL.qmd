@@ -2,6 +2,10 @@
 title: Extensor Hallucis Longus (EHL)
 ---
 
+![Muscles of the lower leg @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.32 Muscles of the Lower Leg.jpeg){#fig-openstax-fig11.32}
+
+![Intrinsic foot muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.34 Intrinsic Muscles of the Foot.jpeg){#fig-openstax-fig11.34}
+
 :::{layout-ncol="3"}
 
 ![The Mucous sheaths of the tendons around the ankle (lateral view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image441 The mucous sheaths of the tendons around the ankle. Lateral aspect.gif)

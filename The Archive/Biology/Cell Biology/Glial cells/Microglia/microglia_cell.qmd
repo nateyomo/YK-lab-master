@@ -1,0 +1,12 @@
+---
+title: Microglia
+---
+
+:::{.callout-note}
+
+- Chapter 4 Microglia: Critical Mediators of Pain Hypersensitivity after Peripheral Nerve Injury @mcmahonWallMelzackTextbook2013
+
+:::
+
+
+![Glial cells of the CNS @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig12.11 openstax Glial Cells of the CNS.jpeg){#fig-openstax-fig12.11}

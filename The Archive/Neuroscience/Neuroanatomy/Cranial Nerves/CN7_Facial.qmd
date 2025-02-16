@@ -21,6 +21,8 @@ to read
 # Somatic motor Pathway:
 Motor: Pre-central gyrus -> Corticobulbar tract (1°) -> (Pontomedullary junction) Facial motor nucleus -> Facial nerve (2°) -> Muscles of facial expression
 
+![Muscles of Facial expression @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.7 Muscles of Facial Expression.jpeg){#fig-openstax-fig11.7}
+
 # Parasympathetic Motor Pathway:
 Lacrimal / nasal mucosa: Hypothalamus -> Dorsal longitudinal Fasciculus -> Superior Salivatory Nucleus (2° Synapse) -> Pterygopalatine ganglion (3° Synapse) -> Lacrimal gland + Nasal Mucosa Gland
 

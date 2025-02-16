@@ -3,12 +3,131 @@ title: Posture
 ---
 
 
+
 :::{.callout title="To read"}
 
 - 6 Gait and Posture Analysis p279 @duttonDuttonOrthopaedicExamination2020
 - Neuman posture analysis @neumannKinesiologyMusculoskeletalSystem2017
+- DNS Chapter @DynamicNeurologicalStabilizationClinicalRehabilitation2014
 
 :::
+
+
+Posture is defined as actively creating internal forces to hold the body's segments against external forces of everyday life.
+In general, gravitational force has the greatest significance @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+
+Posture is frequently misconstrued and used as a synonym to "erect standing on two extremities" or to sitting, but this is *not* the case @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+
+# Movement Prerequisite
+
+Posture is the main component *required* for movement @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+
+We can divide any movement into "freeze frames" where the individual is holding different static postures @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+
+We can divide each of these "freeze frames" into 3 postural categories: @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+
+- [Postural stability](#postural-stability)
+- [Postural stabilization](#postural-stabilization)
+- [Postural reactibility](#postural-reactability)
+
+
+# Ideal Posture
+
+:::{#tbl-ideal-standing-posture}
+| Segment | Positioning |
+|-|-|
+| Head | Neutral |
+| Cervical spine | Curvature slightly lordotic (convex anteriorly) |
+| Shoulder blades | Retraction and depression (Adhere to chest wall) |
+| Thoracic spine | Slightly kyphotic (Curvature slightly convex posterior) | 
+| Lumbar spine | Slightly lordotic (Curvature slightly convex anterior) |
+| Pelvis | Neutral (anterior superior iliac spines lie in same vertical plane as the symphysis pubis) |
+| Hip joints | Neutral |
+| Knee | Neutral |
+| Ankle | Neutral (shins perpendicular to the plane of the feet) |
+
+Ideal positioning in standing @DynamicNeurologicalStabilizationClinicalRehabilitation2014 
+
+:::
+
+
+# Categories
+
+## Postural Stability {#postural-stability}
+
+In a "static position," the body as a *whole* is *static* and does not change its position, but each joint is undergoing *dynamic* processes @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+When holding a static position, we are in a constant state of losing the fight to external forces then overcoming those forces to *return* to the static position @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+
+
+::: {.callout-note}
+You can view this in two ways:
+
+In a therapeutic environment, when holding a static position, we can still work on dynamic motions of a joint.
+
+In a pathological sense, an individual can perform a dynamic movement of the whole body, but a dysfunctional joint can be static and not allowing for dynamic processes.
+:::
+
+Postural stability is influenced by both biomechanical and neurophysiologic factors @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+
+Biomechanical factors: 
+
+- Base of support: The part of the surface that is in direct 
+- Center of mass (COM): 
+- Support base: The whole area bordered by the farthest margins of the support area
+
+Stability is *directly* proportion to the size of the support base and weight.
+Stability is *indirectly* proportional to the height of the center of gravity above the support base, the horizontal distance between center of gravity and the support base and the angle of base of support @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+
+
+$$
+S \propto \frac{(B \cdot W)}{(H \cdot D \cdot \theta)}
+$$
+
+where:
+
+- \( S \) = Stability  
+- \( B \) = Base of support size (width, length, or area)  
+- \( W \) = Weight (mass)  
+- \( H \) = Height of the center of gravity (CoG) above the base of support  
+- \( D \) = Distance from the projection of CoG to the center of the support base  
+- \( \theta \) = Angle of the base of support from the horizontal plane  
+
+
+::: {.callout}
+For movement without losing balance, the resultant external force vector must point toward the support base: @chatgpt
+:::
+
+
+$$
+\sum F_{\text{external}} = W + M + F_f + R
+$$
+
+where:
+
+- \( \sum F_{\text{external}} \) = Total external force acting on the body  
+- \( W \) = Gravitational force (weight)  
+- \( M \) = Momentum force  
+- \( F_f \) = Friction force  
+- \( R \) = Ground reaction force  
+
+For stability during locomotion:
+
+
+$$
+\sum F_{\text{external}} \text{ must project into the base of support.}
+$$
+
+
+::: {.callout}
+"On the other hand, during locomotion, the vector of gravitational force does not need to point directly toward the support base, but the resultant vector of external forces, including outside gravitational force, momentum, friction force, reaction force, etc., must point to it." @chatgpt 
+:::
+
+
+## Postural Stabilization {#postural-stabilization}
+
+"Postural stabilization is understood to be an active  (muscular) holding of body segments against the activity of external forces controlled by the CNS. This muscle activity holds body segments (active segment holding) against the action of external forces (especially gravitational force). During static conditions (in standing, sitting, etc.), a relative tightness of joints is achieved via muscular activity, which is coordinated by the activity of agonists and antagonists (co-activation activity). This activity also allows for resisting gravitational force in a given position. The tightening of body segments enables the achievement of an erect posture and locomotion of the body as a whole (an analogy can be seen in an experiment where we are trying to erect a wooden wand and a chain or a board and a net). Without coordinated muscle activity our skeleton would collapse - hence postural stabilization. Postural stabilization does not only act against gravity, but it participates in all movements, even movements involving only the lower or upper extremities." @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+
+## Postural reactability {#postural-reactability}
 
 
 # Interventions

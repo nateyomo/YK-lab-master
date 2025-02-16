@@ -2,6 +2,11 @@
 title: Upper Trapezius
 ---
 
+![Muscles of the Posterior and lateral neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.14 Posterior and Lateral Views of the Neck.jpeg){#fig-openstax-fig11.14}
+
+![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}
+
+![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}
 
 ![Nerves of the scalp and side of the neck @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image790 The nerves of the scalp face and side of neck.gif)
 
@@ -56,6 +61,8 @@ else:
 # Insertion {#insertion}
 
 [Clavicle (lateral one third)]({{< var ref-clavicle-bone.path >}}) @gilroyAtlasAnatomy2020
+
+![Left Clavicle (superior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image200 gray1918 Left clavicle. Superior surface.gif){#fig-gray1918-image200}
 
 # Innervation {#innervation}
 

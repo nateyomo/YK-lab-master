@@ -50,9 +50,13 @@ else:
 
 Coracoid process of [Scapula]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
 
+![Left scapula (Posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image203 gray1918 Left scapula. Dorsal surface.gif){#fig-gray1918-image203}
+
 # Insertion {#insertion}
 
 The *coracobrachialis* inserts on the medial surface of the middle 1/3 of [Humerus]({{< var ref-humerus-bone.path >}}) (in line with crest of lesser tubercle) @gilroyAtlasAnatomy2020
+
+![Left Humerus (Anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image207 gray1918 Left humerus. Anterior view.gif){#fig-gray1918-image207}
 
 # Innervation {#innervation}
 

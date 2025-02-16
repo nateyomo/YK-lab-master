@@ -2,6 +2,8 @@
 title: Sternum (Bone)
 ---
 
+![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}
+
 # Articulations
 
 ## Sternoclavicular joint
@@ -39,6 +41,7 @@ By 40 years old, the xiphisternal joint *often* ossifies @neumannKinesiologyMusc
 - [Xiphoid process](#xiphoid-process)
 
 ## Manubrium {#manubrium}
+![Sternoclavicular joint (Anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Syndesmology/image325 gray1918 Sternoclavicular articulation. Anterior view.gif){#fig-gray1918-image325}
 
 ## Jugular notch {#jugular-notch}
 

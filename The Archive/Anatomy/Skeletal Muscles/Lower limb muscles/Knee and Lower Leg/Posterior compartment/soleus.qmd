@@ -3,6 +3,9 @@ title: Soleus Muscle
 ---
 
 
+![Muscles of the lower leg @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.32 Muscles of the Lower Leg.jpeg){#fig-openstax-fig11.32}
+
+
 :::{layout-ncol="3"}
 
 ![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif){#fig-gray1918-image438}
@@ -110,6 +113,17 @@ Thus, this is a **second class lever** and as a result, the triceps surae create
 :::
 :::
 
+# Release {#release}
+
+Releasing the soleus at its origin can be important for freeing the tibial nerve as it passes through the soleus.
+
+- Patient in prone
+- Palpate lateral gastrocnemius head
+- Move medially to palpate the tibial nerve
+- Follow the tibial nerve inferiorly until you reach the soleus' origin.
+- Apply *pure pressure* to release the soleus
+
+Use the [SLR Ankle contract-relax]({{< var ref-straight-leg-raise.contract-relax-ankle >}}) as a test-retest and a way to glide the tibial nerve.
 
 # Stretch {#stretch}
 

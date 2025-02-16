@@ -8,8 +8,43 @@ We define a "Wall sit" differently from what you would think of at a commercial 
 The movement most people think of where you are on your feet and holding a squat position against a wall, we refer to as a "wall squat."
 
 
+# Wall sit 
 
-# Wall sit
+- Sitting on a stool with back supported against the wall
+
+- Regression
+    - Standing (&darr; requisite hip flexion mobility) 
+- LE Progression
+    - Sagittal progression
+        - Forward reach
+        - Sit (&uarr; stability)
+        - Long wall sit (&uarr; mobility)
+        - Long sit (&uarr; mobility, &uarr; stability)
+    - Transverse progression: Rotation (&uarr; dynamic)
+    - Frontal progression: Sidebend
+- UE Progression
+    - Shoulder T/W/WER
+
+# Sit
+
+
+Statically sitting on a bench/stool with knees bent.
+
+
+- Regression
+    - Wall sit 
+- LE Progression
+    - Sagittal progression
+        - Forward reach
+        - Long wall sit (&uarr; mobility, &darr; stability)
+        - Long sit (&uarr; mobility, &uarr; stability)
+    - Transverse progression: Rotation (&uarr; dynamic)
+    - Frontal progression: Sidebend
+- UE Progression
+    - Shoulder T/W/WER
+
+
+# Long Wall sit
 ## Purpose
 
 "Wall sitting is a supportive hip hinging positional challenge between the trunk, pelvis, and lower extremity active range of motion. Using the wall and floor as feedback provides groundwork for postural progression" @jonesProjectPhysicalTherapy2025

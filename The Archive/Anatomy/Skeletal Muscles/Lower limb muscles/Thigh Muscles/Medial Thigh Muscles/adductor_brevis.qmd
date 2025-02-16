@@ -4,6 +4,8 @@ title: Adductor Brevis
 
 :::{layout-ncol="3"}
 ![Deep muscles of the medial thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image433 Deep muscles of the medial femoral region.gif)
+
+![Hip and Thigh Muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg){#fig-openstax-fig11.29}
 :::
 
 ```{python tbl-oian}

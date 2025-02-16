@@ -1,5 +1,6 @@
 ---
-title: Musculoskeletal Approach to the Low Back
+title: Low back Region
+subtitle: Musculoskeletal Overview
 ---
 
 
@@ -40,7 +41,6 @@ See [lumbosacral junction]({{< var ref-lumbosacral-junction.path >}})
 
 ## Theories of Spine Stabilization
 
-:::{layout-ncol="2"}
 
 ### Bracing Mechanism
 
@@ -55,7 +55,6 @@ Proposed by Richardson
 
 "Richardson et al.45 have proposed that a pressure corset is formed by the muscles of the lumbar spine. Under this proposal, the TrA forms the wall of the cylinder, and the muscles of the pelvic floor and diaphragm form the base and lid, respectively. Within this system, the intra-abdominal pressure group is maintained at a level that provides spinal support. Since the abdominal cavity has a finite volume, the intra-abdominal pressure (force/area) will increase if the abdominal cavity volume is reduced (contraction of the muscles in the pelvic floor, abdominal muscles and diaphragm, and the wearing of a lumbar corset) In addition, the increase in intra-abdominal pressure is thought to provide a mild distractive force to the spinal segments, due to separation of the pelvic floor and diaphragm. Because intra-abdominal pressure and fascial tension are important for the control of intervertebral motion, the muscles that surround the abdominal cavity, such as the diaphragm and the pelvic floor muscles (see Chapter 29), provide an additional contribution. These two muscle groups also have important respiratory and continence functions. Theoretically, reduced contribution of the diaphragm to spinal stability may occur during periods of increased respiratory demand. As the diaphragm descends during inspiration, intra-abdominal pressure increases provided that the musculature of the abdominal and pelvic floor maintains its respective tension." @duttonDuttonOrthopaedicExamination2020 
 
-:::
 
 
 

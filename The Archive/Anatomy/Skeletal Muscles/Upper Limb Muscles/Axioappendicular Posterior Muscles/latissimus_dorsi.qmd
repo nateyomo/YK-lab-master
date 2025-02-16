@@ -2,6 +2,12 @@
 title: Latissimus Dorsi
 ---
 
+![Left Humerus (Anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image207 gray1918 Left humerus. Anterior view.gif){#fig-gray1918-image207}
+
+![Muscles of the Abdomen @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.16 Muscles of the Abdomen.jpeg){#fig-openstax-fig11.16}
+
+![Muscles that move the humerus @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.23 Muscles That Move the Humerus.jpeg){#fig-openstax-fig11.23}
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false

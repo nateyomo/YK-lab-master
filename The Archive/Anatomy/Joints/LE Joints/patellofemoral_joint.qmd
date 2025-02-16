@@ -3,17 +3,102 @@ title: Patellofemoral Joint
 ---
 
 
-The PFJ is a complex articulation, dependent on both dynamic and static restraints for its function and stability. The patella (Fig. 20-1), a ubiquitous sesamoid bone found in birds and mammals, plays an important role in the biomechanics of the knee. Its articular anatomy is uncomplicated: it is a very hard, triangular-shaped bone, situated in the intercondylar notch and embedded in the tendon of the quadriceps femoris muscle above and the patellar tendon below. The groove has a complex architecture with increasing height of the groove’s lateral facet at the proximal aspect, providing a deeper “patella track” in knee extension.5 In healthy individuals, aspects of the femoral trochlea including its depth, as well as the shape and height of the lateral trochlea, can affect patellar tracking.6,7 From 20 to 30 degrees of knee flexion, the patella is confined within the trochlea and hence, the bony joint components provide inherent stability but, once beyond this range, there is little intrinsic bony support and stability must be provided by other soft-tissue structures, both passively and actively.6 The thickness of the patella varies considerably, attaining a maximum height of 2–2.5 cm (0.77–1 in) at its central portion.1 The posterior surface of the patella can include up to seven facets. The geometry of these facets varies between individuals and may affect patellar tracking.6 A smaller facet, known as the odd facet, exists medially and is delineated by a second vertical ridge. These concave medial and lateral facets are separated by a vertical ridge and are covered with aneural hyaline cartilage, the thickest cartilage in the body (up to 7 mm thick).1 The articular cartilage of the patella is unique because it lacks conformity with the underlying bone.8 The hyaline cartilage, here as elsewhere, functions to minimize the friction that occurs at the functional contact areas of the joint surfaces.
 
 
-
-Radiographic and cadaver studies have classified the patella into three Wiberg classifications (type A–C) based on the size and shape of these lateral and medial facets.
-
-
-The patellar surface of the femur is divided into medial and lateral facets that closely correspond to those on the posterior surface of the patella. The PFJ functions to
+# Muscle
 
 
-provide the articulation with low friction; ▶ protect the distal aspect of the femur from trauma and the quadriceps from attritional wear; ▶ improve the cosmetic appearance of the knee; ▶ improve the moment arm (distance from the center of gravity and the center of rotation) of the quadriceps. This is achieved by elevating the quadriceps femoris muscle from the center of knee rotation. This increases the efficiency of the quadriceps muscle and provides it with leverage for extending the leg. The patellar contribution to the knee extensor moment arm increases with increasing amounts of knee extension; and ▶ decrease the amount of anteroposterior tibiofemoral shear stress placed on the joint.
+```{python tbl-patellofemoral-flexor-oian}
+#| label: tbl-patellofemoral-flexor-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Patellofemoral Flexors"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'action_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['tfj_flex']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
+```{python tbl-patellofemoral-extensor-oian}
+#| label: tbl-patellofemoral-extensor-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Patellofemoral Extensors"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'action_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['pfj_ext']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
+# Overview
+
+
+"The PFJ is a complex articulation, dependent on both dynamic and static restraints for its function and stability. The patella (Fig. 20-1), a ubiquitous sesamoid bone found in birds and mammals, plays an important role in the biomechanics of the knee. Its articular anatomy is uncomplicated: it is a very hard, triangular-shaped bone, situated in the intercondylar notch and embedded in the tendon of the quadriceps femoris muscle above and the patellar tendon below. The groove has a complex architecture with increasing height of the groove’s lateral facet at the proximal aspect, providing a deeper “patella track” in knee extension.5 In healthy individuals, aspects of the femoral trochlea including its depth, as well as the shape and height of the lateral trochlea, can affect patellar tracking.6,7 From 20 to 30 degrees of knee flexion, the patella is confined within the trochlea and hence, the bony joint components provide inherent stability but, once beyond this range, there is little intrinsic bony support and stability must be provided by other soft-tissue structures, both passively and actively.6 The thickness of the patella varies considerably, attaining a maximum height of 2–2.5 cm (0.77–1 in) at its central portion.1 The posterior surface of the patella can include up to seven facets. The geometry of these facets varies between individuals and may affect patellar tracking.6 A smaller facet, known as the odd facet, exists medially and is delineated by a second vertical ridge. These concave medial and lateral facets are separated by a vertical ridge and are covered with aneural hyaline cartilage, the thickest cartilage in the body (up to 7 mm thick).1 The articular cartilage of the patella is unique because it lacks conformity with the underlying bone.8 The hyaline cartilage, here as elsewhere, functions to minimize the friction that occurs at the functional contact areas of the joint surfaces." @duttonDuttonOrthopaedicExamination2020
+
+"Radiographic and cadaver studies have classified the patella into three Wiberg classifications (type A–C) based on the size and shape of these lateral and medial facets." @duttonDuttonOrthopaedicExamination2020
+
+
+"The patellar surface of the femur is divided into medial and lateral facets that closely correspond to those on the posterior surface of the patella. The PFJ functions to " @duttonDuttonOrthopaedicExamination2020
+
+- "Provide the articulation with low friction" @duttonDuttonOrthopaedicExamination2020
+- "Protect the distal aspect of the femur from trauma and the quadriceps from attritional wear" @duttonDuttonOrthopaedicExamination2020
+- "Improve the cosmetic appearance of the knee" @duttonDuttonOrthopaedicExamination2020
+- "Improve the moment arm (distance from the center of gravity and the center of rotation) of the quadriceps. This is achieved by elevating the quadriceps femoris muscle from the center of knee rotation. This increases the efficiency of the quadriceps muscle and provides it with leverage for extending the leg. The patellar contribution to the knee extensor moment arm increases with increasing amounts of knee extension" @duttonDuttonOrthopaedicExamination2020
+- "decrease the amount of anteroposterior tibiofemoral shear stress placed on the joint." @duttonDuttonOrthopaedicExamination2020.
 
 
 # Kinetics
@@ -35,13 +120,41 @@ provide the articulation with low friction; ▶ protect the distal aspect of the
 
 
 
-"Activation of the quadriceps as a whole also pulls and compresses the patella posteriorly against the femur, thereby stabilizing its path of movement relative to the distal femur. This stabilization effect increases with the knee in greater flexion (review Fig. 13.28). Even in full knee extension, however, some fibers of the quadriceps are aligned to produce a posterior compression through the patellofemoral joint.287 This is particularly apparent by observing a side-view diagram of the line of force of the oblique fibers of the vastus medialis (see Fig. 13.29B). Although relatively small, this posterior stabilizing effect on the patella is especially useful in the last 20 to 30 degrees of extension, at a point when (1) the patella is no longer fully engaged within the trochlear groove of the femur and (2) the resultant patellofemoral joint compression (stabilizing) force produced by the activated quadriceps as a whole is least.4"
+"Activation of the quadriceps as a whole also pulls and compresses the patella posteriorly against the femur, thereby stabilizing its path of movement relative to the distal femur. This stabilization effect increases with the knee in greater flexion (review Fig. 13.28). Even in full knee extension, however, some fibers of the quadriceps are aligned to produce a posterior compression through the patellofemoral joint.287 This is particularly apparent by observing a side-view diagram of the line of force of the oblique fibers of the vastus medialis (see Fig. 13.29B). Although relatively small, this posterior stabilizing effect on the patella is especially useful in the last 20 to 30 degrees of extension, at a point when (1) the patella is no longer fully engaged within the trochlear groove of the femur and (2) the resultant patellofemoral joint compression (stabilizing) force produced by the activated quadriceps as a whole is least.4" @neumannKinesiologyMusculoskeletalSystem2017 
 
 
 ## Factors That Naturally Oppose the Lateral Pull of the Quadriceps on the Patella
 
 "Several factors throughout the lower extremity oppose and thereby limit the lateral bias in pull of the quadriceps relative to the patellofemoral joint. These factors are important to optimal tracking. In this context, optimal tracking is defined as movement between the patella and femur across the greatest possible area of articular surface with the least possible stress. Understanding the factors that favor optimal tracking provides insight into most pathomechanics and many treatments for pain and other dysfunctions of the patellofemoral joint. Both local and global factors will be described. Local factors are those that act directly on the patellofemoral joint. Global factors, on the other hand, are those related to the alignment of the bones and joints of the lower limb. Although these factors are described as separate entities, in reality, their effectiveness in optimizing patellar tracking is based on the sum of their combined influences." @neumannKinesiologyMusculoskeletalSystem2017 
 
+
+# Joint assessment {#assessment}
+
+- Patient positioned in supine
+- Clinician places their own knee under the patient's lower leg to provide a fulcrum to move the patient's knee through extension and hyperextension @jonesProjectFoundations2025.
+
+
+## Superior translation
+
+- Pinch the *apex* of the patella between your thumb and index finger.
+- In extension/hyperextension, glide the patella superiorly.
+- Since we are mainly testing the *patellar tendon*, it functionally acts as a tendon but technically is a ligament since it connects bone (patella) to bone (tibia), thus the the end feel resistance should increase quickly in a nonlinear pattern typical for ligaments @jonesProjectFoundations2025.
+
+How do we know if it is normal or abnormal?
+
+- Compare right to left sides
+- Feel the end feel, a more elastic end feel is more normal than a rigid or "cloudy" end feel @jonesProjectFoundations2025.
+
+## Inferior translation
+
+- Pinch the *base* of the patella between your thumb and index finger.
+- In extension/hyperextension, glide the patella superiorly.
+- Since we are mainly testing the *quadriceps tendon*, which connects the quadriceps to the patella, the end feel resistance should be *more* linear than the patella ligament and inferior gliding @jonesProjectFoundations2025.
+
+
+# Manual Treatment
+
+- [Patellar tendon release]({{< var ref-patellar-tendon.release >}})
 
 # Exercise
 

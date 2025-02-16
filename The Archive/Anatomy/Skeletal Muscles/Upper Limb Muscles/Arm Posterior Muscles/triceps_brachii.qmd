@@ -2,6 +2,14 @@
 title: Triceps Brachi
 ---
 
+![Muscles that move the humerus @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.23 Muscles That Move the Humerus.jpeg){#fig-openstax-fig11.23}
+
+![Muscles that move the Forearm @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.25 Muscles That Move the Forearm.jpeg){#fig-openstax-fig11.25}
+
+![Left Scapula (Lateral view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image205 gray1918 Left scapula. Lateral view.gif){#fig-gray1918-image205}
+
+![Left Humerus (Posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image208 gray1918 Left humerus. Posterior view.gif){#fig-gray1918-image208}
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false
@@ -44,6 +52,8 @@ else:
 ## Origin {#origin}
 
 Infraglenoid tubercle of scapula @gilroyAtlasAnatomy2020
+
+![Left Scapula (Anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image202 gray1918 Left scapula. Costal surface.gif){#fig-gray19180image202}
 
 ## Insertion {#insertion}
 

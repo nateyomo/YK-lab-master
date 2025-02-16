@@ -2,6 +2,9 @@
 title: Biceps Femoris Long Head
 ---
 
+
+![Hip and Thigh Muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg){#fig-openstax-fig11.29}
+
 ![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}
 
 ![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif){#fig-gray1918-image438}
@@ -65,3 +68,9 @@ Head of Fibula @gilroyAtlasAnatomy2020
 - **Pelvic Stabilization**: Sagittal plane @gilroyAtlasAnatomy2020
 - **Knee**: Flexion and ER @gilroyAtlasAnatomy2020
 
+
+# Dysfunction {#dysfunction}
+
+
+If there is immobility at the hip and ankle, the knee is often abused and performs transverse plane rotation to compensate.
+If this occurs, you will often see the biceps femoris long head and [popliteus]({{< var ref-popliteus.dysfunction >}}) being tender to palpate, guarding, and/or overactive since these are used to stabilize the knee against rotation @jonesProjectFoundations2025.

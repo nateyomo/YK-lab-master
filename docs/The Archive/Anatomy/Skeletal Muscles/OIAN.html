@@ -22,7 +22,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -44,6 +63,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../site_libs/bootstrap/bootstrap-2cd373bbd777488a2901da25ac479b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../../../site_libs/bootstrap/bootstrap-dark-30247d3b2cd0522fbeca720c4281c240.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -76,9 +98,10 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../../../styles.css">
 <meta name="twitter:title" content="OIANs of all the muscles">
+<meta name="twitter:image" content="https://yomokerst.com/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.7 Muscles of Facial Expression.jpeg">
 <meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
 <meta name="twitter:site" content="@yomokerst">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="floating nav-fixed">
@@ -273,7 +296,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="cell-output cell-output-stdout">
 <pre><code>Warning: No 'path' link found for variable 'nan' in YAML data.</code></pre>
 </div>
-<div id="tbl-suboccipital-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="1" data-message="false">
+<div id="tbl-suboccipital-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="1">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-suboccipital-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;1: Suboccipital Muscles
@@ -344,7 +367,7 @@ Table&nbsp;1: Suboccipital Muscles
 <li><a href="../../../The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Prevertebral Muscles/rectus_capitis_lateralis.html">Rectus Capitis Lateralis</a></li>
 </ul>
 <div class="cell" data-message="false" data-execution_count="2">
-<div id="tbl-prevertebral-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="2" data-message="false">
+<div id="tbl-prevertebral-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="2">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-prevertebral-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;2: Prevertebral Muscles
@@ -407,7 +430,7 @@ Table&nbsp;2: Prevertebral Muscles
 <li><a href="../../../The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Superficial Intrinsic Back Muscles/splenius_cervicis.html">Splenius cervicis</a></li>
 </ul>
 <div class="cell" data-message="false" data-execution_count="3">
-<div id="tbl-superficial-intrinsic-back-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="3" data-message="false">
+<div id="tbl-superficial-intrinsic-back-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="3">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-superficial-intrinsic-back-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;3: Superficial Intrinsic Back Muscles
@@ -502,7 +525,7 @@ C1 - C6</td>
 </div>
 </div>
 <div class="cell" data-message="false" data-execution_count="4">
-<div id="tbl-erector-spinae-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="4" data-message="false">
+<div id="tbl-erector-spinae-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="4">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-erector-spinae-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;4: Intermediate intrinsic back muscles
@@ -529,24 +552,34 @@ Table&nbsp;4: Intermediate intrinsic back muscles
 <tbody>
 <tr class="odd">
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html">Iliocostalis cervicis</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#origin">Ribs 3-7</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#insertion">C4-C6 TP</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#innervation">Spinal nn. Posterior rami (lateral br.)</a><br>
+C8 - L1</td>
+<td><strong>Bilateral</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#action">Extends spine</a><br>
+<strong>Unilateral</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#action">Spine ipsilateral sidebend</a></td>
 </tr>
 <tr class="even">
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html">Iliocostalis lumborum</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#origin">Sacrum</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#origin">Iliac crest</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#origin">Thoracolumbar fascia (posterior layer)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#insertion">Ribs 6-12</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#insertion">Upper lumbar TP</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#insertion">Thoracolumbar fascia (posterior layer)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#innervation">Spinal nn. Posterior rami (lateral br.)</a><br>
+C8 - L1</td>
+<td><strong>Bilateral</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#action">Extends spine</a><br>
+<strong>Unilateral</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#action">Spine ipsilateral sidebend</a></td>
 </tr>
 <tr class="odd">
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html">Iliocostalis thoracis</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#origin">Ribs 7-12</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#insertion">Ribs 1-6</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#innervation">Spinal nn. Posterior rami (lateral br.)</a><br>
+C8 - L1</td>
+<td><strong>Bilateral</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#action">Extends spine</a><br>
+<strong>Unilateral</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#action">Spine ipsilateral sidebend</a></td>
 </tr>
 <tr class="even">
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/longissimus.html">Longissimus capitis</a></td>
@@ -617,7 +650,7 @@ C1 - C5</td>
 <li><a href="../../../The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Transversospinalis Muscles/semispinalis.html">Semispinalis Thoracis</a></li>
 </ul>
 <div class="cell" data-message="false" data-execution_count="5">
-<div id="tbl-transversospinalis-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="5" data-message="false">
+<div id="tbl-transversospinalis-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="5">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-transversospinalis-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;5: Transversospinalis muscles
@@ -653,7 +686,7 @@ Table&nbsp;5: Transversospinalis muscles
 <div class="cell-output cell-output-stdout">
 <pre><code>Warning: No 'path' link found for variable 'ref-medial-intertransversarii-cervices' in YAML data.</code></pre>
 </div>
-<div id="tbl-deep-segmental-back-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="6" data-message="false">
+<div id="tbl-deep-segmental-back-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="6">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-deep-segmental-back-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;6: Transversospinalis muscles
@@ -799,7 +832,7 @@ Warning: No 'action' link found for variable 'None' in YAML data.
 Warning: No 'action' link found for variable 'None' in YAML data.
 Warning: No 'action' link found for variable 'None' in YAML data.</code></pre>
 </div>
-<div id="tbl-abdominal-wall-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="7" data-message="false">
+<div id="tbl-abdominal-wall-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="7">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-abdominal-wall-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;7: Abdominal Wall Muscles
@@ -918,7 +951,7 @@ L1 - L3</td>
 Warning: No 'path' link found for variable 'nan' in YAML data.
 Warning: No 'path' link found for variable 'nan' in YAML data.</code></pre>
 </div>
-<div id="tbl-pelvic-floor-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="8" data-message="false">
+<div id="tbl-pelvic-floor-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="8">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-pelvic-floor-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;8: Pelvic Floor Muscles
@@ -1001,7 +1034,7 @@ Warning: No 'path' link found for variable 'nan' in YAML data.
 Warning: No 'path' link found for variable 'nan' in YAML data.
 Warning: No 'path' link found for variable 'nan' in YAML data.</code></pre>
 </div>
-<div id="tbl-perineum-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="9" data-message="false">
+<div id="tbl-perineum-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="9">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-perineum-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;9: Perineum Muscles
@@ -1276,6 +1309,16 @@ Table&nbsp;9: Perineum Muscles
 </tr>
 </tbody>
 </table>
+<div id="fig-openstax-fig11.7" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-openstax-fig11.7-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="../../../The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.7 Muscles of Facial Expression.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Figure&nbsp;1: Muscles of Facial expression @OpenStaxAnatomyPhysiology2022"><img src="../../../The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.7 Muscles of Facial Expression.jpeg" class="img-fluid figure-img"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-openstax-fig11.7-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Muscles of Facial expression<span class="citation" data-cites="OpenStaxAnatomyPhysiology2022"><sup><a href="#ref-OpenStaxAnatomyPhysiology2022" role="doc-biblioref">1</a></sup></span>
+</figcaption>
+</figure>
+</div>
 </section>
 <section id="mastication" class="level2">
 <h2 class="anchored" data-anchor-id="mastication">Muscles of Mastication</h2>
@@ -1332,7 +1375,7 @@ Table&nbsp;9: Perineum Muscles
 <li>Trapezius</li>
 </ul>
 <div class="cell" data-message="false" data-execution_count="10">
-<div id="tbl-superficial-neck-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="10" data-message="false">
+<div id="tbl-superficial-neck-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="10">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-superficial-neck-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;10: Anterior Axioappendicular Muscles
@@ -1411,7 +1454,7 @@ C3 - C4</td>
 <li><a href="../../../The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Suboccipital Muscles/obliquus_capitis_inferior.html">Obliquus Capitis Inferior</a></li>
 </ul>
 <div class="cell" data-message="false" data-execution_count="11">
-<div id="tbl-nuchal-superficial-intrinsic-back-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="11" data-message="false">
+<div id="tbl-nuchal-superficial-intrinsic-back-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="11">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-nuchal-superficial-intrinsic-back-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;11: Superficial Intrinsic back muscles
@@ -1480,7 +1523,7 @@ C1 - C6</td>
 </div>
 </div>
 <div class="cell" data-message="false" data-execution_count="12">
-<div id="tbl-intermediate-intrinsic-back-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="12" data-message="false">
+<div id="tbl-intermediate-intrinsic-back-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="12">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-intermediate-intrinsic-back-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;12: Intermediate Intrinsic back muscles
@@ -1507,24 +1550,34 @@ Table&nbsp;12: Intermediate Intrinsic back muscles
 <tbody>
 <tr class="odd">
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html">Iliocostalis cervicis</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#origin">Ribs 3-7</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#insertion">C4-C6 TP</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#innervation">Spinal nn. Posterior rami (lateral br.)</a><br>
+C8 - L1</td>
+<td><strong>Bilateral</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#action">Extends spine</a><br>
+<strong>Unilateral</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#action">Spine ipsilateral sidebend</a></td>
 </tr>
 <tr class="even">
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html">Iliocostalis lumborum</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#origin">Sacrum</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#origin">Iliac crest</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#origin">Thoracolumbar fascia (posterior layer)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#insertion">Ribs 6-12</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#insertion">Upper lumbar TP</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#insertion">Thoracolumbar fascia (posterior layer)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#innervation">Spinal nn. Posterior rami (lateral br.)</a><br>
+C8 - L1</td>
+<td><strong>Bilateral</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#action">Extends spine</a><br>
+<strong>Unilateral</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#action">Spine ipsilateral sidebend</a></td>
 </tr>
 <tr class="odd">
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html">Iliocostalis thoracis</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#origin">Ribs 7-12</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#insertion">Ribs 1-6</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#innervation">Spinal nn. Posterior rami (lateral br.)</a><br>
+C8 - L1</td>
+<td><strong>Bilateral</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#action">Extends spine</a><br>
+<strong>Unilateral</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/iliocostalis.html#action">Spine ipsilateral sidebend</a></td>
 </tr>
 <tr class="even">
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Muscles%20of%20the%20back/Erector%20Spinae/longissimus.html">Longissimus capitis</a></td>
@@ -1587,7 +1640,7 @@ C1 - C5</td>
 <div class="cell-output cell-output-stdout">
 <pre><code>Warning: No 'path' link found for variable 'ref-medial-intertransversarii-cervices' in YAML data.</code></pre>
 </div>
-<div id="tbl-deep-intrinsic-back-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="13" data-message="false">
+<div id="tbl-deep-intrinsic-back-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="13">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-deep-intrinsic-back-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;13: Deep Intrinsic back muscles
@@ -1748,7 +1801,7 @@ Table&nbsp;13: Deep Intrinsic back muscles
 <li><a href="../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior.html">Serratus Anterior</a></li>
 </ul>
 <div class="cell" data-message="false" data-execution_count="14">
-<div id="tbl-anterior-axioappendicular-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="14" data-message="false">
+<div id="tbl-anterior-axioappendicular-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="14">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-anterior-axioappendicular-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;14: Anterior Axioappendicular Muscles
@@ -1849,7 +1902,7 @@ C5 - C6</td>
 </div>
 </div>
 <div class="cell" data-message="false" data-execution_count="15">
-<div id="tbl-posterior-axioappendicular-superficial-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="15" data-message="false">
+<div id="tbl-posterior-axioappendicular-superficial-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="15">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-posterior-axioappendicular-superficial-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;15: Superficial Posterior Axioappendicular muscles
@@ -1921,7 +1974,7 @@ C3 - C4</td>
 </div>
 </div>
 <div class="cell" data-message="false" data-execution_count="16">
-<div id="tbl-posterior-axioappendicular-deep-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="16" data-message="false">
+<div id="tbl-posterior-axioappendicular-deep-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="16">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-posterior-axioappendicular-deep-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;16: Deep Posterior Axioappendicular muscles
@@ -2033,7 +2086,7 @@ Warning: No 'action' link found for variable 'ref-posterior-deltoid' in YAML dat
 Warning: No 'action' link found for variable 'ref-posterior-deltoid' in YAML data.
 Warning: No 'action' link found for variable 'ref-posterior-deltoid' in YAML data.</code></pre>
 </div>
-<div id="tbl-scapulohumeral-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="17" data-message="false">
+<div id="tbl-scapulohumeral-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="17">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-scapulohumeral-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;17: Scapulohumeral muscles
@@ -2134,7 +2187,7 @@ C5 - C6</td>
 <li><a href="../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Anterior Muscles/coracobrachialis.html">Coracobrachialis</a></li>
 </ul>
 <div class="cell" data-message="false" data-execution_count="18">
-<div id="tbl-anterior-arm-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="18" data-message="false">
+<div id="tbl-anterior-arm-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="18">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-anterior-arm-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;18: Anterior arm muscles
@@ -2214,7 +2267,7 @@ C5 - C7</td>
 <li><a href="../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Arm Posterior Muscles/anconeus.html">Anconeus</a></li>
 </ul>
 <div class="cell" data-message="false" data-execution_count="19">
-<div id="tbl-posterior-arm-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="19" data-message="false">
+<div id="tbl-posterior-arm-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="19">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-posterior-arm-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;19: Posterior arm muscles
@@ -2288,7 +2341,7 @@ C6 - C8</td>
 <section id="anterior-forearm" class="level2">
 <h2 class="anchored" data-anchor-id="anterior-forearm">Anterior Forearm</h2>
 <div class="cell" data-message="false" data-execution_count="20">
-<div id="tbl-anterior-forearm-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="20" data-message="false">
+<div id="tbl-anterior-forearm-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="20">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-anterior-forearm-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;20: Anterior forearm muscles
@@ -2412,7 +2465,7 @@ C6 - C7</td>
 <section id="posterior-forearm" class="level2">
 <h2 class="anchored" data-anchor-id="posterior-forearm">Posterior Forearm</h2>
 <div class="cell" data-message="false" data-execution_count="21">
-<div id="tbl-posterior-forearm-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="21" data-message="false">
+<div id="tbl-posterior-forearm-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="21">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-posterior-forearm-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;21: Posterior forearm muscles
@@ -2506,10 +2559,13 @@ C7 - C8</td>
 </tr>
 <tr class="even">
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Posterior%20Compartment/extensor_pollicis_brevis.html">Extensor pollicis brevis</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Posterior%20Compartment/extensor_pollicis_brevis.html#origin">Radius (posterior)</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Posterior%20Compartment/extensor_pollicis_brevis.html#origin">IO membrane</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Posterior%20Compartment/extensor_pollicis_brevis.html#insertion">Base of 1st proximal phalanx</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Posterior%20Compartment/extensor_pollicis_brevis.html#innervation">Radial n.</a><br>
+C7 - C8</td>
+<td><strong>Radiocarpal joint</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Posterior%20Compartment/extensor_pollicis_brevis.html#action">Radial dev.</a><br>
+<strong>1st CMC &amp; MCP</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Posterior%20Compartment/extensor_pollicis_brevis.html#action">Extension</a></td>
 </tr>
 <tr class="odd">
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Posterior%20Compartment/extensor_pollicis_longus.html">Extensor pollicis longus</a></td>
@@ -2552,7 +2608,7 @@ C6 - C7</td>
 <li><a href="../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/flexor_pollicis_brevis.html">Flexor Pollicis Brevis</a></li>
 </ul>
 <div class="cell" data-message="false" data-execution_count="22">
-<div id="tbl-thenar-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="22" data-message="false">
+<div id="tbl-thenar-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="22">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-thenar-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;22: Thenar muscles
@@ -2560,6 +2616,13 @@ Table&nbsp;22: Thenar muscles
 <div aria-describedby="tbl-thenar-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <div class="cell-output cell-output-display">
 <table class="dataframe oian-table do-not-create-environment cell caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
 <thead>
 <tr class="header">
 <th data-quarto-table-cell-role="th">Muscle</th>
@@ -2572,24 +2635,32 @@ Table&nbsp;22: Thenar muscles
 <tbody>
 <tr class="odd">
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html">Abductor pollicis brevis</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#origin">Scaphoid</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#origin">Trapezium</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#origin">Flexor retinaculum</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#insertion">1st proximal phalanx via radial sesamoid</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#nerve">Median n.</a><br>
+C8 - T1</td>
+<td><strong>CMC</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#action">Abduction</a></td>
 </tr>
 <tr class="even">
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html">Flexor pollicis brevis</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#origin">Flexor retinaculum</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#origin">Capitate</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#origin">Trapezium</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#insertion">1st proximal phalanx via radial sesamoid</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#nerve">Median n.</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#nerve">Ulnar n.</a><br>
+C8 - T1</td>
+<td><strong>CMC</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#action">Flexion</a></td>
 </tr>
 <tr class="odd">
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/opponens_pollicis.html">Opponens pollicis</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/opponens_pollicis.html#origin">Trapezium</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/opponens_pollicis.html#insertion">1st metacarpal (radial border)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/opponens_pollicis.html#nerve">Median n.</a><br>
+C8 - T1</td>
+<td><strong>CMC</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/opponens_pollicis.html#action">Opposition</a></td>
 </tr>
 </tbody>
 </table>
@@ -2605,7 +2676,7 @@ Table&nbsp;22: Thenar muscles
 <li><a href="../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/adductor_pollicis.html">Adductor Pollicis</a></li>
 </ul>
 <div class="cell" data-message="false" data-execution_count="23">
-<div id="tbl-adductor-compartment-hand-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="23" data-message="false">
+<div id="tbl-adductor-compartment-hand-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="23">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-adductor-compartment-hand-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;23: Adductor Compartment of the Hand
@@ -2613,6 +2684,13 @@ Table&nbsp;23: Adductor Compartment of the Hand
 <div aria-describedby="tbl-adductor-compartment-hand-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <div class="cell-output cell-output-display">
 <table class="dataframe oian-table do-not-create-environment cell caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
 <thead>
 <tr class="header">
 <th data-quarto-table-cell-role="th">Muscle</th>
@@ -2625,10 +2703,14 @@ Table&nbsp;23: Adductor Compartment of the Hand
 <tbody>
 <tr class="odd">
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/adductor_pollicis.html">Adductor pollicis</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/adductor_pollicis.html#origin">3rd MCP (plantar surface)</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/adductor_pollicis.html#origin">Capitate</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/adductor_pollicis.html#origin">2-3rd metacarpal base</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/adductor_pollicis.html#insertion">Base of 1st proximal phalanx (ulnar sesamoid)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/adductor_pollicis.html#nerve">Ulnar n.</a><br>
+C8 - T1</td>
+<td><strong>CMC</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/adductor_pollicis.html#action">Adduction</a><br>
+<strong>1st MCP</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/adductor_pollicis.html#action">Flexion</a></td>
 </tr>
 </tbody>
 </table>
@@ -2646,7 +2728,7 @@ Table&nbsp;23: Adductor Compartment of the Hand
 <li><a href="../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/opponens_digiti_minimi_hand.html">Opponens Digiti Minimi</a></li>
 </ul>
 <div class="cell" data-message="false" data-execution_count="24">
-<div id="tbl-hypothenar-hand-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="24" data-message="false">
+<div id="tbl-hypothenar-hand-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="24">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-hypothenar-hand-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;24: Hypothenar muscles of the Hand
@@ -2654,6 +2736,13 @@ Table&nbsp;24: Hypothenar muscles of the Hand
 <div aria-describedby="tbl-hypothenar-hand-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <div class="cell-output cell-output-display">
 <table class="dataframe oian-table do-not-create-environment cell caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
 <thead>
 <tr class="header">
 <th data-quarto-table-cell-role="th">Muscle</th>
@@ -2666,10 +2755,11 @@ Table&nbsp;24: Hypothenar muscles of the Hand
 <tbody>
 <tr class="odd">
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_digiti_minimi_hand.html">Abductor digiti minimi (hand)</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_digiti_minimi_hand.html#origin">hand_flexor_retinaculum</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_digiti_minimi_hand.html#insertion">Base of 1st proximal phalanx (radial sesamoid)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_digiti_minimi_hand.html#nerve">Median n.</a><br>
+C8 - T1</td>
+<td><strong>CMC</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_digiti_minimi_hand.html#action">Abduction</a></td>
 </tr>
 <tr class="even">
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/flexor_digiti_minimi_brevis_hand.html">Flexor digiti minimi brevis (hand)</a></td>
@@ -2730,7 +2820,7 @@ Table&nbsp;24: Hypothenar muscles of the Hand
 </tbody>
 </table>
 <div class="cell" data-message="false" data-execution_count="25">
-<div id="tbl-short-muscles-hand-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="25" data-message="false">
+<div id="tbl-short-muscles-hand-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="25">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-short-muscles-hand-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;25: Short muscles of the Hand
@@ -2783,7 +2873,7 @@ Table&nbsp;25: Short muscles of the Hand
 <section id="iliopsoas" class="level2">
 <h2 class="anchored" data-anchor-id="iliopsoas">Iliopsoas</h2>
 <div class="cell" data-message="false" data-execution_count="26">
-<div id="tbl-iliopsoas-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="26" data-message="false">
+<div id="tbl-iliopsoas-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="26">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-iliopsoas-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;26: Iliopsoas Muscles
@@ -2851,7 +2941,7 @@ L1 - L3</td>
 <section id="gluteal" class="level2">
 <h2 class="anchored" data-anchor-id="gluteal">Gluteal</h2>
 <div class="cell" data-message="false" data-execution_count="27">
-<div id="tbl-gluteal-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="27" data-message="false">
+<div id="tbl-gluteal-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="27">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-gluteal-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;27: Gluteal muscles
@@ -2959,7 +3049,9 @@ L5 - S1</td>
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#innervation">Superior gluteal n.</a><br>
 L4 - S1</td>
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">Tenses fascia latae</a><br>
-<strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">Abduction</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">IR</a></td>
+<strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">Abduction</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">IR</a><br>
+<strong>Flexed knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">ER</a><br>
+<strong>Extended knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">Locks out extension</a></td>
 </tr>
 </tbody>
 </table>
@@ -2972,7 +3064,7 @@ L4 - S1</td>
 <section id="medial-thigh" class="level2">
 <h2 class="anchored" data-anchor-id="medial-thigh">Medial Thigh</h2>
 <div class="cell" data-message="false" data-execution_count="28">
-<div id="tbl-medial-thigh-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="28" data-message="false">
+<div id="tbl-medial-thigh-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="28">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-medial-thigh-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;28: Medial thigh muscles
@@ -3070,7 +3162,7 @@ L2 - L3</td>
 <section id="anterior-thigh" class="level2">
 <h2 class="anchored" data-anchor-id="anterior-thigh">Anterior Thigh</h2>
 <div class="cell" data-message="false" data-execution_count="29">
-<div id="tbl-anterior-thigh-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="29" data-message="false">
+<div id="tbl-anterior-thigh-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="29">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-anterior-thigh-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;29: Anterior thigh muscles
@@ -3146,7 +3238,7 @@ L2 - L4</td>
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_medialis.html#origin">Linea aspera</a><br>
 <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_medialis.html#origin">Intertrochanteric line</a></td>
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_medialis.html#insertion">Tibial tuberosity via Patellar ligament</a><br>
-<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_medialis.html#insertion">Tibial tuberosity and patella via Patellar retinacula</a></td>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_medialis.html#insertion">Patellar retinacula</a></td>
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_medialis.html#innervation">Femoral n.</a><br>
 L2 - L4</td>
 <td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_medialis.html#action">Extension</a></td>
@@ -3162,7 +3254,7 @@ L2 - L4</td>
 <section id="posterior-thigh" class="level2">
 <h2 class="anchored" data-anchor-id="posterior-thigh">Posterior Thigh</h2>
 <div class="cell" data-message="false" data-execution_count="30">
-<div id="tbl-posterior-thigh-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="30" data-message="false">
+<div id="tbl-posterior-thigh-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="30">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-posterior-thigh-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;30: Posterior thigh muscles
@@ -3245,7 +3337,7 @@ L5 - S2</td>
 <section id="anterior-compartment" class="level2">
 <h2 class="anchored" data-anchor-id="anterior-compartment">Anterior Compartment</h2>
 <div class="cell" data-message="false" data-execution_count="31">
-<div id="tbl-anterior-lower-leg-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="31" data-message="false">
+<div id="tbl-anterior-lower-leg-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="31">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-anterior-lower-leg-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;31: Anterior lower leg muscles
@@ -3325,7 +3417,7 @@ L4 - L5</td>
 <section id="lateral-compartment" class="level2">
 <h2 class="anchored" data-anchor-id="lateral-compartment">Lateral Compartment</h2>
 <div class="cell" data-message="false" data-execution_count="32">
-<div id="tbl-lateral-lower-leg-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="32" data-message="false">
+<div id="tbl-lateral-lower-leg-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="32">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-lateral-lower-leg-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;32: Lateral lower leg muscles
@@ -3381,7 +3473,7 @@ L5 - S1</td>
 <section id="posterior-compartment" class="level2">
 <h2 class="anchored" data-anchor-id="posterior-compartment">Posterior Compartment</h2>
 <div class="cell" data-message="false" data-execution_count="33">
-<div id="tbl-posterior-lower-leg-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="33" data-message="false">
+<div id="tbl-posterior-lower-leg-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="33">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-posterior-lower-leg-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;33: Posterior lower leg muscles
@@ -3454,7 +3546,7 @@ S1 - S2</td>
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#insertion">Posterior surface of Tibia</a></td>
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#innervation">Tibial n.</a><br>
 L4 - S1</td>
-<td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#action">Unlocks the knee via femoral ER</a></td>
+<td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#action">Unlocks the knee via knee IR</a></td>
 </tr>
 <tr class="even">
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/soleus.html">Soleus</a></td>
@@ -3475,8 +3567,7 @@ S1 - S2</td>
 <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/tibialis_posterior.html#insertion">2-4 MT bases</a></td>
 <td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/tibialis_posterior.html#innervation">Tibial n.</a><br>
 L4 - L5</td>
-<td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/tibialis_posterior.html#action">*negligble* Flexion</a><br>
-<strong>TCJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/tibialis_posterior.html#action">PF</a><br>
+<td><strong>TCJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/tibialis_posterior.html#action">PF</a><br>
 <strong>Arch support</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/tibialis_posterior.html#action">Transverse arch</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/tibialis_posterior.html#action">Longitudinal arch</a></td>
 </tr>
 </tbody>
@@ -3493,7 +3584,7 @@ L4 - L5</td>
 <section id="dorsum-of-the-foot" class="level2">
 <h2 class="anchored" data-anchor-id="dorsum-of-the-foot">Dorsum of the Foot</h2>
 <div class="cell" data-message="false" data-execution_count="34">
-<div id="tbl-dorsum-foot-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="34" data-message="false">
+<div id="tbl-dorsum-foot-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="34">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-dorsum-foot-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;34: Dorsum muscles of the Foot
@@ -3545,7 +3636,7 @@ L5 - S1</td>
 <section id="superficial-intrinsic-plantar-foot-muscles" class="level2">
 <h2 class="anchored" data-anchor-id="superficial-intrinsic-plantar-foot-muscles">Superficial Intrinsic Plantar Foot muscles</h2>
 <div class="cell" data-message="false" data-execution_count="35">
-<div id="tbl-foot-superficial-intrinsic-plantar-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="35" data-message="false">
+<div id="tbl-foot-superficial-intrinsic-plantar-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="35">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-foot-superficial-intrinsic-plantar-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;35: Superficial Plantar Foot Intrinsic muscles
@@ -3618,7 +3709,7 @@ S1 - S2</td>
 <section id="deep-intrinsic-plantar-foot-muscles" class="level2">
 <h2 class="anchored" data-anchor-id="deep-intrinsic-plantar-foot-muscles">Deep Intrinsic plantar foot muscles</h2>
 <div class="cell" data-message="false" data-execution_count="36">
-<div id="tbl-foot-deep-intrinsic-plantar-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="36" data-message="false">
+<div id="tbl-foot-deep-intrinsic-plantar-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="36">
 <figure class="quarto-float quarto-float-tbl figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-foot-deep-intrinsic-plantar-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Table&nbsp;36: Deep Plantar Foot Intrinsic muscles
@@ -3734,10 +3825,15 @@ S1 - S3</td>
 </div>
 
 
+
 </section>
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-OpenStaxAnatomyPhysiology2022" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Betts JG, Blaker W. <em>Anatomy and <span>Physiology</span></em>. 2nd ed. OpenStax; 2022. <a href="https://openstax.org/details/books/anatomy-and-physiology-2e/?Book%20details">https://openstax.org/details/books/anatomy-and-physiology-2e/?Book%20details</a></div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. OIANs of all the
 muscles. <a href="https://yomokerst.com/The Archive/Anatomy/Skeletal Muscles/OIAN.html">https://yomokerst.com/The
 Archive/Anatomy/Skeletal Muscles/OIAN.html</a></div>
@@ -4304,6 +4400,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

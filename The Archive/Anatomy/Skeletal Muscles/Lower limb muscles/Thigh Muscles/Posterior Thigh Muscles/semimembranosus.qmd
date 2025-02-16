@@ -2,6 +2,8 @@
 title: Semimembranosus
 ---
 
+![Hip and Thigh Muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg){#fig-openstax-fig11.29}
+
 
 ![Cross-section of middle thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image432 Cross-section through the middle of the thigh.gif)
 
@@ -56,7 +58,7 @@ Ischial tuberosity @gilroyAtlasAnatomy2020
 
 
 # Innervation {#innervation}
-[Tibial N. (*Tibial division of Sciatic N.*)]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) (L5–S2) @gilroyAtlasAnatomy2020 
+[Tibial N. (*Tibial division of Sciatic N.*)]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020.
 
 
 # Action {#action}

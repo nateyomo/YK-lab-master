@@ -1,0 +1,81 @@
+---
+title: Supraspinatus muscle
+---
+
+![Left Humerus (Anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image207 gray1918 Left humerus. Anterior view.gif){#fig-gray1918-image207}
+
+![Muscles that move the humerus @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.23 Muscles That Move the Humerus.jpeg){#fig-openstax-fig11.23}
+
+```{python tbl-oian}
+#| label: tbl-oian
+#| warning: false
+#| message: false
+#| echo: false
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'muscle_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['supraspinatus']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+# Origin {#origin}
+
+Supraspinous Fossa of [scapula]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
+
+![Left scapula (Posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image203 gray1918 Left scapula. Dorsal surface.gif){#fig-gray1918-image203}
+
+# Insertion {#insertion}
+
+Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnatomy2020 
+
+# Innervation {#innervation}
+
+[Suprascapular n.]({{< var ref-suprascapular-nerve.path >}}) ([C4]({{< var ref-nerve-root.c4 >}}), [C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) @gilroyAtlasAnatomy2020
+
+# Action {#action}
+
+- **GHJ**: Initiates abduction @gilroyAtlasAnatomy2020
+- Stabilizes GHJ
+
+# Palpation
+
+# Tests
+
+- Champagne toast
+- [ERLS (Possibly)]({{< var ref-ERLS-external-rotation-lag-sign.path >}})
+- Empty can / Jobe test can be used to determine if there is  suprascapular nerve neuropathy or supraspinatus problems
+
+
+"Supraspinatus Tests Two techniques described in the literature can be used to test the supraspinatus muscle, the empty-can position—the elbow extended, the shoulder in full IR, and the arm in the scapular plane (thumbs-down position) (Fig. 16-29) (Table 16-25), and the prone position, in the full-can position—the elbow extended and the shoulder abducted to 100 degrees and externally rotated while the patient lifts the arm into abduction (thumbs-up position) (Fig. 16-30) (Table 16-25). Park and colleagues,126 investigated 215 patients with full-thickness supraspinatus tears confirmed by arthroscopy and found the Jobe test to have a sensitivity of 52.6% and specificity of 82.4%. For partial-thickness tears, the same study showed the Jobe test to have a 32.1% sensitivity and 67.8% specificity.126" @duttonDuttonOrthopaedicExamination2020
+
+# Dysfunction
+
+
+- Supraspinatus tear
+- Supraspinatus tendonitis
+- Supraspinatus tendinopathy
+- supraspinatus paratenonitis

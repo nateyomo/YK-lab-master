@@ -4,9 +4,33 @@ title: Skeletal Muscle
 
 
 
+
+# Tone {#tone}
+
+
+Skeletal muscle tone refers to baseline contraction or "tautness" the skeletal muscles have at rest @hallGuytonHallTextbook2021.
+Skeletal muscles do not contract without the action potential from the fibers, this tone is the product of low rate nerve impulses from the spinal cord @hallGuytonHallTextbook2021.
+These *low level nerve impulses* are modulated partially by the brain and partially by the muscle spindles @hallGuytonHallTextbook2021.
+The brain sends afferent signals to the anterior motoneurons of the spinal cord @hallGuytonHallTextbook2021.
+The muscle spindle within the skeletal muscle sends signals to the muscle belly itself @hallGuytonHallTextbook2021.
+
+
+
+::: {.callout}
+
+- See Chapter 55 @hallGuytonHallTextbook2021 for an in depth explanation of 
+
+- See DNS chapter "Examination of muscle tone" @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+:::
+
+
+# Muscle spindle {#muscle-spindle}
+
+
+
 # Exercise
 
-The final common determinant of success in athletic events is what the muscles can do for you—that is, what strength they can give when it is needed, what power they can achieve in the performance of work, and how long they can continue their activity. 
+"The final common determinant of success in athletic events is what the muscles can do for you—that is, what strength they can give when it is needed, what power they can achieve in the performance of work, and how long they can continue their activity. " @hallGuytonHallTextbook2021
 
 # Muscular Strength
 
@@ -20,7 +44,7 @@ The final common determinant of success in athletic events is what the muscles c
 
 # Mechanical Work
 
-"Mechanical work performed by a muscle is the amount of force applied by the muscle multiplied by the distance over which the force is applied. The power of muscle contraction is different from muscle strength because power is a measure of the total amount of work that the muscle performs in a unit period of time. Power is therefore determined not only by the strength of muscle contraction but also by its distance of contraction and the number of times that it contracts each minute. Muscle power is generally measured in kilogram meters (kg-m) per minute. That is, a muscle that can lift 1-kilogram weight to a height of 1 meter or that can move some object laterally against a force of 1 kilogram for a distance of 1 meter in 1 minute is said to have a power of 1 kg-m/min. The maximal power achievable by all the muscles in the body of a highly trained athlete with all the muscles working together is approximately the following:"
+"Mechanical work performed by a muscle is the amount of force applied by the muscle multiplied by the distance over which the force is applied. The power of muscle contraction is different from muscle strength because power is a measure of the total amount of work that the muscle performs in a unit period of time. Power is therefore determined not only by the strength of muscle contraction but also by its distance of contraction and the number of times that it contracts each minute. Muscle power is generally measured in kilogram meters (kg-m) per minute. That is, a muscle that can lift 1-kilogram weight to a height of 1 meter or that can move some object laterally against a force of 1 kilogram for a distance of 1 meter in 1 minute is said to have a power of 1 kg-m/min. The maximal power achievable by all the muscles in the body of a highly trained athlete with all the muscles working together is approximately the following:" @hallGuytonHallTextbook2021
 
 # Muscular Power 
 

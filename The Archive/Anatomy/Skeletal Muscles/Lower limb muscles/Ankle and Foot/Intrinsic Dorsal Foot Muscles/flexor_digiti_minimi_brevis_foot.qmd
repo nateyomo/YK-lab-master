@@ -2,6 +2,8 @@
 title: Flexor Digiti Minimi Brevis (Foot)
 ---
 
+![Intrinsic foot muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.34 Intrinsic Muscles of the Foot.jpeg){#fig-openstax-fig11.34}
+
 :::{layout-ncol="3"}
 
 ![1st layer of the plantar foot @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image443 Muscles of the sole of the foot. First layer.gif)

@@ -1,0 +1,113 @@
+---
+title: Pectoralis Major
+---
+
+:::{layout-ncol="2"}
+![Muscles of the Abdomen @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.16 Muscles of the Abdomen.jpeg){#fig-openstax-fig11.16}
+
+![Intercostal muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.18 Intercostal Muscles.jpeg){#fig-openstax-fig11.18}
+
+![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}
+:::
+
+![Muscles that move the humerus @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.23 Muscles That Move the Humerus.jpeg){#fig-openstax-fig11.23}
+```{python tbl-oian}
+#| label: tbl-oian
+#| warning: false
+#| message: false
+#| echo: false
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'muscle_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['pectoralis_major']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+# Origin {#origin}
+
+
+
+- Clavicular part: [Clavicle (medial half)]({{< var ref-clavicle-bone.path >}}) @gilroyAtlasAnatomy2020
+- Sternocostal part: [sternum]({{< var ref-sternum-bone.path >}}), [costal cartilages 1–6]({{< var ref-costal-cartilages.path >}}) @gilroyAtlasAnatomy2020
+- Abdominal part: [rectus sheath (anterior layer)]({{< var ref-rectus-sheath.path >}}) @gilroyAtlasAnatomy2020
+
+
+::: {.callout-note}
+Manubrium and the aponeurosis of the external oblique are potential originations of the pectoralis major
+:::
+
+![Left Clavicle (superior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image200 gray1918 Left clavicle. Superior surface.gif){#fig-gray1918-image200}
+
+![Left clavicle (inferior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image201 gray1918 Left clavicle. Inferior surface.gif){#fig-gray1918-image201}
+
+
+# Insertion {#insertion}
+[Humerus (crest of greater tubercle)]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnatomy2020
+
+![Left Humerus (Anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image207 gray1918 Left humerus. Anterior view.gif){#fig-gray1918-image207}
+
+# Innervation {#innervation}
+
+- [Lateral pectoral nerve]({{< var ref-lateral-pectoral-nerve.path >}}) @gilroyAtlasAnatomy2020
+- [Medial pectoral nerve]({{< var ref-medial-pectoral-nerve.path >}}) @gilroyAtlasAnatomy2020
+-  ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})) @gilroyAtlasAnatomy2020
+
+
+
+# Action {#action}
+
+- **Entire muscle**: GHJ Adduction, Internal rotation @gilroyAtlasAnatomy2020 
+- **Clavicular and sternocostal parts**: Flexion; assist in respiration when shoulder is fixed @gilroyAtlasAnatomy2020 
+
+**Entire muscle**: GHJ Adduction, Internal rotation </br> </br> **Clavicular and sternocostal parts**: Flexion; assist in respiration when shoulder is fixed  
+
+
+# Length test
+
+- PEctoralis major contracture test (hands behind head)
+
+
+
+# Muscle-to-tendon Surgery
+
+- Worse prognosis than [tendon-to-bone](#tendon-to-bone-surgery) because of slow healing
+
+# Tendon-to-bone Surgery {#tendon-to-bone}
+
+
+considerations
+
+- Thoracic spine mobility
+- Grip strength
+- light cardio
+- contralateral limb training (go light just to be safe to avoid irradiation)
+
+Exercises
+
+- Elbow CARs
+- Spine CARs
+- 

@@ -2,6 +2,8 @@
 title: Tibialis Posterior Muscle
 ---
 
+![Muscles of the lower leg @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.32 Muscles of the Lower Leg.jpeg){#fig-openstax-fig11.32}
+
 :::{layout-ncol="2"}
 ![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif){#fig-gray1918-image438}
 

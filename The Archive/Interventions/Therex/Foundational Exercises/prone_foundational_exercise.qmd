@@ -4,4 +4,28 @@ title: Prone Foundational Exercise
 
 
 
-# Prone press-up
+
+# Prone trunk extension
+
+Prone trunk extension is an exercise derived from the DNS philosophy @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+
+- Lie prone with arms at sides
+- Retract and depress shoulder girdle
+- Contract glutes
+- Draw abdomen in
+- Move into extension, creating a fluid curve from the sacrum to the head
+
+
+# Prone press-up {#prone-press-up}
+
+Similar concepts, but there is less load on the spinal extensors, and the load is focused on the upper extremity.
+The trunk still has to *actively* maintain alignment.
+
+This is a good warm-up or regression to the [Push-up exercise]({{< var ref-push-up-exercise.path >}}).
+
+# Push-up {#push-up}
+
+The *Push-Up* is a progression and a regression of the [prone press-up]({{< var ref-prone-press-up-exercise.path >}}) depending on how you view it.
+
+The *push-up* requires a greater range of motion of the arms.
+The *push-up* does not dynamically move into trunk extension, but rather maintains alignment throughout the movement.

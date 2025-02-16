@@ -1,0 +1,56 @@
+---
+title: Neuroanatomy
+---
+
+
+![Central and Peripheral Nervous Systems @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig12.2 openstax Central and Peripheral Nervous System.jpeg){#fig-openstax-fig12.2}
+
+
+![Somatic, Autonomic, and Enteric Structures of the Nervous Systems @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig12.6 openstax Somatic, Autonomic, and Enteric Structures of the Nervous System.jpeg){#fig-openstax-fig12.6}
+
+# Gray and White Matter
+
+![Gray and White Matter @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig12.3 openstax Gray Matter and White Matter.jpeg){#fig-openstax-fig12.3}
+
+
+# Neuron
+
+![Parts of a Neuron @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig12.8 openstax Parts of a Neuron.jpeg){#fig-openstax-fig12.8}
+
+
+![Neuron classification by Shape @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig12.9 openstax Neuron Classification by Shape.jpeg){#fig-openstax-fig12.9}
+
+
+![Other neuron classifications @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig12.10 openstax Other Neuron Classifications.jpeg){#fig-openstax-fig12.10}
+
+
+![Glial cells of the CNS @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig12.11 openstax Glial Cells of the CNS.jpeg){#fig-openstax-fig12.11}
+
+
+
+# Myelin
+
+![The process of Myelination @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig12.13 openstax The Process of Myelination.jpeg){#fig-openstax-fig12.13}
+
+
+# Function
+
+
+![Testing the water (Posterior view) @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig12.14 openstax Testing the Water- Posterior View.jpeg){#fig-openstax-fig12.14}
+
+
+1. "The sensory neuron has endings in the skin that sense a stimulus such as water temperature. The strength of the signal that starts here is dependent on the strength of the stimulus." @OpenStaxAnatomyPhysiology2022
+1. "The graded potential from the sensory endings, if strong enough, will initiate an action potential at the initial segment of the axon (which is immediately adjacent to the sensory endings in the skin)." @OpenStaxAnatomyPhysiology2022
+1. "The axon of the peripheral sensory neuron enters the spinal cord and contacts another neuron in the gray matter. The contact is a synapse where another graded potential is caused by the release of a chemical signal from the axon terminals." @OpenStaxAnatomyPhysiology2022
+1. "An action potential is initiated at the initial segment of this neuron and travels up the sensory pathway to a region of the brain called the thalamus. Another synapse passes the information along to the next neuron." @OpenStaxAnatomyPhysiology2022
+1. "The sensory pathway ends when the signal reaches the cerebral cortex." @OpenStaxAnatomyPhysiology2022
+1. "After integration with neurons in other parts of the cerebral cortex, a motor command is sent from the precentral gyrus of the frontal cortex." @OpenStaxAnatomyPhysiology2022
+1. "The upper motor neuron sends an action potential down to the spinal cord. The target of the upper motor neuron is the dendrites of the lower motor neuron in the gray matter of the spinal cord." @OpenStaxAnatomyPhysiology2022
+1. "The axon of the lower motor neuron emerges from the spinal cord in a nerve and connects to a muscle through a neuromuscular junction to cause contraction of the target muscle." @OpenStaxAnatomyPhysiology2022
+
+
+
+## Sensation
+
+![Sensory input: Receptors in the skin sense the temperature of the water @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig12.15 openstax The Sensory Input.jpeg){#fig-openstax-fig12.15}
+

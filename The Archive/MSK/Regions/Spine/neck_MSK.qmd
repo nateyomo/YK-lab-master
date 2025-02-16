@@ -1,7 +1,11 @@
 ---
-title: Musculoskeletal Mechanics of the Neck and Head
+title: Neck and Head Regions
+subtitle: Musculoskeletal Overview
 ---
 
+![Muscles of the Anterior Neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.13 Muscles of the Anterior Neck.jpeg){#fig-openstax-fig11.13}
+
+![Muscles of the Posterior and lateral neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.14 Posterior and Lateral Views of the Neck.jpeg){#fig-openstax-fig11.14}
 
 # Anatomy
 
@@ -297,9 +301,38 @@ Warning signs of cervical region:
 - Vertebral body fracture 
 
 
+# Evaluation
+
+- 1st Rib mobility
+- Shoulder mobility
+- Vertebra mobility
 
 
-## Cervical Radiculopathy
+
+# Manual Treatment
+
+- Suboccipital release
+- PA Glides
+- Upglides
+- Downglides
+- STM + Trap stretch
+- STM + Levator scap stretch
+- STM Scalenes
+- STM + scalene stretch
+- SCM STM
+- ULTTs
+    - ULTT 1
+    - ULTT 2a
+    - ULTT 2b
+    - ULTT 3
+
+# Exercises
+
+- DNF
+- Shoulder Y, W, Ts
+- Hemi Should Y,W, T, WER with cervical retraction
+
+# Cervical Radiculopathy
 
 Wainner et al 2003 Cervical radiculoapthy diagnostic tests
 

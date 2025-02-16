@@ -1,7 +1,7 @@
 ---
-title: Gray Institute Functional Foundations
+title: Gray Institute Continued Education Overview
 subtitle: Continued education by the Gray Institute
-description: this is a summary of my notes from the Gray Institute courses.
+description: "This is a summary of my notes from the Gray Institute courses as well as alternative opinions"
 ---
 
 # Functional Techniques Certification
@@ -218,3 +218,12 @@ It is not necessarily a bad thing to be on the non-functional side of the spectr
 
 In module 2, I learned about the importance of terminology and nomenclature.
 The Gray Institute applies the "SFT Syntax": Sagittal Frontal Transverse.
+
+
+
+
+
+# Alternative viewpoints
+
+
+- Gray institute's AFS focuses on performing movements, rather than working on specific cues to correct the improper movements.

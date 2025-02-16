@@ -44,7 +44,7 @@ div.csl-indent {
 }</style>
 
 
-<script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../../../../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../../../../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
@@ -88,6 +88,9 @@ div.csl-indent {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
 <link rel="stylesheet" href="../../../../styles.css">
@@ -151,7 +154,9 @@ div.csl-indent {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#kinetics" id="toc-kinetics" class="nav-link active" data-scroll-target="#kinetics">Kinetics</a>
+  <li><a href="#muscle" id="toc-muscle" class="nav-link active" data-scroll-target="#muscle">Muscle</a></li>
+  <li><a href="#overview" id="toc-overview" class="nav-link" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#kinetics" id="toc-kinetics" class="nav-link" data-scroll-target="#kinetics">Kinetics</a>
   <ul class="collapse">
   <li><a href="#joint-compression" id="toc-joint-compression" class="nav-link" data-scroll-target="#joint-compression">Joint compression</a></li>
   <li><a href="#factors-affecting-patella-tracking" id="toc-factors-affecting-patella-tracking" class="nav-link" data-scroll-target="#factors-affecting-patella-tracking">Factors affecting Patella Tracking</a>
@@ -160,6 +165,12 @@ div.csl-indent {
   </ul></li>
   <li><a href="#factors-that-naturally-oppose-the-lateral-pull-of-the-quadriceps-on-the-patella" id="toc-factors-that-naturally-oppose-the-lateral-pull-of-the-quadriceps-on-the-patella" class="nav-link" data-scroll-target="#factors-that-naturally-oppose-the-lateral-pull-of-the-quadriceps-on-the-patella">Factors That Naturally Oppose the Lateral Pull of the Quadriceps on the Patella</a></li>
   </ul></li>
+  <li><a href="#assessment" id="toc-assessment" class="nav-link" data-scroll-target="#assessment">Joint assessment</a>
+  <ul class="collapse">
+  <li><a href="#superior-translation" id="toc-superior-translation" class="nav-link" data-scroll-target="#superior-translation">Superior translation</a></li>
+  <li><a href="#inferior-translation" id="toc-inferior-translation" class="nav-link" data-scroll-target="#inferior-translation">Inferior translation</a></li>
+  </ul></li>
+  <li><a href="#manual-treatment" id="toc-manual-treatment" class="nav-link" data-scroll-target="#manual-treatment">Manual Treatment</a></li>
   <li><a href="#exercise" id="toc-exercise" class="nav-link" data-scroll-target="#exercise">Exercise</a>
   <ul class="collapse">
   <li><a href="#wall-sit" id="toc-wall-sit" class="nav-link" data-scroll-target="#wall-sit">Wall sit</a></li>
@@ -220,30 +231,262 @@ div.csl-indent {
 </header>
 
 
-<p>The PFJ is a complex articulation, dependent on both dynamic and static restraints for its function and stability. The patella (Fig. 20-1), a ubiquitous sesamoid bone found in birds and mammals, plays an important role in the biomechanics of the knee. Its articular anatomy is uncomplicated: it is a very hard, triangular-shaped bone, situated in the intercondylar notch and embedded in the tendon of the quadriceps femoris muscle above and the patellar tendon below. The groove has a complex architecture with increasing height of the groove’s lateral facet at the proximal aspect, providing a deeper “patella track” in knee extension.5 In healthy individuals, aspects of the femoral trochlea including its depth, as well as the shape and height of the lateral trochlea, can affect patellar tracking.6,7 From 20 to 30 degrees of knee flexion, the patella is confined within the trochlea and hence, the bony joint components provide inherent stability but, once beyond this range, there is little intrinsic bony support and stability must be provided by other soft-tissue structures, both passively and actively.6 The thickness of the patella varies considerably, attaining a maximum height of 2–2.5 cm (0.77–1 in) at its central portion.1 The posterior surface of the patella can include up to seven facets. The geometry of these facets varies between individuals and may affect patellar tracking.6 A smaller facet, known as the odd facet, exists medially and is delineated by a second vertical ridge. These concave medial and lateral facets are separated by a vertical ridge and are covered with aneural hyaline cartilage, the thickest cartilage in the body (up to 7 mm thick).1 The articular cartilage of the patella is unique because it lacks conformity with the underlying bone.8 The hyaline cartilage, here as elsewhere, functions to minimize the friction that occurs at the functional contact areas of the joint surfaces.</p>
-<p>Radiographic and cadaver studies have classified the patella into three Wiberg classifications (type A–C) based on the size and shape of these lateral and medial facets.</p>
-<p>The patellar surface of the femur is divided into medial and lateral facets that closely correspond to those on the posterior surface of the patella. The PFJ functions to</p>
-<p>provide the articulation with low friction; ▶ protect the distal aspect of the femur from trauma and the quadriceps from attritional wear; ▶ improve the cosmetic appearance of the knee; ▶ improve the moment arm (distance from the center of gravity and the center of rotation) of the quadriceps. This is achieved by elevating the quadriceps femoris muscle from the center of knee rotation. This increases the efficiency of the quadriceps muscle and provides it with leverage for extending the leg. The patellar contribution to the knee extensor moment arm increases with increasing amounts of knee extension; and ▶ decrease the amount of anteroposterior tibiofemoral shear stress placed on the joint.</p>
+<section id="muscle" class="level1">
+<h1>Muscle</h1>
+<div class="cell" data-message="false" data-execution_count="1">
+<div id="tbl-patellofemoral-flexor-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="1">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-patellofemoral-flexor-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Patellofemoral Flexors
+</figcaption>
+<div aria-describedby="tbl-patellofemoral-flexor-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display">
+<table class="dataframe oian-table do-not-create-environment cell caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th">Muscle</th>
+<th data-quarto-table-cell-role="th">Origin</th>
+<th data-quarto-table-cell-role="th">Insertion</th>
+<th data-quarto-table-cell-role="th">Innervation</th>
+<th data-quarto-table-cell-role="th">Action</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html">Biceps femoris long head</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#origin">Ischial tuberosity</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#origin">Sacrotuberous lig.</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#origin">(Common head with semitendinosus)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#insertion">Fibular head</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#innervation">Tibial n.</a><br>
+L5 - S2</td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#action">Extension</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#action">ER</a><br>
+<strong>Pelvis</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#action">Sagittal stabilization</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html">Biceps femoris short head</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html#origin">Lateral lip of Linea aspera</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html#insertion">Fibular head</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html#innervation">Common Fibular n.</a><br>
+L5 - S2</td>
+<td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html#action">ER</a></td>
+</tr>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html">Gastrocnemius</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#origin">Superior-posterior aspect of Medial Femoral Condyle</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#origin">Lateral surface of Lateral Femoral Condyle</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#insertion">Calcaneal tuberosity via Achilles' Tendon</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#innervation">Tibial n.</a><br>
+S1 - S2</td>
+<td><strong>TCJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#action">PF</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#action">Flexion</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html">Plantaris</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#origin">Lateral epicondyle of Femur</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#insertion">Calcaneal tuberosity</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#innervation">Tibial n.</a><br>
+S1 - S2</td>
+<td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#action">*negligble* Flexion</a><br>
+<strong>TCJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#action">PF</a><br>
+<strong>Proprioception</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#action">Organ of proprioception for the plantarflexors</a></td>
+</tr>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html">Popliteus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#origin">Lateral Femoral Condyle</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#origin">Posterior horn of Lateral Meniscus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#insertion">Posterior surface of Tibia</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#innervation">Tibial n.</a><br>
+L4 - S1</td>
+<td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#action">Unlocks the knee via knee IR</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html">Semimembranosus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#origin">Ischial tuberosity</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#insertion">Medial tibial condyle</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#insertion">Oblique popliteal lig.</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#insertion">Popliteus fascia</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#innervation">Tibial n.</a><br>
+L5 - S2</td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#action">Extension</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#action">IR</a><br>
+<strong>Pelvis</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#action">Sagittal stabilization</a></td>
+</tr>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html">Semitendinosus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#origin">Ischial tuberosity</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#origin">Sacrotuberous lig.</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#origin">(common head with biceps femoris long head)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#insertion">Pes anserine</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#innervation">Tibial n.</a><br>
+L5 - S2</td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#action">Extension</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#action">IR</a><br>
+<strong>Pelvis</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#action">Sagittal stabilization</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</figure>
+</div>
+</div>
+<div class="cell" data-message="false" data-execution_count="2">
+<div id="tbl-patellofemoral-extensor-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="2">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-patellofemoral-extensor-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;2: Patellofemoral Extensors
+</figcaption>
+<div aria-describedby="tbl-patellofemoral-extensor-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display">
+<table class="dataframe oian-table do-not-create-environment cell caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th">Muscle</th>
+<th data-quarto-table-cell-role="th">Origin</th>
+<th data-quarto-table-cell-role="th">Insertion</th>
+<th data-quarto-table-cell-role="th">Innervation</th>
+<th data-quarto-table-cell-role="th">Action</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/articularis_genus.html">Articular genus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/articularis_genus.html#origin">Anterior Femoral shaft</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/articularis_genus.html#insertion">Suprapatellar recess of knee joint capsule</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/articularis_genus.html#innervation">Femoral n.</a><br>
+L2 - L4</td>
+<td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/articularis_genus.html#action">Extension</a><br>
+<strong>Knee Jt. Capsule</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/articularis_genus.html#action">Retraction of the suprapatellar bursa to prevent entrapment</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/rectus_femoris.html">Rectus femoris</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/rectus_femoris.html#origin">AIIS</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/rectus_femoris.html#origin">Acetabular roof</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/rectus_femoris.html#insertion">Tibial tuberosity via Patellar ligament</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/rectus_femoris.html#innervation">Femoral n.</a><br>
+L2 - L4</td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/rectus_femoris.html#action">Flexion</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/rectus_femoris.html#action">Extension</a></td>
+</tr>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_intermedius.html">Vastus intermedius</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_intermedius.html#origin">Anterior Femoral shaft</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_intermedius.html#insertion">Tibial tuberosity via Patellar ligament</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_intermedius.html#innervation">Femoral n.</a><br>
+L2 - L4</td>
+<td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_intermedius.html#action">Extension</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_lateralis.html">Vastus lateralis</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_lateralis.html#origin">Lateral lip of Linea aspera</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_lateralis.html#origin">Lateral surface of Greater trochanter</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_lateralis.html#insertion">Tibial tuberosity via Patellar ligament</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_lateralis.html#insertion">Tibial tuberosity and patella via Patellar retinacula</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_lateralis.html#innervation">Femoral n.</a><br>
+L2 - L4</td>
+<td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_lateralis.html#action">Extension</a></td>
+</tr>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_medialis.html">Vastus medialis</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_medialis.html#origin">Linea aspera</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_medialis.html#origin">Intertrochanteric line</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_medialis.html#insertion">Tibial tuberosity via Patellar ligament</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_medialis.html#insertion">Patellar retinacula</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_medialis.html#innervation">Femoral n.</a><br>
+L2 - L4</td>
+<td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/vastus_medialis.html#action">Extension</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</figure>
+</div>
+</div>
+</section>
+<section id="overview" class="level1">
+<h1>Overview</h1>
+<p>“The PFJ is a complex articulation, dependent on both dynamic and static restraints for its function and stability. The patella (Fig. 20-1), a ubiquitous sesamoid bone found in birds and mammals, plays an important role in the biomechanics of the knee. Its articular anatomy is uncomplicated: it is a very hard, triangular-shaped bone, situated in the intercondylar notch and embedded in the tendon of the quadriceps femoris muscle above and the patellar tendon below. The groove has a complex architecture with increasing height of the groove’s lateral facet at the proximal aspect, providing a deeper “patella track” in knee extension.5 In healthy individuals, aspects of the femoral trochlea including its depth, as well as the shape and height of the lateral trochlea, can affect patellar tracking.6,7 From 20 to 30 degrees of knee flexion, the patella is confined within the trochlea and hence, the bony joint components provide inherent stability but, once beyond this range, there is little intrinsic bony support and stability must be provided by other soft-tissue structures, both passively and actively.6 The thickness of the patella varies considerably, attaining a maximum height of 2–2.5 cm (0.77–1 in) at its central portion.1 The posterior surface of the patella can include up to seven facets. The geometry of these facets varies between individuals and may affect patellar tracking.6 A smaller facet, known as the odd facet, exists medially and is delineated by a second vertical ridge. These concave medial and lateral facets are separated by a vertical ridge and are covered with aneural hyaline cartilage, the thickest cartilage in the body (up to 7 mm thick).1 The articular cartilage of the patella is unique because it lacks conformity with the underlying bone.8 The hyaline cartilage, here as elsewhere, functions to minimize the friction that occurs at the functional contact areas of the joint surfaces.”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></p>
+<p>“Radiographic and cadaver studies have classified the patella into three Wiberg classifications (type A–C) based on the size and shape of these lateral and medial facets.”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></p>
+<p>“The patellar surface of the femur is divided into medial and lateral facets that closely correspond to those on the posterior surface of the patella. The PFJ functions to”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></p>
+<ul>
+<li>“Provide the articulation with low friction”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></li>
+<li>“Protect the distal aspect of the femur from trauma and the quadriceps from attritional wear”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></li>
+<li>“Improve the cosmetic appearance of the knee”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></li>
+<li>“Improve the moment arm (distance from the center of gravity and the center of rotation) of the quadriceps. This is achieved by elevating the quadriceps femoris muscle from the center of knee rotation. This increases the efficiency of the quadriceps muscle and provides it with leverage for extending the leg. The patellar contribution to the knee extensor moment arm increases with increasing amounts of knee extension”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></li>
+<li>“decrease the amount of anteroposterior tibiofemoral shear stress placed on the joint.”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span>.</li>
+</ul>
+</section>
 <section id="kinetics" class="level1">
 <h1>Kinetics</h1>
-<p>“The patellofemoral joint is routinely exposed to high magnitudes of compression force. A sampling of these forces includes 1.3 times body weight during walking on level surfaces, 2.6 times body weight during performance of a straight leg raise, 3.3 times body weight during climbing of stairs, and up to 7.8 times body weight during performance of deep “knee bends” or squats.81,183,270,291 Although these compression forces originate primarily from active forces produced from the overlying quadriceps their magnitude is strongly influenced by the amount of knee flexion at the time of muscle activation.53 To illustrate this important interaction, consider the compression force on the patellofemoral joint in a partial squat position (Fig. 13.28A). Forces within the extensor mechanism are transmitted proximally and distally through the quadriceps tendon (QT) and patellar tendon (PT), much like a cable crossing a pulley. The resultant, or combined, effect of these forces is directed toward the trochlear groove of the femur as a joint compression force (CF). Increasing knee flexion by descending into a deeper squat significantly raises the force demands throughout the extensor mechanism, and ultimately on the patellofemoral joint (see Fig. 13.28B). The increased knee flexion associated with the deeper squat also reduces the angle formed by the intersection of force vectors QT and PT. As shown by vector addition, reducing the angle of these force increases the magnitude of the CF directed between the patella and the femur. In theory, if the QT and PT vectors were collinear and oriented in opposite directions, the muscular-based compression force on the patellofemoral joint would be zero.”<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span></p>
+<p>“The patellofemoral joint is routinely exposed to high magnitudes of compression force. A sampling of these forces includes 1.3 times body weight during walking on level surfaces, 2.6 times body weight during performance of a straight leg raise, 3.3 times body weight during climbing of stairs, and up to 7.8 times body weight during performance of deep “knee bends” or squats.81,183,270,291 Although these compression forces originate primarily from active forces produced from the overlying quadriceps their magnitude is strongly influenced by the amount of knee flexion at the time of muscle activation.53 To illustrate this important interaction, consider the compression force on the patellofemoral joint in a partial squat position (Fig. 13.28A). Forces within the extensor mechanism are transmitted proximally and distally through the quadriceps tendon (QT) and patellar tendon (PT), much like a cable crossing a pulley. The resultant, or combined, effect of these forces is directed toward the trochlear groove of the femur as a joint compression force (CF). Increasing knee flexion by descending into a deeper squat significantly raises the force demands throughout the extensor mechanism, and ultimately on the patellofemoral joint (see Fig. 13.28B). The increased knee flexion associated with the deeper squat also reduces the angle formed by the intersection of force vectors QT and PT. As shown by vector addition, reducing the angle of these force increases the magnitude of the CF directed between the patella and the femur. In theory, if the QT and PT vectors were collinear and oriented in opposite directions, the muscular-based compression force on the patellofemoral joint would be zero.”<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">2</a></sup></span></p>
 <section id="joint-compression" class="level2">
 <h2 class="anchored" data-anchor-id="joint-compression">Joint compression</h2>
-<p>“Both the compression force and the area of articular contact on the patellofemoral joint increase with knee flexion, reaching a maximum between 60 and 90 degrees.139,199,279 As described earlier, the compression force can rise to very high levels during a descent into a squat or lunge position. Because increased knee flexion is associated with a greater relative increase in compression force than relative increase in articular contact area, the stress (force/area) is also greatest in the patellofemoral joint in the position of 60 to 90 degrees of knee flexion.53,261 Without the relatively large contact area to disperse the large compression force produced by the quadriceps, the stress within the joint would likely rise to intolerable physiologic levels.40,111 Having the area of joint contact greatest at positions that are generally associated with the largest muscular-based compression force naturally protects the joint against stress-induced cartilage degeneration. This mechanism allows most healthy and normally aligned patellofemoral joints to tolerate large compression forces over a lifetime, often with little or no appreciable discomfort or degeneration of the articular cartilage or subchondral bone. As will be explained, for many persons, however, the natural high-force environment within the patellofemoral joint is a major contributing factor to the development of patellofemoral pain syndrome.”<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span></p>
+<p>“Both the compression force and the area of articular contact on the patellofemoral joint increase with knee flexion, reaching a maximum between 60 and 90 degrees.139,199,279 As described earlier, the compression force can rise to very high levels during a descent into a squat or lunge position. Because increased knee flexion is associated with a greater relative increase in compression force than relative increase in articular contact area, the stress (force/area) is also greatest in the patellofemoral joint in the position of 60 to 90 degrees of knee flexion.53,261 Without the relatively large contact area to disperse the large compression force produced by the quadriceps, the stress within the joint would likely rise to intolerable physiologic levels.40,111 Having the area of joint contact greatest at positions that are generally associated with the largest muscular-based compression force naturally protects the joint against stress-induced cartilage degeneration. This mechanism allows most healthy and normally aligned patellofemoral joints to tolerate large compression forces over a lifetime, often with little or no appreciable discomfort or degeneration of the articular cartilage or subchondral bone. As will be explained, for many persons, however, the natural high-force environment within the patellofemoral joint is a major contributing factor to the development of patellofemoral pain syndrome.”<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">2</a></sup></span></p>
 </section>
 <section id="factors-affecting-patella-tracking" class="level2">
 <h2 class="anchored" data-anchor-id="factors-affecting-patella-tracking">Factors affecting Patella Tracking</h2>
-<p>“The large compression forces that naturally occur at the patellofemoral joint are typically well tolerated, provided that the forces are evenly dispersed across the largest possible area of articular surface. A joint with less than optimal congruity, or one with subtle structural anomalies, will likely experience abnormal “tracking” of the patella. As a consequence, the patellofemoral joint is exposed to higher joint contact stress, thereby increasing its risk for developing degenerative lesions and pain. Such a scenario may lead to patellofemoral pain syndrome or potentially trigger osteoarthritis later in life. ”<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span></p>
+<p>“The large compression forces that naturally occur at the patellofemoral joint are typically well tolerated, provided that the forces are evenly dispersed across the largest possible area of articular surface. A joint with less than optimal congruity, or one with subtle structural anomalies, will likely experience abnormal “tracking” of the patella. As a consequence, the patellofemoral joint is exposed to higher joint contact stress, thereby increasing its risk for developing degenerative lesions and pain. Such a scenario may lead to patellofemoral pain syndrome or potentially trigger osteoarthritis later in life. ”<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">2</a></sup></span></p>
 <section id="quadricep-role" class="level3">
 <h3 class="anchored" data-anchor-id="quadricep-role">Quadricep Role</h3>
-<p>“Among the most important influences on patellofemoral joint biomechanics are the magnitude and direction of force produced by the overlying quadriceps muscle. As the knee is extending, the contracting quadriceps pulls the patella not only superiorly within the trochlear groove of the femur, but also slightly laterally and posteriorly. The slight but omnipresent lateral line of force exerted by the quadriceps results, in part, from the larger crosssectional area and force potential of the vastus lateralis. Because of the purported association between patellofemoral joint pain and excessive lateral tracking (and possible dislocation) of the patella, assessing the overall lateral line of pull of the quadriceps relative to the patella is a meaningful clinical measure. Such a measure is referred to as the quadriceps angle, or more commonly the Q-angle (Fig. 13.29A).91,244 The Q-angle is determined first by constructing a line representing an estimation of the resultant force vector of the different heads of the quadriceps. This line connects a point between the anterior-superior iliac spine and the midpoint of the patella.310 A second line is drawn representing the long axis of the patellar tendon, made by connecting a point on the tibial tuberosity with the midpoint of the patella. The Q-angle is formed at the intersection of these two lines, typically measuring about 13 to 15 degrees (±4.5 degrees) within a healthy adult population.244 The Q-angle assessment has been criticized for its poor association with pathology at the patellofemoral joint, inadequate standardized measurement protocol, and inability to measure dynamic alignment.124,177,260 Nevertheless, the Q-angle remains a popular and simple clinical index for a general assessment of the relative lateral pull of the quadriceps on the patella. Factors that naturally offset or limit the lateral pull of the patella are described in the next section. If these factors fail to operate in a coordinated fashion, the patella may track (shift and tilt) more laterally within the trochlear groove—kinematics that reduce contact area, increase patellofemoral joint stress and pain, and potentially increase the likelihood of chronic lateral dislocation of the patella.”<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span></p>
-<p>“Activation of the quadriceps as a whole also pulls and compresses the patella posteriorly against the femur, thereby stabilizing its path of movement relative to the distal femur. This stabilization effect increases with the knee in greater flexion (review Fig. 13.28). Even in full knee extension, however, some fibers of the quadriceps are aligned to produce a posterior compression through the patellofemoral joint.287 This is particularly apparent by observing a side-view diagram of the line of force of the oblique fibers of the vastus medialis (see Fig. 13.29B). Although relatively small, this posterior stabilizing effect on the patella is especially useful in the last 20 to 30 degrees of extension, at a point when (1) the patella is no longer fully engaged within the trochlear groove of the femur and (2) the resultant patellofemoral joint compression (stabilizing) force produced by the activated quadriceps as a whole is least.4”</p>
+<p>“Among the most important influences on patellofemoral joint biomechanics are the magnitude and direction of force produced by the overlying quadriceps muscle. As the knee is extending, the contracting quadriceps pulls the patella not only superiorly within the trochlear groove of the femur, but also slightly laterally and posteriorly. The slight but omnipresent lateral line of force exerted by the quadriceps results, in part, from the larger crosssectional area and force potential of the vastus lateralis. Because of the purported association between patellofemoral joint pain and excessive lateral tracking (and possible dislocation) of the patella, assessing the overall lateral line of pull of the quadriceps relative to the patella is a meaningful clinical measure. Such a measure is referred to as the quadriceps angle, or more commonly the Q-angle (Fig. 13.29A).91,244 The Q-angle is determined first by constructing a line representing an estimation of the resultant force vector of the different heads of the quadriceps. This line connects a point between the anterior-superior iliac spine and the midpoint of the patella.310 A second line is drawn representing the long axis of the patellar tendon, made by connecting a point on the tibial tuberosity with the midpoint of the patella. The Q-angle is formed at the intersection of these two lines, typically measuring about 13 to 15 degrees (±4.5 degrees) within a healthy adult population.244 The Q-angle assessment has been criticized for its poor association with pathology at the patellofemoral joint, inadequate standardized measurement protocol, and inability to measure dynamic alignment.124,177,260 Nevertheless, the Q-angle remains a popular and simple clinical index for a general assessment of the relative lateral pull of the quadriceps on the patella. Factors that naturally offset or limit the lateral pull of the patella are described in the next section. If these factors fail to operate in a coordinated fashion, the patella may track (shift and tilt) more laterally within the trochlear groove—kinematics that reduce contact area, increase patellofemoral joint stress and pain, and potentially increase the likelihood of chronic lateral dislocation of the patella.”<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">2</a></sup></span></p>
+<p>“Activation of the quadriceps as a whole also pulls and compresses the patella posteriorly against the femur, thereby stabilizing its path of movement relative to the distal femur. This stabilization effect increases with the knee in greater flexion (review Fig. 13.28). Even in full knee extension, however, some fibers of the quadriceps are aligned to produce a posterior compression through the patellofemoral joint.287 This is particularly apparent by observing a side-view diagram of the line of force of the oblique fibers of the vastus medialis (see Fig. 13.29B). Although relatively small, this posterior stabilizing effect on the patella is especially useful in the last 20 to 30 degrees of extension, at a point when (1) the patella is no longer fully engaged within the trochlear groove of the femur and (2) the resultant patellofemoral joint compression (stabilizing) force produced by the activated quadriceps as a whole is least.4”<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">2</a></sup></span></p>
 </section>
 </section>
 <section id="factors-that-naturally-oppose-the-lateral-pull-of-the-quadriceps-on-the-patella" class="level2">
 <h2 class="anchored" data-anchor-id="factors-that-naturally-oppose-the-lateral-pull-of-the-quadriceps-on-the-patella">Factors That Naturally Oppose the Lateral Pull of the Quadriceps on the Patella</h2>
-<p>“Several factors throughout the lower extremity oppose and thereby limit the lateral bias in pull of the quadriceps relative to the patellofemoral joint. These factors are important to optimal tracking. In this context, optimal tracking is defined as movement between the patella and femur across the greatest possible area of articular surface with the least possible stress. Understanding the factors that favor optimal tracking provides insight into most pathomechanics and many treatments for pain and other dysfunctions of the patellofemoral joint. Both local and global factors will be described. Local factors are those that act directly on the patellofemoral joint. Global factors, on the other hand, are those related to the alignment of the bones and joints of the lower limb. Although these factors are described as separate entities, in reality, their effectiveness in optimizing patellar tracking is based on the sum of their combined influences.”<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">1</a></sup></span></p>
+<p>“Several factors throughout the lower extremity oppose and thereby limit the lateral bias in pull of the quadriceps relative to the patellofemoral joint. These factors are important to optimal tracking. In this context, optimal tracking is defined as movement between the patella and femur across the greatest possible area of articular surface with the least possible stress. Understanding the factors that favor optimal tracking provides insight into most pathomechanics and many treatments for pain and other dysfunctions of the patellofemoral joint. Both local and global factors will be described. Local factors are those that act directly on the patellofemoral joint. Global factors, on the other hand, are those related to the alignment of the bones and joints of the lower limb. Although these factors are described as separate entities, in reality, their effectiveness in optimizing patellar tracking is based on the sum of their combined influences.”<span class="citation" data-cites="neumannKinesiologyMusculoskeletalSystem2017"><sup><a href="#ref-neumannKinesiologyMusculoskeletalSystem2017" role="doc-biblioref">2</a></sup></span></p>
 </section>
+</section>
+<section id="assessment" class="level1">
+<h1>Joint assessment</h1>
+<ul>
+<li>Patient positioned in supine</li>
+<li>Clinician places their own knee under the patient’s lower leg to provide a fulcrum to move the patient’s knee through extension and hyperextension<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">3</a></sup></span>.</li>
+</ul>
+<section id="superior-translation" class="level2">
+<h2 class="anchored" data-anchor-id="superior-translation">Superior translation</h2>
+<ul>
+<li>Pinch the <em>apex</em> of the patella between your thumb and index finger.</li>
+<li>In extension/hyperextension, glide the patella superiorly.</li>
+<li>Since we are mainly testing the <em>patellar tendon</em>, it functionally acts as a tendon but technically is a ligament since it connects bone (patella) to bone (tibia), thus the the end feel resistance should increase quickly in a nonlinear pattern typical for ligaments<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">3</a></sup></span>.</li>
+</ul>
+<p>How do we know if it is normal or abnormal?</p>
+<ul>
+<li>Compare right to left sides</li>
+<li>Feel the end feel, a more elastic end feel is more normal than a rigid or “cloudy” end feel<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">3</a></sup></span>.</li>
+</ul>
+</section>
+<section id="inferior-translation" class="level2">
+<h2 class="anchored" data-anchor-id="inferior-translation">Inferior translation</h2>
+<ul>
+<li>Pinch the <em>base</em> of the patella between your thumb and index finger.</li>
+<li>In extension/hyperextension, glide the patella superiorly.</li>
+<li>Since we are mainly testing the <em>quadriceps tendon</em>, which connects the quadriceps to the patella, the end feel resistance should be <em>more</em> linear than the patella ligament and inferior gliding<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">3</a></sup></span>.</li>
+</ul>
+</section>
+</section>
+<section id="manual-treatment" class="level1">
+<h1>Manual Treatment</h1>
+<ul>
+<li><a href="../../../../The Archive/Anatomy/Connective tissue/Tendon/patellar_tendon.html#release">Patellar tendon release</a></li>
+</ul>
 </section>
 <section id="exercise" class="level1">
 <h1>Exercise</h1>
@@ -256,7 +499,7 @@ div.csl-indent {
 </div>
 <div class="callout-body-container">
 <ul>
-<li><span class="citation" data-cites="escamillaPatellofemoralJointLoading2023"><sup><a href="#ref-escamillaPatellofemoralJointLoading2023" role="doc-biblioref">2</a></sup></span></li>
+<li><span class="citation" data-cites="escamillaPatellofemoralJointLoading2023"><sup><a href="#ref-escamillaPatellofemoralJointLoading2023" role="doc-biblioref">4</a></sup></span></li>
 </ul>
 </div>
 </div>
@@ -268,11 +511,17 @@ div.csl-indent {
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-duttonDuttonOrthopaedicExamination2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Dutton M. <em>Dutton’s Orthopaedic Examination, Evaluation, and Intervention</em>. 5th ed. McGraw Hill Education; 2020.</div>
+</div>
 <div id="ref-neumannKinesiologyMusculoskeletalSystem2017" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. <em>Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation</em>. 3rd ed. Elsevier; 2017.</div>
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Neumann DA, Kelly ER, Kiefer CL, Martens K, Grosz CM. <em>Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation</em>. 3rd ed. Elsevier; 2017.</div>
+</div>
+<div id="ref-jonesProjectFoundations2025" class="csl-entry" role="listitem">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Jones B. <em>B <span>Project Foundations</span></em>. b Project; 2025.</div>
 </div>
 <div id="ref-escamillaPatellofemoralJointLoading2023" class="csl-entry" role="listitem">
-<div class="csl-left-margin">2. </div><div class="csl-right-inline">Escamilla RF, Zheng N, Macleod TD, et al. Patellofemoral <span>Joint Loading</span> during the <span>Performance</span> of the <span>Wall Squat</span> and <span>Ball Squat</span> with <span class="nocase">Heel-to-Wall-Distance Variations</span>. <em>Medicine and Science in Sports and Exercise</em>. 2023;55(9):1592-1600. doi:<a href="https://doi.org/10.1249/MSS.0000000000003185">10.1249/MSS.0000000000003185</a></div>
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Escamilla RF, Zheng N, Macleod TD, et al. Patellofemoral <span>Joint Loading</span> during the <span>Performance</span> of the <span>Wall Squat</span> and <span>Ball Squat</span> with <span class="nocase">Heel-to-Wall-Distance Variations</span>. <em>Medicine and Science in Sports and Exercise</em>. 2023;55(9):1592-1600. doi:<a href="https://doi.org/10.1249/MSS.0000000000003185">10.1249/MSS.0000000000003185</a></div>
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Patellofemoral Joint.

@@ -3,6 +3,9 @@ title: Multifidus Muscle
 ---
 
 
+![Muscles of the Posterior and lateral neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.14 Posterior and Lateral Views of the Neck.jpeg){#fig-openstax-fig11.14}
+
+![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}
 
 ```{python tbl-oian}
 #| label: tbl-oian

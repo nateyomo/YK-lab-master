@@ -9,23 +9,23 @@ body {
 
 /* Hyperlink styling */
 a {
-  color: #000; /* Pure black for hyperlinks */
+  color: #3d5b9d; /* Pure black for hyperlinks */
   text-decoration: none; /* Remove the underline */
-  font-weight: normal; /* Slightly bold text (adjust weight as needed) */
+  font-weight: 525; /* Slightly bold text (adjust weight as needed) */
 }
 
 a:hover {
   text-decoration: underline; /* Add underline on hover */
-  font-weight: normal; /* Slightly bolder on hover (optional) */
+  font-weight: 525; /* Slightly bolder on hover (optional) */
 }
 
 a:visited {
-  color: #000; /* Black for visited links */
+  color: #3d5b9d; /* Black for visited links */
 }
 
 a:active {
-  color: #000; /* Black for active links */
-  font-weight: normal; /* Slightly bolder when active (optional) */
+  color: #3d5b9d; /* Black for active links */
+  font-weight: 525; /* Slightly bolder when active (optional) */
 }
 
 /* Citation styling */
@@ -74,14 +74,13 @@ cite a {
   .basic-table tbody tr:nth-child(even) {
     background-color: #ffffff; /* Adds white stripe */
   }
-  
   .basic-table caption {
-    caption-side: top;
-    font-size: 16px;
-    text-align: center;
-    margin-bottom: 8px;
+    font-size: 0.85em;  /* Adjust font size */
+    color: #555;        /* Optional: Make it slightly gray */
+    text-align: left; /* Center align */
+    margin-top: 5px;    /* Add spacing between table and caption */
   }
-  
+ 
   .basic-table tbody tr:last-child {
     border-bottom: 1px solid #d3d3d3; /* Light gray border */
   }
@@ -189,6 +188,7 @@ cite a {
   .oian-table tbody tr:first-child {
       border-top: 1px solid black;
   }
+
 
   .oian-table tbody tr:nth-child(odd) {
       background-color: #fcfcfc;

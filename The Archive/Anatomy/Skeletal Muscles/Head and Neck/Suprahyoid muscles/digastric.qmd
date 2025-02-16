@@ -2,7 +2,7 @@
 title: Digastric muscle
 ---
 
-
+![Muscles of the Anterior Neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.13 Muscles of the Anterior Neck.jpeg){#fig-openstax-fig11.13}
 
 
 ```{python tbl-oian}

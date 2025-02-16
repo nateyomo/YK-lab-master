@@ -4,6 +4,12 @@ title: Iliacus Muscle
 
 ![Muscles of the Iliac and Anterior femoral regions @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image430 Muscles of the iliac and anterior femoral regions.gif)
 
+![Muscles of the Abdomen @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.16 Muscles of the Abdomen.jpeg){#fig-openstax-fig11.16}
+
+![Muscles of the pelvic floor (Superior view) @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.19 Muscles of the Pelvic Floor.jpeg){#fig-openstax-fig11.19}
+
+![Hip and Thigh Muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg){#fig-openstax-fig11.29}
+
 
 ```{python tbl-iliacus-oian}
 #| label: tbl-iliacus-oian

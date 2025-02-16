@@ -5,7 +5,7 @@ title: Transverse Ligament of the Humerus
 
 Forms the roof of the [intertubercular groove]({{< var ref-humerus-bone.intertubercular-groove >}}) @duttonDuttonOrthopaedicExamination2020
 
-
+![Right Glenohumeral joint capsule (Anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Syndesmology/image327 gray1918 Capsule of shoulder-joint (distended). Anterior aspect.gif){#fig-gray1918-image327}
 
 # Function
 

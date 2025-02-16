@@ -104,3 +104,12 @@ The [gastrocnemius]({{< var ref-gastrocnemius.action >}}) functions as an antago
 "Extensor lag at the knee is often a persistent and perplexing problem during rehabilitation of the postsurgical or posttraumatized knee. The mechanics that create this condition during the seated position are as follows. As the knee approaches terminal extension, the maximal internal torque potential of the quadriceps is least while the opposing external (flexor) torque is greatest (compare graphs in Figs. 13.25 and 13.26). This natural disparity is not observed in persons with normal quadriceps strength. With significant muscle weakness, however, the disparity often results in extensor lag." @neumannKinesiologyMusculoskeletalSystem2017 
 
 "Swelling or effusion of the knee increases the likelihood of an extensor lag. Swelling increases intra-articular pressure, which can physically impede full knee extension.340 Increased intraarticular pressure can also reflexively inhibit the neural activation of the quadriceps muscle.64,212,243 Methods that reduce swelling of the knee, therefore, can have an important role in a therapeutic exercise program of the knee. Passive resistance from hamstring muscles that are stretched across a flexed hip in a seated position can also play a role in limiting full extension." @neumannKinesiologyMusculoskeletalSystem2017
+
+
+
+
+# Quadricep tendon {#tendon}
+
+
+
+# Tendon release {#tendon-release}

@@ -2,6 +2,10 @@
 title: Rhomboid Minor
 ---
 
+![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}
+
+![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false
@@ -46,6 +50,8 @@ SP of C6 & C7 @gilroyAtlasAnatomy2020
 # Insertion {#insertion}
 
 Medial border of scapula (*above scapular spine*) @gilroyAtlasAnatomy2020
+
+![Left scapula (Posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image203 gray1918 Left scapula. Dorsal surface.gif){#fig-gray1918-image203}
 
 # Innervation {#innervation}
 

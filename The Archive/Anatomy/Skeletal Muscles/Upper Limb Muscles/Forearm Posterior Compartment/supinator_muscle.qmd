@@ -2,6 +2,9 @@
 title: Supinator Muscle
 ---
 
+![Left Humerus (Anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image207 gray1918 Left humerus. Anterior view.gif){#fig-gray1918-image207}
+
+![Muscles that move the Forearm @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.25 Muscles That Move the Forearm.jpeg){#fig-openstax-fig11.25}
 
 ```{python tbl-oian}
 #| label: tbl-oian

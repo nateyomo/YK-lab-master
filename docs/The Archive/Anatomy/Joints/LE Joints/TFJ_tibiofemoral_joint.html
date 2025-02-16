@@ -44,7 +44,7 @@ div.csl-indent {
 }</style>
 
 
-<script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../../../../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../../../../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
@@ -88,6 +88,9 @@ div.csl-indent {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
 <link rel="stylesheet" href="../../../../styles.css">
@@ -154,17 +157,25 @@ div.csl-indent {
   <li><a href="#biomechanics" id="toc-biomechanics" class="nav-link active" data-scroll-target="#biomechanics">Biomechanics</a></li>
   <li><a href="#capsular-pattern" id="toc-capsular-pattern" class="nav-link" data-scroll-target="#capsular-pattern">Capsular Pattern</a></li>
   <li><a href="#closed-vs-open-chain" id="toc-closed-vs-open-chain" class="nav-link" data-scroll-target="#closed-vs-open-chain">Closed vs Open Chain</a></li>
-  <li><a href="#dysfunction" id="toc-dysfunction" class="nav-link" data-scroll-target="#dysfunction">Dysfunction</a></li>
-  <li><a href="#osteoarthritis" id="toc-osteoarthritis" class="nav-link" data-scroll-target="#osteoarthritis">Osteoarthritis</a>
+  <li><a href="#muscles" id="toc-muscles" class="nav-link" data-scroll-target="#muscles">Muscles</a>
   <ul class="collapse">
-  <li><a href="#medial-oa-medial-osteoarthritis" id="toc-medial-oa-medial-osteoarthritis" class="nav-link" data-scroll-target="#medial-oa-medial-osteoarthritis">Medial OA {medial-osteoarthritis}</a></li>
-  <li><a href="#lateral-osteoarthritis" id="toc-lateral-osteoarthritis" class="nav-link" data-scroll-target="#lateral-osteoarthritis">Lateral OA</a></li>
+  <li><a href="#flexor-extensors" id="toc-flexor-extensors" class="nav-link" data-scroll-target="#flexor-extensors">Flexor extensors</a></li>
+  <li><a href="#rotators" id="toc-rotators" class="nav-link" data-scroll-target="#rotators">Rotators</a></li>
   </ul></li>
   <li><a href="#rom" id="toc-rom" class="nav-link" data-scroll-target="#rom">ROM</a></li>
-  <li><a href="#joint-assessment" id="toc-joint-assessment" class="nav-link" data-scroll-target="#joint-assessment">Joint assessment</a></li>
+  <li><a href="#joint-assessment-extension" id="toc-joint-assessment-extension" class="nav-link" data-scroll-target="#joint-assessment-extension">Extension Joint assessment</a></li>
+  <li><a href="#joint-assessment-internal-rotation" id="toc-joint-assessment-internal-rotation" class="nav-link" data-scroll-target="#joint-assessment-internal-rotation">Internal rotation assessment</a></li>
+  <li><a href="#joint-assessment-external-rotation" id="toc-joint-assessment-external-rotation" class="nav-link" data-scroll-target="#joint-assessment-external-rotation">External rotation assessment</a></li>
+  <li><a href="#joint-assessment-prone" id="toc-joint-assessment-prone" class="nav-link" data-scroll-target="#joint-assessment-prone">Prone Joint Assessment</a></li>
   <li><a href="#muscular-assessment" id="toc-muscular-assessment" class="nav-link" data-scroll-target="#muscular-assessment">Muscular assessment</a></li>
   <li><a href="#mobilization" id="toc-mobilization" class="nav-link" data-scroll-target="#mobilization">Mobilization</a></li>
   <li><a href="#exercises" id="toc-exercises" class="nav-link" data-scroll-target="#exercises">Exercises</a></li>
+  <li><a href="#dysfunction" id="toc-dysfunction" class="nav-link" data-scroll-target="#dysfunction">Dysfunction</a></li>
+  <li><a href="#osteoarthritis" id="toc-osteoarthritis" class="nav-link" data-scroll-target="#osteoarthritis">Osteoarthritis</a>
+  <ul class="collapse">
+  <li><a href="#medial-osteoarthritis" id="toc-medial-osteoarthritis" class="nav-link" data-scroll-target="#medial-osteoarthritis">Medial OA</a></li>
+  <li><a href="#lateral-osteoarthritis" id="toc-lateral-osteoarthritis" class="nav-link" data-scroll-target="#lateral-osteoarthritis">Lateral OA</a></li>
+  </ul></li>
   </ul>
 </nav>
 </nav>
@@ -253,6 +264,417 @@ div.csl-indent {
 <li>“During CKC exercises for the lower extremity, the flexion moment arms of the knee and the hip increase as a squat is performed.”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">1</a></sup></span></li>
 </ul>
 </section>
+<section id="muscles" class="level1">
+<h1>Muscles</h1>
+<p>When approaching “tibiofemoral joint” muscles, we are looking at muscles that <em>directly</em> act on the femur and tibia. Muscles such as the quadriceps that act on the patellofemoral joint do indirectly affect the tibiofemoral joint, but we are not including them in this list.</p>
+<section id="flexor-extensors" class="level2">
+<h2 class="anchored" data-anchor-id="flexor-extensors">Flexor extensors</h2>
+<div class="cell" data-message="false" data-execution_count="1">
+<div id="tbl-tibiofemoral-extensor-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="1" data-message="false">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-tibiofemoral-extensor-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Tibiofemoral Extensors
+</figcaption>
+<div aria-describedby="tbl-tibiofemoral-extensor-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display">
+<table class="dataframe oian-table do-not-create-environment cell caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th">Muscle</th>
+<th data-quarto-table-cell-role="th">Origin</th>
+<th data-quarto-table-cell-role="th">Insertion</th>
+<th data-quarto-table-cell-role="th">Innervation</th>
+<th data-quarto-table-cell-role="th">Action</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html">Tensor Fascia Latae</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#origin">ASIS</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#insertion">IT Band</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#innervation">Superior gluteal n.</a><br>
+L4 - S1</td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">Tenses fascia latae</a><br>
+<strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">Abduction</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">IR</a><br>
+<strong>Flexed knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">ER</a><br>
+<strong>Extended knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">Locks out extension</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</figure>
+</div>
+</div>
+<div class="cell" data-message="false" data-execution_count="2">
+<div id="tbl-tibiofemoral-flexor-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="2" data-message="false">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-tibiofemoral-flexor-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;2: Tibiofemoral Flexors
+</figcaption>
+<div aria-describedby="tbl-tibiofemoral-flexor-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display">
+<table class="dataframe oian-table do-not-create-environment cell caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th">Muscle</th>
+<th data-quarto-table-cell-role="th">Origin</th>
+<th data-quarto-table-cell-role="th">Insertion</th>
+<th data-quarto-table-cell-role="th">Innervation</th>
+<th data-quarto-table-cell-role="th">Action</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html">Biceps femoris long head</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#origin">Ischial tuberosity</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#origin">Sacrotuberous lig.</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#origin">(Common head with semitendinosus)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#insertion">Fibular head</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#innervation">Tibial n.</a><br>
+L5 - S2</td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#action">Extension</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#action">ER</a><br>
+<strong>Pelvis</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#action">Sagittal stabilization</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html">Biceps femoris short head</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html#origin">Lateral lip of Linea aspera</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html#insertion">Fibular head</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html#innervation">Common Fibular n.</a><br>
+L5 - S2</td>
+<td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html#action">ER</a></td>
+</tr>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html">Gastrocnemius</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#origin">Superior-posterior aspect of Medial Femoral Condyle</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#origin">Lateral surface of Lateral Femoral Condyle</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#insertion">Calcaneal tuberosity via Achilles' Tendon</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#innervation">Tibial n.</a><br>
+S1 - S2</td>
+<td><strong>TCJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#action">PF</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#action">Flexion</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html">Plantaris</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#origin">Lateral epicondyle of Femur</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#insertion">Calcaneal tuberosity</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#innervation">Tibial n.</a><br>
+S1 - S2</td>
+<td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#action">*negligble* Flexion</a><br>
+<strong>TCJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#action">PF</a><br>
+<strong>Proprioception</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#action">Organ of proprioception for the plantarflexors</a></td>
+</tr>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html">Popliteus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#origin">Lateral Femoral Condyle</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#origin">Posterior horn of Lateral Meniscus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#insertion">Posterior surface of Tibia</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#innervation">Tibial n.</a><br>
+L4 - S1</td>
+<td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#action">Unlocks the knee via knee IR</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html">Semimembranosus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#origin">Ischial tuberosity</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#insertion">Medial tibial condyle</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#insertion">Oblique popliteal lig.</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#insertion">Popliteus fascia</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#innervation">Tibial n.</a><br>
+L5 - S2</td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#action">Extension</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#action">IR</a><br>
+<strong>Pelvis</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#action">Sagittal stabilization</a></td>
+</tr>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html">Semitendinosus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#origin">Ischial tuberosity</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#origin">Sacrotuberous lig.</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#origin">(common head with biceps femoris long head)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#insertion">Pes anserine</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#innervation">Tibial n.</a><br>
+L5 - S2</td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#action">Extension</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#action">IR</a><br>
+<strong>Pelvis</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#action">Sagittal stabilization</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</figure>
+</div>
+</div>
+</section>
+<section id="rotators" class="level2">
+<h2 class="anchored" data-anchor-id="rotators">Rotators</h2>
+<div class="cell" data-message="false" data-execution_count="3">
+<div id="tbl-tibiofemoral-external-rotator-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="3" data-message="false">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-tibiofemoral-external-rotator-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;3: Tibiofemoral External rotators
+</figcaption>
+<div aria-describedby="tbl-tibiofemoral-external-rotator-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display">
+<table class="dataframe oian-table do-not-create-environment cell caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th">Muscle</th>
+<th data-quarto-table-cell-role="th">Origin</th>
+<th data-quarto-table-cell-role="th">Insertion</th>
+<th data-quarto-table-cell-role="th">Innervation</th>
+<th data-quarto-table-cell-role="th">Action</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html">Biceps femoris long head</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#origin">Ischial tuberosity</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#origin">Sacrotuberous lig.</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#origin">(Common head with semitendinosus)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#insertion">Fibular head</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#innervation">Tibial n.</a><br>
+L5 - S2</td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#action">Extension</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#action">ER</a><br>
+<strong>Pelvis</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#action">Sagittal stabilization</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html">Biceps femoris short head</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html#origin">Lateral lip of Linea aspera</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html#insertion">Fibular head</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html#innervation">Common Fibular n.</a><br>
+L5 - S2</td>
+<td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_short_head.html#action">ER</a></td>
+</tr>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html">Tensor Fascia Latae</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#origin">ASIS</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#insertion">IT Band</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#innervation">Superior gluteal n.</a><br>
+L4 - S1</td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">Tenses fascia latae</a><br>
+<strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">Abduction</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">IR</a><br>
+<strong>Flexed knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">ER</a><br>
+<strong>Extended knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Gluteal%20Muscles/tensor_fascia_latae_TFL.html#action">Locks out extension</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</figure>
+</div>
+</div>
+<div class="cell" data-message="false" data-execution_count="4">
+<div id="tbl-tibiofemoral-internal-rotator-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-execution_count="4" data-message="false">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-tibiofemoral-internal-rotator-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;4: Tibiofemoral Internal rotators
+</figcaption>
+<div aria-describedby="tbl-tibiofemoral-internal-rotator-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display">
+<table class="dataframe oian-table do-not-create-environment cell caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th">Muscle</th>
+<th data-quarto-table-cell-role="th">Origin</th>
+<th data-quarto-table-cell-role="th">Insertion</th>
+<th data-quarto-table-cell-role="th">Innervation</th>
+<th data-quarto-table-cell-role="th">Action</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/gracilis.html">Gracilis</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/gracilis.html#origin">Inferior pubic ramus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/gracilis.html#insertion">Pes anserine</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/gracilis.html#innervation">Obturator n.</a><br>
+L2 - L3</td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/gracilis.html#action">Adduction</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/gracilis.html#action">Flexion</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/gracilis.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/gracilis.html#action">IR</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html">Popliteus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#origin">Lateral Femoral Condyle</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#origin">Posterior horn of Lateral Meniscus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#insertion">Posterior surface of Tibia</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#innervation">Tibial n.</a><br>
+L4 - S1</td>
+<td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#action">Unlocks the knee via knee IR</a></td>
+</tr>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/sartorius.html">Sartorius</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/sartorius.html#origin">ASIS</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/sartorius.html#insertion">Pes anserine</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/sartorius.html#innervation">Femoral n.</a><br>
+L2 - L3</td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/sartorius.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/sartorius.html#action">ER</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/sartorius.html#action">Abduction</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/sartorius.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Anterior%20Thigh%20Muscles/sartorius.html#action">IR</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html">Semimembranosus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#origin">Ischial tuberosity</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#insertion">Medial tibial condyle</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#insertion">Oblique popliteal lig.</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#insertion">Popliteus fascia</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#innervation">Tibial n.</a><br>
+L5 - S2</td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#action">Extension</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#action">IR</a><br>
+<strong>Pelvis</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#action">Sagittal stabilization</a></td>
+</tr>
+<tr class="odd">
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html">Semitendinosus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#origin">Ischial tuberosity</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#origin">Sacrotuberous lig.</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#origin">(common head with biceps femoris long head)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#insertion">Pes anserine</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#innervation">Tibial n.</a><br>
+L5 - S2</td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#action">Extension</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#action">IR</a><br>
+<strong>Pelvis</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#action">Sagittal stabilization</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</figure>
+</div>
+</div>
+</section>
+</section>
+<section id="rom" class="level1">
+<h1>ROM</h1>
+</section>
+<section id="joint-assessment-extension" class="level1">
+<h1>Extension Joint assessment</h1>
+<ul>
+<li>Patient in supine</li>
+<li>Place your distal knee under their lower leg</li>
+<li>Support the patient’s posterior lower leg with your far hand.</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Supporting the patient’s tibia with your other hand so they feel supported and to make them more comfortable</p>
+</div>
+</div>
+<ul>
+<li>Palpate the medial femoral condyle and medial tibial plateau while moving the patient through extension and end-range extension (hyperextension).</li>
+<li>Normal knee biomechanics:
+<ul>
+<li>Posterior tranlation of both condyles</li>
+<li>More freedom of movement in the lateral femoral condyle since the tibiofemoral joint’s axis of rotation is on the medial femoral condyle</li>
+<li>More freedom of movement in the lateral femoral condyle since the medial femoral condyle has soft tissue limits from the MCL</li>
+</ul></li>
+<li>Is the femoral condyle moving posteriorly during extension?</li>
+<li>Is the femoral condyle remaining anteriorly translated relative to the medial tibial plateau?</li>
+<li>Does the medial femoral condyle have more or less freedom of movement compared to the lateral femoral condyle?</li>
+</ul>
+<p>Treatment:</p>
+<ul>
+<li>If the medial condyle is anteriorly translated:
+<ul>
+<li>Assess lateral femoral condyle movement, often this is limited, resulting in improper medial femoral condyle movement</li>
+<li>Perform <em>lateral femoral condyle posterior mobilization with movement</em></li>
+</ul></li>
+</ul>
+</section>
+<section id="joint-assessment-internal-rotation" class="level1">
+<h1>Internal rotation assessment</h1>
+<p>Internal rotation of the knee refers to tibiofemoral joint movement where the tibia rotates internally relative to the femur.</p>
+<p>Tibiofemoral internal rotation is best assessed in supine.</p>
+<ul>
+<li>Patient positioned in supine</li>
+<li>Clinician stands on the affected side and faces the patient’s leg</li>
+<li>Place your far knee under the patient’s lower leg</li>
+<li>Place far arm under the proximal lower leg to support the knee</li>
+</ul>
+</section>
+<section id="joint-assessment-external-rotation" class="level1">
+<h1>External rotation assessment</h1>
+<p>Knee external rotation refers to tibiofemoral joint movement where the tibia rotates externally relative to the femur.</p>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Caution
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Be sure to pull on the posterolateral tibia when passively mobilizing through tibiofemoral external rotation!</p>
+<p>If you apply pressure too far posteromedially, you could press on the <a href="../../../../The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/tibial_nerve.html">tibial nerve</a>, which will be painful and will irritate your patient’s symptoms<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">3</a></sup></span>.</p>
+</div>
+</div>
+</section>
+<section id="joint-assessment-prone" class="level1">
+<h1>Prone Joint Assessment</h1>
+<ul>
+<li>Patient in prone</li>
+<li>Flex the knee to 90°</li>
+<li>With one hand, grasp the ankle and use it to rotate the tibia internally and externally.</li>
+<li>Palpate the posterior joint line</li>
+<li>Assess if the TFJ is able to rotate more or less when comparing:
+<ul>
+<li>Right to Left leg</li>
+<li>Medial to Lateral aspects</li>
+</ul></li>
+<li>The side that rotates <em>less</em> is experiencing more tissue restrictions</li>
+<li>Palpate around the joint to find where the joint rotates the <em>least</em>.</li>
+<li>From that point, palpate which tissues are moving <em>with</em> the joint and not allowing the joint to move freely relative to the surrounding tissue.</li>
+</ul>
+</section>
+<section id="muscular-assessment" class="level1">
+<h1>Muscular assessment</h1>
+</section>
+<section id="mobilization" class="level1">
+<h1>Mobilization</h1>
+</section>
+<section id="exercises" class="level1">
+<h1>Exercises</h1>
+<ul>
+<li>Knee Controlled Articular Rotations (CAR)</li>
+<li>Anterior knee table exercise</li>
+</ul>
+</section>
 <section id="dysfunction" class="level1">
 <h1>Dysfunction</h1>
 <div class="callout callout-style-default callout-note callout-titled" title="ACL Deficient Knees">
@@ -271,35 +693,17 @@ ACL Deficient Knees
 </section>
 <section id="osteoarthritis" class="level1">
 <h1>Osteoarthritis</h1>
-<section id="medial-oa-medial-osteoarthritis" class="level2">
-<h2 class="anchored" data-anchor-id="medial-oa-medial-osteoarthritis">Medial OA {medial-osteoarthritis}</h2>
+<section id="medial-osteoarthritis" class="level2">
+<h2 class="anchored" data-anchor-id="medial-osteoarthritis">Medial OA</h2>
 <p>Chronic <em>genu varus</em> often results in medial tibiofemoral osteoarthritis<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">3</a></sup></span>.</p>
 </section>
 <section id="lateral-osteoarthritis" class="level2">
 <h2 class="anchored" data-anchor-id="lateral-osteoarthritis">Lateral OA</h2>
 <p>Chronic <em>genu valgum</em> often results in lateral tibiofemoral osteoarthritis<span class="citation" data-cites="jonesProjectFoundations2025"><sup><a href="#ref-jonesProjectFoundations2025" role="doc-biblioref">3</a></sup></span>.</p>
-</section>
-</section>
-<section id="rom" class="level1">
-<h1>ROM</h1>
-</section>
-<section id="joint-assessment" class="level1">
-<h1>Joint assessment</h1>
-</section>
-<section id="muscular-assessment" class="level1">
-<h1>Muscular assessment</h1>
-</section>
-<section id="mobilization" class="level1">
-<h1>Mobilization</h1>
-</section>
-<section id="exercises" class="level1">
-<h1>Exercises</h1>
-<ul>
-<li>Knee Controlled Articular Rotations (CAR)</li>
-</ul>
 
 
 
+</section>
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">

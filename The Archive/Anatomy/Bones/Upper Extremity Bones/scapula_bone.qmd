@@ -3,6 +3,13 @@ title: Scapula (Bone)
 ---
 
 
+![Left Scapula (Anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image202 gray1918 Left scapula. Costal surface.gif){#fig-gray19180image202}
+
+![Left Scapula (Lateral view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image205 gray1918 Left scapula. Lateral view.gif){#fig-gray1918-image205}
+
+
+![Plan of Ossification of the Scapula from 7 centers @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image206 gray1918 Plan of ossification of the scapula. From seven centers.gif){#fig-gray1918-image206}
+
 
 # Osteologic features {#osteologic-features}
 
@@ -67,6 +74,8 @@ One of the borders of the [thoracic outlet]({{< var ref-thoracic-outlet.path >}}
 
 
 ## Coracoid process {#coracoid-process}
+
+![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}
 
 "The coracoid process (see Fig. 16-3) projects forward like a crow’s beak, for which it is named. This forward position provides an efficient lever whereby the small pectoralis muscle can help to stabilize the scapula. In addition, the process serves as a point of origin for the coracobrachialis and the short head of the biceps muscle" @duttonDuttonOrthopaedicExamination2020
 

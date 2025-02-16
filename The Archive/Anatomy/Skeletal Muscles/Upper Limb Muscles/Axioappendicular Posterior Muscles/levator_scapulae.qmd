@@ -5,6 +5,11 @@ title: Levator Scapulae
 
 ![Hypoglossal nerve, cervical plexus, and their respective branches @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image794 Hypoglossal nerve cervical plexus and their branches.gif){#fig-gray1918-image794}
 
+![Muscles of the Posterior and lateral neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.14 Posterior and Lateral Views of the Neck.jpeg){#fig-openstax-fig11.14}
+
+
+![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}
+
 
 ```{python tbl-oian}
 #| label: tbl-oian
@@ -49,6 +54,8 @@ TP C1-C4 @gilroyAtlasAnatomy2020
 # Insertion {#insertion}
 
 Superior angle of the scapula @gilroyAtlasAnatomy2020
+
+![Left scapula (Posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image203 gray1918 Left scapula. Dorsal surface.gif){#fig-gray1918-image203}
 
 # Innervation {#innervation}
 

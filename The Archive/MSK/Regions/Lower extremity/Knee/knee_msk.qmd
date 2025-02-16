@@ -33,12 +33,7 @@ subtitle: A Musculoskeletal Overview
 :::
 
 
-:::{layout-ncol="2"}
-![Posterior knee joint ligaments (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image348 Left knee-joint from behind, showing interior ligaments.gif)
 
-![Sagittal cross section of the Knee joint (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image350 Sagittal section of right knee-joint.gif)
-
-:::
 
 The knee region as a whole exists as an intermediate to link the hip and ankle/foot.
 This region consists of [joints](#joints) that primarily perform sagittal flexion and extension in order to control the distance between the body and the ground @jonesProjectFoundations2025.
@@ -116,6 +111,16 @@ To learn more about the [knee joint capsule, click here]({{< var ref-knee-joint.
 # Ligaments
 
 ![Head of tibia with menisci and ligaments (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image349 Head of right tibia seen from above, showing menisci and attachments of ligaments.gif){#fig-image349-tibia-head}
+
+
+:::{layout-ncol="2"}
+
+
+![Posterior knee joint ligaments (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image348 Left knee-joint from behind, showing interior ligaments.gif){#fig-gray1918-image348}
+
+![Sagittal cross section of the Knee joint (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image350 Sagittal section of right knee-joint.gif){#fig-gray1918-image350}
+
+:::
 
 The [ACL]({{< var ref-knee-anterior-cruciate-ligament.path >}}) runs against the lateral aspect of the [articular capsule](#joint-capsule) @jonesProjectFoundations2025.
 
@@ -341,6 +346,9 @@ Valgus consists of femoral IR and Adduction, concomitant contralateral pelvic dr
 
 The knee rotators fall into two groups: the external rotators (@tbl-knee-external-rotator-oian) and the internal rotators (@tbl-knee-internal-rotator-oian).
 
+If there is immobility at the hip and ankle, the knee is often abused and performs transverse plane rotation to compensate.
+If this occurs, you will often see the [biceps femoris long head]({{< var ref-biceps-femoris-long-head.dysfunction >}}) and [popliteus]({{< var ref-popliteus.dysfunction >}}) being tender to palpate, guarding, and/or overactive since these are used to stabilize the knee against rotation @jonesProjectFoundations2025.
+
 ### External rotators
 
 
@@ -429,19 +437,7 @@ else:
 ```
 
 
-
-# Injury prediction
-
-
-# Interventions
-
-- Tibial IR Interventions
-
-
-# Examination
-
-
-# Acute dysfunction
+# Chronicity
 
 ::: {.callout-caution}
 Use ligament stress tests **sparingly** for acute injuries @jonesProjectFoundations2025!
@@ -454,7 +450,6 @@ The goal with acute ligamentous injuries is to:
 
 Focus: treat guarding muscles
 
-# Chronic dysfunction
 
 # Evaluation
 
@@ -467,7 +462,7 @@ An inability to attain full knee extension during gait is typically accompanied 
 A knee operating in a constant state of knee flexion is *never* going to perform successfully @jonesProjectFoundations2025.
 :::
 
-## Psychosocial
+## Psychosocial considerations
 
 Your evaluation should adapt depending on the patient's chronicity.
 You should be gauging the client's fear and/or frustration with the situation.
@@ -486,12 +481,19 @@ Bring the knee into flexion with one hand on their foot and use the other limb f
 
 ### Inventory
 
+- [Biceps femoris]({{< var ref-biceps-femoris-long-head.path >}}) and its adhesion to the femur
+- IT Band adhesion to lateral distal femur
+- Follow [semimembranosus]({{< var ref-semiembranosus.insertion >}}) as it blends into the posteromedial knee.
 - Movement quality assessment: Focus on *quality* rather than *range* @jonesProjectFoundations2025.
 - Palpate posterior TFJ during flexion
     - Joint alignment
     - Accessory mobility
     - State of tendons, ligaments, other tissues
-
+- Assess [tibiofemoral rotation]({{< var ref-tibiofemoral-joint.joint-assessment-prone >}})
+- Palpate medial gastrocnemius head 
+- move medially from the gastrocnemius and you should be able to strum the [tibial nerve]({{< var ref-tibial-nerve.path >}}).
+- Follow the [tibial nerve]({{< var ref-tibial-nerve.path >}}) distally as it passes through the soleus.
+- Assess the soleus, often times the soleus can become scarred and adhered to the [tibial nerve]({{< var ref-tibial-nerve.path >}}), resulting on neural tension on the [sciatic nerve]({{< var ref-sciatic-nerve.path >}}) and the [lumbosacral plexus]({{< var ref-lumbosacral-plexus.path >}}).
 
 ### End range knee flexion
 At end range, a premature limit preventing knee overpressure could be resulting from a variety of structures @jonesProjectFoundations2025.
@@ -513,7 +515,7 @@ If the client lacks full passive range of motion here are some factors to consid
 One of these factors could be the *dominating* factor, but it is likely that multiple factors are at play @jonesProjectFoundations2025.
 :::
 
-### Medial landmarks
+## Medial landmarks
 
 - Distal tendons: [Semiembranosus]({{< var ref-semimembranosus.palpation >}}), [semitendinosus]({{< var ref-semitendinosus.palpation >}}), and [gracilis]({{< var ref-gracilis.palpation >}}) tendons wrapping around the posteromedial knee and collectively inserting as the *pes anserine*.
 - [Medial collateral ligament's]({{< var ref-knee-medical-collateral-ligament.distal >}}) distal insertion on the tibia which is posterior and deep relative to the [gracilis]({{< var ref-gracilis.insertion >}}) and [semitendinosus]({{< var ref-semitendinosus.insertion >}}) insertions @jonesProjectFoundations2025.
@@ -522,14 +524,38 @@ One of these factors could be the *dominating* factor, but it is likely that mul
 The [tibial nerve]({{< var ref-tibial-nerve.path >}}) enters the lower leg then pierces the soleus muscle @jonesProjectFoundations2025.
 
 
+## Lateral landmarks
 
+Follow the anterolateral path of the IT band, extending from its connects to the [TFL]({{< var ref-tensor-fascia-latae.origin >}}) and [glute max]({{< var ref-gluteus-maximus.origin >}}) to its distal insertion on Gerdy's tubercle on the lateral tibia.
+
+The [LCL]({{< var ref-knee-lateral-collateral-ligament.path >}})
 
 ## Supine
+
+- Tibiofemoral Joint assessment
+    - [TFJ end range extension joint assessment]({{< var ref-tibiofemoral-joint.joint-assessment-extension >}})
+    - [TFJ end-range internal rotation joint assessment]({{< var ref-tibiofemoral-joint.joint-assessment-internal-rotation >}})
+    - [TFJ end-range external rotation joint assessment]({{< var ref-tibiofemoral-joint.joint-assessment-external-rotation >}})
+- Patellofemoral joint assessment
+    - [Patellofemoral joint Superior glide]({{< var ref-patellofemoral-joint.joint-assessment-superior >}})
+    - [Patellofemoral joint inferior glide]({{< var ref-patellofemoral-joint.joint-assessment-inferior >}})
+
+
+# Neurodynamic mobility
+
+- Contract relax
+    - [SLR Hip-biased contract-relax]({{< var ref-straight-leg-raise.contract-relax-hip >}})
+    - [SLR Ankle contract-relax]({{< var ref-straight-leg-raise.contract-relax-ankle >}})
 
 # Tests
 
 
-- Patellafemoral joint mobility
+- [Patellafemoral joint assessment]{{< var ref-patellofemoral-joint.joint-assessment >}}
+- [Tibiofemoral joint assessment]({{< var ref-tibiofemoral-joint.joint-assessment >}})
+    - [TFJ extension assessment]({{< var ref-tibiofemoral-joint.joint-assessment-extension >}})
+    - [TFJ internal rotation assessment]({{< var ref-tibiofemoral-joint.joint-assessment-internal-rotation >}})
+    - [TFJ external rotation assessment]({{< var ref-tibiofemoral-joint.joint-assessment-external-rotation >}})
+
 
 ## Meniscus
 
@@ -544,6 +570,7 @@ The [tibial nerve]({{< var ref-tibial-nerve.path >}}) enters the lower leg then 
 Use ligament stress tests **sparingly** for acute injuries @jonesProjectFoundations2025!
 :::
 
+
 - LCL
     - Varus stress test
 - MCL
@@ -553,3 +580,13 @@ Use ligament stress tests **sparingly** for acute injuries @jonesProjectFoundati
     - Lachman's test
 - PCL
     - Posterior drawer
+
+
+# Treatments
+
+
+## Lateral femoral condyle MWM {#lateral-femoral-condyle-posterior-mobilization-with-movement}
+
+
+
+# References

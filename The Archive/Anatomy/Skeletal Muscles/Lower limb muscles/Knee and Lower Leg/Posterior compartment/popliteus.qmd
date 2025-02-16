@@ -3,6 +3,8 @@ title: Popliteus Muscle
 subtitle: The "Key" to the knee
 ---
 
+
+
 :::{layout-ncol="2"}
 
 ![Deep posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image439 Muscles of the back of the leg. Deep layer.gif)
@@ -45,6 +47,7 @@ else:
 
 ```
 
+![Muscles of the lower leg @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.32 Muscles of the Lower Leg.jpeg){#fig-openstax-fig11.32}
 
 
 # Origin {#origin}
@@ -86,6 +89,19 @@ The popliteus Internally rotates the knee and *unlocks* it by externally rotatin
 The Popliteus performs accessory knee motion by pulling the posterior tibial plateua *posteriorly* and *laterally* @jonesProjectFoundations2025.
 
 
+# Palpation {#palpation}
+
+- Patient in prone
+- Palpate [lateral gastrocnemius]({{< var ref-gastrocnemius.origin >}})
+- Move medially to palpate the [tibial nerve]({{< var ref-tibial-nerve.path >}})
+- Move medially to strum the belly of the popliteus
+- To treat this structure, it is easier to follow the popliteus inferomedially to follow its path distally where the muscle belly is easier to treat
+
+::: {.callout-note}
+If the popliteus is exceptionally difficult to palpate, this is a sign that it does not have remarkable tone and likely does not require treatment @jonesProjectFoundations2025.
+:::
+
+
 
 # Biomechanics
 
@@ -94,6 +110,12 @@ The popliteus achieves knee internal rotation in two ways:
 - OKC: IR rotates tibia on femur
 - CKC: ER rotates femur on tibia
 
+
+
+# Dysfunction {#dysfunction}
+
+If there is immobility at the hip and ankle, the knee is often abused and performs transverse plane rotation to compensate.
+If this occurs, you will often see the [biceps femoris long head]({{< var ref-biceps-femoris-long-head.dysfunction >}}) and popliteus being tender to palpate, guarding, and/or overactive since these are used to stabilize the knee against rotation @jonesProjectFoundations2025.
 
 # "Key" to the Knee
 

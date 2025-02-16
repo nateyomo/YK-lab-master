@@ -2,5 +2,7 @@
 title: Interclavicular ligament
 ---
 
+![Sternoclavicular joint (Anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Syndesmology/image325 gray1918 Sternoclavicular articulation. Anterior view.gif){#fig-gray1918-image325}
+
 
 Passive stabilizer of the [sternoclavicular joint]({{< var ref-sternoclavicular-joint.path >}}) @neumannKinesiologyMusculoskeletalSystem2017.

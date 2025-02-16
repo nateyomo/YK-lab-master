@@ -1,9 +1,26 @@
 ---
-title: Patellar Tendon
+title: Patellar Ligament
 ---
+
+
+
+
+
+# Patellar Tendon Reflex {#reflex}
 
 
 
 # Dysfunction
 
 [Patellar Tendinopathy]({{< var ref-patellar-tendon.tendinopathy >}})
+
+
+# Patellar tendon release {#release}
+
+- Use your thumb to press at the inferior joint line of the PFJ and pressing deep to the patella @jonesProjectFoundations2025.
+- Use your opposite hand to glide the patella inferiorly, but superficial to your treatment hand @jonesProjectFoundations2025.
+- First use this as an assessment to determine which areas are tender to palpate for the patient or swollen ("cloudy") to your touch @jonesProjectFoundations2025.
+
+::: {.callout-caution}
+This technique is uncomfortable and makes the knee feel vulnerable for many patients, but can result in much relief, especially for patients with patellar tendinitis @jonesProjectFoundations2025.
+:::

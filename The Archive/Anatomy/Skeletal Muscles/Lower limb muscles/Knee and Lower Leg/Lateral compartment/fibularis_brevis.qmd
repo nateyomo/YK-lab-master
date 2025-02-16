@@ -2,10 +2,15 @@
 title: Fibularis Brevis Muscle
 ---
 
+![Muscles of the lower leg @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.32 Muscles of the Lower Leg.jpeg){#fig-openstax-fig11.32}
+
+![Intrinsic foot muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.34 Intrinsic Muscles of the Foot.jpeg){#fig-openstax-fig11.34}
+
 :::{layout-ncol="3"}
 ![Muscles of the anterior leg @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image437 Muscles of the front of the leg.gif)
 
 ![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif){#fig-gray1918-image438}
+
 
 ![Deep posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image439 Muscles of the back of the leg. Deep layer.gif)
 

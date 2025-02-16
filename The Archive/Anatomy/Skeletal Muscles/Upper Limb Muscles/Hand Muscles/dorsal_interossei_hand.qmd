@@ -2,6 +2,8 @@
 title: Dorsal Interossei of the Hand
 ---
 
+![Intrinsic Muscles of the Hand @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.28 Intrinsic Muscles of the Hand.jpeg){#fig-openstax-fig11.28}
+
 :::{layout-ncol="2"}
 ![Palmar muscles of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image427 The muscles of the left hand. Palmar surface.gif)
 
@@ -31,8 +33,9 @@ if script_file_path.exists():
     from process_oian_table import process_oian_table  # Import the specific function
 
     # Define the column to filter by and the identifiers to include
-    filter_column = 'muscle_identifier'  # Choose the column you want to filter by
-    filter_identifiers = ['dorsal_interossei_hand']  # Replace with actual identifiers you want to include
+    filter_column = 'group
+    _identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['hand_dorsal_interossei_muscle_group']  # Replace with actual identifiers you want to include
 
     # Call the function to get the HTML table with filtering
     html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)

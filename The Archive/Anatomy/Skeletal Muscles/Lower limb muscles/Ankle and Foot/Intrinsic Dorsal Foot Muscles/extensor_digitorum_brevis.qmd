@@ -2,6 +2,8 @@
 title: Extensor Digitorum Brevis (EDB)
 ---
 
+![Intrinsic foot muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.34 Intrinsic Muscles of the Foot.jpeg){#fig-openstax-fig11.34}
+
 :::{layout-ncol="2"}
 ![Muscles of the anterior leg @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image437 Muscles of the front of the leg.gif)
 

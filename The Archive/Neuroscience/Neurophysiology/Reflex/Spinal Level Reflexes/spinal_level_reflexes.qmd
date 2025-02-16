@@ -8,6 +8,25 @@ title: Spinal Level Reflexes
 - Integration: 1-2 months ( 2 exceptions)
 
 
+
+There are 3 main types:
+
+:::{#tbl-muscle-reflexes}
+
+| Type of Reflex </br> (Example) | Number of Synapses | Stimulus for Reflex |  Sensory Afferent Fibers | Responses |
+|-|-|-|-|-|
+| [Stretch-reflex]({{< var ref-stretch-reflex.path >}}) | 1 | Stretch (lengthening) of the muscle | Ia Contraction of the muscle |
+| Golgi tendon reflex </br> (clasp knife) | 2 | Contraction (shortening) of the muscle | Ib | Relaxation of the muscle |
+| Flexor-withdrawal reflex </br> (touching a hot stove) | Multiple | Pain; temperature | II, III, and IV | Ipsilateral flexion and contralateral extension |
+
+Muscle reflexes @costanzoCostanzoPhysiology2022
+
+:::
+
+![Motor response @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig12.16 openstax The Motor Response.jpeg){#fig-openstax-fig12.16}
+
+# Stretch-Reflex {#stretch-reflex}
+
 # Proprioceptive Placing
 
 :::{layout-ncol="3"}

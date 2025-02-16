@@ -2,7 +2,7 @@
 title: Rotatores longi
 ---
 
-
+![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}
 
 
 ```{python tbl-oian}

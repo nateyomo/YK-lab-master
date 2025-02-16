@@ -1,34 +1,92 @@
 ---
-title: Musculoskeletal Approach to the shoulder
+title: Shoulder Region
+subtitle: Musculoskeletal overview
 ---
 
 
+![Thorax and Shoulder girdle (posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image204 gray1918 Posterior view of the thorax and shoulder girdle.gif){#fig-gray1918-image20}
 
 
 
-# Anatomy
+There are 3 major axes of the shoulder:
+
+1. Transverse Axis: Allows movements of flexion and extension in the *sagittal plane* @jonesProjectFoundations2025
+1. Antero-posterior axis: Allows movements in the *frontal plane* @jonesProjectFoundations2025
+1. Vertical axis: runs through the intersection of the sagittal and frontal planes and controls the movements of flexion and extension @jonesProjectFoundations2025.
 
 
-## Bones
+# Bones
 
 The Shoulder complex is made up of 3 bones:
 
-1. [Humerus]({{< var ref-humerus-bone.path >}})
-1. [Clavicle]({{< var ref-clavicle-bone.path >}})
-1. [Scapula]({{< var ref-scapula-bone.path >}})
+1. [Humerus](#humerus)
+1. [Clavicle](#clavicle)
+1. [Scapula](#scapula)
 
-## Joints
+## Humerus {#humerus}
+
+[Read more about the humerus here]({{< var ref-humerus-bone.path >}})
+
+## Clavicle {#clavicle}
+
+![Left Clavicle (superior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image200 gray1918 Left clavicle. Superior surface.gif){#fig-gray1918-image200}
+
+![Left clavicle (inferior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image201 gray1918 Left clavicle. Inferior surface.gif){#fig-gray1918-image201}
+
+[Read more about the clavicle here]({{< var ref-clavicle-bone.path >}})
+
+## Scapula {#scapula}
+
+::: {.columns}
+::: {.column}
+
+![Left Scapula (Anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image202 gray1918 Left scapula. Costal surface.gif){#fig-gray19180image202}
+
+:::
+::: {.column}
+
+![Left scapula (Posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image203 gray1918 Left scapula. Dorsal surface.gif){#fig-gray1918-image203}
+:::
+:::
+
+
+![Left Scapula (Lateral view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image205 gray1918 Left scapula. Lateral view.gif){#fig-gray1918-image205}
+
+[Read more about the scapula here]({{< var ref-scapula-bone.path >}})
+
+# Joints
 
 The Shoulder complex is made up of 3 joints and 1 pseudo joint:
 
-1. [Sternoclavicular (SCJ)]({{< var ref-sternoclavicular-joint.path >}})
-1. [Acromioclavicular (ACJ)]({{< var ref-acromioclavicular-joint.path >}})
-1. [Glenohumeral Joint (GHJ)]({{< var ref-glenohumeral-joint.path >}})
-1. The Scapulothoracic Joint is considered a "psuedo joint" @duttonDuttonOrthopaedicExamination2020
+
 
 The [SCJ]({{< var ref-sternoclavicular-joint.path >}}) provides *gross* movement of the clavicle, while the [ACJ]({{< var ref-acromioclavicular-joint.path >}}) provides fine motor control of the clavicle @neumannKinesiologyMusculoskeletalSystem2017.
 
-### 1 Physiologic Area
+![Left Acromioclavicular and Glenohumeral joints (anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Syndesmology/image326 gray1918 The left shoulder and acromioclavicular joints, and the proper ligaments of the scapula.gif){#fig-gray1918-image326}
+
+
+![Right Glenohumeral joint capsule (Anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Syndesmology/image327 gray1918 Capsule of shoulder-joint (distended). Anterior aspect.gif){#fig-gray1918-image327}
+
+## Sternoclavicular Joint
+
+[Read more about the Sternoclavicular (SCJ) here]({{< var ref-sternoclavicular-joint.path >}})
+
+## Acromioclavicular joint
+
+[Read more about the Acromioclavicular joint (ACJ) here]({{< var ref-acromioclavicular-joint.path >}})
+
+## Glenohumeral joint
+
+[Read more about Glenohumeral Joint (GHJ)]({{< var ref-glenohumeral-joint.path >}})
+
+## Scapulothoraic Joint
+
+
+The Scapulothoracic Joint is considered a "psuedo joint" @duttonDuttonOrthopaedicExamination2020
+
+[Read more about the Scapulothoracic joint (STJ) here]({{< var ref-scapulothoracic-joint.path >}})
+
+# Physiologic Area
 
 - Suprahumeral/Subacromial space
 
@@ -37,6 +95,38 @@ The [SCJ]({{< var ref-sternoclavicular-joint.path >}}) provides *gross* movement
 
 
 "(GH Ligs) Together with the coracohumeral ligament, these ligaments form a Z-pattern on the anterior aspect of the shoulder (Fig. 16-6).3 In the midrange of rotation, the G-H ligaments are relatively lax" @duttonDuttonOrthopaedicExamination2020
+
+# Flexion & Extension
+
+Flexion and extension are movements of the shoulder that occur in the *sagittal plane* about a *transverse axis* @jonesProjectFoundations2025.
+
+| Movement | GHJ | Scapulohumeral | Total |
+|-|-|-|-|
+| Extension | | | 45-50&deg; |
+| Flexion | 120&deg; | 60&deg; | 180&deg; |
+: Normal ROM for shoulder flexion and extension @jonesProjectFoundations2025 {.striped}
+
+# Abduction & Adduction {#abduction-adduction}
+
+Abduction and adduction of the shoulder refers to frontal/coronal plane movement occurring about an antero-posterior axis.
+
+Normal abduction is 180&deg; @jonesProjectFoundations2025.
+
+During abduction, the should complex made up of the [GHJ](#glenohumeral-joint), [ACJ](#acromioclavicular-joint) and [STJ](#scapulothoraic-joint) work together in 3 distinct phases to complete the whole range of motion.
+
+1. 0-60&deg; abduction takes place *only* at the glenohumeral joint @jonesProjectFoundations2025.
+1. 60-180&deg; is a combination of glenohumeral joint *and* the scapulothoracic joint @jonesProjectFoundations2025.
+
+
+# Axial Rotation
+
+The "neutral" position in axial rotation is where the elbow is flexed to 90&deg; and the forearm is in the sagittal plane.
+
+::: {.callout-note}
+Another "neutral" position is at 30&deg; of internal rotation where the rotator muscles are at equilibrium @jonesProjectFoundations2025.
+:::
+
+External rotation 
 
 # Stabilization
 
@@ -80,11 +170,17 @@ According to Dutton @duttonDuttonOrthopaedicExamination2020, the *synovium* of t
 
 # Special tests
 
+- RTC
+    - Subscap: Bear hug, Liftoff test
+    - Champagne test
+    - Hornblower's test
 - Labral tear
     - Clunk test
 - SLAP Tear
-    - Speed's 
+    - Speed's test (and bicipital tendinitis)
     - O'brien's test
+- Anterior impingement
+    - Hawkins-Kennedy test
 - Posterior impingement
     - Posterior internal impingement test
 - Posterior instability

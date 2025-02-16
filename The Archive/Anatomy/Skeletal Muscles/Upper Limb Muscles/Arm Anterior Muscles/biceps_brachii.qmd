@@ -2,6 +2,7 @@
 title: Biceps Brachii
 ---
 
+![Muscles that move the Forearm @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.25 Muscles That Move the Forearm.jpeg){#fig-openstax-fig11.25}
 
 ```{python tbl-oian}
 #| label: tbl-oian
@@ -47,6 +48,13 @@ else:
 - Supraglenoid tubercle of scapula [@gilroyAtlasAnatomy2020; @neumannKinesiologyMusculoskeletalSystem2017]
 - Adjacent rim of Glenoid Labrum @neumannKinesiologyMusculoskeletalSystem2017
 
+![Left scapula (Posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image203 gray1918 Left scapula. Dorsal surface.gif){#fig-gray1918-image203}
+
+![Left Scapula (Lateral view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image205 gray1918 Left scapula. Lateral view.gif){#fig-gray1918-image205}
+
+
+![Left Acromioclavicular and Glenohumeral joints (anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Syndesmology/image326 gray1918 The left shoulder and acromioclavicular joints, and the proper ligaments of the scapula.gif){#fig-gray1918-image326}
+
 ## Insertion {#insertion}
 
 - Radial tuberosity @gilroyAtlasAnatomy2020
@@ -64,7 +72,7 @@ else:
 - **Elbow**: Flexion; Supination @gilroyAtlasAnatomy2020
 
 
-
+![Brachioradialis acting as a synergist for the Biceps Brachii @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.2 Prime Movers and Synergists.jpeg){#fig-openstax-fig11.2}
 
 :::{.callout-note}
 How does the Biceps Brachii Long head function as a GHJ stabilizer?

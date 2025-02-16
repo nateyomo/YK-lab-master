@@ -12,7 +12,7 @@ We can break surfing into multiple sections
 - Paddle in
     - Double paddle
     - Kicking
-- Takeoff
+- Takeoff (Pop-up)
 - Bottom turn
 - Surfing maneuvers
 
@@ -34,7 +34,7 @@ Fundamental parts of each maneuver:
 
 ::: {.columns}
 ::: {.column}
-Fundamentals (1&2) as described by Brad Gerlach
+Fundamentals (1&2)
 
 - Takeoff
 - Bottom Turn
@@ -48,7 +48,7 @@ Fundamentals (1&2) as described by Brad Gerlach
 :::
 ::: {.column}
 
-Fundamentals 3 as described by Brad Gerlach
+Fundamentals 3
 
 - Advanced Takeoff (FS & BS)
 - Advanced Bottom Turn (FS & BS)
@@ -71,15 +71,40 @@ Fundamentals 3 as described by Brad Gerlach
 # Pre-surf Warm up
 
 - Shoulder movement prep
+- Prone press
 
 # Land training
 
-- 9090 Alternating hip thrust
-- low-high chop - closing pattern
-- Elevated long bridge
+The goal for land training is to improve surf recovery and to create general mobility and stability.
+From a physical therapy perspective, we should be optimizing a surfer's body to be able to achieve their goals.
+We should *not* be telling them *how* to surf.
+
+## Improve mobility
+
+- Prone press
+    - This is designed to improve active thoracic extension
+    - This is *not* supposed to be a way to replace a surfer's takeoff.
+
+- Rotation
+    - low-high chop - closing pattern
+
+- Lateral deadlift
+    - Stability while weight shifting
+
+- Bridge position
+    - 9090 Alternating hip thrust
+    - Elevated long bridge
     - Elevated long bridge with contralateral press
 
+## Plyos
+
+
+- Ladder 90&deg; rotation jumps
+    - focus on landing with both feet at the same time
+
 {{< video https://www.youtube.com/watch?v=tCh7MQ_VvNw >}}
+
+
 
 # Stance
 

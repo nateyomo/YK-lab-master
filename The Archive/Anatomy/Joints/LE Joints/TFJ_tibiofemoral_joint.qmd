@@ -44,6 +44,244 @@ title: Tibiofemoral Joint
 - "During active OKC knee extension, the shear component produced by unopposed contraction of the quadriceps depends on the angle of knee flexion, increasing as the knee flexion angle increases." @duttonDuttonOrthopaedicExamination2020 
 - "During CKC exercises for the lower extremity, the flexion moment arms of the knee and the hip increase as a squat is performed." @duttonDuttonOrthopaedicExamination2020
 
+
+# Muscles
+
+When approaching "tibiofemoral joint" muscles, we are looking at muscles that *directly* act on the femur and tibia.
+Muscles such as the quadriceps that act on the patellofemoral joint do indirectly affect the tibiofemoral joint, but we are not including them in this list.
+
+## Flexor extensors
+
+
+```{python tbl-tibiofemoral-extensor-oian}
+#| label: tbl-tibiofemoral-extensor-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Tibiofemoral Extensors"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'action_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['tfj_ext']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+```{python tbl-tibiofemoral-flexor-oian}
+#| label: tbl-tibiofemoral-flexor-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Tibiofemoral Flexors"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'action_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['tfj_flex']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+## Rotators
+
+```{python tbl-tibiofemoral-external-rotator-oian}
+#| label: tbl-tibiofemoral-external-rotator-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Tibiofemoral External rotators"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'action_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['tfj_er']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+```{python tbl-tibiofemoral-internal-rotator-oian}
+#| label: tbl-tibiofemoral-internal-rotator-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Tibiofemoral Internal rotators"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'action_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['tfj_ir']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+# ROM
+
+
+
+# Extension Joint assessment {#joint-assessment-extension}
+
+- Patient in supine
+- Place your distal knee under their lower leg
+- Support the patient's posterior lower leg with your far hand.
+
+::: {.callout-note}
+Supporting the patient's tibia with your other hand so they feel supported and to make them more comfortable
+:::
+
+- Palpate the medial femoral condyle and medial tibial plateau while moving the patient through extension and end-range extension (hyperextension).
+- Normal knee biomechanics:
+    - Posterior tranlation of both condyles
+    - More freedom of movement in the lateral femoral condyle since the tibiofemoral joint's axis of rotation is on the medial femoral condyle
+    - More freedom of movement in the lateral femoral condyle since the medial femoral condyle has soft tissue limits from the MCL
+
+
+- Is the femoral condyle moving posteriorly during extension?
+- Is the femoral condyle remaining anteriorly translated relative to the medial tibial plateau?
+- Does the medial femoral condyle have more or less freedom of movement compared to the lateral femoral condyle?
+
+
+Treatment:
+
+- If the medial condyle is anteriorly translated:
+    - Assess lateral femoral condyle movement, often this is limited, resulting in improper medial femoral condyle movement
+    - Perform *lateral femoral condyle posterior mobilization with movement*
+
+# Internal rotation assessment {#joint-assessment-internal-rotation}
+
+Internal rotation of the knee refers to tibiofemoral joint movement where the tibia rotates internally relative to the femur.
+
+
+Tibiofemoral internal rotation is best assessed in supine.
+
+- Patient positioned in supine
+- Clinician stands on the affected side and faces the patient's leg
+- Place your far knee under the patient's lower leg
+- Place far arm under the proximal lower leg to support the knee
+
+
+# External rotation assessment {#joint-assessment-external-rotation}
+
+
+Knee external rotation refers to tibiofemoral joint movement where the tibia rotates externally relative to the femur.
+
+::: {.callout-caution}
+Be sure to pull on the posterolateral tibia when passively mobilizing through tibiofemoral external rotation!
+
+If you apply pressure too far posteromedially, you could press on the [tibial nerve]({{< var ref-tibial-nerve.path >}}), which will be painful and will irritate your patient's symptoms @jonesProjectFoundations2025.
+:::
+
+# Prone Joint Assessment {#joint-assessment-prone}
+
+- Patient in prone
+- Flex the knee to 90&deg;
+- With one hand, grasp the ankle and use it to rotate the tibia internally and externally.
+- Palpate the posterior joint line 
+- Assess if the TFJ is able to rotate more or less when comparing:
+    - Right to Left leg
+    - Medial to Lateral aspects
+- The side that rotates *less* is experiencing more tissue restrictions
+- Palpate around the joint to find where the joint rotates the *least*.
+- From that point, palpate which tissues are moving *with* the joint and not allowing the joint to move freely relative to the surrounding tissue.
+
+# Muscular assessment
+
+# Mobilization
+
+# Exercises
+
+- Knee Controlled Articular Rotations (CAR)
+- Anterior knee table exercise
+
+
 # Dysfunction
 
 :::{.callout-note title="ACL Deficient Knees"}
@@ -53,23 +291,10 @@ title: Tibiofemoral Joint
 
 # Osteoarthritis
 
-## Medial OA {medial-osteoarthritis}
+## Medial OA {#medial-osteoarthritis}
 
 Chronic *genu varus* often results in medial tibiofemoral osteoarthritis @jonesProjectFoundations2025.
 
 ## Lateral OA {#lateral-osteoarthritis}
 
 Chronic *genu valgum* often results in lateral tibiofemoral osteoarthritis @jonesProjectFoundations2025.
-
-# ROM
-
-
-# Joint assessment
-
-# Muscular assessment
-
-# Mobilization
-
-# Exercises
-
-- Knee Controlled Articular Rotations (CAR)

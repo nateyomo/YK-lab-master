@@ -96,8 +96,25 @@ gt_table
 
 # Dysfunction
 
-Entrapment: tarsal tunnel 
+Entrapment sites: 
 
+- Indirect
+    - 
+- Direct
+    - Soleus origin
+    - Tarsal tunnel 
+
+# Palpation
+
+- Patient positioned in prone
+- Palpate [lateral head of the gastrocnemius]({{< var ref-gastrocnemius.origin >}}) at the distal joint line of the [tibiofemoral joint]({{< var ref-tibiofemoral-joint.path >}}).
+- Move *medially* and you should be able to strum the tibial nerve as it runs vertically.
+- Follow the tibial nerve inferiorly to palpate where it passes through the [soleus origin]({{< var ref-soleus.origin >}}).
+    - This can be a place where the tibial nerve can be entrapped @jonesProjectFoundations2025.
+
+# Treatment
+
+- [Soleus origin release]({{< var ref-soleus.release >}})
 
 # Notes
 

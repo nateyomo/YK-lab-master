@@ -2,8 +2,8 @@
 title: Obliquus capitis inferior muscle
 ---
 
-:::{layout-ncol="3"}
-:::
+![Muscles of the Posterior and lateral neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.14 Posterior and Lateral Views of the Neck.jpeg){#fig-openstax-fig11.14}
+
 
 ```{python tbl-oian}
 #| label: tbl-oian

@@ -2,6 +2,8 @@
 title: Quadratus Plantae
 ---
 
+![Intrinsic foot muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.34 Intrinsic Muscles of the Foot.jpeg){#fig-openstax-fig11.34}
+
 :::{layout-ncol="2"}
 ![Schematic of 2nd layer of Plantar Intrinsic Foot Muscles @gilroyAtlasAnatomy2020 </br> 1: Quadratus Plantae </br> 2: Lumbricals </br> 3: Flexor Hallucis Brevis </br> 4: Adductor hallucis </br> 5: Flexor digiti minimi </br> 6: Opponens digiti minimi </br> 7: Plantar interossei </br> 8: Dorsal Interossei](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Ankle and Foot/Intrinsic Dorsal Foot Muscles/images/gilroyatlas fig33.21a schematic intrinsic 2nd layer foot muscles.png)
 
