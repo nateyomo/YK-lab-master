@@ -1,0 +1,8 @@
+---
+title: Type II Afferents
+---
+
+Tonic activity during Steady-state length is a static response which is transmitted through both [*type Ia*]({{< var ref-type-ii-afferent.path >}}) and *type II* afferents @gangulyMuscleTonePhysiology2021.
+
+The signals transmitted through type Ia afferents are important in the physiology of [muscle tone]({{< var ref-skeletal-muscle-tone.path >}}) @gangulyMuscleTonePhysiology2021
+

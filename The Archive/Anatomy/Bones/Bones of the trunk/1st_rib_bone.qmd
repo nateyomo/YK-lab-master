@@ -149,7 +149,7 @@ Assessment
 Onset was associated with direct traumas, whiplash, shoulder girdle efforts, such as carrying heavy bags or pulling on ipsilateral arm, and shoulder surgery @mastromarchiFirstRibDysfunction2021
 
 
-# Mobilization
+# Mobilization {#mobilization}
 
 
 ## Safety
@@ -161,3 +161,20 @@ Onset was associated with direct traumas, whiplash, shoulder girdle efforts, suc
 ## Indication
 
 - [Thoracic outlet syndrome]({{< var ref-thoracic-outlet.syndrome >}}) due to costoclavicular space compression @hooperpart2ThoracicOutletSyndrome2010a
+
+# Release {#release}
+
+I learned this 1st rib technique from Brad Jones @jonesProjectFoundations2025.
+It could be considered a *mobilization with movement (MWM)* but I consider it to be more like a release since at the end of the mobilization, I hold the position and wait for the tissues around the 1st rib to release.
+
+
+- Patient in supine
+- Stand on the ipsilateral side facing the patient's feet
+- Palpate the patient's ipsilateral clavicle and follow it medially.
+- Move posteriorly from the clavicle into the *posterior triangle* of the neck
+- Place your fingertips on the 1st rib and scalenes
+- Grip the patient's upper arm
+- Drive the 1st rib inferiorly while you bring the shoulder into abduction
+- When you reach the end feel, hold the inferior glide and the abduction position for a few seconds until it releases.
+
+Dosage: ~2x10

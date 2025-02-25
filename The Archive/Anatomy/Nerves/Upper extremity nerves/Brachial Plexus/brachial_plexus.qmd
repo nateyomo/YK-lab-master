@@ -141,3 +141,14 @@ Total Obstetrical brachial palsy predominantly involves [C5]({{< var ref-nerve-r
 - [Stretch test]({{< var ref-brachial-plexus-stretch-test.path >}})
 - [Cervical Rotation Lateral Flexion Test]({{< var ref-cervical-rotation-lateral-flexion-test.path >}})
 - [Tinel’s Sign]({{< var ref-tinels-test.brachial-plexus >}})
+
+# Release {#release}
+
+This brachial plexus myofascial release technique was taught to me by Brad Jones @jonesProjectFoundations2025.
+
+- Patient positioned in supine
+- Stand on the patient's ipsilateral side and face the patient's head.
+- Press into the axillary space and palpate the peripheral nerves running through the space to the upper extremity
+- Pin the structures then bring the arm into abduction/elevation
+
+

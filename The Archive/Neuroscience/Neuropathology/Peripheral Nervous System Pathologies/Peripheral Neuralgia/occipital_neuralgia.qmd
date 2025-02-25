@@ -22,3 +22,10 @@ Innervates the post skull from suboccipital area to the vertex
 # Associated pathologies
 
 - Cervicogenic headache
+
+
+
+# Dysfunction
+
+
+During a violent forced extension, the posterior arch of the [atlas (C1)]({{< var ref-c1-bone.path >}}) can be caught between the [occipital bone]({{< var ref-occipital-bone.path >}}) and the [*posterior arch* of the axis (C2)]({{< var ref-c2-bone.path >}}) resulting in a "nutcracker" mechanism which fractures the [atlas]({{< var ref-c1-bone.path >}}) @jonesProjectFoundations2025.

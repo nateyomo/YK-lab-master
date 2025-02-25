@@ -58,31 +58,45 @@ The Shoulder complex is made up of 3 bones:
 
 The Shoulder complex is made up of 3 joints and 1 pseudo joint:
 
-
-
-The [SCJ]({{< var ref-sternoclavicular-joint.path >}}) provides *gross* movement of the clavicle, while the [ACJ]({{< var ref-acromioclavicular-joint.path >}}) provides fine motor control of the clavicle @neumannKinesiologyMusculoskeletalSystem2017.
+1. [SCJ]({{< var ref-sternoclavicular-joint.path >}}) provides *gross* movement of the clavicle @neumannKinesiologyMusculoskeletalSystem2017.
+1. The [ACJ]({{< var ref-acromioclavicular-joint.path >}}) provides fine motor control of the clavicle @neumannKinesiologyMusculoskeletalSystem2017.
+1. The [glenohumeral joint](#glenohumeral-joint)
+1. The [scapulothoracic (pseudo) joint](#scapulothoraic-joint)
 
 ![Left Acromioclavicular and Glenohumeral joints (anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Syndesmology/image326 gray1918 The left shoulder and acromioclavicular joints, and the proper ligaments of the scapula.gif){#fig-gray1918-image326}
 
 
 ![Right Glenohumeral joint capsule (Anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Syndesmology/image327 gray1918 Capsule of shoulder-joint (distended). Anterior aspect.gif){#fig-gray1918-image327}
 
-## Sternoclavicular Joint
+## Sternoclavicular Joint {#sternoclavicular-joint}
 
 [Read more about the Sternoclavicular (SCJ) here]({{< var ref-sternoclavicular-joint.path >}})
 
-## Acromioclavicular joint
+## Acromioclavicular joint {#acromioclavicular-joint}
+
+The acromioclavicular joint (ACJ) is an articulation 
+
+The ACJ has poor stability since the joint surfaces do not interlock making it prone to dislocations @jonesProjectFoundations2025.
+
+The acromion aspect of the joint is slightly convex and faces supero-antero-medially @jonesProjectFoundations2025.
+The clavicular aspect is flat or slightly convex and faces infero-postero-laterally 
+
+Since these two facets can be flat or even both convex, they have poor joint congruity and in 30% of cases, an intra-articular fibrocartilage meniscus is present to improve congruency @jonesProjectFoundations2025.
+
+
+This joint's stability is augmented by 2 extra-articular ligaments for stability: [trapezoid lig.]({{< var ref-trapezoid-ligament.path >}}) and [conoid lig.]({{< var ref-conoid-ligament.path >}}) @jonesProjectFoundations2025.
+
 
 [Read more about the Acromioclavicular joint (ACJ) here]({{< var ref-acromioclavicular-joint.path >}})
 
-## Glenohumeral joint
+## Glenohumeral joint {#glenohumeral-joint}
 
 [Read more about Glenohumeral Joint (GHJ)]({{< var ref-glenohumeral-joint.path >}})
 
-## Scapulothoraic Joint
+## Scapulothoraic Joint {#scapulothoracic-joint}
 
 
-The Scapulothoracic Joint is considered a "psuedo joint" @duttonDuttonOrthopaedicExamination2020
+The Scapulothoracic Joint is considered a "pseudo joint" @duttonDuttonOrthopaedicExamination2020
 
 [Read more about the Scapulothoracic joint (STJ) here]({{< var ref-scapulothoracic-joint.path >}})
 
@@ -117,6 +131,50 @@ During abduction, the should complex made up of the [GHJ](#glenohumeral-joint), 
 1. 0-60&deg; abduction takes place *only* at the glenohumeral joint @jonesProjectFoundations2025.
 1. 60-180&deg; is a combination of glenohumeral joint *and* the scapulothoracic joint @jonesProjectFoundations2025.
 
+## Abduction
+
+There are 4 abductor muscles that form a force coupling of shoulder abduction @jonesProjectFoundations2025.
+
+- Glenohumeral
+    - deltoid
+    - Supraspinatus
+- Scapulothoracic joint (upward rotation)
+    - Serratus anterior
+    - Upper trapezius
+
+During abduction, the [subscapularis]({{< var ref-subscapularis.action >}}), [infraspinatus]({{< var ref-infraspinatus.action >}}), and [teres minor]({{< var ref-teres-minor.action >}}) draw the humeral the infero-medially during abduction @jonesProjectFoundations2025.
+
+::: {.callout-note}
+The [biceps brachii long head]({{< var ref-biceps-brachii-long-head.action >}}) is also involved in abduction and a rupture will result in ~20% decrease in abduction *strength* @jonesProjectFoundations2025.
+:::
+
+### Pure abduction
+
+Pure abduction occurs in the frontal plane.
+
+- Component III of lateral deltoid recruits first
+- IV and V of posterior deltoid recruit immediately after @jonesProjectFoundations2025.
+- Component II (anterior delt) recruits after the first 20-30&deg; @jonesProjectFoundations2025.
+
+### Scapular plane abduction
+
+Scapular plane exists between the sagittal and frontal planes.
+30&deg; from the frontal plane @jonesProjectFoundations2025.
+
+1. II (anterior deltoid) and III (lateral deltoid) are recruited first @jonesProjectFoundations2025.
+1. IV and V (posterior deltoid) and I (Anterior deltoid) are recruited progressively later @jonesProjectFoundations2025.
+
+### External rotation into abduction
+
+1. II (anterior deltoid) contracts at the start
+
+::: {.callout-note}
+IV and V (Posterior deltoid) do not contract at all during this movement @jonesProjectFoundations2025.
+:::
+
+### IR to abduction
+
+"recruitment order reverses" @jonesProjectFoundations2025.
 
 # Axial Rotation
 
@@ -127,6 +185,10 @@ Another "neutral" position is at 30&deg; of internal rotation where the rotator 
 :::
 
 External rotation 
+
+
+# Horizontal abduction & adduction
+
 
 # Stabilization
 
@@ -158,6 +220,95 @@ According to Dutton @duttonDuttonOrthopaedicExamination2020, the *synovium* of t
 
 "It also forms variously sized bursae, the largest of which, the subacromial or subdeltoid bursa, lies on the superior aspect of the joint (see later)." @duttonDuttonOrthopaedicExamination2020 
 
+# Muscles
+
+**Transverse muscles** (@tbl-shoulder-transverse-muscle-group-oian )press the humeral head against the glenoid cavity @jonesProjectFoundations2025.
+
+The **longitudinal muscles** (@tbl-shoulder-longitudinal-muscle-group-oian) support the upper limb and prevent inferior disarticulation when carrying heavy objects @jonesProjectFoundations2025.
+These muscles act to maintain or return the humeral head to the glenoid @jonesProjectFoundations2025.
+
+```{python tbl-shoulder-transverse-muscle-group-oian}
+#| label: tbl-shoulder-transverse-muscle-group-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Transverse Shoulder muscles"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['shoulder_transverse_muscle_group']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
+```{python tbl-shoulder-longitudinal-muscle-group-oian}
+#| label: tbl-shoulder-longitudinal-muscle-group-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Longitudinal Shoulder muscles"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['shoulder_longitudinal_muscle_group']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
+# Stabilization
+
+- Anterior shoulder
+    - Coracobrachialis
+
+
 # Biomechanics
 
 ## Arm Elevation
@@ -168,7 +319,87 @@ According to Dutton @duttonDuttonOrthopaedicExamination2020, the *synovium* of t
 - SCJ: elevation and post rotation and retraction
 
 
+# Evaluation Inventory
+
+## Prone
+
+- Start at the superior angle of the scapula
+- Palpate
+    - [Upper trapezius]({{< var ref-upper-trapezius.path >}})
+    - [Levator scapulae]({{< var ref-levator-scapulae.path >}})
+    - [Rhomboid major]({{< var ref-rhomboid-major.path >}})
+    - [Rhomboid minor]({{< var ref-rhomboid-minor >}})
+    - [Middle trapezius]({{< var ref-middle-trapezius.path >}})
+- Overall rib mobility
+- Use medial/ulnar side of your carpals to depress and upwardly rotate the scapula to test scapulothoracic mobility
+- Work on the rhomboids but bringing the scapula up and driving your fingers underneath the scapula
+
+- Palpate
+    - Supraspinatus (above spine of scap)
+    - [Infraspinatus]({{< var ref-infraspinatus.palpation >}})
+    - [Teres minor]({{< var ref-teres-minor.palpation >}})
+    - [Teres major]({{< var ref-teres-major.palpation >}})
+    - [Latissimus dorsi]({{< var ref-latissimus-dorsi.palpation >}})
+
+
+## Supine
+
+- [Anterior&rarr;Posterior GHJ glide to assess joint mobility, tendon gliding, and capsular mobility]({{< var ref-glenohumeral-joint.a-p-glide >}})
+- [Superior&rarr;inferior GHJ glide assessment]({{< var ref-glenohumeral-joint.sup-inf-glide >}})
+- [Subscapularis]({{< var ref-subscapularis.palpation >}})
+
+
+
+
+# Treatment
+
+## Prone
+
+
+- GHJ P&rarr;A glide
+- GHJ Sup&rarr;Inf Glide
+- Upper trapezius
+- [Levator scapulae]({{< var ref-levator-scapulae.release >}})
+- [Rhomboid major]({{< var ref-rhomboid-major.release >}}) and [minor]({{< var ref-rhomboid-minor.release >}})
+- middle trapezius
+- Lower trapezius
+- [Latissimus Dorsi]({{< var ref-latissimus-dorsi.release >}})
+- Press between the ribs when working through the muscles in the back
+- When working on [serratus anterior]({{< var ref-serratus-anterior.release >}}), apply your pressure *on* the ribs since the muscle belly attaches *on* the ribs @jonesProjectFoundations2025.
+- RTC
+    - [Supraspinatus]({{< var ref-supraspinatus.palpation >}})
+    - [Infraspinatus]({{{< var ref-infraspinatus.palpation >}}})
+    - [Teres minor]({{< var ref-teres-minor.palpation >}})
+- [Teres major]({{< var ref-teres-major.release >}})
+
+
+## Supine
+
+- [Supraspinatus]({{< var ref-supraspinatus.release >}})
+- [Upper trapezius]({{< var ref-upper-trapezius.release >}})
+- Inferior clavicle
+    - [Subclavius]({{< var ref-subclavius.release >}})
+    - [Pectoralis major clavicular insertion]({{< var ref-pectoralis-major.release >}})
+- Anterior GHJ
+    - Tendon and capsule pin while posteriorly gliding the humeral head
+- Superior GHJ
+    - Inferior glide humeral head while bringing the arm into abduction
+- [Subscapularis release]({{< var ref-subscapularis-release >}})
+
+- [1st rib inferior mobilization with scalene release]({{< var ref-1st-rib-bone.release >}})
+- [Scapula depression and superior glide with movement and Upper trapezius release]({{< var ref-scapulothoracic-joint.release >}})
+- Median nerve tensioning
+- Radial nerve tensioning
+- Brachial plexus axillary release
+
+
 # Special tests
+
+
+::: {.callout-important}
+Special tests are useful when attempting to diagnose the integrity of a certain structure, but should not distract you from taking an [inventory](#inventory) of all of the surrounding structures.
+:::
+
 
 - RTC
     - Subscap: Bear hug, Liftoff test
@@ -218,7 +449,18 @@ Special tests for the shoulder have multiple issues.
 :::
 
 
+
+
 # ROM interventions
+
+| Exercise | Movement | Scapula |
+|-|-|-|
+| T | 30&deg; above the transverse plane </br> scapular plane flexion | retraction |
+| Y | Scapular flexion | Retraction + upward rotation + posterior tilt |
+| I | Pure Flexion | Retraction + upward rotation + posterior tilt |
+
+- Shoulder Ws
+- Shoulder WERs
 
 {{< video https://www.youtube.com/watch?v=I6eG45K29L0 >}}
 

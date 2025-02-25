@@ -52,8 +52,15 @@ else:
 
 ```
 
+# Overview
+
+The serratus anterior is a fan-shaped muscle that spans the lateral wall of the thorax @jonesProjectFoundations2025.
+Most of the muscle belly lies deep to the scapula.
+The serratus inserts on the ribs, creating a sawtooth or "serrated" appearance @jonesProjectFoundations2025.
+
+
 # Origin {#origin}
-1-9th ribs @gilroyAtlasAnatomy2020
+1-9th ribs [@gilroyAtlasAnatomy2020; @jonesProjectFoundations2025]
 
 # Insertion {#insertion}
 
@@ -71,9 +78,15 @@ The Serratus Anterior is solely innervated by the [Long Thoracic N.]({{< var ref
 # Action {#action}
 
 
-- **Entire muscle**: Draws scapula laterally forward, elevates ribs when shoulders are fixed @gilroyAtlasAnatomy2020
-- **Superior part**: Lowers the raised arm @gilroyAtlasAnatomy2020 
+- **Entire muscle**: 
+    - Draws scapula laterally forward, elevates ribs when shoulders are fixed @gilroyAtlasAnatomy2020.
+    - Anterolateral movement of the scapula along the ribs @jonesProjectFoundations2025.
+- **Superior part**: Lowers the raised arm @gilroyAtlasAnatomy2020 by depressing the scapula @jonesProjectFoundations2025.
 - **Inferior part**: Rotates inferior angle of scapula laterally forward (allows elevation of arm above 90°) @gilroyAtlasAnatomy2020
+
+The superior and inferior parts of the serratus anterior have antagonistic actions in the vertical plane, which is why when the entire muscle activates, the scapula has no vertical translation.
+
+The serratus anterior functions to stabilize the scapula, which provides proximal stability for the shoulder joint @jonesProjectFoundations2025.
 
 
 
@@ -84,12 +97,25 @@ The Serratus Anterior (along with the rhomboids) serves to aid in scapular stabi
 
 ![Superior View of the shoulder: You can see how the rhomboids and SA both actively stabilize the scapulothoracic joint by pulling the scapula towards the thoracic wall @duttonDuttonOrthopaedicExamination2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/images/Dutton fig16.2 Superior aspect of shoulder.png)
 
+# Release {#release}
+
+Prone release
+
+- Support the anterior shoulder with one arm
+- Start at the lateral border of the scapula and palpate through to feel the serratus anterior's [origin on ribs 1-9](#origin) @jonesProjectFoundations2025.
+- Press *on* the muscle *on* the rib.
+- Do not press between the ribs
+
+
 
 # Paralysis
+Causes:
 
 - SCI
 - peripheral nerve injury
 - Nerve root?
 - botox?
+
+Serratus anterior paralysis can result in detachment of the scapula from the thorax known as "scapular winging."
 
 ## Functional ramifications

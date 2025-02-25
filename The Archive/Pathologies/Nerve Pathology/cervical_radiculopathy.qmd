@@ -27,3 +27,8 @@ title: Cervical Radiculopathy
 # Tests
 
 - Spurling's Test
+
+
+# Treatment
+
+- [1st rib inferior mobilization with scalene release]({{< var ref-1st-rib-bone.release >}})

@@ -8,8 +8,8 @@ title: Pectoralis Minor
 
 ![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}
 
-```{python tbl-oian}
-#| label: tbl-oian
+```{python tbl-pectoralis-minor-oian}
+#| label: tbl-pectoralis-minor-oian
 #| warning: false
 #| message: false
 #| echo: false
@@ -44,8 +44,14 @@ else:
 
 ```
 
+# Overview
+
+The pectoralis minor lies on the anterior aspect of the thorax, deep to the pectoralis minor @jonesProjectFoundations2025.
+
+The pectoralis minor is a 1-joint muscle acting solely on the scapulothoracic joint whereas the pectoralis major is a 2-joint muscle acting on the GHJ and STJ.
+
 # Origin {#origin}
-[3rd to 5th ribs]({{< var ref-rib-bones.path >}}) @gilroyAtlasAnatomy2020
+Upper margins @jonesProjectFoundations2025 of [3rd to 5th ribs]({{< var ref-rib-bones.path >}}) [@gilroyAtlasAnatomy2020; @jonesProjectFoundations2025]
 
 # Insertion {#insertion}
 [Coracoid process]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
@@ -55,7 +61,13 @@ else:
 
 # Action {#action}
 
-- Scapulothoracic: Depression, protraction, downward rotation @gilroyAtlasAnatomy2020
-- Assists in respiration @gilroyAtlasAnatomy2020 
+- Scapulothoracic: 
+    - Assists in Depression [@gilroyAtlasAnatomy2020; @jonesProjectFoundations2025] resulting in the glenoid facing inferiorly [@jonesProjectFoundations2025].
+    - Protraction [@gilroyAtlasAnatomy2020; @jonesProjectFoundations2025]
+    - Downward rotation @gilroyAtlasAnatomy2020
+
+When the scapula is fixed, the pectoralis minor can act on the ribs @jonesProjectFoundations2025 and assist in respiration @gilroyAtlasAnatomy2020 
+
+The pectoralis minor can be used as an accessory muscle of inspiration @jonesProjectFoundations2025.
 
 

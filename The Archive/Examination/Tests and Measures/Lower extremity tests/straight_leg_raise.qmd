@@ -23,6 +23,7 @@ title: Straight Leg raise
 
 # Contract-Relax Technique {#contract-relax}
 
+[contract-relax]({{< var ref-contract-relax.path >}})
 
 ## Alignment focused
 

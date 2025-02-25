@@ -1,0 +1,11 @@
+---
+title: Medial Coracoclavicular Ligament
+subtitle: Coracoclavicular ligament
+---
+
+
+
+[Medial coracoclavicular]({{< var ref-medial-coracoclavicular-ligament.path >}}), [Conoid]({{< var ref-conoid-ligament.path >}}), and [trapezoid]({{< var ref-trapezoid-ligament.path >}}) ligaments are the 3 coracoclavicular ligaments @jonesProjectFoundations2025.
+
+
+

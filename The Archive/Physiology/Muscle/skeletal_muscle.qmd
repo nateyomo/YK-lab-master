@@ -3,12 +3,15 @@ title: Skeletal Muscle
 ---
 
 
+![@OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig10.3 The Three Connective Tissue Layers Bundles of muscle fibers, called fascicles, are covered by the perimysium. Muscle fibers are covered by the endomysium.jpeg){#fig-openstax-fig10.3}
 
 
 # Tone {#tone}
 
-
 Skeletal muscle tone refers to baseline contraction or "tautness" the skeletal muscles have at rest @hallGuytonHallTextbook2021.
+
+
+
 Skeletal muscles do not contract without the action potential from the fibers, this tone is the product of low rate nerve impulses from the spinal cord @hallGuytonHallTextbook2021.
 These *low level nerve impulses* are modulated partially by the brain and partially by the muscle spindles @hallGuytonHallTextbook2021.
 The brain sends afferent signals to the anterior motoneurons of the spinal cord @hallGuytonHallTextbook2021.
@@ -23,8 +26,152 @@ The muscle spindle within the skeletal muscle sends signals to the muscle belly 
 - See DNS chapter "Examination of muscle tone" @DynamicNeurologicalStabilizationClinicalRehabilitation2014
 :::
 
+## Dysfunction
+
+Tone dysfunction can be divided into hypertonia, paratonia, or dystonia.
+
+*Spasticity* and *rigidity* are the two types of hypertonia.
+These forms of hypertonia result from dysfunction in the supraspinal pathways and the interaction between spinal cord and muscle spindle @gangulyMuscleTonePhysiology2021.
+
+Dystonia and paratonia are *not* related to physiological dysfunction in tone pathways @gangulyMuscleTonePhysiology2021.
+The other two disorders of altered tone, namely dystonia and paratonia, are not exactly related to the physiological dysfunction of the tone pathways @gangulyMuscleTonePhysiology2021.
+
+In the motor control system, spasticity and rigidity are primarily an "output system" problem, whereas *dystonia* is a "system level processing" problem @gangulyMuscleTonePhysiology2021.
+
+Dystonia and paratonia have altered tone secondary to network disruption in the basal ganglia, the thalamocortical circuits, and their connections.
+
+# Motor control
+
+Intrinsic motor control of a muscle is almost entirely dictate by information from [muscle spindles]({{< var ref-muscle-spindle.path >}}) and [golgi tendon organs]({{< var ref-golgi-tendon-organ.path >}})
 
 # Muscle spindle {#muscle-spindle}
+
+
+Muscle spindles are special sensory receptors located in the muscle belly that transmit *muscle length* and *rate of change of muscle length* to the nervous system @hallGuytonHallTextbook2021.
+
+- Muscle spindles are ~3-10mm in length @hallGuytonHallTextbook2021
+- Muscle spindles are surrounded by 3-12 [intrafusal fibers](#intrafusal-fibers) @hallettFunctionalNeurologicDisorders2016
+- The [intrafusal fibers](#intrafusal-fibers) are pointed at the ends of the muscle spindle and attach to the glycocalyx of the [extrafusal fibers](#extrafusal-fibers) @hallGuytonHallTextbook2021.
+
+The midportion of the muscle spindle contains its sensory "stretch" receptors @hallGuytonHallTextbook2021.
+There are 2 ways a muscle spindle can be excited:
+
+1. Lengthening of the entire muscle results in a stretch of the midportion of the muscle spindle @hallGuytonHallTextbook2021.
+1. Contraction at both ends of the muscle spindle @hallGuytonHallTextbook2021.
+
+There are 2 sensory endings in the midportion of the muscle spindle: [type Ia afferent](#type-ia-afferent) and [type II afferent](#type-ii-afferent)
+
+## Sensory endings
+
+### Type Ia afferent {#type-ia-afferent}
+
+- AKA "primary ending" or "annulospiral ending" @hallGuytonHallTextbook2021
+- Refers to a large sensory nerve fiber that encircles the central (receptor) portion of each intrafusal fiber @hallGuytonHallTextbook2021
+- Found in the center of the muscle spindle @hallGuytonHallTextbook2021  
+- ~17&micro;m in diameter @hallGuytonHallTextbook2021.
+- Transmission velocity: 70-120 m/s (fast as any type of nerve fiber in the body) @hallGuytonHallTextbook2021.
+
+Type Ia afferents are excited by **both** [nuclear bag fibers](#nuclear-bag-fibers) and [nuclear chain fibers](#nuclear-chain-fibers) @hallGuytonHallTextbook2021.
+This allows type Ia afferents to receive and transmit information about **both** length of receptor (static response) and rate of change of receptor length (dynamic response) @hallGuytonHallTextbook2021.
+
+### Type II afferent {#type-ii-afferent}
+
+- [Type II afferent]({{< var ref-type-ii-afferent.path >}}) AKA "secondary afferent ending" @hallGuytonHallTextbook2021
+- Sometimes encircles intrafusal fibers similar to [type Ia fibers](#primary-ending) but more often spreads out like branches known as "flowerspray endings" @hallGuytonHallTextbook2021.
+- ~8&micro;m diameter @hallGuytonHallTextbook2021
+
+Type II afferents receive information **only** from [nuclear chain fibers](#nuclear-chain-fibers) @hallGuytonHallTextbook2021.
+As a result, type II afferents can only receive and transmit information regarding length of a receptor (static response) @hallGuytonHallTextbook2021.
+
+## Intrafusal fibers {#intrafusal-fiber}
+
+Intrafusal fibers are tiny skeletal muscle fibers.
+Intrafusal fibers are distinct from [extrafusal fibers](#extrafusal-fibers) since intrafusal fibers have little to no actin and myosin filaments between its two ends @hallGuytonHallTextbook2021.
+As a result, when activated, the central portion of the intrafusal muscle fiber does *not* contract when the ends contract, but rather functions as a sensory receptor @hallGuytonHallTextbook2021.
+
+The central portion of the intrafusal fiber is encircled by a large [type Ia afferent]({{< var ref-type-ia-afferent.path >}}) which forms the *primary ending* (annulospiral ending) and transmits sensory afferent signals to the spinal cord @hallGuytonHallTextbook2021.
+
+Motor signals from the small [type A &gamma;-motor neurons]({{< var ref-type-A-gamma-motor-neuron >}}) in the [anterior horn of the spinal cord]() are sent through [&gamma;-motor neurons]({{< var ref-gamma-motor-neuron.path >}}) to activate the [intrafusal fibers]({{< var ref-skeletal-muscle.intrafusal-fibers >}}) causing its ends containing actin and myosin to contract [@gangulyMuscleTonePhysiology2021; @hallGuytonHallTextbook2021].
+
+There are 2 types of intrafusal fiber: [Nuclear bag fibers](#nuclear-bag-fibers) and [nuclear chain fibers](#nuclear-chain-fibers) @hallGuytonHallTextbook2021.
+
+### Nuclear bag fibers {#nuclear-bag-fiber}
+
+- 1-3 per muscle spindle @hallGuytonHallTextbook2021
+- These get their name since the nuclear are congregated into "bags" in the central portion of the intrafusal fiber @hallGuytonHallTextbook2021.
+
+Nuclear bag fibers can only activate [type Ia afferents]() and *cannot* activate [type II afferents]() @hallGuytonHallTextbook2021.
+
+### Nuclear chain fibers {#nuclear-chain-fiber}
+
+- 3-9 per muscle spindle @hallGuytonHallTextbook2021
+- 50% smaller than [nuclear bag fibers](#nuclear-bag-fibers) @hallGuytonHallTextbook2021.
+- 50% shorter than [nuclear bag fibers](#nuclear-bag-fibers) @hallGuytonHallTextbook2021.
+- The name "chain" comes from the way the nuclei are aligned in a chain through the receptor area @hallGuytonHallTextbook2021.
+
+Nuclear chain fibers can activate both [type II afferents]({{< var ref-type-ii-afferent.path >}}) and [type Ia afferents]({{< var ref-type-ia-afferent.path >}}) @hallGuytonHallTextbook2021.
+
+## Responses
+
+There are 2 responses detected by the muscle spindle:
+
+1. Static response: Length of the receptor changes
+1. Dynamic response: Rate of change of receptor length
+
+### Static response
+
+The static response refers to a receptor response to change in the length of the receptor.
+
+The static response occurs when the central (receptor) portion of the intrafusal fibers are stretched **slowly** @hallGuytonHallTextbook2021.
+During this, the [nuclear chain fibers](#nuclear-chain-fibers) are activated and transmit signals to the [type Ia]({{< var ref-type-ia-afferent.path >}}) and [II]({{< var ref-type-ii-afferent.path >}}) afferents.
+The number of signals transmitted by [type Ia]({{< var ref-type-ia-afferent.path >}}) and [II]({{< var ref-type-ii-afferent.path >}}) afferents is **directly proportional** to the **amount of stretch** @hallGuytonHallTextbook2021.
+
+The [type Ia]({{< var ref-type-ia-afferent.path >}}) and [II]({{< var ref-type-ii-afferent.path >}}) afferents will continue to send these signals for several minutes @hallGuytonHallTextbook2021.
+
+### Dynamic response
+
+The dynamic response refers to the *rate* of change in receptor length @hallGuytonHallTextbook2021.
+
+The dynamic response occurs when the central (receptor) portion of the intrafusal fibers are stretched suddenly @hallGuytonHallTextbook2021.
+The [nuclear bag fibers](#nuclear-bag-fibers) detect this rapid and sudden stretch and transmit this signal to *only* the [type Ia afferent] @hallGuytonHallTextbook2021.
+
+This is a *powerful* activation, much stronger than the [static response](#static-response) @hallGuytonHallTextbook2021.
+
+This can be activated even when the intrafusal fiber is stretched &lt;1&micro;m for a fraction of a second and will still result in a powerful activation, sending a high number of impulses through the [type Ia afferent]({{< var ref-type-ia-afferent.path >}}) @hallGuytonHallTextbook2021.
+This powerful stimulation only occurs while the **length is actually increasing** and it stops and returns to the [static response](#static-response) @hallGuytonHallTextbook2021.
+
+::: {.callout-note}
+Shortening of the intrafusal fiber can also incur a response, notifying the spinal cord of a decrease in intrafusal length @hallGuytonHallTextbook2021.
+:::
+
+## Motor efferents {#gamma-efferent}
+
+&gamma;-motor efferents are important in controlling the *intensity* of the [static](#static-response) and [dynamic responses](#dynamic-response) @hallGuytonHallTextbook2021.
+
+There are two types:
+
+1. [&gamma;-dynamic efferents (&gamma;-d)](#gamma-dynamic)
+1. [&gamma;-static efferents (&gamma;-s)](#gamma-static)
+
+### Gamma-dynamic {#gamma-dynamic}
+
+Mainly excites [nuclear bag intrafusal fibers](#nuclear-bag-fibers) @hallGuytonHallTextbook2021.
+
+When the &gamma;-d efferents excite the [nuclear bag fibers]({{< var ref-intrafusal-fiber.nuclear-bag-fiber >}}), this *enhances* the [dynamic response]({{< var ref-muscle-spindle.dynamic-response >}}) and negligibly impacts the [static response]({{< var ref-muscle-spindle.static-response >}}) @hallGuytonHallTextbook2021.
+
+### Gamma-static {#gamma-static}
+
+Mainly excites the [nuclear chain intrafusal fibers](#nuclear-chain-fibers) @hallGuytonHallTextbook2021.
+
+&gamma;-s excitation of the [nuclear chain fibers]({{< var ref-intrafusal-fiber.nuclear-chain-fiber >}}) *enhances* the [static response]({{< var ref-muscle-spindle.static-response >}}) and negligibly impacts the [dynamic response]({{< var ref-muscle-spindle.dynamic-response >}}) @hallGuytonHallTextbook2021.
+
+
+
+# Extrafusal fibers {#extrafusal-fiber}
+
+
+The [&alpha;-motor neurons (type A&alpha-nerve fiber)]({{< var ref-alpha-motor-neuron.path >}}) activate the [extrafusal fibers]({{< var ref-skeletal-muscle.extrafusual-fibers >}}) [@gangulyMuscleTonePhysiology2021; @hallGuytonHallTextbook2021].
+
 
 
 

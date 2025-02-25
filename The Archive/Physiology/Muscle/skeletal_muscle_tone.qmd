@@ -1,0 +1,337 @@
+---
+title: Muscle tone
+---
+
+
+# Definition
+
+Muscle tone has many definitions, which can lead to misconceptions of this concept.
+
+Traditionally, tone refers "the tension in the relaxed muscle" or "the resistance, felt by the examiner during passive stretching of a joint when the muscles are at rest" @gangulyMuscleTonePhysiology2021.
+This definition is too ambiguous and different interpretations lead to variation in clinical diagnoses.
+
+- What does resistance to passive stretch mean? @gangulyMuscleTonePhysiology2021
+- "Felt by examiner" is too subjective @gangulyMuscleTonePhysiology2021.
+
+Some studies have attempted to define muscle tone as "baseline EMG activity at a relaxed state," but this is imperfect as well @gangulyMuscleTonePhysiology2021.
+Muscle tone includes a passive viscoelastic component independent of its active neural activity which is **undetectable by EMG** @gangulyMuscleTonePhysiology2021.
+
+
+Skeletal muscle tone refers to baseline contraction or "tautness" the skeletal muscles have at rest @hallGuytonHallTextbook2021.
+
+
+Mathematical definitions have been developed to define muscle tone (see @eq-force-tissue-displacement) @gangulyMuscleTonePhysiology2021.
+
+$$
+\textrm{Muscle tone} = \frac{\Delta \textrm{Force}}{\Delta \textrm{Displacement of tissue}}
+$$ {#eq-force-tissue-displacement}
+
+$$
+R_{\text{total}} = R_{\text{inertia}} + R_{\text{stretch resistance}} + R_{\text{Resistance to velocity}}
+$$ {#eq-relaxed-state}
+
+These mathematical definitions make an incorrect assumption that the person is in a *completely* relaxed state, which is almost impossible to achieve without pharmeceuticals @gangulyMuscleTonePhysiology2021.
+
+Bernstein created an alternative definition, by hypothesizing that muscle tone is the "state of preparedness to movement" @gangulyMuscleTonePhysiology2021.
+If true, then we should not measure muscle tone by asking a person to fully relax and *not* make any movement @gangulyMuscleTonePhysiology2021.
+
+
+Carpenter created a similar hypothesis, defining tone as “the constant muscular activity that is necessary as a background to actual movement in order to maintain the basic attitude of the body, particularly against the force of gravity” @gangulyMuscleTonePhysiology2021.
+
+# Classification
+
+Muscle tone can be classified in different ways.
+When classifying tone based on the physiological process inciting the tone, we can create two classifications: [*Postural tone* and *Phasic tone*](#postural-and-phasic-tone) @gangulyMuscleTonePhysiology2021.
+we can also view tone based on the processes by which resistance to stretch occurs: [*active* and *Passive* tone](#active-passive) @gangulyMuscleTonePhysiology2021.
+
+## Postural & Phasic tone {#postural-phasic}
+
+**Postural tone** is observed in axial muscles where gravity is the most important inciting factor.
+Gravity applies a steady stretch on the muscles and tendons, which is countered by a prolonged muscle contraction known as "postural tone" @gangulyMuscleTonePhysiology2021.
+
+**Phasic tone** is what we commonly think of as "muscle tone" and is found in the extremities @gangulyMuscleTonePhysiology2021.
+Phasic tone is observed as a rapid and short duration response resulting from muscle spindle activation following a *rapid* stretch on the tendon and muscle @gangulyMuscleTonePhysiology2021.
+
+
+
+## Active & Passive {#active-passive}
+
+
+
+"The viscoelastic component in turn depends upon multiple factors like the sarcomeric actin-myosin cross-bridges, the viscosity, elasticity, and extensibility of the contractile filaments, filamentous connection of the sarcomeric non-contractile proteins (e.g., desmin, titin), osmotic pressure of the cells, and also on the surrounding connective tissues [3,4]" @gangulyMuscleTonePhysiology2021.
+
+
+
+
+
+# Physiology
+
+::: {.callout}
+Skeletal muscles do not contract without the action potential from the fibers, this tone is the product of low rate nerve impulses from the spinal cord @hallGuytonHallTextbook2021.
+These *low level nerve impulses* are modulated partially by the brain and partially by the muscle spindles @hallGuytonHallTextbook2021.
+The brain sends afferent signals to the anterior motoneurons of the spinal cord @hallGuytonHallTextbook2021.
+The muscle spindle within the skeletal muscle sends signals to the muscle belly itself @hallGuytonHallTextbook2021.
+:::
+
+
+
+
+
+
+::: {.callout}
+
+- See Chapter 55 @hallGuytonHallTextbook2021 for an in depth explanation of 
+
+:::
+
+# Regulation
+
+| Level | Structures |
+|-|-|
+| [Supraspinal](#supraspinal-control) | Interaction between facilitory and inhibitory long tracts and cerebellum |
+| [Spinal](#spinal-control) | Interaction between muscle spindle, spinal cord, and interneurons |
+: @gangulyMuscleTonePhysiology2021 {.striped}
+
+## Supraspinal control {#supraspinal-control}
+
+
+
+## Spinal control {#spinal-control}
+
+
+## Stretch detection
+
+Spinal control is dependent on sensory afferents providing information about a stretch a certain muscle and its tendon are experiencing.
+The intrafusal fibers of the [muscle spindle]({{< var ref-muscle-spindle.path >}}) detect change and rate of change in muscle length while the [golgi tendon organ (GTO)]({{< var ref-golgi-tendon-organ.path >}}) are located in the tendon and detect tendon stretching @gangulyMuscleTonePhysiology2021.
+
+During a dynamic stretch, the muscle spindle detects changes in muscle length and transmits these signals via *type Ia afferents* @gangulyMuscleTonePhysiology2021.
+
+Tonic activity during Steady-state length is a static response which is transmitted through both *type Ia* and *type II* afferents @gangulyMuscleTonePhysiology2021.
+
+Tendon stretching detected by the [GTOs]({{< var ref-golgi-tendon-organ.path >}}) is transmitted to the spinal cord via *type Ib afferents* @gangulyMuscleTonePhysiology2021.
+
+
+## Stretch-reflex
+
+These muscle spindle signals travelling through [type Ia]({{< var ref-type-ia-afferent.path >}}) and [II]({{< var ref-type-ii-afferent.path >}}) active the *stretch-reflex* @gangulyMuscleTonePhysiology2021.
+A motor efferent signal is transmitted through [alpha-motor (&alpha;-motor)]({{< var ref-alpha-motor-neuron.path >}}) and [gamma-motor (&gamma;-motor)]({{< var ref-gamma-motor-neuron.path >}}) neurons @gangulyMuscleTonePhysiology2021.
+The [&alpha;-motor neurons]({{< var ref-alpha-motor-neuron.path >}}) activate the [extrafusal fibers]({{< var ref-skeletal-muscle.extrafusual-fibers >}}) @gangulyMuscleTonePhysiology2021.
+The [&gamma;-motor neurons]({{< var ref-gamma-motor-neuron.path >}}) activate the [intrafusal fibers]({{< var ref-skeletal-muscle.intrafusul-fibers >}}) @gangulyMuscleTonePhysiology2021.
+
+The stretch reflex can come in 2 forms: **Dynamic** or **static** @gangulyMuscleTonePhysiology2021.
+
+
+### Dynamic stretch reflex
+The dynamic type of *stretch reflex* is created when a muscle is suddenly and rapidly stretched @gangulyMuscleTonePhysiology2021.
+This change in rate/velocity stimulates the annulospiral endings and the sigmal is transmitted via *nuclear bag fibers* and [type Ia afferents]({{< var ref-type-ia-afferent.path >}}) to the spinal cord @gangulyMuscleTonePhysiology2021.
+
+At the spinal cord, the afferent stretch signal is received, processed, and an efferent motor signal is created @gangulyMuscleTonePhysiology2021.
+The efferent motor signal is sent through [&alpha;-motor efferents]({{< var ref-alpha-motor-neuron.path >}})
+
+Efferent motor signal from the spinal cord through [&alpha;-motor neurons]({{< var ref-alpha-motor-efferent.path >}}) to extrafusal fibers, resulting in sudden, *synchronous* contraction of the muscle known as the dynamic stretch reflex @gangulyMuscleTonePhysiology2021.
+The synchonicity of the contract makes the muscle have a strong contractile response @gangulyMuscleTonePhysiology2021.
+
+::: {.callout-tip}
+This process is the basis of producing deep tendon reflexes @gangulyMuscleTonePhysiology2021.
+:::
+
+### Sustained Stretch Reflex
+
+During a sustained stretch, we elicit a *sustained stretch reflex* which is known as 
+
+"On the other hand, sustained stretch of the muscle stimulates nuclear chain fibers and type II afferents (flowerspray endings) carry the signal to cord. 
+Efferent signal from the cord travels via alpha efferents to extrafusal fibers. 
+However, this time there will be asynchronous contraction of the extrafusal muscle fibers (motor units not discharging all together) that will result in mild sustained contraction of these fibers as long as it is stretched. 
+This static stretch reflex response is the physiological basis of maintaining muscle tone" @gangulyMuscleTonePhysiology2021
+
+
+
+# Static response loop
+
+- &gamma;-s motor efferents
+
+# Dynamic response loop
+
+
+- &gamma;-d motor efferents
+
+# Dysfunction
+
+Tone dysfunction can be divided into hypertonia, paratonia, or dystonia.
+
+*Spasticity* and *rigidity* are the two types of hypertonia.
+These forms of hypertonia result from dysfunction in the supraspinal pathways and the interaction between spinal cord and muscle spindle @gangulyMuscleTonePhysiology2021.
+
+Dystonia and paratonia are *not* related to physiological dysfunction in tone pathways @gangulyMuscleTonePhysiology2021.
+The other two disorders of altered tone, namely dystonia and paratonia, are not exactly related to the physiological dysfunction of the tone pathways @gangulyMuscleTonePhysiology2021.
+
+In the motor control system, spasticity and rigidity are primarily an "output system" problem, whereas *dystonia* is a "system level processing" problem @gangulyMuscleTonePhysiology2021.
+
+Dystonia and paratonia have altered tone secondary to network disruption in the basal ganglia, the thalamocortical circuits, and their connections.
+
+
+
+::: {#tbl-spasticity-rigidity}
+<table class="basic-table">
+  <thead>
+    <tr>
+      <th>Differentiating points</th>
+      <th>Spasticity</th>
+      <th>Rigidity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Velocity dependency</td>
+      <td>Yes</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Resistance to movement</td>
+      <td>Unidirectional <br> (flexion or extension)</td>
+      <td>Bidirectional</td>
+    </tr>
+    <tr>
+      <td>Length dependency</td>
+      <td>Yes</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Type of hypertonicity</td>
+      <td><em>Clasp-knife</em></td>
+      <td><em>Lead pipe</em> or <em>Cog-wheel</em></td>
+    </tr>
+  </tbody>
+</table>
+
+Spasticity versus rigidity @gangulyMuscleTonePhysiology2021
+:::
+
+
+::: {#tbl-pathophysiology-spasticity-rigidity-dystonia-paratonia}
+
+<table class="basic-table">
+    <thead>
+        <tr>
+            <th>Tone Abnormalities</th>
+            <th colspan="2">Basic Pathophysiology</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="4">[Spasticity]({{< var ref-spasticity.path >}})</td>
+            <td>1</td>
+            <td>Alterations in spinal excitatory and spinal inhibitory circuitry resulting in increased excitation and decreased inhibition</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Supraspinal influence primarily involving inhibitory drive from dorsal reticulospinal tract and facilitatory drive from medial reticulospinal tract</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Abnormal sensory feedback</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Non-neural or "passive" factors such as viscoelastic properties of muscle and surrounding connective tissue</td>
+        </tr>
+        <tr style="border-top: 1px solid black;">
+            <td rowspan="5">[Rigidity]({{< var ref-rigidity.path >}})</td>
+            <td>1</td>
+            <td>Exaggeration of long-latency stretch reflexes (LLSR)</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Enhancement of *shortening reaction (SR)* and *stretch-induced inhibition (SII)*</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Dysfunction of brainstem circuitry </br> (sublaterodorsal nucleus, nucleus reticularis gigantocellularis (NRGC), locus coeruleus, caudal raphse, and pedunculopontine nucleus)</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td></td>
+        </tr>
+        <tr style="border-top: 1px solid black;">
+            <td rowspan="4">[Dystonia]({{< var ref-dystonia.path >}})</td>
+            <td>1</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td></td>
+        </tr>
+        <tr style="border-top: 1px solid black;">
+            <td rowspan="2">[Paratonia]({{< var ref-paratonia.path >}})</td>
+            <td>1</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+Pathophysiological basis of spasticity, rigidity, dystonia, and paratonia @gangulyMuscleTonePhysiology2021
+
+:::
+
+# Examination
+
+::: {.callout}
+
+
+- See DNS chapter "Examination of muscle tone" @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+:::
+
+- Velocity dependency
+- Resistance to movement
+- Length dependency
+- Type of hypertonicity
+
+# Orthopedic "Tone"
+
+Throughout my (@ngy) year of clinical rotations, I repeated the language of my clinical instructors, and claimed that patients with tight or overactive muscles as being "high tone" or "hypertonic."
+
+
+# Spasticity {#spasticity}
+
+- [Lateral reticulospinal tract]({{< var ref-lateral-reticulospinal-tract.path >}})
+- [Medial reticulospinal tract]({{< var ref-medial-reticulospinal-tract.path >}})
+
+# Clasp-knife phenomenon
+
+# Rigidity {#rigidity}
+
+- [Long-latency stretch reflexes (LLSR)]({{< var ref-long-latency-stretch-reflex.path >}})
+- Shortening reaction (SR)
+- Stretch-induced inhibition (SII)
+- [Sublaterodorsal nucleus]({{< var ref-sublaterodorsal-nucleus.path >}})
+- [Nucleus reticularis gigantocellularis (NRGC)]({{< var ref-nucleus-reticularis-gigantocellularis.path >}})
+- [Locus coeruleus]({{< var ref-locus-coeruleus.path >}})
+- [Caudal raphe nucleus]({{< var ref-caudal-raphe-nucleus.path >}})
+- [Pedunculopontine nucleus (PPN)]({{< var ref-pedunculopontine-nucleus.path >}})
+
+# Dystonia {#dystonia}
+
+- [Pallido-thalamo-cortical network]({{< var ref-pallido-thalamo-cortical-network.path >}})
+- [Cerebello-thalamo-cortical network]({{< var ref-cerebello-thalamo-cortical-network.path >}})
+
+# Paratonia {#paratonia}
+
+- [Orbitofrontal damage]({{< var ref-orbitofrontal.damage >}})
+- [Frontal-subcortical dysfunction]({{< var ref-frontal-subcortical.dysfunction >}})
+- [Advanced glycation end products]({{< var ref-advanced-glycation-end-products.path >}})

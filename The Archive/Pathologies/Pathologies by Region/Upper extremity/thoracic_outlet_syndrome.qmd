@@ -228,7 +228,8 @@ End range limits of DGJ motion can lead to compromise of costoclavicular space a
 Can be addressed w mobs in the elevated arm position (ie humerus gliding ant, post and inf) 
 
 
-First rib mobilization
+- [1st rib mobilization]({{< var ref-1st-rib-bone.mobilization >}})
+- [1st rib inferior mobilization with scalene release]({{< var ref-1st-rib-bone.release >}})
 
 
 CVJ mobilization 

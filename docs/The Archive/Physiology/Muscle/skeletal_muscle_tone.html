@@ -1,0 +1,1255 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.37">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Nate Yomogida">
+<meta name="author" content="Chloë Kerstein">
+
+<title>Muscle tone</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<link href="../../..//images/brain-favicon.png" rel="icon" type="image/png">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-43df0d6f53b733b42d37fa7808e17715.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-2cd373bbd777488a2901da25ac479b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark-30247d3b2cd0522fbeca720c4281c240.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "?",
+    "H"
+  ],
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../../../styles.css">
+<meta name="twitter:title" content="Muscle tone">
+<meta name="twitter:description" content="">
+<meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
+<meta name="twitter:site" content="@yomokerst">
+<meta name="twitter:card" content="summary">
+</head>
+
+<body class="floating nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../branding/Yomokerst/yomokerst heavy condensed.svg" alt="" class="navbar-logo">
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../The Archive/research_and_development_index.html"> 
+<span class="menu-text">R&amp;D</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../journal_club_index.html"> 
+<span class="menu-text">Journal Club</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#definition" id="toc-definition" class="nav-link active" data-scroll-target="#definition">Definition</a></li>
+  <li><a href="#classification" id="toc-classification" class="nav-link" data-scroll-target="#classification">Classification</a>
+  <ul class="collapse">
+  <li><a href="#postural-phasic" id="toc-postural-phasic" class="nav-link" data-scroll-target="#postural-phasic">Postural &amp; Phasic tone</a></li>
+  <li><a href="#active-passive" id="toc-active-passive" class="nav-link" data-scroll-target="#active-passive">Active &amp; Passive</a></li>
+  </ul></li>
+  <li><a href="#physiology" id="toc-physiology" class="nav-link" data-scroll-target="#physiology">Physiology</a></li>
+  <li><a href="#regulation" id="toc-regulation" class="nav-link" data-scroll-target="#regulation">Regulation</a>
+  <ul class="collapse">
+  <li><a href="#supraspinal-control" id="toc-supraspinal-control" class="nav-link" data-scroll-target="#supraspinal-control">Supraspinal control</a></li>
+  <li><a href="#spinal-control" id="toc-spinal-control" class="nav-link" data-scroll-target="#spinal-control">Spinal control</a></li>
+  <li><a href="#stretch-detection" id="toc-stretch-detection" class="nav-link" data-scroll-target="#stretch-detection">Stretch detection</a></li>
+  <li><a href="#stretch-reflex" id="toc-stretch-reflex" class="nav-link" data-scroll-target="#stretch-reflex">Stretch-reflex</a>
+  <ul class="collapse">
+  <li><a href="#dynamic-stretch-reflex" id="toc-dynamic-stretch-reflex" class="nav-link" data-scroll-target="#dynamic-stretch-reflex">Dynamic stretch reflex</a></li>
+  <li><a href="#sustained-stretch-reflex" id="toc-sustained-stretch-reflex" class="nav-link" data-scroll-target="#sustained-stretch-reflex">Sustained Stretch Reflex</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#dysfunction" id="toc-dysfunction" class="nav-link" data-scroll-target="#dysfunction">Dysfunction</a></li>
+  <li><a href="#examination" id="toc-examination" class="nav-link" data-scroll-target="#examination">Examination</a></li>
+  <li><a href="#spasticity" id="toc-spasticity" class="nav-link" data-scroll-target="#spasticity">Spasticity</a></li>
+  <li><a href="#clasp-knife-phenomenon" id="toc-clasp-knife-phenomenon" class="nav-link" data-scroll-target="#clasp-knife-phenomenon">Clasp-knife phenomenon</a></li>
+  <li><a href="#rigidity" id="toc-rigidity" class="nav-link" data-scroll-target="#rigidity">Rigidity</a></li>
+  <li><a href="#dystonia" id="toc-dystonia" class="nav-link" data-scroll-target="#dystonia">Dystonia</a></li>
+  <li><a href="#paratonia" id="toc-paratonia" class="nav-link" data-scroll-target="#paratonia">Paratonia</a></li>
+  </ul>
+</nav>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Muscle tone</h1>
+</div>
+
+
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Authors</div>
+  <div class="quarto-title-meta-heading">Affiliations</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author"><a href="https://yomokerst.com/about.html#ngy">Nate Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Doctor of Physical Therapy
+          </p>
+        <p class="affiliation">
+            B.S. in Kinesiology
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author"><a href="https://yomokerst.com/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Doctor of Physical Therapy
+          </p>
+        <p class="affiliation">
+            B.A. in Neuroscience
+          </p>
+      </div>
+  </div>
+
+<div class="quarto-title-meta">
+
+      
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="definition" class="level1">
+<h1>Definition</h1>
+<p>Muscle tone has many definitions, which can lead to misconceptions of this concept.</p>
+<p>Traditionally, tone refers “the tension in the relaxed muscle” or “the resistance, felt by the examiner during passive stretching of a joint when the muscles are at rest”<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>. This definition is too ambiguous and different interpretations lead to variation in clinical diagnoses.</p>
+<ul>
+<li>What does resistance to passive stretch mean?<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span></li>
+<li>“Felt by examiner” is too subjective<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</li>
+</ul>
+<p>Some studies have attempted to define muscle tone as “baseline EMG activity at a relaxed state,” but this is imperfect as well<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>. Muscle tone includes a passive viscoelastic component independent of its active neural activity which is <strong>undetectable by EMG</strong><span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+<p>Skeletal muscle tone refers to baseline contraction or “tautness” the skeletal muscles have at rest<span class="citation" data-cites="hallGuytonHallTextbook2021"><sup><a href="#ref-hallGuytonHallTextbook2021" role="doc-biblioref">2</a></sup></span>.</p>
+<p>Mathematical definitions have been developed to define muscle tone (see <a href="#eq-force-tissue-displacement" class="quarto-xref">Equation&nbsp;1</a>)<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+<p><span id="eq-force-tissue-displacement"><span class="math display">\[
+\textrm{Muscle tone} = \frac{\Delta \textrm{Force}}{\Delta \textrm{Displacement of tissue}}
+\tag{1}\]</span></span></p>
+<p><span id="eq-relaxed-state"><span class="math display">\[
+R_{\text{total}} = R_{\text{inertia}} + R_{\text{stretch resistance}} + R_{\text{Resistance to velocity}}
+\tag{2}\]</span></span></p>
+<p>These mathematical definitions make an incorrect assumption that the person is in a <em>completely</em> relaxed state, which is almost impossible to achieve without pharmeceuticals<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+<p>Bernstein created an alternative definition, by hypothesizing that muscle tone is the “state of preparedness to movement”<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>. If true, then we should not measure muscle tone by asking a person to fully relax and <em>not</em> make any movement<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+<p>Carpenter created a similar hypothesis, defining tone as “the constant muscular activity that is necessary as a background to actual movement in order to maintain the basic attitude of the body, particularly against the force of gravity”<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+<section id="classification" class="level1">
+<h1>Classification</h1>
+<p>Muscle tone can be classified in different ways. When classifying tone based on the physiological process inciting the tone, we can create two classifications: <a href="#postural-and-phasic-tone"><em>Postural tone</em> and <em>Phasic tone</em></a><span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>. we can also view tone based on the processes by which resistance to stretch occurs: <a href="#active-passive"><em>active</em> and <em>Passive</em> tone</a><span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+<section id="postural-phasic" class="level2">
+<h2 class="anchored" data-anchor-id="postural-phasic">Postural &amp; Phasic tone</h2>
+<p><strong>Postural tone</strong> is observed in axial muscles where gravity is the most important inciting factor. Gravity applies a steady stretch on the muscles and tendons, which is countered by a prolonged muscle contraction known as “postural tone”<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+<p><strong>Phasic tone</strong> is what we commonly think of as “muscle tone” and is found in the extremities<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>. Phasic tone is observed as a rapid and short duration response resulting from muscle spindle activation following a <em>rapid</em> stretch on the tendon and muscle<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+<section id="active-passive" class="level2">
+<h2 class="anchored" data-anchor-id="active-passive">Active &amp; Passive</h2>
+<p>“The viscoelastic component in turn depends upon multiple factors like the sarcomeric actin-myosin cross-bridges, the viscosity, elasticity, and extensibility of the contractile filaments, filamentous connection of the sarcomeric non-contractile proteins (e.g., desmin, titin), osmotic pressure of the cells, and also on the surrounding connective tissues [3,4]”<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+</section>
+<section id="physiology" class="level1">
+<h1>Physiology</h1>
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Skeletal muscles do not contract without the action potential from the fibers, this tone is the product of low rate nerve impulses from the spinal cord<span class="citation" data-cites="hallGuytonHallTextbook2021"><sup><a href="#ref-hallGuytonHallTextbook2021" role="doc-biblioref">2</a></sup></span>. These <em>low level nerve impulses</em> are modulated partially by the brain and partially by the muscle spindles<span class="citation" data-cites="hallGuytonHallTextbook2021"><sup><a href="#ref-hallGuytonHallTextbook2021" role="doc-biblioref">2</a></sup></span>. The brain sends afferent signals to the anterior motoneurons of the spinal cord<span class="citation" data-cites="hallGuytonHallTextbook2021"><sup><a href="#ref-hallGuytonHallTextbook2021" role="doc-biblioref">2</a></sup></span>. The muscle spindle within the skeletal muscle sends signals to the muscle belly itself<span class="citation" data-cites="hallGuytonHallTextbook2021"><sup><a href="#ref-hallGuytonHallTextbook2021" role="doc-biblioref">2</a></sup></span>.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<ul>
+<li>See Chapter 55<span class="citation" data-cites="hallGuytonHallTextbook2021"><sup><a href="#ref-hallGuytonHallTextbook2021" role="doc-biblioref">2</a></sup></span> for an in depth explanation of</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="regulation" class="level1">
+<h1>Regulation</h1>
+<table class="table-striped caption-top table">
+<caption><span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span></caption>
+<thead>
+<tr class="header">
+<th>Level</th>
+<th>Structures</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="#supraspinal-control">Supraspinal</a></td>
+<td>Interaction between facilitory and inhibitory long tracts and cerebellum</td>
+</tr>
+<tr class="even">
+<td><a href="#spinal-control">Spinal</a></td>
+<td>Interaction between muscle spindle, spinal cord, and interneurons</td>
+</tr>
+</tbody>
+</table>
+<section id="supraspinal-control" class="level2">
+<h2 class="anchored" data-anchor-id="supraspinal-control">Supraspinal control</h2>
+</section>
+<section id="spinal-control" class="level2">
+<h2 class="anchored" data-anchor-id="spinal-control">Spinal control</h2>
+</section>
+<section id="stretch-detection" class="level2">
+<h2 class="anchored" data-anchor-id="stretch-detection">Stretch detection</h2>
+<p>Spinal control is dependent on sensory afferents providing information about a stretch a certain muscle and its tendon are experiencing. The intrafusal fibers of the <a href="../../../The Archive/Physiology/Muscle/skeletal_muscle.html#muscle-spindle">muscle spindle</a> detect change and rate of change in muscle length while the <a href="../../..">golgi tendon organ (GTO)</a> are located in the tendon and detect tendon stretching<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+<p>During a dynamic stretch, the muscle spindle detects changes in muscle length and transmits these signals via <em>type Ia afferents</em><span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+<p>Tonic activity during Steady-state length is a static response which is transmitted through both <em>type Ia</em> and <em>type II</em> afferents<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+<p>Tendon stretching detected by the <a href="../../..">GTOs</a> is transmitted to the spinal cord via <em>type Ib afferents</em><span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+<section id="stretch-reflex" class="level2">
+<h2 class="anchored" data-anchor-id="stretch-reflex">Stretch-reflex</h2>
+<p>These muscle spindle signals travelling through <a href="../../../The Archive/Neuroscience/Neuroanatomy/Peripheral nervous system/Sensory afferents/type_Ia_afferent.html">type Ia</a> and <a href="../../../The Archive/Neuroscience/Neuroanatomy/Peripheral nervous system/Sensory afferents/type_II_afferent.html">II</a> active the <em>stretch-reflex</em><span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>. A motor efferent signal is transmitted through <a href="../../../The Archive/Neuroscience/Neuroanatomy/Spinal Cord/spinal_cord.html#alpha-motor-neuron">alpha-motor (α-motor)</a> and <a href="../../../The Archive/Neuroscience/Neuroanatomy/Spinal Cord/spinal_cord.html#gamma-motor-neuron">gamma-motor (γ-motor)</a> neurons<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>. The <a href="../../../The Archive/Neuroscience/Neuroanatomy/Spinal Cord/spinal_cord.html#alpha-motor-neuron">α-motor neurons</a> activate the <a href="?var:ref-skeletal-muscle.extrafusual-fibers">extrafusal fibers</a><span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>. The <a href="../../../The Archive/Neuroscience/Neuroanatomy/Spinal Cord/spinal_cord.html#gamma-motor-neuron">γ-motor neurons</a> activate the <a href="?var:ref-skeletal-muscle.intrafusul-fibers">intrafusal fibers</a><span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+<p>The stretch reflex can come in 2 forms: <strong>Dynamic</strong> or <strong>static</strong><span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+<section id="dynamic-stretch-reflex" class="level3">
+<h3 class="anchored" data-anchor-id="dynamic-stretch-reflex">Dynamic stretch reflex</h3>
+<p>The dynamic type of <em>stretch reflex</em> is created when a muscle is suddenly and rapidly stretched<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>. This change in rate/velocity stimulates the annulospiral endings and the sigmal is transmitted via <em>nuclear bag fibers</em> and <a href="../../../The Archive/Neuroscience/Neuroanatomy/Peripheral nervous system/Sensory afferents/type_Ia_afferent.html">type Ia afferents</a> to the spinal cord<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+<p>At the spinal cord, the afferent stretch signal is received, processed, and an efferent motor signal is created<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>. The efferent motor signal is sent through <a href="../../../The Archive/Neuroscience/Neuroanatomy/Spinal Cord/spinal_cord.html#alpha-motor-neuron">α-motor efferents</a></p>
+<p>Efferent motor signal from the spinal cord through <a href="?var:ref-alpha-motor-efferent.path">α-motor neurons</a> to extrafusal fibers, resulting in sudden, <em>synchronous</em> contraction of the muscle known as the dynamic stretch reflex<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>. The synchonicity of the contract makes the muscle have a strong contractile response<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This process is the basis of producing deep tendon reflexes<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+</div>
+</div>
+</section>
+<section id="sustained-stretch-reflex" class="level3">
+<h3 class="anchored" data-anchor-id="sustained-stretch-reflex">Sustained Stretch Reflex</h3>
+<p>During a sustained stretch, we elicit a <em>sustained stretch reflex</em> which is known as</p>
+<p>“On the other hand, sustained stretch of the muscle stimulates nuclear chain fibers and type II afferents (flowerspray endings) carry the signal to cord. Efferent signal from the cord travels via alpha efferents to extrafusal fibers. However, this time there will be asynchronous contraction of the extrafusal muscle fibers (motor units not discharging all together) that will result in mild sustained contraction of these fibers as long as it is stretched. This static stretch reflex response is the physiological basis of maintaining muscle tone”<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span></p>
+</section>
+</section>
+</section>
+<section id="dysfunction" class="level1">
+<h1>Dysfunction</h1>
+<p>Tone dysfunction can be divided into hypertonia, paratonia, or dystonia.</p>
+<p><em>Spasticity</em> and <em>rigidity</em> are the two types of hypertonia. These forms of hypertonia result from dysfunction in the supraspinal pathways and the interaction between spinal cord and muscle spindle<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+<p>Dystonia and paratonia are <em>not</em> related to physiological dysfunction in tone pathways<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>. The other two disorders of altered tone, namely dystonia and paratonia, are not exactly related to the physiological dysfunction of the tone pathways<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+<p>In the motor control system, spasticity and rigidity are primarily an “output system” problem, whereas <em>dystonia</em> is a “system level processing” problem<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>.</p>
+<p>Dystonia and paratonia have altered tone secondary to network disruption in the basal ganglia, the thalamocortical circuits, and their connections.</p>
+<div id="tbl-spasticity-rigidity" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-spasticity-rigidity-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Spasticity versus rigidity<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>
+</figcaption>
+<div aria-describedby="tbl-spasticity-rigidity-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="basic-table">
+<thead>
+<tr>
+<th>
+Differentiating points
+</th>
+<th>
+Spasticity
+</th>
+<th>
+Rigidity
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+Velocity dependency
+</td>
+<td>
+Yes
+</td>
+<td>
+No
+</td>
+</tr>
+<tr>
+<td>
+Resistance to movement
+</td>
+<td>
+Unidirectional <br> (flexion or extension)
+</td>
+<td>
+Bidirectional
+</td>
+</tr>
+<tr>
+<td>
+Length dependency
+</td>
+<td>
+Yes
+</td>
+<td>
+No
+</td>
+</tr>
+<tr>
+<td>
+Type of hypertonicity
+</td>
+<td>
+<em>Clasp-knife</em>
+</td>
+<td>
+<em>Lead pipe</em> or <em>Cog-wheel</em>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+<div id="tbl-pathophysiology-spasticity-rigidity-dystonia-paratonia" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-pathophysiology-spasticity-rigidity-dystonia-paratonia-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;2: Pathophysiological basis of spasticity, rigidity, dystonia, and paratonia<span class="citation" data-cites="gangulyMuscleTonePhysiology2021"><sup><a href="#ref-gangulyMuscleTonePhysiology2021" role="doc-biblioref">1</a></sup></span>
+</figcaption>
+<div aria-describedby="tbl-pathophysiology-spasticity-rigidity-dystonia-paratonia-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="basic-table">
+<thead>
+<tr>
+<th>
+Tone Abnormalities
+</th>
+<th colspan="2">
+Basic Pathophysiology
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4">
+<a href="../../../The Archive/Physiology/Muscle/skeletal_muscle_tone.html#spasticity">Spasticity</a>
+</td>
+<td>
+1
+</td>
+<td>
+Alterations in spinal excitatory and spinal inhibitory circuitry resulting in increased excitation and decreased inhibition
+</td>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td>
+Supraspinal influence primarily involving inhibitory drive from dorsal reticulospinal tract and facilitatory drive from medial reticulospinal tract
+</td>
+</tr>
+<tr>
+<td>
+3
+</td>
+<td>
+Abnormal sensory feedback
+</td>
+</tr>
+<tr>
+<td>
+4
+</td>
+<td>
+Non-neural or “passive” factors such as viscoelastic properties of muscle and surrounding connective tissue
+</td>
+</tr>
+<tr style="border-top: 1px solid black;">
+<td rowspan="5">
+<a href="../../../The Archive/Physiology/Muscle/skeletal_muscle_tone.html#rigidity">Rigidity</a>
+</td>
+<td>
+1
+</td>
+<td>
+Exaggeration of long-latency stretch reflexes (LLSR)
+</td>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td>
+Enhancement of <em>shortening reaction (SR)</em> and <em>stretch-induced inhibition (SII)</em>
+</td>
+</tr>
+<tr>
+<td>
+3
+</td>
+<td>
+Dysfunction of brainstem circuitry <br> (sublaterodorsal nucleus, nucleus reticularis gigantocellularis (NRGC), locus coeruleus, caudal raphse, and pedunculopontine nucleus)
+</td>
+</tr>
+<tr>
+<td>
+4
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+5
+</td>
+<td>
+</td>
+</tr>
+<tr style="border-top: 1px solid black;">
+<td rowspan="4">
+<a href="../../../The Archive/Physiology/Muscle/skeletal_muscle_tone.html#dystonia">Dystonia</a>
+</td>
+<td>
+1
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+3
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+4
+</td>
+<td>
+</td>
+</tr>
+<tr style="border-top: 1px solid black;">
+<td rowspan="2">
+<a href="../../../The Archive/Physiology/Muscle/skeletal_muscle_tone.html#paratonia">Paratonia</a>
+</td>
+<td>
+1
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+</section>
+<section id="examination" class="level1">
+<h1>Examination</h1>
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<ul>
+<li>See DNS chapter “Examination of muscle tone”<span class="citation" data-cites="DynamicNeurologicalStabilizationClinicalRehabilitation2014"><sup><a href="#ref-DynamicNeurologicalStabilizationClinicalRehabilitation2014" role="doc-biblioref">3</a></sup></span></li>
+</ul>
+</div>
+</div>
+</div>
+<ul>
+<li>Velocity dependency</li>
+<li>Resistance to movement</li>
+<li>Length dependency</li>
+<li>Type of hypertonicity</li>
+</ul>
+</section>
+<section id="spasticity" class="level1">
+<h1>Spasticity</h1>
+<ul>
+<li><a href="../../../The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/reticulospinal_tract.html#lateral-reticulospinal-tract">Lateral reticulospinal tract</a></li>
+<li><a href="../../../The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/reticulospinal_tract.html#medial-reticulospinal-tract">Medial reticulospinal tract</a></li>
+</ul>
+</section>
+<section id="clasp-knife-phenomenon" class="level1">
+<h1>Clasp-knife phenomenon</h1>
+</section>
+<section id="rigidity" class="level1">
+<h1>Rigidity</h1>
+<ul>
+<li><a href="?var:ref-long-latency-stretch-reflex.path">Long-latency stretch reflexes (LLSR)</a></li>
+<li>Shortening reaction (SR)</li>
+<li>Stretch-induced inhibition (SII)</li>
+<li><a href="../../../The Archive/Neuroscience/Neuroanatomy/Pons/sublaterodorsal_nucleus.html">Sublaterodorsal nucleus</a></li>
+<li><a href="../../../The Archive/Neuroscience/Neuroanatomy/Medulla Oblongata/nucleus_reticularis_gigantocellularis_NRGC.html">Nucleus reticularis gigantocellularis (NRGC)</a></li>
+<li><a href="../../../The Archive/Neuroscience/Neuroanatomy/Pons/locus_coeruleus.html">Locus coeruleus</a></li>
+<li><a href="../../../The Archive/Neuroscience/Neuroanatomy/Brainstem/Raphe nuclei/caudal_raphe_nucleus.html">Caudal raphe nucleus</a></li>
+<li><a href="../../../The Archive/Neuroscience/Neuroanatomy/Pons/pedunculopontine_nucleus.html">Pedunculopontine nucleus (PPN)</a></li>
+</ul>
+</section>
+<section id="dystonia" class="level1">
+<h1>Dystonia</h1>
+<ul>
+<li><a href="?var:ref-pallido-thalamo-cortical-network.path">Pallido-thalamo-cortical network</a></li>
+<li><a href="../../../The Archive/Neuroscience/Neuroanatomy/Functional network/cerebello-thalamo-cortical_network.html">Cerebello-thalamo-cortical network</a></li>
+</ul>
+</section>
+<section id="paratonia" class="level1">
+<h1>Paratonia</h1>
+<ul>
+<li><a href="?var:ref-orbitofrontal.damage">Orbitofrontal damage</a></li>
+<li><a href="?var:ref-frontal-subcortical.dysfunction">Frontal-subcortical dysfunction</a></li>
+<li><a href="?var:ref-advanced-glycation-end-products.path">Advanced glycation end products</a></li>
+</ul>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-gangulyMuscleTonePhysiology2021" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Ganguly J, Kulshreshtha D, Almotiri M, Jog M. Muscle <span>Tone Physiology</span> and <span>Abnormalities</span>. <em>Toxins</em>. 2021;13(4):282. doi:<a href="https://doi.org/10.3390/toxins13040282">10.3390/toxins13040282</a></div>
+</div>
+<div id="ref-hallGuytonHallTextbook2021" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Hall JE, Hall ME, Guyton AC. <em>Guyton and <span>Hall</span> Textbook of Medical Physiology</em>. 14th edition. Elsevier; 2021.</div>
+</div>
+<div id="ref-DynamicNeurologicalStabilizationClinicalRehabilitation2014" class="csl-entry" role="listitem">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Kolar P. <em>Clinical <span>Rehabilitation</span></em>. 1st ed. Dynamic Neurological Stabilization; 2014.</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div class="">Yomogida N, Kerstein C. Muscle tone. <a href="https://yomokerst.com/The Archive/Physiology/Muscle/skeletal_muscle_tone.html">https://yomokerst.com/The
+Archive/Physiology/Muscle/skeletal_muscle_tone.html</a></div>
+</div></div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/yomokerst\.com");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

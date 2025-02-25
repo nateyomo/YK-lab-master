@@ -52,3 +52,9 @@ gt_table
 # Claw hand
 
 Claw hand refers to a passive hand position that is commmonly observed following an ulnar nerve lesion.
+
+
+# Treatment
+
+- [Brachial plexus axillary release]({{< var ref-brachial-plexus.release >}})
+- [ULTT3]({{< var ref-ultt3.path >}})

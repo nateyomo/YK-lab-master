@@ -42,6 +42,12 @@ else:
 
 ```
 
+# Overview
+
+
+The supraspinatus runs from its [origin on the supraspinatus fossa](#origin) through the *supraspinatus canal* and to its [insertion on the humeral head](#insertion) @jonesProjectFoundations2025.
+The *supraspinatus canal* is bordered anteriorly by the coracoid process, posteriorly by the acromion, and superiorly by the coracoacromial ligament @jonesProjectFoundations2025.
+
 # Origin {#origin}
 
 Supraspinous Fossa of [scapula]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020
@@ -61,6 +67,16 @@ Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAna
 - **GHJ**: Initiates abduction @gilroyAtlasAnatomy2020
 - Stabilizes GHJ
 
+The supraspinatus is one of the key muscles in the force-couple of the shoulder abductors @jonesProjectFoundations2025.
+
+# Tendon
+
+Chronic inflammation in the shoulder can result in supraspinatus tendon thickening, which results in poor sliding through the canal @jonesProjectFoundations2025.
+
+
+In cases of tendon dysfunction, surgical repair is difficult due to the narrowness *supraspinatus canal* @jonesProjectFoundations2025.
+As a result, an *inferior acromioplasty* (resection of the lower 1/2 of the acromion and coracoacromial ligament) is employed instead @jonesProjectFoundations2025.
+
 # Palpation
 
 # Tests
@@ -79,3 +95,10 @@ Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAna
 - Supraspinatus tendonitis
 - Supraspinatus tendinopathy
 - supraspinatus paratenonitis
+
+
+# Rupture
+
+If there is a supraspinatus rupture, the shoulder will not be able to go beyond the horizontal plane (90&deg; abduction or flexion) @jonesProjectFoundations2025.
+
+You will also see the humeral head resting against the coraco-acromial arch, resulting in impingement and pain @jonesProjectFoundations2025.

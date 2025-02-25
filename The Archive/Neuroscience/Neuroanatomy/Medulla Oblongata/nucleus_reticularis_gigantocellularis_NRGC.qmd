@@ -1,0 +1,8 @@
+---
+title: Nucleus reticularis gigantocellularis (NRGC)
+---
+
+
+# Rigidity {#rigidity}
+
+Alterations in the brainstem circuits, including this one, can result in abnormal muscle tone, specifically [rigidity]({{< var ref-rigidity.path >}}) @gangulyMuscleTonePhysiology2021

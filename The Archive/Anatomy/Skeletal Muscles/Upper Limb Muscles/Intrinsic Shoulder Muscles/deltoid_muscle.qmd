@@ -45,6 +45,35 @@ else:
 
 ```
 
+# Overview
+
+The deltoid is divided into 3 parts and 7 functional units.
+
+| Parts | Components |
+|-|-|
+| [Anterior part](#anterior-head) | I & II |
+| [Lateral](#lateral-part) | III |
+| [Posterior](#posterior-part) | IV, V, VI, & VII |
+
+II, III, and IV lie lateral to the abduction axis and produce abduction @jonesProjectFoundations2025.
+
+I, V, VI, and VII act as adductors.
+I and V are conditional and act as adductors when the upper limb hangs down vertically @jonesProjectFoundations2025.
+VI and VII *always* act as adductors @jonesProjectFoundations2025.
+
+
+| Component | a | Action |
+|-|-|-|
+| I | |  |
+| II | Lateral to abduction axis | Abduction |
+| III | Lateral to abduction axis | Abduction |
+| IV | Lateral to abduction axis | Abduction |
+| V | | |
+| VI | | Adduction |
+| VII | | Adduction |
+: @jonesProjectFoundations2025 {.striped}
+
+
 # Anterior head
 ### Origin {#origin}
 Lateral 1/3 of clavicle @gilroyAtlasAnatomy2020
@@ -96,6 +125,44 @@ Extension, external rotation, adduction @gilroyAtlasAnatomy2020
 :::{.callout-note}
 *Between 60 and 90 degrees of abduction, the clavicular and spinal parts assist the acromial part with abduction @gilroyAtlasAnatomy2020
 :::
+
+# Abduction Activation
+
+The deltoid is active at the start of abduction and achieve full abduction @jonesProjectFoundations2025.
+The deltoid's peak efficiency occurs at 90&deg; @jonesProjectFoundations2025.
+It can generate up to 8.2x the weight of the upper limb @jonesProjectFoundations2025.
+
+### Pure abduction
+
+Pure abduction occurs in the frontal plane.
+
+- Component III of lateral deltoid recruits first
+- IV and V of posterior deltoid recruit immediately after @jonesProjectFoundations2025.
+- Component II (anterior delt) recruits after the first 20-30&deg; @jonesProjectFoundations2025.
+
+### Scapular plane abduction
+
+Scapular plane exists between the sagittal and frontal planes.
+30&deg; from the frontal plane @jonesProjectFoundations2025.
+
+1. II (anterior deltoid) and III (lateral deltoid) are recruited first @jonesProjectFoundations2025.
+1. IV and V (posterior deltoid) and I (Anterior deltoid) are recruited progressively later @jonesProjectFoundations2025.
+
+### External rotation into abduction
+
+1. II (anterior deltoid) contracts at the start
+
+::: {.callout-note}
+IV and V (Posterior deltoid) do not contract at all during this movement @jonesProjectFoundations2025.
+:::
+
+### IR to abduction
+
+"recruitment order reverses" @jonesProjectFoundations2025.
+
+
+
+
 
 # Clinical Relevance
 As the GHJ becomes more unstable, the deltoid muscle takes on more of a stabilizing role @kidoDynamicStabilizingFunction2003 

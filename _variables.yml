@@ -51,7 +51,8 @@ ref-1st-rib-bone:
   path: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib_bone.html"
   hypomobility: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib_bone.html#hypomobility"
   elevation: "/The Archive/Anatomy/Bones/Bones of the trunk/1st_rib_bone.html#elevation"
-  mobilization: "/The Archive/Interventions/Manual therapy/Mobilizations/1st_rib_mobilization.html"
+  mobilization: "/The Archive/Interventions/Manual therapy/Mobilizations/1st_rib_mobilization.html#mobilization"
+  release: "/The Archive/Interventions/Manual therapy/Mobilizations/1st_rib_mobilization.html#release"
 ref-rib-bones:
   path: "/The Archive/Anatomy/Bones/Bones of the trunk/rib_bones.html"
 
@@ -344,6 +345,10 @@ ref-scapulothoracic-joint:
   posterior-tilt: "/The Archive/Anatomy/Joints/UE Joints/scapulothoracic_joint.html#posterior-tilt"
   anterior-tilt: "/The Archive/Anatomy/Joints/UE Joints/scapulothoracic_joint.html#anterior-tilt"
 ### Spine joints
+ref-occipitoatlanto-joint:
+  path: "/The Archive/Anatomy/Joints/Spine joints/occipitoatlanto_joint.html"
+ref-atlanto-axial-joint:
+  path: "/The Archive/Anatomy/Joints/Spine joints/atlanto-axial_joint.html"
 ref-apophyseal-joint:
   path: "/The Archive/Anatomy/Joints/Spine joints/apophyseal_joint.html"
 ref-lumbosacral-junction:
@@ -417,6 +422,8 @@ ref-acromioclavicular-joint:
 ref-glenohumeral-joint:
   path: "/The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html"
   capsule: "/The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#capsule"
+  a-p-glide: "/The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#ap-glide"
+  sup-inf-glide: "/The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#sup-inf-glide"
 
 ## Tendon
 
@@ -440,6 +447,9 @@ ref-index-ligaments:
   path: "/The Archive/Anatomy/Ligaments/index_ligaments.html"
 ref-posterior-longitudinal-ligament:
   path: "/The Archive/Anatomy/Ligaments/PLL_posterior_longitudinal_ligament.html"
+### neck ligaments
+ref-transverse-ligament-of-the-atlas:
+  path: "/The Archive/Anatomy/Ligaments/Head and Neck Ligaments/transverse_ligament_of_the_atlas.html"
 ### LE Ligaments
 ### Hip ligaments
 ref-sacrotuberous-ligament:
@@ -1023,6 +1033,7 @@ ref-serratus-anterior:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior.html#action"
+  release: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/serratus_anterior.html#release"
 
 ### Posterior axioappendicular muscles
 ref-latissimus-dorsi:
@@ -1037,18 +1048,26 @@ ref-levator-scapulae:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/levator_scapulae.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/levator_scapulae.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/levator_scapulae.html#action"
+ref-rhomboid-occipitalis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_occipitalis.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_occipitalis.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_occipitalis.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_occipitalis.html#innervation"
+  release: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_occipitalis.html#release"
+ref-rhomboid-minor:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_minor.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_minor.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_minor.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_minor.html#innervation"
+  release: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_minor.html#release"
 ref-rhomboid-major:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_major.html"
   origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_major.html#origin"
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_major.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_major.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_major.html#action"
-ref-rhomboid-minor:
-  path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_minor.html"
-  origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_minor.html#origin"
-  insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_minor.html#insertion"
-  innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_minor.html#innervation"
-  action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_minor.html#action"
+  release: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/rhomboid_major.html#release"
+
 
 
 ### Scapulohumeral (Intrinsic Shoulder Muscles)
@@ -1088,6 +1107,7 @@ ref-supraspinatus:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/supraspinatus.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/supraspinatus.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/supraspinatus.html#action"
+  release: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/supraspinatus.html#release"
 ref-infraspinatus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/infraspinatus.html"
   origin: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Intrinsic Shoulder Muscles/Rotator Cuff/infraspinatus.html#origin"
@@ -1937,6 +1957,7 @@ ref-brachial-plexus:
   posterior-cord: "/"
   medial-cord: "/"
   irritation: "/The Archive/Anatomy/Nerves/Upper extremity nerves/Brachial Plexus/brachial_plexus.html#brachial-plexus-irritation"
+  release: "/The Archive/Anatomy/Nerves/Upper extremity nerves/Brachial Plexus/brachial_plexus.html#release"
 #### Supraclavicular part
 ref-dorsal-scapular-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/dorsal_scapular_nerve.html"
@@ -2143,6 +2164,14 @@ ref-medial-plantar-nerve:
 ref-nuchal-ligament:
   path: "/The Archive/Anatomy/Ligaments/nuchal_ligament.html"
   palpation: "/The Archive/Anatomy/Ligaments/nuchal_ligament.html#palpation"
+
+### UE ligaments
+ref-trapezoid-ligament:
+  path: "/The Archive/Anatomy/Connective tissue/Upper extremity CT/Shoulder Connective Tissue/Coracoclavicular ligaments/trapezoid_ligament.html"
+ref-conoid-ligament:
+  path: "/The Archive/Anatomy/Connective tissue/Upper extremity CT/Shoulder Connective Tissue/Coracoclavicular ligaments/conoid_ligament.html"
+ref-medial-coracoclavicular-ligament:
+  path: "/The Archive/Anatomy/Connective tissue/Upper extremity CT/Shoulder Connective Tissue/Coracoclavicular ligaments/medial_coracoclavicular_ligament.html"
 
 ### LE Ligaments
 #### Hip ligaments
@@ -2643,6 +2672,10 @@ ref-tos-cyriax-test:
   path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/cyriax_test.html"
 ref-tos-allen-maneuver:
   path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Thoracic outlet syndrome/tos_allen_maneuver.html"
+ref-sleeper-position:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Shoulder Tests/sleeper_shoulder_position.html"
+  positional-release: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Shoulder Tests/sleeper_shoulder_position.html#positional-release"
+
 #### ULTT
 ref-ultt:
   overview: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT_upper_limb_tension_test.html"
@@ -2654,6 +2687,9 @@ ref-ultt:
     path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT2b.html"
   ultt3:
     path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT3.html"
+
+ref-ultt3:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/ULTT/ULTT3.html"
 
 ref-infraspinatus-muscle-test:
   path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/infraspinatus_muscle_test.html"
@@ -2908,11 +2944,20 @@ ref-tumor-necrosis-factor:
 ref-tumor-necrosis-factor-alpha:
   path: "/The Archive/Chemistry/Biochemistry/Macromolecules/Proteins/Signalling Proteins/Cytokines/Tumor Necrosis Factor/tumor_necrosis_factor_alpha_TNF-alpha.html"
 
-## Muscle
+## Muscle physiology
 
 ref-skeletal-muscle:
   path: "/The Archive/Physiology/Muscle/skeletal_muscle.html"
   tone: "/The Archive/Physiology/Muscle/skeletal_muscle.html#tone"
+  intrafusal-fibers: "/The Archive/Physiology/Muscle/skeletal_muscle.html#intrafusal-fiber"
+  extrafusal-fibers: "/The Archive/Physiology/Muscle/skeletal_muscle.html#extrafusal-fiber"
+ref-skeletal-muscle-tone:
+  path: "/The Archive/Physiology/Muscle/skeletal_muscle_tone.html"
+ref-muscle-spindle:
+  path: "/The Archive/Physiology/Muscle/skeletal_muscle.html#muscle-spindle"
+
+ref-golgi-tendon-organ:
+  path: "/"
 
 ## Metabolic System
 ref-glycolysis:
@@ -3309,6 +3354,9 @@ ref-vestibular-nuclei:
 ### Limbic System
 ref-amygdala:
   path: "/The Archive/Neuroscience/Neuroanatomy/Limbic System/amygdala.html"
+### Brainstem
+ref-caudal-raphe-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Brainstem/Raphe nuclei/caudal_raphe_nucleus.html"
 ### Midbrain
 ref-corpora-quadrigemina:
   path: "/The Archive/Neuroscience/Neuroanatomy/Midbrain/Tectum/corpora_quadrigemina.html"
@@ -3316,6 +3364,21 @@ ref-superior-colliculus:
   path: "/The Archive/Neuroscience/Neuroanatomy/Midbrain/Tectum/superior_colliculus.html"
 ref-inferior-colliculus:
   path: "/The Archive/Neuroscience/Neuroanatomy/Midbrain/Tectum/inferior_colliculus.html"
+### Pons
+ref-pons:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Pons/pons.html"
+ref-locus-coeruleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Pons/locus_coeruleus.html"
+ref-sublaterodorsal-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Pons/sublaterodorsal_nucleus.html"
+ref-pedunculopontine-nucleus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Pons/pedunculopontine_nucleus.html"
+
+### Medulla oblongata
+ref-medulla-oblongata:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Medulla Oblongata/medulla_oblongata.html"
+ref-nucleus-reticularis-gigantocellularis:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Medulla Oblongata/nucleus_reticularis_gigantocellularis_NRGC.html"
 ### Spinal Cord
 ref-spinal-cord:
   path: "/The Archive/Neuroscience/Neuroanatomy/Spinal Cord/spinal_cord.html"
@@ -3369,6 +3432,10 @@ ref-extrapyramidal-tracts:
   path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/extrapyramidal_tracts.html"
 ref-reticulospinal-tract:
   path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/reticulospinal_tract.html"
+ref-medial-reticulospinal-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/reticulospinal_tract.html#medial-reticulospinal-tract"
+ref-lateral-reticulospinal-tract:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/reticulospinal_tract.html#lateral-reticulospinal-tract"
 ref-rubrospinal-tract:
   path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Extrapyramidal Tract/rubrospinal_tract.html"
 ref-tectospinal-tract:
@@ -3386,9 +3453,23 @@ ref-lateral-corticospinal-tract:
 ref-medial-corticospinal-tract:
   path: "/The Archive/Neuroscience/Neuroanatomy/Tracts/Descending Tracts/Pyramidal Tract/medial_corticospinal_tract_MCST.html"
 
+## Peripheral nervous system
+### Motor Efferent
+
+### Sensory Afferent
+ref-type-ia-afferent:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Peripheral nervous system/Sensory afferents/type_Ia_afferent.html"
+ref-type-ii-afferent:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Peripheral nervous system/Sensory afferents/type_II_afferent.html"
+
+### Functional network
+ref-cerebello-thalamo-cortical-network:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Functional network/cerebello-thalamo-cortical_network.html"
 
 
 ## Neurophysiology
+ref-autogenic-inhibition:
+  path: "/The Archive/Physiology/Muscle/golgi_tendon_organ.html#autogenic-inhibition"
 
 ref-alpha-synuclein:
   path: "/The Archive/Neuroscience/Neuropathophysiology/alpha-synuclein/alpha-synuclein.html"
@@ -3428,7 +3509,7 @@ ref-object-permanence:
 
 ### Reflex
 ref-stretch-reflex:
-  path: "/"
+  path: "/The Archive/Neuroscience/Neurophysiology/Reflex/Spinal Level Reflexes/stretch-reflex.html"
 ref-trigeminal-autonomic-reflex:
   path: "/The Archive/Neuroscience/Neurophysiology/Reflex/trigeminal_autonomic_reflex.html"
 ref-pupillary-light-reflex:
@@ -3553,9 +3634,20 @@ ref-headache:
 ref-migraine:
   path: "/The Archive/Signs and Symptoms/Headache/migraine.html"
 ## Motor Symptoms
+ref-rigidity:
+  path: "/The Archive/Physiology/Muscle/skeletal_muscle_tone.html#rigidity"
+ref-spasticity:
+  path: "/The Archive/Physiology/Muscle/skeletal_muscle_tone.html#spasticity"
+ref-dystonia:
+  path: "/The Archive/Physiology/Muscle/skeletal_muscle_tone.html#dystonia"
+ref-paratonia:
+  path: "/The Archive/Physiology/Muscle/skeletal_muscle_tone.html#paratonia"
+
 
 ref-bradykinesia:
   path: "/The Archive/Signs and Symptoms/Motor Symptoms/Bradykinesia/bradykinesia_overview.html"
+
+
 
 ref-tremor:
   path: "/The Archive/Signs and Symptoms/Motor Symptoms/Tremors/tremor_overview.html"

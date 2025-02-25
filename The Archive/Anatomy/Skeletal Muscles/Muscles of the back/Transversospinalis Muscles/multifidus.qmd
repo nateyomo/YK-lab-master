@@ -59,7 +59,13 @@ Superomedially to SP (skipping 2-4 vertebrae) @gilroyAtlasAnatomy2020
 - **UNIL**: I/L SB and C/L Rotation @gilroyAtlasAnatomy2020
 
 
+# Dysfunction
 
+Imaging has correlated degenerative changes in the multifidus and [erector spinae]({{< var ref-erector-spinae.path >}}) with increased lumbar disc herniation and facet joint osteoarthritis @jonesProjectFoundations2025.
+
+::: {.callout-note}
+Degenerative changes in multifidus are defined as a decreased in muscle density, cross-sectional area, and increases in fatty infiltration @jonesProjectFoundations2025.
+:::
 
 # Therex
 How to recruit multifidi instead of obliques?

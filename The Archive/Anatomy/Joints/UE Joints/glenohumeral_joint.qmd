@@ -89,6 +89,24 @@ ADD: 75-85&deg;
 - When Abducted to 90&deg; one should expect more ER=90 deg
 
 
+# Anterior posterior glide {#ap-glide}
+
+It is important to assess how well the humerus glides anterior to posteriorly on the glenoid.
+Anteriorly, we want to assess if the humerus is "adhered" to the anterior joint capsule and tendons.
+Posteriorly, we are try to assess whether the posterior rotator cuff ([infraspinatus]({{< var ref-infraspinatus.path >}}) and/or [teres minor]({{< var ref-teres-minor.path >}})) are guarding and shoving the humeral head anteriorly.
+
+
+
+# Superior Inferior glide {#sup-inf-glide}
+
+- Supine
+- Grip the patient's upper arm and pin their forearm between your elbow and side
+- Place your fingertips on the proximal (glenoid) side of the GHJ.
+- Pin the capsule and tendinous structures
+- Apply pressure into the superior joint line in order to put your fingers between the humerus and glenoid while also driving the humerus inferiorly.
+- As you perform the inferior glide, bring the arm into abduction at the same time.
+
+
 
 # Notes
 

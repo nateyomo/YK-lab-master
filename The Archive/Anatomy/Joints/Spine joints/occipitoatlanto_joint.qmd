@@ -1,16 +1,30 @@
 ---
 title: Occipitoatlanto Joint (OAJ)
+keywords:
+    - "Atlanto-occipital joint"
+    - "C0-C1 Joint"
 ---
 
 # Overview
 
+The Occipitoatlanto joint (OAJ) refers to the articulation between the superior [occiput (C0)]({{< var ref-occipital-bone.path >}}) and the inferior [Atlas (C1)]({{< var ref-c1-bone.path >}}).
+Specifically, between the *occipital condyles* and the Atlas' *superior lateral massees* @jonesProjectFoundations2025.
+
 The atlanto-occipital joints provide independent movement of the cranium relative to the atlas (C1) @neumannKinesiologyMusculoskeletalSystem2017.
+
+The head and [atlas (C1)]({{< var ref-c1-bone.path >}}) create a *1st-class lever* with the fulcrum at the occipital condyles @jonesProjectFoundations2025.
+The center of gravity (external force) centers above the [TMJ]({{< var ref-temporomandibular-joint.path >}}) @jonesProjectFoundations2025.
+The posterior neck muscles create an internal force to counteract gravity @jonesProjectFoundations2025.
+
+
 
 # Anatomy
 
 The joints are formed by the protruding convex condyles of the occipital bone fitting into the reciprocally concave superior articular facets of the atlas @neumannKinesiologyMusculoskeletalSystem2017.
 
-### Joint Capsule
+# Joint Capsule
+
+The joint capsules are "roomy" @jonesProjectFoundations2025 and support the symmetrical synovial joints @jonesProjectFoundations2025.
 
 
 # Stability
@@ -24,3 +38,8 @@ The convex-concave relationship provides inherent structural stability to the ar
 Anteriorly, the capsule of each atlanto-occipital joint blends with the anterior atlanto-occipital membrane (Fig. 9.41). Posteriorly, the capsule is covered by a thin, broad posterior atlantooccipital membrane (Fig. 9.42). As depicted on the right side of Fig. 9.42, the vertebral artery pierces the posterior atlanto-occipital membrane to enter the foramen magnum. This crucial artery supplies blood to the brain.
 
 The concave-convex structure of the atlanto-occipital joints permits angular rotation primarily in two degrees of freedom. The primary motions are flexion and extension. Lateral flexion is slight. Axial rotation is very limited and usually not considered as the third degree of freedom.
+
+# Flexion-Extension
+
+Flexion and extension of the OAJ occur in the sagittal plane.
+

@@ -97,3 +97,10 @@ Superficial Branches
 
 - Dorsal digital nn.
 - Ulnar communicating br.
+
+
+# Treatment
+
+- [Brachial plexus axillary release]({{< var ref-brachial-plexus.release >}})
+- Pathway release
+    - 

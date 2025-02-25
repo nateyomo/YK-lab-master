@@ -11,7 +11,11 @@ title: Dorsal Scapular Nerve
 
 # Path
 
+::: {.callout-note}
 "The former passes through the scalenus medius anterior internally, and scalenus posterior laterally, with the presence of some tendinous tissues" @duttonDuttonOrthopaedicExamination2020 
+
+"This pierces the scalenus medius and runs along the levator scapulae muscle and the medial border of the scapula under the rhomboid muscles." @hochschildFunctionalAnatomyPhysical2016
+:::
 
 
 # Innervation {#innervation}
@@ -58,4 +62,7 @@ Dorsal scapular nerve lesions can result from trauma or from a forward posture o
 Forward posture can place increased tension on the anterior cervical spine which can produce hypertonicity and/or hypertrophy of the [Middle Scalene muscle]({{< var ref-middle-scalene.path >}}) @duttonDuttonOrthopaedicExamination2020.
 
 ## Clinical Presentation
-Patients with dorsal scapular nerve impingement will complain of scapular pain radiating to the lateral shoulder and arm @duttonDuttonOrthopaedicExamination2020 
+Patients with dorsal scapular nerve impingement will complain of scapular pain radiating to the lateral shoulder and arm @duttonDuttonOrthopaedicExamination2020
+
+A dorsal scapular n. lesion can result in levator scapulae paralysis which would present as a sagging (depressed) shoulder girdle.
+

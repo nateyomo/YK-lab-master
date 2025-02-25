@@ -2,13 +2,25 @@
 title: Atlanto-Axial Joint
 ---
 
-The atlanto-axial joint complex has two articular components: a median joint and a pair of laterally positioned apophyseal joints. The median joint is formed by the dens of the axis (C2) projecting through an osseous-ligamentous ring created by the anterior arch of the atlas and the transverse ligament (Fig. 9.43). Because the dens serves as a vertical axis for horizontal plane rotation of the atlas, the atlanto-axial joint is often described as a pivot joint.
+"The atlanto-axial joint complex has two articular components: a median joint and a pair of laterally positioned apophyseal joints. The median joint is formed by the dens of the axis (C2) projecting through an osseous-ligamentous ring created by the anterior arch of the atlas and the transverse ligament (Fig. 9.43). Because the dens serves as a vertical axis for horizontal plane rotation of the atlas, the atlanto-axial joint is often described as a pivot joint." @neumannKinesiologyMusculoskeletalSystem2017
 
 
-The median joint within the atlanto-axial joint complex has two synovial cavities. The smaller, anterior cavity is formed between the anterior side of the dens and the posterior border of the anterior arch of the atlas (see Fig. 9.43). An anterior facet on the anterior side of the dens marks this articulation (see Fig. 9.20A). The much larger posterior cavity separates the posterior side of the dens and a cartilage-lined section of the transverse ligament of the atlas. This strong, 2-cm long ligament is essential to the horizontal plane stability of the atlanto-axial articulation.35 Without its restraint, the atlas (and articulated cranium) can slip anteriorly relative to the axis, possibly damaging the spinal cord.
+"The median joint within the atlanto-axial joint complex has two synovial cavities. The smaller, anterior cavity is formed between the anterior side of the dens and the posterior border of the anterior arch of the atlas (see Fig. 9.43). An anterior facet on the anterior side of the dens marks this articulation (see Fig. 9.20A). The much larger posterior cavity separates the posterior side of the dens and a cartilage-lined section of the transverse ligament of the atlas. This strong, 2-cm long ligament is essential to the horizontal plane stability of the atlanto-axial articulation.35 Without its restraint, the atlas (and articulated cranium) can slip anteriorly relative to the axis, possibly damaging the spinal cord." @neumannKinesiologyMusculoskeletalSystem2017
+
+"The two apophyseal joints of the atlanto-axial joint are formed by the articulation of the inferior articular facets of the atlas with the superior facets of the axis (see exposed right joint in Fig. 9.41). The surfaces of these apophyseal joints are generally flat and oriented close to the horizontal plane, a design that maximizes the freedom of axial rotation." @neumannKinesiologyMusculoskeletalSystem2017
+
+"The atlanto-axial joint complex allows two degrees of freedom. Roughly 50% of the total horizontal plane rotation within the craniocervical region occurs at the atlanto-axial joint complex. The second degree of freedom at this joint complex is flexionextension. Lateral flexion is very limited and typically not considered a third degree of freedom." @neumannKinesiologyMusculoskeletalSystem2017
 
 
+# Flexion Extension
 
+During normal movement, the [atlas]({{< var ref-c1-bone.path >}}) rolls and glides at the same time on the [axis (C2)]({{< var ref-c2-bone.path >}}) @jonesProjectFoundations2025.
+The glide is achieved primarily through the [Transverse ligament of the atlas]({{< var ref-transverse-ligament-of-the-atlas.path >}}) @jonesProjectFoundations2025.
+
+
+# Rotation
+
+the median atlanto-axial joint is a pivot joint @jonesProjectFoundations2025.
 
 
 

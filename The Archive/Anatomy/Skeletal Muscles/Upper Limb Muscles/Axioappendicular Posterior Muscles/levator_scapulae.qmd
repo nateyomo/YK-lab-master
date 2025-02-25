@@ -47,6 +47,11 @@ else:
 
 ```
 
+# Overview
+
+The levator scapulae is a long and slender muscle.
+Although the levator scapulae is geographically associated with the muscles of the back, it is functionally more similar to the scapular muscles such as the [rhomboid major]({{< var ref-rhomboid-major.path >}}), [minor]({{< var ref-rhomboid-minor.path >}}), and [serratus anterior]({{< var ref-serratus-anterior.path >}}) @jonesProjectFoundations2025.
+
 # Origin {#origin}
 
 TP C1-C4 @gilroyAtlasAnatomy2020
@@ -69,8 +74,13 @@ Superior angle of the scapula @gilroyAtlasAnatomy2020
 - **STJ**: Elevates and downwardly rotates scapula @gilroyAtlasAnatomy2020
 - **C/S**: Extends and I/L lateral flexion @gilroyAtlasAnatomy2020
 
-
-
+The levator scapula coactivates with the scapulothoracic upward rotators to counter eachother's frontal plane rotation and to result in pure elevation @jonesProjectFoundations2025.
 
 
 # Notes
+
+
+
+# Paralysis {#paralysis}
+
+Paralysis of the levator scapulae will result in a sagging shoulder girdle @jonesProjectFoundations2025.

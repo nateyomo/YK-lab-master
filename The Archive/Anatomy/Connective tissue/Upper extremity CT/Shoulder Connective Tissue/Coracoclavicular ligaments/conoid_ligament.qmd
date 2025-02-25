@@ -1,0 +1,19 @@
+---
+title: Conoid Ligament
+---
+
+[Medial coracoclavicular]({{< var ref-medial-coracoclavicular-ligament.path >}}), [Conoid]({{< var ref-conoid-ligament.path >}}), and [trapezoid]({{< var ref-trapezoid-ligament.path >}}) ligaments are the 3 coracoclavicular ligaments @jonesProjectFoundations2025.
+
+
+![Left scapula (Posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image203 gray1918 Left scapula. Dorsal surface.gif){#fig-gray1918-image203}
+
+![Left Acromioclavicular and Glenohumeral joints (anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Syndesmology/image326 gray1918 The left shoulder and acromioclavicular joints, and the proper ligaments of the scapula.gif){#fig-gray1918-image326}
+
+
+The conoid ligament and the [trapezoid ligament]({{< var ref-trapezoid-ligament.path >}}) are 2 extra-articular ligaments that help to stabilize the [acromioclavicular joint]({{< var ref-acromioclavicular-joint.path >}}) @jonesProjectFoundations2025.
+
+
+The conoid ligament spans the "elbow" of the coracoid process to the posterior border of the inferior aspect of the clavicle known as the *conoid tubercle* @jonesProjectFoundations2025.
+
+
+The conoid lig. is deep/posterior to the [trapezoid ligament's]({{< var ref-trapezoid-ligament.path >}}) attachment on the conoid tubercle @jonesProjectFoundations2025.

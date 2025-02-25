@@ -151,6 +151,18 @@ Anterior Interosseous Syndrome: Entrapment after the anterior interosseous nerve
 - Tinel’s at carpal tunnel
 
 
+# Median Nerve Tensioning {#tension}
+
+- ULTT1
+- ULTT2a
+
+- Patient in **supine**
+- Stand on the ipsilateral side, facing the patient
+- Bring the forearm into **supination**
+- Wrist and finger extension
+- Use your thigh to support and control the patient's elbow
+- Use your other hand to pull the patient's shoulder into **depression**.
+
 
 
 # Examination
@@ -158,8 +170,6 @@ Anterior Interosseous Syndrome: Entrapment after the anterior interosseous nerve
 - Wrist Flexion and Median Nerve Compression @duttonDuttonOrthopaedicExamination2020
 - Median Nerve Compression Test/Pressure Provocation Test. 
     - The clinician sits opposite to the patient and holds the patient’s hand with the clinician’s thumbs directly over the course of the median nerve as it passes under the flexor retinaculum between the FCR and the palmaris longus. The clinician places gentle sustained pressure with the thumbs for 15 seconds to 2 minutes. The clinician then removes the pressure and questions the patient on the relief of symptoms, which may take a few minutes. A positive test is the reproduction of pain, paresthesia, or numbness distal to the site of compression during the compression in the distribution of the median nerve. @duttonDuttonOrthopaedicExamination2020
-- ULTT1
-- ULTT2a
 - Phalen's Test
 - Reverse Phalen's
 - Tinel's Test
@@ -168,3 +178,7 @@ Anterior Interosseous Syndrome: Entrapment after the anterior interosseous nerve
 # Strain Counterstrain
 
 {{< video https://youtu.be/3VEx4y40rpM?si=DzlC4L9uBH3sRf1h >}}
+
+# Treatment
+
+- [Brachial plexus axillary release]({{< var ref-brachial-plexus.release >}})

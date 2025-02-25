@@ -7,9 +7,59 @@ subtitle: Musculoskeletal Overview
 
 ![Muscles of the Posterior and lateral neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.14 Posterior and Lateral Views of the Neck.jpeg){#fig-openstax-fig11.14}
 
-# Anatomy
+# Segments
 
-## Muscles
+The cervical spine can be divided into 3 segments:
+
+- Upper
+- Middle
+- Lower
+
+**Upper** consists of the first 2 cervical vertebrae: [atlas (C1)]({{< var ref-c1-bone.path >}}) and [axis (C2)]({{< var ref-c2-bone.path >}}).
+
+
+The **Middle** segments refer to [C3]({{< var ref-c3-bone.path >}})-[C6]({{< var ref-c6-bone.path >}}) and technically begins at the inferior surface of axis (C2) @jonesProjectFoundations2025.
+
+The **Lower segment** refers to the transition between the [last cervical vertebrae (C7)]({{< var ref-c7-bone.path >}}) and the [first thoracic vertebrae (T1)]({{< var ref-t1-bone.path >}}) @jonesProjectFoundations2025.
+
+# Movement
+
+- Rotation
+- Sidebend
+- Flexion
+- Extension
+
+
+# Rotation
+
+## Pure rotation
+
+- atlanto-axial: Rotation + flexion
+- [Occipitoatlanto joint]({{< var ref-occipitoatlanto-joint.path >}}): Extension to offset the AA flexion @jonesProjectFoundations2025.
+
+# Joints
+
+
+| Joint | Extension | Flexion | Sidebend | Rotation |
+|-|-|-|-|-|
+| [Occipitoatlanto Joint]({{< var ref-occipitoatlanto-joint.path >}}) | 10&deg; @neumannKinesiologyMusculoskeletalSystem2017 </br> 15-20&deg; @jonesProjectFoundations2025 | 5&deg; @neumannKinesiologyMusculoskeletalSystem2017 </br> 10&deg; @jonesProjectFoundations2025| ~5&deg; | Negligible|
+| [Atlanto-axial Joint]({{< var ref-atlanto-axial-joint.path >}}) | 10&deg; | 5&deg;| Negligible | 35-40&deg; |
+| C2-C7 | 55-60&deg; | 35-40&deg; | 30-35&deg; | 30-35&deg; |
+| Craniocervical total | 75-80&deg; | 45-50&deg; | 35-40&deg; | 65-75&deg; |
+: Range of motion of craniocervical joints @neumannKinesiologyMusculoskeletalSystem2017 {.striped}
+
+
+| Joint | Extension | Flexion | Sidebend | Rotation |
+|-|-|-|-|-|
+| [Occipitoatlanto Joint]({{< var ref-occipitoatlanto-joint.path >}}) | 15-20&deg; @jonesProjectFoundations2025 | 10&deg; @jonesProjectFoundations2025| ~8&deg; | 12&deg; |
+| [Atlanto-axial Joint]({{< var ref-atlanto-axial-joint.path >}}) |  | | Negligible | 12&deg; |
+| C3-C7 | &deg; | &deg; | &deg; | &deg; |
+| Cervical total | &deg; | &deg; | 45&deg; | 80-90&deg; |
+: Range of motion of craniocervical joints @jonesProjectFoundations2025 {.striped}
+
+
+# Muscles
+
 
 Superficial layer:
 
@@ -29,16 +79,62 @@ Deepest layer:
 
 - Links cervical and thoracic vertebrae
 
-<details>
+## Transverspinalis muscles
 
-| Muscle  | Origin  | Insertion | Nerve | Action |
-|--------|----------|-----------|-------|--------|
-|[Splenius Cervicis]({{< var ref-splenius-cervicis.path >}}) | {{< var ref-splenius-cervicis.origin >}} | {{< var ref-splenius-cervicis.insertion >}} | {{< var ref-splenius-cervicis.nerve >}} | {{< var ref-splenius-cervicis.action >}} |
-| [Semispinalis Cervicis]({{< var ref-semispinalis-cervicis.path >}}) | {{< var ref-semispinalis-cervicis.origin >}} | {{< var ref-semispinalis-cervicis.insertion >}} | {{< var ref-semispinalis-cervicis.nerve >}} | {{< var ref-semispinalis-cervicis.action >}} |
-| [Longissimus Cervicis]({{< var ref-longissimus-cervicis.path >}}) | {{< var ref-longissimus-cervicis.origin >}} | {{< var ref-longissimus-cervicis.insertion >}} | {{< var ref-longissimus-cervicis.nerve >}} | {{< var ref-longissimus-cervicis.action >}} |
+```{python tbl-transversospinalis-oian}
+#| label: tbl-transversospinalis-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Transversospinalis Muscles"
 
-: Deepest Layer OIAN {.striped .hover}
-</details>
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'functional_group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['transversospinalis_muscle_group']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+The [transversospinalis muscles]({{< var ref-transversospinalis-muscle-group.path >}}) run obliquely and medially from the transverse process of the inferior segment to the the spinous process of the superior segment @jonesProjectFoundations2025.
+
+**Unilateral** contraction creates contralateral rotation @jonesProjectFoundations2025.
+
+**Bilateral** contraction acts to cancel out rotation and create spine extension @jonesProjectFoundations2025.
+This extension accentuates the cervical lordosis created by the erector spinae @jonesProjectFoundations2025.
+
+This muscle group functions in spinal stability, proprioception, posture, and stabilization of the vertebral column @jonesProjectFoundations2025.
+
+
+
+
+
+# Anatomy
+
+
+
 
 ## Intervertebral Disc (IVD)
 

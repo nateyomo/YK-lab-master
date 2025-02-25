@@ -25,3 +25,14 @@ The reticulospinal tract is an [extrapyramidal tract]({{< var ref-extrapyramidal
 
 - [automatic posture]({{< var ref-posture.automatic >}}) @blumenfeldNeuroanatomyClinicalCases2022
 - [gait-related movements]({{< var ref-gait.path >}}) @blumenfeldNeuroanatomyClinicalCases2022
+
+
+# Medial reticulospinal tract {#medial-reticulospinal-tract}
+
+- AKA Ventral reticulospinal tract
+- AKA Pontine reticulospinal tract
+
+# Lateral reticulospinal tract {#lateral-reticulospinal-tract}
+
+- AKA Dorsal reticulospinal tract
+- AKA Medullary reticulospinal tract

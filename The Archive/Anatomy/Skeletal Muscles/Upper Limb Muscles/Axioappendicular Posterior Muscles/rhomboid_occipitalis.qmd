@@ -1,0 +1,5 @@
+---
+title: Rhomboid Occipitalis
+---
+
+Some individuals have a *rhomboid occipitalis* which ascends between the [rhomboid minor]({{< var ref-rhomboid-minor.path >}}) and occipital bone @jonesProjectFoundations2025.

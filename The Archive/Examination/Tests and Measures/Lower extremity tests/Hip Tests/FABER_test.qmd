@@ -24,3 +24,4 @@ A positive FABER test can help to rule in an [acetabular labral tear]({{< var re
 # Contract-relax Technique {#contract-relax}
 
 
+[contract-relax]({{< var ref-contract-relax.path >}})

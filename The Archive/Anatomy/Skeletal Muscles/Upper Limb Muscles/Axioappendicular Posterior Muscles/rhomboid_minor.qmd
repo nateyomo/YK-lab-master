@@ -42,14 +42,23 @@ else:
 
 ```
 
+# Overview
+
+The rhomboid minor is a cylindrically shaped muscle @jonesProjectFoundations2025 consisting of 2 layers: [dorsal and ventral](#insertion).
+
 
 # Origin {#origin}
 
 SP of C6 & C7 @gilroyAtlasAnatomy2020
 
+::: {.callout-note}
+Some individuals have a *rhomboid occipitalis* which ascends between the rhomboid minor and occipital bone @jonesProjectFoundations2025.
+:::
+
 # Insertion {#insertion}
 
-Medial border of scapula (*above scapular spine*) @gilroyAtlasAnatomy2020
+- **Ventral layer**: Blends into the [levator scapulae]({{< var ref-levator-scapulae.path >}}) and [serratus anterior]({{< var ref-serratus-anterior.path >}}) @jonesProjectFoundations2025.
+- **Dorsal layer**: Medial border of scapula (*above scapular spine*) @gilroyAtlasAnatomy2020
 
 ![Left scapula (Posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image203 gray1918 Left scapula. Dorsal surface.gif){#fig-gray1918-image203}
 
@@ -70,3 +79,14 @@ Medial border of scapula (*above scapular spine*) @gilroyAtlasAnatomy2020
 The Serratus Anterior (along with the rhomboids) serves to aid in scapular stability during arm elevation @duttonDuttonOrthopaedicExamination2020 
 
 ![Superior View of the shoulder: You can see how the rhomboids and SA both actively stabilize the scapulothoracic joint by pulling the scapula towards the thoracic wall @duttonDuttonOrthopaedicExamination2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/images/Dutton fig16.2 Superior aspect of shoulder.png)
+
+
+# Release {#release}
+
+Compressing the rhomboid against the ribcage is not the most effective way to release this muscle.
+It is better to stabilize the scapula with one hand and drive the fingertips of the other hand anterolaterally deep to the scapula in order to apply a stretch @jonesProjectFoundations2025.
+
+
+# Paralysis {#paralysis}
+
+Rhomboid paralysis can result in a separation of the scapula from the thoracic wall, known as a "scapular winging sign" @jonesProjectFoundations2025.

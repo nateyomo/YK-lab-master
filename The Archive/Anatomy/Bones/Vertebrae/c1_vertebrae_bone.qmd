@@ -19,3 +19,7 @@ To palpate the Transverse process of C1
 ::: {.callout-caution}
 Palpate the C1 transverse process gently since this area may be quite tender @finandoTriggerPointTherapy2005.
 :::
+
+# Dysfunction
+
+During a violent forced extension, the posterior arch of the [atlas (C1)]({{< var ref-c1-bone.path >}}) can be caught between the [occipital bone]({{< var ref-occipital-bone.path >}}) and the [*posterior arch* of the axis (C2)]({{< var ref-c2-bone.path >}}) resulting in a "nutcracker" mechanism which fractures the [atlas]({{< var ref-c1-bone.path >}}) @jonesProjectFoundations2025.

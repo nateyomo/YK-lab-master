@@ -1,0 +1,13 @@
+---
+title: Type Ia Afferents
+---
+
+
+Type Ia afferents transmit signals from the [muscle spindle]({{< var ref-muscle-spindle.path >}}) to the central nervous system.
+
+During a dynamic stretch, the muscle spindle detects changes in muscle length and transmits these signals via *type Ia afferents* @gangulyMuscleTonePhysiology2021.
+
+Tonic activity during Steady-state length is a static response which is transmitted through both *type Ia* and [*type II*]({{< var ref-type-ii-afferent.path >}}) afferents @gangulyMuscleTonePhysiology2021.
+
+
+The signals transmitted through type Ia afferents are important in the physiology of [muscle tone]({{< var ref-skeletal-muscle-tone.path >}}) @gangulyMuscleTonePhysiology2021

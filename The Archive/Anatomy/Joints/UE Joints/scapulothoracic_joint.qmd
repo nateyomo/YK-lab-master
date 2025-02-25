@@ -1,7 +1,13 @@
 ---
 title: Scapulothoracic Joint
+subtitle: Pseudo-Joint of the shoulder girdle
 ---
 
+There are 6 primary movements of the scapulothoracic joint:
+
+1. [Elevation](#elevation) and [Depression](#depression)
+1. [Protraction](#protraction) and [Retraction](#retraction)
+1. [Upward](#upward-rotation) and [Downward rotation](#downward-rotation)
 
 # Alignment
 
@@ -12,34 +18,32 @@ title: Scapulothoracic Joint
 - 10&deg; ant tilt
 - 5-10&deg; upward rotation
 
-# Primary movements
 
-There are 6 primary movements of the scapulothoracic joint:
-
-1. [Elevation](#elevation)
-1. [Depression](#depression)
-1. [Protraction](#protraction)
-1. [Retraction](#retraction)
-1. [Upward rotation](#upward-rotation)
-1. [Downward rotation](#downward-rotation)
+# Elevation & Depression
 
 ## Elevation {#elevation}
 
 Elevation refers to when the scapula slides superiorly relative to the thorax @neumannKinesiologyMusculoskeletalSystem2017.
-Shruggint the shoulders is an example of scapular elevation @neumannKinesiologyMusculoskeletalSystem2017.
+Shrugging the shoulders is an example of scapular elevation @neumannKinesiologyMusculoskeletalSystem2017.
+
+The scapulothoracic joint as 40&deg; of elevation @jonesProjectFoundations2025.
 
 
 - Includes elevation of clavicle at SC and downward rot of scap at AC
+
+Elevation is created by coactivation of the *upward rotators* along with the [levator scapulae]({{< var ref-levator-scapulae.action >}}) @jonesProjectFoundations2025.
+The activation of the upward rotators brings the acromion (lateral) aspect of the scapula superomedially, but the [levator scapulae]({{< var ref-levator-scapulae.action >}}) counteracts the rotation to create pure **scapular elevation** @jonesProjectFoundations2025.
+
+
 
 
 ## Depression
 
 Depression of the scapulothoracic joint refers to when the scapula slides inferiorly relative to the thorax from an elevated position @neumannKinesiologyMusculoskeletalSystem2017.
 
-- Lats
-- Pec Minor
-- Lower trapezius
+The scapulothoracic joint is capable of 10&deg; of depression @jonesProjectFoundations2025.
 
+# Protraction & Retraction
 
 ## Protraction {#protraction}
 
@@ -47,10 +51,98 @@ Depression of the scapulothoracic joint refers to when the scapula slides inferi
 This will result in movement of the [medial border]({{< var ref-scapula-bone.medial-border >}}) *away* from the spine.
 An example of protraction is when you are reaching forward as far as possible @neumannKinesiologyMusculoskeletalSystem2017.
 
+
+The scapulothoracic joint is capable of 20&deg; of protraction @jonesProjectFoundations2025.
+
+Protraction requires a combination of the [serratus anterior]({{< var ref-serratus-anterior.action >}}) and [pec minor]({{< var ref-pectoralis-minor.action >}}) @jonesProjectFoundations2025.
+
+```{python tbl-scapulothoracic-protractors-oian}
+#| label: tbl-scapulothoracic-protractors-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Scapulothoracic Protractors"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'action_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['stj_protraction']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
 ## Retraction {#retraction}
 
 Scapular *retraction* refers to when the [medial border of the scapula]({{< var ref-scapula-bone.medial-border >}}) slides posteromedially relative to the thorax *towards* the midline @neumannKinesiologyMusculoskeletalSystem2017.
 This is exemplified when you "pinch" the shoulder blades together.
+
+The scapulothoracic joint is capable of 15&deg; of retraction @jonesProjectFoundations2025.
+
+Retraction is produced through contraction of [middle trap]({{< var ref-middle-trapezius.action >}}) and [lower trap]({{< var ref-lower-trapezius.action >}}) with assistance of [rhomboid major]({{< var ref-rhomboid-major.action >}}) and [minor]({{< var ref-rhomboid-minor.action >}}) @jonesProjectFoundations2025.
+
+
+```{python tbl-scapulothoracic-retractors-oian}
+#| label: tbl-scapulothoracic-retractors-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Scapulothoracic Retractors"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'action_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['stj_retraction']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+# Upward & Downward rotation
+
+Upward and downward rotation of the scapula refers to scapular movement in the frontal plane.
 
 ## Upward Rotation {#upward-rotation}
 
@@ -59,7 +151,45 @@ This results in the [glenoid fossa]({{< var ref-scapula-bone.glenoid-fossa >}}) 
 
 Upward rotation is a key component when raising the arm upward @neumannKinesiologyMusculoskeletalSystem2017.
 
-60&deg; upward rotation during arm elevation
+The scapulothoracic joint is capable of 60&deg; of upward rotation @jonesProjectFoundations2025.
+
+
+```{python tbl-scapulothoracic-upward-rotators-oian}
+#| label: tbl-scapulothoracic-upward-rotators-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Scapulothoracic Upward Rotators"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'action_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['stj_upward_rotation']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
 
 
 ## Downward rotation {#downward-rotation}
@@ -68,10 +198,102 @@ Downward rotation refers to when the [inferior angle of the scapula]({{< var ref
 Downward rotation is most obvious when *lowering* the scapula from an upwardly rotated position @neumannKinesiologyMusculoskeletalSystem2017.
 
 
+The scapulothoracic joint is capable of 30&deg; of downward rotation @jonesProjectFoundations2025.
+
 *Downward rotation* is key component of lowering the arm down to one's side @neumannKinesiologyMusculoskeletalSystem2017.
 
+```{python tbl-scapulothoracic-downward-rotators-oian}
+#| label: tbl-scapulothoracic-downward-rotators-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Scapulothoracic Downward Rotators"
 
-# Other kinematics
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'action_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['stj_downward_rotation']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
+# Muscles
+
+As a rule of thumb, *all muscles that attach on the scapula contribute to its mobility* @jonesProjectFoundations2025.
+
+```{python tbl-scapulothoracic-muscles-oian}
+#| label: tbl-scapulothoracic-muscles-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Scapulothoracic muscles"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['scapulothoracic_muscle_group']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+::: {.callout-note}
+Although the [subclavius]({{< var ref-subclavius.action >}}) does not directly insert on the scapula, it indirectly depresses the shoulder girdle by depressing the clavicle @jonesProjectFoundations2025.
+:::
+
+# Anterior & Posterior Tilting
+
+## Anterior Tilt
+
+## Posterior Tilt
+
+20&deg; post tilt during arm elevation
+
+# Kinematics
 
 ### Force couple
 
@@ -83,11 +305,7 @@ Downward rotation is most obvious when *lowering* the scapula from an upwardly r
 
 
 
-## Anterior Tilt
 
-## Posterior Tilt
-
-20&deg; post tilt during arm elevation
 
 
 
@@ -108,3 +326,10 @@ The Serratus Anterior (along with the rhomboids) serves to aid in scapular stabi
 ### Stabilization
 
 - Middle trap (add / retract) which counteract the protraction force of the Serratus anterior, resulting in stabilization of the scapula
+
+
+
+# Dysfunction
+
+
+- Scapular winging

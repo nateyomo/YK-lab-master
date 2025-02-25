@@ -18,6 +18,8 @@ See @cookMovementFunctionalMovement2010
 
 # Contract-Relax Technique {#contract-relax}
 
+[contract-relax]({{< var ref-contract-relax.path >}})
+
 - Position the patient at the end of the table with their tailbone at the end of the table.
 - Place the contralateral foot on your chest/shoulder and your contralateral hand in the popliteal space on their thigh.
 - Hook your inside leg around their ipsilateral lower leg, with your knee on the inside of their knee, but your foot on the outside of their foot.

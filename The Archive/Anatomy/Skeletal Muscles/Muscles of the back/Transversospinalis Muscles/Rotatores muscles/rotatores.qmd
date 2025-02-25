@@ -4,6 +4,7 @@ title: Rotatores Muscle
 
 
 
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false
@@ -39,6 +40,19 @@ else:
     print("Script file does not exist. Please check the path.")
 
 ```
+
+The rotatores muscles can be divided into 
+
+- Rotatores cervicis
+- Rotatores Thoracis
+- Rotatores lumborum
+
+Furthermore, these can be broken down into **long** and **short** muscles @jonesProjectFoundations2025.
+
+- **Long muscles** span **2** vertebrae @jonesProjectFoundations2025.
+- **Short muscles** span **1** vertebrae @jonesProjectFoundations2025.
+
+
 
 # Rotatores Breves
 ## Origin {#origin}

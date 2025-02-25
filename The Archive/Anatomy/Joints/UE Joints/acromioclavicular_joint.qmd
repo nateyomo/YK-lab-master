@@ -108,6 +108,7 @@ Based on cadaveric dissection, the acromioclavicular articular disc is found "fu
 
 # Kinematics
 
+
 The motions of the ACJ have both proximal and distal functions.
 Proximally, the ACJ's motions help to maintain the optimal mobility and alignment of the [scapulothoracic joint]({{< var ref-scapulothoracic-joint.path >}}) @neumannKinesiologyMusculoskeletalSystem2017.
 

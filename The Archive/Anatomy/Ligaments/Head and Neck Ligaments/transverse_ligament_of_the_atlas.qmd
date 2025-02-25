@@ -2,8 +2,15 @@
 title: Transverse Ligament of the Atlas (TLA)
 ---
 
+The TLA is vital to both atlanto-axial kinematics and *literally* vital.
+
+TLA ruptures can be lethal since nothing will prevent the dens from compressing the [medualla oblongata]({{< var ref-medulla-oblongata.path >}})
+
+# Dysfunction
+
+The TLA can be damaged from dislocation of the [median atlanto-axial joint]({{< var ref-atlanto-axial-joint.path >}}) @jonesProjectFoundations2025.
 
 # Examination
 
 
-- Sharp-Purser Test
+- [Sharp-Purser Test]({{< var ref-sharp-purser-test.path >}})

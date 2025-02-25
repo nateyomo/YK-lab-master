@@ -1,5 +1,5 @@
 ---
-title: Contract-Relax
+title: Contract-Relax Technique (CR)
 subtitle: Proprioceptive Neuromuscular Facilitation Technique
 ---
 
@@ -7,7 +7,88 @@ subtitle: Proprioceptive Neuromuscular Facilitation Technique
 
 Applying a passive stretch after contraction at end range uses the "latency" period after the contraction to apply a greater stretch while minimizing neuromuscular impediments.
 
+The *contract-relax* method originated from the *proprioceptive neuromuscular facilitation* school of thought.
+
+We can divide *contract-relax* into two methods:
+
+1. *Contract-relax technique*
+1. *Contract-relax agonist technique*
+
+# Isolation Contract-relax Technique {#contract-relax-technique}
+
+The standard contract-relax technique includes a static-stretch (SS) phase followed by an intense isometric contraction of the muscle, followed by another SS phase @kayEffectsContractRelaxStatic2015.
+
+- **Passive stretch phase**: 
+- **Contraction phase**: 
+- **Passive stretch phase**: 
+
+# Agonist Technique {#agonist-technique}
+
+The contract-relax agonist technique involves:
+
+::: {.callout}
+"The CR agonist contract method requires an additional contraction of the agonist (i.e., opposing the muscle group being stretched) muscle during the stretch, before the subsequent additional stretch of the target muscle." @kayEffectsContractRelaxStatic2015
+
+I am still trying to understand this sentence, it seems that agonist is the wrong word here.
+:::
+
+- **Active stretch phase**: 
+- **Contraction phase**: 
+- **Active stretch phase**: 
+
+# Physiologic mechanism
+
+There are 2 proposed theories by which CR works:
+
+1. [Autogenic inhibition](#autogenic-inhibition) @kayEffectsContractRelaxStatic2015
+1. [Gate control theory](#gate-control-theory) @kayEffectsContractRelaxStatic2015
+
+## Autogenic inhibition {#autogenic-inhibition}
+
+Autogenic inhibition is proposed to occur during the *contraction phase* of the CR technique @kayEffectsContractRelaxStatic2015.
+During the contraction phase, a stretch is applied to the tendon, causing the [golgi tendon organ]({{< var ref-golgi-tendon-organ.path >}}) to activate and transmit stretch signals via [type Ib sensory afferents]({{< var ref-type-ib-afferent.path >}}) back to the spinal cord @kayEffectsContractRelaxStatic2015.
+An inhibitory signal is created and the &alpha;-motor neurons innervating the [extrafusal fibers]({{< var ref-skeletal-muscle.extrafusal-fiber >}}) are inhibited through hyperpolarization @kayEffectsContractRelaxStatic2015.
+
+
+"This output could reduce the effectiveness of homonymous Type Ia muscle afferent output during stretch, inhibiting the activation of the &alpha;-motoneuron pool, thus possibly enabling further increases in ROM (1,36). Intuitively, a reduction in &alpha;-motoneuron pool activity may enable further increases in ROM, but there is no direct evidence of a causal relationship." @kayEffectsContractRelaxStatic2015.
+
+::: {.callout-note}
+
+"However, Golgi tendon organ activity substantially decreases or ceases once the contraction has terminated, with several studies reporting increased resting EMG activity immediately following the contraction phase of CR stretching" @kayEffectsContractRelaxStatic2015.
+
+"Thus, autogenic inhibition is unlikely to be the primary underlying mechanism explaining either the increases in ROM or the superiority of CR stretching in increasing ROM above other stretching modalities" @kayEffectsContractRelaxStatic2015
+:::
+
+Read more about [autogenic inhibition here]({{< var ref-autogenic-inhibition.path >}})
+
+
+## Gate control theory {#gate-control-theory}
+
+[Gate control theory]({{< var ref-gate-control-theory.path >}}) is another inhibitory mechanism that is theorized to the mechanism of contract-relax techniques @kayEffectsContractRelaxStatic2015.
+
+During the *contraction phase*, there are increased signals from the [Type III sensory afferents]({{< var ref-type-iii-afferent.path >}}) which could inhibit pain perception @kayEffectsContractRelaxStatic2015.
+
+This is possible since pressure receptors and nociceptive fibers ([type IV sensory afferents]({{< var ref-type-iv-afferent.path >}})) output to the same spinal interneuron in the spinal horn @kayEffectsContractRelaxStatic2015.
+Since pressure receptors are larger myelinated neurons whereas [nociceptive type IV afferents]({{< var ref-type-iv-afferent.path >}}) are smaller unmyelinated, the pressure signals take precedence and block the nociceptive signals from travelling up the spinal cord @kayEffectsContractRelaxStatic2015.
+With dampened nociceptive signalling reaching the brain, this could enable one to move further into end range ROM before stopped by pain.
+
+- Increased peak passive torque at full volitional ROM
+- Increased stretch tolerance
+
+::: {.callout-note}
+It should be noted that other stretch modalities, including static stretch, have demonstrated an improvement at end range when limited by pain or discomfort @kayEffectsContractRelaxStatic2015.
+Thus this may not fully explain why *contract-relax techniques* have superior ROM outcomes when compared to other modalities @kayEffectsContractRelaxStatic2015.
+:::
+
+
+# Contract-relax examples
+
+- [FABER Contract-relax]({{< var ref-faber.contract-relax >}})
+- [Thomas Contract-relax]({{< var ref-thomas-test.contract-relax >}})
+- [Straight leg raise contract relax]({{< var ref-straight-leg-raise.contract-relax >}})
+
+
 
 # Other neuromuscular stretches
 
-PAILs & RAILs
+- PAILs & RAILs

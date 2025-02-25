@@ -1,0 +1,19 @@
+---
+title: Golgi Tendon Organ (GTO)
+---
+
+
+
+Found in muscle tendons and transmit information about the *tendon tension* and *rate of change of tension* to the spinal cord @hallGuytonHallTextbook2021.
+
+
+# Golgi tendon reflex
+
+
+# Autogenic inhibition {#autogenic-inhibition}
+
+Involves the golgi tendon reflex
+
+Treatment techniques:
+
+- [Contract-relax technique]({{< var ref-contract-relax-technique.path >}})

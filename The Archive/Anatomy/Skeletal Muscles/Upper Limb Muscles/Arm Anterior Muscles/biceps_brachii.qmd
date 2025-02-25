@@ -74,6 +74,10 @@ else:
 
 ![Brachioradialis acting as a synergist for the Biceps Brachii @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.2 Prime Movers and Synergists.jpeg){#fig-openstax-fig11.2}
 
+::: {.callout-note}
+The [biceps brachii long head]({{< var ref-biceps-brachii-long-head.action >}}) is also involved in abduction and a rupture will result in ~20% decrease in abduction *strength* @jonesProjectFoundations2025.
+:::
+
 :::{.callout-note}
 How does the Biceps Brachii Long head function as a GHJ stabilizer?
 

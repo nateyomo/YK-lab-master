@@ -1,0 +1,107 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Spinalis Muscle\n",
+        "---\n",
+        "\n",
+        "\n",
+        "![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}\n"
+      ],
+      "id": "c2edca23"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-spinalis-muscles-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "#| tbl-cap: Spinalis muscles\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'muscle_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['spinalis_cervicis | spinalis_thoracis']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-spinalis-muscles-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Spinalis Cervicis\n",
+        "## Origin {#origin}\n",
+        "C5-T2 (SP) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "## Insertion {#insertion} \n",
+        "C2-C5 (SP) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "## Innervation {#innervation}\n",
+        "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "## Action {#action}\n",
+        "\n",
+        "- **BIL**: Extends C/S and T/S @gilroyAtlasAnatomy2020\n",
+        "- **UNIL**: I/L SB cervical and thoracic spine @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "\n",
+        "# Spinalis Thoracis\n",
+        "## Origin {#origin}\n",
+        "T10-L3 (SP, lat surface) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "## Insertion {#insertion} \n",
+        "T2-T8 (SP, lat surface) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "## Innervation {#innervation}\n",
+        "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "## Action {#action}\n",
+        "\n",
+        "- **BIL**: Extends C/S and T/S @gilroyAtlasAnatomy2020\n",
+        "- **UNIL**: I/L SB cervical and thoracic spine @gilroyAtlasAnatomy2020"
+      ],
+      "id": "a667cd5b"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

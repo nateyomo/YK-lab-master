@@ -80,6 +80,8 @@ The coracobrachialis performs
 
 When looking at the shoulder as a whole, the coracobrachialis assists with the first 0-60&deg; of shouulder flexion/elevation since this primarily involves the glenohumeral joint @duttonDuttonOrthopaedicExamination2020.
 
+The coracobrachialis functions to support the anterior shoulder @jonesProjectFoundations2025.
+
 # Function
 
 Coracobrachialis serves as a [secondary flexor]({{< var ref-shoulder-flexor-muscle-group.path >}}) and [adductor]({{< var ref-shoulder-adductor-muscle-group.path >}}) of the shoulder @bielTrailGuideBody2019.

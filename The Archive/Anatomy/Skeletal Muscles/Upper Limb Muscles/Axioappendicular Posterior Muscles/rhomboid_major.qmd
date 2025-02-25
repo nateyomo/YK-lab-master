@@ -61,13 +61,22 @@ Medial border of scapula (*below scapular spine*) @gilroyAtlasAnatomy2020
 
 **STJ**: Retraction, Downward rotation, Stabilization @gilroyAtlasAnatomy2020 
 
+The rhomboid major fixes the scapula to the thoracic wall @jonesProjectFoundations2025.
 
-
-# Notes
 
 
 # Function
 
 The Serratus Anterior (along with the rhomboids) serves to aid in scapular stability during arm elevation @duttonDuttonOrthopaedicExamination2020 
 
-![Superior View of the shoulder: You can see how the rhomboids and SA both actively stabilize the scapulothoracic joint by pulling the scapula towards the thoracic wall @duttonDuttonOrthopaedicExamination2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Posterior Muscles/images/Dutton fig16.2 Superior aspect of shoulder.png)
+
+
+# Release {#release}
+
+Compressing the rhomboid against the ribcage is not the most effective way to release this muscle.
+It is better to stabilize the scapula with one hand and drive the fingertips of the other hand anterolaterally deep to the scapula in order to apply a stretch @jonesProjectFoundations2025.
+
+
+# Paralysis {#paralysis}
+
+Rhomboid paralysis can result in a separation of the scapula from the thoracic wall, known as a "scapular winging sign" @jonesProjectFoundations2025.

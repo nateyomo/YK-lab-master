@@ -24,3 +24,10 @@ Opioids inhibit the GABA neuron in the PAG, which increases activation of the ne
 
 
 # Output
+
+
+
+
+# Rigidity {#rigidity}
+
+Alterations in the brainstem circuits, including this one, can result in abnormal muscle tone, specifically [rigidity]({{< var ref-rigidity.path >}}) @gangulyMuscleTonePhysiology2021

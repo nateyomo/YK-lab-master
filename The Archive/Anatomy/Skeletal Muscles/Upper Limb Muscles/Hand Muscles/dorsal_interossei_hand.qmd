@@ -33,8 +33,7 @@ if script_file_path.exists():
     from process_oian_table import process_oian_table  # Import the specific function
 
     # Define the column to filter by and the identifiers to include
-    filter_column = 'group
-    _identifier'  # Choose the column you want to filter by
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
     filter_identifiers = ['hand_dorsal_interossei_muscle_group']  # Replace with actual identifiers you want to include
 
     # Call the function to get the HTML table with filtering

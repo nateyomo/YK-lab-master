@@ -3,21 +3,6 @@ title: Prevertebral Muscle Group
 ---
 
 
-:::{layout-ncol="3"}
-
-
-
-:::
-
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Longus Capitis]({{< var ref-longus-capitis.path >}}) | {{< var ref-longus-capitis.origin >}} | {{< var ref-longus-capitis.insertion >}} | {{< var ref-longus-capitis.nerve >}} | {{< var ref-longus-capitis.action >}} |
-| [Longus Colli Cervicis]({{< var ref-longus-colli-cervicis.path >}}) | {{< var ref-longus-colli-cervicis.origin >}} | {{< var ref-longus-colli-cervicis.insertion >}} | {{< var ref-longus-colli-cervicis.nerve >}} | {{< var ref-longus-colli-cervicis.action >}} |
-| [Rectus Capitis Anterior]({{< var ref-rectus-capitis-anterior.path >}}) | {{< var ref-rectus-capitis-anterior.origin >}} | {{< var ref-rectus-capitis-anterior.insertion >}} | {{< var ref-rectus-capitis-anterior.nerve >}} | {{< var ref-rectus-capitis-anterior.action >}} |
-| [Rectus Capitis Lateralis]({{< var ref-rectus-capitis-lateralis.path >}}) | {{< var ref-rectus-capitis-lateralis.origin >}} | {{< var ref-rectus-capitis-lateralis.insertion >}} | {{< var ref-rectus-capitis-lateralis.nerve >}} | {{< var ref-rectus-capitis-lateralis.action >}} |
-: Prevertebral Muscle Group {.striped .hover}
-
-
 ```{python tbl-prevertebral-muscles-oian}
 #| label: tbl-prevertebral-muscles-oian
 #| warning: false
@@ -54,3 +39,16 @@ else:
     print("Script file does not exist. Please check the path.")
 
 ```
+
+
+
+- [Anterior]({{< var ref-anterior-intertransversarii-cervicis.path >}}) and [Posterior Intertransversarii]({{< var ref-posterior-intertransversarii-cervicis.path >}})
+- [Longus colli]({{< var ref-longus-colli.path >}})
+- [Longus capitis]({{< var ref-longus-colli.path >}})
+- [Rectus capitis anterior]({{< var ref-rectus-capitis-anterior.path >}})
+- [Rectus capitis lateralis]({{< var ref-rectus-capitis-lateralis.path >}})
+- Scalenes
+   - [Anterior scalene]({{< var ref-anterior-scalene.path >}})
+   - [Middle scalene]({{< var ref-middle-scalene.path >}})
+   - [Posterior scalene]({{< var ref-posterior-scalene.path >}})
+
