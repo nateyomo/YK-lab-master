@@ -2,6 +2,12 @@
 title: Semispinalis thoracis
 ---
 
+::: {.callout title="Reading list"}
+
+- Thoracolumbar paraspinal muscles @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
 
 ```{python tbl-oian}
 #| label: tbl-oian

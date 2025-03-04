@@ -11,9 +11,20 @@
         "\n",
         "![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}\n",
         "\n",
-        "![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}\n"
+        "![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Trigger points\n",
+        "    - Rhomboid minor and major Muscle @donnellyTravellSimonsSimons2019\n",
+        "    - Rhomboids @finandoTriggerPointTherapy2005\n",
+        "- @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "8df3aa71"
+      "id": "a2af43a0"
     },
     {
       "cell_type": "code",
@@ -110,7 +121,7 @@
         "\n",
         "Rhomboid paralysis can result in a separation of the scapula from the thoracic wall, known as a \"scapular winging sign\" @jonesProjectFoundations2025."
       ],
-      "id": "594b1815"
+      "id": "54161c27"
     }
   ],
   "metadata": {

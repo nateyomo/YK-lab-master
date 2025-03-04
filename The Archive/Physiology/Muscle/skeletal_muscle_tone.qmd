@@ -2,6 +2,19 @@
 title: Muscle tone
 ---
 
+::: {.callout title="Reading list"}
+
+
+- Ch 1.1.2 Examination of Muscle Tone @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+
+
+In progress:
+
+- Ch55 Spinal Cord Motor Functions;  the Cord Reflexes @hallGuytonHallTextbook2021
+- @gangulyMuscleTonePhysiology2021
+
+
+:::
 
 # Definition
 
@@ -54,12 +67,19 @@ Phasic tone is observed as a rapid and short duration response resulting from mu
 
 
 
-## Active & Passive {#active-passive}
+# Active & Passive Tone {#active-passive}
 
 
+## Active (Contractile) Tone
+
+Increased tone in the contractile components of the muscle is known as a "muscle spasm" @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+
+## Passive (Connective tissue) Tone
 
 "The viscoelastic component in turn depends upon multiple factors like the sarcomeric actin-myosin cross-bridges, the viscosity, elasticity, and extensibility of the contractile filaments, filamentous connection of the sarcomeric non-contractile proteins (e.g., desmin, titin), osmotic pressure of the cells, and also on the surrounding connective tissues [3,4]" @gangulyMuscleTonePhysiology2021.
 
+
+Increased tone in the *connective/passive* components is termed "muscle contracture" @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
 
 
 
@@ -94,6 +114,15 @@ The muscle spindle within the skeletal muscle sends signals to the muscle belly 
 
 ## Supraspinal control {#supraspinal-control}
 
+The cerebellum plays an important role in modulation of muscle tone @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+
+A number of transmitters play a role in modulating muscle tone:
+
+- Glutamate: Glutamate is an **excitatory** neurotransmitter released in the [corticospinal tract]({{< var ref-corticospinal-tract.path >}}) and [type Ia afferent fibers]({{< var ref-type-ia-afferent.path >}}) @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+- Gamma Aminobutyric Acid (GABA): GABA is an **inhibitory** neurotransmitter @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+    - GABA is released on the interneurons of the posterior spinal horns @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+    - Presynaptic inhibition decreases afferent signalling and thus decreases glutamate release @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+- Catecholamines & serotonin: These regulate spinal reflexes @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
 
 
 ## Spinal control {#spinal-control}
@@ -112,6 +141,13 @@ Tendon stretching detected by the [GTOs]({{< var ref-golgi-tendon-organ.path >}}
 
 
 ## Stretch-reflex
+
+::: {.callout title="Reading list"}
+
+- Ch32 p762 @kandelPrinciplesNeuralScience2021
+- 
+
+:::
 
 These muscle spindle signals travelling through [type Ia]({{< var ref-type-ia-afferent.path >}}) and [II]({{< var ref-type-ii-afferent.path >}}) active the *stretch-reflex* @gangulyMuscleTonePhysiology2021.
 A motor efferent signal is transmitted through [alpha-motor (&alpha;-motor)]({{< var ref-alpha-motor-neuron.path >}}) and [gamma-motor (&gamma;-motor)]({{< var ref-gamma-motor-neuron.path >}}) neurons @gangulyMuscleTonePhysiology2021.
@@ -149,11 +185,13 @@ This static stretch reflex response is the physiological basis of maintaining mu
 # Static response loop
 
 - &gamma;-s motor efferents
+- Nuclear chain fibers
 
 # Dynamic response loop
 
 
 - &gamma;-d motor efferents
+- Nuclear bag fibers
 
 # Dysfunction
 
@@ -293,8 +331,8 @@ Pathophysiological basis of spasticity, rigidity, dystonia, and paratonia @gangu
 
 ::: {.callout}
 
-
-- See DNS chapter "Examination of muscle tone" @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+- Re-read
+    - Ch "Examination of muscle tone" @DynamicNeurologicalStabilizationClinicalRehabilitation2014
 :::
 
 - Velocity dependency
@@ -302,10 +340,19 @@ Pathophysiological basis of spasticity, rigidity, dystonia, and paratonia @gangu
 - Length dependency
 - Type of hypertonicity
 
+
+
+
+
 # Orthopedic "Tone"
 
 Throughout my (@ngy) year of clinical rotations, I repeated the language of my clinical instructors, and claimed that patients with tight or overactive muscles as being "high tone" or "hypertonic."
 
+# Hypertonia
+
+# Spasm
+
+A spasm differs from [hypertonia](#hypertonia), a spasm is a reflexive muscle contraction elicited by nociception or other pathological processes @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
 
 # Spasticity {#spasticity}
 
@@ -335,3 +382,7 @@ Throughout my (@ngy) year of clinical rotations, I repeated the language of my c
 - [Orbitofrontal damage]({{< var ref-orbitofrontal.damage >}})
 - [Frontal-subcortical dysfunction]({{< var ref-frontal-subcortical.dysfunction >}})
 - [Advanced glycation end products]({{< var ref-advanced-glycation-end-products.path >}})
+
+
+
+

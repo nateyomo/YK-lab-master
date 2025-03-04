@@ -116,3 +116,14 @@ An articular disc cushions the potentially large and repetitive forces inherent 
 :::{.callout title="TMJ Articular Disc Derangement" collapse="true"}
 "M echanical dysfunction of the TMJ often causes joint popping sounds, along with painful, labored, and reduced movements of the jaw. In addition, mechanical dysfunction may involve an abnormal position of the disc relative to the condyle and fossa, an impairment referred to as internal derangement of the disc.105 The derangement can be caused by pathology, trauma, or other conditions within the joint, including altered disc shape, abnormal slope of the articular eminence, overstretched capsule, or loss of elasticity within the superior retrodiscal lamina.36,56 In addition, internal derangement of the disc may be associated with hyperactivity of muscle, most notably the superior head of the lateral pterygoid. Based on the line of pull and attachments of these muscle fibers, excessive activation can pull and subsequently displace the disc in an anterior and medial direction relative to the joint.4,27,106,107 The cause of the hyperactivity in this muscle is not known for certain, but it can be associated with chronic emotional stress and parafunctional habits, such as excessive tooth grinding or clenching of the teeth.28 Once the disc is abnormally positioned, it is vulnerable to potentially large and damaging stress" @neumannKinesiologyMusculoskeletalSystem2017
 :::
+
+
+
+# Treatment
+
+::: {.callout title="Reading list"}
+
+- Treatment of Headache, Neck Pain, and  TMJ Dysfunction with Counterstrain: @myersClinicalCounterstrain2012
+- Temporomandibular Joint Disorders  and Cranial Counterstrain @myersClinicalCounterstrain2012
+
+:::

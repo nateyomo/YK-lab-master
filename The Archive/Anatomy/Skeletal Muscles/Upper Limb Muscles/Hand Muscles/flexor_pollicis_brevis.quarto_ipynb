@@ -11,9 +11,16 @@
         "\n",
         "![Intrinsic Muscles of the Hand @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.28 Intrinsic Muscles of the Hand.jpeg){#fig-openstax-fig11.28}\n",
         "\n",
-        "![Palmar muscles of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image427 The muscles of the left hand. Palmar surface.gif)\n"
+        "![Palmar muscles of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image427 The muscles of the left hand. Palmar surface.gif)\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "2bd62180"
+      "id": "71e2969e"
     },
     {
       "cell_type": "code",
@@ -89,7 +96,7 @@
         "\n",
         "# Notes"
       ],
-      "id": "69645915"
+      "id": "90875604"
     }
   ],
   "metadata": {

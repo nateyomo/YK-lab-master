@@ -15,6 +15,13 @@ title: Flexor Digitorum Brevis (FDB)
 :::
 
 
+::: {.callout title="Reading list"}
+
+- Ch70 Intrinsic muscles of the foot @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
+
 # Overview
 
 ```{python tbl-oian}

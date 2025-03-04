@@ -53,6 +53,13 @@ gt_table
 
 Claw hand refers to a passive hand position that is commmonly observed following an ulnar nerve lesion.
 
+# Entrapment {#entrapment}
+
+::: {.callout title="Reading list"}
+
+- Ulnar nerve p373 @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+
+:::
 
 # Treatment
 

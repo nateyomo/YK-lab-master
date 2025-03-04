@@ -16,9 +16,15 @@
         "\n",
         "![Transverse cut of the Hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image422 Transverse section across the wrist and digits.gif)\n",
         "\n",
-        "![Muscles of the thumb @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image426 The muscles of the thumb.gif)\n"
+        "![Muscles of the thumb @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image426 The muscles of the thumb.gif)\n",
+        "\n",
+        "::: {.callout title=\"reading list\"}\n",
+        "\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "e2fa24a7"
+      "id": "cf9a6b6c"
     },
     {
       "cell_type": "code",
@@ -93,7 +99,7 @@
         "\n",
         "# Notes"
       ],
-      "id": "9f018d2c"
+      "id": "60c53872"
     }
   ],
   "metadata": {

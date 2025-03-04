@@ -11,9 +11,19 @@
         "\n",
         "![Muscles of the Posterior and lateral neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.14 Posterior and Lateral Views of the Neck.jpeg){#fig-openstax-fig11.14}\n",
         "\n",
-        "![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}\n"
+        "![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Trigger point\n",
+        "    - Semispinalis capitis Muscle @donnellyTravellSimonsSimons2019\n",
+        "    - Posterior cervicals @finandoTriggerPointTherapy2005\n",
+        "- Thoracolumbar paraspinal muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "deb3bbca"
+      "id": "a2d57077"
     },
     {
       "cell_type": "code",
@@ -75,7 +85,7 @@
         "- **BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt) @gilroyAtlasAnatomy2020\n",
         "- **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation @gilroyAtlasAnatomy2020"
       ],
-      "id": "22b59e1e"
+      "id": "65022224"
     }
   ],
   "metadata": {

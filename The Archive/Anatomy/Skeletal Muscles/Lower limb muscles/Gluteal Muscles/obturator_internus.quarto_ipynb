@@ -11,9 +11,19 @@
         "\n",
         "![Hip and Thigh Muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg){#fig-openstax-fig11.29}\n",
         "\n",
-        "![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}\n"
+        "![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Pelvic floor muscles @donnellyTravellSimonsSimons2019\n",
+        "- Ch57 piriformis, obturator internus, gemellus, obturator externus, quadratus femoris muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "128ce2bf"
+      "id": "93048e34"
     },
     {
       "cell_type": "code",
@@ -94,12 +104,18 @@
         "\n",
         "- Gemelli-obturator internus syndrome\n",
         "\n",
+        "# Pain Referral Pattern\n",
+        "\n",
+        "According to Myers, there is no pain referral pattern for the obturator internus @myersClinicalCounterstrain2012.\n",
+        "\n",
+        "Myers does state that it is clinically correllated with pain in the coccyx and posterior thigh @myersClinicalCounterstrain2012.\n",
+        "\n",
         "# Stretch\n",
         "\n",
         "Child's Pose stretch can be used to stretch the Obturator Internus muscle.\n",
         "By cueing the knees to stay straight instead of moving into hip ER, this better stretches the obturator internus."
       ],
-      "id": "f690d7f8"
+      "id": "444879c9"
     }
   ],
   "metadata": {

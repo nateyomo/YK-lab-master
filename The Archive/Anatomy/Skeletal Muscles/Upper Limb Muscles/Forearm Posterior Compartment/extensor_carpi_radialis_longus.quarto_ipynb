@@ -18,9 +18,18 @@
         "\n",
         "![Transverse section of distal forearm @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image421 Transverse section across distal ends of radius and ulna.gif)\n",
         "\n",
-        "![Transverse cut of the Hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image422 Transverse section across the wrist and digits.gif)\n"
+        "![Transverse cut of the Hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image422 Transverse section across the wrist and digits.gif)\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Wrist Extensor and Brachioradialis Muscles @donnellyTravellSimonsSimons2019\n",
+        "- @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "91000262"
+      "id": "64b23982"
     },
     {
       "cell_type": "code",
@@ -94,7 +103,7 @@
         "\n",
         "# Notes"
       ],
-      "id": "3817bb6b"
+      "id": "3253d3f4"
     }
   ],
   "metadata": {

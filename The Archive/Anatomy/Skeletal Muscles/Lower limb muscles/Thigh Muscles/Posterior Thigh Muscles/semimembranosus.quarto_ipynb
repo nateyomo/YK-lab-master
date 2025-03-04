@@ -16,9 +16,18 @@
         "\n",
         "![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}\n",
         "\n",
-        "![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif){#fig-gray1918-image438}\n"
+        "![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif){#fig-gray1918-image438}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch60 Hamstring muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "cfd1170f"
+      "id": "cb57cb85"
     },
     {
       "cell_type": "code",
@@ -97,7 +106,7 @@
         "\n",
         "\"The semimembranosus muscle (Fig. 19-8) arises from the lateral facet of the ischial tuberosity and the ischial ramus. This muscle inserts into the posteromedial aspect of the medial tibial condyle and has a key expansion that reinforces the posteromedial corner of the knee capsule. The semimembranosus pulls the meniscus posteriorly, and internally rotates the tibia on the femur, during knee flexion, although its primary function is to extend the hip and flex the knee.\" @duttonDuttonOrthopaedicExamination2020"
       ],
-      "id": "fd7bf473"
+      "id": "aa8fad01"
     }
   ],
   "metadata": {

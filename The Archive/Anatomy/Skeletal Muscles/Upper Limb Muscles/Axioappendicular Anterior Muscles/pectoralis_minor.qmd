@@ -8,6 +8,20 @@ title: Pectoralis Minor
 
 ![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}
 
+::: {.callout title="Reading list"}
+
+- Trigger points
+    - Pec Minor @donnellyTravellSimonsSimons2019
+    - pec minor @finandoTriggerPointTherapy2005
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+- Completed
+    - @gilroyAtlasAnatomy2020
+
+:::
+
+
 ```{python tbl-pectoralis-minor-oian}
 #| label: tbl-pectoralis-minor-oian
 #| warning: false
@@ -70,4 +84,17 @@ When the scapula is fixed, the pectoralis minor can act on the ribs @jonesProjec
 
 The pectoralis minor can be used as an accessory muscle of inspiration @jonesProjectFoundations2025.
 
+# Myofascial Functional Unit 
 
+The [coracobrachialis]({{< var ref-coracobrachialis.origin >}}) and *pectoralis minor* both have insertions on the [coracoid process]({{< var ref-scapula-bone.coracoid-process >}}), which creates a myofascial line @myersAnatomyTrains2021.
+When the arm is relaxed by one's side since the [pec minor]({{< var ref-pec-minor.path >}}) and **coracobrachialis** fascial lines run in two different directions, thus the line is *inactive* @myersAnatomyTrains2021.
+However, when shoulder is brought into *overhead flexion* (i.e. [tennis serve]({{< var ref-tennis-serve.path >}}) or hanging from a bar) @myersAnatomyTrains2021.
+
+This connection will combine with other myofascial units to form the *Deep front of arm line* and the *Deep Front Line* @myersAnatomyTrains2021.
+
+# Strain-Counterstrain
+
+::: {.callout}
+"Location of Tender Point: 3 to 4 cm inferior to the coracoid process and 1 to 2 cm medial to it, where the tendon joins the muscle. May also be found in the belly of the muscle.  Anatomical Correlation: As stated.  Direction to Press on Tender Point: Press from anterior to posterior.  Treatment Position(s): With patient supine, stand on the side opposite the Tender Point. Affected arm is adducted diagonally across the chest in the same plane as the involved muscle fibers. The arm is then tractioned caudad and medially as though in a line running through the Tender Point. Obtain more force by grasping the point of the shoulder and pulling in the same direction.  Frequency of Occurrence: Common to uncommon.  Clinical Correlation(s): Pain in the anterior shoulder.  Associated Pain Referral Pattern: Anterior chest wall pain and inner arm and hand pain.  Alternate Names/Nomenclatures: None.  Explanatory Notes: None." @myersClinicalCounterstrain2012
+
+:::

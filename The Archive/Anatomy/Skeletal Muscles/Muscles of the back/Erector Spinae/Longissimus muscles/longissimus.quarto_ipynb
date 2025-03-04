@@ -6,9 +6,19 @@
       "source": [
         "---\n",
         "title: Longissimus Muscle\n",
-        "---"
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch16 Longissimus capitis Muscle @donnellyTravellSimonsSimons2019\n",
+        "- Thoracolumbar paraspinal muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "fdac1bec"
+      "id": "e1a71d71"
     },
     {
       "cell_type": "code",
@@ -108,7 +118,7 @@
         "- BIL: Extends spine @gilroyAtlasAnatomy2020\n",
         "- UNIL: I/L SB @gilroyAtlasAnatomy2020"
       ],
-      "id": "80d580f0"
+      "id": "c4a36602"
     }
   ],
   "metadata": {

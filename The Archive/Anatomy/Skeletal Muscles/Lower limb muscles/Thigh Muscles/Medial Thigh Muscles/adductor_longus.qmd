@@ -10,6 +10,15 @@ title: Adductor Longus
 
 ![Deep muscles of the medial thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image433 Deep muscles of the medial femoral region.gif)
 
+::: {.callout title="Reading list"}
+
+- Ch59 Adductor Longus, Adductor Brevis, Adductor Magnus, Pectineus, and Gracilis Muscles @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
 
 ```{python tbl-oian}
 #| label: tbl-oian
@@ -71,3 +80,8 @@ Femur (linea aspera, medial lip in the middle third of the femur) @gilroyAtlasAn
 ::: {.callout-note}
 According to Brad Jones, the adductor longus flexes up to 50&deg;, but then generates a hip extension force past 70&deg; @jonesProjectFoundations2025.
 :::
+
+# Myofascial Unit
+
+Although the *adductor longus* and [biceps femoris short head]({{< var ref-biceps-femoris-short-head.origin >}}) both attach at the *linea aspera* and fascially run in the same direction, these do *not* form a line since the [adductor magnus]({{< var ref-adductor-magnus.path >}}) acts as an *intervening plane* @myersAnatomyTrains2021.
+There may be a functional connection through the bone, but there is no connection via the fascia @myersAnatomyTrains2021.

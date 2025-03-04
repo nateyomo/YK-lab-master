@@ -6,6 +6,19 @@ subtitle: Musculoskeletal overview
 
 ![Thorax and Shoulder girdle (posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image204 gray1918 Posterior view of the thorax and shoulder girdle.gif){#fig-gray1918-image20}
 
+::: {.callout title="Reading list"}
+
+- General
+    - Ch16 Shoulder @duttonDuttonOrthopaedicExamination2020
+    - Sport therapy for the shoulder: evaluation, rehabilitation, and return to sport @ellenbeckerSportTherapyShoulder2017
+- Examination
+    - Ch19 Screening the Shoulder and Upper Extremity @heickGoodmanSnyderDifferential2023
+- Manual Tx
+    - Ch22 Orthopaedic Manual Physical Therapy of the Shoulder Joint Complex @wiseOrthopaedicManualPhysical2015
+- Surgery
+    - Synopsis of Shoulder @srikumaranSynopsisShoulderSurgery2021.
+
+:::
 
 
 There are 3 major axes of the shoulder:
@@ -132,6 +145,9 @@ During abduction, the should complex made up of the [GHJ](#glenohumeral-joint), 
 1. 60-180&deg; is a combination of glenohumeral joint *and* the scapulothoracic joint @jonesProjectFoundations2025.
 
 ## Abduction
+
+
+
 
 There are 4 abductor muscles that form a force coupling of shoulder abduction @jonesProjectFoundations2025.
 
@@ -308,6 +324,27 @@ else:
 - Anterior shoulder
     - Coracobrachialis
 
+# Pain
+
+::: {.callout}
+
+- Clinical Considerations of Upper Back Shoulder and Arm Pain @donnellyTravellSimonsSimons2019
+
+:::
+
+# MMT
+
+::: {.callout title="Reading list"}
+
+- Flexion MMT @weinstockNeuroKineticTherapyInnovative2010
+- ext MMT @weinstockNeuroKineticTherapyInnovative2010
+- Abduction MMT @weinstockNeuroKineticTherapyInnovative2010
+- Adduction MMT @weinstockNeuroKineticTherapyInnovative2010
+- Horizontal abd MMT @weinstockNeuroKineticTherapyInnovative2010
+- Hor adduction MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
 
 # Biomechanics
 

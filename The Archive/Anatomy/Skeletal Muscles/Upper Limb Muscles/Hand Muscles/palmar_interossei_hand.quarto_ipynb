@@ -11,9 +11,16 @@
         "\n",
         "![Intrinsic Muscles of the Hand @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.28 Intrinsic Muscles of the Hand.jpeg){#fig-openstax-fig11.28}\n",
         "\n",
-        "![Palmar Interossei of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image429 The Interossei volares of left hand.gif)\n"
+        "![Palmar Interossei of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image429 The Interossei volares of left hand.gif)\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Interosseous, Lumbrical, and Abductor Digiti Minimi Muscles @donnellyTravellSimonsSimons2019\n",
+        "- @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "ecca1473"
+      "id": "e3f73fc6"
     },
     {
       "cell_type": "code",
@@ -98,7 +105,7 @@
         "\n",
         "# Notes"
       ],
-      "id": "5222588d"
+      "id": "10dcec30"
     }
   ],
   "metadata": {

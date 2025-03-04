@@ -15,9 +15,16 @@
         "![Palmar muscles of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image427 The muscles of the left hand. Palmar surface.gif)\n",
         "\n",
         "![Dorsal interossei (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image428 The Interossei dorsales of left hand.gif)\n",
+        ":::\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Interosseous, Lumbrical, and Abductor Digiti Minimi Muscles @donnellyTravellSimonsSimons2019\n",
+        "- @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
         ":::\n"
       ],
-      "id": "3f3a2c31"
+      "id": "52818ec7"
     },
     {
       "cell_type": "code",
@@ -101,7 +108,7 @@
         "\n",
         "# Notes"
       ],
-      "id": "0178001f"
+      "id": "400d223e"
     }
   ],
   "metadata": {

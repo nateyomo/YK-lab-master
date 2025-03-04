@@ -8,6 +8,15 @@ title: Coracobrachialis Muscle
 ![Pectoralis Major and Coracobrachialis, anterior view @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/images/gilroyatlas fig25.25c pectoralis major and coracobrachialis.png)
 :::
 
+::: {.callout title="Reading list"}
+
+- Coracobrachialis Muscle @donnellyTravellSimonsSimons2019
+- @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false
@@ -91,6 +100,14 @@ Coracobrachialis serves as a [secondary flexor]({{< var ref-shoulder-flexor-musc
  - Scratching your opposite ear @bielTrailGuideBody2019.
  - Bench press @bielTrailGuideBody2019.
  - Using your forearm to block in front of your chest during combat sports @bielTrailGuideBody2019.
+
+# Myofascial Functional Unit 
+
+The *coracobrachialis* and [pectoralis minor]({{< var ref-pectoralis-minor.insertion >}}) both have insertions on the [coracoid process]({{< var ref-scapula-bone.coracoid-process >}}), which creates a myofascial line @myersAnatomyTrains2021.
+When the arm is relaxed by one's side since the [pec minor]({{< var ref-pec-minor.path >}}) and **coracobrachialis** fascial lines run in two different directions, thus the line is *inactive* @myersAnatomyTrains2021.
+However, when shoulder is brought into *overhead flexion* (i.e. [tennis serve]({{< var ref-tennis-serve.path >}}) or hanging from a bar) @myersAnatomyTrains2021.
+
+This connection will combine with other myofascial units to form the *Deep front of arm line* and the *Deep Front Line* @myersAnatomyTrains2021.
 
 # Dysfunction
 

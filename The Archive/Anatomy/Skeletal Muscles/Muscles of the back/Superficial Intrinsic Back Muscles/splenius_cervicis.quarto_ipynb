@@ -10,9 +10,17 @@
         "\n",
         "\n",
         "\n",
-        "![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}\n"
+        "![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Trigger points\n",
+        "    - Splenisu cervicis Muscle @donnellyTravellSimonsSimons2019\n",
+        "    - @finandoTriggerPointTherapy2005\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "35f8dd73"
+      "id": "84c005d3"
     },
     {
       "cell_type": "code",
@@ -84,7 +92,7 @@
         "\n",
         "# Clinical significance"
       ],
-      "id": "497d24f3"
+      "id": "f2607bb0"
     }
   ],
   "metadata": {

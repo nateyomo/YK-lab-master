@@ -7,6 +7,16 @@ title: Tensor Fascia Latae (TFL)
 
 ![Muscles of the Iliac and Anterior femoral regions @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image430 Muscles of the iliac and anterior femoral regions.gif)
 
+
+::: {.callout title="Reading list"}
+
+- Gluteus minimus and tensor fascia latae muscles @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
 ```{python tbl-oian}
 #| label: tbl-oian-tensor-fascia-latae
 #| warning: false

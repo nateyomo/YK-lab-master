@@ -3,6 +3,14 @@ title: Trapezius Muscles
 ---
 
 
+::: {.callout}
+
+- Trigger points
+    - @donnellyTravellSimonsSimons2019
+    - Trapezius @finandoTriggerPointTherapy2005
+:::
+
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false
@@ -57,6 +65,12 @@ External occipital protuberance—Locate the base of the skull at the midline, j
 
 
 
+# Dysfunction
 
+::: {.callout}
+
+- Ch6 Trapezius Muscle @donnellyTravellSimonsSimons2019
+
+:::
 
 

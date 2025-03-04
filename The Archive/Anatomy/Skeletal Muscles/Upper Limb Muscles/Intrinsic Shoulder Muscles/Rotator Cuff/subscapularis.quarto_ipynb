@@ -11,9 +11,19 @@
         "\n",
         "![Muscles that move the humerus @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.23 Muscles That Move the Humerus.jpeg){#fig-openstax-fig11.23}\n",
         "\n",
-        "![Left Humerus (Anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image207 gray1918 Left humerus. Anterior view.gif){#fig-gray1918-image207}\n"
+        "![Left Humerus (Anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image207 gray1918 Left humerus. Anterior view.gif){#fig-gray1918-image207}\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Subscapularis Muscle @donnellyTravellSimonsSimons2019\n",
+        "- @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "847cdc22"
+      "id": "d1d77f49"
     },
     {
       "cell_type": "code",
@@ -112,9 +122,16 @@
         "::: {.callout-note}\n",
         "Sometimes patients can feel neurological symptoms of pain radiating up to the neck or down to the arm.\n",
         "This is common due to the relationship of the subscapularis tissue and the nearby neurovasculature\n",
+        ":::\n",
+        "\n",
+        "\n",
+        "# Strain-Counterstrain\n",
+        "\n",
+        "::: {.callout}\n",
+        "\"SUBSCAPULARIS  Location of Tender Point: Along the lateral margin of the scapula on the anterior lateral margin of the subscapularis muscle. Delve under the scapula with your finger.  Anatomical Correlation: As stated.  Direction to Press on Tender Point: Press from anterior lateral to posterior medial.  =Ss  Treatment Position(s): Patient is supine with affected arm and shoulder over the lateral side of the table. Extend shoulder about 30° to bring the level of the muscle insertion parallel to the origin on the anterior surface of the scapula. Rotate the humerus internally with slight adduction. In this instance, it will not be possible to monitor the Tender Point during treatment.  i4e]  Frequency of Occurrence: Uncommon to rare.  Clinical Correlation(s): Pain in the posterior shoulder area made worse by abduction or flexion of the shoulder.  Associated Pain Referral Pattern: Pain in the pain pattern  upper arm and wrist.  Alternate Names/Nomenclatures: None.  Explanatory Notes: None.\" @myersClinicalCounterstrain2012\n",
         ":::"
       ],
-      "id": "eee329f1"
+      "id": "969c58d3"
     }
   ],
   "metadata": {

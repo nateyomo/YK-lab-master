@@ -21,9 +21,19 @@
         "\n",
         "![Palmar muscles of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image427 The muscles of the left hand. Palmar surface.gif)\n",
         "\n",
-        "![Muscles that move the Forearm @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.25 Muscles That Move the Forearm.jpeg){#fig-openstax-fig11.25}\n"
+        "![Muscles that move the Forearm @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.25 Muscles That Move the Forearm.jpeg){#fig-openstax-fig11.25}\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Wrist and finger flexor Muscles @donnellyTravellSimonsSimons2019\n",
+        "- @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "d93350b6"
+      "id": "1ab0cf28"
     },
     {
       "cell_type": "code",
@@ -94,7 +104,7 @@
         "\n",
         "# Notes"
       ],
-      "id": "d626e2bc"
+      "id": "c573dddb"
     }
   ],
   "metadata": {

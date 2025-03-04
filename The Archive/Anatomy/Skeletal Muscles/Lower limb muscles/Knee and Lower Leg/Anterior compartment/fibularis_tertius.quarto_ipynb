@@ -20,9 +20,19 @@
         "\n",
         "![The Mucous sheaths of the tendons around the ankle (lateral view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image441 The mucous sheaths of the tendons around the ankle. Lateral aspect.gif)\n",
         "\n",
+        ":::\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch64 Fibularis longus, brevis, tertius muscle @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
         ":::\n"
       ],
-      "id": "020ad116"
+      "id": "8e027637"
     },
     {
       "cell_type": "code",
@@ -139,7 +149,7 @@
         "## Eversion\n",
         "Fibularis teritus, [Fibularis Longus]({{< var ref-fibularis-longus.path >}}), and [Fibularis Brevis]({{< var ref-fibularis-brevis.path >}}) work together to perform Eversion and *prevent* hyper-inversion @olewnikFibularisTertiusAnatomical2019.\n"
       ],
-      "id": "595f935d"
+      "id": "3824fe4f"
     }
   ],
   "metadata": {

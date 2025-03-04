@@ -2,3 +2,17 @@
 title: Hypothalamus
 ---
 
+::: {.callout title="Reading list"}
+
+- Ch10 p360 lesions of hypothalamus @silbernaglColorAtlasPathophysiology2016
+
+:::
+
+
+# Nuclei
+
+
+## Suprachiasmatic nucleus (SCN)
+
+
+![Segregation of Visual Field information at the Optic Chiasm @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig14.22 openstax Segregation of Visual Field Information at the Optic Chiasm.jpeg){#fig-openstax-fig14.22}

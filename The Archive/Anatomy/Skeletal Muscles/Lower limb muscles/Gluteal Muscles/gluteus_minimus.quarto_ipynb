@@ -12,9 +12,18 @@
         "\n",
         "![Hip and Thigh Muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg){#fig-openstax-fig11.29}\n",
         "\n",
-        "![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}\n"
+        "![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Gluteus minimus and tensor fascia latae muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "4e920d31"
+      "id": "836f0e54"
     },
     {
       "cell_type": "code",
@@ -88,6 +97,13 @@
         "\n",
         "The gluteus minimus generates a force equivalent of ~4.9kg, which is 3x less than the glute med @jonesProjectFoundations2025.\n",
         "\n",
+        "\n",
+        "\n",
+        "# Pain Referral pattern\n",
+        "\n",
+        "- Posterior buttock, thigh, and leg @myersClinicalCounterstrain2012\n",
+        "- Lateral thigh and leg @myersClinicalCounterstrain2012\n",
+        "\n",
         "# Exercises {#exercise}\n",
         "\n",
         "A wedge forcing the foot into hyper-dorsiflexion will cause the client to prevent excessive anterior knee translation and force more hip hinge, which will activate the glutes.\n",
@@ -97,7 +113,7 @@
         "- Bridge (toes up)\n",
         "- S/L Hip abduction to high knee"
       ],
-      "id": "e229601a"
+      "id": "1f249f52"
     }
   ],
   "metadata": {

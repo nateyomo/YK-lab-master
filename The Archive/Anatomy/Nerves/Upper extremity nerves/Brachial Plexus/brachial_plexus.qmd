@@ -6,6 +6,13 @@ title: Brachial Plexus
 
 ![Brachial Plexus @duttonDuttonOrthopaedicExamination2020](/The Archive/Anatomy/Nerves/Upper extremity nerves/images/fig3.9 Brachial Plexus Dutton.png)
 
+::: {.callout title="Reading list"}
+
+- Pathology
+    - Ch23 Brachial plexus birth palsy @goodmanGoodmanFullerPathology2020
+
+:::
+
 # Anatomy
 ## Nerve roots
 

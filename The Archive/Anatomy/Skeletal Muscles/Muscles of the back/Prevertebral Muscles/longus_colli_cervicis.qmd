@@ -2,6 +2,11 @@
 title: Longus colli cervicis
 ---
 
+::: {.callout title="Reading list"}
+
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+:::
 
 
 ```{python tbl-oian}

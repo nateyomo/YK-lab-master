@@ -10,6 +10,15 @@ title: Plantaris Muscle
 
 :::
 
+
+::: {.callout title="Reading list"}
+
+- Ch66 Soleus and Plantaris muscles @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
+
+
 # Overview
 
 ```{python tbl-oian}

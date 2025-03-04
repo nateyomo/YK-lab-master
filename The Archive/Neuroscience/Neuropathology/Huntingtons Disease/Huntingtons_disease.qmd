@@ -1,5 +1,9 @@
 ---
-title: Huntington's Disease
+title: Huntington Disease
 ---
 
+::: {.callout title="Reading list"}
 
+- ch31 Huntington Disease @goodmanGoodmanFullerPathology2020
+
+:::

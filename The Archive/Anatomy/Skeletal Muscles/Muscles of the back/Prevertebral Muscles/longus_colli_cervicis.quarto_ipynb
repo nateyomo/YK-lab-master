@@ -6,9 +6,16 @@
       "source": [
         "---\n",
         "title: Longus colli cervicis\n",
-        "---"
+        "---\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "465f46f2"
+      "id": "0d21fd71"
     },
     {
       "cell_type": "code",
@@ -84,7 +91,7 @@
         "\n",
         "# Clinical significance"
       ],
-      "id": "cebbc0aa"
+      "id": "646688db"
     }
   ],
   "metadata": {

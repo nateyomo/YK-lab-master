@@ -3,6 +3,12 @@ title: Serratus Posterior Superior
 ---
 
 
+::: {.callout title="Reading list"}
+
+- Serratus posterior superior and inferior @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
 
 
 ```{python tbl-oian}

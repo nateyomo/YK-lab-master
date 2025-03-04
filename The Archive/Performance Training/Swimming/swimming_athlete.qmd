@@ -2,6 +2,11 @@
 title: Swimming Athlete
 ---
 
+::: {.callout title="Reading list"}
+
+- Swimming Anatomy @mcleodSwimmingAnatomy2010
+
+:::
 
 # Performance Training
 

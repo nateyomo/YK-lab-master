@@ -5,6 +5,10 @@ title: Parkinson's Disease (PD)
 :::{.callout title="Resources"}
 
 - Suzanne - Ch14 @martinNeurologicInterventionsPhysical2021a 
+- Ch18 PD @fulkOSullivanSchmitzsPhysical2024
+- ch31 PD @goodmanGoodmanFullerPathology2020
+- Ch102 PD (sleep book) @kryger2021SleepMedicine
+
 :::
 
 - Parkinson’s disease (PD) is the most common movement disorder @montalban-rodriguezGutBrainRole2024

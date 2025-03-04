@@ -19,9 +19,18 @@
         "\n",
         "![Deep posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image439 Muscles of the back of the leg. Deep layer.gif)\n",
         "\n",
+        ":::\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch66 Soleus and Plantaris muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
         ":::\n"
       ],
-      "id": "805fc8c9"
+      "id": "0d35ad63"
     },
     {
       "cell_type": "code",
@@ -143,7 +152,7 @@
         "\n",
         "- [3D Calf Stretch]({{< var ref-3d-calf-stretch.path >}})"
       ],
-      "id": "f431c292"
+      "id": "f20bbabf"
     }
   ],
   "metadata": {

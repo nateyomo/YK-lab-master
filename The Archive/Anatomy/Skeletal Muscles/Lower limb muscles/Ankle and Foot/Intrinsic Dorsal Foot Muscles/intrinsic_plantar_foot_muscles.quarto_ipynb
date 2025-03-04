@@ -33,7 +33,7 @@
         "\n",
         "# 1st Layer\n"
       ],
-      "id": "2b107696"
+      "id": "ea9ccf4f"
     },
     {
       "cell_type": "code",
@@ -89,7 +89,7 @@
         "| [Lumbricals]({{< var ref-foot-lumbricals.path >}}) | {{< var ref-foot-lumbricals.origin >}} | {{< var ref-foot-lumbricals.insertion >}} | {{< var ref-foot-lumbricals.nerve >}} | {{< var ref-foot-lumbricals.action >}} |\n",
         ": {.striped .hover}\n"
       ],
-      "id": "5dd712f2"
+      "id": "d0a5addf"
     },
     {
       "cell_type": "code",
@@ -155,7 +155,7 @@
         "| [Dorsal Interossei]({{< var ref-dorsal-interossei.path >}}) | {{< var ref-dorsal-interossei.origin >}} | {{< var ref-dorsal-interossei.insertion >}} | {{< var ref-dorsal-interossei.nerve >}} | {{< var ref-dorsal-interossei.action >}} |\n",
         ": {.striped .hover}"
       ],
-      "id": "803086cf"
+      "id": "cf045b13"
     }
   ],
   "metadata": {

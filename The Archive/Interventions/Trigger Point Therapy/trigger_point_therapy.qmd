@@ -1,0 +1,19 @@
+---
+title: Trigger Point Therapy
+---
+
+::: {.callout title="Textbooks to read"}
+
+- @donnellyTravellSimonsSimons2019
+:::
+
+
+
+# Physiology
+
+
+::: {.callout}
+
+- Trigger Point Neurophysiology @donnellyTravellSimonsSimons2019
+
+:::

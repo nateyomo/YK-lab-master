@@ -8,6 +8,15 @@ title: Extensor Digitorum Longus (EHL)
 ![Intrinsic foot muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.34 Intrinsic Muscles of the Foot.jpeg){#fig-openstax-fig11.34}
 
 
+::: {.callout title="Reading list"}
+
+- Ch68 Long toe extensor muscles @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false

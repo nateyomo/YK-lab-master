@@ -30,9 +30,18 @@
         ":::\n",
         "\n",
         "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch69 Long toe flexor muscles of the foot @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n",
+        "\n",
         "# Overview\n"
       ],
-      "id": "98c9e62e"
+      "id": "6fdd6a17"
     },
     {
       "cell_type": "code",
@@ -133,7 +142,7 @@
         "\n",
         "- [3D Calf Stretch]({{< var ref-3d-calf-stretch.path >}})"
       ],
-      "id": "315263a2"
+      "id": "c12f2e4a"
     }
   ],
   "metadata": {

@@ -5,7 +5,13 @@ title: Splenius Cervicis
 
 ![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}
 
+::: {.callout title="Reading list"}
 
+- Trigger points
+    - Splenisu cervicis Muscle @donnellyTravellSimonsSimons2019
+    - @finandoTriggerPointTherapy2005
+
+:::
 
 ```{python tbl-oian}
 #| label: tbl-oian

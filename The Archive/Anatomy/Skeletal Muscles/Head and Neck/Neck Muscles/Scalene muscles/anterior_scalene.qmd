@@ -8,6 +8,14 @@ title: Anterior Scalene Muscle
 
 ![Hypoglossal nerve, cervical plexus, and their respective branches @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image794 Hypoglossal nerve cervical plexus and their branches.gif){#fig-gray1918-image794}
 
+::: {.callout title="Reading list"}
+
+- Scalene Muscle @donnellyTravellSimonsSimons2019
+- @neumannKinesiologyMusculoskeletalSystem2017
+- SCM MMT @weinstockNeuroKineticTherapyInnovative2010
+
+:::
+
 
 ```{python tbl-oian}
 #| label: tbl-oian

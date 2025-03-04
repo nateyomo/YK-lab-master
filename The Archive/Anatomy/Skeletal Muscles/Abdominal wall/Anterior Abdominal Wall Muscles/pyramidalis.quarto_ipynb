@@ -7,9 +7,18 @@
         "---\n",
         "title: Pyramidalis Muscle\n",
         "subtitle: Anterior abdominal wall muscle\n",
-        "---"
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Abdominal muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "1f467d5c"
+      "id": "aec8f256"
     },
     {
       "cell_type": "code",
@@ -82,7 +91,7 @@
         "If the pyramidalis is absent, the [rectus abdominis]({{< var ref-rectus-abdominis.path >}}) will adjust and increase its size.\n",
         ":::"
       ],
-      "id": "43607693"
+      "id": "54db0308"
     }
   ],
   "metadata": {

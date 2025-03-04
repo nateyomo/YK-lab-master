@@ -12,9 +12,15 @@
         ":::{layout-ncol=\"3\"}\n",
         "\n",
         "![Muscles of the Posterior and lateral neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.14 Posterior and Lateral Views of the Neck.jpeg){#fig-openstax-fig11.14}\n",
+        ":::\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Suboccipital Muscles @donnellyTravellSimonsSimons2019\n",
+        "\n",
         ":::\n"
       ],
-      "id": "42e9936d"
+      "id": "0c801a00"
     },
     {
       "cell_type": "code",
@@ -83,7 +89,7 @@
         "\n",
         "# Clinical significance"
       ],
-      "id": "9339ab31"
+      "id": "9c3d3303"
     }
   ],
   "metadata": {

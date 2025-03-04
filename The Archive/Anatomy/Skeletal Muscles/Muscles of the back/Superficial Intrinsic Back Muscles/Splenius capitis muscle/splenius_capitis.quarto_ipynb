@@ -11,9 +11,20 @@
         "\n",
         "![Muscles of the Posterior and lateral neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.14 Posterior and Lateral Views of the Neck.jpeg){#fig-openstax-fig11.14}\n",
         "\n",
-        "![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}\n"
+        "![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Trigger points\n",
+        "    - Splenius capitis Muscle @donnellyTravellSimonsSimons2019\n",
+        "    - @finandoTriggerPointTherapy2005\n",
+        "- Finished\n",
+        "    - Gilroy @gilroyAtlasAnatomy2020\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "8963000e"
+      "id": "33251e16"
     },
     {
       "cell_type": "code",
@@ -160,7 +171,7 @@
         "\n",
         "# Clinical significance"
       ],
-      "id": "db8cca76"
+      "id": "c283a0e1"
     }
   ],
   "metadata": {

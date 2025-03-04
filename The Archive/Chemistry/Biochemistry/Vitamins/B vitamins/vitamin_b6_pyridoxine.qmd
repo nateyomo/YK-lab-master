@@ -1,0 +1,13 @@
+---
+title: Pyridoxine (Vitamin B6)
+---
+
+
+
+# Toxicity {#toxicity}
+
+::: {.callout}
+see Ch20 p455 @amato
+:::
+
+# Deficiency {#deficiency}

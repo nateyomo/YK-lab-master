@@ -11,6 +11,17 @@ title: Levator Scapulae
 ![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}
 
 
+::: {.callout title="Reading list"}
+
+- Trigger Points
+    - Ch19 lev scap Muscle @donnellyTravellSimonsSimons2019
+    - Lev scap @finandoTriggerPointTherapy2005
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false

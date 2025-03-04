@@ -6,9 +6,17 @@
       "source": [
         "---\n",
         "title: Semispinalis thoracis\n",
-        "---"
+        "---\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Thoracolumbar paraspinal muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "512943c0"
+      "id": "29ac4675"
     },
     {
       "cell_type": "code",
@@ -70,7 +78,7 @@
         "- **BIL**: Extends thoracic and cervical spines and head (stabilizes craniovertebral jt) @gilroyAtlasAnatomy2020\n",
         "- **UNIL**: I/L SB of head, cervical, and thoracic spine; C/L Rotation @gilroyAtlasAnatomy2020"
       ],
-      "id": "fde35d93"
+      "id": "a4a70640"
     }
   ],
   "metadata": {

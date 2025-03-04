@@ -6,6 +6,12 @@ title: Flexor Pollicis Brevis (FPB)
 
 ![Palmar muscles of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image427 The muscles of the left hand. Palmar surface.gif)
 
+::: {.callout title="Reading list"}
+
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
 
 ```{python tbl-oian}
 #| label: tbl-oian

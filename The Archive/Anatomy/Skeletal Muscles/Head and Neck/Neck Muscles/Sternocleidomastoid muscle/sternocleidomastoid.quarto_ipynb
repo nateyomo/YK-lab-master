@@ -9,24 +9,23 @@
         "---\n",
         "\n",
         "\n",
-        "<!--\n",
-        "To do list\n",
+        "::: {.callout title=\"Reading list\"}\n",
         "\n",
-        "- Neuman\n",
+        "- To read\n",
+        "    - Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "    - Dutton @duttonDuttonOrthopaedicExamination2020\n",
+        "    - SCM MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "- in progress\n",
+        "    - Trigger points\n",
+        "       - @finandoTriggerPointTherapy2005\n",
+        "        - @donnellyTravellSimonsSimons2019\n",
+        "    - Images\n",
+        "        - @OpenStaxAnatomyPhysiology2022\n",
+        "        - @grayAnatomyHumanBody1918\n",
+        "- Completed\n",
+        "    - @gilroyAtlasAnatomy2020\n",
+        ":::\n",
         "\n",
-        "- Atlas pictures\n",
-        "- @duttonDuttonOrthopaedicExamination2020\n",
-        "\n",
-        "in progress\n",
-        "\n",
-        "- @finandoTriggerPointTherapy2005\n",
-        "- @donnellyTravellSimonsSimons2019\n",
-        "\n",
-        "done:\n",
-        "\n",
-        "- @gilroyAtlasAnatomy2020\n",
-        "\n",
-        "-->\n",
         "\n",
         "\n",
         "![Muscles of the Posterior and lateral neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.14 Posterior and Lateral Views of the Neck.jpeg){#fig-openstax-fig11.14}\n",
@@ -39,7 +38,7 @@
         "\n",
         "![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}\n"
       ],
-      "id": "b6727d73"
+      "id": "7dddac3b"
     },
     {
       "cell_type": "code",
@@ -523,7 +522,7 @@
         "- Have them bring their head up and look at their *contralateral* foot.\n",
         "- This will create neck flexion with contralateral rotation\n"
       ],
-      "id": "210e0b24"
+      "id": "e51a85ca"
     }
   ],
   "metadata": {

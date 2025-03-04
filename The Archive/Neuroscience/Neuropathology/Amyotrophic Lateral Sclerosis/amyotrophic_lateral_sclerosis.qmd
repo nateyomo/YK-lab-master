@@ -6,6 +6,10 @@ title: "Amyotrophic Lateral Sclerosis (ALS)"
 :::{.callout title="Resources"}
 
 - Suzanne - Ch14 P546 @martinNeurologicInterventionsPhysical2021a 
+- Ch17 ALS @fulkOSullivanSchmitzsPhysical2024
+- Ch31 ALS @goodmanGoodmanFullerPathology2020
+- Ch6 ALS @amatoNeuromuscularDisorders2016
+
 :::
 
 # How to study ALS 

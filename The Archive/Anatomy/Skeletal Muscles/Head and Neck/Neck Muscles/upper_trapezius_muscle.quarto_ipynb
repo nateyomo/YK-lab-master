@@ -19,9 +19,18 @@
         "\n",
         "![Path of CN IX glossopharyngeal, CN X Vagus, CN XI Accessory @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image793 Course and distribution of the glossopharyngeal vagus and accessory nerves.gif)\n",
         "\n",
-        "![Hypoglossal nerve, cervical plexus, and their respective branches @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image794 Hypoglossal nerve cervical plexus and their branches.gif){#fig-gray1918-image794}\n"
+        "![Hypoglossal nerve, cervical plexus, and their respective branches @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image794 Hypoglossal nerve cervical plexus and their branches.gif){#fig-gray1918-image794}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "- Trigger points\n",
+        "    - check @donnellyTravellSimonsSimons2019\n",
+        "    - Trapezius @finandoTriggerPointTherapy2005\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "8fa59e61"
+      "id": "d08afa0c"
     },
     {
       "cell_type": "code",
@@ -88,9 +97,19 @@
         "# Action {#action}\n",
         "\n",
         "- **Scapula**: Elevation, Upward rotation @gilroyAtlasAnatomy2020\n",
-        "- **Neck**: I/L sidebend and C/L rotation @gilroyAtlasAnatomy2020"
+        "- **Neck**: I/L sidebend and C/L rotation @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "\n",
+        "\n",
+        "# Dysfunction\n",
+        "\n",
+        "::: {.callout}\n",
+        "\n",
+        "- Ch6 Trapezius Muscle @donnellyTravellSimonsSimons2019\n",
+        "\n",
+        ":::"
       ],
-      "id": "917753ed"
+      "id": "cadd48e7"
     }
   ],
   "metadata": {

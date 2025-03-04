@@ -9,9 +9,18 @@
         "---\n",
         "\n",
         "\n",
-        "![Muscles that move the humerus @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.23 Muscles That Move the Humerus.jpeg){#fig-openstax-fig11.23}\n"
+        "![Muscles that move the humerus @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.23 Muscles That Move the Humerus.jpeg){#fig-openstax-fig11.23}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Teres minor Muscle @donnellyTravellSimonsSimons2019\n",
+        "- @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "9a7e6cb3"
+      "id": "7b60749b"
     },
     {
       "cell_type": "code",
@@ -94,7 +103,7 @@
         "\n",
         ":::"
       ],
-      "id": "33563f8e"
+      "id": "b65e2b71"
     }
   ],
   "metadata": {

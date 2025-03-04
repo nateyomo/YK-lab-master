@@ -6,13 +6,23 @@
       "source": [
         "---\n",
         "title: Lower Trapezius\n",
+        "keywords:\n",
+        "    - Ascending Trapezius\n",
         "---\n",
         "\n",
         "\n",
         "\n",
-        "![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}\n"
+        "![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "- Trigger points\n",
+        "    - Check @donnellyTravellSimonsSimons2019\n",
+        "    - Trapezius @finandoTriggerPointTherapy2005\n",
+        ":::\n"
       ],
-      "id": "608e431b"
+      "id": "380b3492"
     },
     {
       "cell_type": "code",
@@ -75,9 +85,18 @@
         "\n",
         "# Action {#action}\n",
         "\n",
-        "**STJ**: Retraction, Depression, Upward Rotation @gilroyAtlasAnatomy2020"
+        "**STJ**: Retraction, Depression, Upward Rotation @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "\n",
+        "# Dysfunction\n",
+        "\n",
+        "::: {.callout}\n",
+        "\n",
+        "- Ch6 Trapezius Muscle @donnellyTravellSimonsSimons2019\n",
+        "\n",
+        ":::"
       ],
-      "id": "3a47e89b"
+      "id": "9feb262d"
     }
   ],
   "metadata": {

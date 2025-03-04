@@ -9,9 +9,15 @@
         "---\n",
         "\n",
         "\n",
-        "![Muscles of the Anterior Neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.13 Muscles of the Anterior Neck.jpeg){#fig-openstax-fig11.13}\n"
+        "![Muscles of the Anterior Neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.13 Muscles of the Anterior Neck.jpeg){#fig-openstax-fig11.13}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- digastric Muscle @donnellyTravellSimonsSimons2019\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "f9c81c46"
+      "id": "7dbe32df"
     },
     {
       "cell_type": "code",
@@ -67,9 +73,17 @@
         "\n",
         "![Path of the facial and intermediate nerves @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image788 Plan of the facial and intermediate nerves and their communication with other nerves.gif)\n",
         "\n",
-        "# Action {#action}"
+        "# Action {#action}\n",
+        "\n",
+        "\n",
+        "\n",
+        "# Strain-Counterstrain\n",
+        "\n",
+        "::: {.callout}\n",
+        "\"Location of Tender Point: In posterior belly of digastric muscle.  Direction to Press on Tender Point: Press medially 1cm behind the angle of the mandible  and in front of the sternocleidomastoid muscle.  Treatment Position(s): With patient supine, support cervical spine in maximum flexion on  folded pillow, chin tucked. Open mouth to 2cm. Place your hand on patient’s chin and depress and retract mandible. Fine-tune with lateral shift toward Tender Point side.  Digastric  Frequency of Occurrence: Moderate.  Clinical Correlation(s): 1) Occipital pain 2) Upper sternocleidomastoid pain 3) Mandibular pain 4) Difficulty swallowing\" @myersClinicalCounterstrain2012\n",
+        ":::"
       ],
-      "id": "5636d67a"
+      "id": "97113872"
     }
   ],
   "metadata": {

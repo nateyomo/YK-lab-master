@@ -4,6 +4,16 @@ title: Biceps Brachii
 
 ![Muscles that move the Forearm @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.25 Muscles That Move the Forearm.jpeg){#fig-openstax-fig11.25}
 
+::: {.callout title="Reading list"}
+
+- Biceps brachii Muscle @donnellyTravellSimonsSimons2019
+- @neumannKinesiologyMusculoskeletalSystem2017
+- Long head MMT @weinstockNeuroKineticTherapyInnovative2010
+- Short head MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false
@@ -199,4 +209,22 @@ Add table 4
 
 - The Management of Biceps Pain: Non-Operative & Surgical @mooreManagementBicepsPain2022
 
+:::
+
+
+
+# Strain-Counterstrain
+
+
+## Long head
+
+::: {.callout}
+"Location of Tender Point: Over the tendon of the long head of the biceps muscle, in the bicipital groove of the humerus.  Anatomical Correlation: Long head of the biceps muscle.  Direction to Press on Tender Point: Press from anterior to posterior.  Treatment Position(s): With patient supine and the dorsum of the ipsilateral hand on the forehead, flex shoulder to about 90°. The elbow is also flexed. Fine-tune with either internal or external rotation.  Frequency of Occurrence: Common to uncommon. Cereee  Clinical Correlation(s): Pain in the anterior upper brachium and shoulder.  Associated Pain Referral Pattern: Pain at  times in the anterior elbow area. Alternate Names/Nomenclatures: None.  Explanatory Notes: None." @myersClinicalCounterstrain2012
+:::
+
+
+## Short head
+
+::: {.callout}
+"SHORT HEAD OF THE BICEPS (SH)  Location of Tender Point: On the inferior lateral aspect of the coracoid process.  Anatomical Correlation: Short head of the biceps muscle.  Direction to Press on Tender Point: Press from anterior lateral to posterior medial on the inferior lateral aspect of the coracoid process.  Treatment Position(s): With patient supine,  flex the shoulder to about 90° with the elbow also  flexed. Moderate horizontal adduction.  Frequency of Occurrence: Common to uncommon.  Clinical Correlation(s): Pain in anterior upper brachium.  Associated Pain Referral Pattern: |ntermittent pain in the anterior elbow area.  Alternate Names/Nomenclatures: None.  Explanatory Notes: None." @myersClinicalCounterstrain2012
 :::

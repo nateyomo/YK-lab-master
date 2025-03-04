@@ -43,3 +43,6 @@ The concave-convex structure of the atlanto-occipital joints permits angular rot
 
 Flexion and extension of the OAJ occur in the sagittal plane.
 
+# Dysfunction
+
+[Superficial Back Line (SBL)]({{< var ref-superficial-back-line.path >}}) is associated with postural dysfunctions, including *anterior shift* or *rotation* of the occiput (C0) on C1 @myersAnatomyTrains2021.

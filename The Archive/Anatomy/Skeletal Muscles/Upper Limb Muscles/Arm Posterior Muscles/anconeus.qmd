@@ -7,6 +7,13 @@ title: Anconeus
 
 ![Muscles that move the Forearm @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.25 Muscles That Move the Forearm.jpeg){#fig-openstax-fig11.25}
 
+::: {.callout title="Reading list"}
+
+- Triceps and Anconeus Muscle @donnellyTravellSimonsSimons2019
+- @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false

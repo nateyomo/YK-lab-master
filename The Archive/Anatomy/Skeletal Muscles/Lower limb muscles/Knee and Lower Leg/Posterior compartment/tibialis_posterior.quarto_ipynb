@@ -27,9 +27,18 @@
         "\n",
         "![3rd layer of the plantar foot @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image445 Muscles of the sole of the foot. Third layer.gif)\n",
         "\n",
+        ":::\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch67 Tibialis posterior muscle @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
         ":::\n"
       ],
-      "id": "deae11d2"
+      "id": "b34d4b07"
     },
     {
       "cell_type": "code",
@@ -158,7 +167,7 @@
         "\n",
         "Tibialis posterior dysfunction can lead to [shin splints]({{< var ref-shin-splints.path >}}), more specifically [*posterior shin splints*]({{< var ref-posterior-shin-splints.path >}})."
       ],
-      "id": "5de889f8"
+      "id": "504be317"
     }
   ],
   "metadata": {

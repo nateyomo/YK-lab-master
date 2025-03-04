@@ -82,4 +82,11 @@ One of the borders of the [thoracic outlet]({{< var ref-thoracic-outlet.path >}}
 - Attachment for coracoclavicular trapezius ligament @neumannKinesiologyMusculoskeletalSystem2017
 - Attachment for [coracoclavicular conoid lig.]({{< var ref-coracoclavicular-conoid-ligament.path >}}) @neumannKinesiologyMusculoskeletalSystem2017
 
+::: {.callout-note title="Myofascial considerations"}
+The [coracobrachialis]({{< var ref-coracobrachialis.origin >}}) and *pectoralis minor* both have insertions on the [coracoid process]({{< var ref-scapula-bone.coracoid-process >}}), which creates a myofascial line @myersAnatomyTrains2021.
+When the arm is relaxed by one's side since the [pec minor]({{< var ref-pec-minor.path >}}) and **coracobrachialis** fascial lines run in two different directions, thus the line is *inactive* @myersAnatomyTrains2021.
+However, when shoulder is brought into *overhead flexion* (i.e. [tennis serve]({{< var ref-tennis-serve.path >}}) or hanging from a bar) @myersAnatomyTrains2021.
+:::
+
+
 ## Subscapular fossa of scapula {#subscapular-fossa}

@@ -13,9 +13,18 @@
         "\n",
         "![Muscles of the Iliac and Anterior femoral regions @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image430 Muscles of the iliac and anterior femoral regions.gif)\n",
         "\n",
-        "![Deep muscles of the medial thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image433 Deep muscles of the medial femoral region.gif)\n"
+        "![Deep muscles of the medial thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image433 Deep muscles of the medial femoral region.gif)\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch59 Adductor Longus, Adductor Brevis, Adductor Magnus, Pectineus, and Gracilis Muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "339758f6"
+      "id": "9738ab48"
     },
     {
       "cell_type": "code",
@@ -83,7 +92,7 @@
         "At ~30-40&deg; of *internal rotation*, the pectineus runs exactly inferior to the center of the joint, and thus stops functioning as an external rotator @jonesProjectFoundations2025.\n",
         "When the hip is internally rotated past 40&deg;, the pectineus generates an external rotation torque @jonesProjectFoundations2025."
       ],
-      "id": "cb2dfdb9"
+      "id": "9bf1e4d2"
     }
   ],
   "metadata": {

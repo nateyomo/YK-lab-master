@@ -6,9 +6,19 @@
       "source": [
         "---\n",
         "title: Rotatores Muscle\n",
-        "---"
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch16 rotatores Muscle @donnellyTravellSimonsSimons2019\n",
+        "- Thoracolumbar paraspinal muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "75e77652"
+      "id": "006608b7"
     },
     {
       "cell_type": "code",
@@ -56,6 +66,19 @@
       "cell_type": "markdown",
       "metadata": {},
       "source": [
+        "The rotatores muscles can be divided into \n",
+        "\n",
+        "- Rotatores cervicis\n",
+        "- Rotatores Thoracis\n",
+        "- Rotatores lumborum\n",
+        "\n",
+        "Furthermore, these can be broken down into **long** and **short** muscles @jonesProjectFoundations2025.\n",
+        "\n",
+        "- **Long muscles** span **2** vertebrae @jonesProjectFoundations2025.\n",
+        "- **Short muscles** span **1** vertebrae @jonesProjectFoundations2025.\n",
+        "\n",
+        "\n",
+        "\n",
         "# Rotatores Breves\n",
         "## Origin {#origin}\n",
         "T1-T12 TP of lower vertebrae @gilroyAtlasAnatomy2020\n",
@@ -87,7 +110,7 @@
         "- **BIL**: Extends T/S @gilroyAtlasAnatomy2020\n",
         "- **UNIL**: C/L Rotation of T/S @gilroyAtlasAnatomy2020"
       ],
-      "id": "653d671b"
+      "id": "b7abbbfb"
     }
   ],
   "metadata": {

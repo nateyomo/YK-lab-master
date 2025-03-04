@@ -10,6 +10,11 @@ title: Extensor Pollicis Brevis (EPB)
 
 ![Transverse cut of the Hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image422 Transverse section across the wrist and digits.gif)
 
+::: {.callout title="Reading list"}
+
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+:::
 
 ```{python tbl-oian}
 #| label: tbl-oian

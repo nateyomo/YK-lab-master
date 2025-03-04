@@ -2,6 +2,8 @@
 title: Oculomotor Nuclei
 ---
 
+![Vestibulo-ocular reflex @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig14.21 openstax Vestibulo-ocular Reflex.jpeg){#fig-openstax-fig14.21}
+
 One of the somatic motor nuclei
 
 provides motor output to [CNIII Oculomotor nerve]({{< var ref-cn3.path >}})

@@ -1,0 +1,13 @@
+---
+title: Surgery
+subtitle: Overview
+---
+
+::: {.callout title="Reading list"}
+
+- Schwartz's principles of surgery @brunicardiSchwartzPrinciplesSurgery2019
+- Grabb and Smith's plastic surgery @chungGrabbSmithPlastic2020
+- Surgical exposures in orthopaedics: the anatomic approach @hoppenfeldSurgicalExposuresOrthopaedics2017
+- Synopsis of Shoulder @srikumaranSynopsisShoulderSurgery2021.
+
+:::

@@ -12,9 +12,18 @@
         "\n",
         "![Muscles of the Posterior and lateral neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.14 Posterior and Lateral Views of the Neck.jpeg){#fig-openstax-fig11.14}\n",
         "\n",
-        "![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}\n"
+        "![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch16 multifidus Muscle @donnellyTravellSimonsSimons2019\n",
+        "- Thoracolumbar paraspinal muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "52d72b5c"
+      "id": "62f224f0"
     },
     {
       "cell_type": "code",
@@ -77,7 +86,13 @@
         "- **UNIL**: I/L SB and C/L Rotation @gilroyAtlasAnatomy2020\n",
         "\n",
         "\n",
+        "# Dysfunction\n",
         "\n",
+        "Imaging has correlated degenerative changes in the multifidus and [erector spinae]({{< var ref-erector-spinae.path >}}) with increased lumbar disc herniation and facet joint osteoarthritis @jonesProjectFoundations2025.\n",
+        "\n",
+        "::: {.callout-note}\n",
+        "Degenerative changes in multifidus are defined as a decreased in muscle density, cross-sectional area, and increases in fatty infiltration @jonesProjectFoundations2025.\n",
+        ":::\n",
         "\n",
         "# Therex\n",
         "How to recruit multifidi instead of obliques?\n",
@@ -89,7 +104,7 @@
         "\n",
         "## Bird-Dogs"
       ],
-      "id": "b765c916"
+      "id": "defcaaf7"
     }
   ],
   "metadata": {

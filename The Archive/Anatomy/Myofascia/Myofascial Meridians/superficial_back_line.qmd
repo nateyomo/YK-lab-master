@@ -1,0 +1,201 @@
+---
+title: Superficial Back Line (SBL)
+subtitle: Myofascial Meridian
+---
+
+
+# Overview
+
+
+The SBL runs from the plantar foot up the posterior body to the head and wrapping anteriorly to the brow @myersAnatomyTrains2021.
+There are 2 distinct pieces: *toes to knees* and *knees to brow* @myersAnatomyTrains2021.
+The SBL is likened to a "carapace" @myersAnatomyTrains2021.
+
+
+
+# Postural Function
+
+Posturally, the SBL helps support the body to attain a fully upright standing position @myersAnatomyTrains2021.
+The SBL assists extension and prevents flexing into the fetal position @myersAnatomyTrains2021.
+
+Since the SBL primarily plays postural roles, its associated muscles have an increased proportion of [slow-twitch (type I) muscle fibers]({{< var ref-type-i-muscle-fiber.path >}}) which excel at endurance @myersAnatomyTrains2021.
+
+
+Since humans spend most of their waking hours fully upright, the SBL is placed under constant load due to postural demand @myersAnatomyTrains2021.
+As a result, the fascia adapts to these demands by thickening and creating extra-heavy fascial sheets and bands, as exemplified by the plantar fascia, [achilles tendon]({{< var ref-achilles-tendon.path >}}), within the hamstrings, [sacrotuberous lig.]({{< var ref-sacrotuberous-ligament.path >}}), [thoracolumbar fascia]({{< var ref-thoracolumbar-fascia.path >}}), the "cables" of the erector spinae muscles, and the [nuchal lig.]({{< var ref-nuchal-ligament.path >}}) @myersAnatomyTrains2021.
+
+::: {.callout-note}
+Although the SBL primarily performs extension, a notable exception is the knee joint @myersAnatomyTrains2021.
+
+The SBL muscles of the [hamstring]({{< var ref-hamstring-muscle-group.path >}}) and [gastrocnemius]({{< var ref-gastrocnemius.action >}}) function to flex the knee @myersAnatomyTrains2021.
+Posturally, the SBL assists full upright stance at the knee through its interlocking tendons at the posterior knee which assist the cruciate ligaments @myersAnatomyTrains2021.
+:::
+
+
+## Common postural compensations
+
+- Ankle dorsiflexion limitation @myersAnatomyTrains2021
+- Knee hyperextension @myersAnatomyTrains2021
+- [Hamstring]({{< var ref-hamstring-muscle-group.path >}}) shortness (overuse often due to compensation for dysfunctional [deep hip stabilizers]({{< var ref-deep-hip-stabilizer-muscle-group.path >}})) @myersAnatomyTrains2021.
+- Anterior pelvic shift @myersAnatomyTrains2021
+- Sacral nutation @myersAnatomyTrains2021
+- Lordosis @myersAnatomyTrains2021
+- Extensor widening in thoracic flexion @myersAnatomyTrains2021
+- Cervical hyperextension due to Suboccipital limitation @myersAnatomyTrains2021
+- Anterior shift or rotation of the occiput on the atlas (C0-C1) @myersAnatomyTrains2021.
+- Eye–spine movement (oculo-motor reflex) disconnection @myersAnatomyTrains2021
+
+# Movement Function
+
+Other than the knee joint, the SBL primarily functions to create extension or *hyperextension* @myersAnatomyTrains2021.
+
+# Development
+
+During development, the fetus is in the "fetal position," and the SBL does not develop much in this position @myersAnatomyTrains2021.
+
+As babies, we begin to lie in prone and begin to utilize the SBL to extend our neck and head to look around @myersAnatomyTrains2021.
+Babies progressively use more distal parts of the SBL moving from just neck to belly, seat, knees, and feet @myersAnatomyTrains2021.
+
+
+# Details
+
+The SBL is a *cardinal* myofascial line @myersAnatomyTrains2021.
+It acts primarily in the sagittal plane: limiting flexion or creating extension @myersAnatomyTrains2021.
+
+There are 2 SBLs: *right SBL* and *left SBL* @myersAnatomyTrains2021.
+
+::: {#tbl-sbl-myofascial-bony-attachment}
+| Bony Attachments | | Myofascial tracks |
+|-|-|-|
+| [frontal bone]({{< var ref-frontal-bone.path >}}), supraorbital ridge | 13 | |
+| | 12 | Galea aponeurotica/ epicranial fascia |
+| [Occipital ridge]({{< var ref-occipital-bone.path >}}) | 11 | |
+| | 10 | Sacrolumbar fascia / erector spinae |
+| [Sacrum]({{< var ref-sacrum-bone.path >}}) | 9 | |
+| | 8 | [Sacrotuberous ligament]({{< var ref-sacrotuberous-ligament.path >}}) |
+| [Ischial tuberosity]({{< var ref-ischium-bone.ischial-tuberosity >}}) | 7 | |
+| | 6 | [Hamstrings]({{< var ref-hamstring-muscle-group.path >}}) |
+| [Femoral condyles]({{< var ref-femur-bone.condyles >}}) | 5 | |
+| | 4 | [Gastrocnemius]({{< var ref-gastrocnemius.path >}}) and [Achilles tendon]({{< var ref-achilles-tendon.path >}}) |
+| [Calcaneus]({{< var ref-calcaneus-bone.path >}}) | 3 | |
+| | 2 | Plantar fascia and short toe flexors |
+| Plantar surface of toe phalanges | 1 | |
+: superficial back line: Myofascial 'tracks' and bony attachments @myersAnatomyTrains2021 {.striped}
+:::
+
+## Toes to Heel
+
+The most distal bony attachment is at the plantar toes @myersAnatomyTrains2021.
+The first myofascial track is composed of the [plantar fascia]({{< var ref-plantar-fascia.path >}}) and the tendons of the 4 short toe flexors (see @tbl-short-toe-flexor-oian) @myersAnatomyTrains2021.
+
+```{python tbl-short-toe-flexor-oian}
+#| label: tbl-short-toe-flexor-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Short Toe Flexor OIAN"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['short_toe_flexor_muscle_group']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+The 4 *short toe flexors* and *plantar fascia* form 5 distinct bands blend into 1 single aponeurosis and attach onto the anterior-inferior aspect of the [calcaneus]({{< var ref-calcaneus-bone.path >}}) @myersAnatomyTrains2021.
+There is a 6th band known as the "lateral band" which runs from the 5th metatarsal base @myersAnatomyTrains2021.
+
+These fascia and their respective muscles pull across the bottom of the foot to create a "bow-string" with the longitudinal arches @myersAnatomyTrains2021.
+This bowstring mechanism aproximates the two ends and keep the proper relationship between the triangulation of the *heel*, *1st metatarsal head* and *5th metatarsal head* @myersAnatomyTrains2021.
+
+
+### Examination
+
+Assess the foot by observing the triangulation between the *heel*, *5th metatarsal* and *1st metatarsal* @myersAnatomyTrains2021.
+
+If the medial foot (Heel to 1st MT) 
+
+## Heel to Knee
+
+## Knee to Hip
+
+## Hip to Sacrum
+
+## Sacrum to Occiput {#sacrum-occiput}
+
+## Occiput to Supraorbital Ridge {#occiput-supraorbital-ridge}
+
+# Poly and Monoarticular muscles
+Expresses and locals
+# Bony Attachments
+Stations
+
+# Distal Hamstrings
+
+# Separating the Hamstrings
+
+# Knee rotation
+
+# Plantar fasciitis
+
+# Heel Spurs
+
+# Test
+Forward bend
+
+# Derailment
+
+# Sacrotuberous ligament
+[Sacrotuberous ligament]({{< var ref-sacrotuberous-ligament.path >}})
+
+# Erector spinae fascia
+
+
+# Suboccipital Muscles
+
+[Suboccipitals]({{< var ref-suboccipital-muscle-group.path >}})
+
+# Scalp
+
+# Neurocranium relationship
+
+# General Movement Treatment Considerations
+
+## Overall stretches
+
+
+## Specific treatments
+
+
+# Palpation
+
+
+# The SBL and the Waves of the Spine
+
+
+# Is There a Deep Back Line?
+
+# References

@@ -2,24 +2,23 @@
 title: Sternocleidomastoid muscle (SCM)
 ---
 
-<!--
-To do list
+::: {.callout title="Reading list"}
 
-- Neuman
+- To read
+    - Neuman @neumannKinesiologyMusculoskeletalSystem2017
+    - Dutton @duttonDuttonOrthopaedicExamination2020
+    - SCM MMT @weinstockNeuroKineticTherapyInnovative2010
+- in progress
+    - Trigger points
+       - @finandoTriggerPointTherapy2005
+        - @donnellyTravellSimonsSimons2019
+    - Images
+        - @OpenStaxAnatomyPhysiology2022
+        - @grayAnatomyHumanBody1918
+- Completed
+    - @gilroyAtlasAnatomy2020
+:::
 
-- Atlas pictures
-- @duttonDuttonOrthopaedicExamination2020
-
-in progress
-
-- @finandoTriggerPointTherapy2005
-- @donnellyTravellSimonsSimons2019
-
-done:
-
-- @gilroyAtlasAnatomy2020
-
--->
 
 
 ![Muscles of the Posterior and lateral neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.14 Posterior and Lateral Views of the Neck.jpeg){#fig-openstax-fig11.14}

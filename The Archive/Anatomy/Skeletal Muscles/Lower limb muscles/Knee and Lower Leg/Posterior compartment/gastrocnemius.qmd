@@ -10,6 +10,15 @@ title: Gastrocnemius Muscle
 
 :::
 
+::: {.callout title="Reading list"}
+
+- Ch65 gastrocnemius @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false

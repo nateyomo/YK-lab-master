@@ -8,6 +8,14 @@ title: Sacrotuberous ligament
 Glute max partly originates from this ligament
 
 
+# Myofascial unit
+
+The *sacrotuberous lig.* plays a dual role.
+The deeper fibers attach bone-to-bone and stabilize the SIJ.
+The superficial fibers are important in creating myofascial lines @myersAnatomyTrains2021.
+
+If there is too much movement in the *deeper fibers* this would be considered a lax ligament and result in SIJ instability @myersAnatomyTrains2021.
+Too *little* movement in the superficial region will result in rigidity and immobility in the myofascial lines, reducing the body's resilience in movement @myersAnatomyTrains2021.
 # Muscular Attachment
 
 ```{r}

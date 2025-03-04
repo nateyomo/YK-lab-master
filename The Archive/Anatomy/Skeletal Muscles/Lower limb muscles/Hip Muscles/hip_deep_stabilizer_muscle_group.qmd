@@ -40,6 +40,10 @@ else:
 ```
 
 
+# Dysfunction
+
+The [hamstrings]({{< var ref-hamstring-muscle-group.path >}}) often compensates for *deep hip stabilizers* dysfunction, which chronically results in hamstring shortness @myersAnatomyTrains2021.
+
 # Manual Therapy
 
 # Stretches

@@ -18,7 +18,7 @@
         "- [Obliquus Capitis Superior]({{< var ref-obliquus-capitis-superior.path >}})\n",
         "- [Obliquus Capitis Inferior]({{< var ref-obliquus-capitis-inferior.path >}})\n"
       ],
-      "id": "e77bfe28"
+      "id": "590c3525"
     },
     {
       "cell_type": "code",
@@ -74,7 +74,7 @@
         "- [Rectus Capitis anterior]({{< var ref-rectus-capitis-anterior.path >}})\n",
         "- [Rectus Capitis Lateralis]({{< var ref-rectus-capitis-lateralis.path >}})\n"
       ],
-      "id": "e024cfb6"
+      "id": "e9d2a8e3"
     },
     {
       "cell_type": "code",
@@ -129,7 +129,7 @@
         "- [Splenius capitis]({{< var ref-splenius-capitis.path >}})\n",
         "- [Splenius cervicis]({{< var ref-splenius-cervicis.path >}})\n"
       ],
-      "id": "4e6a1c70"
+      "id": "1304f870"
     },
     {
       "cell_type": "code",
@@ -208,7 +208,7 @@
         ":::\n",
         ":::\n"
       ],
-      "id": "d524193a"
+      "id": "610bae89"
     },
     {
       "cell_type": "code",
@@ -266,7 +266,7 @@
         "- [Semispinalis Cervicis]({{< var ref-semispinalis-cervicis.path >}})\n",
         "- [Semispinalis Thoracis]({{< var ref-semispinalis-thoracis.path >}})\n"
       ],
-      "id": "955e5c78"
+      "id": "f5986079"
     },
     {
       "cell_type": "code",
@@ -320,7 +320,7 @@
         "- [Interspinales Cervicis]({{< var ref-interspinales-cervicis.path >}})\n",
         "- [Interspinales Lumbora]({{< var ref-interspinales-lumbora.path >}})\n"
       ],
-      "id": "36a4ba47"
+      "id": "0f2edeb5"
     },
     {
       "cell_type": "code",
@@ -373,7 +373,7 @@
         "\n",
         "# Abdominal Wall\n"
       ],
-      "id": "fcf8b97c"
+      "id": "75eb565c"
     },
     {
       "cell_type": "code",
@@ -426,7 +426,7 @@
         "\n",
         "## Pelvic Floor\n"
       ],
-      "id": "80ff4975"
+      "id": "67f6ca18"
     },
     {
       "cell_type": "code",
@@ -477,7 +477,7 @@
       "source": [
         "## Perineum\n"
       ],
-      "id": "ab9638c8"
+      "id": "dde12468"
     },
     {
       "cell_type": "code",
@@ -588,7 +588,7 @@
         "- Sternocleidomastoid\n",
         "- Trapezius\n"
       ],
-      "id": "72f2f330"
+      "id": "a84c64e7"
     },
     {
       "cell_type": "code",
@@ -651,7 +651,7 @@
         "- [Obliquus Capitis Superior]({{< var ref-obliquus-capitis-superior.path >}})\n",
         "- [Obliquus Capitis Inferior]({{< var ref-obliquus-capitis-inferior.path >}})\n"
       ],
-      "id": "8c7e9e0a"
+      "id": "97fb6d1c"
     },
     {
       "cell_type": "code",
@@ -795,7 +795,7 @@
         "- [Subclavius]({{< var ref-subclavius.path >}})\n",
         "- [Serratus Anterior]({{< var ref-serratus-anterior.path >}})\n"
       ],
-      "id": "af666728"
+      "id": "32d35a49"
     },
     {
       "cell_type": "code",
@@ -867,7 +867,7 @@
         ":::\n",
         ":::\n"
       ],
-      "id": "7a31b8bf"
+      "id": "0a910692"
     },
     {
       "cell_type": "code",
@@ -961,7 +961,7 @@
       "source": [
         "# Scapulohumeral (Intrinsic shoulder)\n"
       ],
-      "id": "d1a03a17"
+      "id": "59f67b2e"
     },
     {
       "cell_type": "code",
@@ -1019,7 +1019,7 @@
         "- [Brachialis]({{< var ref-brachialis.path >}})\n",
         "- [Coracobrachialis]({{< var ref-coracobrachialis.path >}})\n"
       ],
-      "id": "a8ce411b"
+      "id": "e157155e"
     },
     {
       "cell_type": "code",
@@ -1075,7 +1075,7 @@
         "- [Triceps brachii (Lateral head)]({{< var ref-triceps-brachii-lateral-head.path >}})\n",
         "- [Anconeus]({{< var ref-anconeus.path >}})\n"
       ],
-      "id": "2a77f061"
+      "id": "6acb30a9"
     },
     {
       "cell_type": "code",
@@ -1128,7 +1128,7 @@
         "\n",
         "## Anterior Forearm\n"
       ],
-      "id": "242fab8a"
+      "id": "c7840a15"
     },
     {
       "cell_type": "code",
@@ -1179,7 +1179,7 @@
       "source": [
         "## Posterior Forearm\n"
       ],
-      "id": "3d731b43"
+      "id": "ea454f11"
     },
     {
       "cell_type": "code",
@@ -1236,7 +1236,7 @@
         "- [Abductor Pollicis Brevis]({{< var ref-abductor-pollicis-brevis.path >}})\n",
         "- [Flexor Pollicis Brevis]({{< var ref-flexor-pollicis-brevis.path >}})\n"
       ],
-      "id": "5408d2bc"
+      "id": "d56b4fa6"
     },
     {
       "cell_type": "code",
@@ -1289,7 +1289,7 @@
         "\n",
         "- [Adductor Pollicis]({{< var ref-adductor-pollicis.path >}})\n"
       ],
-      "id": "080f136e"
+      "id": "2c245c0e"
     },
     {
       "cell_type": "code",
@@ -1344,7 +1344,7 @@
         "- [Flexor Digiti Minimi Brevis (Hand)]({{< var ref-flexor-digiti-minimi-brevis-hand.path >}})\n",
         "- [Opponens Digiti Minimi]({{< var ref-opponens-digiti-minimi-hand.path >}})\n"
       ],
-      "id": "5592dd87"
+      "id": "6ad25de7"
     },
     {
       "cell_type": "code",
@@ -1402,7 +1402,7 @@
         "| [Palmar Interossei (Hand)]({{< var ref-palmar-interossei-hand.path >}}) | {{< var ref-palmar-interossei-hand.origin >}} | {{< var ref-palmar-interossei-hand.insertion >}} | {{< var ref-palmar-interossei-hand.nerve >}} | {{< var ref-palmar-interossei-hand.action >}} |\n",
         ": {.striped .hover}\n"
       ],
-      "id": "7c5a74ee"
+      "id": "598769eb"
     },
     {
       "cell_type": "code",
@@ -1455,7 +1455,7 @@
         "\n",
         "## Iliopsoas\n"
       ],
-      "id": "6ac2043c"
+      "id": "c7a413c9"
     },
     {
       "cell_type": "code",
@@ -1506,7 +1506,7 @@
       "source": [
         "## Gluteal\n"
       ],
-      "id": "d1af99ff"
+      "id": "b7c04453"
     },
     {
       "cell_type": "code",
@@ -1557,7 +1557,7 @@
       "source": [
         "## Medial Thigh\n"
       ],
-      "id": "e93cc5a9"
+      "id": "b6b56fb9"
     },
     {
       "cell_type": "code",
@@ -1608,7 +1608,7 @@
       "source": [
         "## Anterior Thigh\n"
       ],
-      "id": "f5c6cb6e"
+      "id": "e142e55b"
     },
     {
       "cell_type": "code",
@@ -1659,7 +1659,7 @@
       "source": [
         "## Posterior Thigh\n"
       ],
-      "id": "bb69141f"
+      "id": "50e0d4ca"
     },
     {
       "cell_type": "code",
@@ -1712,7 +1712,7 @@
         "\n",
         "## Anterior Compartment\n"
       ],
-      "id": "4ea16f8e"
+      "id": "11e37b8d"
     },
     {
       "cell_type": "code",
@@ -1763,7 +1763,7 @@
       "source": [
         "## Lateral Compartment\n"
       ],
-      "id": "51086a7e"
+      "id": "e58641e4"
     },
     {
       "cell_type": "code",
@@ -1814,7 +1814,7 @@
       "source": [
         "## Posterior Compartment\n"
       ],
-      "id": "1de09f51"
+      "id": "e999b591"
     },
     {
       "cell_type": "code",
@@ -1867,7 +1867,7 @@
         "\n",
         "## Dorsum of the Foot\n"
       ],
-      "id": "dcd094ad"
+      "id": "dda3cdfc"
     },
     {
       "cell_type": "code",
@@ -1918,7 +1918,7 @@
       "source": [
         "## Superficial Intrinsic Plantar Foot muscles\n"
       ],
-      "id": "272ef3bb"
+      "id": "4baa6320"
     },
     {
       "cell_type": "code",
@@ -1969,7 +1969,7 @@
       "source": [
         "## Deep Intrinsic plantar foot muscles\n"
       ],
-      "id": "431be0f7"
+      "id": "15a5eca4"
     },
     {
       "cell_type": "code",

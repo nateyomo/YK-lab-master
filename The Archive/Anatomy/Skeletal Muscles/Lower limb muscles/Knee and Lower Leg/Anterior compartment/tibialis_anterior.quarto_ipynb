@@ -15,9 +15,19 @@
         "\n",
         "![The Mucous sheaths of the tendons around the ankle (lateral view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image441 The mucous sheaths of the tendons around the ankle. Lateral aspect.gif)\n",
         "\n",
-        "![The Mucous sheaths of the tendons around the ankle (medial view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image442 The mucous sheaths of the tendons around the ankle. Medial aspect.gif)\n"
+        "![The Mucous sheaths of the tendons around the ankle (medial view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image442 The mucous sheaths of the tendons around the ankle. Medial aspect.gif)\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch63 Tibialis anterior muscle @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "f664bb7a"
+      "id": "c85a2749"
     },
     {
       "cell_type": "code",
@@ -95,7 +105,6 @@
         "\n",
         "# Examination\n",
         "\n",
-        ":::{layout-ncol=\"3\"}\n",
         "### MMT\n",
         "\n",
         "- DF/inv\n",
@@ -108,14 +117,16 @@
         "### Palpation\n",
         "\n",
         "\n",
-        ":::\n",
         "\n",
+        "# Pain Referral Pattern\n",
+        "\n",
+        "Tibialis anterior pain can refer to the 1st toe or in the anterior leg over the muscle belly @myersClinicalCounterstrain2012.\n",
         "\n",
         "# Shin splints\n",
         "\n",
         "Tibialis anterior dysfunction can lead to [shin splints]({{< var ref-shin-splints.path >}}), more specifically [*anterior shin splints*]({{< var ref-anterior-shin-splints.path >}})."
       ],
-      "id": "700925ef"
+      "id": "633f34cd"
     }
   ],
   "metadata": {

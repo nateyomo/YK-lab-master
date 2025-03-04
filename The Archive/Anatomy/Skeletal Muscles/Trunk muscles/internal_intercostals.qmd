@@ -4,3 +4,10 @@ title: Internal intercostal muscles
 
 
 ![Intercostal muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.18 Intercostal Muscles.jpeg){#fig-openstax-fig11.18}
+
+::: {.callout title="Reading list"}
+
+- Intercostals and Diaphragm @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+
+:::

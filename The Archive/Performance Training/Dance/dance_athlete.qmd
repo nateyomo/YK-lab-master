@@ -1,0 +1,9 @@
+---
+title: Dance Athlete
+---
+
+::: {.callout title="Reading list"}
+
+- Dance Anatomy @haasDanceAnatomy2025
+
+:::

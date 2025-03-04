@@ -1,0 +1,12 @@
+---
+title: Therapeutic Exercise (Therex)
+subtitle: Overview
+---
+
+
+::: {.callout title="Reading list"}
+
+- Therapeutic exercise: foundations and techniques @kisnerTherapeuticExerciseFoundations2018
+
+
+:::

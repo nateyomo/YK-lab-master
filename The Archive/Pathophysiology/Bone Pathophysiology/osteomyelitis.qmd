@@ -2,6 +2,11 @@
 title: Osteomyelitis
 ---
 
+::: {.callout title="Reading list"}
+
+- Ch25 Osteomyelitis @goodmanGoodmanFullerPathology2020
+:::
+
 
 
 # Imaging

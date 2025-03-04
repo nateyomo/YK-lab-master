@@ -14,9 +14,20 @@
         "\n",
         "![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}\n",
         "\n",
-        "![Muscles that move the humerus @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.23 Muscles That Move the Humerus.jpeg){#fig-openstax-fig11.23}\n"
+        "![Muscles that move the humerus @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.23 Muscles That Move the Humerus.jpeg){#fig-openstax-fig11.23}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Deltoid Muscle @donnellyTravellSimonsSimons2019\n",
+        "- @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- anterior deltoid MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "- Middle delt MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "- posterior deltoid MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "72ceb0bb"
+      "id": "65a61bf7"
     },
     {
       "cell_type": "code",
@@ -190,9 +201,20 @@
         "\n",
         "# Palpation\n",
         "\n",
-        "# Dysfunction"
+        "# Dysfunction\n",
+        "\n",
+        "\n",
+        "# Strain-Counterstrain\n",
+        "\n",
+        "\n",
+        "::: {.callout}\n",
+        "Strain counterstrain for the \"bursa\" or \"deltoid muscle\" @myersClinicalCounterstrain2012.\n",
+        "\n",
+        "\n",
+        "\"BURSA (Deltoid Muscle)  Location of Tender Point: Flex or abduct the arm to 90° to allow palpation beneath the acromion process by shortening and relaxing the deltoid muscle.  Anatomical Correlation: Any part of the deltoid muscle.  Direction to Press on Tender Point: Press from superior to inferior with the arm in the stated position above.  Treatment Position(s): With patient supine or seated, the shoulder is flexed or abducted 90° to 120°. Rotation varies from slightly internal to slightly external depending on the part of the deltoid muscle that is involved.  Frequency of Occurrence: Uncommon to rare. Many muscles refer pain to the area of the deltoid muscle and most of the time it is not the deltoid  causing the pain.  Wag  Clinical Correlation(s): Pain in the anterior, lateral, or posterior shoulder over the deltoid depending on which part of the muscle is involved.  Associated Pain Referral Pattern: Pain in the upper arm.  Alternate Names/Nomenclatures: None.  Explanatory Notes: None.\" @myersClinicalCounterstrain2012\n",
+        ":::"
       ],
-      "id": "aabfedc8"
+      "id": "6c2d48eb"
     }
   ],
   "metadata": {

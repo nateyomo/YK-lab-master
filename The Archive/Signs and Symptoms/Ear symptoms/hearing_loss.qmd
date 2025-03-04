@@ -2,6 +2,12 @@
 title: Hearing Loss
 ---
 
+::: {.callout title="Reading list"}
+
+- Hearing impairment p354 @silbernaglColorAtlasPathophysiology2016
+
+:::
+
 # DDX
 
 - 38% of temporomandibular disorders

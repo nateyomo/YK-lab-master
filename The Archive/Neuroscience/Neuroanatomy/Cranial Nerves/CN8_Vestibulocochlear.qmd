@@ -40,3 +40,7 @@ Semicircular canal -> Vestibular ganglion -> Vesibular nerve
         - Inferior colliculi
         - Superior olivary nuclear complex (localize sounds horizontall & synapse BIL)
         - Auditory radiations?
+
+# Vestibulo-ocular reflex
+
+![Vestibulo-ocular reflex @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig14.21 openstax Vestibulo-ocular Reflex.jpeg){#fig-openstax-fig14.21}

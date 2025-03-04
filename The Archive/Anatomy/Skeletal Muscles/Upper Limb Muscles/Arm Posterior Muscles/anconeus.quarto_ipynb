@@ -12,9 +12,16 @@
         "![Left Humerus (Posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image208 gray1918 Left humerus. Posterior view.gif){#fig-gray1918-image208}\n",
         "\n",
         "\n",
-        "![Muscles that move the Forearm @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.25 Muscles That Move the Forearm.jpeg){#fig-openstax-fig11.25}\n"
+        "![Muscles that move the Forearm @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.25 Muscles That Move the Forearm.jpeg){#fig-openstax-fig11.25}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Triceps and Anconeus Muscle @donnellyTravellSimonsSimons2019\n",
+        "- @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "53c91e85"
+      "id": "43b92ad0"
     },
     {
       "cell_type": "code",
@@ -86,7 +93,7 @@
         "\n",
         "# Notes"
       ],
-      "id": "08b6ca55"
+      "id": "a210445b"
     }
   ],
   "metadata": {

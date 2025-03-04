@@ -35,6 +35,16 @@ subtitle: Musculoskeletal Overview
 
 :::
 
+::: {.callout title="Reading list"}
+
+- General
+    - Ch21 @duttonDuttonOrthopaedicExamination2020
+- Manual tx
+    - ch27 Orthopaedic Manual Physical Therapy of the Ankle and Foot @wiseOrthopaedicManualPhysical2015
+
+
+:::
+
 The ankle and foot are the first line of defense when reacting to ground reaction forces.
 The ankle functions to orient the body on the foot in the linear plane of movement @jonesProjectFoundations2025.
 Since the body delicately balances on the ankle, the foot must adjust and orient relative to the ankle @jonesProjectFoundations2025.
@@ -637,6 +647,13 @@ The cuboid normally has less extension than the 5th MTP @jonesProjectFoundations
 - Metatarsalgia/OA
 
 
+# Pain
+
+::: {.callout title="Reading list"}
+
+- Ch71 Clinical Considerations of Leg, Ankle, and Foot Pain @donnellyTravellSimonsSimons2019
+
+:::
 
 
 # Examination

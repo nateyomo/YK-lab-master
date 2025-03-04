@@ -15,9 +15,20 @@
         "\n",
         "![Left Scapula (Lateral view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image205 gray1918 Left scapula. Lateral view.gif){#fig-gray1918-image205}\n",
         "\n",
-        "![Left Humerus (Posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image208 gray1918 Left humerus. Posterior view.gif){#fig-gray1918-image208}\n"
+        "![Left Humerus (Posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image208 gray1918 Left humerus. Posterior view.gif){#fig-gray1918-image208}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Triceps and Anconeus Muscle @donnellyTravellSimonsSimons2019\n",
+        "- @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- Long head MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "- Middle head MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "- Lateral head MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "dcc2449c"
+      "id": "59068922"
     },
     {
       "cell_type": "code",
@@ -135,7 +146,7 @@
         "\n",
         "Triceps reflex can be used to assess C7 nerve root @hongReliabilityDiagnosticAccuracy2022 \n"
       ],
-      "id": "a8dc69d6"
+      "id": "cc38ebda"
     }
   ],
   "metadata": {

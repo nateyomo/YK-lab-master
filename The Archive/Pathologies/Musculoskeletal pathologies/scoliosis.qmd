@@ -1,0 +1,9 @@
+---
+title: Scoliosis
+---
+
+::: {.callout title="Reading list"}
+
+- Ch23 scoliosis @goodmanGoodmanFullerPathology2020
+
+:::

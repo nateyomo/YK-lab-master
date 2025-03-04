@@ -9,9 +9,17 @@
         "---\n",
         "\n",
         "\n",
-        "![Muscles that move the Forearm @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.25 Muscles That Move the Forearm.jpeg){#fig-openstax-fig11.25}\n"
+        "![Muscles that move the Forearm @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.25 Muscles That Move the Forearm.jpeg){#fig-openstax-fig11.25}\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Wrist and finger flexor Muscles @donnellyTravellSimonsSimons2019\n",
+        "- @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "f0302e4b"
+      "id": "d0965b88"
     },
     {
       "cell_type": "code",
@@ -83,7 +91,7 @@
         "\n",
         "# Notes"
       ],
-      "id": "3dd7e5c3"
+      "id": "9ef6e831"
     }
   ],
   "metadata": {

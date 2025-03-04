@@ -23,6 +23,15 @@ title: Flexor Hallucis Longus (FHL)
 :::
 
 
+::: {.callout title="Reading list"}
+
+- Ch69 Long toe flexor muscles of the foot @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
 # Overview
 
 ```{python tbl-oian}

@@ -6,6 +6,16 @@ title: Obturator Internus Muscle (OI)
 
 ![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}
 
+::: {.callout title="Reading list"}
+
+- Pelvic floor muscles @donnellyTravellSimonsSimons2019
+- Ch57 piriformis, obturator internus, gemellus, obturator externus, quadratus femoris muscles @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
 ```{python tbl-oian}
 #| label: tbl-oian-obturator-internus
 #| warning: false
@@ -75,6 +85,12 @@ Sacral plexus ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.
 # Dysfunction
 
 - Gemelli-obturator internus syndrome
+
+# Pain Referral Pattern
+
+According to Myers, there is no pain referral pattern for the obturator internus @myersClinicalCounterstrain2012.
+
+Myers does state that it is clinically correllated with pain in the coccyx and posterior thigh @myersClinicalCounterstrain2012.
 
 # Stretch
 

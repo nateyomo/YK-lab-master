@@ -15,6 +15,18 @@ title: Serratus Anterior
 ![Muscles that move the humerus @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.23 Muscles That Move the Humerus.jpeg){#fig-openstax-fig11.23}
 
 
+::: {.callout title="Reading list"}
+
+- Trigger points
+    - Serratus anterior @donnellyTravellSimonsSimons2019
+    - SA @finandoTriggerPointTherapy2005
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
+
 
 ```{python tbl-oian}
 #| label: tbl-oian

@@ -13,3 +13,7 @@ title: Vision
 - Visual Figure Ground: The ability to locate something in a busy background.
 - Visual Form Constancy: The ability to know that a form or shape is the same, even if it has been made smaller/larger or has been turned around.
 - Visual Closure: The ability to recognize a form or object when part of the picture is missing.
+
+
+
+![Segregation of Visual Field information at the Optic Chiasm @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig14.22 openstax Segregation of Visual Field Information at the Optic Chiasm.jpeg){#fig-openstax-fig14.22}

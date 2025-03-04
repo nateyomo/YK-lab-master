@@ -302,7 +302,11 @@ ref-intervertebral-disc:
   path: "/The Archive/Anatomy/Connective tissue/Intervertebral discs/intervertebral_disc_ivd_overview.html"
 ref-cervical-intervertebral-discs:
   path: "/The Archive/Anatomy/Connective tissue/Intervertebral discs/cervical_intervertebral_disc.html"
-
+### Myofascia
+ref-myofascial-meridian:
+  path: "/The Archive/Anatomy/Myofascia/Myofascial Meridians/myofascial_meridians.html"
+ref-superficial-back-line:
+  path: "/The Archive/Anatomy/Myofascia/Myofascial Meridians/superficial_back_line.html"
 ## Joints
 
 ref-joint:
@@ -424,7 +428,16 @@ ref-glenohumeral-joint:
   capsule: "/The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#capsule"
   a-p-glide: "/The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#ap-glide"
   sup-inf-glide: "/The Archive/Anatomy/Joints/UE Joints/glenohumeral_joint.html#sup-inf-glide"
-
+ref-humeroulnar-joint:
+  path: "/The Archive/Anatomy/Joints/UE Joints/humeroulnar_joint.html"
+ref-proximal-radioulnar-joint:
+  path: "/The Archive/Anatomy/Joints/UE Joints/proximal_radioulnar_joint.html"
+ref-distal-radioulnar-joint:
+  path: "/The Archive/Anatomy/Joints/UE Joints/distal_radioulnar_joint.html"
+ref-radiocarpal-joint:
+  path: "/The Archive/Anatomy/Joints/UE Joints/radiocarpal_joint.html"
+ref-midcarpal-joint:
+  path: "/The Archive/Anatomy/Joints/UE Joints/midcarpal_joint.html"
 ## Tendon
 
 ### Lower extremity tendon
@@ -468,6 +481,15 @@ ref-deep-transverse-metatarsal-ligament:
   path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Ankle and foot Ligaments/deep_transverse_metatarsal_ligament.html"
 ref-long-plantar-ligament:
   path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Ankle and foot Ligaments/long_plantar_ligament.html"
+### Shoulder ligaments
+### Elbow ligaments
+ref-ulnar-collateral-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Elbow ligaments/ulnar_collateral_ligament.html"
+ref-radial-collateral-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Elbow ligaments/radial_collateral_ligament.html"
+### Wrist and hand ligaments
+
+
 ### UE connective tissue
 #### Shoulder connective tissue
 ref-anterior-sternoclavicular-ligament:
@@ -478,6 +500,39 @@ ref-interclavicular-ligament:
   path: "/The Archive/Anatomy/Connective tissue/Upper extremity CT/Shoulder Connective Tissue/interclavicular_ligament.html"
 ref-costoclavicular-ligament:
   path: "/The Archive/Anatomy/Connective tissue/Upper extremity CT/Shoulder Connective Tissue/costoclavicular_ligament.html"
+#### Elbow connective tissue
+ref-interosseous-membrane-forearm:
+  path: "/The Archive/Anatomy/Connective tissue/Upper extremity CT/Elbow Connective Tissue/interosseous_membrane_forearm.html"
+#### Wrist and hand connective tissues
+ref-palmar-radiocarpal-ligaments:
+  path: "/"
+ref-radioscaphocapitate-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Wrist and Hand ligaments/Palmar radio-carpal ligaments/radioscaphocapitate_ligament.html"
+ref-radioscapholunate-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Wrist and Hand ligaments/Palmar radiocarpal ligaments/radioscapholunate_ligament.html"
+ref-long-radiolunate-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Wrist and Hand ligaments/Palmar radiocarpal ligaments/long_radiolunate_ligament.html"
+ref-short-radiolunate-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Wrist and Hand ligaments/Palmar radiocarpal ligaments/short_radiolunate_ligament.html"
+ref-palmar-ulnocarpal-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Wrist and Hand ligaments/palmar_ulnocarpal_ligament.html"
+ref-ulnar-collateral-carpal-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Wrist and Hand ligaments/ulnar_collateral_carpal_ligament.html"
+ref-radial-collateral-carpal-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Wrist and Hand ligaments/radial_collateral_carpal_ligament.html"
+ref-dorsal-radiocarpal-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Wrist and Hand ligaments/dorsal_radiocarpal_ligament.html"
+ref-scapholunate-interosseous-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Wrist and Hand ligaments/scapholunate_interosseous_ligament.html"
+ref-lunotriquetral-interosseous-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Wrist and Hand ligaments/lunotriquetral_interosseous_ligament.html"
+ref-trapezotrapezoidal-interosseous-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Wrist and Hand ligaments/Interosseous ligaments/trapezotrapezoidal_interosseous_ligament.html"
+ref-trapezoidocapitate-interosseous-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Wrist and Hand ligaments/Interosseous ligaments/trapezoidocapitate_interosseous_ligament.html"
+ref-hamatocapitate-interosseous-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Wrist and Hand ligaments/Interosseous ligaments/hamatocapitate_interosseous_ligament.html"
+
 ## Multi-system structures
 ### Upper extremity
 ref-thoracic-outlet:
@@ -2245,18 +2300,61 @@ ref-yellow5:
   path: "/The Archive/Chemistry/Biochemistry/Toxins and inhibitors/Food dyes/yellow5_tartrazine.html"
 
 ## Vitamins
-ref-vitamin-e:
-  path: "/The Archive/Chemistry/Biochemistry/Vitamins/vitamin_e.html"
-  deficiency: "/The Archive/Pathophysiology/Metabolic Pathophysiology/vitamin_E_deficiency.html"
-ref-folate-vitamin-b9:
-  path: "/The Archive/Chemistry/Biochemistry/Vitamins/Folate Vitamin B9/folate_vitamin_b9.html"
 ref-vitamin-a:
   path: "/"
-ref-vitamin-b12:
+ref-vitamin-b1-thiamine:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b1_thiamine.html"
+  deficiency: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b1_thiamine.html#deficiency"
+ref-vitamin-b2-riboflavin:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b2_riboflavin.html"
+  deficiency: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b2_riboflavin.html#deficiency"
+ref-vitamin-b3-niacin:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b3_niacin.html"
+  deficiency: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b3_niacin.html#deficiency"
+ref-vitamin-b4-choline:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b4_choline.html"
+  deficiency: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b4_choline.html#deficiency"
+ref-vitamin-b5-pantothenic-acid:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b5_pantothenic_acid.html"
+  deficiency: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b5_pantothenic_acid.html#deficiency"
+ref-vitamin-b6-pyridoxine:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b6_pyridoxine.html"
+  deficiency: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b6_pyridoxine.html#deficiency"
+ref-vitamin-b7-biotin:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b7_biotin.html"
+  deficiency: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b7_biotin.html#deficiency"
+ref-vitamin-b8-inositol:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b8_inositol.html"
+  deficiency: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b8_inositol.html#deficiency"
+ref-vitamin-b9-folate:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/Folate Vitamin B9/vitamin_b9_folate.html"
+  deficiency: "/The Archive/Chemistry/Biochemistry/Vitamins/Folate Vitamin B9/vitamin_b9_folate.html#deficiency"
+ref-vitamin-b10-paba:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b10_paba.html"
+  deficiency: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b10_paba.html#deficiency"
+ref-vitamin-b11:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b11_L-carnitine.html"
+  deficiency: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/vitamin_b11_L-carnitine.html#deficiency"
+ref-vitamin-b12-cobalamin:
   path: "/The Archive/Chemistry/Biochemistry/Vitamins/Vitamin B12/vitamin_b12.html"
   deficiency: "/The Archive/Chemistry/Biochemistry/Vitamins/Vitamin B12/vitamin_b12.html#deficiency"
 ref-cyanocobalamin:
   path: "/The Archive/Chemistry/Biochemistry/Vitamins/B vitamins/Vitamin B12/cyanocobalamin.html"
+ref-vitamin-c-ascorbic-acid:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/C vitamins/vitamin_c_ascorbic_acid.html"
+  deficiency: "/The Archive/Chemistry/Biochemistry/Vitamins/C vitamins/vitamin_c_ascorbic_acid.html#deficiency"
+ref-vitamin-d2-ergocalciferol:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/D vitamins/vitamin_d2_ergocalciferol.html"
+  deficiency: "/The Archive/Chemistry/Biochemistry/Vitamins/D vitamins/vitamin_d2_ergocalciferol.html#deficiency"
+
+ref-vitamin-e:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/vitamin_e.html"
+  deficiency: "/The Archive/Chemistry/Biochemistry/Vitamins/vitamin_e.html#deficiency"
+ref-vitamin-k1-phylloquinone:
+  path: "/The Archive/Chemistry/Biochemistry/Vitamins/K vitamins/vitamin_k1_phylloquinone.html"
+  deficiency: "/The Archive/Chemistry/Biochemistry/Vitamins/K vitamins/vitamin_k1_phylloquinone.html#deficiency"
+
+
 ## Methylation and Methyl donors
 ref-s-adenosyl-l-methionine:
   path: "/The Archive/Chemistry/Biochemistry/Methylation and Methyl Donors/S-adenosyl-L-methionine_SAMe.html"
@@ -2345,6 +2443,7 @@ ref-magnesium:
   path: "/The Archive/Chemistry/Biochemistry/Minerals/magnesium_dietary.html"
 ref-copper: 
   path: "/The Archive/Chemistry/Biochemistry/Minerals/copper_dietary.html"
+  deficiency: "/The Archive/Chemistry/Biochemistry/Minerals/copper_dietary.html#deficiency"
 ref-iron:
   path: "/The Archive/Chemistry/Biochemistry/Minerals/iron_dietary.html"
 ref-potassium:
@@ -2794,6 +2893,9 @@ ref-strain-counterstrain:
 ref-cyriax-release-maneuver:
   path: "/The Archive/Interventions/Upper Extremity/cyriax_release_maneuver.html"
 
+## Trigger point therapy
+ref-trigger-point-therapy:
+  path: "/The Archive/Interventions/Trigger Point Therapy/trigger_point_therapy.html"
 ## Therex
 ref-prone-press-up-exercise:
   path: "/The Archive/Interventions/Therex/Foundational Exercises/prone_foundational_exercise.html#prone-press-up"
@@ -2958,6 +3060,8 @@ ref-muscle-spindle:
 
 ref-golgi-tendon-organ:
   path: "/"
+ref-myofascial-trigger-point:
+  path: "/The Archive/Physiology/Muscle/myofascial_trigger_point.html"
 
 ## Metabolic System
 ref-glycolysis:
@@ -3234,7 +3338,11 @@ ref-surfing-resources:
   path: "/The Archive/Performance Training/Surfing/surfing_resources.html"
 ref-surfing-takeoff:
   path: "/The Archive/Performance Training/Surfing/surfing_takeoff_popup.html"
-
+## Tennis
+ref-tennis:
+  path: "/The Archive/Performance Training/Tennis/tennis_athlete.html"
+ref-tennis-serve:
+  path: "/The Archive/Performance Training/Tennis/tennis_athlete.html#tennis-serve"
 # Pharmacology
 ## NSAIDs
 

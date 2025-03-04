@@ -17,9 +17,18 @@
         "\n",
         "![Deep muscles of the medial thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image433 Deep muscles of the medial femoral region.gif)\n",
         "\n",
-        "![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}\n"
+        "![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch59 Adductor Longus, Adductor Brevis, Adductor Magnus, Pectineus, and Gracilis Muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "678d251a"
+      "id": "71fa2569"
     },
     {
       "cell_type": "code",
@@ -104,7 +113,7 @@
         "# Overview\n",
         "“the adductor magnus is the largest of the adductor muscles, accounting for 60% of the total cross ­sectional area of the entire adductor muscle group.222 As a whole, the adductor magnus attaches proximally to the pelvis from two heads: an anterior head from the ischial ramus and a posterior head from the ischial tuberosity. Realize, however, that other anatomic classifications have been suggested” @neumannKinesiologyMusculoskeletalSystem2017 "
       ],
-      "id": "c933f668"
+      "id": "92b876a3"
     }
   ],
   "metadata": {

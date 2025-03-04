@@ -4,6 +4,12 @@ title: Sternum (Bone)
 
 ![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}
 
+::: {.callout title="Reading list"}
+
+- Sternum osteology ch9 @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
+
 # Articulations
 
 ## Sternoclavicular joint

@@ -1,0 +1,11 @@
+---
+title: Sternalis Muscle
+---
+
+
+::: {.callout title="Reading list"}
+
+- Sternalis @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+
+:::

@@ -1,0 +1,150 @@
+---
+title: Myofascial Meridians
+---
+
+::: {.callout-note}
+The term "meridian" is often used in acupuncture, but these are the *acupuncture meridians* which are their own distinct concept.
+*myofascial meridians* and *acunpuncture meridians* are **not** the same @myersAnatomyTrains2021.
+
+There is overlap between these two types of meridians, but these are not perfect parallels @myersAnatomyTrains2021.
+:::
+
+*Myofascial meridians* are lines of pull based on western anatomy @myersAnatomyTrains2021.
+These *myofascial meridians* depict lines that transmit strain and elastic recoil which act to facilitate movement or create stability through the myofascial system @myersAnatomyTrains2021.
+
+
+# Main lines
+
+There are many lines of pull that one can conceptualize.
+*Anatomy Trains* @myersAnatomyTrains2021 outlines 12 main myofascial meridian lines.
+These are a starting point, but as you become more experienced you should use these [rules](#rules) as a guide when making your own @myersAnatomyTrains2021.
+
+1. [Superficial Back Line](#superficial-back-line)
+1. [Superficial Front line (SFL)](#superficial-front-line)
+1. [Lateral line](#lateral-line)
+1. [Spiral Line](#spiral-line)
+1. [Arm lines](#arm-lines)
+    1. [Deep Front Arm Line]({{< var ref-deep-front-arm-line.path >}})
+    1. Superficial Front Arm Line
+    1. Deep Back Arm Line
+    1. Superficial Back Arm Line
+1. [Functional lines](#functional-lines)
+    1. Back Functional Line
+    1. Front Functional Line
+    1. Ipsilateral Functional Line
+1. [Deep Front Line](#deep-front-line)
+
+## Superficial Back Line {#superficial-back-line}
+
+see [superficial back line]({{< var ref-superficial-back-line.path >}})
+
+## Superficial Front Line {#superficial-front-line}
+
+see [superficial front line]({{< var ref-superficial-front-line.path >}})
+
+
+
+# Rules {#rules}
+
+
+These rules are important for conceptualizing lines other than the [12 main lines](#main-lines) or making lines for "atypical" bodies such as those who experienced strokes, amputations, scoliosis, spinal cord injuries, etc @myersAnatomyTrains2021.
+
+## 1 Lines have a consistent direction without interruption
+
+The *lines* or "(train) tracks" @myersAnatomyTrains2021 made of myofascial or connective tissue units (muscles and ligaments) *must* demonstrate have continuity @myersAnatomyTrains2021.
+The fascial lines must have consistent direction, running fairly straight or turning gradually @myersAnatomyTrains2021.
+In passive positions the lines may not have consistent direction, but when tensioned, these lines must be straight @myersAnatomyTrains2021.
+
+::: {.callout-important}
+
+Drastic changes in **direction**, **depth**, or **jumping** contraindicate a proposed line.
+
+
+Drastic changes in direction or depth is highly unlikely @myersAnatomyTrains2021.
+Any exceptions must have evidence that the line acts across multiple levels @myersAnatomyTrains2021.
+
+'Jumping' refers to when a fascial line disconnects and starts somewhere else, which would break continuity @myersAnatomyTrains2021.
+:::
+
+### Direction
+
+The [coracobrachialis]({{< var ref-coracobrachialis.path >}}) and [pectoralis minor]({{< var ref-pectoralis-minor.path >}}) both insert on the [coracoid process]({{< var ref-scapula-bone.coracoid-process >}}) and form a myofascial line @myersAnatomyTrains2021.
+The direction between these two is *not continuous* when the arm is relaxed at one's side, but the line becomes continuous with the arm overhead @myersAnatomyTrains2021.
+
+A **pulley** is not considered a loss of continuity @myersAnatomyTrains2021.
+For example, the [fibular longus muscle]({{< var ref-fibularis-longus.path >}}) sharply curves around the lateral malleolus @myersAnatomyTrains2021.
+Although this appears that this sharp change in direction would disqualify it from being part of a myofascial line, pulleys are permitted by the rules *as long as the fascia makes use of them* @myersAnatomyTrains2021.
+
+### Depth
+
+Depth is an important consideration when forming fascial lines.
+*Anatomy Trains* @myersAnatomyTrains2021 suggests that during embryological development, there is one fascial net which folds upon itself to create multiple fascial planes of varying depths @myersAnatomyTrains2021.
+
+It is *unlikely* for a fascial line to jump from one depth to the next @myersAnatomyTrains2021.
+This is important to note, since when drawing a fascial line, some lines seem intuitive, until you analyze the depths of the two units you are trying to connect.
+
+::: {.callout-caution}
+For example, when viewing the anterior torso, it appears that the [rectus abdominis]({{< var ref-rectus-abdominis.path >}}) connects to the sternal fascia and can be followed superiorly through the [infrahyoid muscles]({{< var ref-infrahyoid-muscle-group.path >}}), but this is an **error** @myersAnatomyTrains2021.
+
+The [infrahyoid muscles]({{< var ref-infrahyoid-muscle-group.path >}}) insert on the posterior sternum and connect to the *deeper ventral fascia* and are part of the *Deep Front Line* @myersAnatomyTrains2021.
+Whereas the [rectus abdominis]({{< var ref-rectus-abdominis.path >}}) and its *sternal fascia* exist in the *superficial plane* and continue superiorly through the superficial [SCM]({{< var ref-sternocleidomastoid.path >}}) @myersAnatomyTrains2021.
+:::
+
+
+### Intervening planes
+
+An *intervening plane* refers to a plane of fascia that goes in a different direction @myersAnatomyTrains2021.
+Even if there are two consecutive lines of fascia running the same direction, if there is an *intervening plane* between them, then you **cannot** combine these two into a single myofascial line @myersAnatomyTrains2021.
+
+## 2 Bones act as line anchors
+
+The myofascial lines are anchored or "tacked down" at bony attachments ("train stations") @myersAnatomyTrains2021.
+
+The deeper/underlying fibers of the muscle attach to the bone while the superficial fibers of the muscle may connect to the myofascia and continue the myofascial line @myersAnatomyTrains2021.
+
+
+## 3 Line interweaving and splitting
+
+The myofascial lines interweave ("joining tracks") and split ("track diverging") at locations known as "track switches" @myersAnatomyTrains2021.
+
+### Interweaving
+
+For example, the 3 main tracks of the abdomen all begin as one fascia posteriorly at the tranverse processes of the vertebra @myersAnatomyTrains2021.
+These divide at the *lateral raphe* into 3 distinct grained layers of the [internal obliques]({{< var ref-internal-oblique.path >}}), [external obliques]({{< var ref-external-oblique.path >}}), and [transverse abdominis]({{< var ref-transverse-abdominis.path >}}) @myersAnatomyTrains2021.
+Anteriorly, these 3 layers join as one at the *linea alba* @myersAnatomyTrains2021.
+
+### Switches
+
+A *switch* occurs when line can diverge into different directions.
+
+For example, the rhomboid line can be followed from the vertebra to the scapula.
+At the scapula, the fascial line can continue inferiorly and anteriorly through the [serratus anterior]({{< var ref-serratus-anterior.path >}}) or continue superolaterally through the [infraspinatus]({{< var ref-infraspinatus.path >}}) and [teres minor]({{< var ref-teres-minor.path >}}) to the shoulder @myersAnatomyTrains2021.
+
+### Roundhouse
+
+A *roundhouse* refers to when myofascial force vectors meet and/or cross @myersAnatomyTrains2021.
+The most notable examples are the *pubic bone* or *anterior superior iliac spine (ASIS)* @myersAnatomyTrains2021.
+
+
+
+
+## 4 Poly and Monoarticular muscles
+
+Polyarticular muscles are termed "train expresses" whereas monoarticular muscles are termed "locals" @myersAnatomyTrains2021.
+
+The [biceps femoris long head]({{< var ref-biceps-femoris-long-head.path >}}) is a polyarticular muscle or an "express" and affects the hip and knee joints @myersAnatomyTrains2021.
+The [adductor magnus]({{< var ref-adductor-magnus.path >}}) and [biceps femoris short head]({{< var ref-biceps-femoris-short-head.path >}}) are both monoarticular "locals" which lie deep to the [BFLH]({{< var ref-biceps-femoris-long-head.path >}}) @myersAnatomyTrains2021.
+The [adductor magnus]({{< var ref-adductor-magnus.path >}}) only affects the hip while the [BFSH]({{< var ref-biceps-femoris-short-head.path >}}) only affects the knee @myersAnatomyTrains2021.
+
+*Anatomy trains* propose that in normal functioning, monoarticular muscles are primarily used for posture @myersAnatomyTrains2021.
+
+For example, anterior pelvic tilt would be achieved *primarily* through the release of monoarticular hip flexors ([pectineus]({{< var ref-pectineus.path >}}) and [iliacus]({{< var ref-iliacus.path >}})) rather than polyarticular hip flexors (i.e. [rectus femoris]({{< var ref-rectus-femoris.action >}}) or [sartorius]({{< var ref-sartorius.action >}})) @myersAnatomyTrains2021.
+
+With this philosophy, chronic elbow flexion is chronic and postural, and our focus should be placed on the *monoarticular* "locals" rather than the *polyarticular* "expresses" @myersAnatomyTrains2021.
+Thus, we would focus our attention on the [monoarticular brachialis]({{< var ref-brachialis.path >}}) rather than the [polyarticular biceps brachii]({{< var ref-biceps-brachii.path >}}) @myersAnatomyTrains2021.
+
+## Summary
+
+
+- Continuity of the grain of the connective tissue without [jumping planes](#depth) or crossing [intervening planes](#intervening-planes) @myersAnatomyTrains2021.
+- Note the stations where these myofascial tracks tie down to the underlying tissues.  • Note any other tracks that diverge or converge with the line.  • Look for underlying single-joint muscles that may affect the working of the line.

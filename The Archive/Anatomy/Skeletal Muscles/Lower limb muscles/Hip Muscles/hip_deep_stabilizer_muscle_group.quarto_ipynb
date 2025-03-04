@@ -8,7 +8,7 @@
         "title: Deep Stabilizers of the Hip\n",
         "---"
       ],
-      "id": "008899b9"
+      "id": "94b1afab"
     },
     {
       "cell_type": "code",
@@ -57,6 +57,10 @@
       "cell_type": "markdown",
       "metadata": {},
       "source": [
+        "# Dysfunction\n",
+        "\n",
+        "The [hamstrings]({{< var ref-hamstring-muscle-group.path >}}) often compensates for *deep hip stabilizers* dysfunction, which chronically results in hamstring shortness @myersAnatomyTrains2021.\n",
+        "\n",
         "# Manual Therapy\n",
         "\n",
         "# Stretches\n",
@@ -115,7 +119,7 @@
         "\n",
         "- [Posterior Hip table Exercise]({{< var ref-posterior-hip-table-recovery-exercise.path >}})\n"
       ],
-      "id": "00cd5aff"
+      "id": "96cd94ba"
     }
   ],
   "metadata": {

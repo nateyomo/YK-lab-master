@@ -9,9 +9,15 @@
         "---\n",
         "\n",
         "\n",
-        "![Muscles that move the humerus @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.23 Muscles That Move the Humerus.jpeg){#fig-openstax-fig11.23}\n"
+        "![Muscles that move the humerus @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.23 Muscles That Move the Humerus.jpeg){#fig-openstax-fig11.23}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "c93380ca"
+      "id": "e28b2166"
     },
     {
       "cell_type": "code",
@@ -85,7 +91,7 @@
         "\n",
         "# Notes"
       ],
-      "id": "7353e1ef"
+      "id": "48542185"
     }
   ],
   "metadata": {

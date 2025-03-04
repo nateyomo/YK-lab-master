@@ -19,9 +19,21 @@
         "\n",
         "![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}\n",
         "\n",
-        "![Muscles that move the humerus @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.23 Muscles That Move the Humerus.jpeg){#fig-openstax-fig11.23}\n"
+        "![Muscles that move the humerus @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.23 Muscles That Move the Humerus.jpeg){#fig-openstax-fig11.23}\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Trigger points\n",
+        "    - Serratus anterior @donnellyTravellSimonsSimons2019\n",
+        "    - SA @finandoTriggerPointTherapy2005\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "d10f0024"
+      "id": "25378eec"
     },
     {
       "cell_type": "code",
@@ -137,7 +149,7 @@
         "\n",
         "## Functional ramifications"
       ],
-      "id": "52e8a33c"
+      "id": "d842cc72"
     }
   ],
   "metadata": {

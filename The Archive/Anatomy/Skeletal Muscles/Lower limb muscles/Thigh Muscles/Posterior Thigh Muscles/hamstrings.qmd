@@ -9,6 +9,12 @@ title: Hamstring Muscles
 
 ![Cross-section of middle thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image432 Cross-section through the middle of the thigh.gif)
 
+::: {.callout title="Reading list"}
+
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+:::
+
 # Muscles
 
 ```{python tbl-hamstring-oian}
@@ -116,6 +122,9 @@ Biceps femoris flexes and externally rotates the knee @neumannKinesiologyMusculo
 :::
 
 
+# Shortness
+
+Hamstring shortness is the result of hamstring overuse often due to taking on a compensatory role when the [deep hip stabilizers]({{< var ref-deep-hip-stabilizer-muscle-group.path >}}) are dysfunctional @myersAnatomyTrains2021.
 
 # Examination
 

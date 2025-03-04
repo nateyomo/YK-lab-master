@@ -1,0 +1,22 @@
+---
+title: Inflammation
+---
+
+
+::: {.callout}
+
+- Ch3 p52 @silbernaglColorAtlasPathophysiology2016
+- Whole book @cavaillon2018inflammation
+
+
+:::
+
+
+
+# Free radicals
+
+::: {.callout}
+
+- ch27 free radicals in inflammation @cavaillon2018inflammation.
+
+:::

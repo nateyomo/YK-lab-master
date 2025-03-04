@@ -10,6 +10,15 @@ title: Extensor Digitorum (ED)
 
 ![Muscles of the lower leg @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.32 Muscles of the Lower Leg.jpeg){#fig-openstax-fig11.32}
 
+::: {.callout title="Reading list"}
+
+- Extensor digitorum and Extensor indicis Muscles @donnellyTravellSimonsSimons2019
+- @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false

@@ -10,9 +10,18 @@
         "---\n",
         "\n",
         "\n",
-        "![Muscles of the Abdomen @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.16 Muscles of the Abdomen.jpeg){#fig-openstax-fig11.16}\n"
+        "![Muscles of the Abdomen @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.16 Muscles of the Abdomen.jpeg){#fig-openstax-fig11.16}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Abdominal muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "c878abae"
+      "id": "690819e2"
     },
     {
       "cell_type": "code",
@@ -83,7 +92,7 @@
         "\n",
         "# Overview"
       ],
-      "id": "d788451a"
+      "id": "64787850"
     }
   ],
   "metadata": {

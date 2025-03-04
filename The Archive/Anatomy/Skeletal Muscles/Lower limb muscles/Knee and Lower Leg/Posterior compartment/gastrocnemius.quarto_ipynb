@@ -15,9 +15,18 @@
         "\n",
         "![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif){#fig-gray1918-image438}\n",
         "\n",
+        ":::\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch65 gastrocnemius @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
         ":::\n"
       ],
-      "id": "bd2e0b87"
+      "id": "c3b08bd2"
     },
     {
       "cell_type": "code",
@@ -154,7 +163,7 @@
         "\n",
         "- [3D Calf Stretch]({{< var ref-3d-calf-stretch.path >}})"
       ],
-      "id": "ccb9da45"
+      "id": "b5ca2db3"
     }
   ],
   "metadata": {

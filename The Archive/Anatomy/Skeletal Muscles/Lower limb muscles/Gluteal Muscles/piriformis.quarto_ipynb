@@ -11,9 +11,19 @@
         "\n",
         "![Hip and Thigh Muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg){#fig-openstax-fig11.29}\n",
         "\n",
-        "![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}\n"
+        "![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- ch52 Pelvic floor muscles @donnellyTravellSimonsSimons2019\n",
+        "- Ch57 piriformis, obturator internus, gemellus, obturator externus, quadratus femoris muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "f766a14e"
+      "id": "81fcd975"
     },
     {
       "cell_type": "code",
@@ -153,7 +163,7 @@
         "- STM to piriformis\n",
         "- move from hip IR/ABD/Ext into hip ER/Adduction/Flexion"
       ],
-      "id": "46853838"
+      "id": "d7dbaa32"
     }
   ],
   "metadata": {

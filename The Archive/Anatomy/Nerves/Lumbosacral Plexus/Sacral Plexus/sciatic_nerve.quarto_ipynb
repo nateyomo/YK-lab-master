@@ -21,7 +21,7 @@
         "\n",
         "## Direct Branches\n"
       ],
-      "id": "43e2d5a8"
+      "id": "7d925169"
     },
     {
       "cell_type": "code",
@@ -82,9 +82,17 @@
         "Damage to the common fibular division during Total hip arthroplasty can result in [drop foot]({{< var ref-drop-foot.path >}})\n",
         "\n",
         "\n",
-        "- Deep gluteal syndrome is an increasingly recognized disease entity, caused by compression of the sciatic or pudendal nerve due to non-discogenic pelvic lesions"
+        "- Deep gluteal syndrome is an increasingly recognized disease entity, caused by compression of the sciatic or pudendal nerve due to non-discogenic pelvic lesions\n",
+        "\n",
+        "# Entrapment {#entrapment}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Sciatic nerve p373 @DynamicNeurologicalStabilizationClinicalRehabilitation2014\n",
+        "\n",
+        ":::"
       ],
-      "id": "6ca943cd"
+      "id": "a1e3cc92"
     }
   ],
   "metadata": {

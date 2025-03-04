@@ -8,6 +8,15 @@ title: Pectineus Muscle
 
 ![Deep muscles of the medial thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image433 Deep muscles of the medial femoral region.gif)
 
+::: {.callout title="Reading list"}
+
+- Ch59 Adductor Longus, Adductor Brevis, Adductor Magnus, Pectineus, and Gracilis Muscles @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false

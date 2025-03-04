@@ -2,6 +2,11 @@
 title: Osteomalacia
 ---
 
+::: {.callout title="Reading list"}
+
+- Ch25 Osteomalacia @goodmanGoodmanFullerPathology2020
+
+:::
 
 # Endocrinology
 

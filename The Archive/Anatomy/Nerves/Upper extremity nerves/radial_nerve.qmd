@@ -104,3 +104,12 @@ Superficial Branches
 - [Brachial plexus axillary release]({{< var ref-brachial-plexus.release >}})
 - Pathway release
     - 
+
+
+# Entrapment {#entrapment}
+
+::: {.callout title="Reading list"}
+
+- Radial nerve p373 @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+
+:::

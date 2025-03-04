@@ -7,6 +7,18 @@ subtitle: Musculoskeletal Overview
 
 ![Muscles of the Posterior and lateral neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.14 Posterior and Lateral Views of the Neck.jpeg){#fig-openstax-fig11.14}
 
+::: {.callout title="Reading list"}
+
+- Anatomy
+    - Cervical osteology ch9 p329 @neumannKinesiologyMusculoskeletalSystem2017
+- Examination
+    - ch15 Screening the Head, Neck, and Back @heickGoodmanSnyderDifferential2023
+- Manual Tx
+    - ch30 Orthopaedic Manual Physical Therapy of the Cervical Spine and Temporomandibular Joint @wiseOrthopaedicManualPhysical2015
+
+
+:::
+
 # Segments
 
 The cervical spine can be divided into 3 segments:
@@ -61,26 +73,6 @@ The **Lower segment** refers to the transition between the [last cervical verteb
 # Muscles
 
 
-Superficial layer:
-
-- Traps
-- SCM
-- Lev scap
-- Rhomboids
-- scalenes
-
-Deeper layer:
-
-- Splenius capitis
-- Semispinalis Capitis
-- Longissimus Capitis
-
-Deepest layer: 
-
-- Links cervical and thoracic vertebrae
-
-## Transverspinalis muscles
-
 ```{python tbl-transversospinalis-oian}
 #| label: tbl-transversospinalis-oian
 #| warning: false
@@ -128,8 +120,9 @@ This extension accentuates the cervical lordosis created by the erector spinae @
 This muscle group functions in spinal stability, proprioception, posture, and stabilization of the vertebral column @jonesProjectFoundations2025.
 
 
+The [SCM]({{< var ref-sternocleidomastoid.path >}}) can be seen as the "psoas of the neck" due to the fact it is commonly guarded or tight, but is rarely the cause of the overall dysfunction @jonesProjectFoundations2025.
 
-
+[Longissimus thoracis]({{< var ref-longissimus-thoracis.path >}}) should be considered when viewing the neck since its uppermost fibers overlap medially with the [iliocostalis cervicis]({{< var ref-iliocostalis-cervicis.path >}}) @jonesProjectFoundations2025.
 
 # Anatomy
 
@@ -180,12 +173,7 @@ Osteokinematics: Side bend: 40 deg
 Sidebending: closer to 75 in supine because of hte muscles that limit SB with gravity: traps, scalenes, SCM (all are more lengthened in standing/sitting bc gravity pulling at insertions)(Harper 2023)
 :::
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Sternocleidomastoid]({{< var ref-sternocleidomastoid.path >}}) | {{< var ref-sternocleidomastoid.origin >}} | {{< var ref-sternocleidomastoid.insertion >}} | {{< var ref-sternocleidomastoid.nerve >}} | {{< var ref-sternocleidomastoid.action >}} |
-| I/L SB | | | | |
-| [Obliquus Capitis Superior]({{< var ref-obliquus-capitis-superior.path >}}) | {{< var ref-obliquus-capitis-superior.origin >}} | {{< var ref-obliquus-capitis-superior.insertion >}} | {{< var ref-obliquus-capitis-superior.nerve >}} | {{< var ref-obliquus-capitis-superior.action >}} |
-: {.striped .hover}
+
 
 Arthrokinematics
 
@@ -202,19 +190,7 @@ Rotation 70-90 deg
 Virtually all rotation in UPPER C/S occurs between Atlas & Axis
 
 
-<details>
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| C/L head rotators | | | | |
-| [Obliquus Capitis Superior]({{< var ref-obliquus-capitis-superior.path >}}) | {{< var ref-obliquus-capitis-superior.origin >}} | {{< var ref-obliquus-capitis-superior.insertion >}} | {{< var ref-obliquus-capitis-superior.nerve >}} | {{< var ref-obliquus-capitis-superior.action >}} |
-| [Sternocleidomastoid]({{< var ref-sternocleidomastoid.path >}}) | {{< var ref-sternocleidomastoid.origin >}} | {{< var ref-sternocleidomastoid.insertion >}} | {{< var ref-sternocleidomastoid.nerve >}} | {{< var ref-sternocleidomastoid.action >}} |
-| I/L Head Rotators | | | | |
-| [Rectus Capitis Posterior Major]({{< var ref-rectus-capitis-posterior-major.path >}}) | {{< var ref-rectus-capitis-posterior-major.origin >}} | {{< var ref-rectus-capitis-posterior-major.insertion >}} | {{< var ref-rectus-capitis-posterior-major.nerve >}} | {{< var ref-rectus-capitis-posterior-major.action >}} |
-|[Rectus Capitis Posterior Minor]({{< var ref-rectus-capitis-posterior-minor.path >}}) | {{< var ref-rectus-capitis-posterior-minor.origin >}} | {{< var ref-rectus-capitis-posterior-minor.insertion >}} | {{< var ref-rectus-capitis-posterior-minor.nerve >}} | {{< var ref-rectus-capitis-posterior-minor.action >}} |
-| [Obliquus Capitis Inferior]({{< var ref-obliquus-capitis-inferior.path >}}) | {{< var ref-obliquus-capitis-inferior.origin >}} | {{< var ref-obliquus-capitis-inferior.insertion >}} | {{< var ref-obliquus-capitis-inferior.nerve >}} | {{< var ref-obliquus-capitis-inferior.action >}} |
 
-: {.striped .hover}
-</details>
 
 ### Arthrokinematics
 
@@ -375,7 +351,7 @@ Warning signs of cervical region:
     - Cervical rotation Full Flexion
 
 
-## Special Tests
+# Special Tests
 
 - [VBI Test]({{< var ref-VBI-vertebrobasilar-insufficiency-test.path >}})
 - [Sharp-Purser Test]({{< var ref-sharp-purser-test.path >}})
@@ -404,10 +380,31 @@ Warning signs of cervical region:
 - Vertebra mobility
 
 
+# Evaluation inventory
+
+## Supine
+
+- Spinous processes
+    - Alignment
+    - Depth
+- A flat portion between segments is indicative of a tight/contracted muscle in that area bringing those segments together
+- Suboccipital release
+    - If you cannot perform the release, loosening other things and returning to it would be a valid test-retest @jonesProjectFoundations2025.
+- Sidebend mobility at each segment (compare R to L)
+- Suboccipital opening (sidebend + rotation)
+- Head pivoting on cervical spine
+
+## Supine with Flexed head
+
+Bring the head into flexion and keep it there using your chest.
+
+- Palpate cervical and head extensors
+
 
 # Manual Treatment
 
 - Suboccipital release
+    - Work on each suboccipital individually 
 - PA Glides
 - Upglides
 - Downglides
@@ -461,3 +458,12 @@ Compression
 Bearing down
 
 - Reproduction of pain = C/s herniation
+
+
+# Pain
+
+::: {.callout}
+
+- Clinical Considerations of Head and Neck Pain @donnellyTravellSimonsSimons2019
+- Treatment of Headache, Neck Pain, and  TMJ Dysfunction with Counterstrain: @myersClinicalCounterstrain2012
+:::

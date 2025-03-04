@@ -27,9 +27,16 @@
         "\n",
         ":::\n",
         "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch70 Intrinsic muscles of the foot @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n",
+        "\n",
         "# Overview\n"
       ],
-      "id": "589004e5"
+      "id": "c7303345"
     },
     {
       "cell_type": "code",
@@ -106,7 +113,7 @@
         "\n",
         "# MMT \n"
       ],
-      "id": "aa904bb5"
+      "id": "6a0edf63"
     }
   ],
   "metadata": {

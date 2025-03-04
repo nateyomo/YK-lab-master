@@ -82,3 +82,11 @@ Injury= foot drop
 "The common fibular (peroneal) nerve is a component of the sciatic nerve as far as the upper part of the popliteal space. At the apex of the popliteal fossa, the common fibular (peroneal) nerve begins its independent course, descending along the posterior border of the biceps femoris, before traveling diagonally across the posterior aspect of the knee joint to the upper external portion of the leg near the head of the fibula. Sensory branches are given off in the popliteal space. These include the superior and inferior articular branches to the knee joint and the lateral sural cutaneous nerve. The latter nerve joins the medial calcaneal nerve (from the tibial nerve) to form the sural nerve, supplying the skin of the lower posterior aspect of the leg, the external malleolus, and the lateral side of the foot and fifth toe.1" @duttonDuttonOrthopaedicExamination2020 
 
 "The common fibular (peroneal) nerve curves around the lateral aspect of the fibula toward the anterior aspect of the bone, before passing deep to the two heads of the fibularis (peroneus) longus muscle, where it divides into three terminal branches: the recurrent articular, and the superficial and deep fibular (peroneal) nerves. The recurrent articular nerve accompanies the anterior tibial recurrent artery, supplying branches to the proximal tibiofibular and knee joints, and a twig to the tibialis anterior muscle." @duttonDuttonOrthopaedicExamination2020 
+
+# Entrapment {#entrapment}
+
+::: {.callout title="Reading list"}
+
+- Peroneal (Common fibular) nerve p373 @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+
+:::

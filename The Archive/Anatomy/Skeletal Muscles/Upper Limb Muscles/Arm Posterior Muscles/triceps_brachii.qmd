@@ -10,6 +10,17 @@ title: Triceps Brachi
 
 ![Left Humerus (Posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image208 gray1918 Left humerus. Posterior view.gif){#fig-gray1918-image208}
 
+::: {.callout title="Reading list"}
+
+- Triceps and Anconeus Muscle @donnellyTravellSimonsSimons2019
+- @neumannKinesiologyMusculoskeletalSystem2017
+- Long head MMT @weinstockNeuroKineticTherapyInnovative2010
+- Middle head MMT @weinstockNeuroKineticTherapyInnovative2010
+- Lateral head MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false

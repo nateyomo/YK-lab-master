@@ -2,11 +2,18 @@
 title: Temporalis muscle
 ---
 
-# OIAN
+::: {.callout}
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Temporalis muscle]({{< var ref-temporalis.path >}}) | {{< var ref-temporalis.origin >}} | {{< var ref-temporalis.insertion >}} | {{< var ref-temporalis.nerve >}} | {{< var ref-temporalis.action >}} |
+- Trigger poitns
+    - Temporalis Muscle @donnellyTravellSimonsSimons2019
+    - Temporalis @finandoTriggerPointTherapy2005
+
+:::
+
+
+
+
+ 
 
 # Origin {#origin}
 Temporal fossa (inferior temporal line) @gilroyAtlasAnatomy2020
@@ -32,3 +39,11 @@ Temporalis is a thin sheet so use light pressure
 
 
 # Clinical Significance
+
+
+
+# Strain-Counterstrain
+
+::: {.callout}
+"Location of Tender Point: Anywhere in the fan-shaped fibers of the muscle.  Anatomical Correlation: Temporalis muscle.  Direction to Press on Tender Point: Palpate the different fiber directions for thick and raised tissue in the muscle. Press medially.  Treatment Position(s): With patient supine, push the relaxed jaw toward the Tender Point side. Stabilize patient’s head with monitoring hand.  Frequency of Occurrence: Moderate.  Clinical Correlation(s): 1) Pain with yawning 2) Restricted mouth opening 3) Dental neuritis 4) Lateral shift to same side with mouth opening  Associated Pain Referral Patterns: Anterior, medial, and posterior temporal region.  Explanatory Notes: Usually seen in conjunction with masseter." @myersClinicalCounterstrain2012
+:::

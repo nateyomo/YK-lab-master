@@ -5,6 +5,12 @@ title: Vastus Intermedius
 
 ![Cross-section of middle thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image432 Cross-section through the middle of the thigh.gif)
 
+::: {.callout title="Reading list"}
+
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+:::
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false

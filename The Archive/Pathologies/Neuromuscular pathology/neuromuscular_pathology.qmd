@@ -1,0 +1,26 @@
+---
+title: Neuromuscular Disease
+---
+
+
+::: {.callout title="Reading list"}
+
+- Neuromuscular disorders @amatoNeuromuscularDisorders2016
+
+:::
+
+
+
+# Nutritional Deficiency Neuropathies
+
+See ch18 @amatoNeuromuscularDisorders2016
+
+Nutritional deficiency associated with peripheral neuropathy: 
+
+- [Thiamine (vitamin B1) deficiency]({{< var ref-vitamin-b1-thiamine.deficiency >}}) @amatoNeuromuscularDisorders2016
+- [Pyridoxine (vitamin B6) deficiency]({{< var ref-vitamin-b6-pyridoxine.deficiency >}}) @amatoNeuromuscularDisorders2016 
+- [Cobalamin (vitamin B12) deficiency]({{< var ref-vitamin-b12-cobalamin.deficiency >}}) @amatoNeuromuscularDisorders2016 
+- [Folate (B9) deficiency]({{< var ref-vitamin-b9-folate.deficiency >}}) @amatoNeuromuscularDisorders2016 
+- [Vitamin e deficiency]({{< var ref-vitamin-e.deficiency >}}) @amatoNeuromuscularDisorders2016 
+- [Copper deficiency]({{< var ref-copper.deficiency >}}) @amatoNeuromuscularDisorders2016
+- Hypophosphatemia @amatoNeuromuscularDisorders2016

@@ -1,0 +1,14 @@
+---
+title: Vitamin E
+subtitle: Fat soluble vitamin
+---
+
+
+
+
+# Deficiency {#deficiency}
+
+"A vitamin E deficiency could lead to hematological and neurological issues such as hemolytic anemia and demyelination of the dorsal column and the spinocerebellar tract. The neurological symptoms of vitamin E deficiency are similar to the neurological symptoms in vitamin B12 deficiency, but the difference is in the hematological symptoms. There is no evidence of increased serum methylmalonic acid, hypersegmented neutrophils, or megaloblastic anemia in vitamin E deficiency" @kohNeuroanatomySpinocerebellarDorsal2024 
+
+
+Vitamin e deficiency can result in peripheral neuropathy @amatoNeuromuscularDisorders2016.

@@ -1,0 +1,13 @@
+---
+title: Soft tissue Injury
+---
+
+
+
+::: {.callout title="Reading list"}
+
+- Chapter 27: Soft Tissue, Joint, and Bone Disorders @goodmanGoodmanFullerPathology2020
+- Rehab
+    - Ch10 Soft Tissue Injury, Repair, and Management @kisnerTherapeuticExerciseFoundations2018
+
+:::

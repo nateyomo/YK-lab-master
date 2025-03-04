@@ -10,9 +10,16 @@
         "\n",
         "\n",
         "\n",
-        "![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}\n"
+        "![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Thoracolumbar paraspinal muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "535586c7"
+      "id": "a5672457"
     },
     {
       "cell_type": "code",
@@ -74,7 +81,7 @@
         "- **BIL**: Extends T/S @gilroyAtlasAnatomy2020\n",
         "- **UNIL**: C/L Rotation of T/S @gilroyAtlasAnatomy2020"
       ],
-      "id": "6976f22d"
+      "id": "3fed664f"
     }
   ],
   "metadata": {

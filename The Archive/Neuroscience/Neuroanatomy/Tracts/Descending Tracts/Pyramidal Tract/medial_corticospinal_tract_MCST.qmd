@@ -2,6 +2,9 @@
 title: Medial Corticospinal Tract
 ---
 
+
+![Corticospinal tract @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig14.28 openstax Corticospinal Tract.jpeg){fig-openstax-fig14.28}
+
 Voluntary movement of Axial muscles @osullivanPhysicalRehabilitation2019
 
 :::{.callout-note title="Clinical Significance"}

@@ -88,3 +88,11 @@ Iliopsoas Pectineus Sartorius Quadriceps femoris @gilroyAtlasAnatomy2020
 - Femoral Nerve "may be compromised by herniation of intervertebral disks at L4 or L5 as they pass through the intervertebral foramina" @gilroyAtlasAnatomy2020 
 - Entrapment : rare but possible at inguinal ligament or adductor canal??
 
+
+# Entrapment {#entrapment}
+
+::: {.callout title="Reading list"}
+
+- Femoral nerve p373 @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+
+:::

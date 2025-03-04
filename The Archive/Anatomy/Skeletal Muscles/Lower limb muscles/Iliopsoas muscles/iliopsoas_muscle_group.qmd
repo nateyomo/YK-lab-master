@@ -6,6 +6,12 @@ title: Iliopsoas muscles
 
 ![Muscles of the Abdomen @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.16 Muscles of the Abdomen.jpeg){#fig-openstax-fig11.16}
 
+::: {.callout title="Reading list"}
+
+- Psoas major, psoas minor, iliacus muscles @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
 
 ```{python tbl-iliopsoas-oian}
     #| label: tbl-iliopsoas-oian

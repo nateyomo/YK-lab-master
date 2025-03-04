@@ -9,6 +9,13 @@ title: Biceps Femoris Short Head
 
 ![Superficial posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif){#fig-gray1918-image438}
 
+::: {.callout title="Reading list"}
+
+- Ch60 Hamstring muscles @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false
@@ -65,3 +72,9 @@ Head of Fibula @gilroyAtlasAnatomy2020
 
 Biceps femoris short head is the only *monoarticular* external rotator of the knee @jonesProjectFoundations2025.
 Therefore, hip position does not change its ability to externally rotate the knee.
+
+
+# Myofascial Unit
+
+Although the [adductor longus]({{< var ref-adductor-longus.insertion >}}) and *biceps femoris short head* both attach at the *linea aspera* and fascially run in the same direction, these do *not* form a line since the [adductor magnus]({{< var ref-adductor-magnus.path >}}) acts as an *intervening plane* @myersAnatomyTrains2021.
+There may be a functional connection through the bone, but there is no connection via the fascia @myersAnatomyTrains2021.

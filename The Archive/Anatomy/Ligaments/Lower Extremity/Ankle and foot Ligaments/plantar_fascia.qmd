@@ -11,3 +11,8 @@ title: Plantar Fascia
 ![3rd layer of the plantar foot @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image445 Muscles of the sole of the foot. Third layer.gif)
 
 :::
+
+
+# Myofascial Meridians
+
+- [Superficial Back Line]({{< var ref-superficial-back-line.path >}})

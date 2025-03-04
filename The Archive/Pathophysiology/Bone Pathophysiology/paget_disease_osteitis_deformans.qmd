@@ -1,0 +1,9 @@
+---
+title: Paget Disease (*Osteitis Deformans*)
+---
+
+::: {.callout title="Reading list"}
+
+- Ch25 PAget disease @goodmanGoodmanFullerPathology2020
+
+:::

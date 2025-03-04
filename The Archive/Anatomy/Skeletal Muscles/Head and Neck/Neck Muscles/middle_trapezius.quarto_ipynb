@@ -10,9 +10,19 @@
         "\n",
         "\n",
         "\n",
-        "![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}\n"
+        "![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "- Trigger points\n",
+        "    - Check @donnellyTravellSimonsSimons2019\n",
+        "    - Trapezius @finandoTriggerPointTherapy2005\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "b9f0a6c3"
+      "id": "c8e7f3ac"
     },
     {
       "cell_type": "code",
@@ -86,9 +96,17 @@
         "\n",
         "- [Scapular retraction]({{< var ref-scapulothoracic-joint.retraction >}}) [@gilroyAtlasAnatomy2020; @jonesProjectFoundations2025]\n",
         "- Stabilize the scapula during upward rotation @gilroyAtlasAnatomy2020\n",
-        "    - Stabilizes the serratus anterior during upward rotation by counteracting the protraction Serratus Anterior @gilroyAtlasAnatomy2020\n"
+        "    - Stabilizes the serratus anterior during upward rotation by counteracting the protraction Serratus Anterior @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Dysfunction\n",
+        "\n",
+        "::: {.callout}\n",
+        "\n",
+        "- Ch6 Trapezius Muscle @donnellyTravellSimonsSimons2019\n",
+        "\n",
+        ":::"
       ],
-      "id": "510346e9"
+      "id": "f32c3ff2"
     }
   ],
   "metadata": {

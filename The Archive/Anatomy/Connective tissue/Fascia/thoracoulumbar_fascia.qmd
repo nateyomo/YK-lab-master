@@ -5,6 +5,7 @@ title: Thoracolumbar Fascia (TLF)
 :::{.callout-note title="Articles to read"}
 
 - The thoracolumbar fascia: anatomy, function and clinical considerations @willardThoracolumbarFasciaAnatomy2012
+- Ch9 p374 @neumannKinesiologyMusculoskeletalSystem2017
 
 :::
 

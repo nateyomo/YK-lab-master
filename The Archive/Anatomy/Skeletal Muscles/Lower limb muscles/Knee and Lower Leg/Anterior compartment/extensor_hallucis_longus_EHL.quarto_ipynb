@@ -19,9 +19,18 @@
         "\n",
         "![The Mucous sheaths of the tendons around the ankle (medial view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image442 The mucous sheaths of the tendons around the ankle. Medial aspect.gif)\n",
         "\n",
+        ":::\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch68 Long toe extensor muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
         ":::\n"
       ],
-      "id": "ddfad32b"
+      "id": "6e59afd8"
     },
     {
       "cell_type": "code",
@@ -92,7 +101,7 @@
         "\n",
         "\"The EHL and the EHB muscles produce the motion of extension of the IP and MTP joints. The foot is maintained in midposition. Resistance is applied to the posterior aspect of both phalanges of the first digit into toe flexion.\" @duttonDuttonOrthopaedicExamination2020 "
       ],
-      "id": "b7b60344"
+      "id": "120a0267"
     }
   ],
   "metadata": {

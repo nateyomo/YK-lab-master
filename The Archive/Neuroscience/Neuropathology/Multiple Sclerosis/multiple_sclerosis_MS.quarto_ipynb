@@ -13,6 +13,11 @@
         ":::{.callout title=\"Resources\"}\n",
         "\n",
         "- Suzanne - Ch14 @martinNeurologicInterventionsPhysical2021a \n",
+        "- Ch16 MS @fulkOSullivanSchmitzsPhysical2024\n",
+        "- ch31 MS @goodmanGoodmanFullerPathology2020\n",
+        "- Sleep\n",
+        "    - Ch109 Autoimmune disorders (MS) @kryger2021SleepMedicine\n",
+        "\n",
         ":::\n",
         "\n",
         "\n",
@@ -62,7 +67,7 @@
         "- [Secondary progressive (SPMS)](#secondary-progressive)\n",
         "- [Progressive relapsing (PRMS)](#progressive-relapsing)\n"
       ],
-      "id": "0f4d879d"
+      "id": "64f4909f"
     },
     {
       "cell_type": "code",
@@ -129,7 +134,7 @@
         "    for i in range(len(fig.data)):\n",
         "        fig.data[i].visible = 'legendonly' if i not in visible_indices else True"
       ],
-      "id": "82ebc482",
+      "id": "2c3e94f1",
       "execution_count": null,
       "outputs": []
     },
@@ -165,7 +170,7 @@
         ":::\n",
         "::: {.column}\n"
       ],
-      "id": "fc1b6a01"
+      "id": "462f0de3"
     },
     {
       "cell_type": "code",
@@ -213,7 +218,7 @@
         ":::\n",
         "::: {.column}"
       ],
-      "id": "2a14f361"
+      "id": "94998ac5"
     },
     {
       "cell_type": "code",
@@ -250,7 +255,7 @@
         ":::\n",
         "::: {.column}"
       ],
-      "id": "67b9f9c5"
+      "id": "aefa0337"
     },
     {
       "cell_type": "code",
@@ -291,7 +296,7 @@
         ":::\n",
         "::: {.column}"
       ],
-      "id": "e55bcba1"
+      "id": "6a015602"
     },
     {
       "cell_type": "code",
@@ -504,7 +509,7 @@
         "The intensity should be moderate and range \n",
         "between 11 and 13 on the 20-point rating of perceived exertion scale, or between 40% and 60% peak oxygen consumption or peak heart rate. "
       ],
-      "id": "7076f648"
+      "id": "557f51e1"
     }
   ],
   "metadata": {

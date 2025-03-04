@@ -2,6 +2,10 @@
 title: Osteoporosis
 ---
 
+::: {.callout title="Reading list"}
+
+- Ch24 Osteoporosis @goodmanGoodmanFullerPathology2020
+:::
 
 # Endocrinology
 

@@ -2,6 +2,12 @@
 title: Surfing (Overview)
 ---
 
+::: {.callout title="Reading list"}
+
+- Surf Survival @nathansonSurfSurvival2019
+
+:::
+
 We can break surfing into multiple sections
 
 - Paddling

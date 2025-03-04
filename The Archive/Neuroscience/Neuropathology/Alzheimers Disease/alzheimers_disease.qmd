@@ -2,7 +2,12 @@
 title: Alzheimer's Disease (AD)
 ---
 
+::: {.callout title="Reading List"}
 
+- Ch31 Alzheimers @goodmanGoodmanFullerPathology2020
+- Ch105 Alzheimer's and sleep disturbances @kryger2021SleepMedicine
+
+:::
 
 # Risk Factors
 

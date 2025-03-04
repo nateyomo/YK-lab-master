@@ -27,9 +27,16 @@
         "\n",
         "![3rd layer of the plantar foot @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image445 Muscles of the sole of the foot. Third layer.gif)\n",
         "\n",
+        ":::\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch69 Long toe flexor muscles of the foot @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
         ":::\n"
       ],
-      "id": "3080a686"
+      "id": "e1c8cecf"
     },
     {
       "cell_type": "code",
@@ -127,7 +134,7 @@
         "\n",
         "- [3D Calf Stretch]({{< var ref-3d-calf-stretch.path >}})"
       ],
-      "id": "13837493"
+      "id": "19bccd05"
     }
   ],
   "metadata": {

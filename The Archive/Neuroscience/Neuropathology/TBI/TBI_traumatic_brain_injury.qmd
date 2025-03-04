@@ -5,6 +5,12 @@ title: Traumatic Brain Injury (TBI)
 :::{.callout title="Resources"}
 
 - Suzanne - Ch12 TBI @martinNeurologicInterventionsPhysical2021a 
+- Ch19 TBI @fulkOSullivanSchmitzsPhysical2024
+- ch33 TBI @goodmanGoodmanFullerPathology2020
+- Sleep
+    - Ch32 Pathophysiology of sleep-wake disturbances after TBI @kryger2021SleepMedicine
+    - Ch108 Sleep Disorders after TBI @kryger2021SleepMedicine
+
 :::
 
 

@@ -6,6 +6,15 @@ title: Middle Trapezius
 ![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}
 
 
+::: {.callout title="Reading list"}
+
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+- Trigger points
+    - Check @donnellyTravellSimonsSimons2019
+    - Trapezius @finandoTriggerPointTherapy2005
+
+:::
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false
@@ -70,3 +79,10 @@ Aponeurosis at T1–T4 SP @gilroyAtlasAnatomy2020
 - Stabilize the scapula during upward rotation @gilroyAtlasAnatomy2020
     - Stabilizes the serratus anterior during upward rotation by counteracting the protraction Serratus Anterior @gilroyAtlasAnatomy2020
 
+# Dysfunction
+
+::: {.callout}
+
+- Ch6 Trapezius Muscle @donnellyTravellSimonsSimons2019
+
+:::

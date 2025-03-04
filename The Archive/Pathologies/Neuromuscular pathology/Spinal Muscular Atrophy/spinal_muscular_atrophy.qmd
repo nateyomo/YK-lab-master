@@ -1,0 +1,9 @@
+---
+title: Spinal Muscular Atrophy (SMA)
+---
+
+::: {.callout title="Reading list"}
+
+- Ch8 SMA @amatoNeuromuscularDisorders2016
+
+:::

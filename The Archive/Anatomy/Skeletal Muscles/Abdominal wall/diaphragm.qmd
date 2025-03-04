@@ -4,3 +4,10 @@ title: Diaphragm muscle
 
 
 ![Muscles of the diaphragm (inferior view)@OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.17 Muscles of the Diaphragm.jpeg){#fig-openstax-fig11.17}
+
+::: {.callout title="Reading list"}
+
+- Intercostals and Diaphragm @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+
+:::

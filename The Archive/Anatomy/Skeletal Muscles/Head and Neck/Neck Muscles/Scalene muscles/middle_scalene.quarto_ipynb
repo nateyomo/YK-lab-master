@@ -13,9 +13,17 @@
         "\n",
         "![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}\n",
         "\n",
-        "![Hypoglossal nerve, cervical plexus, and their respective branches @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image794 Hypoglossal nerve cervical plexus and their branches.gif){#fig-gray1918-image794}\n"
+        "![Hypoglossal nerve, cervical plexus, and their respective branches @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image794 Hypoglossal nerve cervical plexus and their branches.gif){#fig-gray1918-image794}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Scalene Muscle @donnellyTravellSimonsSimons2019\n",
+        "- @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "8ecb2516"
+      "id": "0968c3ba"
     },
     {
       "cell_type": "code",
@@ -93,7 +101,7 @@
         "- The Middle Scalene can cause entrapment of the [C5]({{< var ref-nerve-root.c5 >}}) and [C6]({{< var ref-nerve-root.c6 >}}) since these nerves pass through this muscle @duttonDuttonOrthopaedicExamination2020.\n",
         "    - This can result in problems with the [Long Thoracic Nerve]({{< var ref-long-thoracic-nerve.path >}}) @duttonDuttonOrthopaedicExamination2020."
       ],
-      "id": "175ed066"
+      "id": "25250845"
     }
   ],
   "metadata": {

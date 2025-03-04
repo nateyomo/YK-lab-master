@@ -5,3 +5,12 @@ subtitle: Measure of Static Response of muscle tone
 
 
 
+| Score | Criteria |
+|-|-|
+| 0 | No increase in muscle tone |
+| 1 | Slight increase in muscle tone manifasted by *catch and release* |
+| 1+ | A slight increase in muscle tone manifested by *catch* followed by minimial resistance through remaining range |
+| 2 | A more apparent increase in muscle tone during movement, but the affected body part is easily moved |
+| 3 | A *considerable* increase in tone, passive movement is *difficult* |
+| 4 | The affected body part is *rigid* in a certain position, full passive movement is *not attainable* |
+: Modified Ashworth Scale @DynamicNeurologicalStabilizationClinicalRehabilitation2014 {.striped}

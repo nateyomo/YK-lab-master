@@ -4,6 +4,13 @@ subtitle: Musculoskeletal Overview
 ---
 
 
+::: {.callout title="Reading list"}
+
+- ch28 Orthopaedic Manual Physical Therapy of the Lumbopelvic Spine @wiseOrthopaedicManualPhysical2015
+
+:::
+
+
 # Joints
 
 ## Apophyseal Joints

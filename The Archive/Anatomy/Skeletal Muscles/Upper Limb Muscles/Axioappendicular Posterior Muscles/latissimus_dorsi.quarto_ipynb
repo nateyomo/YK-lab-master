@@ -13,9 +13,16 @@
         "\n",
         "![Muscles of the Abdomen @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.16 Muscles of the Abdomen.jpeg){#fig-openstax-fig11.16}\n",
         "\n",
-        "![Muscles that move the humerus @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.23 Muscles That Move the Humerus.jpeg){#fig-openstax-fig11.23}\n"
+        "![Muscles that move the humerus @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.23 Muscles That Move the Humerus.jpeg){#fig-openstax-fig11.23}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Straight arm MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "- Bent arm MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "b396bf30"
+      "id": "d0f1cf22"
     },
     {
       "cell_type": "code",
@@ -94,7 +101,7 @@
         "The teres major can almost be considered a \"mini lat\" since it has the same functions\n",
         ":::"
       ],
-      "id": "1f953ec8"
+      "id": "776c8c9e"
     }
   ],
   "metadata": {

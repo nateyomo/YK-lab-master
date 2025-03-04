@@ -22,6 +22,12 @@ title: Flexor Digitorum Longus (FDL)
 
 :::
 
+::: {.callout title="Reading list"}
+
+- Ch69 Long toe flexor muscles of the foot @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
 
 ```{python tbl-oian}
 #| label: tbl-oian

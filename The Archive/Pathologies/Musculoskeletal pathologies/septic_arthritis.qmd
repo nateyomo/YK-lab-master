@@ -1,0 +1,11 @@
+---
+title: Septic Arthritis
+subtitle: Infectious Arthritis
+---
+
+
+::: {.callout title="Reading list"}
+
+- Ch25 Infectious arthritis @goodmanGoodmanFullerPathology2020
+
+:::

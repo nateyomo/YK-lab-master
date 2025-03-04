@@ -10,6 +10,15 @@ title: Iliacus Muscle
 
 ![Hip and Thigh Muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg){#fig-openstax-fig11.29}
 
+::: {.callout title="Reading list"}
+
+- Psoas major, psoas minor, iliacus muscles @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
 
 ```{python tbl-iliacus-oian}
 #| label: tbl-iliacus-oian

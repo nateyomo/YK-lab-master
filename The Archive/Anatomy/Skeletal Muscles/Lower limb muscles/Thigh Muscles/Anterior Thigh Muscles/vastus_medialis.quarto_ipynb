@@ -11,9 +11,15 @@
         "\n",
         "![Hip and Thigh Muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg){#fig-openstax-fig11.29}\n",
         "\n",
-        "![Muscles of the Iliac and Anterior femoral regions @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image430 Muscles of the iliac and anterior femoral regions.gif)\n"
+        "![Muscles of the Iliac and Anterior femoral regions @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image430 Muscles of the iliac and anterior femoral regions.gif)\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "a094aefb"
+      "id": "fe83fdcc"
     },
     {
       "cell_type": "code",
@@ -113,7 +119,7 @@
         "\n",
         "\"The VMO, which is frequently innervated independently from the rest of the quadriceps by a separate branch of the femoral nerve, is the first muscle of the quadriceps group to atrophy and the last to rehabilitate\" @duttaRanksumTestClustered2016\n"
       ],
-      "id": "f28717c8"
+      "id": "b95a6a36"
     }
   ],
   "metadata": {

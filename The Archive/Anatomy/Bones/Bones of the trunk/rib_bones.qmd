@@ -2,6 +2,13 @@
 title: Ribs (Bone)
 ---
 
+
+::: {.callout title="Reading list"}
+
+- Rib osteology ch9 @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
+
 # Overview
 
 There are 12 pairs of rib bones which correspond to the 12 thoracic vertebrae (T1-T12).

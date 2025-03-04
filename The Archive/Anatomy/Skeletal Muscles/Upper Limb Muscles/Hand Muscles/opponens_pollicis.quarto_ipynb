@@ -13,9 +13,17 @@
         "\n",
         "![Muscles of the thumb @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image426 The muscles of the thumb.gif)\n",
         "\n",
-        "![Palmar muscles of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image427 The muscles of the left hand. Palmar surface.gif)\n"
+        "![Palmar muscles of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image427 The muscles of the left hand. Palmar surface.gif)\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Adductor pollicis and opponens pollicis Muscles @donnellyTravellSimonsSimons2019\n",
+        "- @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "f1f52d04"
+      "id": "cb2f3119"
     },
     {
       "cell_type": "code",
@@ -83,7 +91,7 @@
         "\n",
         "# Notes"
       ],
-      "id": "fa814dab"
+      "id": "e55813ab"
     }
   ],
   "metadata": {

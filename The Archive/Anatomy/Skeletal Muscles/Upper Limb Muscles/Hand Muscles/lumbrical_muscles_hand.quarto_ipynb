@@ -11,9 +11,16 @@
         "\n",
         "![Intrinsic Muscles of the Hand @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.28 Intrinsic Muscles of the Hand.jpeg){#fig-openstax-fig11.28}\n",
         "\n",
-        "![Palmar muscles of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image427 The muscles of the left hand. Palmar surface.gif)\n"
+        "![Palmar muscles of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image427 The muscles of the left hand. Palmar surface.gif)\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Interosseous, Lumbrical, and Abductor Digiti Minimi Muscles @donnellyTravellSimonsSimons2019\n",
+        "- @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "c2955fb2"
+      "id": "8e3720db"
     },
     {
       "cell_type": "code",
@@ -105,7 +112,7 @@
         "- Bunnell-Littler Test\n",
         "- Claw hand"
       ],
-      "id": "bbea2889"
+      "id": "b50839d3"
     }
   ],
   "metadata": {

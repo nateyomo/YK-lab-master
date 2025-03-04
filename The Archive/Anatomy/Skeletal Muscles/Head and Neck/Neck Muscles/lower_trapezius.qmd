@@ -1,9 +1,19 @@
 ---
 title: Lower Trapezius
+keywords:
+    - Ascending Trapezius
 ---
 
 
 ![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}
+
+::: {.callout title="Reading list"}
+
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+- Trigger points
+    - Check @donnellyTravellSimonsSimons2019
+    - Trapezius @finandoTriggerPointTherapy2005
+:::
 
 ```{python tbl-oian}
 #| label: tbl-oian
@@ -57,3 +67,12 @@ Spinous processes of vertebrae T5-T12 @gilroyAtlasAnatomy2020
 # Action {#action}
 
 **STJ**: Retraction, Depression, Upward Rotation @gilroyAtlasAnatomy2020
+
+
+# Dysfunction
+
+::: {.callout}
+
+- Ch6 Trapezius Muscle @donnellyTravellSimonsSimons2019
+
+:::

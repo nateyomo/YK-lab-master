@@ -1,0 +1,58 @@
+---
+title: Myofascial Trigger Point (TrP)
+---
+
+::: {.callout}
+
+- @donnellyTravellSimonsSimons2019
+- @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+
+- ch14 Myofascial Release in Orthopaedic Manual Physical Therapy @wiseOrthopaedicManualPhysical2015
+- Ch16 Myofascial Trigger Point Approach in Orthopaedic Manual Physical Therapy @wiseOrthopaedicManualPhysical2015
+
+:::
+
+# Types of trigger points
+
+There are two main types of trigger points:
+
+1. Active: Pain or discomfort during movement @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+1. Latent: Pain or discomfort only during direct compression @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+
+# Palpation
+
+During palpation, the muscle bundle feels stiff and the trigger point itself feels like a knot @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+
+
+# Histology
+
+A trigger point histologically consists of significantly contracted sarcomeres which compress the Z-lines together and cause an increase in cross-sectional area @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+This creates the feeling of a "knot."
+
+Since the fibers of the trigger point are contracted and compressed, the fibers outside of the trigger point must stretch and elongate to compensate @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+As a result, this causes the rest of the muscle to feel like a taut band @DynamicNeurologicalStabilizationClinicalRehabilitation2014.
+
+
+
+
+
+# Treatment
+
+::: {.callout title="Reading list"}
+
+- Ch72 Trigger Point Injection and Dry Needling @donnellyTravellSimonsSimons2019
+- Ch73 Manual Therapy Considerations @donnellyTravellSimonsSimons2019
+- Ch74 Therapeutic Exercise Considerations @donnellyTravellSimonsSimons2019
+- Ch75 Therapeutic Modality Considerations @donnellyTravellSimonsSimons2019
+- ch76 Postural considerations @donnellyTravellSimonsSimons2019
+- Ch77 Footwear considerations @donnellyTravellSimonsSimons2019
+
+:::
+
+
+[trigger point therapy]({{< var ref-trigger-point-therapy.path >}})
+
+
+# Jump Sign
+
+A patient can demonstrate a "jump sign" during palpation, where the patient pulls away from palpation that is disproportionate to the pressure provided @DynamicNeurologicalStabilizationClinicalRehabilitation2014.

@@ -9,6 +9,15 @@ title: Gluteus Maximus Muscle
 
 ![Hip and Thigh Muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg){#fig-openstax-fig11.29}
 
+::: {.callout title="Reading list"}
+
+- Gmax muscle @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
 # Overview
 
 The gluteus maximus is a primary extensor and external rotator of the hip @neumannKinesiologyMusculoskeletalSystem2017. The gluteus maximus is a secondary hip abductor @neumannKinesiologyMusculoskeletalSystem2017

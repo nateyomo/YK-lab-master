@@ -59,7 +59,7 @@
         "\n",
         "## Flexor extensors\n"
       ],
-      "id": "b625b2d7"
+      "id": "f7a24579"
     },
     {
       "cell_type": "code",
@@ -153,7 +153,7 @@
       "source": [
         "## Rotators\n"
       ],
-      "id": "cde2d676"
+      "id": "6d2ca3ee"
     },
     {
       "cell_type": "code",
@@ -341,7 +341,7 @@
         "\n",
         "Chronic *genu valgum* often results in lateral tibiofemoral osteoarthritis @jonesProjectFoundations2025."
       ],
-      "id": "fe433b39"
+      "id": "522601a4"
     }
   ],
   "metadata": {

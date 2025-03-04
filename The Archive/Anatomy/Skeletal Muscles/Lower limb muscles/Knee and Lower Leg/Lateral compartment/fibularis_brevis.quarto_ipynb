@@ -22,9 +22,18 @@
         "![Deep posterior leg muscles @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image439 Muscles of the back of the leg. Deep layer.gif)\n",
         "\n",
         "![The Mucous sheaths of the tendons around the ankle (lateral view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image441 The mucous sheaths of the tendons around the ankle. Lateral aspect.gif)\n",
+        ":::\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch64 Fibularis longus, brevis, tertius muscle @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
         ":::\n"
       ],
-      "id": "46dea08f"
+      "id": "94bb95bd"
     },
     {
       "cell_type": "code",
@@ -101,7 +110,7 @@
         "\n",
         "- Patient is in supine and the other, with the foot over the edge of the table and the ankle in the anatomic position. Resistance is applied to the lateral border of the forefoot"
       ],
-      "id": "92de0ee1"
+      "id": "d4fa949d"
     }
   ],
   "metadata": {

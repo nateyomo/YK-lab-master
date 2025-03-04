@@ -10,6 +10,12 @@ title: Dorsal Interossei of the Hand
 ![Dorsal interossei (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image428 The Interossei dorsales of left hand.gif)
 :::
 
+::: {.callout title="Reading list"}
+
+- Interosseous, Lumbrical, and Abductor Digiti Minimi Muscles @donnellyTravellSimonsSimons2019
+- @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
 
 ```{python tbl-oian}
 #| label: tbl-oian

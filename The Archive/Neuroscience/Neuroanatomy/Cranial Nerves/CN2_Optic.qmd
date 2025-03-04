@@ -15,7 +15,10 @@ to read
 
 ![Schematic of optic nerves and optic tract @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image774 Scheme showing central connections of the optic nerves and optic tracts.gif)
 
-![Nerves of the Orbit](/The Archive/Images/Gray anatomy 1918 images/Neurology/image776 Nerves of the orbit. Seen from above.gif)
+![Nerves of the Orbit @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image776 Nerves of the orbit. Seen from above.gif)
+
+![Segregation of Visual Field information at the Optic Chiasm @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig14.22 openstax Segregation of Visual Field Information at the Optic Chiasm.jpeg){#fig-openstax-fig14.22}
+
 
 - Type: Sensory
 - Function: vision (color, acuity, peripheral vision, pupillary light reflex)
@@ -64,6 +67,7 @@ Optic tract
 6. Optic tract
 7. (Synapse) Lateral geniculate nucleus in Thalamus -> 
 8. Optic radiations -> Occipital cortex
+
 
 # Pupillary light reflex
 

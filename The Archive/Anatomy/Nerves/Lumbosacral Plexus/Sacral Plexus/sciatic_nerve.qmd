@@ -65,3 +65,11 @@ Damage to the common fibular division during Total hip arthroplasty can result i
 
 
 - Deep gluteal syndrome is an increasingly recognized disease entity, caused by compression of the sciatic or pudendal nerve due to non-discogenic pelvic lesions
+
+# Entrapment {#entrapment}
+
+::: {.callout title="Reading list"}
+
+- Sciatic nerve p373 @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+
+:::

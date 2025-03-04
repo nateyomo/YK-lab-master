@@ -15,9 +15,20 @@
         "![Muscles of the Posterior and lateral neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.14 Posterior and Lateral Views of the Neck.jpeg){#fig-openstax-fig11.14}\n",
         "\n",
         "\n",
-        "![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}\n"
+        "![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Trigger Points\n",
+        "    - Ch19 lev scap Muscle @donnellyTravellSimonsSimons2019\n",
+        "    - Lev scap @finandoTriggerPointTherapy2005\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "ff15a516"
+      "id": "133d7632"
     },
     {
       "cell_type": "code",
@@ -103,7 +114,7 @@
         "\n",
         "Paralysis of the levator scapulae will result in a sagging shoulder girdle @jonesProjectFoundations2025."
       ],
-      "id": "aabeeb95"
+      "id": "e50693ed"
     }
   ],
   "metadata": {

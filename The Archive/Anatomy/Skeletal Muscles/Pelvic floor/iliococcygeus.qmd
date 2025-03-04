@@ -9,3 +9,10 @@ subtitle: Levator Ani of the pelvic floor
 
 
 ![Muscles of the perineium (Inferior view) @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.20 Muscles of the Perineum.jpeg){#fig-openstax-fig11.20}
+
+::: {.callout title="Reading list"}
+
+- Pelvic floor muscles @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+
+:::

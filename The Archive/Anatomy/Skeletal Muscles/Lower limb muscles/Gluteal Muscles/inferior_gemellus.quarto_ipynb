@@ -12,9 +12,15 @@
         "\n",
         "![Hip and Thigh Muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg){#fig-openstax-fig11.29}\n",
         "\n",
-        "![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}\n"
+        "![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch57 piriformis, obturator internus, gemellus, obturator externus, quadratus femoris muscles @donnellyTravellSimonsSimons2019\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "06aadabe"
+      "id": "bace4a97"
     },
     {
       "cell_type": "code",
@@ -93,7 +99,7 @@
         "\n",
         "- Gemelli-obturator internus syndrome"
       ],
-      "id": "3956db63"
+      "id": "d3515952"
     }
   ],
   "metadata": {

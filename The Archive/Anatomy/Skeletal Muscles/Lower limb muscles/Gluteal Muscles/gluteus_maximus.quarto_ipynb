@@ -16,12 +16,21 @@
         "\n",
         "![Hip and Thigh Muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg){#fig-openstax-fig11.29}\n",
         "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Gmax muscle @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n",
+        "\n",
         "# Overview\n",
         "\n",
         "The gluteus maximus is a primary extensor and external rotator of the hip @neumannKinesiologyMusculoskeletalSystem2017. The gluteus maximus is a secondary hip abductor @neumannKinesiologyMusculoskeletalSystem2017\n",
         "The gluteus maximus also plays an important role in stabilization of the SIJ and lumbar spine via its ligamentous and fascial originations @neumannKinesiologyMusculoskeletalSystem2017 \n"
       ],
-      "id": "559a62b2"
+      "id": "bc50321c"
     },
     {
       "cell_type": "code",
@@ -132,7 +141,7 @@
         "- Bridge (toes up)\n",
         "- S/L Hip abduction to high knee\n"
       ],
-      "id": "d230eda3"
+      "id": "79467b30"
     }
   ],
   "metadata": {

@@ -5,15 +5,18 @@ subtitle: Positional release technique variation
 
 ::: {.callout-note}
 
-Some opinions state that this was historically important, but positional release, and notable Chaitow's books on positional release are more relevant now
+Some opinions state that this was historically important, but positional release, and notable Chaitow's books on positional release are more relevant now @chaitowPositionalReleaseTechniques2016
 
 :::
 
 
 ::: {.callout title="To read"}
 
+- Positional Release Techniques @chaitowPositionalReleaseTechniques2016
 - Strain-Counterstrain @jonesStrainCounterstrain1995
 - Compendium Edition: Clinical Application of Counterstrain @myersCompendiumEditionClinical2012
+- ch15 Strain-Counterstrain in Orthopaedic Manual Physical Therapy @wiseOrthopaedicManualPhysical2015
+
 :::
 
 

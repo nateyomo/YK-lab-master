@@ -22,6 +22,15 @@ title: Tibialis Posterior Muscle
 
 :::
 
+::: {.callout title="Reading list"}
+
+- Ch67 Tibialis posterior muscle @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
 
 ```{python tbl-oian}
 #| label: tbl-oian

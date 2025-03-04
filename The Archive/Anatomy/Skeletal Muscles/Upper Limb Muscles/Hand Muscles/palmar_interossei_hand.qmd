@@ -6,6 +6,12 @@ title: Palmar Interossei of the Hand
 
 ![Palmar Interossei of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image429 The Interossei volares of left hand.gif)
 
+::: {.callout title="Reading list"}
+
+- Interosseous, Lumbrical, and Abductor Digiti Minimi Muscles @donnellyTravellSimonsSimons2019
+- @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
 
 ```{python tbl-oian}
 #| label: tbl-oian

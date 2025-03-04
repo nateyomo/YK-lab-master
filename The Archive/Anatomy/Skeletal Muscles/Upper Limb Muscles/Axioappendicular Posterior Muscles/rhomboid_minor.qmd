@@ -6,6 +6,17 @@ title: Rhomboid Minor
 
 ![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}
 
+::: {.callout title="Reading list"}
+
+- Trigger points
+    - Rhomboid minor and major Muscle @donnellyTravellSimonsSimons2019
+    - Rhomboids @finandoTriggerPointTherapy2005
+- @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false

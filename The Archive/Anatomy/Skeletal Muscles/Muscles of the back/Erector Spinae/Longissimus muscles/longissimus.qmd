@@ -3,6 +3,20 @@ title: Longissimus Muscle
 ---
 
 
+::: {.callout title="Reading list"}
+
+- Ch16 Longissimus capitis Muscle @donnellyTravellSimonsSimons2019
+- Thoracolumbar paraspinal muscles @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
+
+
+
+
+
+
+
 ```{python tbl-longissimus-muscles-oian}
 #| label: tbl-longissimus-muscles-oian
 #| warning: false

@@ -44,7 +44,7 @@ div.csl-indent {
 }</style>
 
 
-<script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../../../../../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../../../../../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
@@ -88,6 +88,9 @@ div.csl-indent {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
 <link rel="stylesheet" href="../../../../../styles.css">
@@ -160,6 +163,7 @@ div.csl-indent {
   <li><a href="#palpation" id="toc-palpation" class="nav-link" data-scroll-target="#palpation">Palpation</a></li>
   <li><a href="#treatment" id="toc-treatment" class="nav-link" data-scroll-target="#treatment">Treatment</a></li>
   <li><a href="#notes" id="toc-notes" class="nav-link" data-scroll-target="#notes">Notes</a></li>
+  <li><a href="#entrapment" id="toc-entrapment" class="nav-link" data-scroll-target="#entrapment">Entrapment</a></li>
   </ul>
 </nav>
 </nav>
@@ -245,459 +249,9 @@ div.csl-indent {
 <li>Flexor digitorum longus<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span></li>
 <li>Flexor hallucis longus<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span></li>
 </ul>
-<div class="cell">
-<div class="cell-output-display">
-<div id="uidqupuceb" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#uidqupuceb table {
-  font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-#uidqupuceb thead, #uidqupuceb tbody, #uidqupuceb tfoot, #uidqupuceb tr, #uidqupuceb td, #uidqupuceb th {
-  border-style: none;
-}
-
-#uidqupuceb p {
-  margin: 0;
-  padding: 0;
-}
-
-#uidqupuceb .gt_table {
-  display: table;
-  border-collapse: collapse;
-  line-height: normal;
-  margin-left: auto;
-  margin-right: auto;
-  color: #333333;
-  font-size: 16px;
-  font-weight: normal;
-  font-style: normal;
-  background-color: #FFFFFF;
-  width: auto;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #A8A8A8;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #A8A8A8;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-}
-
-#uidqupuceb .gt_caption {
-  padding-top: 4px;
-  padding-bottom: 4px;
-}
-
-#uidqupuceb .gt_title {
-  color: #333333;
-  font-size: 125%;
-  font-weight: initial;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-color: #FFFFFF;
-  border-bottom-width: 0;
-}
-
-#uidqupuceb .gt_subtitle {
-  color: #333333;
-  font-size: 85%;
-  font-weight: initial;
-  padding-top: 3px;
-  padding-bottom: 5px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-color: #FFFFFF;
-  border-top-width: 0;
-}
-
-#uidqupuceb .gt_heading {
-  background-color: #FFFFFF;
-  text-align: center;
-  border-bottom-color: #FFFFFF;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-
-#uidqupuceb .gt_bottom_border {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-
-#uidqupuceb .gt_col_headings {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-
-#uidqupuceb .gt_col_heading {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 6px;
-  padding-left: 5px;
-  padding-right: 5px;
-  overflow-x: hidden;
-}
-
-#uidqupuceb .gt_column_spanner_outer {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  padding-top: 0;
-  padding-bottom: 0;
-  padding-left: 4px;
-  padding-right: 4px;
-}
-
-#uidqupuceb .gt_column_spanner_outer:first-child {
-  padding-left: 0;
-}
-
-#uidqupuceb .gt_column_spanner_outer:last-child {
-  padding-right: 0;
-}
-
-#uidqupuceb .gt_column_spanner {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  overflow-x: hidden;
-  display: inline-block;
-  width: 100%;
-}
-
-#uidqupuceb .gt_spanner_row {
-  border-bottom-style: hidden;
-}
-
-#uidqupuceb .gt_group_heading {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  text-align: left;
-}
-
-#uidqupuceb .gt_empty_group_heading {
-  padding: 0.5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: middle;
-}
-
-#uidqupuceb .gt_from_md > :first-child {
-  margin-top: 0;
-}
-
-#uidqupuceb .gt_from_md > :last-child {
-  margin-bottom: 0;
-}
-
-#uidqupuceb .gt_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  margin: 10px;
-  border-top-style: solid;
-  border-top-width: 1px;
-  border-top-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  overflow-x: hidden;
-}
-
-#uidqupuceb .gt_stub {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#uidqupuceb .gt_stub_row_group {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-  vertical-align: top;
-}
-
-#uidqupuceb .gt_row_group_first td {
-  border-top-width: 2px;
-}
-
-#uidqupuceb .gt_row_group_first th {
-  border-top-width: 2px;
-}
-
-#uidqupuceb .gt_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#uidqupuceb .gt_first_summary_row {
-  border-top-style: solid;
-  border-top-color: #D3D3D3;
-}
-
-#uidqupuceb .gt_first_summary_row.thick {
-  border-top-width: 2px;
-}
-
-#uidqupuceb .gt_last_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-
-#uidqupuceb .gt_grand_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#uidqupuceb .gt_first_grand_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-style: double;
-  border-top-width: 6px;
-  border-top-color: #D3D3D3;
-}
-
-#uidqupuceb .gt_last_grand_summary_row_top {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-style: double;
-  border-bottom-width: 6px;
-  border-bottom-color: #D3D3D3;
-}
-
-#uidqupuceb .gt_striped {
-  background-color: rgba(128, 128, 128, 0.05);
-}
-
-#uidqupuceb .gt_table_body {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-
-#uidqupuceb .gt_footnotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-
-#uidqupuceb .gt_footnote {
-  margin: 0px;
-  font-size: 90%;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#uidqupuceb .gt_sourcenotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-
-#uidqupuceb .gt_sourcenote {
-  font-size: 90%;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#uidqupuceb .gt_left {
-  text-align: left;
-}
-
-#uidqupuceb .gt_center {
-  text-align: center;
-}
-
-#uidqupuceb .gt_right {
-  text-align: right;
-  font-variant-numeric: tabular-nums;
-}
-
-#uidqupuceb .gt_font_normal {
-  font-weight: normal;
-}
-
-#uidqupuceb .gt_font_bold {
-  font-weight: bold;
-}
-
-#uidqupuceb .gt_font_italic {
-  font-style: italic;
-}
-
-#uidqupuceb .gt_super {
-  font-size: 65%;
-}
-
-#uidqupuceb .gt_footnote_marks {
-  font-size: 75%;
-  vertical-align: 0.4em;
-  position: initial;
-}
-
-#uidqupuceb .gt_asterisk {
-  font-size: 100%;
-  vertical-align: 0;
-}
-
-#uidqupuceb .gt_indent_1 {
-  text-indent: 5px;
-}
-
-#uidqupuceb .gt_indent_2 {
-  text-indent: 10px;
-}
-
-#uidqupuceb .gt_indent_3 {
-  text-indent: 15px;
-}
-
-#uidqupuceb .gt_indent_4 {
-  text-indent: 20px;
-}
-
-#uidqupuceb .gt_indent_5 {
-  text-indent: 25px;
-}
-
-#uidqupuceb .katex-display {
-  display: inline-flex !important;
-  margin-bottom: 0.75em !important;
-}
-
-#uidqupuceb div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
-  height: 0px !important;
-}
-</style>
-
-<table class="gt_table caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-quarto-disable-processing="false" data-quarto-bootstrap="false">
+<div id="tbl-oian" class="cell anchored" data-message="false" data-execution_count="1">
+<div class="cell-output cell-output-display">
+<table class="dataframe oian-table caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
 <colgroup>
 <col style="width: 20%">
 <col style="width: 20%">
@@ -706,664 +260,138 @@ div.csl-indent {
 <col style="width: 20%">
 </colgroup>
 <thead>
-<tr class="gt_heading header">
-<th colspan="5" class="gt_heading gt_title gt_font_normal gt_bottom_border">Nerve to Quadratus Femoris Muscle Innervations</th>
-</tr>
-<tr class="gt_col_headings even">
-<th id="name_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Muscle</th>
-<th id="origin_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Origin</th>
-<th id="insertion_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Insertion</th>
-<th id="innervation_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Innervation</th>
-<th id="action_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Action</th>
+<tr class="header">
+<th data-quarto-table-cell-role="th">Muscle</th>
+<th data-quarto-table-cell-role="th">Origin</th>
+<th data-quarto-table-cell-role="th">Insertion</th>
+<th data-quarto-table-cell-role="th">Innervation</th>
+<th data-quarto-table-cell-role="th">Action</th>
 </tr>
 </thead>
-<tbody class="gt_table_body">
+<tbody>
 <tr class="odd">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.html">Adductor Magnus</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.html#origin">Inferior pubic ramus</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.html#origin">Ischial ramus</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.html#origin">Ischial tuberosity</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p>[Inferior pubic ramus](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[Ischial ramus](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[Ischial tuberosity](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.html#insertion">Medial lip of Linea aspera</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.html#insertion">Adductor tubercle</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p>[Medial lip of Linea aspera](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.qmd#insertion) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[Adductor tubercle](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.qmd#insertion) [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.html#nerve">Obturator n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.html#nerve">Tibial n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.html#nerve">L2</a> - <a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.html#nerve">L4</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li><p>[Obturator n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[Tibial n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-<p>[L2](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.qmd#nerve) - [L4](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5IaXA8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPltBZGR1Y3Rpb25dKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL1RoaWdoIE11c2NsZXMvTWVkaWFsIFRoaWdoIE11c2NsZXMvYWRkdWN0b3JfbWFnbnVzLnFtZCNhY3Rpb24pIFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8bGk+W0ZsZXhpb25dKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL1RoaWdoIE11c2NsZXMvTWVkaWFsIFRoaWdoIE11c2NsZXMvYWRkdWN0b3JfbWFnbnVzLnFtZCNhY3Rpb24pIFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8bGk+W0V4dGVuc2lvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvVGhpZ2ggTXVzY2xlcy9NZWRpYWwgVGhpZ2ggTXVzY2xlcy9hZGR1Y3Rvcl9tYWdudXMucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjxsaT5bSVJdKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL1RoaWdoIE11c2NsZXMvTWVkaWFsIFRoaWdoIE11c2NsZXMvYWRkdWN0b3JfbWFnbnVzLnFtZCNhY3Rpb24pIFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo8cD48c3Ryb25nPlBlbHZpczwvc3Ryb25nPjwvcD4KPHVsPgo8bGk+W0Zyb250YWwgc3RhYmlsaXphdGlvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvVGhpZ2ggTXVzY2xlcy9NZWRpYWwgVGhpZ2ggTXVzY2xlcy9hZGR1Y3Rvcl9tYWdudXMucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjxsaT5bU2FnaXR0YWwgc3RhYmlsaXphdGlvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvVGhpZ2ggTXVzY2xlcy9NZWRpYWwgVGhpZ2ggTXVzY2xlcy9hZGR1Y3Rvcl9tYWdudXMucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+Cg==">
-<span class="gt_from_md">
-<strong>Hip</strong>
-<p></p>
-<ul>
-<li>[Adduction](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-<li>[Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-<li>[Extension](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-<li>[IR](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>Pelvis</strong></p>
-<ul>
-<li>[Frontal stabilization](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-<li>[Sagittal stabilization](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_magnus.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/adductor_magnus.html">Adductor Magnus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/adductor_magnus.html#origin">Inferior pubic ramus</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/adductor_magnus.html#origin">Ischial ramus</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/adductor_magnus.html#origin">Ischial tuberosity</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/adductor_magnus.html#insertion">Medial lip of Linea aspera</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/adductor_magnus.html#insertion">Adductor tubercle</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/adductor_magnus.html#innervation">Obturator n.</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/adductor_magnus.html#innervation">Tibial n.</a><br>
+L2 - L4</td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/adductor_magnus.html#action">Adduction</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/adductor_magnus.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/adductor_magnus.html#action">Extension</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/adductor_magnus.html#action">IR</a><br>
+<strong>Pelvis</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/adductor_magnus.html#action">Frontal stabilization</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Medial%20Thigh%20Muscles/adductor_magnus.html#action">Sagittal stabilization</a></td>
 </tr>
 <tr class="even">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.html">Biceps femoris long head</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.html#origin">Ischial tuberosity</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.html#origin">Sacrotuberous lig.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.html#origin">(Common head with semitendinosus)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p>[Ischial tuberosity](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[Sacrotuberous lig.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[(Common head with semitendinosus)](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.html#insertion">Fibular head</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li>[Fibular head](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.qmd#insertion) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.html#nerve">Tibial n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.html#nerve">L5</a> - <a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.html#nerve">S2</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li>[Tibial n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.qmd#nerve) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p>[L5](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.qmd#nerve) - [S2](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5IaXA8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPltFeHRlbnNpb25dKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL1RoaWdoIE11c2NsZXMvUG9zdGVyaW9yIFRoaWdoIE11c2NsZXMvYmljZXBzX2ZlbW9yaXNfbG9uZ19oZWFkLnFtZCNhY3Rpb24pIFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo8cD48c3Ryb25nPktuZWU8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPltGbGV4aW9uXSgvVGhlIEFyY2hpdmUvQW5hdG9teS9Ta2VsZXRhbCBNdXNjbGVzL0xvd2VyIGxpbWIgbXVzY2xlcy9UaGlnaCBNdXNjbGVzL1Bvc3RlcmlvciBUaGlnaCBNdXNjbGVzL2JpY2Vwc19mZW1vcmlzX2xvbmdfaGVhZC5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPGxpPltFUl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvVGhpZ2ggTXVzY2xlcy9Qb3N0ZXJpb3IgVGhpZ2ggTXVzY2xlcy9iaWNlcHNfZmVtb3Jpc19sb25nX2hlYWQucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+CjxwPjxzdHJvbmc+UGVsdmlzPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5bU2FnaXR0YWwgc3RhYmlsaXphdGlvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvVGhpZ2ggTXVzY2xlcy9Qb3N0ZXJpb3IgVGhpZ2ggTXVzY2xlcy9iaWNlcHNfZmVtb3Jpc19sb25nX2hlYWQucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+Cg==">
-<span class="gt_from_md">
-<strong>Hip</strong>
-<p></p>
-<ul>
-<li>[Extension](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>Knee</strong></p>
-<ul>
-<li>[Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-<li>[ER](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>Pelvis</strong></p>
-<ul>
-<li>[Sagittal stabilization](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/biceps_femoris_long_head.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html">Biceps femoris long head</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#origin">Ischial tuberosity</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#origin">Sacrotuberous lig.</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#origin">(Common head with semitendinosus)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#insertion">Fibular head</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#innervation">Tibial n.</a><br>
+L5 - S2</td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#action">Extension</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#action">ER</a><br>
+<strong>Pelvis</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/biceps_femoris_long_head.html#action">Sagittal stabilization</a></td>
 </tr>
 <tr class="odd">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.html">Flexor digitorum longus</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.html#origin">Middle ⅓ of posterior surface of Tibia</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li>[Middle ⅓ of posterior surface of Tibia](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.qmd#origin) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.html#insertion">Bases of 2-5 Distal Phalanges</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li>[Bases of 2-5 Distal Phalanges](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.qmd#insertion) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.html#nerve">Tibial n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.html#nerve">L5</a> - <a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.html#nerve">S2</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li>[Tibial n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.qmd#nerve) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p>[L5](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.qmd#nerve) - [S2](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz4ybmQtNXRoIFRvZTwvc3Ryb25nPjwvcD4KPHVsPgo8bGk+W01UUCBGbGV4aW9uXSgvVGhlIEFyY2hpdmUvQW5hdG9teS9Ta2VsZXRhbCBNdXNjbGVzL0xvd2VyIGxpbWIgbXVzY2xlcy9LbmVlIGFuZCBMb3dlciBMZWcvUG9zdGVyaW9yIGNvbXBhcnRtZW50L2ZsZXhvcl9kaWdpdG9ydW1fbG9uZ3VzX0ZETC5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPGxpPltQSVAgRmxleGlvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvS25lZSBhbmQgTG93ZXIgTGVnL1Bvc3RlcmlvciBjb21wYXJ0bWVudC9mbGV4b3JfZGlnaXRvcnVtX2xvbmd1c19GREwucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjxsaT5bRElQIEZsZXhpb25dKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0tuZWUgYW5kIExvd2VyIExlZy9Qb3N0ZXJpb3IgY29tcGFydG1lbnQvZmxleG9yX2RpZ2l0b3J1bV9sb25ndXNfRkRMLnFtZCNhY3Rpb24pIFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo8cD48c3Ryb25nPlNUSjwvc3Ryb25nPjwvcD4KPHVsPgo8bGk+W0ludmVyc2lvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvS25lZSBhbmQgTG93ZXIgTGVnL1Bvc3RlcmlvciBjb21wYXJ0bWVudC9mbGV4b3JfZGlnaXRvcnVtX2xvbmd1c19GREwucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+CjxwPjxzdHJvbmc+VENKPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5bUEZdKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0tuZWUgYW5kIExvd2VyIExlZy9Qb3N0ZXJpb3IgY29tcGFydG1lbnQvZmxleG9yX2RpZ2l0b3J1bV9sb25ndXNfRkRMLnFtZCNhY3Rpb24pIFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo=">
-<span class="gt_from_md">
-<strong>2nd-5th Toe</strong>
-<p></p>
-<ul>
-<li>[MTP Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-<li>[PIP Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-<li>[DIP Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>STJ</strong></p>
-<ul>
-<li>[Inversion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>TCJ</strong></p>
-<ul>
-<li>[PF](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_digitorum_longus_FDL.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_digitorum_longus_FDL.html">Flexor digitorum longus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_digitorum_longus_FDL.html#origin">Middle 1/3 of posterior surface of Tibia</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_digitorum_longus_FDL.html#insertion">Bases of 2-5 Distal Phalanges</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_digitorum_longus_FDL.html#innervation">Tibial n.</a><br>
+L5 - S2</td>
+<td><strong>TCJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_digitorum_longus_FDL.html#action">PF</a><br>
+<strong>STJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_digitorum_longus_FDL.html#action">Inversion</a><br>
+<strong>2nd-5th Toe</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_digitorum_longus_FDL.html#action">MTP Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_digitorum_longus_FDL.html#action">PIP Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_digitorum_longus_FDL.html#action">DIP Flexion</a></td>
 </tr>
 <tr class="even">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.html">Flexor hallucis longus</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.html#origin">Posterior distal ⅔ of Fibula</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.html#origin">IO membrane</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p>[Posterior distal ⅔ of Fibula](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[IO membrane](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.html#insertion">Base of 1st Distal Phalanx</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li>[Base of 1st Distal Phalanx](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.qmd#insertion) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.html#nerve">Tibial n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.html#nerve">L5</a> - <a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.html#nerve">S2</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li>[Tibial n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.qmd#nerve) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p>[L5](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.qmd#nerve) - [S2](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz4xc3QgVG9lPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5bTVRQIEZsZXhpb25dKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0tuZWUgYW5kIExvd2VyIExlZy9Qb3N0ZXJpb3IgY29tcGFydG1lbnQvZmxleG9yX2hhbGx1Y2lzX2xvbmd1c19GSEwucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjxsaT5bSVAgRmxleGlvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvS25lZSBhbmQgTG93ZXIgTGVnL1Bvc3RlcmlvciBjb21wYXJ0bWVudC9mbGV4b3JfaGFsbHVjaXNfbG9uZ3VzX0ZITC5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPC91bD4KPHA+PHN0cm9uZz5TVEo8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPltJbnZlcnNpb25dKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0tuZWUgYW5kIExvd2VyIExlZy9Qb3N0ZXJpb3IgY29tcGFydG1lbnQvZmxleG9yX2hhbGx1Y2lzX2xvbmd1c19GSEwucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+CjxwPjxzdHJvbmc+VENKPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5bUEZdKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0tuZWUgYW5kIExvd2VyIExlZy9Qb3N0ZXJpb3IgY29tcGFydG1lbnQvZmxleG9yX2hhbGx1Y2lzX2xvbmd1c19GSEwucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+Cg==">
-<span class="gt_from_md">
-<strong>1st Toe</strong>
-<p></p>
-<ul>
-<li>[MTP Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-<li>[IP Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>STJ</strong></p>
-<ul>
-<li>[Inversion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>TCJ</strong></p>
-<ul>
-<li>[PF](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/flexor_hallucis_longus_FHL.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_hallucis_longus_FHL.html">Flexor hallucis longus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_hallucis_longus_FHL.html#origin">Posterior distal 2/3 of Fibula</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_hallucis_longus_FHL.html#origin">IO membrane</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_hallucis_longus_FHL.html#insertion">Base of 1st Distal Phalanx</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_hallucis_longus_FHL.html#innervation">Tibial n.</a><br>
+L5 - S2</td>
+<td><strong>TCJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_hallucis_longus_FHL.html#action">PF</a><br>
+<strong>STJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_hallucis_longus_FHL.html#action">Inversion</a><br>
+<strong>1st Toe</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_hallucis_longus_FHL.html#action">MTP Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/flexor_hallucis_longus_FHL.html#action">IP Flexion</a></td>
 </tr>
 <tr class="odd">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html">Gastrocnemius</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html#origin">Superior-posterior aspect of Medial Femoral Condyle</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html#origin">Lateral surface of Lateral Femoral Condyle</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p>[Superior-posterior aspect of Medial Femoral Condyle](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[Lateral surface of Lateral Femoral Condyle](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html#insertion">Calcaneal tuberosity via Achilles’ Tendon</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li>[Calcaneal tuberosity via Achilles’ Tendon](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd#insertion) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html#nerve">Tibial n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html#nerve">S1</a> - <a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html#nerve">S2</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li>[Tibial n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd#nerve) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p>[S1](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd#nerve) - [S2](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5LbmVlPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5bRmxleGlvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvS25lZSBhbmQgTG93ZXIgTGVnL1Bvc3RlcmlvciBjb21wYXJ0bWVudC9nYXN0cm9jbmVtaXVzLnFtZCNhY3Rpb24pIFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo8cD48c3Ryb25nPlRDSjwvc3Ryb25nPjwvcD4KPHVsPgo8bGk+W1BGXSgvVGhlIEFyY2hpdmUvQW5hdG9teS9Ta2VsZXRhbCBNdXNjbGVzL0xvd2VyIGxpbWIgbXVzY2xlcy9LbmVlIGFuZCBMb3dlciBMZWcvUG9zdGVyaW9yIGNvbXBhcnRtZW50L2dhc3Ryb2NuZW1pdXMucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+Cg==">
-<span class="gt_from_md">
-<strong>Knee</strong>
-<p></p>
-<ul>
-<li>[Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>TCJ</strong></p>
-<ul>
-<li>[PF](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html">Gastrocnemius</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#origin">Superior-posterior aspect of Medial Femoral Condyle</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#origin">Lateral surface of Lateral Femoral Condyle</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#insertion">Calcaneal tuberosity via Achilles' Tendon</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#innervation">Tibial n.</a><br>
+S1 - S2</td>
+<td><strong>TCJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#action">PF</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/gastrocnemius.html#action">Flexion</a></td>
 </tr>
 <tr class="even">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.qmd">Plantaris</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.qmd#origin">Lateral epicondyle of Femur</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li>[Lateral epicondyle of Femur](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.qmd#origin) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.qmd#insertion">Calcaneal tuberosity</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li>[Calcaneal tuberosity](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.qmd#insertion) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.qmd#nerve">Tibial n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.qmd#nerve">S1</a> - <a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.qmd#nerve">S2</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li>[Tibial n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.qmd#nerve) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p>[S1](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.qmd#nerve) - [S2](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5LbmVlPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5bPGVtPm5lZ2xpZ2JsZTwvZW0+IEZsZXhpb25dKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0tuZWUgYW5kIExvd2VyIExlZy9Qb3N0ZXJpb3IgY29tcGFydG1lbnQvcGxhbnRhcmlzX211c2NsZS5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPC91bD4KPHA+PHN0cm9uZz5Qcm9wcmlvY2VwdGlvbjwvc3Ryb25nPjwvcD4KPHVsPgo8bGk+W09yZ2FuIG9mIHByb3ByaW9jZXB0aW9uIGZvciB0aGUgcGxhbnRhcmZsZXhvcnNdKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0tuZWUgYW5kIExvd2VyIExlZy9Qb3N0ZXJpb3IgY29tcGFydG1lbnQvcGxhbnRhcmlzX211c2NsZS5xbWQjYWN0aW9uKSBAc3BpbmFQbGFudGFyaXNNdXNjbGVBbmF0b215MjAwNzwvbGk+CjwvdWw+CjxwPjxzdHJvbmc+VENKPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5bUEZdKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0tuZWUgYW5kIExvd2VyIExlZy9Qb3N0ZXJpb3IgY29tcGFydG1lbnQvcGxhbnRhcmlzX211c2NsZS5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPC91bD4K">
-<span class="gt_from_md">
-<strong>Knee</strong>
-<p></p>
-<ul>
-<li>[<em>negligble</em> Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>Proprioception</strong></p>
-<ul>
-<li>[Organ of proprioception for the plantarflexors](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.qmd#action) @spinaPlantarisMuscleAnatomy2007</li>
-</ul>
-<p><strong>TCJ</strong></p>
-<ul>
-<li>[PF](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/plantaris_muscle.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html">Plantaris</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#origin">Lateral epicondyle of Femur</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#insertion">Calcaneal tuberosity</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#innervation">Tibial n.</a><br>
+S1 - S2</td>
+<td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#action">*negligble* Flexion</a><br>
+<strong>TCJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#action">PF</a><br>
+<strong>Proprioception</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/plantaris.html#action">Organ of proprioception for the plantarflexors</a></td>
 </tr>
 <tr class="odd">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.qmd">Popliteus</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.qmd#origin">Lateral Femoral Condyle</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.qmd#origin">Posterior horn of Lateral Meniscus</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p>[Lateral Femoral Condyle](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[Posterior horn of Lateral Meniscus](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.qmd#insertion">Posterior surface of Tibia</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li>[Posterior surface of Tibia](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.qmd#insertion) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.qmd#nerve">Tibial n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.qmd#nerve">L4</a> - <a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.qmd#nerve">S1</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li>[Tibial n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.qmd#nerve) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p>[L4](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.qmd#nerve) - [S1](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5LbmVlPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5bRmxleGlvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvS25lZSBhbmQgTG93ZXIgTGVnL1Bvc3RlcmlvciBjb21wYXJ0bWVudC9wb3BsaXRldXNfbXVzY2xlLnFtZCNhY3Rpb24pIFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8bGk+W1VubG9ja3MgdGhlIGtuZWUgdmlhIGtuZWUgSVJdKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0tuZWUgYW5kIExvd2VyIExlZy9Qb3N0ZXJpb3IgY29tcGFydG1lbnQvcG9wbGl0ZXVzX211c2NsZS5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPC91bD4K">
-<span class="gt_from_md">
-<strong>Knee</strong>
-<p></p>
-<ul>
-<li>[Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-<li>[Unlocks the knee via knee IR](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/popliteus_muscle.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html">Popliteus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#origin">Lateral Femoral Condyle</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#origin">Posterior horn of Lateral Meniscus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#insertion">Posterior surface of Tibia</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#innervation">Tibial n.</a><br>
+L4 - S1</td>
+<td><strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/popliteus.html#action">Unlocks the knee via knee IR</a></td>
 </tr>
 <tr class="even">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.html">Semimembranosus</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.html#origin">Ischial tuberosity</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li>[Ischial tuberosity](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.qmd#origin) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.html#insertion">Medial tibial condyle</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.html#insertion">Oblique popliteal lig.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.html#insertion">Popliteus fascia</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p>[Medial tibial condyle](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.qmd#insertion) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[Oblique popliteal lig.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.qmd#insertion) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[Popliteus fascia](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.qmd#insertion) [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.html#nerve">Tibial n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.html#nerve">L5</a> - <a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.html#nerve">S2</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li>[Tibial n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.qmd#nerve) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p>[L5](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.qmd#nerve) - [S2](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5IaXA8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPltFeHRlbnNpb25dKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL1RoaWdoIE11c2NsZXMvUG9zdGVyaW9yIFRoaWdoIE11c2NsZXMvc2VtaW1lbWJyYW5vc3VzLnFtZCNhY3Rpb24pIFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo8cD48c3Ryb25nPktuZWU8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPltGbGV4aW9uXSgvVGhlIEFyY2hpdmUvQW5hdG9teS9Ta2VsZXRhbCBNdXNjbGVzL0xvd2VyIGxpbWIgbXVzY2xlcy9UaGlnaCBNdXNjbGVzL1Bvc3RlcmlvciBUaGlnaCBNdXNjbGVzL3NlbWltZW1icmFub3N1cy5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPGxpPltJUl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvVGhpZ2ggTXVzY2xlcy9Qb3N0ZXJpb3IgVGhpZ2ggTXVzY2xlcy9zZW1pbWVtYnJhbm9zdXMucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+CjxwPjxzdHJvbmc+UGVsdmlzPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5bU2FnaXR0YWwgc3RhYmlsaXphdGlvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvVGhpZ2ggTXVzY2xlcy9Qb3N0ZXJpb3IgVGhpZ2ggTXVzY2xlcy9zZW1pbWVtYnJhbm9zdXMucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+Cg==">
-<span class="gt_from_md">
-<strong>Hip</strong>
-<p></p>
-<ul>
-<li>[Extension](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>Knee</strong></p>
-<ul>
-<li>[Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-<li>[IR](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>Pelvis</strong></p>
-<ul>
-<li>[Sagittal stabilization](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semimembranosus.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html">Semimembranosus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#origin">Ischial tuberosity</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#insertion">Medial tibial condyle</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#insertion">Oblique popliteal lig.</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#insertion">Popliteus fascia</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#innervation">Tibial n.</a><br>
+L5 - S2</td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#action">Extension</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#action">IR</a><br>
+<strong>Pelvis</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semimembranosus.html#action">Sagittal stabilization</a></td>
 </tr>
 <tr class="odd">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.html">Semitendinosus</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.html#origin">Ischial tuberosity</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.html#origin">Sacrotuberous lig.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.html#origin">(common head with biceps femoris long head)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p>[Ischial tuberosity](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[Sacrotuberous lig.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[(common head with biceps femoris long head)](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.html#insertion">Pes anserine</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li>[Pes anserine](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.qmd#insertion) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.html#nerve">Tibial n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.html#nerve">L5</a> - <a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.html#nerve">S2</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li>[Tibial n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.qmd#nerve) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p>[L5](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.qmd#nerve) - [S2](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5IaXA8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPltFeHRlbnNpb25dKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL1RoaWdoIE11c2NsZXMvUG9zdGVyaW9yIFRoaWdoIE11c2NsZXMvc2VtaXRlbmRpbm9zdXMucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+CjxwPjxzdHJvbmc+S25lZTwvc3Ryb25nPjwvcD4KPHVsPgo8bGk+W0ZsZXhpb25dKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL1RoaWdoIE11c2NsZXMvUG9zdGVyaW9yIFRoaWdoIE11c2NsZXMvc2VtaXRlbmRpbm9zdXMucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjxsaT5bSVJdKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL1RoaWdoIE11c2NsZXMvUG9zdGVyaW9yIFRoaWdoIE11c2NsZXMvc2VtaXRlbmRpbm9zdXMucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+CjxwPjxzdHJvbmc+UGVsdmlzPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5bU2FnaXR0YWwgc3RhYmlsaXphdGlvbl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvVGhpZ2ggTXVzY2xlcy9Qb3N0ZXJpb3IgVGhpZ2ggTXVzY2xlcy9zZW1pdGVuZGlub3N1cy5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPC91bD4K">
-<span class="gt_from_md">
-<strong>Hip</strong>
-<p></p>
-<ul>
-<li>[Extension](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>Knee</strong></p>
-<ul>
-<li>[Flexion](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-<li>[IR](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>Pelvis</strong></p>
-<ul>
-<li>[Sagittal stabilization](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Posterior Thigh Muscles/semitendinosus.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html">Semitendinosus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#origin">Ischial tuberosity</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#origin">Sacrotuberous lig.</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#origin">(common head with biceps femoris long head)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#insertion">Pes anserine</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#innervation">Tibial n.</a><br>
+L5 - S2</td>
+<td><strong>Hip</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#action">Extension</a><br>
+<strong>Knee</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#action">IR</a><br>
+<strong>Pelvis</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Thigh%20Muscles/Posterior%20Thigh%20Muscles/semitendinosus.html#action">Sagittal stabilization</a></td>
 </tr>
 <tr class="even">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd">Soleus</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#origin">Posterior Fibula</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#origin">Posterior Tibia</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p>[Posterior Fibula](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[Posterior Tibia](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#insertion">Calcaneal tuberosity via Achilles’ Tendon</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li>[Calcaneal tuberosity via Achilles’ Tendon](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#insertion) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#nerve">Tibial n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#nerve">S1</a> - <a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#nerve">S2</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li>[Tibial n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#nerve) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p>[S1](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#nerve) - [S2](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5Mb3dlciBsZWc8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPltTdGFiaWxpemF0aW9uXSgvVGhlIEFyY2hpdmUvQW5hdG9teS9Ta2VsZXRhbCBNdXNjbGVzL0xvd2VyIGxpbWIgbXVzY2xlcy9LbmVlIGFuZCBMb3dlciBMZWcvUG9zdGVyaW9yIGNvbXBhcnRtZW50L3NvbGV1c19tdXNjbGUucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+CjxwPjxzdHJvbmc+VENKPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT5bUEZdKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0tuZWUgYW5kIExvd2VyIExlZy9Qb3N0ZXJpb3IgY29tcGFydG1lbnQvc29sZXVzX211c2NsZS5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPC91bD4K">
-<span class="gt_from_md">
-<strong>Lower leg</strong>
-<p></p>
-<ul>
-<li>[Stabilization](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>TCJ</strong></p>
-<ul>
-<li>[PF](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus_muscle.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/soleus.html">Soleus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/soleus.html#origin">Posterior Fibula</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/soleus.html#origin">Posterior Tibia</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/soleus.html#insertion">Calcaneal tuberosity via Achilles' Tendon</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/soleus.html#innervation">Tibial n.</a><br>
+S1 - S2</td>
+<td><strong>TCJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/soleus.html#action">PF</a><br>
+<strong>Lower leg</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/soleus.html#action">Stabilization</a></td>
 </tr>
 <tr class="odd">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.html">Tibialis posterior</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.html#origin">IO membrane</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.html#origin">Adjacent Tibia</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.html#origin">Adjacent Fibula</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p>[IO membrane](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[Adjacent Tibia](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[Adjacent Fibula](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.qmd#origin) [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.html#insertion">Cuneiforms</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.html#insertion">2-4 MT bases</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p>[Cuneiforms](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.qmd#insertion) [@gilroyAtlasAnatomy2020]</p></li>
-<li><p>[2-4 MT bases](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.qmd#insertion) [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.html#nerve">Tibial n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.html#nerve">L4</a> - <a href="../../../../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.html#nerve">L5</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li>[Tibial n.](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.qmd#nerve) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p>[L4](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.qmd#nerve) - [L5](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.qmd#nerve) [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5BcmNoIHN1cHBvcnQ8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPltUcmFuc3ZlcnNlIGFyY2hdKC9UaGUgQXJjaGl2ZS9BbmF0b215L1NrZWxldGFsIE11c2NsZXMvTG93ZXIgbGltYiBtdXNjbGVzL0tuZWUgYW5kIExvd2VyIExlZy9Qb3N0ZXJpb3IgY29tcGFydG1lbnQvdGliaWFsaXNfcG9zdGVyaW9yLnFtZCNhY3Rpb24pIFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8bGk+W0xvbmdpdHVkaW5hbCBhcmNoXSgvVGhlIEFyY2hpdmUvQW5hdG9teS9Ta2VsZXRhbCBNdXNjbGVzL0xvd2VyIGxpbWIgbXVzY2xlcy9LbmVlIGFuZCBMb3dlciBMZWcvUG9zdGVyaW9yIGNvbXBhcnRtZW50L3RpYmlhbGlzX3Bvc3Rlcmlvci5xbWQjYWN0aW9uKSBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPC91bD4KPHA+PHN0cm9uZz5UQ0o8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPltQRl0oL1RoZSBBcmNoaXZlL0FuYXRvbXkvU2tlbGV0YWwgTXVzY2xlcy9Mb3dlciBsaW1iIG11c2NsZXMvS25lZSBhbmQgTG93ZXIgTGVnL1Bvc3RlcmlvciBjb21wYXJ0bWVudC90aWJpYWxpc19wb3N0ZXJpb3IucW1kI2FjdGlvbikgW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+Cg==">
-<span class="gt_from_md">
-<strong>Arch support</strong>
-<p></p>
-<ul>
-<li>[Transverse arch](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-<li>[Longitudinal arch](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>TCJ</strong></p>
-<ul>
-<li>[PF](/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/tibialis_posterior.qmd#action) [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/tibialis_posterior.html">Tibialis posterior</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/tibialis_posterior.html#origin">IO membrane</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/tibialis_posterior.html#origin">Adjacent Tibia</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/tibialis_posterior.html#origin">Adjacent Fibula</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/tibialis_posterior.html#insertion">Cuneiforms</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/tibialis_posterior.html#insertion">2-4 MT bases</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/tibialis_posterior.html#innervation">Tibial n.</a><br>
+L4 - L5</td>
+<td><strong>TCJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/tibialis_posterior.html#action">PF</a><br>
+<strong>Arch support</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/tibialis_posterior.html#action">Transverse arch</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Lower%20limb%20muscles/Knee%20and%20Lower%20Leg/Posterior%20compartment/tibialis_posterior.html#action">Longitudinal arch</a></td>
 </tr>
 </tbody>
 </table>
-
-</div>
 </div>
 </div>
 <table class="table-striped table-hover caption-top table">
@@ -1628,6 +656,24 @@ div.csl-indent {
 <h1>Notes</h1>
 <p>“The tibial nerve, the larger of the two branches of the sciatic nerve, begins its own course in the upper part of the popliteal space. It descends vertically through this space, passing between the heads of the gastrocnemius muscle to the posterior aspect of the leg, and to the posteromedial aspect of the ankle, where its terminal branches serve the foot and ankle (see Chapter 21).”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">3</a></sup></span></p>
 <p>“The tibial nerve supplies the gastrocnemius, plantaris, soleus, popliteus, tibialis posterior, flexor digitorum longus, and flexor hallucis longus muscles. Articular branches pass to the knee and ankle joints.”<span class="citation" data-cites="duttonDuttonOrthopaedicExamination2020"><sup><a href="#ref-duttonDuttonOrthopaedicExamination2020" role="doc-biblioref">3</a></sup></span></p>
+</section>
+<section id="entrapment" class="level1">
+<h1>Entrapment</h1>
+<div class="callout callout-style-simple callout-none no-icon callout-titled" title="Reading list">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reading list
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Tibkal nerve p373<span class="citation" data-cites="DynamicNeurologicalStabilizationClinicalRehabilitation2014"><sup><a href="#ref-DynamicNeurologicalStabilizationClinicalRehabilitation2014" role="doc-biblioref">4</a></sup></span></li>
+</ul>
+</div>
+</div>
 
 
 
@@ -1642,6 +688,9 @@ div.csl-indent {
 </div>
 <div id="ref-duttonDuttonOrthopaedicExamination2020" class="csl-entry" role="listitem">
 <div class="csl-left-margin">3. </div><div class="csl-right-inline">Dutton M. <em>Dutton’s Orthopaedic Examination, Evaluation, and Intervention</em>. 5th ed. McGraw Hill Education; 2020.</div>
+</div>
+<div id="ref-DynamicNeurologicalStabilizationClinicalRehabilitation2014" class="csl-entry" role="listitem">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Kolar P. <em>Clinical <span>Rehabilitation</span></em>. 1st ed. Dynamic Neurological Stabilization; 2014.</div>
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Tibial Nerve. <a href="https://yomokerst.com/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/tibial_nerve.html">https://yomokerst.com/The

@@ -1,0 +1,20 @@
+---
+title: Index of Toxicology
+---
+
+::: {.callout}
+
+- Toxic plants in north america @burrowsToxicPlantsNorth2013
+- Plants that kill: a natural history of the world's most poisonous plants @daunceyPlantsThatKill2018
+- Handbook of plant and animal toxins in food: occurrence, toxicity, and prevention @nayikHandbookPlantAnimal2022
+- Toxic Superfoods: How Oxalate Overload Is Making You Sick and How to Get Better @nortonToxicSuperfoodsHow2023
+
+:::
+
+# Phthalates
+
+- phthalates
+
+# Nitrates
+
+- Nitrates

@@ -6,6 +6,17 @@ title: Splenius Capitis
 
 ![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}
 
+
+::: {.callout title="Reading list"}
+
+- Trigger points
+    - Splenius capitis Muscle @donnellyTravellSimonsSimons2019
+    - @finandoTriggerPointTherapy2005
+- Finished
+    - Gilroy @gilroyAtlasAnatomy2020
+
+:::
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false

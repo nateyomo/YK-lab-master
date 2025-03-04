@@ -5,6 +5,14 @@ title: Subclavius Muscle
 
 ![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}
 
+::: {.callout title="Reading list"}
+
+- Pectoralis major and subclavius @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
+
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false

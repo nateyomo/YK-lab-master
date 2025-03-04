@@ -15,9 +15,18 @@
         "\n",
         "![Cross-section of middle thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image432 Cross-section through the middle of the thigh.gif)\n",
         "\n",
-        "![Deep muscles of the medial thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image433 Deep muscles of the medial femoral region.gif)\n"
+        "![Deep muscles of the medial thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image433 Deep muscles of the medial femoral region.gif)\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch59 Adductor Longus, Adductor Brevis, Adductor Magnus, Pectineus, and Gracilis Muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "c7c4b647"
+      "id": "a5315d16"
     },
     {
       "cell_type": "code",
@@ -88,9 +97,14 @@
         "\n",
         "::: {.callout-note}\n",
         "According to Brad Jones, the adductor longus flexes up to 50&deg;, but then generates a hip extension force past 70&deg; @jonesProjectFoundations2025.\n",
-        ":::"
+        ":::\n",
+        "\n",
+        "# Myofascial Unit\n",
+        "\n",
+        "Although the *adductor longus* and [biceps femoris short head]({{< var ref-biceps-femoris-short-head.origin >}}) both attach at the *linea aspera* and fascially run in the same direction, these do *not* form a line since the [adductor magnus]({{< var ref-adductor-magnus.path >}}) acts as an *intervening plane* @myersAnatomyTrains2021.\n",
+        "There may be a functional connection through the bone, but there is no connection via the fascia @myersAnatomyTrains2021."
       ],
-      "id": "821144fe"
+      "id": "2d6805d6"
     }
   ],
   "metadata": {

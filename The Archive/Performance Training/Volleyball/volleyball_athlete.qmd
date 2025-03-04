@@ -3,6 +3,18 @@ title: Volleyball Athlete
 ---
 
 
+::: {.callout title="Reading list"}
+
+- The volleyball drill book @clemensVolleyballDrillBook2012
+- Volleyball Fundamentals @dearingVolleyballFundamentals2019
+- Developmental To Division I: Strength And Conditioning For The Volleyball Athlete @mitchell-mcbethDevelopmentalDivisionStrength2024
+- Complete Conditioning for Volleyball (Complete Conditioning for Sports) @oldenbergCompleteConditioningVolleyball2014
+- 
+
+
+:::
+
+
 "One of the most important technical parts of the game is the spike attack, which was identified as a major performance indicator (Drikos and Vagenas, 2011)" @challoumasVolleyballAthleteShoulder2017
 
 

@@ -81,7 +81,8 @@ Iron oxidation in enterocytes is mediated mainly by hephaestin thus allowing die
 Zyklopen is involved in iron efflux from placental trophoblasts during iron transfer from mother to fetus @vashchenkoMulticopperOxidasesHuman2013
 
 
+# Deficiency {#deficiency}
+
+Copper deficiency can result in peripheral neuropathies @amatoNeuromuscularDisorders2016
 
 # References {-}
-::: {#refs}
-:::

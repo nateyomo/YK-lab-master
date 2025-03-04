@@ -2,11 +2,18 @@
 title: Lateral Pterygoid muscle
 ---
 
-# OIAN
+::: {.callout title="Reading list"}
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Lateral Pterygoid]({{< var ref-lateral-pterygoid.path >}}) | {{< var ref-lateral-pterygoid.origin >}} | {{< var ref-lateral-pterygoid.insertion >}} | {{< var ref-lateral-pterygoid.nerve >}} | {{< var ref-lateral-pterygoid.action >}} |
+- Trigger points
+    - Lateral pterygoid Muscle @donnellyTravellSimonsSimons2019
+    - Pterygoids @finandoTriggerPointTherapy2005
+
+:::
+
+
+
+ 
+
 
 # Origin {#origin}
 **Superior Head:** Greater wing of sphenoid bone (infratemporal crest); **Inferior head:** Lateral surface of pterygoid plate (lat surface) @gilroyAtlasAnatomy2020
@@ -42,3 +49,9 @@ Practically functions to stabilize the [articular disc of the TMJ]({{< var ref-t
 
 Tears or excessive elongation of the lateral ligament may cause the disc to migrate medially by an unopposed pull of the superior head of the lateral pterygoid muscle @neumannKinesiologyMusculoskeletalSystem2017
 
+
+# Strain-Counterstrain
+
+::: {.callout}
+"Location of Tender Point: 1) 1cm anterior to the neck of the condyle. Push medial and posterior. 2) Lower edge of the greater wing of sphenoid.  Anatomical Correlation: Lateral ptyergoid muscle.  Direction to Press on Tender Point: Tender Point 1, press medial and slightly posterior. Tender Point 2, press medially.  Treatment Position(s): With patient supine, push their open jaw 2cm laterally away from the Tender Point side deviating mandible to the opposite side. Apply stabilizing force with forearm of the motion hand.  Frequency of Occurrence: Very common.  Clinical Correlation(s): 1) Pain with chewing 2) Click in TMJ 3) Dyskinesia with mouth opening  Alternate Names/Nomenclatures: TM) and maxilla." @myersClinicalCounterstrain2012
+:::

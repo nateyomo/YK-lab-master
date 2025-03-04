@@ -2,4 +2,11 @@
 title: Tumor Necrosis Factor alpha (TNF-&alpha;)
 ---
 
+
+::: {.callout title="Reading list"}
+
+- Vol2 part3 ch21 *TNF Superfamily* @cavaillon2018inflammation
+
+:::
+
 an inflammatory cytokine produced by macrophages/monocytes during acute inflammation

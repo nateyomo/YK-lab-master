@@ -6,6 +6,11 @@ title: Running
 :::{.callout title="Read"}
 
 - Chapter 16 Kinesiology of Running p706 @neumannKinesiologyMusculoskeletalSystem2017
+- Running mechanics and gait analysis @ferberRunningMechanicsGait2014
+- Anatomy
+    - Running Anatomy @puleoRunningAnatomy2018
+- Rehab
+    - Run Healthy: The Runner's Guide to Injury Prevention and Treatment @humankineticsRunHealthyRunners2023
 
 :::
 

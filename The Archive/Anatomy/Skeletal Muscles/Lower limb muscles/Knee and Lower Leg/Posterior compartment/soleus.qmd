@@ -14,6 +14,15 @@ title: Soleus Muscle
 
 :::
 
+::: {.callout title="Reading list"}
+
+- Ch66 Soleus and Plantaris muscles @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
 
 ```{python tbl-oian}
 #| label: tbl-oian

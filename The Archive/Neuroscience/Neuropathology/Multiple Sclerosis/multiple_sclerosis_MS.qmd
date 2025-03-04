@@ -6,6 +6,11 @@ subtitle: "A progressive autoimmune disease of the CNS"
 :::{.callout title="Resources"}
 
 - Suzanne - Ch14 @martinNeurologicInterventionsPhysical2021a 
+- Ch16 MS @fulkOSullivanSchmitzsPhysical2024
+- ch31 MS @goodmanGoodmanFullerPathology2020
+- Sleep
+    - Ch109 Autoimmune disorders (MS) @kryger2021SleepMedicine
+
 :::
 
 

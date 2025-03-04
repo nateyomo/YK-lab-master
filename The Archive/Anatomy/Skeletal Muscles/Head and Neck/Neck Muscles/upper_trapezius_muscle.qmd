@@ -14,6 +14,14 @@ title: Upper Trapezius
 
 ![Hypoglossal nerve, cervical plexus, and their respective branches @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image794 Hypoglossal nerve cervical plexus and their branches.gif){#fig-gray1918-image794}
 
+::: {.callout title="Reading list"}
+
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+- Trigger points
+    - check @donnellyTravellSimonsSimons2019
+    - Trapezius @finandoTriggerPointTherapy2005
+
+:::
 
 ```{python tbl-oian}
 #| label: tbl-oian
@@ -73,3 +81,13 @@ else:
 
 - **Scapula**: Elevation, Upward rotation @gilroyAtlasAnatomy2020
 - **Neck**: I/L sidebend and C/L rotation @gilroyAtlasAnatomy2020
+
+
+
+# Dysfunction
+
+::: {.callout}
+
+- Ch6 Trapezius Muscle @donnellyTravellSimonsSimons2019
+
+:::

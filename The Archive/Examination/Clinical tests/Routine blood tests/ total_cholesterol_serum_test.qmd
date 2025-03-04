@@ -22,7 +22,7 @@ Contrary to popular belief, there is no known mechanism by which saturated fat i
 If saturated fat does not increase total serum cholesterol, then what does?
 
 - [B<sub>12<sub> deficiency]({{< var ref-vitamin-b12.deficiency >}})
-- [Folate (B<sub>9<sub>) deficiency]({{< var ref-folate-vitamin-b9.deficiency >}})
+- [Folate (B<sub>9<sub>) deficiency]({{< var ref-vitamin-b9-folate.deficiency >}})
 - Inflammation
 
 

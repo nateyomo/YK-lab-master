@@ -16,9 +16,15 @@
         "\n",
         "![Transverse section of distal forearm @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image421 Transverse section across distal ends of radius and ulna.gif)\n",
         "\n",
-        "![Transverse cut of the Hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image422 Transverse section across the wrist and digits.gif)\n"
+        "![Transverse cut of the Hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image422 Transverse section across the wrist and digits.gif)\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "89a4a4f1"
+      "id": "6b6270d4"
     },
     {
       "cell_type": "code",
@@ -92,7 +98,7 @@
         "\n",
         "# Notes"
       ],
-      "id": "13acceac"
+      "id": "6ca27310"
     }
   ],
   "metadata": {

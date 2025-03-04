@@ -1,0 +1,26 @@
+---
+title: Myositis
+subtitle: Infectious (Inflammatory) Muscle Disease
+---
+
+::: {.callout title="Reading list"}
+
+- Goodman and fuller's pathology @goodmanGoodmanFullerPathology2020
+    - Ch25 Myositis @goodmanGoodmanFullerPathology2020
+    - Dermatomyositis (see Chapter 10)
+    - Myositis ossificans (see Chapter 27)
+    - Idiopathic inflammatory myopathies (see Chapter 27)
+    - Rhabdomyolysis (see Chapter 27)
+:::
+
+
+
+Types of Myositis
+
+- Dermatomyositis
+- Polymyositis
+- Inclusion body myositis
+- Myositis ossificans
+- Idiopathic inflammatory myopathies
+- Rhabdomyolysis
+- Pyomyositis

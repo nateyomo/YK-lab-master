@@ -10,3 +10,9 @@ The costocorporeal joint is an articulation between the *IVD* and the *costal de
 
 
 
+# Infection
+
+::: {.callout title="Reading list"}
+
+- Ch25 Spondylodiskitis @goodmanGoodmanFullerPathology2020
+:::

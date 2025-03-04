@@ -7,6 +7,15 @@ title: Gluteus Minimus Muscle
 
 ![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}
 
+::: {.callout title="Reading list"}
+
+- Gluteus minimus and tensor fascia latae muscles @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
 ```{python tbl-oian}
 #| label: tbl-oian-glute-minimus
 #| warning: false
@@ -68,6 +77,13 @@ The gluteus maximus muscle is innervated by nerve roots [L4]({{< var ref-nerve-r
 
 
 The gluteus minimus generates a force equivalent of ~4.9kg, which is 3x less than the glute med @jonesProjectFoundations2025.
+
+
+
+# Pain Referral pattern
+
+- Posterior buttock, thigh, and leg @myersClinicalCounterstrain2012
+- Lateral thigh and leg @myersClinicalCounterstrain2012
 
 # Exercises {#exercise}
 

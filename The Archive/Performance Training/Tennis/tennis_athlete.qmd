@@ -2,6 +2,12 @@
 title: Tennis Athlete
 ---
 
+::: {.callout title="Reading list"}
+
+- Tennis anatomy @roetertTennisAnatomy2019
+
+:::
+
 
 # Plyometrics
 
@@ -16,6 +22,12 @@ title: Tennis Athlete
 - Chapter 2: Mechanics of the Shoulder @ellenbeckerSportTherapyShoulder2017 
 :::
 
+
+# Tennis Serve {#tennis-serve}
+
+
+When the shoulder is brought into overhead flexion during a serve, this aligns the myofascial lines of the [coracobrachialis]({{< var ref-coracobrachialis.action >}}) and [pectoralis minor]({{< var ref-pectoralis-minor.action >}}), allowing them to work together @myersAnatomyTrains2021.
+These lines can be extended to the *Deep front of arm line* and the *Superficial Front Line* @myersAnatomyTrains2021.
 
 
 # Exercises

@@ -3,3 +3,9 @@ title: Interleukin
 subtitle: Pro-Inflammatory Cytokine Family
 ---
 
+
+::: {.callout title="Reading list"}
+
+- Vol2 ch20 IL-1 Superfamily @cavaillon2018inflammation
+
+:::

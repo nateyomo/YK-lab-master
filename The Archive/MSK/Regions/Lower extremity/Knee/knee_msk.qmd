@@ -33,6 +33,13 @@ subtitle: A Musculoskeletal Overview
 :::
 
 
+::: {.callout title="Reading list"}
+
+- General
+    - Ch20 Knee joint complex
+- Manual Tx
+    - Ch26 Orthopaedic Manual Physical Therapy of the Knee @wiseOrthopaedicManualPhysical2015
+:::
 
 
 The knee region as a whole exists as an intermediate to link the hip and ankle/foot.
@@ -436,6 +443,13 @@ else:
 
 ```
 
+# Pain
+
+::: {.callout title="Reading list"}
+
+- Ch62 Clinical Considerations of Hip, Thigh, and Knee Pain @donnellyTravellSimonsSimons2019
+
+:::
 
 # Chronicity
 
@@ -586,6 +600,7 @@ Use ligament stress tests **sparingly** for acute injuries @jonesProjectFoundati
 
 
 ## Lateral femoral condyle MWM {#lateral-femoral-condyle-posterior-mobilization-with-movement}
+
 
 
 

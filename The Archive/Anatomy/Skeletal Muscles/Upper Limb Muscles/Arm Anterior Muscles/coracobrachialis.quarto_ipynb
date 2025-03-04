@@ -13,9 +13,18 @@
         "![Schematic of Pectoralis major and coracobrachialis @gilroyAtlasAnatomy2020 </br> 1: Pectoralis Major (clavicular part) <br> 2: Pec Major (Sternocostal part) </br> 3: Pec Major (abdominal part) </br> 4: Coracobrachialis](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/images/gilroyatlas fig25.25a pectoralis major and coracobrachialis schematic.png)\n",
         "\n",
         "![Pectoralis Major and Coracobrachialis, anterior view @gilroyAtlasAnatomy2020](/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Axioappendicular Anterior Muscles/images/gilroyatlas fig25.25c pectoralis major and coracobrachialis.png)\n",
+        ":::\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Coracobrachialis Muscle @donnellyTravellSimonsSimons2019\n",
+        "- @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
         ":::\n"
       ],
-      "id": "cdaba1e3"
+      "id": "bb54dc21"
     },
     {
       "cell_type": "code",
@@ -109,6 +118,14 @@
         " - Bench press @bielTrailGuideBody2019.\n",
         " - Using your forearm to block in front of your chest during combat sports @bielTrailGuideBody2019.\n",
         "\n",
+        "# Myofascial Functional Unit \n",
+        "\n",
+        "The *coracobrachialis* and [pectoralis minor]({{< var ref-pectoralis-minor.insertion >}}) both have insertions on the [coracoid process]({{< var ref-scapula-bone.coracoid-process >}}), which creates a myofascial line @myersAnatomyTrains2021.\n",
+        "When the arm is relaxed by one's side since the [pec minor]({{< var ref-pec-minor.path >}}) and **coracobrachialis** fascial lines run in two different directions, thus the line is *inactive* @myersAnatomyTrains2021.\n",
+        "However, when shoulder is brought into *overhead flexion* (i.e. [tennis serve]({{< var ref-tennis-serve.path >}}) or hanging from a bar) @myersAnatomyTrains2021.\n",
+        "\n",
+        "This connection will combine with other myofascial units to form the *Deep front of arm line* and the *Deep Front Line* @myersAnatomyTrains2021.\n",
+        "\n",
         "# Dysfunction\n",
         "\n",
         "- Since the [musculocutaneous n.]({{< var ref-musculocutaneous-nerve.path >}}) passes through the muscle belly, coracobrachialis dysfunction can entrap the nerve and create neurological symptoms @duttonDuttonOrthopaedicExamination2020.\n",
@@ -177,7 +194,7 @@
         "\n",
         "# Manual Therapy"
       ],
-      "id": "8bb07ceb"
+      "id": "66bd3160"
     }
   ],
   "metadata": {

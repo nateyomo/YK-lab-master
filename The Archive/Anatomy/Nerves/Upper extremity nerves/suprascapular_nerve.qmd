@@ -105,3 +105,11 @@ As the suprascapular nerve is a mixed nerve, the patient presentation can includ
 ## Surgical
 
 "Surgical intervention, involving neurolysis, cyst removal, or the excision of the transverse scapular ligament is indicated if symptoms persist" @duttonDuttonOrthopaedicExamination2020
+
+# Entrapment {#entrapment}
+
+::: {.callout title="Reading list"}
+
+- SUPRASCAPULAR NERVE p372 @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+
+:::

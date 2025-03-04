@@ -13,7 +13,7 @@
         "- Gastrocnemius\n",
         "- Soleus\n"
       ],
-      "id": "92321200"
+      "id": "4192b423"
     },
     {
       "cell_type": "code",
@@ -72,7 +72,7 @@
         "\n",
         "- [3D Calf Stretch]({{< var ref-3d-calf-stretch.path >}})"
       ],
-      "id": "161be934"
+      "id": "c38918aa"
     }
   ],
   "metadata": {

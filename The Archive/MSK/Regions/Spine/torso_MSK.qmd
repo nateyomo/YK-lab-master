@@ -3,6 +3,17 @@ title: Torso Region
 subtitle: Musculoskeletal Overview
 ---
 
+::: {.callout title="Reading list"}
+
+- Examination
+  - ch15 Screening the Head, Neck, and Back @heickGoodmanSnyderDifferential2023
+  - ch18 Screening the Chest, Breasts, and Rib @heickGoodmanSnyderDifferential2023k
+- Manual tx
+  - ch28 Orthopaedic Manual Physical Therapy of the Lumbopelvic Spine @wiseOrthopaedicManualPhysical2015
+  - ch29 Orthopaedic Manual Physical Therapy of the Thoracic Spine and Costal Cage @wiseOrthopaedicManualPhysical2015
+
+
+:::
 
 The torso can be defined as the combination of the pelvis and the trunk @jonesProjectFoundations2025.
 
@@ -272,3 +283,14 @@ Response
 - Gapping
     - Gapping spinous processes
     - Gliding superior segment antero-superiorly relative to lower segment
+
+
+
+# Pain
+
+::: {.callout}
+
+- Clinical Considerations of Upper Back Shoulder and Arm Pain @donnellyTravellSimonsSimons2019
+- Ch53 Clinical Considerations of Trunk and Pelvic Pain @donnellyTravellSimonsSimons2019
+
+:::

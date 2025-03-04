@@ -3,3 +3,9 @@ title: Puborectalis Muscle
 ---
 
 
+::: {.callout title="Reading list"}
+
+- Pelvic floor muscles @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+
+:::

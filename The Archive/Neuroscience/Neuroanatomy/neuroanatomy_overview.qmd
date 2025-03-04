@@ -8,6 +8,13 @@ title: Neuroanatomy
 
 ![Somatic, Autonomic, and Enteric Structures of the Nervous Systems @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig12.6 openstax Somatic, Autonomic, and Enteric Structures of the Nervous System.jpeg){#fig-openstax-fig12.6}
 
+
+::: {.callout title="Reading list"}
+
+- Anatomic basis of neurologic diagnosis @alberstoneAnatomicBasisNeurologic2023
+
+:::
+
 # Gray and White Matter
 
 ![Gray and White Matter @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig12.3 openstax Gray Matter and White Matter.jpeg){#fig-openstax-fig12.3}

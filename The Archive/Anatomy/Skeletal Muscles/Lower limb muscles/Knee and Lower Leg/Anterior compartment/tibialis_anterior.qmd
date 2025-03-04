@@ -11,6 +11,16 @@ title: Tibialis Anterior Muscle
 ![The Mucous sheaths of the tendons around the ankle (medial view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image442 The mucous sheaths of the tendons around the ankle. Medial aspect.gif)
 
 
+::: {.callout title="Reading list"}
+
+- Ch63 Tibialis anterior muscle @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+- MMT @weinstockNeuroKineticTherapyInnovative2010
+
+
+:::
+
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false
@@ -77,7 +87,6 @@ The tibialis anterior works more as a supinator rather than an adductor @jonesPr
 
 # Examination
 
-:::{layout-ncol="3"}
 ### MMT
 
 - DF/inv
@@ -90,8 +99,10 @@ The tibialis anterior works more as a supinator rather than an adductor @jonesPr
 ### Palpation
 
 
-:::
 
+# Pain Referral Pattern
+
+Tibialis anterior pain can refer to the 1st toe or in the anterior leg over the muscle belly @myersClinicalCounterstrain2012.
 
 # Shin splints
 

@@ -5,6 +5,17 @@ title: Skeletal Muscle
 
 ![@OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig10.3 The Three Connective Tissue Layers Bundles of muscle fibers, called fascicles, are covered by the perimysium. Muscle fibers are covered by the endomysium.jpeg){#fig-openstax-fig10.3}
 
+::: {.callout title="Reading list"}
+
+- Physiology
+    - @hallGuytonHallTextbook2021
+    - Ch1 Cellular phys: Skeletal muscle @costanzoCostanzoPhysiology2022
+
+- Histology:
+    - ch6 Muscle @youngWheaterFunctionalHistology2014
+- Histopathology
+    - ch3 Muscle and Nerve Histopathology @amatoNeuromuscularDisorders2016
+:::
 
 # Tone {#tone}
 
@@ -44,6 +55,55 @@ Dystonia and paratonia have altered tone secondary to network disruption in the 
 
 Intrinsic motor control of a muscle is almost entirely dictate by information from [muscle spindles]({{< var ref-muscle-spindle.path >}}) and [golgi tendon organs]({{< var ref-golgi-tendon-organ.path >}})
 
+# Sensory endings
+
+II 6–12 μm myelinated Secondary spindle ending Muscle length (little rate sensitivity)  
+II 6–12 μm myelinated Nonspindle endings Deep pressure  
+III 2–6 μm myelinated Free nerve endings Pain, chemical stimuli, and temperature (important for physiological responses to exercise)  
+IV 0.5–2 μm nonmyelinated Free nerve endings Pain, chemical stimuli, and temperature
+
+| Type | Axon | Myelin | Receptor | Sensitivity to |
+|-|-|-|-|-|
+| Ia | 12-20&pico;m | Myelinated | Primary spindle ending | Muscle length & Rate of change |
+| Ib | 12-20&pico;m | Myelinated | Golgi tendon organ | Muscle contraction (tendon tension) |
+| II | 6-12&pico;m | Myelinated | Secondary spindle ending | Muscle length (negligble rate of change) |
+| II | 6-12&pico;m | Myelinated | Non-spindle ending | Deep pressure |
+| III | 2-6&pico;m | Myelinated | Free nerve endings | Pain </br> Chemical stimuli </br> Temperature </br> (*Important in physiological responses to exercise*) |
+| IV | 0.5-2&pico;m | **Unmyelinated** | Free nerve endings | Pain </br> Chemical stimuli </br> Temperature |
+: Classification of Sensory Fibers From Muscle @kandelPrinciplesNeuralScience2021 {.striped}
+
+
+## Type Ia afferent {#type-ia-afferent}
+
+- AKA "primary ending" or "annulospiral ending" @hallGuytonHallTextbook2021
+- Refers to a large sensory nerve fiber that encircles the central (receptor) portion of each intrafusal fiber @hallGuytonHallTextbook2021
+- Found in the center of the muscle spindle @hallGuytonHallTextbook2021  
+- ~17&micro;m in diameter @hallGuytonHallTextbook2021.
+- Transmission velocity: 70-120 m/s (fast as any type of nerve fiber in the body) @hallGuytonHallTextbook2021.
+
+Type Ia afferents are excited by all 3 intrafusal sensory fibers: [static nuclear bag fibers](#static-nuclear-bag-fibers), [dynamic nuclear bag fibers](#dynamic-nuclear-bag-fibers), and [nuclear chain fibers](#nuclear-chain-fibers) @hallGuytonHallTextbook2021.
+This allows type Ia afferents to receive and transmit information about **both** length of receptor (static response) and rate of change of receptor length (dynamic response) @hallGuytonHallTextbook2021.
+
+
+::: {.callout}
+"Selective stimulation of the two types of gamma motor neurons has different effects on the firing of the Ia sensory fibers from the spindle. Without gamma stimulation, the Ia fiber shows a small dynamic response to muscle stretch and a modest increase in steady-state firing. When a static gamma motor neuron is stimulated, the steadystate response of the Ia fiber increases but the dynamic response decreases. When a dynamic gamma motor neuron is stimulated, the dynamic response of the Ia fiber is markedly enhanced, but the steady-state response gradually returns to its original level." @kandelPrinciplesNeuralScience2021
+:::
+
+## Type Ib afferent {#type-1b-afferent}
+
+## Type II afferent {#type-ii-afferent}
+
+- [Type II afferent]({{< var ref-type-ii-afferent.path >}}) AKA "secondary afferent ending" @hallGuytonHallTextbook2021
+- Sometimes encircles intrafusal fibers similar to [type Ia fibers](#primary-ending) but more often spreads out like branches known as "flowerspray endings" @hallGuytonHallTextbook2021.
+- ~8&micro;m diameter @hallGuytonHallTextbook2021
+
+Type II afferents receive information **only** from [nuclear chain fibers](#nuclear-chain-fibers) @hallGuytonHallTextbook2021.
+As a result, type II afferents can only receive and transmit information regarding length of a receptor (static response) @hallGuytonHallTextbook2021.
+
+## Type III afferent {#type-iii-afferent}
+
+## Type IV afferent {#type-iv-afferent}
+
 # Muscle spindle {#muscle-spindle}
 
 
@@ -61,27 +121,7 @@ There are 2 ways a muscle spindle can be excited:
 
 There are 2 sensory endings in the midportion of the muscle spindle: [type Ia afferent](#type-ia-afferent) and [type II afferent](#type-ii-afferent)
 
-## Sensory endings
 
-### Type Ia afferent {#type-ia-afferent}
-
-- AKA "primary ending" or "annulospiral ending" @hallGuytonHallTextbook2021
-- Refers to a large sensory nerve fiber that encircles the central (receptor) portion of each intrafusal fiber @hallGuytonHallTextbook2021
-- Found in the center of the muscle spindle @hallGuytonHallTextbook2021  
-- ~17&micro;m in diameter @hallGuytonHallTextbook2021.
-- Transmission velocity: 70-120 m/s (fast as any type of nerve fiber in the body) @hallGuytonHallTextbook2021.
-
-Type Ia afferents are excited by **both** [nuclear bag fibers](#nuclear-bag-fibers) and [nuclear chain fibers](#nuclear-chain-fibers) @hallGuytonHallTextbook2021.
-This allows type Ia afferents to receive and transmit information about **both** length of receptor (static response) and rate of change of receptor length (dynamic response) @hallGuytonHallTextbook2021.
-
-### Type II afferent {#type-ii-afferent}
-
-- [Type II afferent]({{< var ref-type-ii-afferent.path >}}) AKA "secondary afferent ending" @hallGuytonHallTextbook2021
-- Sometimes encircles intrafusal fibers similar to [type Ia fibers](#primary-ending) but more often spreads out like branches known as "flowerspray endings" @hallGuytonHallTextbook2021.
-- ~8&micro;m diameter @hallGuytonHallTextbook2021
-
-Type II afferents receive information **only** from [nuclear chain fibers](#nuclear-chain-fibers) @hallGuytonHallTextbook2021.
-As a result, type II afferents can only receive and transmit information regarding length of a receptor (static response) @hallGuytonHallTextbook2021.
 
 ## Intrafusal fibers {#intrafusal-fiber}
 
@@ -93,14 +133,19 @@ The central portion of the intrafusal fiber is encircled by a large [type Ia aff
 
 Motor signals from the small [type A &gamma;-motor neurons]({{< var ref-type-A-gamma-motor-neuron >}}) in the [anterior horn of the spinal cord]() are sent through [&gamma;-motor neurons]({{< var ref-gamma-motor-neuron.path >}}) to activate the [intrafusal fibers]({{< var ref-skeletal-muscle.intrafusal-fibers >}}) causing its ends containing actin and myosin to contract [@gangulyMuscleTonePhysiology2021; @hallGuytonHallTextbook2021].
 
-There are 2 types of intrafusal fiber: [Nuclear bag fibers](#nuclear-bag-fibers) and [nuclear chain fibers](#nuclear-chain-fibers) @hallGuytonHallTextbook2021.
+There are 3 types of intrafusal fiber: [*Dynamic* and *Static* Nuclear bag fibers](#nuclear-bag-fibers) and [nuclear chain fibers](#nuclear-chain-fibers) @hallGuytonHallTextbook2021.
 
-### Nuclear bag fibers {#nuclear-bag-fiber}
+### Dynamic Nuclear bag fibers {#dynamic-nuclear-bag-fiber}
+
+### Static Nuclear bag fibers {#nuclear-bag-fiber}
 
 - 1-3 per muscle spindle @hallGuytonHallTextbook2021
 - These get their name since the nuclear are congregated into "bags" in the central portion of the intrafusal fiber @hallGuytonHallTextbook2021.
 
-Nuclear bag fibers can only activate [type Ia afferents]() and *cannot* activate [type II afferents]() @hallGuytonHallTextbook2021.
+Nuclear bag fibers can only activate [type Ia afferents]({{< var ref-type-ia-afferent.path >}}) and *cannot* activate [type II afferents]({{< var ref-type-ii-afferent.path >}}) @hallGuytonHallTextbook2021.
+
+Nuclear bag fibers contract when activated by &gamma;-dynamic motor efferents @hallGuytonHallTextbook2021.
+This contraction enhances the [dynamic response](#dynamic-response) @hallGuytonHallTextbook2021.
 
 ### Nuclear chain fibers {#nuclear-chain-fiber}
 
@@ -111,6 +156,8 @@ Nuclear bag fibers can only activate [type Ia afferents]() and *cannot* activate
 
 Nuclear chain fibers can activate both [type II afferents]({{< var ref-type-ii-afferent.path >}}) and [type Ia afferents]({{< var ref-type-ia-afferent.path >}}) @hallGuytonHallTextbook2021.
 
+Nuclear chain fibers contract when activated by &gamma;-static motor efferents @hallGuytonHallTextbook2021.
+Contraction of nuclear chain fibers enhances the [static response](#static-response)
 ## Responses
 
 There are 2 responses detected by the muscle spindle:
@@ -211,3 +258,54 @@ The [&alpha;-motor neurons (type A&alpha-nerve fiber)]({{< var ref-alpha-motor-n
 ## Inhibitory
 
 - Activin Receptor 2B (ACVR2B) @shahidiParaspinalMusclesIndividuals2024
+
+# Dysfunction
+
+- Tone dysfunction
+- Guarding
+- Overactivity
+- Passive stiffness
+- Tightness
+
+
+# Myofascial Trigger Points (TrP)
+
+
+See more at the [Myofascial trigger point page]({{< var ref-myofascial-trigger-point.path >}}).
+
+
+
+# Tightness
+
+*Muscle Tightness* refers to a pathological state of a muscle @bhimaniConsensusDefinitionMuscle2020.
+
+Although muscle tightness is frequently used interchangeably with terms like "Muscle tension" or "muscle tone" these are distinct terms @bhimaniConsensusDefinitionMuscle2020.
+
+Some definitions of muscle tightness include "decreased range of motion" but this is faulty since it implies that muscle tightness is mainly in the extremities and does not include throat, chest, abdomen, etc @bhimaniConsensusDefinitionMuscle2020.
+
+
+
+Definition:
+
+- Range of motion of associated segments @bhimaniConsensusDefinitionMuscle2020
+- Loss of Daily functioning: Loss of function such as *activities of daily living* was considered a sign of muscle tightness @bhimaniConsensusDefinitionMuscle2020.
+- Change in muscle tissue texture: Sometimes tight muscles are **dense**, **ropey**, and **lack pliability** @bhimaniConsensusDefinitionMuscle2020.
+- Change in sensation: Patients may complain of change in sensation, such as increased irritation, soreness, and a swollen feeling @bhimaniConsensusDefinitionMuscle2020.
+- Pain: @bhimaniConsensusDefinitionMuscle2020
+- Asymmetry: Could be asymmetry from left to right, or during postural observation, or gait @bhimaniConsensusDefinitionMuscle2020.
+- Contracted muscle state: A "tight" muscle is in a shortened and contracted state @bhimaniConsensusDefinitionMuscle2020.
+
+Final definition: "Muscle tightness is an inability of a muscle(s) or muscle groups to move through a full  range of motion for a specified body part. The muscle(s) may undergo a change in tissue  quality and result in a semi-contracted state in which the muscle(s) are unable to relax or  lengthen. The tightness in the muscle produces and causes asymmetry and restricts  flexibility. This may result in loss of partial or full function for the affected muscle(s) or  muscle group. Muscle tightness may or may not include uncomfortable sensations or pain  experiences." @bhimaniConsensusDefinitionMuscle2020.
+
+
+
+# Guarding
+
+*Guarding* is a phrase used commonly at my clinical with Brad Jones @jonesProjectFoundations2025.
+We used the term *guarding* to refer to a muscle that had increased tension.
+
+A guarded muscle was seen as a muscle that was compensating for other dysfunction and being *overused* @jonesProjectFoundations2025.
+
+
+# Histopathology
+

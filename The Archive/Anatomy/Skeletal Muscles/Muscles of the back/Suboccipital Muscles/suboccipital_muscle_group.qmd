@@ -5,6 +5,13 @@ title: Suboccipital Muscle Group
 ![Muscles of the Posterior and lateral neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.14 Posterior and Lateral Views of the Neck.jpeg){#fig-openstax-fig11.14}
 
 
+::: {.callout title="Reading list"}
+
+- Suboccipital Muscles @donnellyTravellSimonsSimons2019
+
+:::
+
+
 ```{python tbl-oian}
 #| label: tbl-oian
 #| warning: false

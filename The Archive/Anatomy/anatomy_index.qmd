@@ -2,27 +2,32 @@
 title: Anatomy Index
 ---
 
-## Arteries 
+# Arteries 
+
 - [Basilar Artery]({{< var ref-basilar-artery.path >}})
 
-## Bones
+# Bones
 [Bones]({{< var ref-bone-index.path >}})
 
-## Cartilage
+# Cartilage
 
-## Connective Tissue
+# Connective Tissue
 
-## Joints
+# Myofascia
+
+- [Myofascial meridians]({{< var ref-myofascial-meridian.path >}})
+
+# Joints
 
 
 
-## Ligaments
+# Ligaments
 [Ligaments]({{< var ref-index-ligaments.path >}})
 
-## Muscles
+# Muscles
 [OIANs]({{< var ref-oians.path >}})
 
-## Nerves
+# Nerves
 [Nerves]({{< var ref-nerve-index.path >}})
 
 

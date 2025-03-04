@@ -2,6 +2,11 @@
 title: Manual Therapy Overview
 ---
 
+::: {.callout title="Reading list"}
+
+- Orthopaedic manual physical therapy: from art to evidence @wiseOrthopaedicManualPhysical2015
+
+:::
 
 # Tips
 

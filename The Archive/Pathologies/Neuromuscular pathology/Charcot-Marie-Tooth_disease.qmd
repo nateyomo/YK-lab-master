@@ -1,0 +1,9 @@
+---
+title: Charcot-Marie-Tooth Disease
+---
+
+::: {.callout title="Reading list"}
+
+- Ch11 CMT @amatoNeuromuscularDisorders2016
+
+:::

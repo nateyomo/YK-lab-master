@@ -5,6 +5,10 @@ title: Stroke
 :::{.callout title="Resources"}
 
 - Suzanne - Ch11 Stroke @martinNeurologicInterventionsPhysical2021a 
+- Ch15 stroke @fulkOSullivanSchmitzsPhysical2024
+- Ch32 stroke @goodmanGoodmanFullerPathology2020
+- Ch103 Sleep-wake disturbances and Stroke @kryger2021SleepMedicine
+
 :::
 
 

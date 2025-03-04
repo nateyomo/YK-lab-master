@@ -16,6 +16,43 @@ Lesions result in issues with movement coordination, equilibrium, and postural a
 :::
 
 
+# Deficits in cerebellar function
+
+::: {.callout}
+
+- 1.13 DEFICITS IN CEREBELLAR FUNCTIONS ..389 @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+
+:::
+
+- Ataxia
+- Hypermetria
+- Adiadochokinesia
+- Asynergy
+- Flaccidity
+- Cerebellar tremor
+- Eye movement disturbances
+- Paleocerebellar and Neocerebellar syndrome
+- Paleocerebellar syndrome
+- Neocerebellar syndrome
+- Pseudogerebellar syndrome
+
+# Rehabilitation
+
+::: {.callout}
+
+- 1.13.3 Rehabilitation in Cerebellar Dysfunctions @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+
+:::
+
+# Prognosis
+
+::: {.callout}
+
+- 1.13.4 Prognosis of Cerebellar Dysfunctions @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+
+:::
+
+
 # Symptoms
 
 - [Cerebellar Ataxic Gait]({{< var ref-gait.symptom.cerebellar-ataxic >}})

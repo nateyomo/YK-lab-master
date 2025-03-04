@@ -1,10 +1,10 @@
 {
-  "hash": "66f97bdcf08ea317bbc7db765c723afc",
+  "hash": "74257f4c4b255a6a31dc31edec1738bd",
   "result": {
     "engine": "jupyter",
-    "markdown": "---\ntitle: Suprahyoid Muscles\n---\n\n\n\n- Digastric\n- Geniohyoid\n- Mylohyoid\n- Stylohyoid\n\n::: {#tbl-suprahyoid-muscle-group-oian .cell message='false' tbl-cap='Suprahyoid muscle group' execution_count=1}\n\n::: {.cell-output .cell-output-display}\n```{=html}\n<table border=\"1\" class=\"dataframe oian-table\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>Muscle</th>\n      <th>Origin</th>\n      <th>Insertion</th>\n      <th>Innervation</th>\n      <th>Action</th>\n    </tr>\n  </thead>\n  <tbody>\n  </tbody>\n</table>\n```\n:::\n:::\n\n\n",
+    "markdown": "---\ntitle: Suprahyoid Muscles\n---\n\n\n\n- Digastric\n- Geniohyoid\n- Mylohyoid\n- Stylohyoid\n\n::: {#tbl-suprahyoid-muscle-group-oian .cell message='false' tbl-cap='Suprahyoid muscle group' execution_count=1}\n\n::: {.cell-output .cell-output-display}\n```{=html}\n<table border=\"1\" class=\"dataframe oian-table\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>Muscle</th>\n      <th>Origin</th>\n      <th>Insertion</th>\n      <th>Innervation</th>\n      <th>Action</th>\n    </tr>\n  </thead>\n  <tbody>\n  </tbody>\n</table>\n```\n:::\n:::\n\n\n# Strain-Counterstrain\n\n::: {.callout}\n\"Location of Tender Point: Beneath the  mandible 3cm anterior and medial from the angle of the mandible.  Anatomical Correlation: 1) Mylohyoid muscle 2) Geniohyoid muscle  Direction to Press on Tender Point: Press Ge cephalad into the floor of the mouth. Q wen  Treatment Position(s): With patient supine, (open their mouth to 2cm. Push the opened jaw toward Tender Point side. Stabilize patient's head with monitoring forearm.  Frequency of Occurrence: Uncommon.  Clinical Correlation(s): Suprahyoid Tender Point 1) Submandibular pain 2) Dental neuritis\" @myersClinicalCounterstrain2012\n:::\n\n",
     "supporting": [
-      "suprahyoid_muscle_group_files"
+      "suprahyoid_muscle_group_files/figure-html"
     ],
     "filters": [],
     "includes": {

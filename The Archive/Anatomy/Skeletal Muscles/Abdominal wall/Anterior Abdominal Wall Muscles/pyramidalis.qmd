@@ -4,6 +4,13 @@ subtitle: Anterior abdominal wall muscle
 ---
 
 
+::: {.callout title="Reading list"}
+
+- Abdominal muscles @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+
+:::
+
 
 ```{python tbl-oian}
 #| label: tbl-pyramidalis-oian

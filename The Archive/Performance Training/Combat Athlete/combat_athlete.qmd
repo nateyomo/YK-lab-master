@@ -1,0 +1,21 @@
+---
+title: Combat Athlete
+---
+
+
+::: {.callout title="Reading list"}
+
+- Anatomy
+    - Delavier's MMA Anatomy @delavierDelaviersMixedMartial2013
+- Drills / training
+    - 100 Essential Pad Drills for Kickboxing and MMA @chapman100EssentialPad2013
+    - Footwork Wins Fights: The Footwork of Boxing, Kickboxing, Martial Arts & MMA @christianFootworkWinsFights2018
+    - Aggressive Defense: Blocks, Head Movement & Counters for Boxing, Kickboxing & MMA @christianAggressiveDefenseBlocks2020
+    - Build Your Fight Style: Boxing, MMA, Muay Thai, Kickboxing & Martial Arts @christianBuildYourFight2023
+    - Principles of Power: Power Generation for Boxing, Kickboxing & MMA @christianPrinciplesPowerPower2024
+    - Ultimate conditioning for martial arts @landowUltimateConditioningMartial2016
+    - The Combat Sports Strength and Conditioning Manual: Minimalist Training for Maximum results @morrillCombatSportsStrength2019
+- Rehab
+    - The ultimate guide to preventing and treating MMA injuries @gelberUltimateGuidePreventing2016
+
+:::

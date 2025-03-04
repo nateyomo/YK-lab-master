@@ -7,6 +7,8 @@ title: Gait
 - Rancho Los amigos - Observational gait analysis @rancholosamigos2001gait
 - Chapter 15 Kinesiology of Walking p653 @neumannKinesiologyMusculoskeletalSystem2017
 - 6 Gait and Posture Analysis p279 @duttonDuttonOrthopaedicExamination2020
+- Ch18 Gait @brinckmannOrthopedicBiomechanics2016
+- Running mechanics and gait analysis @ferberRunningMechanicsGait2014
 
 :::
 

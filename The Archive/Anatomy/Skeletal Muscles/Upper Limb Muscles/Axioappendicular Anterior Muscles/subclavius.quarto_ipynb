@@ -10,9 +10,16 @@
         "\n",
         "\n",
         "\n",
-        "![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}\n"
+        "![Muscles that position the Pectoral Girdle @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.22 Muscles That Position the Pectoral Girdle.jpeg){#fig-openstax-fig11.22}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Pectoralis major and subclavius @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "5891e2e6"
+      "id": "8035909b"
     },
     {
       "cell_type": "code",
@@ -87,7 +94,7 @@
         "\n",
         "- The subclavius muscle actions aid in stability of the clavicle in the sternoclavicular joint @duttonDuttonOrthopaedicExamination2020 "
       ],
-      "id": "4fc15705"
+      "id": "a21fc23a"
     }
   ],
   "metadata": {

@@ -6,9 +6,18 @@
       "source": [
         "---\n",
         "title: Serratus Posterior Superior\n",
-        "---"
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Serratus posterior superior and inferior @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n"
       ],
-      "id": "e587d1f3"
+      "id": "3f1476ec"
     },
     {
       "cell_type": "code",
@@ -79,7 +88,7 @@
         "\n",
         "# Clinical significance"
       ],
-      "id": "e2794c6b"
+      "id": "1c5a73e6"
     }
   ],
   "metadata": {

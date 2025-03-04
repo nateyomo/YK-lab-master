@@ -3,4 +3,15 @@ title: Pelvic Floor
 ---
 
 
+
 ![Muscles of the pelvic floor (Superior view) @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.19 Muscles of the Pelvic Floor.jpeg){#fig-openstax-fig11.19}
+
+
+::: {.callout title="Reading list"}
+
+- Pelvic floor muscles @donnellyTravellSimonsSimons2019
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
+- Rehab
+    - ch25 Women’s Health: Obstetrics  and Pelvic Floor @kisnerTherapeuticExerciseFoundations2018
+
+:::

@@ -34,9 +34,19 @@
         "\n",
         "![3rd layer of the plantar foot @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image445 Muscles of the sole of the foot. Third layer.gif)\n",
         "\n",
+        ":::\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch64 Fibularis longus, brevis, tertius muscle @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
         ":::\n"
       ],
-      "id": "e8f732d6"
+      "id": "78f693cd"
     },
     {
       "cell_type": "code",
@@ -114,7 +124,7 @@
         "\n",
         "\"The tendon of the fibularis (peroneus) longus runs superficially behind the lateral malleolus. Resisted pronation and plantar flexion of the foot make the tendon more prominent\" @duttonDuttonOrthopaedicExamination2020 "
       ],
-      "id": "3d5f2507"
+      "id": "4fa1b47d"
     }
   ],
   "metadata": {
