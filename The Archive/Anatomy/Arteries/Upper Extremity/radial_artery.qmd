@@ -5,3 +5,8 @@ title: Radial Artery
 ![Transverse section of distal forearm @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image421 Transverse section across distal ends of radius and ulna.gif)
 
 ![Transverse cut of the Hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image422 Transverse section across the wrist and digits.gif)
+
+
+
+
+At the wrist, the Radial a. is *medial* to the [brachioradialis tendon]({{< var ref-brachioradialis.path >}}) @jonesProjectFoundations2025

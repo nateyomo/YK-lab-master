@@ -1,6 +1,45 @@
 ---
 title: Modified Tardieu Scale (MTS)
 subtitle: Measure of Dynamic Response of muscle tone
+keywords:
+    - "Tardieu Scale"
+    - "Modified Tardieu Scale"
 ---
 
+2 measurements:
+
+1. Quality of muscle reaction
+2. Angle of muscle reaction
+
+3 speed definitions:
+
+1. V1 is slow as possible
+2. V2 speed of limb falling under gravity
+3. V3 moving as fast as possible
+
+::: {#tbl-quality-score}
+| Grade | Criteria |
+|:-|:----|
+| 0 | No resistance throughout the course of the passive movement |
+| 1 | Slight resistance throughout the course of the passive movement, followed by release |
+| 2 | Clear catch at precise angle, interrupting the passive movement, followed by release |
+| 3 | Fatigable clonus &lt;10 seconds when maintaining pressure occurring at precise angle |
+|4 | Infatigable clonus &gt;10 seconds when maintaining pressure occurring at precise angle |
+: Quality of Muscle Reaction Scoring {.striped}
+:::
+
+
+::: {#tbl-angle-score}
+
+| | | |
+|:-|:------|:-|
+| R1 | Angle of muscle reaction at high speed (V3) </br> The angle at which the catch/clonus occurs | |
+| R2 | Full ROM at slow speed (V1) | |
+: Measuring Angle of Catch {.striped}
+
+:::
+
+$$
+\textrm{Dynamic Tone Component} = R2 - R1
+$$
 

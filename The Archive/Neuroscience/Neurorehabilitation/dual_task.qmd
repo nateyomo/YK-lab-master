@@ -202,6 +202,8 @@ Since dual-task is an inherent aspect of sports, it should be trained to create 
 
 Ness et al. found that neurocognitive deficiencies in reaction time and visual processing speed were predictive of future ACL injury which supports the idea that low working memory capacity can increase injury risk @nessDualTaskAssessmentImplications2020.
 
+Dusty Grooms suggests that many non-contact ACL injuries can be attributed to poor neurocognitive performance and overwhelming the cognitive system.
+
 # Transfer to sport performance
 
 Fledderman et al. tested the effect of dual-task cost on competitive beach volleyball players @fleddermannTappingFullPotential2018.

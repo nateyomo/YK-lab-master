@@ -1,6 +1,14 @@
 ---
 title: Proximal Radioulnar Joint
+keywords:
+    - Superior Radioulnar joint
+    - Proximal Radioulnar joint
 ---
+
+
+The proximal radioulnar joint refers to the articulation between the *radial head* as it pivots on the *ulna's radial notch* @jonesProjectFoundations2025.
+
+
 
 # Pack position
 
@@ -9,3 +17,11 @@ title: Proximal Radioulnar Joint
 - Open:
     - 70&deg; flexion
     - 35&deg; supination
+
+# Instability
+
+
+:::{.callout-note}
+Distal Radioulnar Joint Instability: Diagnosis and Treatment @rodriguez-merchanDistalRadioulnarJoint2022 
+:::
+

@@ -72,7 +72,17 @@ Floor of intertubercular groove of humerus @gilroyAtlasAnatomy2020
 - **GHJ**: Internal rotation, adduction, extension @gilroyAtlasAnatomy2020
 - **Respiration**: “cough muscle” @gilroyAtlasAnatomy2020
 
+- Biomechanics
+    - Isolated Latissimus dorsi contraction results in inferior displacement of the humeral head @jonesProjectFoundations2025
 
+::: {.callout-note title="Adductor force couple"}
+
+The *triceps brachii long head* and [latissimus dorsi]({{< var ref-latissimus-dorsi.action >}}) form a "force adductor couple" @jonesProjectFoundations2025.
+The adduction and extension moment created by the [latissimus dorsi]({{< var ref-latissimus-dorsi.action >}}) results in inferior displacement of the humeral head, the *triceps long head* contracts and its abductive component counteracts the [latissimus dorsi]({{< var ref-latissimus-dorsi.action >}}) creating a superior glide @jonesProjectFoundations2025.
+This results in no net vertical translation of the humeral head and keeping its optimal position in the glenoid.
+
+Thus although the triceps long head has an "abductive" component, we consider it to function as an "adductive assist."
+:::
 
 # Function
 

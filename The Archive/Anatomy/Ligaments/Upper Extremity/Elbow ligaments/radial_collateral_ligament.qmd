@@ -3,3 +3,8 @@ title: Radial Collateral Ligament
 keywords:
     - "Lateral collateral ligament of the elbow"
 ---
+
+
+
+
+The anterior fibers of the RCL supports the [annular lig.]({{< var ref-annular-ligament.path >}}) @jonesProjectFoundations2025.

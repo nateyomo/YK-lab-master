@@ -1,3 +1,26 @@
 ---
-title: Scaphoid (bone)
+title: Scaphoid Bone
 ---
+
+
+
+
+
+# Scaphoid stabilization
+
+- 1st factor: Direct ligamentous attachment
+    - Scaphotrapeziual ligament @jonesProjectFoundations2025
+    - Scaphotrapezoidal ligament @jonesProjectFoundations2025
+    - Scaphocapitate ligament @jonesProjectFoundations2025
+- 2nd factor: Ligament Sling
+    - Radiocapitate ligament creates a sling on the scaphoid @jonesProjectFoundations2025
+- 3rd factor: Tendon sling
+    - FCR tendon forms a sling
+
+
+# Tilting movements
+
+@jonesProjectFoundations2025
+
+# Scaphoid-lunate couple
+@jonesProjectFoundations2025

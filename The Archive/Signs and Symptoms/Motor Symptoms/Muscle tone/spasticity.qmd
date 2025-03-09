@@ -1,0 +1,58 @@
+---
+title: Spasticity
+---
+
+
+
+::: {.callout title="Reading list"}
+
+- Textbooks
+    - Spasticity and Muscle Stiffness: Restoring Form and Function @raghavanSpasticityMuscleStiffness2022
+- Anatomy / phys
+    - Ch3 @sindouNeurosurgerySpasticityPractical2022
+    - ch2 @johnsonUpperMotorNeuron2008
+- Assessment
+    - Ch4 @sindouNeurosurgerySpasticityPractical2022
+    - ch3 @johnsonUpperMotorNeuron2008
+- Positioning
+    - Ch5 @johnsonUpperMotorNeuron2008
+- PT Treatment
+    - Ch5 @sindouNeurosurgerySpasticityPractical2022
+    - Ch4 @johnsonUpperMotorNeuron2008
+- Orthoses
+    - Ch6 @johnsonComparingResponsivenessGlobal2020
+- Pharmacology
+    - Ch7 pharmacological management @johnsonUpperMotorNeuron2008
+    - Baclofen
+        - Ch5.2 Intrethecal baclofen therapy @sindouNeurosurgerySpasticityPractical2022
+        - Ch6 Intrathecal baclofen (adults) @sindouNeurosurgerySpasticityPractical2022
+        - Ch10 @johnsonComparingResponsivenessGlobal2020
+    - Botox
+        - ch9 @johnsonUpperMotorNeuron2008
+- Surgery
+    - Neurosurgery for Spasticity: A Practical Guide for Treating Children and Adults @sindouNeurosurgerySpasticityPractical2022
+    - Ch8 chemical neurolysis @johnsonUpperMotorNeuron2008
+    - Ch11 surgical management @johnsonUpperMotorNeuron2008
+
+- Pediatric spasticity
+    - ch12 @johnsonUpperMotorNeuron2008
+:::
+
+# Definition
+
+According to the *IAB-Interdisciplinary Working Group for Movement Disorders* @dresslerDefiningSpasticityNew2018, spasticity is used as a general term to describe "involuntary muscle hyperactivity in the presence of central paresis" @dresslerDefiningSpasticityNew2018.
+
+Within this "involuntary muscle hyperactivity" includes: *spasticity sensu strictu*, rigidity, dystonia, spasms, or a combination of these @dresslerDefiningSpasticityNew2018.
+
+
+
+# Classification
+
+Spasticity is most often classified based on what body region it is impacting: @dresslerDefiningSpasticityNew2018
+
+- Arm (upper limb) spasticity
+- Leg (lower limb) spasticity
+- Hemispasticity
+- Paraspasticity
+- Tetraspasticity
+

@@ -57,19 +57,15 @@ Intrinsic motor control of a muscle is almost entirely dictate by information fr
 
 # Sensory endings
 
-II 6–12 μm myelinated Secondary spindle ending Muscle length (little rate sensitivity)  
-II 6–12 μm myelinated Nonspindle endings Deep pressure  
-III 2–6 μm myelinated Free nerve endings Pain, chemical stimuli, and temperature (important for physiological responses to exercise)  
-IV 0.5–2 μm nonmyelinated Free nerve endings Pain, chemical stimuli, and temperature
 
 | Type | Axon | Myelin | Receptor | Sensitivity to |
-|-|-|-|-|-|
-| Ia | 12-20&pico;m | Myelinated | Primary spindle ending | Muscle length & Rate of change |
-| Ib | 12-20&pico;m | Myelinated | Golgi tendon organ | Muscle contraction (tendon tension) |
-| II | 6-12&pico;m | Myelinated | Secondary spindle ending | Muscle length (negligble rate of change) |
-| II | 6-12&pico;m | Myelinated | Non-spindle ending | Deep pressure |
-| III | 2-6&pico;m | Myelinated | Free nerve endings | Pain </br> Chemical stimuli </br> Temperature </br> (*Important in physiological responses to exercise*) |
-| IV | 0.5-2&pico;m | **Unmyelinated** | Free nerve endings | Pain </br> Chemical stimuli </br> Temperature |
+|-|-|-|--|---|
+| Ia | 12-20&micro;m | Myelinated | Primary spindle ending | Muscle length & Rate of change |
+| Ib | 12-20&micro;m | Myelinated | Golgi tendon organ | Muscle contraction (tendon tension) |
+| II | 6-12&micro;m | Myelinated | Secondary spindle ending | Muscle length (negligble rate of change) |
+| II | 6-12&micro;m | Myelinated | Non-spindle ending | Deep pressure |
+| III | 2-6&micro;m | Myelinated | Free nerve endings | Pain </br> Chemical stimuli </br> Temperature </br> (*Important in physiological responses to exercise*) |
+| IV | 0.5-2&micro;m | **Unmyelinated** | Free nerve endings | Pain </br> Chemical stimuli </br> Temperature |
 : Classification of Sensory Fibers From Muscle @kandelPrinciplesNeuralScience2021 {.striped}
 
 

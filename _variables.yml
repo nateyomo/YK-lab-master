@@ -31,6 +31,8 @@ ref-subclavian-artery:
   path: "/The Archive/Anatomy/Arteries/Upper Extremity/subclavian_artery.html"
 ref-axillary-artery:
   path: "/The Archive/Anatomy/Arteries/Upper Extremity/axillary_artery.html"
+ref-radial-artery:
+  path: "/The Archive/Anatomy/Arteries/Upper Extremity/radial_artery.html"
 
 ## Body regions
 ref-anterior-triangle-neck-region:
@@ -451,7 +453,7 @@ ref-patellar-tendon:
   path: "/The Archive/Anatomy/Connective tissue/Tendon/patellar_tendon.html"
   reflex: "/The Archive/Anatomy/Connective tissue/Tendon/patellar_tendon.html#reflex"
   release: "/The Archive/Anatomy/Connective tissue/Tendon/patellar_tendon.html#release"
-  tendinopathy: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Knee/Patellar_tendinopathy.html"
+  tendinopathy: "/The Archive/Anatomy/Connective tissue/Tendon/Lower Extremity Tendons/patellar_tendon.html#tendinopathy"
 ref-quadricep-tendon:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/quadriceps_femoris_muscle_group.html#tendon"
   release: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/quadriceps_femoris_muscle_group.html#tendon-release"
@@ -487,6 +489,8 @@ ref-ulnar-collateral-ligament:
   path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Elbow ligaments/ulnar_collateral_ligament.html"
 ref-radial-collateral-ligament:
   path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Elbow ligaments/radial_collateral_ligament.html"
+ref-annular-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Upper Extremity/Elbow ligaments/annular_ligament.html"
 ### Wrist and hand ligaments
 
 
@@ -2823,6 +2827,11 @@ ref-faber-test:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/FABER_test.html"
   contract-relax: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/FABER_test.html#contract-relax"
 
+### Muscle tone tests and measures
+ref-modified-ashworth-scale:
+  path: "/The Archive/Examination/Tests and Measures/Muscle tone/modified_ashworth_scale_MAS.html"
+ref-modified-tardieu-scale:
+  path: "/The Archive/Examination/Tests and Measures/Muscle tone/modified_tardieu_scale_MTS.html"
 
 # genetics & Genomics
 ref-sod1: 
@@ -3055,6 +3064,7 @@ ref-skeletal-muscle:
   extrafusal-fibers: "/The Archive/Physiology/Muscle/skeletal_muscle.html#extrafusal-fiber"
 ref-skeletal-muscle-tone:
   path: "/The Archive/Physiology/Muscle/skeletal_muscle_tone.html"
+  muscle-stretch-reflex: "/The Archive/Physiology/Muscle/skeletal_muscle_tone.html#muscle-stretch-reflex"
 ref-muscle-spindle:
   path: "/The Archive/Physiology/Muscle/skeletal_muscle.html#muscle-spindle"
 
@@ -3671,6 +3681,8 @@ ref-autonomic-dysreflexia:
 ### Stroke / # CVA
 ref-stroke:
   path: "/The Archive/Neuroscience/Neuropathology/Stroke/Stroke.html"
+ref-brunnstrom-stages-of-recovery:
+  path: "/The Archive/Neuroscience/Neuropathology/Stroke/Examination/brunnstrom_stages_of_recovery.html"
 ref-traumatic-brain-injury:
   path: "/The Archive/Neuroscience/Neuropathology/TBI/traumatic_brain_injury.html"
 ### Peripheral nervous system pathologies

@@ -2,7 +2,12 @@
 title: Botulinum Toxin (Botox)
 ---
 
+::: {.callout title="Reading list"}
 
+- Spasticity
+    - Ch7 @sindouNeurosurgerySpasticityPractical2022
+
+:::
 
 
 # Cerebral Palsy

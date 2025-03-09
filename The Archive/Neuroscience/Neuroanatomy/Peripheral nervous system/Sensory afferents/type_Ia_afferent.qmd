@@ -10,4 +10,15 @@ During a dynamic stretch, the muscle spindle detects changes in muscle length an
 Tonic activity during Steady-state length is a static response which is transmitted through both *type Ia* and [*type II*]({{< var ref-type-ii-afferent.path >}}) afferents @gangulyMuscleTonePhysiology2021.
 
 
+
 The signals transmitted through type Ia afferents are important in the physiology of [muscle tone]({{< var ref-skeletal-muscle-tone.path >}}) @gangulyMuscleTonePhysiology2021
+
+- [Type Ia afferents]({{< var ref-type-ia-afferent.path >}}) synapse on the agonist or homonymous muscle as well as heteronymous synergists @kandelPrinciplesNeuralScience2021.
+
+When the Type Ia afferents synapse on on the motor efferents, the Type Ia afferents use *divergence* to make widespread connections to all the homonymous motor efferents, amplifying the motor signal @kandelPrinciplesNeuralScience2021.
+A muscle's excitatory to response to its own afferent signalling, is known as autogenic excitation @kandelPrinciplesNeuralScience2021.
+
+The [type Ia afferents]({{< var ref-type-ia-afferent.path >}}) also have excitatory synapses on up to 60% of the motor efferents of the heteronymous synergists @kandelPrinciplesNeuralScience2021.
+
+
+The type Ia afferents also synapse on inhibitory interneurons in the spinal cord that inhibit the motor efferents of the antagonist muscles resulting in *autogenic inhibition* @kandelPrinciplesNeuralScience2021.

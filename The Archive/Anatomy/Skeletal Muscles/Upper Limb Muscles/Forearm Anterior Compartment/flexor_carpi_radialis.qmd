@@ -66,6 +66,11 @@ else:
 
 Medial epicondyle of Humerus @gilroyAtlasAnatomy2020
 
+
+# Pathway {#pathway}
+
+In the mid-forearm, the FCR is *medial* to the [brachioradialis]({{< var ref-brachioradialis.path >}})
+
 # Insertion {#insertion}
 
 

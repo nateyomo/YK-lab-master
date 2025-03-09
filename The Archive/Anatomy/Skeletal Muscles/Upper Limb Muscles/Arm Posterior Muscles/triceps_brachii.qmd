@@ -62,7 +62,10 @@ else:
 
 ## Origin {#origin}
 
-Infraglenoid tubercle of scapula @gilroyAtlasAnatomy2020
+The triceps long head as a proximal origin on the *Infraglenoid tubercle of scapula* @gilroyAtlasAnatomy2020.
+
+There is also attachments to the glenohumeral capsule.
+
 
 ![Left Scapula (Anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image202 gray1918 Left scapula. Costal surface.gif){#fig-gray19180image202}
 
@@ -77,7 +80,19 @@ Olecranon process of Ulna @gilroyAtlasAnatomy2020
 ## Action {#action}
 
 - **Elbow**: Extension @gilroyAtlasAnatomy2020
-- **Shoulder**: Extension, Adduction @gilroyAtlasAnatomy2020
+- **Shoulder**: Extension, *Assists* in Adduction @gilroyAtlasAnatomy2020
+
+When looking at the *long head's* origin and insertion, it is lengthened by shoulder flexion, as a result it optimizes the *length-tension curve* @jonesProjectFoundations2025.
+The *Long head* can produce the most force when the shoulder is flexed @jonesProjectFoundations2025.
+
+::: {.callout-note title="Adductor force couple"}
+
+The *triceps brachii long head* and [latissimus dorsi]({{< var ref-latissimus-dorsi.action >}}) form a "force adductor couple" @jonesProjectFoundations2025.
+The adduction and extension moment created by the [latissimus dorsi]({{< var ref-latissimus-dorsi.action >}}) results in inferior displacement of the humeral head, the *triceps long head* contracts and its abductive component counteracts the [latissimus dorsi]({{< var ref-latissimus-dorsi.action >}}) creating a superior glide @jonesProjectFoundations2025.
+This results in no net vertical translation of the humeral head and keeping its optimal position in the glenoid.
+
+Thus although the triceps long head has an "abductive" component, we consider it to function as an "adductive assist."
+:::
 
 # Medial Head
 

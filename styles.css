@@ -11,12 +11,12 @@ body {
 a {
   color: #3d5b9d; /* Pure black for hyperlinks */
   text-decoration: none; /* Remove the underline */
-  font-weight: 525; /* Slightly bold text (adjust weight as needed) */
+  font-weight: 500; /* Slightly bold text (adjust weight as needed) */
 }
 
 a:hover {
   text-decoration: underline; /* Add underline on hover */
-  font-weight: 525; /* Slightly bolder on hover (optional) */
+  font-weight: 500; /* Slightly bolder on hover (optional) */
 }
 
 a:visited {
@@ -25,7 +25,7 @@ a:visited {
 
 a:active {
   color: #3d5b9d; /* Black for active links */
-  font-weight: 525; /* Slightly bolder when active (optional) */
+  font-weight: 500; /* Slightly bolder when active (optional) */
 }
 
 /* Citation styling */

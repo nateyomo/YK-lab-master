@@ -2,7 +2,13 @@
 title: Baclofen
 ---
 
+::: {.callout title="Reading list"}
 
+- Spasticity
+    - Ch5.2 @sindouNeurosurgerySpasticityPractical2022
+    - Ch6 @sindouNeurosurgerySpasticityPractical2022
+
+:::
 
 
 # Cerebral Palsy

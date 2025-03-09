@@ -9,3 +9,6 @@ keywords:
 
 
 # Deficiency {#deficiency}
+
+
+- Carnitine transporter deficiency (primary carnitine deficiency, PCD) p402 @karpatiDisordersVoluntaryMuscle2010 

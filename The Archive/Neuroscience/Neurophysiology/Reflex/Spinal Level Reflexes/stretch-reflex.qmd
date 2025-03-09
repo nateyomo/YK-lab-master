@@ -6,4 +6,6 @@ subtitle: Spinal level reflex
 
 
 - Long-latency stretch reflexes (LLSR)
-- 
+
+
+See how the stretch-reflex plays a role in overall [skeletal muscle tone here]({{< var ref-skeletal-muscle-tone.muscle-stretch-reflex >}}).

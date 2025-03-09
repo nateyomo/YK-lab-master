@@ -4,7 +4,7 @@ title: Brachioradialis
 
 ![Left Humerus (Anterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image207 gray1918 Left humerus. Anterior view.gif){#fig-gray1918-image207}
 
-![Muscles that move the Forearm @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.25 Muscles That Move the Forearm.jpeg){#fig-openstax-fig11.25}
+
 
 ::: {.callout title="Reading list"}
 
@@ -14,6 +14,12 @@ title: Brachioradialis
 
 
 :::
+
+
+# Overview
+
+The *brachioradialis* muscle exists in the lateral forearm @jonesProjectFoundations2025.
+The brachioradialis along with the [ECRB]({{< var ref-extensor-carpi-radialis-brevis.path >}}), [ECRL]({{< var ref-extensor-carpi-radialis-longus.path >}}) form the *radial group of forearm muscles* @jonesProjectFoundations2025.
 
 ```{python tbl-oian}
 #| label: tbl-oian
@@ -51,16 +57,33 @@ else:
 
 ```
 
+
 # Origin {#origin}
 
 - Lateral Humerus (*Superior to lateral supracondylar ridge*) @gilroyAtlasAnatomy2020
 - Lateral intermuscular septum @gilroyAtlasAnatomy2020
 
 
+![Muscles that move the Forearm @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.25 Muscles That Move the Forearm.jpeg){#fig-openstax-fig11.25}
+
+
+# Pathway {#pathway}
+
+From its [proximal origin](#origin) the brachioradialis is lateral to the [brachialis]({{< var ref-brachialis.path >}}) and superficial to the [common biceps brachii tendon]({{< var ref-biceps-brachii.tendon >}}) @jonesProjectFoundations2025.
+As the brachioradialis crosses the anterior-lateral elbow to form the *lateral wall of the cubital fossa* @jonesProjectFoundations2025.
+As it passes into the forearm, the brachioradialis acts as a border between the *anterior* and *posterior lateral forearm components* @jonesProjectFoundations2025.
+
+At the mid-forearm, the brachioradialis courses *laterally* to the [FCR]({{< var ref-flexor-carpi-radialis.path >}}) @jonesProjectFoundations2025.
+Between the brachioradialis and [FCR]({{< var ref-flexor-carpi-radialis.path >}}) the *superficial branch* of the radial nerve arises and crosses superficially over the extensor retinaculum of the hand @jonesProjectFoundations2025.
+
+As the brachioradialis courses distally to the wrist and its [distal insertion](#insertion), it lies *lateral* to the [radial artery]({{< var ref-radial-artery.path >}}) @jonesProjectFoundations2025.
+
 
 # Insertion {#insertion}
 
 Styloid process of the Radius @gilroyAtlasAnatomy2020
+
+# Tendon {#tendon}
 
 # Innervation {#innervation}
 
@@ -69,7 +92,7 @@ Styloid process of the Radius @gilroyAtlasAnatomy2020
 # Action {#action}
 
 - **Elbow**: Flexion @gilroyAtlasAnatomy2020
-- **Forearm**: Initiates pronation and supination @gilroyAtlasAnatomy2020
+- **Forearm**: Pronates or Supinates the arm to neutral [@gilroyAtlasAnatomy2020; @jonesProjectFoundations2025]
 
 
 

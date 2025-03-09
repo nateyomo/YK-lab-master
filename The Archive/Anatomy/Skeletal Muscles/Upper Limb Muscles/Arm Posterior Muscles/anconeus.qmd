@@ -1,5 +1,5 @@
 ---
-title: Anconeus
+title: Anconeus muscle
 ---
 
 ![Left Humerus (Posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image208 gray1918 Left humerus. Posterior view.gif){#fig-gray1918-image208}
@@ -10,12 +10,12 @@ title: Anconeus
 ::: {.callout title="Reading list"}
 
 - Triceps and Anconeus Muscle @donnellyTravellSimonsSimons2019
-- @neumannKinesiologyMusculoskeletalSystem2017
+- Neuman @neumannKinesiologyMusculoskeletalSystem2017
 
 :::
 
-```{python tbl-oian}
-#| label: tbl-oian
+```{python tbl-anconeus-oian}
+#| label: tbl-anconeus-oian
 #| warning: false
 #| message: false
 #| echo: false
@@ -68,7 +68,8 @@ Olecranon of ulna (Radial surface) @gilroyAtlasAnatomy2020
 # Action {#action}
 
 - Elbow: Weak extension @gilroyAtlasAnatomy2020
-- Tightens/stabilizes the elbow joint @gilroyAtlasAnatomy2020
+- Tightens/stabilizes the elbow joint [@gilroyAtlasAnatomy2020; @jonesProjectFoundations2025]
+
 
 
 

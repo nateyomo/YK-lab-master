@@ -99,11 +99,16 @@ Superficial Branches
 - Ulnar communicating br.
 
 
+# Pathway
+
+- Passes between the [brachioradialis]({{< var ref-brachioradialis.path >}}) and [brachialis]({{< var ref-brachialis.path >}}) muscles @jonesProjectFoundations2025.
+
 # Treatment
 
 - [Brachial plexus axillary release]({{< var ref-brachial-plexus.release >}})
 - Pathway release
-    - 
+    - Brachioradialis & brachialis release
+
 
 
 # Entrapment {#entrapment}

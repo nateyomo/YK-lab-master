@@ -8,11 +8,7 @@ title: Patellar Ligament
 
 # Patellar Tendon Reflex {#reflex}
 
-
-
-# Dysfunction
-
-[Patellar Tendinopathy]({{< var ref-patellar-tendon.tendinopathy >}})
+The "patellar tendon reflex" refers to a muscle stretch reflex of the quadriceps muscles, it is **not** testing the golgi tendon reflex of the patellar tendon.
 
 
 # Patellar tendon release {#release}
@@ -24,3 +20,11 @@ title: Patellar Ligament
 ::: {.callout-caution}
 This technique is uncomfortable and makes the knee feel vulnerable for many patients, but can result in much relief, especially for patients with patellar tendinitis @jonesProjectFoundations2025.
 :::
+
+# Dysfunction
+
+[Patellar Tendinopathy]({{< var ref-patellar-tendon.tendinopathy >}})
+
+
+
+# Patellar tendinopathy {#tendinopathy}

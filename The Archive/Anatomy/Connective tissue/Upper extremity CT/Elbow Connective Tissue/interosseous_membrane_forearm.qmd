@@ -3,3 +3,34 @@ title: Interosseous membrane of the Forearm
 keywords:
     - IO Membrane
 ---
+
+
+There are 2 bands:
+
+- Anterior
+- Posterior
+
+
+# Anterior band
+
+Fibers run obliquely in an inferomedial direction, proximately from the radius, to the lowest fibers running the most obliquely @jonesProjectFoundations2025
+
+There are 3 bundles of the *anterior band* that reinforce it:
+
+1. Proximal bundle: runs almost horizontal @jonesProjectFoundations2025
+1. Middle descending bundle: Increased obliquity from proximal bundle @jonesProjectFoundations2025
+1. Distal descending bundle: Most oblique @jonesProjectFoundations2025
+
+The inferomedial oblique direction prevents the radius from a *superior or proximal* displacement @jonesProjectFoundations2025.
+
+# Posterior band
+
+
+The posterior band runs obliquely, perpendicular to the [anterior band](#anterior-band) @jonesProjectFoundations2025.
+
+There are 2 bundles:
+
+1. Proximal ascending bundle:
+1. Distal ascending bundle: 
+
+The superolateral fiber direction prevents *distal* displacement of the radius
