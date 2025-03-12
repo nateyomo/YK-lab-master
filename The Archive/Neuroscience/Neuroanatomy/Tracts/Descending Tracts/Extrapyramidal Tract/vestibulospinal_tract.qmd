@@ -3,6 +3,11 @@ title: Vestibulospinal Tract
 ---
 
 
+::: {.callout title="Muscle stretch reflex / tone"}
+
+The vestibulospinal tract (VST) originates from the lateral vestibular nucleus (Deiter's nucleus) has facilitatory impact on the muscle stretch reflex @gangulyMuscleTonePhysiology2021.
+:::
+
 
 # Medial Vestibulospinal tract
 

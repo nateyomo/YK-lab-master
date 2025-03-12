@@ -86,6 +86,9 @@ In the mid-forearm, the FCR is *medial* to the [brachioradialis]({{< var ref-bra
 - **Wrist**: Flexion, Radial deviation @gilroyAtlasAnatomy2020
 - Can assist with elbow flexion and forearm pronation (biomech) @gilroyAtlasAnatomy2020
 
+FCR contraction acts a limit to prevent excessive elongation of the lateral pillar @jonesProjectFoundations2025.
+# Tendon
 
+The tendon of the FCR runs anterior to the scaphoid and acts as a sling and translates the scaphoid posteriorly @jonesProjectFoundations2025.
 
 # Notes

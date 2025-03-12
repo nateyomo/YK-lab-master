@@ -5,4 +5,8 @@ title: Exercise Physiology
 
 # Blood flow During exercise
 
-- Ch21 Muscle Blood Flow and Cardiac Output During Exercise; the Coronary Circulation and Ischemic Heart Disease @hallGuytonHallTextbook2021
+::: {.callout title="Reading list"}
+
+- Guyton and Hall: Ch21 Muscle Blood Flow and Cardiac Output During Exercise; the Coronary Circulation and Ischemic Heart Disease @hallGuytonHallTextbook2021
+
+:::

@@ -1,0 +1,17 @@
+---
+title: Bicep Curl Exercise
+---
+
+
+
+At my internship with *b project*, we used a bicep curl for a variety of reasons.
+
+- We would perform biceps curls seated in order to ensure more focus on the upper extremities and minimizing compensation of the hip and distal regions.
+- Function
+    - Improve active ROM and strength into elbow flexion
+    - Eccentric: *active-assisted range of motion* to achieve full elbow extension
+
+- Hand position
+    - Pronated: Brachialis bias
+    - Neutral (thumbs up): Brachioradialis bias
+    - Supinated: Biceps brachii bias

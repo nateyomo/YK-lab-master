@@ -1,0 +1,285 @@
+---
+title: Hand
+subtitle: Musculoskeletal overview
+---
+
+
+![Transverse section of distal forearm @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image421 Transverse section across distal ends of radius and ulna.gif)
+
+![Transverse cut of the Hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image422 Transverse section across the wrist and digits.gif)
+
+![Mucous sheaths of the tendons of the wrist and digits @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image423 The mucous sheaths of the tendons on the front of the wrist and digits.gif)
+
+![Mucous sheaths of the dorsal hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image424 The mucous sheaths of the tendons on the back of the wrist.gif)
+
+![Palmar aponeurosis @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image425 The palmar aponeurosis.gif)
+
+![Muscles of the thumb @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image426 The muscles of the thumb.gif)
+
+![Palmar muscles of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image427 The muscles of the left hand. Palmar surface.gif)
+
+
+# Carpal bones
+
+![Bones of the left hand (Anterior surface) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image219 Bones of the left hand. Volar surface.gif){#fig-gray1918-image219}
+
+
+![Bones of the left hand (posterior surface) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image220 Bones of the left hand. Dorsal surface.gif){#fig-gray1918-image220}
+
+
+
+
+
+- Proximal carpal row:
+    - Scaphoid
+    - Lunate
+    - Triquetrum
+- Distal carpal row:
+    - Trapezium
+    - Trapezoid
+    - Capitate
+    - Hamate
+- Pisiform
+
+::: {.callout-note}
+The distal row of carpals form a relatively rigid structure, whereas the proximal carpal row is a mobile structure @jonesProjectFoundations2025.
+The proximal carpal row acts a mobile  structure between the rigidity of the radius and ulna proximally and the rigid distal carpal row distally @jonesProjectFoundations2025.
+:::
+
+## Scaphoid
+
+![Scaphoid bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image221 The left navicular bone.gif){#fig-gray1918-image221}
+
+The scaphoid bone Articular surfaces:
+
+- 2 distal convex surfaces to articulate with:
+    - The proximal aspect of the trapezium @jonesProjectFoundations2025
+    - The medial surface of the trapezoid @jonesProjectFoundations2025
+- 1 concave articular facet: to articulate with the capitate
+
+
+Stabilization
+
+- 1st factor
+    - scapho-trapezial ligament
+    - Scapho-trapezoidal ligament
+    - Scapho-capitate ligament
+- 2nd factor
+    - Radio-capitate ligament extends from anterior border of the radial styloid process to the anterior aspect of the capitate @jonesProjectFoundations2025.
+        - This ligament forms a sling along the anterior aspect of the scaphoid
+        - As this ligament is tensioned, it translates the inferior aspect of the scaphoid posteriorly @jonesProjectFoundations2025.
+        - This ligament functionally checks anterior tilting of the scaphoid when it "lies down" during flexion @jonesProjectFoundations2025.
+- 3rd factor
+    - Tendon of FCR runs anterior to the scaphoid as it courses distally to its [distal insertion on the 2nd metacarpal]({{< var ref-flexor-carpi-radialis.insertion >}}) @jonesProjectFoundations2025.
+
+Scaphoid tilting
+
+- When in flexion the scaphoid lies flat:
+    - The scaphoid is jammed between the distal trapezium and trapezoid and the proximal radius @jonesProjectFoundations2025.
+    - The inferior pole of hte scpahoidslides on the proximal articular surfaces of the trapezoid and trapezium @jonesProjectFoundations2025.
+    - While this occurs, the anterior ligaments tension and limit excessive anterior movement @jonesProjectFoundations2025.
+    - Simultaneously, the proximal scaphoid is blocked by the posterior border of the radius @jonesProjectFoundations2025.
+- When the lateral pillar is stretching
+    - The contraction of FCR helps to limit excessive elongation of the pillar @jonesProjectFoundations2025.
+
+See [scaphoid-lunate couple](#scaphoid-lunate-couple).
+
+Read more about the [scaphoid bone here]({{< var ref-scaphoid-bone.path >}})
+
+## Lunate
+
+![Lunate bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image222 The left lunate bone.gif){#fig-gray1918-image222}
+
+
+
+- Articulation
+    - Concave distal surface of lunate articulates with the convex capitate head @jonesProjectFoundations2025
+
+See [scaphoid-lunate couple](#scaphoid-lunate-couple).
+
+Read more about the [lunate bone here]({{< var ref-lunate-bone.path >}})
+
+## Triquetrum
+
+![Triquetrum bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image223 The left triangular bone.gif){#fig-gray1918-image223}
+
+- Articulation
+    - Concave distal surface of triquetrum articulates with the concave proximal surface of hamate @jonesProjectFoundations2025
+
+Read more about the [triquetrum bone here]({{< var ref-triquetrum-bone.path >}})
+
+## Trapezium
+
+![Trapezium bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image225 The left greater multangular bone.gif){#fig-gray1918-image225}
+
+
+
+- Articulation
+    - Concave proximal surface articulates with the convex, distal surface of the scaphoid @jonesProjectFoundations2025.
+
+Read more about the [trapezium bone here]({{< var ref-trapezium-bone.path >}})
+
+## Trapezoid
+
+
+![Trapezoid bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image226 The left lesser multangular bone.gif){#fig-gray1918-image226}
+
+
+
+- Articulation
+    - The proximal concave surface of the trapezium articulates with the *convex distal surface of the scaphoid* @jonesProjectFoundations2025.
+
+Read more about the [trapezoid bone here]({{< var ref-trapezoid-bone.path >}})
+
+## Capitate
+
+![Capitate bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image227 The left capitate bone.gif){#fig-gray1918-fig227}
+
+
+- Articulation
+    - The convex capitate articulates with the *medial, concave facet* of the scaphoid @jonesProjectFoundations2025.
+    - Concave distal surface of lunate articulates with the convex capitate head @jonesProjectFoundations2025.
+        - The capitate head forms a central hinge allowing the lunate to:
+            - Tilt laterally @jonesProjectFoundations2025
+            - Rotate around the long axis @jonesProjectFoundations2025
+            - Tilt antero-posteriorly (sagittal plane) @jonesProjectFoundations2025
+
+Read more about the [capitate bone here]({{< var ref-capitate-bone.path >}})
+
+## Hamate
+
+![Hamate bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image228 The left hamate bone.gif){#fig-gray1918-image228}
+
+- Articulation
+    - The hamate is mostly in contact with the triquetrum: the concave distal surface of triquetrum articulates with the concave proximal surface of hamate @jonesProjectFoundations2025
+    - The hamate has a small articulation with the lunate @jonesProjectFoundations2025.
+
+Read more about the [hamate bone here]({{< var ref-hamate-bone.path >}})
+
+## Pisiform
+
+![Pisiform bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image224 The left pisiform bone.gif){#fig-gray1918-imag224}
+
+Read more about the [pisiform bone here]({{< var ref-pisiform-bone.path >}})
+# Midcarpal Joint
+
+Although the midcarpal joint is made up of many bones, it is best to simplify the hand:
+
+- Each row of carpal bones as a single structure
+- Divide the midcarpal joint into a **lateral** and **medial part**
+    - **Lateral part**: forms a plane joint between the distal trapezium and trapezoid articulating with the scaphoid @jonesProjectFoundations2025
+- **Medial part** forms a *condyloid joint* consisting of the capitate head and hamate forming a convex aspect that articulates with the concave surface formed by the 3 proximal carpal bones @jonesProjectFoundations2025.
+
+## Neutral position {#midcarpal-neutral}
+
+In the midcarpal joint's neutral position, the hand is straight.
+
+In this position, the *scaphoid* and distal surface of the radius are in contact @jonesProjectFoundations2025.
+The scaphoid and center proximal surface of the trapezium are in contact @jonesProjectFoundations2025.
+
+- Ligaments
+    - The anterior ligaments of radio-scaphoid are neither stretched or relaxed @jonesProjectFoundations2025.
+    - Scapho-trapezial ligament are neither stretched or relaxed @jonesProjectFoundations2025.
+
+## Extension {#midcarpal-extension}
+
+As the midcarpal joint moves from [neutral](#midcarpal-neutral) to extended, the distance reduces and the trapezium moves posteriorly @jonesProjectFoundations2025.
+
+- Contact between the articular surfaces of distal radius and the scaphoid @jonesProjectFoundations2025.
+    - Specifically the contact on the distal radius moves slightly anterior @jonesProjectFoundations2025
+    - Contact point on the proximal scaphoid moves slightly posterior @jonesProjectFoundations2025
+- Contact between the trapezium and scaphoid @jonesProjectFoundations2025.
+- Anterior ligaments increase tension @jonesProjectFoundations2025
+
+## Flexion {#midcarpal-flexion}
+
+During flexion, the distances between the radius and trapezium also reduces when moving from neutral to flexion @jonesProjectFoundations2025.
+
+- Moving into flexion, the scaphoid lies flat and most of its contact is on the posterior aspect of the radius @jonesProjectFoundations2025.
+- During midcarpal flexion, the trapezium slides proximally and anteriorly on the distal scaphoid @jonesProjectFoundations2025.
+
+
+# Scaphoid-lunate couple {#scaphoid-lunate-couple}
+
+
+The wrist flexion-extension movement divides into 3 sectors: 
+
+1. first 20&deg; from neutral: The movements ar small, the ligaments are slack, and intraarticular pressure is minimal @jonesProjectFoundations2025.
+1. 40&deg; from neutral: the ligaments being to stretch and intraarticular pressure rises 
+    - Up to this point, the movements involving the wrist and midcarpal joint have roughly the same range @jonesProjectFoundations2025.
+1. 80&deg; from neutral: Ligament tension and intraarticular pressure reaches a maximum @jonesProjectFoundations2025.
+
+::: {.callout-important}
+Beyond section 3, the ligaments tear and damage.
+These damages may go undetected.
+This can lead to instability, fracture, and dislocations @jonesProjectFoundations2025.
+:::
+
+::: {.callout-note}
+The concept that as you increase range at the wrist, you increase the restraint or locking mechanism is important @jonesProjectFoundations2025.
+This is an essential concept for understanding how the lunate and scaphoid pillars lock during wrist extension @jonesProjectFoundations2025.
+:::
+
+## Locking scaphoid pillar
+
+## Locking lunate pillar
+
+# Muscles of the wrist
+
+- Anterior wrist muscles
+    - FCR
+    - Palmaris longus
+    - FCU
+- Posterior wrist muscles
+    - ECU 
+    - ECRL
+    - ECRB
+    - APL
+    - EPB
+    - EPL
+
+- Groups
+    - Group I
+    - Group II
+    - Group III
+    - Group IV
+
+# Examination
+
+:::{.callout-note}
+See table 18.2 of Dutton for physical findings on the hand @duttonDuttonOrthopaedicExamination2020 
+:::
+
+![Table 18.6 Hand and Finger Deformities and Their Possible Causes @duttonDuttonOrthopaedicExamination2020](/The Archive/MSK/Regions/Upper Extremity/images/table18.6 hand deformities dutton.png)
+
+# Special Tests
+
+### Provocation Tests
+
+- Scapholunate Shear Test. The patient is positioned in sitting with their forearm supinated. With one hand, the clinician grasps the scaphoid. With the other hand, the clinician grasps the lunate between the thumb and the index finger (Fig. 18-54). The lunate and scaphoid are then sheared in an anterior (palmar) and then posterior (dorsal) direction. Laxity and reproduction of the patient’s pain are positive signs for this test. @duttonDuttonOrthopaedicExamination2020
+
+### Tendon special tests
+
+- The Integrity of the Central Slip (Extensor Hood Rupture). The patient flexes the finger to 90 degrees at the PIP joint over the edge of the table. The patient is then asked to extend the PIP joint, while the clinician palpates the middle phalanx (Fig. 18-57). The absence of extension force at the PIP joint and fixed extension at the distal joint indicates complete rupture of the central slip. No diagnostic accuracy @duttonDuttonOrthopaedicExamination2020
+
+### Ligament Special Tests
+
+- Lunotriquetral Shear (Reagan) Test. This test is designed to assess the integrity of the lunotriquetral ligament. The clinician grasps the triquetrum between the thumb and the second finger of one hand and the lunate with the thumb and second finger of the other hand. The lunate is moved posteriorly (dorsally) with the thumb of one hand, while the triquetrum is pushed palmarly in the anteroposterior (AP) plane by the index finger of the other hand (Fig. 18-44). Crepitation, clicks, or discomfort in this area suggests injury to the ligament. @duttonDuttonOrthopaedicExamination2020
+- The Pisotriquetral Shear Test. The pisotriquetral shear test assesses the integrity of the pisotriquetral articulation. The clinician stabilizes the wrist with the fingers posterior (dorsal) to the triquetrum and the thumb over the pisiform. The pisiform is rocked back and forth in a medial and lateral direction. A positive test is manifested with pain during this maneuver. No diagnostic accuracy studies have been performed to determine the sensitivity and specificity of this test.
+- Pivot Shift Test of the Midcarpal Joint. The patient is positioned in sitting with the elbow flexed to 90 degrees and the forearm pronated. The clinician uses one hand to stabilize the forearm while using the other hand to take the patient’s hand into full radial deviation (Fig. 18-59). The patient’s hand is then taken into full ulnar deviation. A positive test results if the capitate is felt to shift away from the lunate and indicates an injury to the anterior capsule and interosseous ligaments. No diagnostic accuracy studies have been performed to determine the sensitivity and the specificity of this test.
+- Scaphoid Shift Test for Carpal Instability. The scaphoid shift maneuver examines the dynamic stability of the wrist, in particular, the integrity of the scapholunate ligament. The patient is positioned in sitting with their elbow in approximately 90 degrees of flexion, the forearm slightly pronated, and the wrist ulnarly deviated. The clinician grasps the wrist from the radial side and stabilizes the scaphoid tubercle with the thumb and the posterior (dorsal) aspect of the scaphoid with the index finger. The clinician uses the other hand to grasp the metacarpals. Starting in ulnar deviation and slight extension, the wrist is moved into radial deviation and slight flexion. As the wrist is brought passively into radial deviation, the normal flexion of the proximal row forces the scaphoid tubercle into an anterior (palmar) direction (into the clinician’s thumb). The clinician attempts to prevent the anterior (palmar) motion of the scaphoid. When the scaphoid is unstable, its proximal pole is forced to sublux posteriorly (dorsally).22 Pain at the posterior (dorsal) wrist or a clunk suggests instability. The results are compared with the other hand. The results from the scaphoid shift test should be used with caution, as the test can be positive in up to one-third of uninjured individuals. One study looked at the movements of the carpal bones during the scaphoid shift test radiographically in 60 wrists and found that pain associated with subluxation of the scaphoid during the shift test is a significant finding, and that radiographic analysis of the test may confirm a positive result when dynamic scaphoid instability is suspected.22
+- Gamekeeper’s or Skier’s Thumb. The patient is positioned in sitting. The clinician stabilizes the patient’s hand with one hand and takes the patient’s thumb into extension with the other hand. While maintaining the thumb into extension, the clinician applies a valgus stress to the MCP joint of the thumb to stress the UCL (Fig. 18-60). A positive test is present if the valgus movement is greater than 30–35 degrees, indicating a complete tear of the UCL and the accessory collateral ligaments.
+- Murphy Sign. The patient is asked to make a fist. If the head of the third metacarpal is level with the second and fourth metacarpals, the sign is positive for the presence of a lunate dislocation.
+
+### Neurovascular Special Teests
+
+- Allen Test. The Allen test is used to determine the patency of the vessels supplying the hand. The clinician compresses both the radial and ulnar arteries at the wrist (Fig. 18-61), and then asks the patient to open and clench the fist three to four times to drain the venous blood from the hand. The patient is then asked to hold the hand open while the clinician releases the pressure on the ulnar artery and then the radial artery. The fingers and palm should be seen to regain their normal pink color. This procedure is repeated with the radial artery released and compression on the ulnar artery maintained. Normal filling time is usually less than 5 seconds. A distinct difference in the filling time suggests the dominance of one artery filling the hand.
+- Tinel (Percussion) Test for CTS. The Tinel test is used to assist in the diagnosis of CTS. The area over the median nerve is tapped gently at the anterior (palmar) surface of the wrist (Fig. 18-62). If this produces tingling in the median nerve distribution, then the test is positive. Variations exist among studies on the location and number of taps necessary to elicit a positive response, and in some studies the test is performed by tapping the median nerve in 20 degrees of wrist extension, while others tap along the path of the median nerve up to where the median nerve enters the carpal tunnel.
+- APB Weakness for CTS. The patient is positioned in sitting with their hand supported by the clinician. The clinician asked the patient to touch the pads of the thumb and small finger together. After asking the patient to keep the pads of the thumb and small finger together, the clinician applies a strong force in order to resist thumb abduction (Fig. 18-63). A positive test is a weakness in some abduction with resisted testing as compared to the other hand. Studies performed to determine weakness in the APB are relatively consistent, demonstrating moderate diagnostic accuracy.
+
+
+# Pathologies
+
+- Gamekeeper's Thumb (Skier's Thumb)
+
+

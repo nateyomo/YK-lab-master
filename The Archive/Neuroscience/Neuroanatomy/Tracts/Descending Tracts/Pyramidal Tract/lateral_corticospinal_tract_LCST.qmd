@@ -8,5 +8,6 @@ Primary ascending tract that relays signals for [voluntary movement]({{< var ref
 
 
 ::: {.callout-important}
-Important in inhibition of Muscle spindle stretch reflex
+Important in inhibition of Muscle spindle stretch reflex.
+The Corticospinal tract originates from the motor cortex and is an inhibitory tract of the muscle stretch reflex which impacts muscle tone @gangulyMuscleTonePhysiology2021.
 :::

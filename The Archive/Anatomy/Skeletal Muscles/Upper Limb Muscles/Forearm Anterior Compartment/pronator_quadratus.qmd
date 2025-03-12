@@ -12,8 +12,8 @@ title: Pronator Quadratus
 
 :::
 
-```{python tbl-oian}
-#| label: tbl-oian
+```{python tbl-pronator-quadratus-oian}
+#| label: tbl-pronator-quadratus-oian
 #| warning: false
 #| message: false
 #| echo: false
@@ -52,12 +52,15 @@ else:
 
 # Origin {#origin}
 
-Distal 1/4 of ulna (anterior surface) @gilroyAtlasAnatomy2020
+The PQ's proximal origin is at the anterior surface of the distal 1/4 of ulna [@gilroyAtlasAnatomy2020; @jonesProjectFoundations2025] and on an aponeurosis that partially covers the muscle [@jonesProjectFoundations2025].
 
 
 # Insertion {#insertion}
 
-Distal ¼ of radius (anterior surface) @gilroyAtlasAnatomy2020
+The PQ courses from its [common origin](#origin) and separates into superficial and deep fibers @jonesProjectFoundations2025.
+The **superficial fibers** project laterally and insert onto the distal 1/4th of radius (anterior surface) [@gilroyAtlasAnatomy2020; @jonesProjectFoundations2025].
+
+The **deeper fibers** project laterally from the [common origin](#origin) and insert superior to the *radius' ulnar notch* @jonesProjectFoundations2025.
 
 # Innervation {#innervation}
 
@@ -65,8 +68,10 @@ Distal ¼ of radius (anterior surface) @gilroyAtlasAnatomy2020
 
 # Action {#action}
 
-- **Forearm**: Pronation @gilroyAtlasAnatomy2020
-- **Distal RU**: Stabilization @gilroyAtlasAnatomy2020
+- **Forearm**: Pronation @gilroyAtlasAnatomy2020, specifically at the proximal radioulnar joint @jonesProjectFoundations2025.
+    - During this action, the radial head pivots around the ulna @jonesProjectFoundations2025.
+- **Distal RUJ**: Stabilization @gilroyAtlasAnatomy2020 by holding the distal radius and ulna together @jonesProjectFoundations2025.
+    - This stabilization and protective function also protects the interosseous membrane @jonesProjectFoundations2025.
 
 The PQ "unwinds" ulna around the radius @jonesProjectFoundations2025.
 

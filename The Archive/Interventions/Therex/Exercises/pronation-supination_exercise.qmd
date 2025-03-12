@@ -1,0 +1,18 @@
+---
+title: Forearm Pronation-Supination exercise
+---
+
+
+
+- Elbow flexed to 90&deg;
+- Hold dumbbell
+- Full pronate and supinate the arm
+- Adding a 3-5 sec hold at each end range can help to work through full ROM
+
+
+::: {.callout-note title="Compensations"}
+
+- Watch for shoulder abduction by making sure the elbows stay at one's side the entire time.
+    - Shoulder abduction is a compensation for lack of pronation
+
+:::

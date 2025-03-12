@@ -4,6 +4,12 @@ title: Reticulospinal Tract
 
 The reticulospinal tract is an [extrapyramidal tract]({{< var ref-extrapyramidal-tracts.path >}}) that is part of the [medial motor systems]({{< var ref-medial-motor-systems.path >}}) which spans the entire spinal cord to function in [automatic posture]({{< var ref-posture.automatic >}}) and [gait-related movements]({{< var ref-gait.path >}}) @blumenfeldNeuroanatomyClinicalCases2022.
 
+
+::: {.callout title="Muscle stretch reflex / tone"}
+
+"where dorsal RST arises. Hence, the area of cerebellum inhibits muscle tone indirectly through inhibition of gamma motor" @gangulyMuscleTonePhysiology2021
+:::
+
 # Pathway
 
 ## Input
