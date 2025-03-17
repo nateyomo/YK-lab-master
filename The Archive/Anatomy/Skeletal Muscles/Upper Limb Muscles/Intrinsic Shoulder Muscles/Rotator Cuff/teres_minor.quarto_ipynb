@@ -1,0 +1,119 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Teres Minor Muscle\n",
+        "---\n",
+        "\n",
+        "\n",
+        "![Muscles that move the humerus @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.23 Muscles That Move the Humerus.jpeg){#fig-openstax-fig11.23}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Teres minor Muscle @donnellyTravellSimonsSimons2019\n",
+        "- @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- MMT @weinstockNeuroKineticTherapyInnovative2010\n",
+        "\n",
+        "\n",
+        ":::\n"
+      ],
+      "id": "0b734c80"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'muscle_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['teres_minor']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Origin {#origin}\n",
+        "\n",
+        "Lateral border of [scapula]({{< var ref-scapula-bone.path >}}) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "![Left scapula (Posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image203 gray1918 Left scapula. Dorsal surface.gif){#fig-gray1918-image203}\n",
+        "\n",
+        "![Left Humerus (Posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image208 gray1918 Left humerus. Posterior view.gif){#fig-gray1918-image208}\n",
+        "\n",
+        "# Insertion {#insertion}\n",
+        "\n",
+        "Greater tubercle of [Humerus]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Innervation {#innervation}\n",
+        "\n",
+        "[Axillary N.]({{< var ref-axillary-nerve.path >}}) ([C5]({{< var ref-nerve-root.c5 >}}), [C6]({{< var ref-nerve-root.c6 >}})) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Action {#action}\n",
+        "\n",
+        "**GHJ**: External Rotation, Weak Adduction, Stabilization @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "\n",
+        "# Palpation\n",
+        "\n",
+        "# Test\n",
+        "\n",
+        "- [ERLS (Possibly)]({{< var ref-ERLS-external-rotation-lag-sign.path >}})\n",
+        "\n",
+        "# Muscle Tear\n",
+        "\n",
+        ":::{.callout title=\"To read\"}\n",
+        "\n",
+        "- Traumatic full-thickness infraspinatus and teres minor tendon tears @cainTraumaticFullthicknessInfraspinatus2013\n",
+        "\n",
+        ":::"
+      ],
+      "id": "66ef5764"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

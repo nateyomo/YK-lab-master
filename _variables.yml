@@ -146,6 +146,35 @@ ref-radius-bone:
   path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/radius_bone.html"
 ref-capitate-bone:
   path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/capitate_bone.html"
+ref-hamate-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/hamate_bone.html"
+ref-lunate-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/lunate_bone.html"
+ref-pisiform-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/pisiform_bone.html"
+ref-scaphoid-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scaphoid_bone.html"
+ref-trapezium-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/trapezium_bone.html"
+ref-triquetrum-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/triquetrum_bone.html"
+ref-1st-metacarpal-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/Metacarpal bones/1st_metacarpal_bone.html"
+ref-2nd-metacarpal-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/Metacarpal bones/2nd_metacarpal_bone.html"
+ref-3rd-metacarpal-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/Metacarpal bones/3rd_metacarpal_bone.html"
+ref-4th-metacarpal-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/Metacarpal bones/4th_metacarpal_bone.html"
+ref-5th-metacarpal-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/Metacarpal bones/5th_metacarpal_bone.html"
+
+
+
+
+
+
+
 
 ### Bones of the skull
 
@@ -1388,6 +1417,7 @@ ref-abductor-pollicis-brevis:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_pollicis_brevis.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_pollicis_brevis.html#nerve"
   action: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_pollicis_brevis.html#action"
+  cts-test: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_pollicis_brevis.html#apb-test-cts"
 
 ref-flexor-pollicis-brevis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/flexor_pollicis_brevis.html"
@@ -2802,6 +2832,23 @@ ref-neer-impingement-test:
   path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/neer_impingement_test.html"
 ref-hawkins-kennedy-test:
   path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/hawkins-kennedy_test.html"
+#### Wrist and hand tests
+ref-lunotriquetral-shear-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/lunotriquetral_shear_test_reagan_test.html"
+ref-pisotriquetral-shear-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/pisotriquetral_shear_test.html"
+ref-scapholunate-shear-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/scapholunate_shear_test.html"
+ref-pivot-shift-test-midcarpal:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/pivot_shift_test_midcarpal.html"
+ref-scaphoid-shift-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/scaphoid_shift_test.html"
+ref-gamekeepers-thumb-test:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/gamekeepers_thumb_test_skiers_thumb_test.html"
+ref-murphy-sign-hand:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/murphy_sign_hand.html"
+ref-allen-test-hand:
+  path: "/The Archive/Examination/Tests and Measures/Upper Extremity Tests/Wrist and Hand/allen_test_hand.html"
 
 ### Lower extremity tests
 ref-fulcrum-test-stress-fracture:
@@ -3230,7 +3277,7 @@ ref-lateral-epicondylitis:
   path: "/The Archive/Pathologies/Pathologies by Region/Upper extremity/lateral_epicondylitis.html"
 ### Lower Extremity
 ref-piriformis-syndrome:
-  path: "/The Archive/Pathologies/Nerve Pathology/Sciatic nerve pathologies/piriformis_syndrome.html"
+  path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis.html#piriformis-syndrome"
 ref-pelvic-stress-fracture:
   path: "/The Archive/Pathophysiology/stress_reactions_and_fractures.html"
 ref-femoral-shaft-stress-fracture:

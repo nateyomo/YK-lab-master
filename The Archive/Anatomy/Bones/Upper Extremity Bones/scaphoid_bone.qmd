@@ -1,7 +1,8 @@
 ---
 title: Scaphoid Bone
+subtitle: Proximal Carpal Row
 keywords:
-    - Navicular of the hand
+    - Navicular carpal bone
 ---
 
 ![Bones of the left hand (Anterior surface) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image219 Bones of the left hand. Volar surface.gif){#fig-gray1918-image219}
@@ -10,6 +11,8 @@ keywords:
 ![Bones of the left hand (posterior surface) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image220 Bones of the left hand. Dorsal surface.gif){#fig-gray1918-image220}
 ![Scaphoid bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image221 The left navicular bone.gif){#fig-gray1918-image221}
 
+
+The scaphoid is part of the *proximal carpal row*.
 
 
 
@@ -31,3 +34,88 @@ keywords:
 
 # Scaphoid-lunate couple
 @jonesProjectFoundations2025
+
+
+# Muscular attachments
+
+
+```{python tbl-scaphoid-insertion-oian}
+#| label: tbl-scaphoid-insertion-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Muscles inserting on the Scaphoid"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'insertion_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['scaphoid_bone']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
+```{python tbl-scaphoid-origin-oian}
+#| label: tbl-scaphoid-origin-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Muscles originating from the Scaphoid"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'origin_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['scaphoid_bone']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
+
+# Tests and Measures
+
+- [Scapholunate Shear Test]({{< var ref-scapholunate-shear-test.path >}})

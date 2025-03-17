@@ -5,6 +5,8 @@ subtitle: Special test of neuropathy
 
 # Carpal Tunnel {#carpal-tunnel}
 
+"The Tinel test is used to assist in the diagnosis of CTS. The area over the median nerve is tapped gently at the anterior (palmar) surface of the wrist (Fig. 18-62). If this produces tingling in the median nerve distribution, then the test is positive. Variations exist among studies on the location and number of taps necessary to elicit a positive response, and in some studies the test is performed by tapping the median nerve in 20 degrees of wrist extension, while others tap along the path of the median nerve up to where the median nerve enters the carpal tunnel." @duttonDuttonOrthopaedicExamination2020
+
 # Cubital tunnel syndrome
 
 # Radial nerve entrapment

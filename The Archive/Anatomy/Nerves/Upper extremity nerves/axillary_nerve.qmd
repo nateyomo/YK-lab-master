@@ -7,35 +7,8 @@ Axillary nerve roots: C5 & C6 @gilroyAtlasAnatomy2020
 
 # Motor Innervation
 
-```{r}
-#| echo: false
-#| warning: false
-#| message: false
-
-# Load the here package
-library(here)
-
-# Source the functions script
-source(here("scripts/gt_oian.R"))
-
-# Example usage
-identifier_col <- "innervation_identifier"  # or "group_identifier"
-filter_patterns <- "axillary_nerve"
-display_columns <- c("name_final", "origin_final", "insertion_final", "innervation_final", "action_final")
-table_title <- "Axillary n. Muscle Innervations"
-
-# Call the function
-gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)
-
-gt_table
-```
 
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Anterior Deltoid]({{< var ref-deltoid-muscle-anterior.path >}}) | {{< var ref-deltoid-muscle-anterior.origin >}} | {{< var ref-deltoid-muscle-anterior.insertion >}} | {{< var ref-deltoid-muscle-anterior.nerve >}} | {{< var ref-deltoid-muscle-anterior.action >}} |
-| [Lateral Deltoid]({{< var ref-deltoid-muscle-lateral.path >}}) | {{< var ref-deltoid-muscle-lateral.origin >}} | {{< var ref-deltoid-muscle-lateral.insertion >}} | {{< var ref-deltoid-muscle-lateral.nerve >}} | {{< var ref-deltoid-muscle-lateral.action >}} |
-| [Posterior Deltoid]({{< var ref-deltoid-muscle-posterior.path >}}) | {{< var ref-deltoid-muscle-posterior.origin >}} | {{< var ref-deltoid-muscle-posterior.insertion >}} | {{< var ref-deltoid-muscle-posterior.nerve >}} | {{< var ref-deltoid-muscle-posterior.action >}} |
 
 
 # Sensory innervation

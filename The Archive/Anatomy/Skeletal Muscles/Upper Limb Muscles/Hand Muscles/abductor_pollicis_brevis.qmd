@@ -66,5 +66,8 @@ Lateral side of base of 1st proximal phalanx
 **1st CMC**: Abduction @gilroyAtlasAnatomy2020
 
 
+# APB Strength Test for Carpal Tunnel Syndrome {#apb-test-cts}
+
+"The patient is positioned in sitting with their hand supported by the clinician. The clinician asked the patient to touch the pads of the thumb and small finger together. After asking the patient to keep the pads of the thumb and small finger together, the clinician applies a strong force in order to resist thumb abduction (Fig. 18-63). A positive test is a weakness in some abduction with resisted testing as compared to the other hand. Studies performed to determine weakness in the APB are relatively consistent, demonstrating moderate diagnostic accuracy." @duttonDuttonOrthopaedicExamination2020
 
 # Notes

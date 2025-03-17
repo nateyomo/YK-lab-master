@@ -1,0 +1,119 @@
+---
+title: Glasgow Coma Scale (GCS)
+subtitle: Classification of Brain injury severity
+---
+
+:::{#tbl-gcs}
+
+<table class="basic-table">
+    <thead>
+        <tr>
+            <th>Component</th>
+            <th>Score</th>
+            <th>Response</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="4"><strong>Eye Opening (E)</strong></td>
+            <td><strong>4</strong></td>
+            <td><strong>Spontaneous</strong></td>
+            <td>Eyes open without stimulation.</td>
+        </tr>
+        <tr>
+            <td><strong>3</strong></td>
+            <td><strong>To Speech</strong></td>
+            <td>Eyes open in response to verbal stimuli.</td>
+        </tr>
+        <tr>
+            <td><strong>2</strong></td>
+            <td><strong>To Pain</strong></td>
+            <td>Eyes open in response to painful stimuli (e.g., pinch).</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #d3d3d3">
+            <td><strong>1</strong></td>
+            <td><strong>No response</strong></td>
+            <td>No eye opening at all</td>
+        </tr>
+        <tr>
+            <td rowspan="5"><strong>Verbal Response (V)</strong></td>
+            <td><strong>5</strong></td>
+            <td><strong>Oriented</strong></td>
+            <td>Patient is aware of surroundings and can respond appropriately.</td>
+        </tr>
+        <tr>
+            <td><strong>4</strong></td>
+            <td><strong>Confused</strong></td>
+            <td>Patient can speak but is disoriented and confused about time, place, or person.</td>
+        </tr>
+        <tr>
+            <td><strong>3</strong></td>
+            <td><strong>Inappropriate Words</strong></td>
+            <td>Patient utters words not appropriate to the context.</td>
+        </tr>
+        <tr>
+            <td><strong>2</strong></td>
+            <td><strong>Incomprehensible Sounds</strong></td>
+            <td>Patient makes sounds that are not recognizable as words (e.g., moaning).</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #d3d3d3">
+            <td><strong>1</strong></td>
+            <td><strong>No response</strong></td>
+            <td>No verbal response at all.</td>
+        </tr>
+        <tr>
+            <td rowspan="6"><strong>Motor Response (M)</strong></td>
+            <td><strong>6</strong></td>
+            <td><strong>Obeys Commands</strong></td>
+            <td>Patient can follow simple commands.</td>
+        </tr>
+        <tr>
+            <td><strong>5</strong></td>
+            <td><strong>Localizes Pain</strong></td>
+            <td>Patient can purposefully move toward painful stimuli.</td>
+        </tr>
+        <tr>
+            <td><strong>4</strong></td>
+            <td><strong>Withdraws from Pain</strong></td>
+            <td>Patient withdraws from painful stimuli.</td>
+        </tr>
+        <tr>
+            <td><strong>3</strong></td>
+            <td><strong>Flexion to Pain</strong></td>
+            <td>Abnormal flexion in response to pain (Decorticate Posturing).</td>
+        </tr>
+        <tr>
+            <td><strong>2</strong></td>
+            <td><strong>Extension to Pain</strong></td>
+            <td>Abnormal extension in response to pain (Decerebrate Posturing).</td>
+        </tr>
+        <tr>
+            <td><strong>1</strong></td>
+            <td><strong>None</strong></td>
+            <td>No motor response at all.</td>
+        </tr>
+    </tbody>
+</table>
+
+Glasgow Coma Scale
+
+:::
+
+
+
+# Interpretation
+
+$$
+\textrm{GCS Score} = \textrm{Eye} + \textrm{Verbal} + \textrm{Motor}
+$$
+
+
+- Range: 3-15
+
+| Score | Brain damage severity |
+|-|-|
+| 13-15 | Mild |
+| 9-12 | Moderate |
+| &le;8 | Severe |
+: GCS Interpretation @fulkOSullivanSchmitzsPhysical2024 {.striped}

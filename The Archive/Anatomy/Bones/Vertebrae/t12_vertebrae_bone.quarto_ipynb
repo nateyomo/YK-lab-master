@@ -1,0 +1,79 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: T12 Vertebrae\n",
+        "---\n",
+        "\n",
+        "\n",
+        "![Muscles of the Iliac and Anterior femoral regions @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image430 Muscles of the iliac and anterior femoral regions.gif)\n",
+        "\n",
+        "# Transverse process\n",
+        "\n",
+        "There is no transverse costal facet on T12 since the T\n",
+        "\n",
+        "\n",
+        "# Anterior Malalignment\n",
+        "\n",
+        "Due to the iliopsoas (psoas major and minor) attachment to the anterior aspect of L1, an overactive iliopsoas can result in an anterior translation of the vertebrae.\n"
+      ],
+      "id": "a9904b31"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-psoas-major-minor-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "#| tbl-cap: Psoas Major and Minor OIAN\n",
+        "\n",
+        "    from pathlib import Path\n",
+        "    import pandas as pd\n",
+        "    from pyprojroot import here\n",
+        "    from IPython.core.display import display, HTML\n",
+        "\n",
+        "    # Set the path for the script file\n",
+        "    script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "    # Check if the script file exists\n",
+        "    if script_file_path.exists():\n",
+        "        import sys\n",
+        "        sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "        from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "        # Define the column to filter by and the identifiers to include\n",
+        "        filter_column = 'muscle_identifier'  # Choose the column you want to filter by\n",
+        "        filter_identifiers = ['psoas_minor', 'psoas_major']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "        # Call the function to get the HTML table with filtering\n",
+        "        html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "        if html_table:\n",
+        "            # Render the HTML table for display\n",
+        "            display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "    else:\n",
+        "        print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-psoas-major-minor-oian",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

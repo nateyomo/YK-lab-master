@@ -3,5 +3,6 @@ title: Craig's Test
 ---
 
 
-
-Normal: 8-15 IR (medial rotation) 
+- &lt;8&deg; Retroverted
+- Normal: 8-15 IR (Anteverted)
+- &gt;15&deg; Anteverted

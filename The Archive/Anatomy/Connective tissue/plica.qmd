@@ -16,6 +16,10 @@ title: Plica
 "The most common plica in the knee is called the anterior or inferior plica, or mucous ligament.1 This plica is represented by a tape-like fold running from the fat pad to the intercondylar notch of the femur and overlying the ACL. The plicae to the medial and lateral sides of the patella, which run in a horizontal plane from the fat pad to the side of the patellar retinaculum, are referred to as the superomedial or superolateral plicae or the suprapatellar membrane, or the medial or lateral synovial shelf.1" @duttonDuttonOrthopaedicExamination2020 
 
 
+# Tests
+
+- Hughston's Plica Test
+
 # Dysfunction
 
 - [Plica Syndrome]({{< var ref-plica.syndrome >}})

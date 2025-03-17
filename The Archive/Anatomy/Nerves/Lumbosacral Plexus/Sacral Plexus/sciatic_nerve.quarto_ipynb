@@ -1,0 +1,108 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Sciatic Nerve\n",
+        "---\n",
+        "\n",
+        "\n",
+        "![Cross-section of middle thigh @grayAnatomyHumanBody1918: Sciatic nerve labeled the *Ischiadic nerve*](/The Archive/Images/Gray anatomy 1918 images/Myology/image432 Cross-section through the middle of the thigh.gif)\n",
+        "\n",
+        "# Roots\n",
+        "\n",
+        "# Pathway\n",
+        "\n",
+        "# Common Fibular Division {#common-fibular-division}\n",
+        "\n",
+        "# Motor innervation\n",
+        "\n",
+        "## Direct Branches\n"
+      ],
+      "id": "a8f1629f"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-sciatic-nerve-direct-branches-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'innervation_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['sciatic_nerve']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-sciatic-nerve-direct-branches-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "- Semitendinosus @gilroyAtlasAnatomy2020\n",
+        "- Semimembranosus @gilroyAtlasAnatomy2020\n",
+        "- Biceps femoris (long head) @gilroyAtlasAnatomy2020\n",
+        "- Adductor magnus (medial part) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Cutaneous Innervation\n",
+        "\n",
+        "# Dysfunction\n",
+        "\n",
+        "\n",
+        "Damage to the common fibular division during Total hip arthroplasty can result in [drop foot]({{< var ref-drop-foot.path >}})\n",
+        "\n",
+        "\n",
+        "- Deep gluteal syndrome is an increasingly recognized disease entity, caused by compression of the sciatic or pudendal nerve due to non-discogenic pelvic lesions\n",
+        "\n",
+        "# Entrapment {#entrapment}\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Sciatic nerve p373 @DynamicNeurologicalStabilizationClinicalRehabilitation2014\n",
+        "\n",
+        ":::"
+      ],
+      "id": "799ef287"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

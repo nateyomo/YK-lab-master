@@ -8,3 +8,81 @@ title: Trapezium bone
 ![Bones of the left hand (posterior surface) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image220 Bones of the left hand. Dorsal surface.gif){#fig-gray1918-image220}
 
 ![Trapezium bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image225 The left greater multangular bone.gif){#fig-gray1918-image225}
+
+# Muscular attachments
+
+
+```{python tbl-trapezium-insertion-oian}
+#| label: tbl-trapezium-insertion-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Muscles inserting on the Trapezium"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'insertion_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['trapezium_bone']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
+```{python tbl-trapezium-origin-oian}
+#| label: tbl-trapezium-origin-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Muscles originating from the Trapezium"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'origin_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['trapezium_bone']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```

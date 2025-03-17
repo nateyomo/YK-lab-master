@@ -1,0 +1,57 @@
+---
+title: Basivertebral Nerve Ablation (Intracept)
+---
+
+# Anatomical and Physiological Basis
+
+During degenerative disease, the degeneration can lead to damage to nociceptors in the vertebral end plates which transmit pain signals via the *basivertebral nerves* @huangBasivertebralNerveAblation2022.
+Basivertebral nerves (BVNs) are sensory afferents that transmit nociceptive signals from the vertebral endplate @huangBasivertebralNerveAblation2022.
+
+
+<!-- - Modic Type I changes
+- Modic Type II changes -->
+
+# Indications
+
+:::{#tbl-indication-contraindications}
+<table class="basic-table">
+  <thead>
+    <tr>
+      <th>Indications</th>
+      <th>Contraindications</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6">Chronic axial low back pain &gt;6 mo refractory to conservative therapy for &gt;6 mo and Modic Type 1 or 2 changes on MRI in L3–S1 at one or more levels</td>
+      <td>Active systemic or local infection</td>
+    </tr>
+    <tr>
+      <td>Skeletal immaturity</td>
+    </tr>
+    <tr>
+      <td>Pregnancy Pacemakers</td>
+    </tr>
+    <tr>
+      <td>Defibrillators or other electronic implants</td>
+    </tr>
+    <tr>
+      <td>Severe cardiac or pulmonary compromise</td>
+    </tr>
+    <tr>
+      <td>Ablation zone is &lt;10 mm from spinal canal</td>
+    </tr>
+  </tbody>
+</table>
+
+Indications and Contraindications of basivertebral ablation @huangBasivertebralNerveAblation2022
+
+:::
+
+
+# Technique
+
+## Anesthesia
+
+This procedure can use a variety of anesthesia such as general anesthesia or moderate sedation @huangBasivertebralNerveAblation2022.
+<!-- basivertebral ablation (BVA) is the Intracept system by Relievant (Intracept System, Relievant Medsystems, Sunnyvale, CA), although radiofrequency ablation of the basivertebral nerve can be achieved using other systems as well in Europe. -->

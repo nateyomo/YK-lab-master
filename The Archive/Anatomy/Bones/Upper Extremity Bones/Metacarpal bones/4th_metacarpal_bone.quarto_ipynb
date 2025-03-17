@@ -1,0 +1,125 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: 4th Metacarpal bone\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "![Bones of the left hand (Anterior surface) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image219 Bones of the left hand. Volar surface.gif){#fig-gray1918-image219}\n",
+        "\n",
+        "\n",
+        "![Bones of the left hand (posterior surface) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image220 Bones of the left hand. Dorsal surface.gif){#fig-gray1918-image220}\n",
+        "\n",
+        "![Plan of ossification of the hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image234 Plan of ossification of the hand.gif){#fig-gray1918-image234}\n",
+        "\n",
+        "\n",
+        "![4th metacarpal (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image232 The fourth metacarpal left.gif){#fig-gray1918-image232}\n",
+        "\n",
+        "\n",
+        "# Muscular attachments\n"
+      ],
+      "id": "c76b553c"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-4th-mcp-insertion-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "#| tbl-cap: Muscles inserting on the 3rd Metacarpal bone\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'insertion_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['4th_metacarpal_bone']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-4th-mcp-insertion-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-4th-mcp-origin-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "#| tbl-cap: Muscles originating from the 4th Metacarpal bone\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.core.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'origin_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['4th_metacarpal_bone']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-4th-mcp-origin-oian",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

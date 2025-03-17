@@ -1,5 +1,6 @@
 ---
-title: Lunate (bone)
+title: Lunate bone
+subtitle: Proximal Carpal Row
 ---
 
 ![Bones of the left hand (Anterior surface) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image219 Bones of the left hand. Volar surface.gif){#fig-gray1918-image219}
@@ -8,3 +9,95 @@ title: Lunate (bone)
 ![Bones of the left hand (posterior surface) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image220 Bones of the left hand. Dorsal surface.gif){#fig-gray1918-image220}
 
 ![Lunate bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image222 The left lunate bone.gif){#fig-gray1918-image222}
+
+
+
+The lunate is a bone in the proximal carpal row.
+
+
+
+# Muscular attachments
+
+
+```{python tbl-lunate-insertion-oian}
+#| label: tbl-lunate-insertion-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Muscles inserting on the lunate"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'insertion_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['lunate_bone']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
+```{python tbl-lunate-origin-oian}
+#| label: tbl-lunate-origin-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Muscles originating from the Lunate"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.core.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'origin_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['lunate_bone']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+
+
+# Tests and measures
+
+- [Lunotriquetral Shear (Reagan) Test]({{< var ref-lunotriquetral-shear-test.path >}})
+- [Scapholunate Shear Test]({{< var ref-scapholunate-shear-test.path >}})
+- [Murphy Sign]({{< var ref-ref-murphy-sign-hand >}}): Lunate dislocation
