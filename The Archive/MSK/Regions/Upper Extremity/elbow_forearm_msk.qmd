@@ -80,7 +80,7 @@ subtitle: Musculoskeletal overview
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -121,7 +121,7 @@ else:
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -193,7 +193,7 @@ Limits of *passive* flexion with overpressure:
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -241,7 +241,7 @@ Limits of extension:
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -373,7 +373,7 @@ When fully extended, the axis for pronation and supination is collinear with sho
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -416,7 +416,7 @@ Limited pronation will result in compensations, most notably excessive shoulder 
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")

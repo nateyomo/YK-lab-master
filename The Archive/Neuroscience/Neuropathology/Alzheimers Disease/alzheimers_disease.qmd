@@ -9,7 +9,7 @@ title: Alzheimer's Disease (AD)
 
 :::
 
-# Risk Factors
+<h1 id="risk-factor">Risk Factors</h1>
 
 - Lack of Choline
 

@@ -1,3 +1,25 @@
 ---
 title: Pituitary Gland
 ---
+
+!["The hypothalamus secretes corticotropin-releasing hormone (CRH), which directs the anterior pituitary gland to secrete adrenocorticotropic hormone (ACTH). In turn, ACTH directs the adrenal cortex to secrete glucocorticoids, such as cortisol. Glucocorticoids not only perform their respective functions throughout the body but also prevent further stimulating secretions of both the hypothalamus and the pituitary gland" @boundlessBoundlessAnatomyPhysiology](/The Archive/Images/Boundless Anatomy and Physiology images/fig1.3.1 boundless acth-negative-feedback.svg){#fig-boundless-fig1.3.1}
+
+
+# Anterior Pituitary
+
+The anterior pituitary releases ACTH which stimulates the <i>adrenal cortex</i> to release more [cortisol]({{< var ref-cortisol.path >}}) and [aldosterone]({{< var ref-aldosterone.path >}}).
+
+The anterior pituitary releases <i>thyroid stimulating hormone (TSH)</i> which stimulates the [thyroid gland]({{< var ref-thyroid-gland.path >}}) to produce and release more <i>Triiodothvronine (T3)</i> and <i>Thyroxine (T4)</i>. 
+
+The anterior pituitary releases <i>FSH</i> and <i>Leutinizing hormone (LH)</i> to stimulate the testes and ovaries in order to produce more estrogen, progesterone, and testosterone.
+
+The anterior pituitary secretes <i>growth hormone</i> which impacts the bones and tissues to to increase growth and metabolism.
+
+Release of prolactin by the anterior pituitary stimulates milk production in the breasts.
+
+
+# Posterior Pituitary
+
+The posterior pituitary secretes <i>ADH</i> and <i>vasopressin</i> which regulates water and mineral balance, Water retention.
+
+The posterior pituitary also secretes <i>Oxytocin</i> which stimulates uterine contraction during birth.

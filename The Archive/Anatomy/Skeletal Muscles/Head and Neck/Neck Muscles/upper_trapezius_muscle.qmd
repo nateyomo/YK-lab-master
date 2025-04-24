@@ -32,7 +32,7 @@ title: Upper Trapezius
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -91,3 +91,11 @@ else:
 - Ch6 Trapezius Muscle @donnellyTravellSimonsSimons2019
 
 :::
+
+
+# Stretch
+
+- "Ear to opposite armpit"
+    - Ipsilateral Rotation
+    - Contralateral sidebend
+    - Neck flexion

@@ -20,7 +20,7 @@ Due to the iliopsoas (psoas major and minor) attachment to the anterior aspect o
     from pathlib import Path
     import pandas as pd
     from pyprojroot import here
-    from IPython.core.display import display, HTML
+    from IPython.display import display, HTML
 
     # Set the path for the script file
     script_file_path = here("scripts/process_oian_table.py")

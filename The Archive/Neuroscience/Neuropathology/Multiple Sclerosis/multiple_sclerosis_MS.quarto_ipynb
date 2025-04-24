@@ -67,7 +67,7 @@
         "- [Secondary progressive (SPMS)](#secondary-progressive)\n",
         "- [Progressive relapsing (PRMS)](#progressive-relapsing)\n"
       ],
-      "id": "74f5da62"
+      "id": "f6491e6f"
     },
     {
       "cell_type": "code",
@@ -134,7 +134,7 @@
         "    for i in range(len(fig.data)):\n",
         "        fig.data[i].visible = 'legendonly' if i not in visible_indices else True"
       ],
-      "id": "1f0a0e49",
+      "id": "f6fd7fb6",
       "execution_count": null,
       "outputs": []
     },
@@ -170,7 +170,7 @@
         ":::\n",
         "::: {.column}\n"
       ],
-      "id": "f82a11d6"
+      "id": "4ba55507"
     },
     {
       "cell_type": "code",
@@ -218,7 +218,7 @@
         ":::\n",
         "::: {.column}"
       ],
-      "id": "dbb11123"
+      "id": "23c65542"
     },
     {
       "cell_type": "code",
@@ -255,7 +255,7 @@
         ":::\n",
         "::: {.column}"
       ],
-      "id": "74f910e9"
+      "id": "7c7f16c4"
     },
     {
       "cell_type": "code",
@@ -296,7 +296,7 @@
         ":::\n",
         "::: {.column}"
       ],
-      "id": "54f6d560"
+      "id": "98517b50"
     },
     {
       "cell_type": "code",
@@ -509,15 +509,14 @@
         "The intensity should be moderate and range \n",
         "between 11 and 13 on the 20-point rating of perceived exertion scale, or between 40% and 60% peak oxygen consumption or peak heart rate. "
       ],
-      "id": "1949be81"
+      "id": "384de2aa"
     }
   ],
   "metadata": {
     "kernelspec": {
-      "name": "python3",
+      "display_name": "Python 3",
       "language": "python",
-      "display_name": "Python 3 (ipykernel)",
-      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+      "name": "python3"
     }
   },
   "nbformat": 4,

@@ -1,0 +1,324 @@
+---
+title: Pelvic Floor
+subtitle: A Musculoskeletal Overview
+---
+
+::: {.callout title="Reading list"}
+
+- To read
+    - Evidence-based physical therapy for the pelvic floor: bridging science and clinical practice @berghmansEvidencebasedPhysicalTherapy2015
+    - Pelvic pain and dysfunction: a differential diagnosis manual @philipPelvicPainDysfunction2016
+    - Pelvic Pain Explained: What You Need to Know @prendergastPelvicPainExplained2016
+    - A headache in the pelvis: a new understanding and treatment for chronic pelvic pain syndromes @wiseHeadachePelvisNew2012
+- In progress
+    - Fitness for the Pelvic Floor @carriereFitnessPelvicFloor2024
+
+:::
+
+
+# Function {#function}
+
+There are 4 essential functions of the pelvic floor:
+
+1. [Supporting organs within the pelvis](#organ-support)
+1. [Bladder & Bowel Control](#bowel-bladder-control)
+1. [Static and Dynamic stabilization of the pelvic girdle, lumbar spine, and torso](#pelvic-girdle-stabilization)
+1. [Sexual function](#sexual-function)
+
+## Supporting Organs {#organ-support}
+
+The pelvic floor must be able to *contract strongly* and *relax* in order to have proper bowel and bladder continence and elimination @carriereFitnessPelvicFloor2024.
+
+The body expells uring or feces in a process known as **elimination** @carriereFitnessPelvicFloor2024.
+To perform elimination, the pelvic floor must be able to *relax* @carriereFitnessPelvicFloor2024.
+
+
+
+
+## Bladder & Bowel control {#bowel-bladder-control}
+
+## Pelvic girdle stabilization {#pelvic-girdle-stabilization}
+
+If the pelvic floor is dysfunctional, it will not effectively perform its function to stabilize the pelvic girdle @carriereFitnessPelvicFloor2024.
+Over time, this functional pelvic girdle instability can result in issues in the SIJ, lumbar spine, and hips @carriereFitnessPelvicFloor2024.
+
+The pelvic floor muscles work in conjunction with the pulmonary diaphragm to regulate pressure between the thorax and abdomen @carriereFitnessPelvicFloor2024.
+
+## Sexual Function {#sexual-function}
+
+The pelvic floor is important for sexual function, during these activities the pelvic floor muscles contract voluntarily or involuntarily @carriereFitnessPelvicFloor2024.
+
+The pelvic floor is important in sexual function, but oppositely, [sexual abuse can damage and cause it to be dysfunctional](#sexual-abuse) @carriereFitnessPelvicFloor2024.
+
+
+
+# Muscle Function
+
+Although the pelvic floor can be a mystifying and intimidating region, the muscles are no different than the rest of the body.
+The muscles must:
+
+- [Contract](#muscle-contraction) @carriereFitnessPelvicFloor2024
+- [Relax](#muscle-relax) @carriereFitnessPelvicFloor2024
+- [Stretch/Elongate](#muscle-stretch) @carriereFitnessPelvicFloor2024
+- [Give feedback](#muscle-feedback) @carriereFitnessPelvicFloor2024
+
+
+
+## Contraction {#muscle-contraction}
+
+Inability to properly contract the muscles results in inadequate support for the organs, pelvic girlde, urethra, and/or sphincter @carriereFitnessPelvicFloor2024.
+
+During lifting, the pelvic floor must be able to contract strongly to provide continence @carriereFitnessPelvicFloor2024.
+Without this, the patient may experience **incontinence** during heavy lifting or sleeping @carriereFitnessPelvicFloor2024.
+During coughing, sneezing, running, and jumping thelvic floor must make many quick reactions with each impact to prevent urinary incontinence @carriereFitnessPelvicFloor2024.
+
+## Relaxation {#muscle-relaxation}
+
+An inability for the pelvic floor muscles to *relax* can result in *low back pain*, pain during intercourse, inability to completely empty the bladder, and painful trigger points within the pelvic floor musculature @carriereFitnessPelvicFloor2024.
+
+Pelvic floor relaxation is important during **elimination** of stool and urine as well as giving birth @carriereFitnessPelvicFloor2024.
+
+## Stretch {#muscle-stretch}
+
+If the pelvic floor musculature is unable to *stretch* the patient may experience constipation and digestive issues
+
+# Bladder Physiology
+
+::: {.callout}
+
+- 1.1 Basic Bladder neurophysiology @carriereFitnessPelvicFloor2024.
+
+:::
+
+
+
+# Layers of the Pelvic Floor {#layers}
+
+The pelvic floor can be divided into 3 layers of muscles that contract in the sagittal, frontal, and tranverse planes @carriereFitnessPelvicFloor2024.
+
+
+1. [Parietalis Fascia](#parietalis-fascia) @carriereFitnessPelvicFloor2024
+1. 
+1. 
+    1. Sometimes the 3rd layer is divided into 2 sublayers, since the deep transverse perineal muscle lies so deep @carriereFitnessPelvicFloor2024.
+
+
+## 1 Parietalis Fascia {#parietalis-fascia}
+
+The first layer of the pelvic floor is known as the *parietalis fascia* (or formally *endopelvic fascia*) @carriereFitnessPelvicFloor2024.
+This layer acts as a "suspensory apparatus" for the organs in the pelvis @carriereFitnessPelvicFloor2024.
+This layer is a complex of smooth muscle fibers, ligaments, nerves, blood vessels, and connective tissue which collectively form a "lining" @carriereFitnessPelvicFloor2024.
+This lining supports and coveres the bladder, intestine, rectum, uterus<sup>&female;</sup>, and prostate<sup>&male;</sup> @carriereFitnessPelvicFloor2024. 
+The *parietalis fascia* connects the interior pelvis to the lower extremity @carriereFitnessPelvicFloor2024.
+
+
+```{python tbl-perietalis-fascia-muscles-oian}
+#| label: tbl-perietalis-fascia-muscles-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Periestalis Fascia Muscles"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['periestalis_fascia_muscle_group']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+
+## 2 Pelvic diaphragm {#pelvic-diaphragm}
+
+## 3 Urogenital Diaphragm {#urogenital-diaphragm}
+
+
+# Etiology
+
+## Sexual abuse {#sexual-abuse}
+
+
+Clients who have experienced sexual abuse often have increased tone in their pelvic floor musculature @carriereFitnessPelvicFloor2024.
+Increased tone can result in an *overflow bladder* where urine is constantly dripping @carriereFitnessPelvicFloor2024.
+
+These clients often present with breathing dysfunction @carriereFitnessPelvicFloor2024.
+
+::: {.callout title="Example"}
+Carriere noted that a client who had experienced sexual abuse developed a breathing pattern where should would push her pelvic floor inferiorly during exhalation (instead of superiorly) as a defense mechanism @carriereFitnessPelvicFloor2024.
+Over time this resulted in colon problems @carriereFitnessPelvicFloor2024.
+:::
+
+
+It is essential to listen carefully to these patients and that no treatment, specifically internal treatments, will occur until the therapist *and* the client agree that is is necessary @carriereFitnessPelvicFloor2024.
+
+::: {.callout-note}
+
+Do **not** sit higher and look down at the client @carriereFitnessPelvicFloor2024.
+
+:::
+
+
+# Evaluation of Breathing
+
+Being able to evaluate and restore *abdominal breathing* is the key to restoring coordination of the abdominal compartment for clients with *PFMD* @carriereFitnessPelvicFloor2024.
+
+
+## Normal breathing
+
+During inhalation:
+
+- Pulmonary diaphragm moves inferiorly @carriereFitnessPelvicFloor2024
+- Abdomen widens @carriereFitnessPelvicFloor2024
+- Pelvic floor relaxes and moves slightly downward @carriereFitnessPelvicFloor2024
+
+Exhalation
+
+- Abdomen flattens @carriereFitnessPelvicFloor2024.
+- Diaphragm moves superiorly with *minimal* superior movement of the chest @carriereFitnessPelvicFloor2024.
+- The clavicles should be positioned in an oblique direction from the sternum (superoposterior) which is required for normal breathing @carriereFitnessPelvicFloor2002.
+
+
+Assessment
+
+- Place 1 hand on the chest to monitor chest movement
+- 1 hand just below the ribcage to feel rib flare during inhalation and flaring in during exhalation @carriereFitnessPelvicFloor2024.
+
+
+
+## Faulty Breathing
+
+There are a few key markers to observe to assess breathing:
+
+- Neck muscles
+- Loss of Clavicle obliquity
+- Epigastric angle
+- Upper abdomen crease
+
+Faulty breathing can be observed in standing, sitting, or supine @carriereFitnessPelvicFloor2024.
+
+Dysfunctional breathing can result in a **tight neck muscles** which are not relaxed at rest @carriereFitnessPelvicFloor2024.
+
+For patients who primarily breathe with the accessory muscles in the upper torso will have horizontally oriented clavicles in the frontal plane @carriereFitnessPelvicFloor2024.
+As the *accessory muscles of inspiration* pull the chest upward, this is creating a depressive torque on the SCJ resulting in the clavicle depressing into the horizontal plane @carriereFitnessPelvicFloor2024.
+
+A very wide epigastric angle &gt;90&deg; @carriereFitnessPelvicFloor2024.
+
+A **deep abdominal crease** is also a sign of faulty breathing @carriereFitnessPelvicFloor2024.
+This is an evident sign that can be viewed over clothing @carriereFitnessPelvicFloor2002.
+The deep crease is observed just superior to the navel @carriereFitnessPelvicFloor2002.
+When the patient is in supine, the crease could be up to 3-4 fingers deep @carriereFitnessPelvicFloor2002.
+
+Usually caused by [TrA]({{< var ref-transverse-abdominis.path >}}) and internal and [external oblique]({{< var ref-external-oblique.path >}}) weakness @carriereFitnessPelvicFloor2024.
+Tight upper neck muscles and weak trunk muscles are expected @carriereFitnessPelvicFloor2024.
+
+::: {.callout-note}
+Clients with these dysfunctions typically have poor posture which should be addressed @carriereFitnessPelvicFloor2024.
+:::
+
+
+
+<!-- 
+With the client sitting or lying on the back, one can observe and palpate how the breathing movement is only going toward the neck from the crease above the navel. Their breath may not be expanding to the pelvic diaphragm, reaching the pelvic floor. The lungs do not expand downward. I tell my clients that the lungs and heart movements are restricted (in jail and need to be liberated). It may take several treatments to correct such breathing. The clients tell me that they feel liberated when the lungs and heart can move more freely, and the neck muscles are relaxed (Video 3.1 and Video 3.2). Scar tissue in the area between the anus and vagina can make the pelvic floor tissue less pliable and cause a hypertonicity, preventing downward mobility of the pelvic floor. -->
+
+## Reversed breathing
+
+<!-- 
+Reversed breathing: It is not uncommon to see clients suck the air upward and pull the belly inward while pushing on the pelvic floor during exhalation(Video 3.8). It is not a good idea when organs within the pelvis are pushed downward (Video 3.5). One of my clients was sent with a diagnosis of a prolapse (too long intestine) and scheduled for surgery (Video 3.10). Careful observation solved the problem. At the end of diaphragmatic breathing, the client sucked the belly, like a wave, inward and backward, pushing forcefully onto the colon. When the client learned not to press downward and to exhale with the awareness of relaxation, her colon shortened again, and she did not require surgery. @carriereFitnessPelvicFloor2024 -->
+
+## Reversed Panting
+
+<!-- 
+Reversed panting: Just like reversed breathing, clients suck the air in and push down into the pelvic floor facilitating prolapse of inner organs of the pelvis (Video 3.9).@carriereFitnessPelvicFloor2002 -->
+
+<!-- 
+Observation of breathing from the beginning to the end.  This assessment is best when the abdomen is not covered  with clothing. It is of utmost importance to restore the  health of the client, not only for the pelvic floor but also for  the heart and lungs and to prevent prolapse of inner  organs. Trunk muscles need to be strengthened, the  mobility of the ribs and the pelvic floor restored, and the  breathing patterns corrected (Video 3.3, Video 3.4, Video  3.5, and Video 3.7). -->
+
+
+
+# Dysfunction
+
+**Pelvic floor muscular dysfunction (PFMD)** is a general term that refers to disorders impacting one or a combination of the [4 functions (supporting organs, B&B, pelvic stabilization, and sexual function)](#function) @carriereFitnessPelvicFloor2024.
+
+This can be caused when:
+
+- Pelvic floor muscles are weak, tight, or torn @carriereFitnessPelvicFloor2024.
+- Ligaments or fascia are stretched or damage @carriereFitnessPelvicFloor2024.
+
+
+
+
+
+The result is system that cannot effectively transmit loads through the pelvis @carriereFitnessPelvicFloor2024.
+In addition, organ support is impaired, resulting in dysfunction in the lower intestines, bowel, bladder, uterus, vagina, and rectum @carriereFitnessPelvicFloor2024.
+
+## Direct causes
+
+The direct causes of PFMD are unknown, but here are events that can contribute to this problem:
+
+- Traumatic injuries @carriereFitnessPelvicFloor2024
+- Sexual abuse @carriereFitnessPelvicFloor2024
+- Strenuous exercise with *improper* breathing mechanics @carriereFitnessPelvicFloor2024
+- Childbirth complications @carriereFitnessPelvicFloor2024
+
+
+
+
+
+# Treatment of Breathing Dysfunction {#breathing-treatment}
+
+
+
+# Traditional Exercises
+
+## Kegel Exercises
+
+Kegel exercises were invented by Dr. Kegel when he discovered the pelvic floor's ability to contract @carriereFitnessPelvicFloor2024.
+Originally, kegel exercises were dosed 300x/day during initial treatments and regressed to 80x/day for maintenance @carriereFitnessPelvicFloor2024.
+
+These exercises, although activating the pelvic floor, were difficult to adhere to for perpetuity and lacked a functional component @carriereFitnessPelvicFloor2024.
+In addition, most clients who were treated with Kegel exercises had limited success @carriereFitnessPelvicFloor2024.
+
+# Functional Exercises
+
+When attempting to create "functional" exercises for our clients, we must consider what makes the pelvic floor functional.
+The pelvic floor functions in *synergies* with the muscles of the lower extremities, trunk, and movements of the viscera @carriereFitnessPelvicFloor2024.
+
+Next we must make decisions based on the patient's goals.
+
+For a client who must **lift heavy objects**, one should focus on slow-fiber activation over fast-fiber activation @carriereFitnessPelvicFloor2024.
+
+For a client who struggles with **coughing or sneezing**, then the *fast-fibers* should be prioritized @carriereFitnessPelvicFloor2024.
+
+Clients who have **difficulty initiating urination**, then breathwork and relaxation would be most beneficial @carriereFitnessPelvicFloor2024.
+
+
+# Rehab Objectives
+
+1. To achieve sensory awareness of the PFMs @carriereFitnessPelvicFloor2024
+1. Restore coordination of the PFMs with the pulmonary diaphragm @carriereFitnessPelvicFloor2024
+1. Improve coordination of the pelvic floor with surrounding musculature
+1. Promote muscle function in different planes of movement @carriereFitnessPelvicFloor2024
+1. Strengthen fast and slow muscle fibers of the pelvic floor @carriereFitnessPelvicFloor2024
+1. Integrate into functional activities @carriereFitnessPelvicFloor2024
+

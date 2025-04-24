@@ -17,3 +17,5 @@ title: Thalamus
 ## Lateral geniculate nucleus (LGN)
 
 ![Segregation of Visual Field information at the Optic Chiasm @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig14.22 openstax Segregation of Visual Field Information at the Optic Chiasm.jpeg){#fig-openstax-fig14.22}
+
+# Thalamic Pain Syndrome {#thalamic-pain-syndrome}

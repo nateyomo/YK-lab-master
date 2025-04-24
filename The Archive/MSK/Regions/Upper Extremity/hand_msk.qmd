@@ -4,22 +4,22 @@ subtitle: Musculoskeletal overview
 ---
 
 
-![Transverse section of distal forearm @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image421 Transverse section across distal ends of radius and ulna.gif)
+![Transverse section of distal forearm @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image421 Transverse section across distal ends of radius and ulna.gif){#fig-gray1918-image421}
 
-![Transverse cut of the Hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image422 Transverse section across the wrist and digits.gif)
+![Transverse cut of the Hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image422 Transverse section across the wrist and digits.gif){#fig-gray1918-image422}
 
-![Mucous sheaths of the tendons of the wrist and digits @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image423 The mucous sheaths of the tendons on the front of the wrist and digits.gif)
+![Mucous sheaths of the tendons of the wrist and digits @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image423 The mucous sheaths of the tendons on the front of the wrist and digits.gif){#fig-gray1918-image423}
 
-![Mucous sheaths of the dorsal hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image424 The mucous sheaths of the tendons on the back of the wrist.gif)
+![Mucous sheaths of the dorsal hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image424 The mucous sheaths of the tendons on the back of the wrist.gif){#fig-gray1918-image424}
 
-![Palmar aponeurosis @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image425 The palmar aponeurosis.gif)
+![Palmar aponeurosis @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image425 The palmar aponeurosis.gif){#fig-gray1918-image425}
 
-![Muscles of the thumb @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image426 The muscles of the thumb.gif)
+![Muscles of the thumb @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image426 The muscles of the thumb.gif){#fig-gray1918-image426}
 
 ![Palmar muscles of the hand (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image427 The muscles of the left hand. Palmar surface.gif)
 
 
-# Carpal bones
+<h1 id="carpal-bones">Carpal bones</h1>
 
 ![Bones of the left hand (Anterior surface) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image219 Bones of the left hand. Volar surface.gif){#fig-gray1918-image219}
 
@@ -31,22 +31,24 @@ subtitle: Musculoskeletal overview
 
 
 - Proximal carpal row:
-    - Scaphoid
-    - Lunate
-    - Triquetrum
+    - <a href="#scaphoid">Scaphoid</a>
+    - <a href="#lunate">Lunate</a>
+    - <a href="#triquetrum">Triquetrum</a>
 - Distal carpal row:
-    - Trapezium
-    - Trapezoid
-    - Capitate
-    - Hamate
-- Pisiform
+    - <a href="#trapezium">Trapezium</a>
+    - <a href="#trapezoid">Trapezoid</a>
+    - <a href="#capitate">Capitate</a>
+    - <a href="#hamate">Hamate</a>
+- <a href="#pisiform">Pisiform</a>
 
 ::: {.callout-note}
 The distal row of carpals form a relatively rigid structure, whereas the proximal carpal row is a mobile structure @jonesProjectFoundations2025.
 The proximal carpal row acts a mobile  structure between the rigidity of the radius and ulna proximally and the rigid distal carpal row distally @jonesProjectFoundations2025.
 :::
 
-## Scaphoid
+<h2 id="scaphoid">
+    Scaphoid bone
+</h2>
 
 ![Scaphoid bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image221 The left navicular bone.gif){#fig-gray1918-image221}
 
@@ -86,9 +88,18 @@ See [scaphoid-lunate couple](#scaphoid-lunate-couple).
 
 Read more about the [scaphoid bone here]({{< var ref-scaphoid-bone.path >}})
 
-## Lunate
+<h2 id="lunate">Lunate</h2>
 
 ![Lunate bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image222 The left lunate bone.gif){#fig-gray1918-image222}
+
+The <i>lunate bone</i> is asymmetrical due to its thickened anterior aspect and thinner posterior aspect @jonesProjectFoundations2025.
+This asymmetry changes the <em>effective</em> distance between the <a href="#capitate">capitate</a>, <i>lunate</i>, and [radius]({{< var ref-radius-bone.path >}}) @jonesProjectFoundations2025.
+
+<ul>
+    <li><bold>In neutral</bold>: the distance between these 3 bones corresponds to the average lunate thickness @jonesProjectFoundations2025</li>
+    <li><bold>In extension</bold>: The distance is decreased due to the less bulky posterior aspect of the lunate @jonesProjectFoundations2025</li>
+    <li><bold>In flexion</bold>: The distance <em>increases</em> due to the bulkier anterior aspect of the lunate</li>
+</ul>
 
 
 
@@ -99,7 +110,7 @@ See [scaphoid-lunate couple](#scaphoid-lunate-couple).
 
 Read more about the [lunate bone here]({{< var ref-lunate-bone.path >}})
 
-## Triquetrum
+<h2 id="triquetrum">Triquetrum</h2>
 
 ![Triquetrum bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image223 The left triangular bone.gif){#fig-gray1918-image223}
 
@@ -108,7 +119,7 @@ Read more about the [lunate bone here]({{< var ref-lunate-bone.path >}})
 
 Read more about the [triquetrum bone here]({{< var ref-triquetrum-bone.path >}})
 
-## Trapezium
+<h2 id="trapezium">Trapezium</h2>
 
 ![Trapezium bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image225 The left greater multangular bone.gif){#fig-gray1918-image225}
 
@@ -119,7 +130,7 @@ Read more about the [triquetrum bone here]({{< var ref-triquetrum-bone.path >}})
 
 Read more about the [trapezium bone here]({{< var ref-trapezium-bone.path >}})
 
-## Trapezoid
+<h2 id="trapezoid">Trapezoid</h2>
 
 
 ![Trapezoid bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image226 The left lesser multangular bone.gif){#fig-gray1918-image226}
@@ -131,7 +142,7 @@ Read more about the [trapezium bone here]({{< var ref-trapezium-bone.path >}})
 
 Read more about the [trapezoid bone here]({{< var ref-trapezoid-bone.path >}})
 
-## Capitate
+<h2 id="capitate">Capitate</h2>
 
 ![Capitate bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image227 The left capitate bone.gif){#fig-gray1918-fig227}
 
@@ -146,7 +157,7 @@ Read more about the [trapezoid bone here]({{< var ref-trapezoid-bone.path >}})
 
 Read more about the [capitate bone here]({{< var ref-capitate-bone.path >}})
 
-## Hamate
+<h2 id="hamate">Hamate</h2>
 
 ![Hamate bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image228 The left hamate bone.gif){#fig-gray1918-image228}
 
@@ -156,12 +167,15 @@ Read more about the [capitate bone here]({{< var ref-capitate-bone.path >}})
 
 Read more about the [hamate bone here]({{< var ref-hamate-bone.path >}})
 
-## Pisiform
+<h2 id="pisiform">Pisiform</h2>
 
 ![Pisiform bone (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image224 The left pisiform bone.gif){#fig-gray1918-imag224}
 
-Read more about the [pisiform bone here]({{< var ref-pisiform-bone.path >}})
-# Midcarpal Joint
+<p>
+    Read more about the [pisiform bone here]({{< var ref-pisiform-bone.path >}})
+</p>
+
+<h1 id="midcarpal-joint">Midcarpal Joint</h1>
 
 Although the midcarpal joint is made up of many bones, it is best to simplify the hand:
 
@@ -170,7 +184,7 @@ Although the midcarpal joint is made up of many bones, it is best to simplify th
     - **Lateral part**: forms a plane joint between the distal trapezium and trapezoid articulating with the scaphoid @jonesProjectFoundations2025
 - **Medial part** forms a *condyloid joint* consisting of the capitate head and hamate forming a convex aspect that articulates with the concave surface formed by the 3 proximal carpal bones @jonesProjectFoundations2025.
 
-## Neutral position {#midcarpal-neutral}
+<h2 id="midcarpal-neutral">Neutral position</h2>
 
 In the midcarpal joint's neutral position, the hand is straight.
 
@@ -181,7 +195,7 @@ The scaphoid and center proximal surface of the trapezium are in contact @jonesP
     - The anterior ligaments of radio-scaphoid are neither stretched or relaxed @jonesProjectFoundations2025.
     - Scapho-trapezial ligament are neither stretched or relaxed @jonesProjectFoundations2025.
 
-## Extension {#midcarpal-extension}
+<h2 id="midcarpal-extension">Extension</h2>
 
 As the midcarpal joint moves from [neutral](#midcarpal-neutral) to extended, the distance reduces and the trapezium moves posteriorly @jonesProjectFoundations2025.
 
@@ -191,7 +205,7 @@ As the midcarpal joint moves from [neutral](#midcarpal-neutral) to extended, the
 - Contact between the trapezium and scaphoid @jonesProjectFoundations2025.
 - Anterior ligaments increase tension @jonesProjectFoundations2025
 
-## Flexion {#midcarpal-flexion}
+<h2 id="midcarpal-flexion">Flexion</h2>
 
 During flexion, the distances between the radius and trapezium also reduces when moving from neutral to flexion @jonesProjectFoundations2025.
 
@@ -199,7 +213,7 @@ During flexion, the distances between the radius and trapezium also reduces when
 - During midcarpal flexion, the trapezium slides proximally and anteriorly on the distal scaphoid @jonesProjectFoundations2025.
 
 
-# Scaphoid-lunate couple {#scaphoid-lunate-couple}
+<h1 id="scaphoid-lunate-couple">Scaphoid-lunate couple</h1>
 
 
 The wrist flexion-extension movement divides into 3 sectors: 
@@ -220,23 +234,23 @@ The concept that as you increase range at the wrist, you increase the restraint 
 This is an essential concept for understanding how the lunate and scaphoid pillars lock during wrist extension @jonesProjectFoundations2025.
 :::
 
-## Locking scaphoid pillar
+<h2 id="scaphoid-pillar-locking">Locking scaphoid pillar</h2>
 
-## Locking lunate pillar
+<h2 id="lunate-pillar-locking">Locking lunate pillar</h2>
 
-# Muscles of the wrist
+<h1 id="wrist-muscles">Muscles of the wrist</h1>
 
 - Anterior wrist muscles
-    - FCR
-    - Palmaris longus
-    - FCU
+    - [FCR]({{< var ref-flexor-carpi-radialis.path >}})
+    - [Palmaris longus]({{< var ref-palmaris-longus.path >}})
+    - [FCU]({{< var ref-flexor-carpi-ulnaris.path >}})
 - Posterior wrist muscles
-    - ECU 
-    - ECRL
-    - ECRB
-    - APL
-    - EPB
-    - EPL
+    - [ECU]({{< var ref-extensor-carpi-ulnaris.path >}}) 
+    - [ECRL]({{< var ref-extensor-carpi-radialis-long.path >}})
+    - [ECRB]({{< var ref-extensor-carpi-radialis-brevis.path >}})
+    - [APL]({{< var ref-abductor-pollicis-longus.path >}})
+    - [EPB]({{< var ref-extensor-pollicis-brevis.path >}})
+    - [EPL]({{< var ref-extensor-pollicis-longus.path >}})
 
 - Groups
     - Group I
@@ -245,27 +259,240 @@ This is an essential concept for understanding how the lunate and scaphoid pilla
     - Group IV
 
 
-# Metacarpal and phalangeal bones
+<h1 id="metacarpal-phalangeal-bones">
+    Metacarpal and phalangeal bones
+</h1>
+
+There are 5 metacarpal bones, 1 for each digit.
+
+<p>
+    In terms of <bold>size</bold> the 1st metacarpal is the shortest and stoutest, the 2nd is the longest, and the length decreases from 3rd-5th metacarpals @neumannKinesiologyMusculoskeletalSystem2017.
+</p>
+
+The metacarpals have distinct osteologic features:
+
+<ul>
+    <li><bold>Base</bold>: Proximal end that articulates with the carpals [@neumannKinesiologyMusculoskeletalSystem2017]</li>
+    <li><bold>Shaft</bold>: Between the base and neck[@neumannKinesiologyMusculoskeletalSystem2017]</li>
+    <li><bold>Neck</bold></li>
+    <li><bold>Posterior tubercles</bold>: Attachment for the collateral ligaments[@neumannKinesiologyMusculoskeletalSystem2017]</li>
+    <li><bold>Head</bold>: Convex articulation for proximal interphalangeal joint [@neumannKinesiologyMusculoskeletalSystem2017]</li>
+</ul>
+
+<h2 id="1st-metacarpal-bone">
+    1st Metacarpal
+</h2>
+
 
 ![1st metacarpal (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image229 The first metacarpal left.gif){#fig-gray1918-image229}
 
+The "1st metacarpal" is part of the thumb and is the <em>shortest</em> and <em>stoutest</em> @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+[Read more about the 1st metacarpal here]({{< var ref-1st-metacarpal-bone.path >}})
+
+<h2 id="2nd-metacarpal-bone">
+    2nd Metacarpal
+</h2>
+
 ![2nd metacarpal (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image230 The second metacarpal left.gif){#fig-gray1918-image230}
+
+The 2nd metacarpal is generally the <em>longest</em>
+
+
+[Read more about the 2nd metacarpal here]({{< var ref-2nd-metacarpal-bone.path >}})
 
 ![3rd metacarpal (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image231 The third metacarpal left.gif){#fig-gray1918-image231}
 
+
+[Read more about the 3rd metacarpal here]({{< var ref-3rd-metacarpal-bone.path >}})
+
 ![4th metacarpal (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image232 The fourth metacarpal left.gif){#fig-gray1918-image232}
+
+
+[Read more about the 4th metacarpal here]({{< var ref-4th-metacarpal-bone.path >}})
 
 ![5th metacarpal (left) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image233 The fifth metacarpal left.gif){#fig-gray1918-image233}
 
+[Read more about the 5th metacarpal here]({{< var ref-5th-metacarpal-bone.path >}})
+
 ![Plan of ossification of the hand @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Osteology/image234 Plan of ossification of the hand.gif){#fig-gray1918-image234}
 
-# Examination
+<h1 id="proximal-phalanx">
+    Proximal phalanx
+</h1>
+
+Osteologic features of the phalanx:
+
+<ul>
+    <li><bold>Base</bold></li>
+    <li><bold>Shaft</bold></li>
+    <li><bold>Head (Proximal and middle phalanx only)</bold></li>
+    <li><bold>Tuberosity (Distal phalanx only)</bold></li>
+</ul>
+
+<h1 id="rays">Rays of the Hand</h1>
+
+<h2 id="1st-ray">1st Ray(Thumb)</h2>
+
+
+
+<h2 id="2nd-ray">2nd Ray (Index)</h2>
+<h2 id="3rd-ray">3rd Ray (Middle)</h2>
+<h2 id="4th-ray">4th Ray (Ring)</h2>
+<h2 id="5th-ray">5th Ray (Pinky)</h2>
+
+
+<h1 id="hand-arches">
+    Arches
+</h1>
+
+Similar to the [arches of the feet]({{< var ref-foot-msk.path >}}), the hand also has palmar concavity known as "arches" [@neumannKinesiologyMusculoskeletalSystem2017].
+
+There are 3 arches:
+
+<ol>
+    <li><bold><a href="#proximal-transverse-arch">Proximal transverse arch</a></bold>: Composed of proximal carpals and forms the <i>carpal tunel [@neumannKinesiologyMusculoskeletalSystem2017]</i></li>
+    <li><bold><a href="#distal-transverse-arch">Distal transverse arch</a></bold></li>
+    <li><bold><a href="#longitudinal-arch">Longitudinal arch</a></bold></li>
+</ol>
+
+<h2 id="proximal-transverse-arch">
+    Proximal Transverse Arch
+</h2>
+
+The proximal transverse arch is composed of the distal row of carpals [@neumannKinesiologyMusculoskeletalSystem2017].
+This arch creates space for the carpal tunnel [@neumannKinesiologyMusculoskeletalSystem2017].
+The <bold>keystone</bold> of this arch is the <a href="#capitate">capitate</a> [@neumannKinesiologyMusculoskeletalSystem2017].
+
+
+
+<h2 id="distal-transverse-arch">
+    Proximal Transverse Arch
+</h2>
+
+The <bold>distal transverse arch</bold> is formed using the MCP joints.
+Unlike the <a href="#proximal-transverse-arch">static proximal transverse arch</a>, the distal transverse arch has great mobility, giving it the freedom to grasp a variety of objects [@neumannKinesiologyMusculoskeletalSystem2017].
+
+
+
+<h2 id="longitudinal-arch">
+    Longitudinal Arch
+</h2>
+
+<p>
+    The longitudinal arch runs proximal to distal and follows the <a href="#2nd-ray">2nd</a> and <a href="#3rd-ray">3rd rays</a> [@neumannKinesiologyMusculoskeletalSystem2017].
+    The proximal end of the <i>longitudinal arch</i> connects to the carpals via the [CMC joint]({{< var ref-carpometacarpal-joint.path >}}) [@neumannKinesiologyMusculoskeletalSystem2017].
+</p>
+
+<h2 id="hand-arch-overall">Overall Function</h2>
+
+<p>
+    The 3 arches are mechanically related to one another [@neumannKinesiologyMusculoskeletalSystem2017].
+    The <a href="2nd-ray">2nd</a> and <a href="3rd-ray">3rd rays</a> which follow the longitudinal arch also serve tie the proximal and distal tranverse arches together [@neumannKinesiologyMusculoskeletalSystem2017].
+</p>
+<p>
+    The 3 arches support and strengthen eachother through interlinking, but a joint disease, such as [rheumatoid arthritis]({{< var ref-rheumatoid-arthritis.path >}}) weakens one arch, which results in collapse of the other arches [@neumannKinesiologyMusculoskeletalSystem2017].
+</p>
+
+<h1 id="cmc-joints">Carpometacarpal Joints</h1>
+
+<p>
+    The CMC joint is an articulation between the distal carpal row with the bases of the metacarpals [@neumannKinesiologyMusculoskeletalSystem2017]. 
+</p>
+
+
+
+<h1 id="examination">
+    Examination
+</h1>
 
 :::{.callout-note}
 See table 18.2 of Dutton for physical findings on the hand @duttonDuttonOrthopaedicExamination2020 
 :::
 
 ![Table 18.6 Hand and Finger Deformities and Their Possible Causes @duttonDuttonOrthopaedicExamination2020](/The Archive/MSK/Regions/Upper Extremity/images/table18.6 hand deformities dutton.png)
+
+<table class="basic-table" id="tbl-hand-wrist-deformity-ddx">
+  <caption>Hand Deformities and Their Possible Causes @duttonDuttonOrthopaedicExamination2020</caption>
+  <thead>
+    <tr>
+      <th scope="col">Deformity</th>
+      <th scope="col">Possible Cause</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>MCP joint flexion</td>
+      <td>Rupture of extensor tendon just proximal to MCP joint</td>
+    </tr>
+    <tr>
+      <td>Hyperextension of MCP joint</td>
+      <td>Interossei paralysis</td>
+    </tr>
+    <tr>
+      <td>Deepening of anterior (palmar) gutter and inability to fully stretch out the palm</td>
+      <td>Tightness of anterior aponeurosis</td>
+    </tr>
+    <tr>
+      <td>
+        Wasting of hypothenar eminence<br>
+        With clawed hand<br>
+        With flexion of 4-5th digits
+      </td>
+      <td>[Ulnar nerve palsy]({{< var ref-ulnar-nerve.palsy >}})</a></td>
+    </tr>
+    <tr>
+      <td>
+        Wrist drop with increased flexion of the wrist<br>
+        Flexion of the MCP joint<br>
+        Extension of the DIP joint
+      </td>
+      <td>Radial nerve lesion</td>
+    </tr>
+    <tr>
+      <td>Isolated thenar atrophy</td>
+      <td>
+        Arthritis of CMC joint<br>[Median n lesion]({{< var ref-median-nerve.lesion >}})<br>
+        [C8]({{< var ref-c8-nerve-root.lesion >}}) or [T1 lesion]({{< var ref-t1-nerve-root.lesion >}})
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Apehand deformity with wasting of thenar eminence and inability to perform thumb <i>opposition</i> or <i>abduction</i>
+      </td>
+      <td>[Median n. palsy]({{< var ref-median-nerve.palsy >}})</td>
+    </tr>
+    <tr>
+      <td>Z-deformity of the wrist</td>
+      <td>Rheumatoid arthritis</td>
+    </tr>
+    <tr>
+      <td>Atrophy of hand intrinsics</td>
+      <td>[Pancoast tumor]({{< var ref-pancoast-tumor.path >}})</td>
+    </tr>
+    <tr>
+      <td>Claw-hand deformity</td>
+      <td>
+        Loss of <a href="{{< var ref-ulnar-nerve.palsy >}}">ulnar n. motor innervation</a> to the hand resulting in paralysis of interossei and atrophy of hypothenar eminence.<br>
+        This deformity is more severe when lesions are <em>distal</em> to <a href="{{< var ref-flexor-digitorum-profundus.path >}}">FDP muscle</a>
+      </td>
+    </tr>
+    <tr>
+      <td>PIP hyperextension and slight flexion of DIP</td>
+      <td>Rupture or paralysis of FDS</td>
+    </tr>
+    <tr>
+      <td>Fixed flexion deformity of MCP and PIP joints, particularly the 4th finger</td>
+      <td>Dupuytren contracture</td>
+    </tr>
+    <tr>
+      <td>Hook-like contracture of the flexor muscles, which is more evident in wrist extension</td>
+      <td>Volkmann ischemic contracture</td>
+    </tr>
+  </tbody>
+</table>
+
 
 # Special Tests
 
@@ -284,7 +511,7 @@ See table 18.2 of Dutton for physical findings on the hand @duttonDuttonOrthopae
 - [Pivot Shift Test of the Midcarpal Joint]({{< var ref-pivot-shift-test-midcarpal.path >}})
 - [Scaphoid Shift Test for Carpal Instability]({{< var ref-scaphoid-shift-test.path >}})
 - [Gamekeeper’s Thumb test (Skier’s Thumb)]({{< var ref-gamekeepers-thumb-test.path >}})
-- [Murphy Sign]({{< var ref-ref-murphy-sign-hand >}})
+- [Murphy Sign]({{< var ref-murphy-sign-hand >}})
 
 ### Neurovascular Special Teests
 

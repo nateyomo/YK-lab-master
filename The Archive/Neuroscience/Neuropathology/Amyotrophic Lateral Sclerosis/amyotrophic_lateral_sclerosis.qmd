@@ -81,7 +81,17 @@ Over 20 chromosomal regions and a number of identified genes have been linked to
 
 : Motor Neuron Diseases (MNDs) @osullivanPhysicalRehabilitation2019 {#tbl-motorneurondiseases .striped .hover}
 
+# Neuroinflammation
+
+
+<ul>
+    <li>In a rewiew by Yang et al, the authors focused on the role of <i>astrocytes</i> specifically <i>non-cell-autonomous role</i> of astrocytes [@wangAdvancesNeuroinflammation2024].</li>
+    <li>Yang concluded that strocytes play a key role in ALS development through disruption of Ca<sup>2+</sup> homeostasis, mitochondrial function, lipid metabolismn, lactate metabolism, glutamate excitotoxicity, and other pathways [@wangAdvancesNeuroinflammation2024].</li>
+    <li></li>
+</ul>
+
 # Etiology
+
 
 Etiology for ALS is unknown, apart from the few hereditary cases @osullivanPhysicalRehabilitation2019.
 Current theories attribute ALS to be the summation of multiple mechanisms including: [oxidative stress]({{< var ref-oxidative-stress.path >}}), aberrant RNA processing, exogenous neurotoxicity, excitotoxicity, impaired axonal transportation, axonal dysfunction, mitochondrial disruption, protein misfolding, protein aggregation, apoptosis, and lifestyle factors that contribute to neuronal degeneration @osullivanPhysicalRehabilitation2019.

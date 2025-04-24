@@ -1,0 +1,6 @@
+---
+title: Chronic Idiopathic Demyelinating Polyneuropathy (CIDP)
+---
+
+
+"Chronic idiopathic demyelinating polyneuropathy (CIDP) is an acquired, immunemediated neuropathy with very limited treatment options thus far [6]. Recently, subcutaneous immunoglobulins (SCIgs) have been employed in clinical setting as a maintenance therapy for CIDP. In the first research article of this Special Issue, Alonge et al. retrospectively explored electrophysiological and efficacy data from 15 patients who received the SCIg treatment. They reported that SCIg maintenance therapy could preserve nerve function in CIDP with good efficacy and safety properties. Electronystagmography can be used to evaluate treatment effectiveness and was a useful instrument for the follow-up and prognostic assessment of CIDP. This study further strengthened evidence in relation to the efficacy of SCIg maintenance therapy in CIDP (Contribution 6)" [@wangAdvancesNeuroinflammation2024]

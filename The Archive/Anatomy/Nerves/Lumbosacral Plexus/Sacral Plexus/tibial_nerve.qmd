@@ -35,7 +35,7 @@ The [tibial nerve]({{< var ref-tibial-nerve.path >}}) enters the lower leg then 
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -106,6 +106,17 @@ else:
 - Medial sural cutaneous n. @gilroyAtlasAnatomy2020
 - Medial and lateral calcaneal brs. @gilroyAtlasAnatomy2020 
 - Lateral dorsal cutaneous n. @gilroyAtlasAnatomy2020
+
+# Plantar reflex {#plantar-reflex}
+
+The *tibial n.* serves as the afferent aspect in the plantar reflex loop.
+
+Plantar reflex is a superficial reflex where stroking of the lateral sole of the calcaneus to the base of 5th metatarsal results in toe plantarflexion.
+
+An **abnormal** plantar reflex refers to when you stroke the foot and the 1st toe dorsiflexes while toes 2-5 abduct.
+This abnormal plantar reflex is known as a positive "Babinski sign" and is often observed in patients with corticospinal/UMN lesions.
+
+
 
 # Dysfunction
 

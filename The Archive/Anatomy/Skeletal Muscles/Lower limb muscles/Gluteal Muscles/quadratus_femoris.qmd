@@ -1,5 +1,5 @@
 ---
-title: Quadratus Femoris Muscle
+title: Quadratus Femoris
 ---
 
 ![Hip and Thigh Muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg){#fig-openstax-fig11.29}
@@ -23,7 +23,7 @@ title: Quadratus Femoris Muscle
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -72,7 +72,7 @@ The QF may extend or flex the hip depending on its position @jonesProjectFoundat
 :::
 
 
-# Palpation
+# Palpation {#palpation}
 
 1. Position the patient in prone @bielTrailGuideBody2019.
 1. locate: @bielTrailGuideBody2019.

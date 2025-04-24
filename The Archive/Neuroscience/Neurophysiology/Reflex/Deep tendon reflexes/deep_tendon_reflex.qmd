@@ -1,0 +1,47 @@
+---
+title: Deep tendon reflexes
+---
+
+::: {#tbl-dtr-scale}
+
+<table class="basic-table">
+  <thead>
+    <tr>
+      <th>Grade</th>
+      <th>Description</th>
+      <th>Interpretation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0</td>
+      <td>No response</td>
+      <td>Always abnormal</td>
+    </tr>
+    <tr>
+      <td>1+</td>
+      <td>Slight reflex, but depressed</td>
+      <td>Low normal</td>
+    </tr>
+    <tr>
+      <td>2+</td>
+      <td>Normal, typical reflex</td>
+      <td>Normal</td>
+    </tr>
+    <tr>
+      <td>3+</td>
+      <td>Brisk reflex</td>
+      <td>Possible, but not necessarily abnormal</td>
+    </tr>
+    <tr>
+      <td>4+</td>
+      <td>Very brisk <br> Clonus</td>
+      <td>Abnormal</td>
+    </tr>
+  </tbody>
+</table>
+
+
+Deep tendon reflex grading
+
+:::

@@ -44,6 +44,11 @@ Since the SCJ is a saddle joint, both the distal and proximal joint surfaces hav
 - 6&deg; upward slope
 - Posterior to the frontal plane 20 deg
 
+# Capsule
+
+The capsular pattern of the SCJ is the same as the ACJ [@duttonDuttonOrthopaedicExamination2020].
+There is no <i>true</i> capsular pattern of the SCJ, but a capsular dysfunction could present as decreased horizontal adduction or decreed end-range of motion in all movements [@duttonDuttonOrthopaedicExamination2020].
+
 # Kinematics
 
 
@@ -56,6 +61,14 @@ The sternoclavicular joint has 3 degrees of freedom:
 These movements combine to place the scapula in a position to optimally accept the head of the humerus @neumannKinesiologyMusculoskeletalSystem2017.
 As a result, all of the functional movements at the [glenohumeral joint]({{< var ref-glenohumeral-joint.path >}}) involve SCJ movement.
 
+The SCJ is a *saddle joint*, meaning that its convex-concave surfaces are contingent on which plane of motion you are observing:
+
+- In the frontal plane (elevation and depression) there is a **convex clavicle** moving on a **concave sternum**.
+    - **Elevation**: Superior roll, inferior slide of the clavicle *on* the sternum
+    - **Depression**: Inferior roll, superior slide of clavicle *on* sternum
+- During protraction and retraction the SCJ consists of a **concave clavicle** moving on a **convex sternum**
+    - **Protraction**: Anterior roll + Anterior glide of clavicle on sternum
+    - **Retraction**: Posterior roll + posterior slide of clavicle on sternum
 
 
 ## Elevation {#elevation}
@@ -172,7 +185,7 @@ Tissues that stabilize the SCJ:
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")

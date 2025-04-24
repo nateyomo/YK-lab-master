@@ -30,7 +30,7 @@ Gluteus maximus Biceps femoris (long head) Semitendinosus Semimembranosus Adduct
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -72,7 +72,7 @@ The hip adductors, except for pectineus can perform hip extension when the hip i
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")

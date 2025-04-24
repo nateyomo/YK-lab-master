@@ -15,6 +15,13 @@ C6-T1 @gilroyAtlasAnatomy2020
 
 # Motor Branches
 
+Direct Muscular branches of Median N. (@tbl-median-nerve-oian)
+    
+- [Pronator Teres]({{< var ref-pronator-teres.path >}})
+- [Flexor Carpi Radialis]({{< var ref-flexor-carpi-radialis.path >}})
+- [Palmaris Longus]({{< var ref-palmaris-longus.path >}})
+- [Flexor Digitorum Superficialis]({{< var ref-flexor-digitorum-superficialis.path >}})
+
 ```{python tbl-median-nerve-oian}
 #| label: tbl-median-nerve-oian
 #| warning: false
@@ -25,7 +32,7 @@ C6-T1 @gilroyAtlasAnatomy2020
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -52,39 +59,57 @@ else:
 
 ```
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Pronator Teres]({{< var ref-pronator-teres.path >}}) | {{< var ref-pronator-teres.origin >}} | {{< var ref-pronator-teres.insertion >}} | {{< var ref-pronator-teres.nerve >}} | {{< var ref-pronator-teres.action >}} |
-| [Flexor Carpi Radialis]({{< var ref-flexor-carpi-radialis.path >}}) | {{< var ref-flexor-carpi-radialis.origin >}} | {{< var ref-flexor-carpi-radialis.insertion >}} | {{< var ref-flexor-carpi-radialis.nerve >}} | {{< var ref-flexor-carpi-radialis.action >}} |
-| [Palmaris Longus]({{< var ref-palmaris-longus.path >}}) | {{< var ref-palmaris-longus.origin >}} | {{< var ref-palmaris-longus.insertion >}} | {{< var ref-palmaris-longus.nerve >}} | {{< var ref-palmaris-longus.action >}} |
-| [Flexor Digitorum Superficialis]({{< var ref-flexor-digitorum-superficialis.path >}}) | {{< var ref-flexor-digitorum-superficialis.origin >}} | {{< var ref-flexor-digitorum-superficialis.insertion >}} | {{< var ref-flexor-digitorum-superficialis.nerve >}} | {{< var ref-flexor-digitorum-superficialis.action >}} |
-:Direct Muscular branches of Median N. {.striped .hover}
 
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Flexor Digitorum Profundus]({{< var ref-flexor-digitorum-profundus.path >}}) | {{< var ref-flexor-digitorum-profundus.origin >}} | {{< var ref-flexor-digitorum-profundus.insertion >}} | {{< var ref-flexor-digitorum-profundus.nerve >}} | {{< var ref-flexor-digitorum-profundus.action >}} |
-| [Flexor Pollicis Longus]({{< var ref-flexor-pollicis-longus.path >}}) | {{< var ref-flexor-pollicis-longus.origin >}} | {{< var ref-flexor-pollicis-longus.insertion >}} | {{< var ref-flexor-pollicis-longus.nerve >}} | {{< var ref-flexor-pollicis-longus.action >}} |
-| [Pronator Quadratus]({{< var ref-pronator-quadratus.path >}}) | {{< var ref-pronator-quadratus.origin >}} | {{< var ref-pronator-quadratus.insertion >}} | {{< var ref-pronator-quadratus.nerve >}} | {{< var ref-pronator-quadratus.action >}} |
-: Indirect Muscular branches of Median N. (via anterior interosseous n.) {.striped .hover}
 
 
-Recurrent br. @gilroyAtlasAnatomy2020
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Opponens Pollicis]({{< var ref-opponens-pollicis.path >}}) | {{< var ref-opponens-pollicis.origin >}} | {{< var ref-opponens-pollicis.insertion >}} | {{< var ref-opponens-pollicis.nerve >}} | {{< var ref-opponens-pollicis.action >}} |
-| [Abductor Pollicis Brevis]({{< var ref-abductor-pollicis-brevis.path >}}) | {{< var ref-abductor-pollicis-brevis.origin >}} | {{< var ref-abductor-pollicis-brevis.insertion >}} | {{< var ref-abductor-pollicis-brevis.nerve >}} | {{< var ref-abductor-pollicis-brevis.action >}} |
-| [Flexor Pollicis Brevis]({{< var ref-flexor-pollicis-brevis.path >}}) | {{< var ref-flexor-pollicis-brevis.origin >}} | {{< var ref-flexor-pollicis-brevis.insertion >}} | {{< var ref-flexor-pollicis-brevis.nerve >}} | {{< var ref-flexor-pollicis-brevis.action >}} |
-:Indirect branches of Median N. (via recurrent br.) {.striped .hover}
+```{python tbl-aio-nerve-oian}
+#| label: tbl-aio-nerve-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Indirect Median nerve innervations via Anterior Interosseous Nerve"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'innervation_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['anterior_interosseous_nerve']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
 
 
-Indirect Muscular brs. via common palmar digital nn. @gilroyAtlasAnatomy2020
+- Recurrent br
+    - [Opponens Pollicis]({{< var ref-opponens-pollicis.path >}})
+    - [Abductor Pollicis Brevis]({{< var ref-abductor-pollicis-brevis.path >}})
+    - [Flexor Pollicis Brevis]({{< var ref-flexor-pollicis-brevis.path >}})
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Lumbricals (Hand)]({{< var ref-lumbricals-hand.path >}}) | {{< var ref-lumbricals-hand.origin >}} | {{< var ref-lumbricals-hand.insertion >}} | {{< var ref-lumbricals-hand.nerve >}} | {{< var ref-lumbricals-hand.action >}} |
-:Indirect branches of Median N. (common palmar digital nn.) {.striped .hover}
+
+- Indirect Muscular brs. via common palmar digital nn. @gilroyAtlasAnatomy2020
+    - [Lumbricals 1 & 2 (Hand)]({{< var ref-lumbricals-hand.path >}})
 
 
 # Sensory Branches
@@ -155,17 +180,31 @@ Anterior Interosseous Syndrome: Entrapment after the anterior interosseous nerve
 - Entrapment within carpal tunnel
 - **Very common**
 
-### Clinical Presentation
+<h1 id="palsy">
+    Palsy
+</h1>
+
+
+
+
+<h2 id="palsy-presentation">
+    Clinical Presentation
+</h2>
 
 - Sensory loss over the palmar surface of the hand in a median nerve distribution
 - Can have motor weakness of thenar muscles and 1⁄2 lumbricals
 
-### Evaluation
+<h2 id="palsy-examination">
+    Evaluation
+</h2>
+
 
 - Tinel’s at carpal tunnel
 
 
-# Median Nerve Tensioning {#tension}
+<h1 id="tension">
+    Median Nerve Tensioning
+</h1>
 
 - ULTT1
 - ULTT2a
@@ -178,7 +217,9 @@ Anterior Interosseous Syndrome: Entrapment after the anterior interosseous nerve
 - Use your other hand to pull the patient's shoulder into **depression**.
 
 
-# Entrapment {#entrapment}
+<h1 id="entrapment">
+    Entrapment
+</h1>
 
 ::: {.callout title="Reading list"}
 

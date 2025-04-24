@@ -1,0 +1,17 @@
+---
+title: Glucocorticoids
+---
+
+
+
+<ul>
+    <li>[Prednisolone]({{< var ref-prednisolone.path >}})</li>
+    <li>[Prednisone]({{< var ref-prednisone.path >}})</li>
+    <li>[Dexamethasone]({{< var ref-dexamethasone.path >}})</li>
+</ul>
+
+
+# Negative Feedback of Glucocorticoids
+
+"Glucocorticoid feedback of the HPA axis occurs at both the hypothalamus and the pituitary, and the effects are both rapid (seconds to minutes) and delayed (requiring hours and involving changes in gene transcription) (Keller-Wood, 2015). Glucocorticoids inhibit hypothalamic CRH secretion via direct effects on hypothalamic CRH neurons by decreasing CRH mRNA levels and CRH release. Indirect effects of cortisol on hypothalamic CRH secretion are mediated by both the glucocorticoid receptor (GR) and mineralocorticoid receptor (MR) acting on separate CRH neurons in the hippocampus. In the pituitary, glucocorticoids inhibit ACTH secretion through GR by inhibiting corticotroph responsiveness to CRH (rapid response) as well as suppressing POMC expression (delayed response). " [@GoodmanGilmanPharmacological2023]
+"The involvement of MR in cortisol feedback mechanisms in the CNS is based on the ability of MR to bind and respond to cortisol in cells lacking 11β-HSD2. Because of the higher intrinsic affinity of MR (relative to GR) for cortisol, the major CNS receptor species occupied during periods of low cortisol levels is MR. At higher blood cortisol levels, MR becomes saturated, and GR occupancy increases. Both MR and GR control the basal activity of the HPA axis, whereas feedback inhibition by glucocorticoids predominately occurs via GR." [@GoodmanGilmanPharmacological2023]

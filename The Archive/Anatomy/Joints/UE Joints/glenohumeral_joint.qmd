@@ -153,6 +153,7 @@ The coracoacromial ligament the labrum serve to functionally enlarges the GHJ so
 
 # Capsule {#capsule}
 
+The capsular pattern of restriction for the GHJ is ER&gt;abduction&gt;IR In a 3:2:1 ratio [@duttonDuttonOrthopaedicExamination2020].
 
 ## Anatomy
 
@@ -217,6 +218,18 @@ The coracoacromial ligament the labrum serve to functionally enlarges the GHJ so
 
 ## External Rotation
 
+
+# Capsular pattern {#capsular-pattern}
+
+Most/first to least/last limited
+
+1. ER
+1. Abduction
+1. IR
+
+::: {.callout-note}
+Arthrokinematically, *ER* should have the same kinematics as *horizontal abduction* and *extension* so i am not sure why it would be the most limited compared to the other two.
+:::
 
 # Examination
 

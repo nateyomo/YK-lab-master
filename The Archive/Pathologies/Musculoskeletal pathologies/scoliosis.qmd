@@ -4,6 +4,185 @@ title: Scoliosis
 
 ::: {.callout title="Reading list"}
 
-- Ch23 scoliosis @goodmanGoodmanFullerPathology2020
+- To do
+    - Ch23 scoliosis @goodmanGoodmanFullerPathology2020
+- In progress
+    - Dutton
+        - Finished p1461 interventions
+- Finished
+    - Grieves @fallaGrieveModernMusculoskeletal2015
 
 :::
+
+Scoliosis is defined as abnormal curvature of the spine in 3 planes [@schreiberSchrothPhysiotherapeuticScoliosisSpecific2023].
+This results in changes in the trunk and intervertebral discs which produce long term structural changes in the vertebrae [@schreiberSchrothPhysiotherapeuticScoliosisSpecific2023].
+
+
+
+Scoliosis will consist of a *Convex* and *concave* aspect.
+
+
+
+
+Scoliosis consists of a progressive disturbance of the intercalated series of spinal segments that produces a 3D deformity consisting of lateral curvature (sidebend) with associated rotation @duttonDuttonOrthopaedicExamination2020.
+
+
+# Prognosis
+
+- The younger the patient, the greater the risk of progression @duttonDuttonOrthopaedicExamination2020
+- *Double curve* patterns have a greater risk of progressiont han *single curves* @duttonDuttonOrthopaedicExamination2020.
+- Curves with *greater magnitude* have greater risk of progression @duttonDuttonOrthopaedicExamination2020
+- Females<sup>&female;</sup> have a 10x greater risk of progression than males<sup>&male:</sup> with comporable curvature @duttonDuttonOrthopaedicExamination2020.
+- Development of curves before *menarche* increases risk of progresion @duttonDuttonOrthopaedicExamination2020.
+
+
+# Describing Scoliosis
+
+Scoliosis is described based on the **Location** of the curve(s) @duttonDuttonOrthopaedicExamination2020.
+In addition, the **direction** of the convexity and concavity towards the left or right should be detailed @duttonDuttonOrthopaedicExamination2020.
+
+::: {.callout-note}
+If there is a *double curve pattern* then both curves should be described @duttonDuttonOrthopaedicExamination2020.
+:::
+
+
+# Biomechanical changes
+
+
+- Convex will have
+    - Elongated back extensors
+    - Weak back extensors
+    - Rotation of vertebral body *towards* convexity @duttonDuttonOrthopaedicExamination2020
+        - Spinous processes move *away* from convexity @duttonDuttonOrthopaedicExamination2020
+        - As vertebra rotate towards the convexity, this brings the ribs *posteriorly* on the convex side resulting in a "rib hump" @duttonDuttonOrthopaedicExamination2020.
+    - Ribs are widely spaced @duttonDuttonOrthopaedicExamination2020
+
+
+- Concave
+    - Shortened back extensors
+    - Tight back extensors
+    - rotation of vertebral body *away* concavity @duttonDuttonOrthopaedicExamination2020
+        - Spinous processes move *towards* concavity @duttonDuttonOrthopaedicExamination2020
+        - As vertebra rotate *away* from the concavity, this brings the ribs *anteriorly* on the concave side @duttonDuttonOrthopaedicExamination2020
+    - Ribs are *close* together @duttonDuttonOrthopaedicExamination2020
+
+
+# Non-Structural Scoliosis
+
+"Nonstructural scoliosis is reversible and can be changed with forward or side bending and with positional changes, such as lying supine, realignment of the pelvis by correction of a leg-length discrepancy, or with muscle contractions. It is also called functional or postural scoliosis." [@kisnerTherapeuticExerciseFoundations2018]. 
+
+## Potential Impairments
+
+<ul>
+    <li>Hypomobility in joints, muscles, and fascia on the i{concave side} [@kisnerTherapeuticExerciseFoundations2018]</li>
+    <li>Dysfunctional muscle performance due to excess stretch and weakness in the musculature on the convex side [@kisnerTherapeuticExerciseFoundations2018]</li>
+    <li>If one hip is adducted, the ipsilateral adductors are strong and have decreased flexibility and the ipsilateral abductors will be lengthened and weak [@kisnerTherapeuticExerciseFoundations2018]</li>
+    <li>If on hip is adducted, the contralateral side will have lengthened and weak adductors and short and tight abductors [@kisnerTherapeuticExerciseFoundations2018].</li>
+    <li>As scoliosis progresses, <i>rib expansion</i> decreases, resulting in cardiopulmonary impairments and difficulty with breathing [@kisnerTherapeuticExerciseFoundations2018]</li>
+</ul>
+
+ 
+
+## Potential Sources of Symptoms  
+
+<ul>
+    <li>Muscle fatigue on convex side</li>
+    <li>Ligamentous strain on convex side</li>
+    <li>Nerve root irritation on concave side [@kisnerTherapeuticExerciseFoundations2018] due to closing of intervertebral foramen</li>
+    <li>Joint irritation on concave side due to joint closing [@kisnerTherapeuticExerciseFoundations2018]</li>
+</ul>
+
+## Common Causes
+
+Causes of <i>structural scoliosis</i>:
+<ul>
+    <li>Neuromuscular disorders (CP, SCI, progressive neurological diseases, progressive muscular diseases)</li>
+    <li>Osteopathic disorders (e.g. hemivertebra, osteomalacia, Rickets, Fractures) [@kisnerTherapeuticExerciseFoundations2018]</li>
+    <li>Idiopathic</li>
+</ul>
+
+Causes of <i>Nonstructural Scoliosis</i>:
+
+<ul>
+    <li>Structural or Fucntional Leg Length Discrepancy [@kisnerTherapeuticExerciseFoundations2018]<li>
+    <li>Muscle guarding or spasm from back or neck pain [@kisnerTherapeuticExerciseFoundations2018]</li>
+    <li>Habitual or Asymmetrical postures [@kisnerTherapeuticExerciseFoundations2018]</li>
+    <li></li>
+    <li></li>
+</ul>
+
+# Rehab Goals
+
+- **Facilitate correct postural alignment**: Use asymmetrical postural habits to prevent further development
+- **Facilitate and maintain respiration**: chest mobility @duttonDuttonOrthopaedicExamination2020
+-  Improve spine mobility
+- Reduce back pain: improve spine mobility and quality of movement @duttonDuttonOrthopaedicExamination2020 
+- Functional training of pre-bracing skills
+- **Maintain muscle strength**: Especially in the lengthened/weakened abdominals @duttonDuttonOrthopaedicExamination2020
+- **Regain length/strength balance muscle relationships**: in spine and extremities @duttonDuttonOrthopaedicExamination2020
+
+## Length-Strength Relationship
+
+::: {.callout}
+As a general rule, it is best to **strengthen convex muscles** and to **stretch concave muscles** @duttonDuttonOrthopaedicExamination2020.
+:::
+
+# Therex {#therex}
+
+Asymmetrical exercises should be used to alter the body's alignment and return to symmetry @duttonDuttonOrthopaedicExamination2020.
+
+## Example
+
+- Example: R thoracic curve, L lumbar curve
+    - Thoracic spine has convexity towards the *right*
+        - Thoracic rotation *towards* convexity (right)
+    - Lumbar spine has convexity towards the *left*
+        - Lumbar rotation *towards* convexity (left)
+    - Expected findings: @duttonDuttonOrthopaedicExamination2020
+        - Weak R Iliopsoas
+        - Weak R external oblique
+    - Asymmetrical exercises
+        - Weak R external oblique treated with **left ue diagonal reach** resulting in R thoracic sidebend @duttonDuttonOrthopaedicExamination2020
+        - **Resisted Seated R hip flexion** to strengthen R iliopsoas @duttonDuttonOrthopaedicExamination2020
+    - Functional exercises
+        - *Superman with convex sidebend* where the patient is prone with arms overhead while deviating thorax *away* from concave side @duttonDuttonOrthopaedicExamination2020
+        - Supine + convex overhead abduction reach + concave arm extension/adduction to facilitate sidebend towards convexity
+        - Child's pose + sidebend towards convex side @duttonDuttonOrthopaedicExamination2020
+        - Sidebending off edge of treatment table @duttonDuttonOrthopaedicExamination2020
+        - Sidebending over stability ball towards convexity @duttonDuttonOrthopaedicExamination2020
+
+
+
+# Schroth Method {#schroth-method}
+
+
+# Plan of Care
+
+## Phase 1: Position and gravity assisted
+
+<il>
+    <li>Sidelying on the convex side over a pillow to facilitate sidebending <i>towards</i> the convex side</li>
+    <li>While in the sidelying position, perform lateral costal breathing to improve diaphragmatic breathing and rib expansion on the <i>concave</i> side</li>
+    <li></li>
+</il>
+
+## Phase 2: AROM
+
+Asymmetrical thoracic rotation
+Asymmetrical scapulothoracic retraction/protraction
+
+You will want to work on ipsilateral rotation and scapular retraction on the <bold>concave side</bold>
+
+<ul>
+    <li>Horizontal cable pull through on concave side</li>
+</ul>
+
+
+Ipsilateral scapular protraction combined with contralateral trunk rotation on the <bold>convex side</bold> to return to realignment 
+
+<ul>
+    <li>Cable punch on convex side</li>
+</ul>
+
+
+## Phase 3: 

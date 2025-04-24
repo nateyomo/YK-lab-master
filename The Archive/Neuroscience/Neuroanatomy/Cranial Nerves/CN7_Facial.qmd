@@ -10,6 +10,9 @@ to read
 
 ![Path of the facial and intermediate nerves @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image788 Plan of the facial and intermediate nerves and their communication with other nerves.gif)
 
+![Facial Nerve @boundlessBoundlessAnatomyPhysiology](/The Archive/Images/Boundless Anatomy and Physiology images/fig73.7 The facial nerve- Illustration of the facial nerve and its branches.svg){#fig-boundless-fig73.7}
+
+
 
 ![The path and connections of CN VII Facial nerve in the temporal bone @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image789 The course and connections of the facial nerve in the temporal bone.gif)
 
@@ -52,6 +55,8 @@ Facial CN VII lesions vs UMN lesions:
 
 
 # Palsy {#palsy}
+
+- Bell's Palsy
 
 ## Causes
 

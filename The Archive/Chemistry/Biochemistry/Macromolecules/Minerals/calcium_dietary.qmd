@@ -1,0 +1,10 @@
+---
+title: Calcium (Ca<sup>2+</sup>)
+---
+
+
+# Homeostasis Imbalance {#homeostasis-imbalance}
+
+A dysfunction in Ca<sup>2+</sup> homeostasis can be caused by neuroinflammation, specifically reactive astrocytes [@wangAdvancesNeuroinflammation2024]. 
+
+Over time, this can lead to the development of [amyotrophic lateral sclerosis]({{< var ref-amyotrophic-lateral-sclerosis.path >}}) [@wangAdvancesNeuroinflammation2024]. 

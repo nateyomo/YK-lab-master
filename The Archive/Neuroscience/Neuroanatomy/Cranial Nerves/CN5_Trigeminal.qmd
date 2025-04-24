@@ -8,7 +8,9 @@ to read
 
 -->
 
-![Trigeminal Nerve Sensory and Motor pathways (from Blumenfeld figure 12.7 @blumenfeldNeuroanatomyClinicalCases2022)](/The Archive/Neuroscience/Neuroanatomy/Cranial Nerves/images/fig12.7 Trigeminal Nerve blumenfeld2022.png)
+![Schematic of the trigeminal nerve and the structures it innervates @boundlessBoundlessAnatomyPhysiology](/The Archive/Images/Boundless Anatomy and Physiology images/fig73.5 boundless Trigeminal nerve- Schematic illustration of the trigeminal nerve (labeled Sensory root above) and the structures it innervates in the face and mouth.png){#fig-boundless-fig73.5}
+
+![@boundlessBoundlessAnatomyPhysiology](/The Archive/Images/Boundless Anatomy and Physiology images/fig73.6 boundless Areas of the face innervated by the trigeminal nerve.svg){#fig-boundless-fig73.6}
 
 ![Nerves of the Orbit](/The Archive/Images/Gray anatomy 1918 images/Neurology/image776 Nerves of the orbit. Seen from above.gif)
 
@@ -237,6 +239,11 @@ Skin of face --> Receptor --> Crude touch / Pain / Temperature --> DIVISION --> 
 | Dorsal horn | Crude touch; Pain; Temperature | Spinothalamic Tract | VPL |
 
 : Analagous Trigeminal and Spinal Somatosensory Systems {.striped .hover}
+
+# Trigeminal Neuralgia
+
+Tic Doloureux
+
 
 
 # Testing

@@ -69,6 +69,12 @@ The **Lower segment** refers to the transition between the [last cervical verteb
 | Cervical total | &deg; | &deg; | 45&deg; | 80-90&deg; |
 : Range of motion of craniocervical joints @jonesProjectFoundations2025 {.striped}
 
+# Capsular pattern
+
+In the cervical spine, when there is a capsular restriction here is the pattern of joint limitation:
+
+1. Sidebend and/or Rotation limited most/first
+1. Extension
 
 # Muscles
 
@@ -83,7 +89,7 @@ The **Lower segment** refers to the transition between the [last cervical verteb
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")

@@ -13,24 +13,10 @@ subtitle: A Musculoskeletal Overview
 ![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}
 :::
 
-:::{layout-ncol="3"}
-![Muscles of the anterior leg @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image437 Muscles of the front of the leg.gif)
 
 
-![Superficial muscles of the posterior leg @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif)
-
-![Deep muscles of the posterior leg @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image439 Muscles of the back of the leg. Deep layer.gif)
-:::
 
 
-:::{layout-ncol="3"}
-
-![Anterior knee joint (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image345 Right knee-joint. Anterior view.gif)
-
-![Posterior knee joint (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image346 Right knee-joint. Posterior view.gif)
-
-![Anterior knee joint ligaments (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image347 Right knee-joint, from the front, showing interior ligaments.gif)
-:::
 
 
 ::: {.callout title="Reading list"}
@@ -83,6 +69,15 @@ This AOR passes through the femoral condyles.
 - "Genicular. The descending genicular artery arises from the femoral artery, just before it passes through the adductor hiatus and immediately divides into the saphenous branch of descending genicular artery and the articular branches of descending genicular artery. The superior medial genicular artery and the superior lateral genicular artery both arise from the popliteal artery. The middle genicular artery is a small branch of the popliteal artery that originates inferior or distal to both of the superior genicular arteries. Arising from the middle genicular artery are the inferior medial and inferior lateral genicular arteries" @duttonDuttonOrthopaedicExamination2020 
 
 # Innervation {#innervation}
+
+Sensory innervation of the knee joint is primarily supplied via [L3]({{< var ref-nerve-root.l3 >}}), [4]({{< var ref-nerve-root.l4 >}}), [5]({{< var ref-nerve-root.l5 >}}) nerve roots @neumannKinesiologyMusculoskeletalSystem2017.
+
+The posterior tibial nerve branches from the *tibial division* of the sciatic n. and transmits afferent sensory information from the posterior capsule, associated ligaments, and the internal structures of the knee up to the *infrapatellar fat pad* @neumannKinesiologyMusculoskeletalSystem2017.
+
+The [obturator nerve]({{< var ref-obturator-nerve.path >}}) transmits afferent sensory information from the medial knee and the posterior and posteromedial capsule @neumannKinesiologyMusculoskeletalSystem2017.
+
+The [femoral n.]({{< var ref-femoral-nerve.path >}}) transmits afferent sensory information from the anteromedial and anterolateral capsule @neumannKinesiologyMusculoskeletalSystem2017.
+
 
 "The knee joint is innervated by the posterior articular branch of the posterior tibial nerve, which is formed from all five anterior divisions (L4, L5, and S1–S3) of the sacral plexus (see below), and the terminal branches of the obturator and femoral nerves.23 The course and distribution of the femoral nerve are described in Chapter 3. The lateral portion of the capsule is innervated by the recurrent peroneal branch of the common fibular (peroneal) nerve, which is formed by the upper four posterior divisions (L4, L5, and S1, S2) of the sacral plexus (see below). The saphenous nerve is the largest cutaneous branch of the femoral nerve (L2–L4). It leaves the subsartorial canal approximately 8–10 cm above the medial condyle of the knee and gives off branches to the medial aspect of the knee. Entrapment of the saphenous nerve during its course here can occur because of direct trauma, genu valgus, or knee instability, resulting in saphenous neuritis. The sciatic nerve (see Chapter 3) provides motor branches to the hamstrings and all muscles below the knee.33 It also provides the sensory innervation to the posterior thigh and entire leg and foot below the knee (except the medial aspect, which is innervated by the saphenous nerve).33" @duttonDuttonOrthopaedicExamination2020 
 
@@ -162,6 +157,15 @@ The [PCL]({{< var ref-knee-posterior-cruciate-ligament.path >}}) runs against th
 - Posterior meniscofemoral ligament
 
 :::
+:::
+
+:::{layout-ncol="3"}
+
+![Anterior knee joint (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image345 Right knee-joint. Anterior view.gif)
+
+![Posterior knee joint (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image346 Right knee-joint. Posterior view.gif)
+
+![Anterior knee joint ligaments (right) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image347 Right knee-joint, from the front, showing interior ligaments.gif)
 :::
 
 
@@ -304,7 +308,7 @@ Abnormal loads distribution can result in premature degeneration.
 
 ## Varus {#varus}
 
-Varus or *genu varum* refers to a lateral deviation in the knee.
+Varus or *genu varum*, colloquially known as "bow-legged" refers to a lateral deviation in the knee.
 
 Chronic *genu varus* can result in medial tibiofemoral osteoarthritis.
 
@@ -338,6 +342,9 @@ Normal is 170-174&deg; whereas positive *genu varum* is 180-185&deg; @jonesProje
 | &lt;165&deg; | *genu valgum* |
 | 170-174&deg; | Normal |
 | &gt;180-185&deg; | *genu varum* |
+: Tibiofemoral angle Normative values {.striped}
+
+
 
 ### HKA displacement
 
@@ -347,7 +354,25 @@ The second method is to measure the knee's medial-lateral displacement from the 
 Valgus consists of femoral IR and Adduction, concomitant contralateral pelvic drop @dischiaviRethinkingDynamicKnee2019
 
 
+# Axial Torsion
+
+## Femoral Torsion
+
+
+## Knee Torsion
+
+## Tibial Torsion
+
 # Muscles
+
+:::{layout-ncol="3"}
+![Muscles of the anterior leg @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image437 Muscles of the front of the leg.gif)
+
+
+![Superficial muscles of the posterior leg @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image438 Muscles of the back of the leg. Superficial layer.gif)
+
+![Deep muscles of the posterior leg @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image439 Muscles of the back of the leg. Deep layer.gif)
+:::
 
 ## Rotator muscles
 
@@ -369,7 +394,7 @@ If this occurs, you will often see the [biceps femoris long head]({{< var ref-bi
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -416,7 +441,7 @@ The internal rotators act as "brakes" controlling the external rotation @jonesPr
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -602,6 +627,24 @@ Use ligament stress tests **sparingly** for acute injuries @jonesProjectFoundati
 ## Lateral femoral condyle MWM {#lateral-femoral-condyle-posterior-mobilization-with-movement}
 
 
+## Improving Knee Flexion
+
+When considering knee flexion ROM, I mistakenly believed that the way to improve knee flexion was to stretch the knee extensors, joint mobilizations on the tibiofemoral joint, and taking the knee to end range flexion.
+This is an oversimplification of the process that focuses on *quantity* of ROM and can even damage the knee.
+
+Forcing the knee into end range flexion through ROM exercises can result in joint and tissue damage if the knee has poor *quality* of movement.
+Forcing the knee through large ROM with poor quality can result in tissue damage, setting back your treatment by weeks while you wait for the resulting inflammatory cascade and healing process to resolve @jonesProjectFoundations2025.
+
+During my internship with Brad Jones, I learned to prioritize *quality* of knee flexion.
+
+- Release tissue adhesions of long muscles crossing the knee
+    - Sartorius
+    - gracilis
+    - Rectus femoris
+    - TFL/glute max/ IT Band
+- Reduce guarding of gastrocnemius against compression
+    - Guarding of gastrocnemius as it is compressed during knee flexion may cause co-contractions of surrounding musculature, including the knee extensors @jonesProjectFoundations2025.
+- 
 
 
 # References

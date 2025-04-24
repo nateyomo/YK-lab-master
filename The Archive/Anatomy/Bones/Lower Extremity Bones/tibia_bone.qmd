@@ -31,3 +31,13 @@ in the sagittal plane the tibia displays these features:
 
 - [Pes Anserine]({{< var ref-pes-anserine.path >}})
 
+
+# Tibial Torsion
+
+"In the adult the distal end of the tibia is twisted externally around its long axis approximately 20 or 30 degrees relative to its proximal end. This natural torsion is evident by the slight exter nally rotated position of the foot during standing. This twist of the lower leg is referred to as external (lateral) tibial torsion, based on the orientation of the bone’s distal end relative to its proximal end." @neumannKinesiologyMusculoskeletalSystem2017
+
+The tibial bone can display "torsion" which is rotation of the bone along its long-axis in the transverse plane @neumannKinesiologyMusculoskeletalSystem2017.
+
+In typical adults, the distal tibia is rotated externally/laterally by 20-30&deg; @neumannKinesiologyMusculoskeletalSystem2017.
+This is termed 20-30&deg; of external/lateral tibial torsion since it is named after where the distal tibia is relative to the proximal tibia @neumannKinesiologyMusculoskeletalSystem2017.
+This natural external tibial torsion is evident by the slight toe-out stance @neumannKinesiologyMusculoskeletalSystem2017.

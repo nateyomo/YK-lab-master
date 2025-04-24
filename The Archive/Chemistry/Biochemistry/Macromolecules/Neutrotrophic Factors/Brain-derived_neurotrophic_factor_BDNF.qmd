@@ -2,6 +2,10 @@
 title: Brain-derived neurotrophic factor (BDNF)
 ---
 
+# Mechanism
+
+![Pathways that BDNF activates @juNeuroscience](/The Archive/Images/ju_neuroscience images/Ch4 Emergent Topics in Neuroscience/Fig4.3.1 Ju Pathways that BDNF activates.png){#fig-ju-fig4.3.1}
+
 # Function
 
 ## Mechanics

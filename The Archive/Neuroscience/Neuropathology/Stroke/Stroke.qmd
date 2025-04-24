@@ -12,6 +12,10 @@ title: Stroke
 :::
 
 
+# Types of Strokes
+
+![Major types of Ischemia in strokes @juNeuroscience](/The Archive/Images/ju_neuroscience images/Ch2 Neurodegeneration/Fig2.2.1 Ju Showing the major types of ischemia (lack of blood flow) in stroke.png){#fig-ju-fig2.2.1}
+
 # Motor control
 
 Focus on "forced use" facilitation to encourage use of impaired side.

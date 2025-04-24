@@ -16,9 +16,19 @@ The temporomandibular joint (TMJ) is a loosely fitting articulation formed betwe
     - The larger superior joint cavity is between the superior surface of the disc and the segment of bone formed by the mandibular fossa and the articular eminence.
 
 # Biomechanics
-Biomechanics text: kinesiology of mm
-Opening mouth: post roll, ant slide
-Closing mouth: ant roll, post slide
+
+- **Convex**: Mandible head 
+- **Concave**: Mandibular fossa of temporal bone
+
+When the mandible moves *on* the mandibular fossa:
+
+- **Depression (Opening mouth)**: Posterior roll + Anterior slide
+    - Perform a *anterior* glide to assist with this motion
+- **Elevation (Closing mouth)**: Anterior roll + Posterior slide
+    - Perform an *posterior* glide to assist with this motion
+- **Protrusion**: Mandibular condyle and disc translate *anteriorly*
+- **Retrusion**: Mandibular condyle and disc translate *posteriorly*
+- **Lateral excursion**: In Left lateral excusrion the L condyle forms a pivot point that the R condyle rotates anteriorly & medially
 
 
 ## Osteokinematics Overview: 
@@ -117,7 +127,9 @@ An articular disc cushions the potentially large and repetitive forces inherent 
 "M echanical dysfunction of the TMJ often causes joint popping sounds, along with painful, labored, and reduced movements of the jaw. In addition, mechanical dysfunction may involve an abnormal position of the disc relative to the condyle and fossa, an impairment referred to as internal derangement of the disc.105 The derangement can be caused by pathology, trauma, or other conditions within the joint, including altered disc shape, abnormal slope of the articular eminence, overstretched capsule, or loss of elasticity within the superior retrodiscal lamina.36,56 In addition, internal derangement of the disc may be associated with hyperactivity of muscle, most notably the superior head of the lateral pterygoid. Based on the line of pull and attachments of these muscle fibers, excessive activation can pull and subsequently displace the disc in an anterior and medial direction relative to the joint.4,27,106,107 The cause of the hyperactivity in this muscle is not known for certain, but it can be associated with chronic emotional stress and parafunctional habits, such as excessive tooth grinding or clenching of the teeth.28 Once the disc is abnormally positioned, it is vulnerable to potentially large and damaging stress" @neumannKinesiologyMusculoskeletalSystem2017
 :::
 
+# Capsular pattern {#capsular-pattern}
 
+With a capsular restriction, the TMJ would have difficulty with **depression** (mouth opening).
 
 # Treatment
 

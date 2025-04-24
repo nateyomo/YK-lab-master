@@ -31,7 +31,7 @@ title: Levator Scapulae
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -95,3 +95,11 @@ The levator scapula coactivates with the scapulothoracic upward rotators to coun
 # Paralysis {#paralysis}
 
 Paralysis of the levator scapulae will result in a sagging shoulder girdle @jonesProjectFoundations2025.
+
+
+# Stretch
+
+"Nose to opposite armpit"
+
+- Contralateral rotation
+- Contralateral Sidebend

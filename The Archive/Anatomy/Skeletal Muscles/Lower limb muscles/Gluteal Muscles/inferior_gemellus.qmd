@@ -22,7 +22,7 @@ title: Inferior Gemellus Muscle
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -61,7 +61,7 @@ Joins obturator internus tendon to medial surface of greater trochanter @gilroyA
 
 # Innervation {#innervation}
 
-Nerve to quadratus femoris ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @aungAnatomicalStudyObturator2001 
+[Nerve to quadratus femoris]({{< var ref-nerve-to-quadratus-femoris.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @aungAnatomicalStudyObturator2001 
 
 
 # Action {#action}
@@ -70,10 +70,15 @@ Nerve to quadratus femoris ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var re
     - (also active in abduction, depending on the joint’s position)
 
 
+# Palpation
+
+Due to the common insertion of the <i>inferior gemellus</i>, [obturator internus]({{< var ref-obturator-internus.insertion >}}), and [superior gemellus]({{< var ref-superior-gemellus.insertion >}}) it is difficult to differentiate between these structures during palpation.
+Instead, I just palpate and treat these as a group.
+
+- Palpate the [piriformis]({{< var ref-piriformis.palpation >}}) and the [quadratus femoris]({{< var ref-quadratus-femoris.palpation >}}).
+- Palpate the space between these two muscles, and there you should feel the <i>inferior gemellus</i>, [obturator internus]({{< var ref-obturator-internus.path >}}), and [superior gemellus]({{< var ref-superior-gemellus.path >}}).
 
 # Notes
-
-
 
 “The gemellus	superior and inferior (from the Latin root geminus, meaning twins) are two, small, nearly identically sized muscles with proximal attachments on either side of the lesser sciatic notch (see Fig. 12.43). Each muscle blends in with the central tendon of the obturator internus for a common attachment to the femur. Immediately below the gemellus inferior is the quadratus	 femoris muscle. This flat muscle arises from the external side of the ischial tuberosity and inserts on the posterior side of the proximal femur. In cases of abnormal bony morphology, this muscle may become impinged between the lesser trochanter and ischium, typically during motions that involve the extremes of external rotation.212 If chronic and repetitive, this clinically termed “ischiofemoral impingement” may cause groin and buttock pain along with abnormal MR signaling from the qua­ dratus femoris muscle” @neumannKinesiologyMusculoskeletalSystem2017 
 

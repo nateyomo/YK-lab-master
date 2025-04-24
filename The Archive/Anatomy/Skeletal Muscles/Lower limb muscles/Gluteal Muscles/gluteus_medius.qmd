@@ -26,7 +26,8 @@ subtitle: The Main Hip Abductor
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
+
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -88,6 +89,17 @@ This trend continues until the hip reaches 35&deg; abduction, which is exactly p
 
 
 # Overview
+
+# Palpation {#palpation}
+
+<ol>
+    <li>Position the patient in sidelying [@bielTrailGuideBody2019]</li>
+    <li>Much of the glute medius and minimus overlap, but you can isolate the gluteus medius by palpating the most superior part of the iliac crest [@bielTrailGuideBody2019].</li>
+    <li>The glute med's proximal origin extends from the PSIS almost to the ASIS [@bielTrailGuideBody2019].</li>
+    <li>The fibers of the glute med and min are fanned across the iliac crest then converge distally at the <i>greater trochanter of the femur</i>[@bielTrailGuideBody2019].</li>
+    <li>To palpate the [gluteus minimus]({{< var ref-gluteus-minimus.palpation >}}), dive <i>deep</i> to the the gluteus medius</li>
+    <li>Having the patient actively abduct the top leg will help confirm that you are palpating the correct muscle [@bielTrailGuideBody2019].</li>
+</ol>
 
 
 # Tests & Measures

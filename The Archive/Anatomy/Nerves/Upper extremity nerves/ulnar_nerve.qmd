@@ -21,7 +21,7 @@ title: Ulnar Nerve
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -55,6 +55,8 @@ else:
 - Nyman E, Dahlin LB. The Unpredictable Ulnar Nerve-Ulnar Nerve Entrapment from Anatomical, Pathophysiological, and Biopsychosocial Aspects. Diagnostics (Basel). 2024;14(5):489. Published 2024 Feb 24. doi:10.3390/diagnostics14050489
 :::
 
+<h1 id="palsy">Palsy</h1>
+
 
 # Examination
 
@@ -77,6 +79,8 @@ Claw hand refers to a passive hand position that is commmonly observed following
 - Ulnar nerve p373 @DynamicNeurologicalStabilizationClinicalRehabilitation2014
 
 :::
+
+- Pancoast tumor
 
 # Treatment
 

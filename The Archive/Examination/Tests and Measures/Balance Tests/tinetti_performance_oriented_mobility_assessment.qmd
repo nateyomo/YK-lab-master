@@ -1,0 +1,44 @@
+---
+title: Tinetti Performance Oriented Mobility Assessment
+subtitle: Fall Risk Assessment
+keywords:
+    - POMA
+    - Tinetti
+---
+
+
+
+# Form
+
+Instructions to Examiner
+
+- Provide overview of what the assessment will consist of and tell them you’ll “talk them through it”
+- Begin with patient seated in hard, armless, stably positioned chair
+- For rising and sitting, ask patient to attempt it without using their arms/hands
+- Examiner stands near patient (few feet in front and slightly to the side; “spot” for safety at all times
+- Nudge test &rarr; patient stands with feet as close together as possible; examiner presses on sternum with palm of hand (3 trials)
+
+## Balance
+
+### 1 Sitting Balance
+
+## 2 Rising from chair
+
+### 3 Attempts to Rise
+
+### 4 Immediate standing balance
+
+### 5 Standing balance
+
+### 6 Nudge
+
+
+### 7 Nudge EC 
+
+### 8 Turning 360&deg; 
+
+### 9 Sitting Down
+
+
+## Gait
+

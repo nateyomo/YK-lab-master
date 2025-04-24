@@ -2,6 +2,9 @@
 title: Humeroulnar Joint
 ---
 
+# Capsule
+
+The a capsular restriction of the humeroulnar joint presents as a decrease in elbow flexion > elbow extension with ~4:1 ratio [@duttonDuttonOrthopaedicExamination2020].
 
 # Closed vs Open Pack
 

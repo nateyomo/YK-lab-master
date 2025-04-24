@@ -25,7 +25,7 @@ title: Piriformis Muscle
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -103,7 +103,7 @@ The [Sciatic n.]({{< var ref-sciatic-nerve.path >}}) runs superficial to all of 
 The sciatic nerve can either runs deep to the piriformis and can exit inferiorly, through the piriformis muscle belly, or superior to the piriformis.
 As a result, overactivation of the piriformis can lead to neurogenic pain and symptoms and is termed [Piriformis syndrome]({{< var ref-piriformis-syndrome.path >}})
 
-# Palpation
+# Palpation {#palpation}
 
 1. Place the patient in prone @bielTrailGuideBody2019.
 1. Palpate the: coccyx, PSIS, and greater trochanter @bielTrailGuideBody2019.

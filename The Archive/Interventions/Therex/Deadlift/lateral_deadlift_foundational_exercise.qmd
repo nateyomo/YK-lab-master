@@ -1,0 +1,39 @@
+---
+title: Lateral Deadlift
+subtitle: Foundational Exercise
+---
+
+
+The lateral deadlift is an asymmetrical version of the deadlift.
+The patient has a wider stance than a normal deadlift (shoulder width) and laterally shifts their hips over the ipsilateral leg in order to create a vertical line intersecting their ipsilateral ankle, knee, and hip.
+
+
+
+# Unstable variations
+
+The unstable variations of the lateral deadlift will accentuate ground reaction forces.
+
+::: {.callout-note title="Example"}
+
+A patient struggled with ipsilateral hip IR and adduction (trendelenberg) during the *lateral deadlift*.
+Having the patient focus on maintaining pressure through their contralateral toes helped to control the GRF at the contralateral foot, preventing contralateral hip ER which reduced ipsilateral hip IR.
+
+:::
+
+
+# Unstable fixed axis
+
+- Indoboard on cushion
+- InvertedBosu ball
+
+I consider this "convex" since the platform you are standing on will create an *inverted parabola* in the frontal plane.
+When you load ipsilateral side, the ipsilateral side drops and the contralateral side rises.
+
+
+# Unstable rolling axis
+
+- Indoboard on roller or ball
+
+The unstable with momentum variation allows the axis to move along the underside of the indoboard.
+As it rolls the platform will follow a parabolic path in order to maintain balance.
+

@@ -1,0 +1,89 @@
+---
+title: Pain assessment and documentation
+---
+
+
+
+
+# Characteristics of pain
+
+<ul>
+    <li>Location [@heickGoodmanSnyderDifferential2023]</li>
+    <li>Description of sensation</li>
+    <li>Intensity [@heickGoodmanSnyderDifferential2023]</li>
+    <li>Duration [@heickGoodmanSnyderDifferential2023]</li>
+    <li>Frequency and duration [@heickGoodmanSnyderDifferential2023]</li>
+    <li>Pattern [@heickGoodmanSnyderDifferential2023]</li>
+</ul>
+
+# Location
+
+Have the patient points to the location of pain [@heickGoodmanSnyderDifferential2023].
+
+Pain in a small localized area that does <i>not spread</i> is indicative of superficial lesion and is not severe [@heickGoodmanSnyderDifferential2023].
+
+Pain that in a small area that spreads is likely to be diffuse, segmental, or referred generally originating from a visceral or deep somatic structure [@heickGoodmanSnyderDifferential2023]. 
+
+# Description
+
+
+
+
+- Knifelike pain: potentially a systematic origin [@heickGoodmanSnyderDifferential2023]. 
+- Dull, somatic pain that is "aching" should be differentiated from aching pain from a muscular lesion by palpating the muscle where the pain is [@heickGoodmanSnyderDifferential2023].
+
+
+# Intensity
+
+Pain intensity is generally measured using a numeric or categorical scale.
+Each scale has its benefits and drawbacks but whichever scale you choose, make sure to use that same scale at follow-up [@heickGoodmanSnyderDifferential2023]. 
+
+
+- NPRS
+- Visual analog scale (VAS)
+
+
+## VAS
+The VAS consists of a horizontal bar with "No pain" on the far left and "Worst possible pain" on the right [@heickGoodmanSnyderDifferential2023].
+
+For patients who must remain supine, a vertical VAS scale is employed where "No pain" is at the bottom and "Worst possible pain" is at the top [@heickGoodmanSnyderDifferential2023]. 
+
+# Frequency of pain
+
+Frequency of pain refers to how often symptoms occur and whether the symptoms are constant or intermittent [@heickGoodmanSnyderDifferential2023].
+
+Useful follow-up questions:
+
+<ul>
+    <li>How long do symptoms last?</li>
+    <li>Do you have this pain right now?</li>
+    <li>Did you notice these symptoms this morning immediately when you woke up?</li>
+</ul>
+
+These follow-up questions are important in clarifying if the symptoms are truly contanst simply <i>consistent</i> [@heickGoodmanSnyderDifferential2023]. 
+For example, if someone always has pain during activity but rest is alleviating, this would be consistent but <i>not</i> constant [@heickGoodmanSnyderDifferential2023].
+
+
+# Duration
+
+# Pattern of pain
+
+
+| Vascular | Neurogenic | Musculuskeletal | Emotional |
+|-|-|-|-|
+| Throbbing, pounding, pulsing, beating | Sharp, crushing, pinching, burning, hot, searing, itchy, stinging, pulling, jumping, shooting, electrical, gnawing, pricking | Aching, sore, heavy, hurting, deep, cramping, dull | Tiring, miserable, vicious, agonizing, nauseating, frightful, piercing, dreadful, punishing, exhausting, killing, unbearable, annoying, cruel, sickening, torturing. |
+: Pain patterns [@heickGoodmanSnyderDifferential2023]
+
+
+Useful follow-up questions:
+
+<ul>
+    <li>Tell me about the <i>pattern</i> of your symptoms [@heickGoodmanSnyderDifferential2023].</li>
+    <li>When does the involved body part hurt? [@heickGoodmanSnyderDifferential2023].</li>
+    <li>Describe your symptoms from early morning until you fall asleep [@heickGoodmanSnyderDifferential2023].</li>
+    <li>Have you ever experienced similar symptoms before? [@heickGoodmanSnyderDifferential2023].</li>
+    <li>24 hour pain pattern</li>
+    <li>Monthly pain pattern (especially for women)</li>
+    <li></li>
+</ul>
+

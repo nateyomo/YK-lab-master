@@ -1,0 +1,43 @@
+---
+title: Superficial Reflexes
+---
+
+
+# Corneal reflex 
+
+- (CN5v1, CN7)
+- Involuntary blinking in response to corneal stimulation.
+- Afferent: Ophthalmic branch (V1) of trigeminal nerve (5th nerve) stimulated via a q-tip to the eye
+- Efferent: Facial nerve (7th nerve) (closes eyelid)
+
+# Abdominal reflex
+
+- (T7-12)
+- Contraction of superficial abdominal muscles when stroking abdomen lightly (lateral to medial).
+- Significant if asymmetric: Usually signifies a UMN lesion on the absent side.
+
+# Cremasteric reflex 
+
+- (L1, L2):
+- Contraction of cremaster muscle (that will pull up the scrotum/testis) after stroking the same side of superior/inner thigh.
+- Absent with: SCI and corticospinal lesions.
+
+# Plantar reflex 
+
+- (S1-S2, Tibial nerve):
+- The plantarflexion of toes is elicited when stroking of the lateral sole of the foot from calcaneus to base of 5th metatarsal.
+- Dorsiflexion of the great toe and fanning of the four small toes: Abnormal or "Babinski Present", which is seen with corticospinal/UMN lesions.
+
+# Anal reflex
+
+- Reflexive contraction of the external anal sphincter upon stroking the skin around the anus
+- Afferent: Pudendal nerve
+- Efferent: S2-S4
+
+# Bulbocavernosus reflex
+
+- Anal sphincter contraction in response to squeezing the glans penis or tugging on an indwelling Foley catheter.
+- Reflex mediated by S2-S4.
+- It is the first reflex to come after SCI: It is an indicator that the body is out of spinal shock.
+
+

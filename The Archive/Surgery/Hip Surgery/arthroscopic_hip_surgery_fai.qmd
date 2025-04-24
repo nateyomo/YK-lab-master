@@ -1,0 +1,163 @@
+---
+title: Arthroscopic Hip surgery for Femoroacetabular Impingement
+subtitle: Orthopedic Hip Surgery
+---
+
+
+# Specific Procedures
+
+<ul>
+    <li>Acetabuloplasty</li>
+    <li>Labral repair</li>
+    <li>Labral Debridement</li>
+    <li>Labral reconstruction</li>
+    <li>Chrondroplasty</li>
+    <li>Microfracture</li>
+    <li>Fibrin glue repair</li>
+    <li>Femoroplasty</li>
+    <li>Capsular repair</li>
+    <li>Iliopsoas release</li>
+    <li>Endoscopic Trochanteric Bursa Excision</li>
+    <li>Endoscopic Abductor Repair</li>
+</ul>
+
+
+
+# Weight bearing
+
+
+<table class="basic-table">
+<caption>General Weight Bearing time frame [@rogers-hydeSurgicalProtocolArthroscopic2020]</caption>
+<thead>
+    <tr>
+       <th>Timeframe</th>
+       <th>Weightbearing</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>0-21 days</td>
+        <td>PWB 20lb </br> <i>Step-to</i> pattern</br> <i>foot-flat gait</i></td>
+    </tr>
+    <tr>
+        <td>3-6 wk</td>
+        <td>Gradual increase weightbearing to pain-free WBAT</td>
+    </tr>
+    <tr>
+        <td>6-8 weeks</td>
+        <td>Gradually wean from crutches</br>Decrease to single crutch</br>Without device as tolerated</td>
+    </tr>
+</tbody>
+</table>
+
+
+# Range of Motion
+
+<table class="basic-table">
+    <caption>Range of motion timeframe [@rogers-hydeSurgicalProtocolArthroscopic2020]</caption>
+    <thead>
+        <tr>
+            <th>Timeframe</th>
+            <th>Flexion</th>
+            <th>Extension</th>
+            <th>Abduction</th>
+            <th>ER</th>
+            <th>IR</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>0-21 Days</th>
+            <td>0-90&deg;</td>
+            <td>0&deg;</td>
+            <td>0-30&deg;</td>
+            <td>0-30&deg;</td>
+            <td>0-30&deg;</td>
+        </tr>
+        <tr>
+            <th>3-6 Weeks</th>
+            <td rowspan="3">Pain free ROM</td>
+            <td>0-10&deg;</td>
+            <td>0-45&deg;</td>
+            <td>0-45&deg;</td>
+            <td>0-45&deg;</td>
+        </tr>
+        <tr>
+            <th>6-12 Weeks</th>
+            <td>Increase to full ROM as tolerated</td>
+            <td>Increase to full ROM as tolerated</td>
+            <td>Increase to full ROM as tolerated</td>
+            <td>Increase to full ROM as tolerated</td>
+        </tr>
+        <tr>
+            <th>12+ Weeks</th>
+            <td>Increase to full ROM as tolerated</td>
+            <td>Increase to full ROM as tolerated</td>
+            <td>Increase to full ROM as tolerated</td>
+            <td>Increase to full ROM as tolerated</td>
+        </tr>
+    </tbody>
+    <tfoot>Bracing: None</tfoot>
+</table>
+
+
+# Phase 1
+
+- Day 1-28
+- Initial physical therapy is generally scheduled ~2 weeks after surgery [@rogers-hydeSurgicalProtocolArthroscopic2020].
+
+Stage goals:
+
+- Minimize pain and inflammation [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- Protect integrity of repair [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- Avoid post-op adhesions [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- Improve pain-free AROM and PROM [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- Improve gait mechanics [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- Reduce muscle inhibition [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- Independence with HEP [@rogers-hydeSurgicalProtocolArthroscopic2020]
+
+Precautions and guidelines:
+
+- No active <i>straight leg raise (SLR)</i> throughout rehab period [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- Avoid ambulation to fatigue or pain [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- No active hip flexion from day 0-21 (self-assisted hip flexion only) [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- No grade III-IV hip mobilization for first 8 weeks [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- No long axis hip distraction for first 8 weeks for labral repair  [@rogers-hydeSurgicalProtocolArthroscopic2020] 
+- No long acis hip distraction for first 12 weeks for <i>labral reconstruction</i> [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- At all times, pain and pinching in the hip should be avoided [@rogers-hydeSurgicalProtocolArthroscopic2020]
+
+Throughout rehabilitation the preventative action should be taken to avoid:
+
+- Hip flexor tendinitis [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- Synovitis of operative joint [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- Trochanteric bursitis [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- Lower back syndrome [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- Sacroiliac pain [@rogers-hydeSurgicalProtocolArthroscopic2020]
+
+Criteria for progression to next phase:
+
+- Minimal pain with ambulation [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- Non-antalgic gait with use of crutches [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- Minimal pain at rest [@rogers-hydeSurgicalProtocolArthroscopic2020]
+- Patient able to perform exercise program without increase in baseline pain [@rogers-hydeSurgicalProtocolArthroscopic2020]
+
+
+## Treatment strategies
+
+Patient education:
+<ul>
+    <li>No crossing of legs [@rogers-hydeSurgicalProtocolArthroscopic2020]</li>
+    <li>Avoid sitting >30 min for the 1st 2 weeks, but progressively increase sitting tolerance [@rogers-hydeSurgicalProtocolArthroscopic2020].</li>
+    <li>Lie in prone for 15min 2-3 per day to prevent hip flexor contractures [@rogers-hydeSurgicalProtocolArthroscopic2020].</li>
+    <li>Consider a <i>raised toilet seat</i> to avoid excessive hip flexion [@rogers-hydeSurgicalProtocolArthroscopic2020].</li>
+</ul>
+
+Manual therapy:
+
+<ul>
+    <li>STM to quadriceps, hamstrings, TFL, glute med, ilacis, psoas major and minor, quadratus lumborum, and lumbar paraspinals [@rogers-hydeSurgicalProtocolArthroscopic2020].</li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>

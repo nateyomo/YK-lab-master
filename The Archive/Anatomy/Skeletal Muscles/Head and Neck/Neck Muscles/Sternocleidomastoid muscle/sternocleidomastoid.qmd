@@ -41,7 +41,7 @@ title: Sternocleidomastoid muscle (SCM)
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -436,6 +436,13 @@ According to Finando @finandoTriggerPointTherapy2005 Certain zones, meridians, a
 ## Bilateral {#bilateral-mmt}
 
 # Stretches
+
+::: {.callout-note title="NPTE Stretching Recommendation"}
+
+- Contralateral sidebend
+- Ipsilateral rotation
+
+:::
 
 Since the sternal and clavicular heads of the SCM can have isolated dysfunction, it is important to understand how to bias each head when stretching.
 

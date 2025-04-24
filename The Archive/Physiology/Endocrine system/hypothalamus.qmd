@@ -8,6 +8,7 @@ title: Hypothalamus
 
 :::
 
+!["The hypothalamus secretes corticotropin-releasing hormone (CRH), which directs the anterior pituitary gland to secrete adrenocorticotropic hormone (ACTH). In turn, ACTH directs the adrenal cortex to secrete glucocorticoids, such as cortisol. Glucocorticoids not only perform their respective functions throughout the body but also prevent further stimulating secretions of both the hypothalamus and the pituitary gland" @boundlessBoundlessAnatomyPhysiology](/The Archive/Images/Boundless Anatomy and Physiology images/fig1.3.1 boundless acth-negative-feedback.svg){#fig-boundless-fig1.3.1}
 
 # Nuclei
 

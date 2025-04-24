@@ -1,0 +1,19 @@
+---
+title: Sidelying Gluteal Activation Exercise
+subtitle: Foundational Exercise
+---
+
+
+This exercise is important for glute activation.
+
+
+- Start sidelying on your contralateral side with your ipsilateral side up.
+- Roll forward so you are in a plane halfway between sidelying and prone.
+- Keep the top (ipsilateral) leg straight
+- Drive the ipsilateral leg vertically towards the ceiling.
+    - Since you are between sidelying and prone, achieving purely vertical motion will require hip extension and abduction, which will optimally engage the [gluteus medius]({{< var ref-gluteus-medius.action >}}) and [minimus]({{< var ref-gluteus-minimus.action >}}).
+
+
+::: {.callout-caution}
+If the patient remains in pure sidelying, this will allow them to recruit the TFL alongside the glutes, which we are trying to avoid.
+:::

@@ -25,7 +25,7 @@ title: Obturator Internus Muscle (OI)
 from pathlib import Path
 import pandas as pd
 from pyprojroot import here
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 
 # Set the path for the script file
 script_file_path = here("scripts/process_oian_table.py")
@@ -82,6 +82,15 @@ Sacral plexus ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.
 
 “Ultrasound ­guided EMG analysis of the obturator internus and several other external rotator muscles in 10 human subjects.98 The obturator internus was usually the first muscle to become active during a gradually increasing isometric effort to abduct and externally rotate the hip.” @neumannKinesiologyMusculoskeletalSystem2017
 
+# Palpation {#palpation}
+
+Due to the common insertion of the [inferior gemellus]({{< var ref-inferior-gemellus.palpation >}}), <i>obturator internus</i>, and [superior gemellus]({{< var ref-superior-gemellus.insertion >}}) it is difficult to differentiate between these structures during palpation.
+Instead, I just palpate and treat these as a group.
+
+- Palpate the [piriformis]({{< var ref-piriformis.palpation >}}) and the [quadratus femoris]({{< var ref-quadratus-femoris.palpation >}}).
+- Palpate the space between these two muscles, and there you should feel the [inferior gemellus]({{< var ref-inferior-gemellus.palpation >}}), <i>obturator internus</i>, and [superior gemellus]({{< var ref-superior-gemellus.path >}}).
+
+
 # Dysfunction
 
 - Gemelli-obturator internus syndrome
@@ -91,6 +100,8 @@ Sacral plexus ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.
 According to Myers, there is no pain referral pattern for the obturator internus @myersClinicalCounterstrain2012.
 
 Myers does state that it is clinically correllated with pain in the coccyx and posterior thigh @myersClinicalCounterstrain2012.
+
+# Obturator Internus Syndrome {#obturator-internus-syndrome}
 
 # Stretch
 

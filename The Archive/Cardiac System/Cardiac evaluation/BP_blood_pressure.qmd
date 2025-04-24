@@ -15,6 +15,12 @@ title: Blood Pressure (BP)
   </thead>
   <tbody>
     <tr>
+      <td>Hypotension</td>
+      <td>&lt;90</td>
+      <td>OR</td>
+      <td>&lt;60</td>
+    </tr>
+    <tr>
       <td>Normal</td>
       <td>&lt;120</td>
       <td>AND</td>

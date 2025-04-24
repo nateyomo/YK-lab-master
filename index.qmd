@@ -6,6 +6,66 @@ author: []
 <!-- ![](/branding/square logo/square 3 lines full.svg){.nolightbox} -->
 ![](/branding/Yomokerst/yomokerst heavy condensed.svg){.nolightbox width="80%" fig-align="center"}
 
+<!-- <a style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
+  
+  {{< iconify clarity car-line size=5x >}}
+  <span style="display: block; max-width: 10%;">
+    <strong>Concierge Physical Therapy</strong>
+  </span>
+</a>
+
+
+
+<a style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
+  
+  {{< iconify medical-icon i-physical-therapy size=5x >}}
+  <span style="display: block; max-width: 10%;">
+    <strong>Manual Therapy</strong>
+  </span>
+</a>
+
+<a style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
+  
+  {{< iconify solar bone-bold size=5x >}}
+  <span style="display: block; max-width: 10%;">
+    <strong>Orthopedic Rehab</strong>
+  </span>
+</a>
+
+
+
+<a style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
+
+  {{< iconify healthicons neurology-24px size=5x >}}
+  <span style="display: block; max-width: 10%;">
+    <strong>Neuro Rehab</strong>
+  </span>
+</a>
+
+<a style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
+
+  {{< iconify healthicons back-pain-24px size=5x >}}
+  <span style="display: block; max-width: 10%;">
+    <strong>Chronic Pain</strong>
+  </span>
+</a>
+
+
+<a style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
+  
+  {{< iconify mdi weight-lifter size=5x >}}
+  <span style="display: block; max-width: 10%;">
+    <strong>Performance Training</strong>
+  </span>
+</a>
+ -->
+
+  
+
+
+
+
+
 <a href="/The Archive/research_and_development_index.qmd" 
    style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
   

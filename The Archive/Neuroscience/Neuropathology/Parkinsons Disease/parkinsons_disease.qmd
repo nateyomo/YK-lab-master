@@ -69,6 +69,15 @@ A Family with an autosomal dominant Parkinson’s disease allowed the discovery 
 
 - Pathogenesis of DJ-1/PARK7-Mediated Parkinson's Disease @skouPathogenesisDJ1PARK7Mediated2024
 
+# Neuroinflammation
+
+
+::: {.callout}
+
+- Purinergic signalling in neuroinflammation [@ulrichPurinergicSignalingNeurodevelopment2023].
+
+:::
+
 # Sub types
 
 ## Primary Parkinsonism (Idiopathic)

@@ -1,6 +1,10 @@
 ---
 title: Cryotherapy for Contusions
 date: 1/20/2024
+keywords:
+    - Cryotherapy
+    - Icing
+    - Cold therapy
 ---
 
 # Article

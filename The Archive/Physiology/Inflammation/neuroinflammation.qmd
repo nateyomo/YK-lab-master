@@ -2,15 +2,68 @@
 title: Neuroinflammation
 ---
 
+::: {.callout}
+
+Reading list
+
+- Advanced in neuroinflammation @wangAdvancesNeuroinflammation2024
+
+:::
 
 
-# Benefits of inflammation
+# Function of inflammation
 
 
 
+# Relation to Pathology
+
+## Alzheimer's Disease
+
+<ul>
+    <li>Weaver Donald proposed that neuroinflammation was the common denominator in unifying 30 different risk factors of [Alzheimer's Disease]({{< var ref-alzheimers-disease.risk-factor >}}) [@wangAdvancesNeuroinflammation2024].</li>
+    <li>Some claim that dysfunction of <i>neuroimmune-neuroinflammation axis</i> was resulting in 30 identified risk factors [@wangAdvancesNeuroinflammation2024].</li>
+    <li>More specifically, the activation of <i>glial cells</i> and the release of <i>pro-inflammatory proteins</i> common physiological pathways of these risk factors [@wangAdvancesNeuroinflammation2024].</li>
+</ul>
+
+## Amyotrophic lateral sclerosis {#als}
+
+<ul>
+    <li>In a rewiew by Yang et al, the authors focused on the role of <i>astrocytes</i> specifically <i>non-cell-autonomous role</i> of astrocytes [@wangAdvancesNeuroinflammation2024].</li>
+    <li>Yang concluded that strocytes play a key role in ALS development through disruption of Ca<sup>2+</sup> homeostasis, mitochondrial function, lipid metabolismn, lactate metabolism, glutamate excitotoxicity, and other pathways [@wangAdvancesNeuroinflammation2024].</li>
+    <li></li>
+</ul>
+
+Read more about [ALS here]({{< var ref-amyotrophic-lateral-sclerosis.path >}})
+
+
+## Chronic Idiopathic Demyelinating Polyneuropathy (CIDP)
+
+CIDP is an acquired immunomediate neuropathy [@wangAdvancesNeuroinflammation2024].
+
+Treatment of CIDP includes subcutaneous immunoglobulin (SCIgs) [@wangAdvancesNeuroinflammation2024].
+A recent study found that SCIgs could preserve nerve function in CIDP [@wangAdvancesNeuroinflammation2024].
+
+Read more about [CIDP here]({{< var ref-chronic-idiopathic-demyelinating-polyneuropathy.path >}})
+
+# Purinergic Signalling
+
+::: {.callout}
+
+- Purinergic signalling in neuroinflammation [@ulrichPurinergicSignalingNeurodevelopment2023].
+
+:::
 
 
 
+# Sleep
+
+::: {.callout}
+
+- 12 Sleep Immune Cross Talk and Insomnia263 [@kimNeuroinflammationGutBrainAxis2023].
+
+:::
+
+"Sleep deprivation could adversely impact immune function, cognitive memory, learning ability, etc. Studies have revealed that sleep deprivation can lead to inflammatory responses in the CNS. Li et al. investigated the protective role of dexmedetomidine, an anesthetic compound, in sleep deprivation by focusing on its possible anti-inflammatory role in the CNS. In a sleep deprivation mouse model, the authors claimed that dexmedetomidine could significantly improve anxiety-like behaviors in the sleep-deprived mice and could attenuate inflammatory responses and oxidative stress in the CNS by inhibiting the activation of the p38/MSK1/NFκB pathway (Contribution 7)." [@wangAdvancesNeuroinflammation2024].
 
 
 

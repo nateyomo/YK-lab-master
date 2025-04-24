@@ -1,0 +1,30 @@
+---
+title: Ergonomics
+---
+
+# Workstation Recommendations
+
+<ul>
+    <li>Monitor should be 18-28 inches away (arms length from screen)</li>
+    <li>Monitor screen top slightly below eye level</li>
+    <li>Elbows bent 90&deg of flexion;, wrist in neutral and free while typing</li>
+    <li>Use a mouse that contours the hand</li>
+    <li>Thighs horizontal and feet resting flat on floor</li>
+    <li>Space under the desk should be at least 30 inches wide, 19 inches deep, 25- 34 inches in height, should be 2-3 inches between the top of the thighs and desk</li>
+</ul>
+
+
+
+
+
+# Keyboard
+
+My current keyboard is the the <a href="https://www.moergo.com/">Glove80</a>
+
+<ul>
+    <li>Split keyboard</li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>

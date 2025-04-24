@@ -2,4 +2,19 @@
 title: Thyroid gland
 ---
 
+Thyroid gland produces hormones that act to control the rate at which cells burn the fuel from food.
+
+
+
+
+The anterior pituitary releases <i>thyroid stimulating hormone (TSH)</i> which stimulates the [thyroid gland]({{< var ref-thyroid-gland.path >}}) to produce and release more <i>Triiodothvronine (T3)</i> and <i>Thyroxine (T4)</i>. 
+
+
+# Dysfunction
+
+
+When dysfunctional, the thyroid gland can either be overactive or underactive.
+
+
+
 

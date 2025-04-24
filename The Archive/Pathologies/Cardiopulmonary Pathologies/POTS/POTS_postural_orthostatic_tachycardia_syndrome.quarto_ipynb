@@ -99,7 +99,7 @@
         "\n",
         "# Subtypes\n"
       ],
-      "id": "0c927e06"
+      "id": "bd9a4d95"
     },
     {
       "cell_type": "code",
@@ -427,15 +427,14 @@
         "\n",
         ":::"
       ],
-      "id": "0b8c55f9"
+      "id": "4f43d6f3"
     }
   ],
   "metadata": {
     "kernelspec": {
-      "name": "python3",
+      "display_name": "Python 3",
       "language": "python",
-      "display_name": "Python 3 (ipykernel)",
-      "path": "/Users/nathanielyomogida/miniconda3/share/jupyter/kernels/python3"
+      "name": "python3"
     }
   },
   "nbformat": 4,

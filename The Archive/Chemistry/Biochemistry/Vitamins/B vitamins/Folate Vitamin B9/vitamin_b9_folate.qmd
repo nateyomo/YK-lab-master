@@ -5,6 +5,6 @@ title: Folate (Vitamin B<sub>9<sub>)
 
 
 
-# Deficiency {#deficiency}
+<h1 id="deficiency">Deficiency</h1>
 
-A folate (B<sub>9<sub>) deficiency causes an increase in cholesterol synthesis and therefore an abnormally high total cholesterol
+A folate (B<sub>9</sub>) deficiency causes an increase in cholesterol synthesis and therefore an abnormally high total cholesterol

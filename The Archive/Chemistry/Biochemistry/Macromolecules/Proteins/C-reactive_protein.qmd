@@ -2,6 +2,12 @@
 title: C-Reactive Protein (CRP)
 ---
 
+::: {.callout}
+
+- 7 C-Reactive Protein (CRP):​ A Potent Inflammation Biomarker in Psychiatric Disorders135 @kimNeuroinflammationGutBrainAxis2023
+
+:::
+
 
 CRP was used as a measure of inflammation following ice baths, which we reviewed [here]({{< var ref-jc-2-post-exercise-cold-immersion.path >}}) in our journal club.
 

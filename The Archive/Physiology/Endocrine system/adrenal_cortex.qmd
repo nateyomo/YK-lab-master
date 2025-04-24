@@ -1,0 +1,37 @@
+---
+title: Adrenal Cortex
+---
+
+
+!["The hypothalamus secretes corticotropin-releasing hormone (CRH), which directs the anterior pituitary gland to secrete adrenocorticotropic hormone (ACTH). In turn, ACTH directs the adrenal cortex to secrete glucocorticoids, such as cortisol. Glucocorticoids not only perform their respective functions throughout the body but also prevent further stimulating secretions of both the hypothalamus and the pituitary gland" @boundlessBoundlessAnatomyPhysiology](/The Archive/Images/Boundless Anatomy and Physiology images/fig1.3.1 boundless acth-negative-feedback.svg){#fig-boundless-fig1.3.1}
+
+
+The Anterior pituitary releases ACTH which stimulates the <i>adrenal cortex</i> to release more [cortisol]({{< var ref-cortisol.path >}}) and [aldosterone]({{< var ref-aldosterone.path >}}).
+
+
+
+# Dysfunction
+
+
+When dysfunctional, the <i>adrenal cortex</i> can either be overactive or underactive.
+
+
+<table class="basic-table">
+    <caption>Addison's and Cushing's Disease DDX</caption>
+    <thead>
+        <tr>
+            <th><a href="#addisons-disease">Addison's Disease</a></th>
+            <th><a href="cushings-disease">Cushing's Disease</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+    </tbody>
+</table>
+
+# Addison's Disease {#addisons-disease}
+
+# Cushing's Disease {#cushings-disease}
+

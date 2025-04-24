@@ -3,21 +3,106 @@ title: Borg Rate of Perceived Exertion (Borg RPE)
 ---
 
 
-| Number | Level | Note |
-|-|-----|-----|
-| 6 | No exertion | 60 bpm HR |
-| 7 | | |
-| 8 | | |
-| 9 | | | 
-| 10 | | |
-| 11 | | |
-| 12 |||
-| 13 |||
-| 14 |||
-| 15 |||
-| 16 |||
-| 17 |||
-| 18 |||
-| 19 |||
-| 20 |||
-: Borg Rate of Perceived Exertion {.striped .hover}
+The Borg RPE scale ranges from 6-20 and can be used to estimate current HR: @eq-borg-hr
+
+$$
+\textrm{Estimated Current HR} = \textrm{Borg RPE} \times 10
+$$ {#eq-borg-hr}
+
+::: {#tbl-borg-rpe-scale}
+
+<table class="basic-table">
+  <thead>
+    <tr>
+      <th>Number</th>
+      <th>Level</th>
+      <th>Estimated HR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6</td>
+      <td>No exertion</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td></td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <td>7.5</td>
+      <td>Extremely light</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td></td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Very Light</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td></td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Light</td>
+      <td>110</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td></td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Somewhat Hard / Somewhat Light</td>
+      <td>130</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td></td>
+      <td>140</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Hard</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td></td>
+      <td>160</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Very Hard</td>
+      <td>170</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td></td>
+      <td>180</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Extremely Hard</td>
+      <td>190</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>Maximal Exertion</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>
+
+Borg Rate of Perceived Exertion Scale
+
+:::

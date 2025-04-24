@@ -156,6 +156,8 @@ ref-scaphoid-bone:
   path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/scaphoid_bone.html"
 ref-trapezium-bone:
   path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/trapezium_bone.html"
+ref-trapezoid-bone:
+  path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/trapezoid_bone.html"
 ref-triquetrum-bone:
   path: "/The Archive/Anatomy/Bones/Upper Extremity Bones/triquetrum_bone.html"
 ref-1st-metacarpal-bone:
@@ -851,6 +853,19 @@ ref-levatores-costarum-longi:
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/levatores_costarum.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Muscles of the back/Deep Segmental Back Muscles/levatores_costarum.html#action"
 
+### Abdominal muscles
+ref-internal-oblique:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/internal_oblique.html"
+ref-external-oblique:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/external_oblique.html"
+ref-rectus-abdominis:
+  path: "/"
+ref-transverse-abdominis:
+  path: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/transverse_abdominis.html"
+  origin: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/transverse_abdominis.html#origin"
+  insertion: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/transverse_abdominis.html#insertion"
+  innervation: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/transverse_abdominis.html#innervation"
+  action: "/The Archive/Anatomy/Skeletal Muscles/Abdominal wall/transverse_abdominis.html#action"
 
 ### Extraocular muscles
 ref-extraocular-muscles:
@@ -1560,6 +1575,7 @@ ref-gluteus-medius:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_medius.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_medius.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_medius.html#action"
+  palpation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_medius.html#palpation"
 
 ref-gluteus-minimus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_minimus.html"
@@ -1567,6 +1583,7 @@ ref-gluteus-minimus:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_minimus.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_minimus.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_minimus.html#action"
+  palpation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/gluteus_minimus.html#palpation"
 
 ref-tensor-fascia-latae:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/tensor_fascia_latae_TFL.html"
@@ -1581,6 +1598,7 @@ ref-piriformis:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis.html#action"
+  palpation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis.html#palpation"
 
 ref-obturator-internus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/obturator_internus.html"
@@ -1588,6 +1606,8 @@ ref-obturator-internus:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/obturator_internus.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/obturator_internus.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/obturator_internus.html#action"
+  palpation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/obturator_internus.html#palpation"
+  obturator-internus-syndrome: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/obturator_internus.html#obturator-internus-syndrome"
 
 ref-superior-gemellus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/superior_gemellus.html"
@@ -1595,6 +1615,7 @@ ref-superior-gemellus:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/superior_gemellus.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/superior_gemellus.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/superior_gemellus.html#action"
+  palpation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/superior_gemellus.html#palpation"
 
 ref-inferior-gemellus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/inferior_gemellus.html"
@@ -1602,6 +1623,7 @@ ref-inferior-gemellus:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/inferior_gemellus.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/inferior_gemellus.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/inferior_gemellus.html#action"
+  palpation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/inferior_gemellus.html#palpation"
 
 ref-quadratus-femoris:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris.html"
@@ -1609,6 +1631,7 @@ ref-quadratus-femoris:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris.html#action"
+  palpation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/quadratus_femoris.html#palpation"
 
 
 #### Medial Thigh Muscles
@@ -2084,6 +2107,7 @@ ref-median-nerve:
   roots: "[C6]({{< var ref-nerve-root.c6 >}}), [C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
   motor: ""
   cutaneous: ""
+  palsy: "/The Archive/Anatomy/Nerves/Upper extremity nerves/median_nerve.html#palsy"
 ref-recurrent-branch-of-median-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/median_nerve.html"
 ref-anterior-interosseous-nerve:
@@ -2111,6 +2135,7 @@ ref-ulnar-nerve:
   roots: "[C7]({{< var ref-nerve-root.c7 >}}), [C8]({{< var ref-nerve-root.c8 >}}), [T1]({{< var ref-nerve-root.t1 >}})"
   motor: ""
   cutaneous: ""
+  palsy: "/The Archive/Anatomy/Nerves/Upper extremity nerves/ulnar_nerve.html#palsy"
 ref-deep-branch-of-ulnar-nerve:
   path: "/The Archive/Anatomy/Nerves/Upper extremity nerves/ulnar_nerve.html"
 ref-upper-subscapular-nerve:
@@ -2206,6 +2231,12 @@ ref-posterior-cutaneous-nerve-of-the-thigh:
 ref-pudendal-nerve:
   path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/pudendal_nerve.html"
   roots: "[S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}), [S4]({{< var ref-nerve-root.s4 >}})"
+  motor: ""
+  cutaneous: ""
+  entrapment: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/pudendal_nerve.html#entrapment"
+ref-nerve-to-quadratus-femoris:
+  path: "/The Archive/Anatomy/Nerves/Lumbosacral Plexus/Sacral Plexus/nerve_to_quadratus_femoris.html"
+  roots: ""
   motor: ""
   cutaneous: ""
 ref-sciatic-nerve:
@@ -2475,6 +2506,9 @@ ref-zinc:
   path: "/The Archive/Chemistry/Biochemistry/Minerals/zinc_dietary.html"
 ref-magnesium:
   path: "/The Archive/Chemistry/Biochemistry/Minerals/magnesium_dietary.html"
+ref-calcium:
+  path: "/The Archive/Chemistry/Biochemistry/Macromolecules/Minerals/calcium_dietary.html"
+  homeostasis-imbalance: "/The Archive/Chemistry/Biochemistry/Macromolecules/Minerals/calcium_dietary.html#homeostasis-imbalance"
 ref-copper: 
   path: "/The Archive/Chemistry/Biochemistry/Minerals/copper_dietary.html"
   deficiency: "/The Archive/Chemistry/Biochemistry/Minerals/copper_dietary.html#deficiency"
@@ -2742,6 +2776,8 @@ ref-hip-balance-strategy:
 
 ref-mini-bestest:
   path: "/The Archive/Examination/Tests and Measures/Balance Tests/BESTest/Mini-BESTest.html"
+ref-tinetti-performance-oriented-mobility-assessment:
+  path: "/The Archive/Examination/Tests and Measures/Balance Tests/tinetti_performance_oriented_mobility_assessment.html"
 
 
 ### Gait tests
@@ -3017,7 +3053,7 @@ ref-knee-msk:
 ref-ankle-msk:
   path: "/The Archive/MSK/Regions/Lower extremity/ankle_MSK.html"
 ref-foot-msk:
-  path: "/The Archive/MSK/Regions/Lower extremity/foot.html"
+  path: "/The Archive/MSK/Regions/Lower extremity/ankle_foot_ms.html"
 ### Spine
 ref-jaw-msk:
   path: "/The Archive/MSK/Regions/Spine/jaw.html"
@@ -3027,6 +3063,9 @@ ref-lumbar-spine-msk:
   path: "/The Archive/MSK/Regions/Spine/lumbar_spine.html"
 ref-neck-msk:
   path: "/The Archive/MSK/Regions/Spine/neck_MSK.html"
+ref-low-back:
+  path: "/"
+  pain: "/The Archive/Pain_science/Pain Type/Pain by region/LBP/low_back_pain_LBP.html"
 ### Upper extremity
 ref-shoulder-msk:
   path: "/The Archive/MSK/Regions/Upper Extremity/shoulder.html"
@@ -3034,9 +3073,15 @@ ref-elbow-msk:
   path: "/The Archive/MSK/Regions/Upper Extremity/elbow.html"
 ref-wrist-msk:
   path: "/The Archive/MSK/Regions/Upper Extremity/wrist.html"
+#### Hand MSK
 ref-hand-msk:
   path: "/The Archive/MSK/Regions/Upper Extremity/hand.html"
-
+ref-proximal-transverse-arch-hand:
+  path: "/The Archive/MSK/Regions/Upper Extremity/hand.html#proximal-transverse-arch"
+ref-distal-transverse-arch-hand:
+  path: "/The Archive/MSK/Regions/Upper Extremity/hand.html#distal-transverse-arch"
+ref-longitudinal-arch-hand:
+  path: "/The Archive/MSK/Regions/Upper Extremity/hand.html#longitudinal-arch"
 # Motor Control
 ref-motor-control-index:
   path: "/The Archive/Motor Control/index_motor_control.html"
@@ -3149,6 +3194,9 @@ ref-oxidative-stress:
 ref-EAAT2-excitatory-amino-acid-transporter-2:
   path: "/The Archive/Physiology/Transporters/EAAT2_excitatory_amino_acid_transporter_2.html"
 
+# Oncology
+ref-pancoast-tumor:
+  path: "/The Archive/Oncology/pancoast_tumor.html"
 # Pain science
 
 
@@ -3419,6 +3467,16 @@ ref-penicillin:
   g: "/The Archive/Pharmacology/Antibiotics/penicillin.html"
 ref-doxycycline:
   path: "/The Archive/Pharmacology/Antibiotics/doxycycline.html"
+## Corticosteroids
+### Glucocorticoids
+ref-glucocorticoids:
+  path: "/The Archive/Pharmacology/Corticosteroids/Glucocorticoid/glucocorticoid_drug_class.html"
+ref-dexamethasone:
+  path: "/The Archive/Pharmacology/Corticosteroids/Glucocorticoid/dexamethasone.html"
+ref-prednisolone:
+  path: "/The Archive/Pharmacology/Corticosteroids/Glucocorticoid/prednisolone.html"
+ref-prednisone:
+  path: "/The Archive/Pharmacology/Corticosteroids/Glucocorticoid/prednisone.html"
 
 # Neuroscience
 
@@ -3428,6 +3486,9 @@ ref-index-neuroanatomy:
   basal-ganglia: "/The Archive/Neuroscience/Neuroanatomy/index_neuroanatomy.html#basal-ganglia"
   cranial-nerve: "/The Archive/Neuroscience/Neuroanatomy/index_neuroanatomy.html#cranial-nerve"
   tract: "/The Archive/Neuroscience/Neuroanatomy/index_neuroanatomy.html#tract"
+ref-thalamus:
+  path: "/The Archive/Neuroscience/Neuroanatomy/Cerebrum/thalamus.html"
+  thalamic-pain-syndrome: "/The Archive/Neuroscience/Neuroanatomy/Cerebrum/thalamus.html#thalamic-pain-syndrome"
 ### Basal ganglia
 ref-basal-ganglia:
   path: "/The Archive/Neuroscience/Neuroanatomy/Basal Ganglia/basal_ganglia.html"
@@ -3696,8 +3757,11 @@ ref-ataxia:
 ## Neuropathology
 ref-alzheimers-disease:
   path: "/The Archive/Neuroscience/Neuropathology/Alzheimers Disease/alzheimers_disease.html"
+  risk-factor: "/The Archive/Neuroscience/Neuropathology/Alzheimers Disease/alzheimers_disease.html#risk-factor"
 ref-amyotrophic-lateral-sclerosis: 
   path: "/The Archive/Neuroscience/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html"
+ref-chronic-idiopathic-demyelinating-polyneuropathy:
+  path: "/The Archive/Neuroscience/Neuropathology/chronic_idiopathic_demyelinating_polyneuropathy_cidp.html"
 ref-down-syndrome:
   path: "/The Archive/Neuroscience/Neuropathology/Down Syndrome/down_syndrome.html"
 ref-multiple-sclerosis:
