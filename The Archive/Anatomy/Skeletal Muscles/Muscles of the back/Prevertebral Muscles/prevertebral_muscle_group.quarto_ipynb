@@ -1,0 +1,82 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Prevertebral Muscle Group\n",
+        "---"
+      ],
+      "id": "cd62b188"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-prevertebral-muscles-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "#| tbl-cap: Prevertebral muscles\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'group_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['prevertebral_muscle_group']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-prevertebral-muscles-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "- [Anterior]({{< var ref-anterior-intertransversarii-cervicis.path >}}) and [Posterior Intertransversarii]({{< var ref-posterior-intertransversarii-cervicis.path >}})\n",
+        "- [Longus colli]({{< var ref-longus-colli.path >}})\n",
+        "- [Longus capitis]({{< var ref-longus-colli.path >}})\n",
+        "- [Rectus capitis anterior]({{< var ref-rectus-capitis-anterior.path >}})\n",
+        "- [Rectus capitis lateralis]({{< var ref-rectus-capitis-lateralis.path >}})\n",
+        "- Scalenes\n",
+        "   - [Anterior scalene]({{< var ref-anterior-scalene.path >}})\n",
+        "   - [Middle scalene]({{< var ref-middle-scalene.path >}})\n",
+        "   - [Posterior scalene]({{< var ref-posterior-scalene.path >}})\n"
+      ],
+      "id": "cb1c253b"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

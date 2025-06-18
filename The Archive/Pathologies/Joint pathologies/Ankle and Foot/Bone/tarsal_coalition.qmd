@@ -1,0 +1,49 @@
+---
+title: Tarsal Coalition
+---
+
+Reading list: 
+
+- p182 [@effgenMeetingPhysicalTherapy2021]
+
+
+
+Flat feet in older children may be flexible or rigid. Flexible  flat feet have little or no arch when standing, caused by calcaneal valgus. Extension of the great toe or standing on tiptoes  will cause the arch to reappear (Gage et al., 2009), and the heel  will realign into slight varus (Wenger, 1993b). If an arch cannot  be elicited and there is limited subtalar ROM, it is a rigid flat  foot. A rigid flat foot signals a problem such as a vertical talus  or a tarsal coalition and should be examined in more detail by  an orthopedic surgeon. When examining children, the use of  a treatment algorithm can assist the physical therapist in determining which flat foot should be referred for further medical  evaluation and management (Staheli, 2008). A congenital vertical talus, a rare condition in children, is more prevalent in  children with CP or myelomeningocele and is defined as a superior dislocation of the talonavicular joint (Rang, 1993b). The  head of the talus lies below the navicular bone, producing what  is termed a “rocker-bottom foot deformity.” In a rocker-bottom  foot deformity, there is no arch and the foot curves downward  where the arch would typically be present. This deformity  should be evaluated by an orthopedic surgeon and is generally  treated by surgery. A tarsal coalition is a congenital fusion of tarsal bones and may involve several different tarsal bones. The  two most common tarsal coalitions are calcaneonavicular and  talocalcaneal (Nalaboff & Schweitzer, 2008). The fusion can be  fibrous, cartilaginous, or osseous. The incidence of osseous  tarsal coalitions is approximately 1% (Stormont & Peterson,  1983). When those of fibrous and cartilaginous origin are  added, the incidence increases to approximately 12% (Nalaboff  & Schweitzer, 2008). These can cause foot pain and are  the most common causes of rigid flat feet in children (Cass &  Camasta, 2010).
+
+
+The decision to treat a flexible flat foot is somewhat controversial; however, there is little scientific evidence that intervention  for asymptomatic flat feet is warranted (Pfeiffer, Kotz, Ledl,  Hauser, & Sluga, 2006; Staheli et al., 1987; Yao & James, 2015).  Some studies have indicated that children who are overweight or  obese have lower arches than their counterparts who are not  overweight, suggesting that there may be changes in their foot  structure (Dowling, Steele, & Baur, 2004; Gilmour & Burns, 2001;  Mickle, Steele, & Munro, 2006). A systematic review examined  the relationship between pes planus and obesity in children  (Stolzman, Irby, Callahan, & Skelton, 2015). The authors found  that all studies included in the review indicated a higher prevalence of pes planus in children who are overweight or obese,  which increased as weight increased and decreased as the  children aged. Pain was not addressed in any of these studies.  However, the physical therapist should consider a foot structure  examination in children who are obese if they present with foot  pain. If persistent pain is present or gross motor skills are affected,  further examination is necessary to rule out a deformity such as  a tarsal coalition or a vertical talus.
+
+
+Hemimelia refers to an absence or gross shortening of a bone.  Fibular hemimelia is considered the most common of the  lower limb deficiencies, with an incidence of 1 to 2 per 100,000  live births (Ghanem, 2008). Etiology is unknown, but it is not  thought to be an inheritable condition. The clinical presentation can range from a missing toe or tarsal coalition to the absence of the entire fibular bone. Associated impairments can  include hypoplasia, knee instability, genu valgum, limb length  inequality, tibial deformity, disruption of the ankle morphology, and possible forefoot defects (Paley, 2016).
+
+
+# Types
+
+- Calcaneonavicular (CN) tarsal coalition
+- Talocalcaneal (TC) tarsal coalition
+
+
+# Management
+
+When a <i>tarsal coalition</i> becomes symptomatic there are a variety of treatment options including nonoperative and operative procedures [@shirleyResultsNonoperativeTreatment2018]. 
+
+Non-operative treatment includes:
+
+- NSAIDs [@shirleyResultsNonoperativeTreatment2018]
+- Activity modifications [@shirleyResultsNonoperativeTreatment2018]
+- Arch supports [@shirleyResultsNonoperativeTreatment2018]
+- <i>University of California Biomechanical Laboratory (UCBL) Orthosis</i> [@shirleyResultsNonoperativeTreatment2018]
+- Short leg cast [@shirleyResultsNonoperativeTreatment2018]
+
+Operative treatments:
+
+- Resection for TC Tarsal coalition [@shirleyResultsNonoperativeTreatment2018]
+- Fusion is used for large TC Tarsal coalitions [@shirleyResultsNonoperativeTreatment2018]
+- Resection for CN Tarsal coalition [@shirleyResultsNonoperativeTreatment2018]
+
+
+# Non-operative management
+
+
+- NSAIDs
+- UCBL orthosis [@shirleyResultsNonoperativeTreatment2018]

@@ -3,4 +3,4 @@ title: Surfboard Fin Design
 ---
 
 
-See Forsyth @forsythUnderstandingRelationshipSurfing2024 
+See Forsyth [@forsythUnderstandingRelationshipSurfing2024].

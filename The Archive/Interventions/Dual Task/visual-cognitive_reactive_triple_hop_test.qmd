@@ -1,0 +1,34 @@
+---
+title: Visual-Cognitive Reactive Triple Hop Test
+---
+
+
+::: {.callout}
+Read later:
+
+- Millikan article: "Millikan et al26 evaluated 4 different visual-cognitive hop tasks with intraclass correlation coefficients (ICC) ranging from .87 to .98 with 95% confidence intervals ranging from .70 to .99 (across all tasks and both limbs)" [@farrayeDevelopmentReliabilityVisualCognitive2023].
+:::
+
+The <i>VCR Triple hop test</i> has the potential to be a better test for return to sport post-rehab or measuring injury risk than a purely triple hop test [@farrayeDevelopmentReliabilityVisualCognitive2023].
+The standard <i>Triple Hop Test</i> measures isolated physical function.
+The <i>VCR Triple Hop Test</i> measure physical function in an environment that requires multisensory integration, and cognitive processing which better simulates a sport environment [@farrayeDevelopmentReliabilityVisualCognitive2023t].
+
+
+
+
+# How to Perform
+
+For all hopping assessments, leg dominance was defined as the participant’s preferred leg to kick a ball [@farrayeDevelopmentReliabilityVisualCognitive2023].
+# Psychometrics
+
+## Test-Retest Reliability 
+
+Farraye et al validated the <i>VCR Triple hop</i> using FitLights&trade; [@farrayeDevelopmentReliabilityVisualCognitive2023].
+
+
+
+Participants performed a visual-cognitive single-leg triple hop where they were given a "GO" color and the rest of the colors were "NO GO" [@farrayeDevelopmentReliabilityVisualCognitive2023].
+The FitLight&trade; system would flash the 4 colors independently at 1.5sec intervals [@farrayeDevelopmentReliabilityVisualCognitive2023].
+When the "GO" color appeared, the participant would perform the triple hop.
+During the triple hop, the participant would need to watch for a random sequence of 3 colors to flash which the participant would need to recite after landing [@farrayeDevelopmentReliabilityVisualCognitive2023].
+

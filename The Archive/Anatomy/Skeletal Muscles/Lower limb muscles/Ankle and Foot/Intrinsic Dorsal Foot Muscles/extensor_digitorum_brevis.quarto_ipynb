@@ -1,0 +1,110 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Extensor Digitorum Brevis (EDB)\n",
+        "---\n",
+        "\n",
+        "\n",
+        "![Intrinsic foot muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.34 Intrinsic Muscles of the Foot.jpeg){#fig-openstax-fig11.34}\n",
+        "\n",
+        ":::{layout-ncol=\"2\"}\n",
+        "![Muscles of the anterior leg @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image437 Muscles of the front of the leg.gif)\n",
+        "\n",
+        "![The Mucous sheaths of the tendons around the ankle (lateral view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image441 The mucous sheaths of the tendons around the ankle. Lateral aspect.gif)\n",
+        ":::\n",
+        "\n",
+        "# Overview\n"
+      ],
+      "id": "208ff1fe"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'muscle_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['extensor_digitorum_brevis']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Origin {#origin}\n",
+        "\n",
+        "Calcaneus (lateral dorsal surface) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Insertion {#insertion}\n",
+        "\n",
+        "Bases of middle phalanges of digits 2-4 @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "\n",
+        "According to Brad Jones @jonesProjectFoundations2025, the EDB inserts distally on the lateral aspect of the [EDL tendons]({{< var ref-extensor-digitorum-longus.path >}}) @jonesProjectFoundations2025.\n",
+        "\n",
+        "# Nerve\n",
+        "\n",
+        "[Deep Fibular N.]({{< var ref-deep-fibular-nerve.path >}}) ([L5]({{< var ref-nerve-root.l5 >}}), [S1]({{< var ref-nerve-root.s1 >}})) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Action {#action}\n",
+        "**MTP/PIP 2-4**: Extension @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "::: {.callout-note}\n",
+        "Since the EDB only inserts and acts on toes 2-4, the 5th (pinky) toe only extends through [EDL]({{< var ref-extensor-digitorum-longus.action >}}) contraction @jonesProjectFoundations2025.\n",
+        ":::\n",
+        "\n",
+        "# MMT \n",
+        "\n",
+        "\"The EDL and the EDB muscles produce the motion of extension at the MTP and IP joints of the lateral four digits from a flexed position.\" @duttonDuttonOrthopaedicExamination2020\n",
+        "\n",
+        "- Apply resistance dorsal surface of the proximal and distal phalanges into toe flexion @duttonDuttonOrthopaedicExamination2020 "
+      ],
+      "id": "05708f4b"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

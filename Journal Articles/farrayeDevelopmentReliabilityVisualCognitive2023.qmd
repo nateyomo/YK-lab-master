@@ -1,0 +1,203 @@
+---
+title: "Article Summary: Development and Reliability of a Visual-Cognitive Reactive Triple Hop Test"
+subtitle: Article Summary and Notes
+keywords:
+    - "DOI: 10.1123/jsr.2022-0398"
+    - "PMID: 37328155"
+---
+
+
+
+
+Authors:
+
+- Byrnadeen T. Farraye
+- Janet E. Simon
+- Meredith Chaput
+- HoWon Kim
+- Scott M. Monfort
+- Dustin R. Grooms
+
+
+
+
+
+Purpose: Examine the <i>Test-retest reliability</i> of the <i>Visual-Cognitive Reactive Triple Hop Test</i>.
+
+
+
+# Demographics
+
+- n = 21
+- 11f, 10m
+- 23.5 [3.7] years
+- 1.73 [0.12] m
+- 73.0 [16.8] kg
+- Tegner Activity Scale 5.5 [1.1]pts
+    - "Tegner Activity Scale was used to determine the participant’s level of physical activity based on grading work and sport activities on a numerical scale (010).34 "
+- Demographics gathered via self-report
+
+
+
+Exclusion Criteria:
+
+- Lower-extremity surgery
+- ligamentous damage to the kne
+- lowerextremity injury that prevents physical activity in the past year
+- any injury within the past 6 weeks
+- medical history of nervous system dysfunction
+- color blindness
+
+
+# Methods
+
+For all hopping assessments, leg dominance was defined as the participant’s preferred leg to kick a ball.
+
+
+2 identical testing visits were performed separated by 12-17 days (14 [1] d) in order to reduce potential [learning effects]().
+
+A fixed order of tasks completed on both days with the <i>traditional triple hop</i> performed first, followed by the <i>VCR triple hop</i> to minimize probability of impaired performance due to VCR triple hop test novelty (participants first completed just the hop first without the added visual-cognitive reactive challenge). 
+
+Additional warmup was not performed.
+Shoes were <i>not</i> standardized.
+Examiners remained the same.
+
+
+
+# Statistical Analysis
+
+ICC using a 2-way mixed effects model with absolute agreement with 95% confidence intervals was used to assess <i>Test-Retest Reliability</i>.
+SEM and 95% minimal detectable change (MDC) were calculated for <i>hop distance</i> and <i>reaction time</i>.
+
+Bland-altman plots were used to evaluate systematic changes in <i>hop distance</i> and <i>reaction time</i>.
+
+2 paired sample t-tests were used to if there was a signficant difference between hop distance and physical errors between traditional triple hop test and the VCR triple hop test.
+
+# Results
+
+The authors considered the reliability of both the triple hop test and VCR triple hop test to have "Excellent reliability"
+
+- Triple hop test ICC: 0.96
+- VCR Triple hop test: 0.92
+
+The authors considered VCR Triple hop <i>reaction time results</i> to be "moderate" 
+
+- VCR triple hop test RT ICC: 0.62
+
+
+
+<table class="basic-table">
+    <caption>Descriptive Statistics for Days 1 and 2 Traditional Triple Hop, VCR Triple Hop, and Physical and Cognitive Errors</caption>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Day 1</th>
+            <th>Day 2</th>
+            <th>Mean difference</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Traditional triple hop distance, cm</td>
+            <td>445.24 (84.98)</td>
+            <td>440.57 (74.77)</td>
+            <td>−5.67 (6.47)</td>
+        </tr>
+        <tr>
+            <td>Traditional triple hop physical errors, n</td>
+            <td>0.57 (0.51)</td>
+            <td>0.52 (0.50)</td>
+            <td>−0.05 (0.22)</td>
+        </tr>
+        <tr>
+            <td>VCR triple hop distance, cm</td>
+            <td>408.86 (85.21)</td>
+            <td>406.41 (62.41)</td>
+            <td>−2.45 (3.45)</td>
+        </tr>
+        <tr>
+            <td>VCR triple hop reaction time, s</td>
+            <td>0.99 (0.15)</td>
+            <td>1.00 (0.25)</td>
+            <td>0.01 (0.05)</td>
+        </tr>
+        <tr>
+            <td>VCR triple hop physical error, n</td>
+            <td>0.76 (0.54)</td>
+            <td>0.68 (0.43)</td>
+            <td>−0.08 (0.20)</td>
+        </tr>
+        <tr>
+            <td>VCR triple hop cognitive error, n</td>
+            <td>3.86 (2.46)</td>
+            <td>3.14 (2.13)</td>
+            <td>−0.71 (0.49)</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table class="basic-table">
+    <caption>ICCs for Traditional and VCR Triple Hop</caption>
+    <thead>
+        <tr>
+            <th></th>
+            <th>ICC (95% CI)</th>
+            <th>SEM</th>
+            <th>MDC</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Traditional triple hop, cm</td>
+            <td>.96 (.91–.99)</td>
+            <td>16.99</td>
+            <td>46.95</td>
+        </tr>
+        <tr>
+            <td>VCR triple hop distance, cm</td>
+            <td>.92 (.82–.97)</td>
+            <td>24.10</td>
+            <td>66.60</td>
+        </tr>
+        <tr>
+            <td>VCR triple hop reaction time, s</td>
+            <td>.63 (.09–.84)</td>
+            <td>0.09</td>
+            <td>0.24</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table class="basic-table">
+    <caption>Descriptive Statistics for the Comparison of Traditional Triple Hop to VCR Triple Hop Distance and Errors</caption>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Traditional triple hop</th>
+            <th>VCR triple hop</th>
+            <th>Effect size</th>
+            <th>Cognitive cost</th>
+            <th>Mean difference</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Maximum distance, cm</td>
+            <td>445.24 (84.98)</td>
+            <td>408.86 (85.21)</td>
+            <td>0.55</td>
+            <td>−8.17%</td>
+            <td>−36.38 (5.13)<span class="asterisk">*</span></td>
+        </tr>
+        <tr>
+            <td>Physical errors, n</td>
+            <td>0.57 (0.51)</td>
+            <td>0.76 (0.54)</td>
+            <td>0.23</td>
+            <td>33.33%</td>
+            <td>0.19 (0.18)</td>
+        </tr>
+    </tbody>
+</table>

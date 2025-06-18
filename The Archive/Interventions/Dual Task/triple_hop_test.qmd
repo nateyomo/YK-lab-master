@@ -1,0 +1,46 @@
+---
+title: Triple Hop Test
+---
+
+The <i>Triple Hop Test</i> has been traditionally used to determine if an athlete is physically ready to return to sport [@farrayeDevelopmentReliabilityVisualCognitive2023].
+
+In addition, this test has been used to quanity lower-extremity strength and power, and even predict the risk of a recurrent ACL tear [@farrayeDevelopmentReliabilityVisualCognitive2023].
+It should be noted that even when the <i>Triple Hop Test</i> has a result that medically "clears" an athlete to return to sport, there is still a high risk of recurrent ACL tears [@farrayeDevelopmentReliabilityVisualCognitive2023].
+For this reason, some authors suggest that the <a href="visual-cognitive triple hop test">Visual-cognitive variation of the Triple Hop Test</a> could yield better results [@farrayeDevelopmentReliabilityVisualCognitive2023].
+
+
+
+# How to perform
+
+Have the participant stand on their <i>dominant</i> (kicking [@farrayeDevelopmentReliabilityVisualCognitive2023]) leg with their toes aligned at the end of the tape in front of them [@farrayeDevelopmentReliabilityVisualCognitive2023].
+
+- Instructions: 
+    - "Hop forward 3 consecutive times as far as possible with no pause then stick the landing" [@farrayeDevelopmentReliabilityVisualCognitive2023].
+    - "Hop whenever you are ready"
+
+
+- 1 practice trial [@farrayeDevelopmentReliabilityVisualCognitive2023]
+- 3 successful practice trials [@farrayeDevelopmentReliabilityVisualCognitive2023]
+
+
+A "successful" trial is defined as performing the 3 consecutive hops, landing, and maintaining balance for 2sec on the same leg [@farrayeDevelopmentReliabilityVisualCognitive2023]
+
+A physical failure was recorded, and the trial is repeated if:
+
+- The participant switched legs midtrial [@farrayeDevelopmentReliabilityVisualCognitive2023]
+- added an additional hop [@farrayeDevelopmentReliabilityVisualCognitive2023]
+- Put their opposite foot down to maintain stability [@farrayeDevelopmentReliabilityVisualCognitive2023]
+
+The <i>maximum distance</i> (in centimeters) of 3 successful trials was recorded for analyses [@farrayeDevelopmentReliabilityVisualCognitive2023].
+
+# Visual-Cognitive Triple Hop Test
+
+
+
+The VCR Triple Hop Test builds upon the <i>Triple Hop Test</i>.
+
+The <i>Triple Hop Test</i> consists of a motor performance and physical errors (landing stability) [@farrayeDevelopmentReliabilityVisualCognitive2023].
+The VCR Triple Hop Test still has that motor performance and physical errors, but also includes reaction time, and cognitive errors (task prioritization) [@farrayeDevelopmentReliabilityVisualCognitive2023].
+
+
+See more about the <i>Visual-cognitive Triple Hop Test</i>.

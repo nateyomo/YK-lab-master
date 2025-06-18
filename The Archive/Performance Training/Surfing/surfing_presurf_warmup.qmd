@@ -2,6 +2,9 @@
 title: Pre-Surf Warmup
 ---
 
+- Presurf warmup evidence
+    - The effects of a land-based warm-up and accompanying passive heat retention on core body temperature, hormones, and subsequent performance in elite surfers [@cookEffectsLandbasedWarmup2024].
+    - Heat Attainment and Retention in Surfers with and without a Land-Based Warm-Up and Accompanying Passive Heat Retention [@cookHeatAttainmentRetention2024].
 
 - Shoulder miniband series
     - ER Loop around wrists, start from 0&deg; sh flexion and 90&deg; elbow flexion with neutral retraction to 120&deg; sh flexion, 0&deg; elbow flexion, and full protraction

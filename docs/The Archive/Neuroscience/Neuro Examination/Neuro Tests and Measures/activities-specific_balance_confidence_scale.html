@@ -263,7 +263,7 @@ Completely confident
 </table>
 <p>If this all makes sense, let’s try a practice run. <bold>Use this slider to select your confidence</bold>:</p>
 <div>
-<p><input type="range" id="example_slider" min="0" max="100"> <span class="example_score" data-value="null">Not reported</span></p>
+<p><input type="range" id="example_slider" min="0" max="100"> <span class="slider-value"></span></p>
 </div>
 <p>How confident are you that you will not lose your balance or become unsteady when you…</p>
 <p>Q1: Walk around the house?</p>
@@ -380,9 +380,15 @@ Step onto or off an escalator while holding onto parcels such that you cannot ho
 Walk outside on icy sidewalks? <span class="item16_score" data-value="null">
 </span></li>
 </ol>
-<p>Total ABC score: <span id="total_display">N/A</span></p>
-<p>Scoring: Total ABC score / 16 = % Self confidence</p>
-<p>Scoring: <span id="total_display">N/A</span> / 16 = <span id="mean_display">N/A</span> % Self confidence</p>
+<p>
+Total ABC score: <span class="total_display">N/A</span>
+</p>
+<p>
+Scoring: Total ABC score / 16 = % Self confidence
+</p>
+<p>
+Scoring: <span class="total_display">N/A</span> / 16 = <span class="mean_display">N/A</span> % Self confidence
+</p>
 <p>For medicare patients we can calculate percent impairment:</p>
 <p>100% - % Function = % Impairment</p>
 <script>
@@ -410,11 +416,12 @@ Walk outside on icy sidewalks? <span class="item16_score" data-value="null">
         el.textContent = valueText;
         el.dataset.value = value;
       });
+    calculateTotalAndMean();  // Updates totals at the bottom
     });
   }
 
   const sliderIds = [
-    'item1_slider', 'item2_slider', 'item3_slider', 'item4_slider',
+    'example_slider', 'item1_slider', 'item2_slider', 'item3_slider', 'item4_slider',
     'item5_slider', 'item6_slider', 'item7_slider', 'item8_slider',
     'item9_slider', 'item10_slider', 'item11_slider', 'item12_slider',
     'item13_slider', 'item14_slider', 'item15_slider', 'item16_slider'
@@ -426,28 +433,26 @@ Walk outside on icy sidewalks? <span class="item16_score" data-value="null">
   function calculateTotalAndMean() {
     const allScores = document.querySelectorAll('[class$="_score"]');
     let total = 0;
-    let count = 0;
 
     allScores.forEach(el => {
       const value = el.dataset.value;
       if (value !== 'null') {
         total += parseInt(value);
-        count++;
       }
     });
 
-    const mean = total / 16; // Always divide by 16 as you said
+    const mean = total / 16;
 
-    // Optional: display somewhere
-    document.getElementById('total_display').textContent = isNaN(total) ? 'N/A' : `${total}`;
-    document.getElementById('mean_display').textContent = isNaN(mean) ? 'N/A' : `${mean.toFixed(1)}`;
+    // Update all matching elements by class
+    document.querySelectorAll('.total_display').forEach(el => {
+      el.textContent = isNaN(total) ? 'N/A' : `${total}`;
+    });
+
+    document.querySelectorAll('.mean_display').forEach(el => {
+      el.textContent = isNaN(mean) ? 'N/A' : `${mean.toFixed(1)}`;
+    });
   }
 
-  // Call on every slider input
-  const sliders = document.querySelectorAll('input[type="range"]');
-  sliders.forEach(slider => {
-    slider.addEventListener('input', calculateTotalAndMean);
-  });
 </script>
 
 

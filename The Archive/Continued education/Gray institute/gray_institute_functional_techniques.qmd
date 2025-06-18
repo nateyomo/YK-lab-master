@@ -1,5 +1,5 @@
 ---
-title: Gray Institute Continued Education Overview
+title: Functional Techniques Continued education Notes
 subtitle: Continued education by the Gray Institute
 description: "This is a summary of my notes from the Gray Institute courses as well as alternative opinions"
 ---

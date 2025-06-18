@@ -55,7 +55,28 @@ Read more about [CIDP here]({{< var ref-chronic-idiopathic-demyelinating-polyneu
 
 
 
-# Sleep
+
+
+# Lifestyle factors
+
+
+# Management
+
+Management of neuroinflammation can be broken down into a variety of factors:
+
+- sleep optimization
+- Diet
+- Avoiding environmental toxins
+- Mold?
+- Stress
+- Socializing
+- Exercise
+
+# Treatment
+
+
+
+# Sleep {#sleep}
 
 ::: {.callout}
 
@@ -65,6 +86,6 @@ Read more about [CIDP here]({{< var ref-chronic-idiopathic-demyelinating-polyneu
 
 "Sleep deprivation could adversely impact immune function, cognitive memory, learning ability, etc. Studies have revealed that sleep deprivation can lead to inflammatory responses in the CNS. Li et al. investigated the protective role of dexmedetomidine, an anesthetic compound, in sleep deprivation by focusing on its possible anti-inflammatory role in the CNS. In a sleep deprivation mouse model, the authors claimed that dexmedetomidine could significantly improve anxiety-like behaviors in the sleep-deprived mice and could attenuate inflammatory responses and oxidative stress in the CNS by inhibiting the activation of the p38/MSK1/NFκB pathway (Contribution 7)." [@wangAdvancesNeuroinflammation2024].
 
+# Diet optimization
 
-
-# Lifestyle factors
+Diet has a large impact on health

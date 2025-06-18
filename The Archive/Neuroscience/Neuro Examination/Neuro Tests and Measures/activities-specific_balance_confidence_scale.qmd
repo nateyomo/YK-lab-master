@@ -52,7 +52,7 @@ If this all makes sense, let's try a practice run.
 
 <div>
   <input type="range" id="example_slider" min="0" max="100" />
-  <span class="example_score" data-value="null">Not reported</span>
+  <span class="slider-value"></span>
 </div>
 
 
@@ -212,11 +212,18 @@ Walk outside on icy sidewalks?
     <li>Walk outside on icy sidewalks? <span class="item16_score" data-value="null"></li>
 </ol>
 
-Total ABC score: <span id="total_display">N/A</span>
+<p>
+  Total ABC score: <span class="total_display">N/A</span>
+</p>
 
-Scoring: Total ABC score / 16 = % Self confidence
+<p>
+  Scoring: Total ABC score / 16 = % Self confidence
+</p>
 
-Scoring: <span id="total_display">N/A</span> / 16 = <span id="mean_display">N/A</span> % Self confidence
+<p>
+  Scoring: <span class="total_display">N/A</span> / 16 = <span class="mean_display">N/A</span> % Self confidence
+</p>
+
 
 
 
@@ -250,11 +257,12 @@ For medicare patients we can calculate percent impairment:
         el.textContent = valueText;
         el.dataset.value = value;
       });
+    calculateTotalAndMean();  // Updates totals at the bottom
     });
   }
 
   const sliderIds = [
-    'item1_slider', 'item2_slider', 'item3_slider', 'item4_slider',
+    'example_slider', 'item1_slider', 'item2_slider', 'item3_slider', 'item4_slider',
     'item5_slider', 'item6_slider', 'item7_slider', 'item8_slider',
     'item9_slider', 'item10_slider', 'item11_slider', 'item12_slider',
     'item13_slider', 'item14_slider', 'item15_slider', 'item16_slider'
@@ -267,26 +275,25 @@ For medicare patients we can calculate percent impairment:
   function calculateTotalAndMean() {
     const allScores = document.querySelectorAll('[class$="_score"]');
     let total = 0;
-    let count = 0;
 
     allScores.forEach(el => {
       const value = el.dataset.value;
       if (value !== 'null') {
         total += parseInt(value);
-        count++;
       }
     });
 
-    const mean = total / 16; // Always divide by 16 as you said
+    const mean = total / 16;
 
-    // Optional: display somewhere
-    document.getElementById('total_display').textContent = isNaN(total) ? 'N/A' : `${total}`;
-    document.getElementById('mean_display').textContent = isNaN(mean) ? 'N/A' : `${mean.toFixed(1)}`;
+    // Update all matching elements by class
+    document.querySelectorAll('.total_display').forEach(el => {
+      el.textContent = isNaN(total) ? 'N/A' : `${total}`;
+    });
+
+    document.querySelectorAll('.mean_display').forEach(el => {
+      el.textContent = isNaN(mean) ? 'N/A' : `${mean.toFixed(1)}`;
+    });
   }
 
-  // Call on every slider input
-  const sliders = document.querySelectorAll('input[type="range"]');
-  sliders.forEach(slider => {
-    slider.addEventListener('input', calculateTotalAndMean);
-  });
 </script>
+
