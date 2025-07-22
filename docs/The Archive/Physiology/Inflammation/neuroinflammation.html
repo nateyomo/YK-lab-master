@@ -22,7 +22,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -73,6 +92,7 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../../../styles.css">
 <meta name="twitter:title" content="Neuroinflammation">
+<meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
 <meta name="twitter:site" content="@yomokerst">
 <meta name="twitter:card" content="summary">
@@ -108,6 +128,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Journal Club</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../../services.html"> 
+<span class="menu-text">Physical Therapy</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
@@ -131,8 +155,19 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#benefits-of-inflammation" id="toc-benefits-of-inflammation" class="nav-link active" data-scroll-target="#benefits-of-inflammation">Benefits of inflammation</a></li>
+  <li><a href="#function-of-inflammation" id="toc-function-of-inflammation" class="nav-link active" data-scroll-target="#function-of-inflammation">Function of inflammation</a></li>
+  <li><a href="#relation-to-pathology" id="toc-relation-to-pathology" class="nav-link" data-scroll-target="#relation-to-pathology">Relation to Pathology</a>
+  <ul class="collapse">
+  <li><a href="#alzheimers-disease" id="toc-alzheimers-disease" class="nav-link" data-scroll-target="#alzheimers-disease">Alzheimer’s Disease</a></li>
+  <li><a href="#als" id="toc-als" class="nav-link" data-scroll-target="#als">Amyotrophic lateral sclerosis</a></li>
+  <li><a href="#chronic-idiopathic-demyelinating-polyneuropathy-cidp" id="toc-chronic-idiopathic-demyelinating-polyneuropathy-cidp" class="nav-link" data-scroll-target="#chronic-idiopathic-demyelinating-polyneuropathy-cidp">Chronic Idiopathic Demyelinating Polyneuropathy (CIDP)</a></li>
+  </ul></li>
+  <li><a href="#purinergic-signalling" id="toc-purinergic-signalling" class="nav-link" data-scroll-target="#purinergic-signalling">Purinergic Signalling</a></li>
   <li><a href="#lifestyle-factors" id="toc-lifestyle-factors" class="nav-link" data-scroll-target="#lifestyle-factors">Lifestyle factors</a></li>
+  <li><a href="#management" id="toc-management" class="nav-link" data-scroll-target="#management">Management</a></li>
+  <li><a href="#treatment" id="toc-treatment" class="nav-link" data-scroll-target="#treatment">Treatment</a></li>
+  <li><a href="#sleep" id="toc-sleep" class="nav-link" data-scroll-target="#sleep">Sleep</a></li>
+  <li><a href="#diet-optimization" id="toc-diet-optimization" class="nav-link" data-scroll-target="#diet-optimization">Diet optimization</a></li>
   </ul>
 </nav>
 </nav>
@@ -154,7 +189,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="quarto-title-meta-heading">Affiliations</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://yomokerst.com/about.html#ngy">Nate Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+    <p class="author"><a href="https://yomokerst.com/about.html#ngy">Nate Yomogida, PT, DPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -165,7 +200,7 @@ ul.task-list li input[type="checkbox"] {
           </p>
       </div>
     <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://yomokerst.com/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+    <p class="author"><a href="https://yomokerst.com/about.html#cak">Chloë Kerstein, PT, DPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -189,16 +224,128 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="benefits-of-inflammation" class="level1">
-<h1>Benefits of inflammation</h1>
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Reading list</p>
+<ul>
+<li>Advanced in neuroinflammation<span class="citation" data-cites="wangAdvancesNeuroinflammation2024"><sup><a href="#ref-wangAdvancesNeuroinflammation2024" role="doc-biblioref">1</a></sup></span></li>
+</ul>
+</div>
+</div>
+</div>
+<section id="function-of-inflammation" class="level1">
+<h1>Function of inflammation</h1>
+</section>
+<section id="relation-to-pathology" class="level1">
+<h1>Relation to Pathology</h1>
+<section id="alzheimers-disease" class="level2">
+<h2 class="anchored" data-anchor-id="alzheimers-disease">Alzheimer’s Disease</h2>
+<ul>
+<li>
+Weaver Donald proposed that neuroinflammation was the common denominator in unifying 30 different risk factors of <a href="../../../The Archive/Neuroscience/Neuropathology/Alzheimers Disease/alzheimers_disease.html#risk-factor">Alzheimer’s Disease</a><span class="citation" data-cites="wangAdvancesNeuroinflammation2024"><sup><a href="#ref-wangAdvancesNeuroinflammation2024" role="doc-biblioref">1</a></sup></span>.
+</li>
+<li>
+Some claim that dysfunction of <i>neuroimmune-neuroinflammation axis</i> was resulting in 30 identified risk factors<span class="citation" data-cites="wangAdvancesNeuroinflammation2024"><sup><a href="#ref-wangAdvancesNeuroinflammation2024" role="doc-biblioref">1</a></sup></span>.
+</li>
+<li>
+More specifically, the activation of <i>glial cells</i> and the release of <i>pro-inflammatory proteins</i> common physiological pathways of these risk factors<span class="citation" data-cites="wangAdvancesNeuroinflammation2024"><sup><a href="#ref-wangAdvancesNeuroinflammation2024" role="doc-biblioref">1</a></sup></span>.
+</li>
+</ul>
+</section>
+<section id="als" class="level2">
+<h2 class="anchored" data-anchor-id="als">Amyotrophic lateral sclerosis</h2>
+<ul>
+<li>
+In a rewiew by Yang et al, the authors focused on the role of <i>astrocytes</i> specifically <i>non-cell-autonomous role</i> of astrocytes<span class="citation" data-cites="wangAdvancesNeuroinflammation2024"><sup><a href="#ref-wangAdvancesNeuroinflammation2024" role="doc-biblioref">1</a></sup></span>.
+</li>
+<li>
+Yang concluded that strocytes play a key role in ALS development through disruption of Ca<sup>2+</sup> homeostasis, mitochondrial function, lipid metabolismn, lactate metabolism, glutamate excitotoxicity, and other pathways<span class="citation" data-cites="wangAdvancesNeuroinflammation2024"><sup><a href="#ref-wangAdvancesNeuroinflammation2024" role="doc-biblioref">1</a></sup></span>.
+</li>
+<li>
+</li>
+</ul>
+<p>Read more about <a href="../../../The Archive/Neuroscience/Neuropathology/Amyotrophic Lateral Sclerosis/amyotrophic_lateral_sclerosis.html">ALS here</a></p>
+</section>
+<section id="chronic-idiopathic-demyelinating-polyneuropathy-cidp" class="level2">
+<h2 class="anchored" data-anchor-id="chronic-idiopathic-demyelinating-polyneuropathy-cidp">Chronic Idiopathic Demyelinating Polyneuropathy (CIDP)</h2>
+<p>CIDP is an acquired immunomediate neuropathy<span class="citation" data-cites="wangAdvancesNeuroinflammation2024"><sup><a href="#ref-wangAdvancesNeuroinflammation2024" role="doc-biblioref">1</a></sup></span>.</p>
+<p>Treatment of CIDP includes subcutaneous immunoglobulin (SCIgs)<span class="citation" data-cites="wangAdvancesNeuroinflammation2024"><sup><a href="#ref-wangAdvancesNeuroinflammation2024" role="doc-biblioref">1</a></sup></span>. A recent study found that SCIgs could preserve nerve function in CIDP<span class="citation" data-cites="wangAdvancesNeuroinflammation2024"><sup><a href="#ref-wangAdvancesNeuroinflammation2024" role="doc-biblioref">1</a></sup></span>.</p>
+<p>Read more about <a href="../../../The Archive/Neuroscience/Neuropathology/chronic_idiopathic_demyelinating_polyneuropathy_cidp.html">CIDP here</a></p>
+</section>
+</section>
+<section id="purinergic-signalling" class="level1">
+<h1>Purinergic Signalling</h1>
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<ul>
+<li>Purinergic signalling in neuroinflammation<span class="citation" data-cites="ulrichPurinergicSignalingNeurodevelopment2023"><sup><a href="#ref-ulrichPurinergicSignalingNeurodevelopment2023" role="doc-biblioref">2</a></sup></span>.</li>
+</ul>
+</div>
+</div>
+</div>
 </section>
 <section id="lifestyle-factors" class="level1">
 <h1>Lifestyle factors</h1>
+</section>
+<section id="management" class="level1">
+<h1>Management</h1>
+<p>Management of neuroinflammation can be broken down into a variety of factors:</p>
+<ul>
+<li>sleep optimization</li>
+<li>Diet</li>
+<li>Avoiding environmental toxins</li>
+<li>Mold?</li>
+<li>Stress</li>
+<li>Socializing</li>
+<li>Exercise</li>
+</ul>
+</section>
+<section id="treatment" class="level1">
+<h1>Treatment</h1>
+</section>
+<section id="sleep" class="level1">
+<h1>Sleep</h1>
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<ul>
+<li>12 Sleep Immune Cross Talk and Insomnia263<span class="citation" data-cites="kimNeuroinflammationGutBrainAxis2023"><sup><a href="#ref-kimNeuroinflammationGutBrainAxis2023" role="doc-biblioref">3</a></sup></span>.</li>
+</ul>
+</div>
+</div>
+</div>
+<p>“Sleep deprivation could adversely impact immune function, cognitive memory, learning ability, etc. Studies have revealed that sleep deprivation can lead to inflammatory responses in the CNS. Li et al.&nbsp;investigated the protective role of dexmedetomidine, an anesthetic compound, in sleep deprivation by focusing on its possible anti-inflammatory role in the CNS. In a sleep deprivation mouse model, the authors claimed that dexmedetomidine could significantly improve anxiety-like behaviors in the sleep-deprived mice and could attenuate inflammatory responses and oxidative stress in the CNS by inhibiting the activation of the p38/MSK1/NFκB pathway (Contribution 7).”<span class="citation" data-cites="wangAdvancesNeuroinflammation2024"><sup><a href="#ref-wangAdvancesNeuroinflammation2024" role="doc-biblioref">1</a></sup></span>.</p>
+</section>
+<section id="diet-optimization" class="level1">
+<h1>Diet optimization</h1>
+<p>Diet has a large impact on health</p>
+
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-wangAdvancesNeuroinflammation2024" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Wang J, Wang H, Sun J, eds. <em>Advances in <span>Neuroinflammation</span></em>. 1st ed. brain sciences; 2024.</div>
+</div>
+<div id="ref-ulrichPurinergicSignalingNeurodevelopment2023" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Ulrich H. <em>Purinergic <span>Signaling</span> in <span>Neurodevelopment</span>, <span>Neuroinflammation</span> and <span>Neurodegeneration</span></em>. 1st ed. Springer International Publishing AG; 2023.</div>
+</div>
+<div id="ref-kimNeuroinflammationGutBrainAxis2023" class="csl-entry" role="listitem">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Kim YK. <em>Neuroinflammation, <span>Gut-Brain Axis</span> and <span>Immunity</span> in <span>Neuropsychiatric Disorders</span></em>. 1st ed. Springer Singapore Pte. Limited; 2023.</div>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Neuroinflammation. <a href="https://yomokerst.com/The Archive/Physiology/Inflammation/neuroinflammation.html">https://yomokerst.com/The
 Archive/Physiology/Inflammation/neuroinflammation.html</a></div>
 </div></div></section></div></main> <!-- /main -->

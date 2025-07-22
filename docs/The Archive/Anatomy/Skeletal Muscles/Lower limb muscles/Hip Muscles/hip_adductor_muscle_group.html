@@ -164,6 +164,10 @@ div.csl-indent {
 <span class="menu-text">Journal Club</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../../../../services.html"> 
+<span class="menu-text">Physical Therapy</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../../../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
@@ -219,7 +223,7 @@ div.csl-indent {
   <div class="quarto-title-meta-heading">Affiliations</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://yomokerst.com/about.html#ngy">Nate Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+    <p class="author"><a href="https://yomokerst.com/about.html#ngy">Nate Yomogida, PT, DPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -230,7 +234,7 @@ div.csl-indent {
           </p>
       </div>
     <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://yomokerst.com/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+    <p class="author"><a href="https://yomokerst.com/about.html#cak">Chloë Kerstein, PT, DPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -285,7 +289,7 @@ div.csl-indent {
 </section>
 </div>
 </div>
-<div id="fe5a5ccd" class="cell" data-execution_count="1">
+<div id="6c29d26f" class="cell" data-execution_count="1">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| label: tbl-primary-hip-adductor-oian</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| warning: false</span></span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| message: false</span></span>
@@ -295,7 +299,7 @@ div.csl-indent {
 <span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> pathlib <span class="im">import</span> Path</span>
 <span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>    <span class="im">import</span> pandas <span class="im">as</span> pd</span>
 <span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> pyprojroot <span class="im">import</span> here</span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> IPython.core.display <span class="im">import</span> display, HTML</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> IPython.display <span class="im">import</span> display, HTML</span>
 <span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Set the path for the script file</span></span>
 <span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>    script_file_path <span class="op">=</span> here(<span class="st">"scripts/process_oian_table.py"</span>)</span>
@@ -319,12 +323,6 @@ div.csl-indent {
 <span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>            display(HTML(html_table))  <span class="co"># Use display to render the HTML properly</span></span>
 <span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span>:</span>
 <span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>        <span class="bu">print</span>(<span class="st">"Script file does not exist. Please check the path."</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stderr">
-<pre><code>/var/folders/1l/3yjsq4vn4q92b8_bq89ptr800000gn/T/ipykernel_41610/1784269217.py:10: DeprecationWarning:
-
-Importing display from IPython.core.display is deprecated since IPython 7.14, please import from IPython.display
-</code></pre>
-</div>
 <div class="cell-output cell-output-display">
 <table class="dataframe oian-table caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
 <colgroup>
@@ -400,46 +398,40 @@ L2 - L3</td>
 </table>
 </div>
 </div>
-<div id="931e5b99" class="cell" data-execution_count="2">
-<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| label: tbl-secondary-hip-adductor-oian</span></span>
-<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| warning: false</span></span>
-<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| message: false</span></span>
-<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| echo: false</span></span>
-<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| tbl-cap: "Secondary hip adductors"</span></span>
-<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> pathlib <span class="im">import</span> Path</span>
-<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>    <span class="im">import</span> pandas <span class="im">as</span> pd</span>
-<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> pyprojroot <span class="im">import</span> here</span>
-<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> IPython.core.display <span class="im">import</span> display, HTML</span>
-<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Set the path for the script file</span></span>
-<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>    script_file_path <span class="op">=</span> here(<span class="st">"scripts/process_oian_table.py"</span>)</span>
-<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Check if the script file exists</span></span>
-<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> script_file_path.exists():</span>
-<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a>        <span class="im">import</span> sys</span>
-<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>        sys.path.append(<span class="bu">str</span>(script_file_path.parent))  <span class="co"># Add the directory of the script to the system path</span></span>
-<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a>        <span class="im">from</span> process_oian_table <span class="im">import</span> process_oian_table  <span class="co"># Import the specific function</span></span>
-<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a>        <span class="co"># Define the column to filter by and the identifiers to include</span></span>
-<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a>        filter_column <span class="op">=</span> <span class="st">'functional_group_identifier'</span>  <span class="co"># Choose the column you want to filter by</span></span>
-<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a>        filter_identifiers <span class="op">=</span> [<span class="st">'secondary_hip_adductor'</span>]  <span class="co"># Replace with actual identifiers you want to include</span></span>
-<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a>        <span class="co"># Call the function to get the HTML table with filtering</span></span>
-<span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a>        html_table <span class="op">=</span> process_oian_table(filter_column<span class="op">=</span>filter_column, filter_identifiers<span class="op">=</span>filter_identifiers)</span>
-<span id="cb3-28"><a href="#cb3-28" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-29"><a href="#cb3-29" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span> html_table:</span>
-<span id="cb3-30"><a href="#cb3-30" aria-hidden="true" tabindex="-1"></a>            <span class="co"># Render the HTML table for display</span></span>
-<span id="cb3-31"><a href="#cb3-31" aria-hidden="true" tabindex="-1"></a>            display(HTML(html_table))  <span class="co"># Use display to render the HTML properly</span></span>
-<span id="cb3-32"><a href="#cb3-32" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span>:</span>
-<span id="cb3-33"><a href="#cb3-33" aria-hidden="true" tabindex="-1"></a>        <span class="bu">print</span>(<span class="st">"Script file does not exist. Please check the path."</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stderr">
-<pre><code>/var/folders/1l/3yjsq4vn4q92b8_bq89ptr800000gn/T/ipykernel_41610/186737318.py:10: DeprecationWarning:
-
-Importing display from IPython.core.display is deprecated since IPython 7.14, please import from IPython.display
-</code></pre>
-</div>
+<div id="c628489f" class="cell" data-execution_count="2">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| label: tbl-secondary-hip-adductor-oian</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| warning: false</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| message: false</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| echo: false</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| tbl-cap: "Secondary hip adductors"</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> pathlib <span class="im">import</span> Path</span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>    <span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> pyprojroot <span class="im">import</span> here</span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> IPython.display <span class="im">import</span> display, HTML</span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Set the path for the script file</span></span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>    script_file_path <span class="op">=</span> here(<span class="st">"scripts/process_oian_table.py"</span>)</span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Check if the script file exists</span></span>
+<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> script_file_path.exists():</span>
+<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>        <span class="im">import</span> sys</span>
+<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>        sys.path.append(<span class="bu">str</span>(script_file_path.parent))  <span class="co"># Add the directory of the script to the system path</span></span>
+<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>        <span class="im">from</span> process_oian_table <span class="im">import</span> process_oian_table  <span class="co"># Import the specific function</span></span>
+<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a>        <span class="co"># Define the column to filter by and the identifiers to include</span></span>
+<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a>        filter_column <span class="op">=</span> <span class="st">'functional_group_identifier'</span>  <span class="co"># Choose the column you want to filter by</span></span>
+<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a>        filter_identifiers <span class="op">=</span> [<span class="st">'secondary_hip_adductor'</span>]  <span class="co"># Replace with actual identifiers you want to include</span></span>
+<span id="cb2-25"><a href="#cb2-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-26"><a href="#cb2-26" aria-hidden="true" tabindex="-1"></a>        <span class="co"># Call the function to get the HTML table with filtering</span></span>
+<span id="cb2-27"><a href="#cb2-27" aria-hidden="true" tabindex="-1"></a>        html_table <span class="op">=</span> process_oian_table(filter_column<span class="op">=</span>filter_column, filter_identifiers<span class="op">=</span>filter_identifiers)</span>
+<span id="cb2-28"><a href="#cb2-28" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-29"><a href="#cb2-29" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span> html_table:</span>
+<span id="cb2-30"><a href="#cb2-30" aria-hidden="true" tabindex="-1"></a>            <span class="co"># Render the HTML table for display</span></span>
+<span id="cb2-31"><a href="#cb2-31" aria-hidden="true" tabindex="-1"></a>            display(HTML(html_table))  <span class="co"># Use display to render the HTML properly</span></span>
+<span id="cb2-32"><a href="#cb2-32" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span>:</span>
+<span id="cb2-33"><a href="#cb2-33" aria-hidden="true" tabindex="-1"></a>        <span class="bu">print</span>(<span class="st">"Script file does not exist. Please check the path."</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <table class="dataframe oian-table caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
 <colgroup>

@@ -44,7 +44,7 @@ div.csl-indent {
 }</style>
 
 
-<script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../../../../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../../../../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
@@ -91,6 +91,9 @@ div.csl-indent {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
 <link rel="stylesheet" href="../../../../styles.css">
@@ -133,6 +136,10 @@ div.csl-indent {
 <span class="menu-text">Journal Club</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../../../services.html"> 
+<span class="menu-text">Physical Therapy</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
@@ -169,15 +176,11 @@ div.csl-indent {
   <li><a href="#clinical-presentation" id="toc-clinical-presentation" class="nav-link" data-scroll-target="#clinical-presentation">Clinical Presentation</a></li>
   <li><a href="#testing" id="toc-testing" class="nav-link" data-scroll-target="#testing">Testing</a></li>
   </ul></li>
-  <li><a href="#carpal-tunnel-syndrome" id="toc-carpal-tunnel-syndrome" class="nav-link" data-scroll-target="#carpal-tunnel-syndrome">Carpal Tunnel Syndrome</a>
-  <ul class="collapse">
-  <li><a href="#clinical-presentation-1" id="toc-clinical-presentation-1" class="nav-link" data-scroll-target="#clinical-presentation-1">Clinical Presentation</a></li>
-  <li><a href="#evaluation" id="toc-evaluation" class="nav-link" data-scroll-target="#evaluation">Evaluation</a></li>
+  <li><a href="#carpal-tunnel-syndrome" id="toc-carpal-tunnel-syndrome" class="nav-link" data-scroll-target="#carpal-tunnel-syndrome">Carpal Tunnel Syndrome</a></li>
   </ul></li>
-  </ul></li>
-  <li><a href="#tension" id="toc-tension" class="nav-link" data-scroll-target="#tension">Median Nerve Tensioning</a></li>
-  <li><a href="#entrapment" id="toc-entrapment" class="nav-link" data-scroll-target="#entrapment">Entrapment</a></li>
   <li><a href="#examination" id="toc-examination" class="nav-link" data-scroll-target="#examination">Examination</a></li>
+  <li><a href="#ape-hand" id="toc-ape-hand" class="nav-link" data-scroll-target="#ape-hand">Ape hand</a></li>
+  <li><a href="#median-claw-hand" id="toc-median-claw-hand" class="nav-link" data-scroll-target="#median-claw-hand">Median Claw Hand</a></li>
   <li><a href="#strain-counterstrain" id="toc-strain-counterstrain" class="nav-link" data-scroll-target="#strain-counterstrain">Strain Counterstrain</a></li>
   <li><a href="#treatment" id="toc-treatment" class="nav-link" data-scroll-target="#treatment">Treatment</a></li>
   </ul>
@@ -201,7 +204,7 @@ div.csl-indent {
   <div class="quarto-title-meta-heading">Affiliations</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://yomokerst.com/about.html#ngy">Nate Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+    <p class="author"><a href="https://yomokerst.com/about.html#ngy">Nate Yomogida, PT, DPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -212,7 +215,7 @@ div.csl-indent {
           </p>
       </div>
     <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://yomokerst.com/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+    <p class="author"><a href="https://yomokerst.com/about.html#cak">Chloë Kerstein, PT, DPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -260,459 +263,68 @@ div.csl-indent {
 </section>
 <section id="motor-branches" class="level1">
 <h1>Motor Branches</h1>
-<div class="cell">
-<div class="cell-output-display">
-<div id="jllnhickds" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#jllnhickds table {
-  font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-#jllnhickds thead, #jllnhickds tbody, #jllnhickds tfoot, #jllnhickds tr, #jllnhickds td, #jllnhickds th {
-  border-style: none;
-}
-
-#jllnhickds p {
-  margin: 0;
-  padding: 0;
-}
-
-#jllnhickds .gt_table {
-  display: table;
-  border-collapse: collapse;
-  line-height: normal;
-  margin-left: auto;
-  margin-right: auto;
-  color: #333333;
-  font-size: 16px;
-  font-weight: normal;
-  font-style: normal;
-  background-color: #FFFFFF;
-  width: auto;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #A8A8A8;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #A8A8A8;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-}
-
-#jllnhickds .gt_caption {
-  padding-top: 4px;
-  padding-bottom: 4px;
-}
-
-#jllnhickds .gt_title {
-  color: #333333;
-  font-size: 125%;
-  font-weight: initial;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-color: #FFFFFF;
-  border-bottom-width: 0;
-}
-
-#jllnhickds .gt_subtitle {
-  color: #333333;
-  font-size: 85%;
-  font-weight: initial;
-  padding-top: 3px;
-  padding-bottom: 5px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-color: #FFFFFF;
-  border-top-width: 0;
-}
-
-#jllnhickds .gt_heading {
-  background-color: #FFFFFF;
-  text-align: center;
-  border-bottom-color: #FFFFFF;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-
-#jllnhickds .gt_bottom_border {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-
-#jllnhickds .gt_col_headings {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-
-#jllnhickds .gt_col_heading {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 6px;
-  padding-left: 5px;
-  padding-right: 5px;
-  overflow-x: hidden;
-}
-
-#jllnhickds .gt_column_spanner_outer {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  padding-top: 0;
-  padding-bottom: 0;
-  padding-left: 4px;
-  padding-right: 4px;
-}
-
-#jllnhickds .gt_column_spanner_outer:first-child {
-  padding-left: 0;
-}
-
-#jllnhickds .gt_column_spanner_outer:last-child {
-  padding-right: 0;
-}
-
-#jllnhickds .gt_column_spanner {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  overflow-x: hidden;
-  display: inline-block;
-  width: 100%;
-}
-
-#jllnhickds .gt_spanner_row {
-  border-bottom-style: hidden;
-}
-
-#jllnhickds .gt_group_heading {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  text-align: left;
-}
-
-#jllnhickds .gt_empty_group_heading {
-  padding: 0.5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: middle;
-}
-
-#jllnhickds .gt_from_md > :first-child {
-  margin-top: 0;
-}
-
-#jllnhickds .gt_from_md > :last-child {
-  margin-bottom: 0;
-}
-
-#jllnhickds .gt_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  margin: 10px;
-  border-top-style: solid;
-  border-top-width: 1px;
-  border-top-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  overflow-x: hidden;
-}
-
-#jllnhickds .gt_stub {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#jllnhickds .gt_stub_row_group {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-  vertical-align: top;
-}
-
-#jllnhickds .gt_row_group_first td {
-  border-top-width: 2px;
-}
-
-#jllnhickds .gt_row_group_first th {
-  border-top-width: 2px;
-}
-
-#jllnhickds .gt_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#jllnhickds .gt_first_summary_row {
-  border-top-style: solid;
-  border-top-color: #D3D3D3;
-}
-
-#jllnhickds .gt_first_summary_row.thick {
-  border-top-width: 2px;
-}
-
-#jllnhickds .gt_last_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-
-#jllnhickds .gt_grand_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#jllnhickds .gt_first_grand_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-style: double;
-  border-top-width: 6px;
-  border-top-color: #D3D3D3;
-}
-
-#jllnhickds .gt_last_grand_summary_row_top {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-style: double;
-  border-bottom-width: 6px;
-  border-bottom-color: #D3D3D3;
-}
-
-#jllnhickds .gt_striped {
-  background-color: rgba(128, 128, 128, 0.05);
-}
-
-#jllnhickds .gt_table_body {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-
-#jllnhickds .gt_footnotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-
-#jllnhickds .gt_footnote {
-  margin: 0px;
-  font-size: 90%;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#jllnhickds .gt_sourcenotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-
-#jllnhickds .gt_sourcenote {
-  font-size: 90%;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#jllnhickds .gt_left {
-  text-align: left;
-}
-
-#jllnhickds .gt_center {
-  text-align: center;
-}
-
-#jllnhickds .gt_right {
-  text-align: right;
-  font-variant-numeric: tabular-nums;
-}
-
-#jllnhickds .gt_font_normal {
-  font-weight: normal;
-}
-
-#jllnhickds .gt_font_bold {
-  font-weight: bold;
-}
-
-#jllnhickds .gt_font_italic {
-  font-style: italic;
-}
-
-#jllnhickds .gt_super {
-  font-size: 65%;
-}
-
-#jllnhickds .gt_footnote_marks {
-  font-size: 75%;
-  vertical-align: 0.4em;
-  position: initial;
-}
-
-#jllnhickds .gt_asterisk {
-  font-size: 100%;
-  vertical-align: 0;
-}
-
-#jllnhickds .gt_indent_1 {
-  text-indent: 5px;
-}
-
-#jllnhickds .gt_indent_2 {
-  text-indent: 10px;
-}
-
-#jllnhickds .gt_indent_3 {
-  text-indent: 15px;
-}
-
-#jllnhickds .gt_indent_4 {
-  text-indent: 20px;
-}
-
-#jllnhickds .gt_indent_5 {
-  text-indent: 25px;
-}
-
-#jllnhickds .katex-display {
-  display: inline-flex !important;
-  margin-bottom: 0.75em !important;
-}
-
-#jllnhickds div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
-  height: 0px !important;
-}
-</style>
-
-<table class="gt_table caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-quarto-disable-processing="false" data-quarto-bootstrap="false">
+<p>Direct Muscular branches of Median N. (<a href="#tbl-median-nerve-oian" class="quarto-xref">Table&nbsp;1</a>)</p>
+<ul>
+<li><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/pronator_teres.html">Pronator Teres</a></li>
+<li><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_carpi_radialis.html">Flexor Carpi Radialis</a></li>
+<li><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/palmaris_longus.html">Palmaris Longus</a></li>
+<li><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_digitorum_superficialis_FDS.html">Flexor Digitorum Superficialis</a></li>
+</ul>
+<div class="cell" data-message="false" data-execution_count="1">
+<div class="cell-output cell-output-stdout">
+<pre><code>Warning: No 'path' link found for variable 'ref-1st-hand-lumbrical' in YAML data.
+Warning: No 'path' link found for variable 'ref-2nd-hand-lumbrical' in YAML data.
+Warning: No 'path' link found for variable 'ref-3rd-hand-lumbrical' in YAML data.
+Warning: No 'path' link found for variable 'ref-4th-hand-lumbrical' in YAML data.
+Warning: No 'origin' link found for variable 'ref-1st-hand-lumbrical' in YAML data.
+Warning: No 'origin' link found for variable 'ref-1st-hand-lumbrical' in YAML data.
+Warning: No 'origin' link found for variable 'ref-2nd-hand-lumbrical' in YAML data.
+Warning: No 'origin' link found for variable 'ref-2nd-hand-lumbrical' in YAML data.
+Warning: No 'origin' link found for variable 'ref-3rd-hand-lumbrical' in YAML data.
+Warning: No 'origin' link found for variable 'ref-3rd-hand-lumbrical' in YAML data.
+Warning: No 'origin' link found for variable 'ref-4th-hand-lumbrical' in YAML data.
+Warning: No 'origin' link found for variable 'ref-4th-hand-lumbrical' in YAML data.
+Warning: No 'insertion' link found for variable 'ref-1st-hand-lumbrical' in YAML data.
+Warning: No 'insertion' link found for variable 'ref-1st-hand-lumbrical' in YAML data.
+Warning: No 'insertion' link found for variable 'ref-2nd-hand-lumbrical' in YAML data.
+Warning: No 'insertion' link found for variable 'ref-2nd-hand-lumbrical' in YAML data.
+Warning: No 'insertion' link found for variable 'ref-3rd-hand-lumbrical' in YAML data.
+Warning: No 'insertion' link found for variable 'ref-3rd-hand-lumbrical' in YAML data.
+Warning: No 'insertion' link found for variable 'ref-4th-hand-lumbrical' in YAML data.
+Warning: No 'insertion' link found for variable 'ref-4th-hand-lumbrical' in YAML data.
+Warning: No 'innervation' link found for variable 'ref-1st-hand-lumbrical' in YAML data.
+Warning: No 'innervation' link found for variable 'ref-1st-hand-lumbrical' in YAML data.
+Warning: No 'innervation' link found for variable 'ref-2nd-hand-lumbrical' in YAML data.
+Warning: No 'innervation' link found for variable 'ref-2nd-hand-lumbrical' in YAML data.
+Warning: No 'innervation' link found for variable 'ref-3rd-hand-lumbrical' in YAML data.
+Warning: No 'innervation' link found for variable 'ref-3rd-hand-lumbrical' in YAML data.
+Warning: No 'innervation' link found for variable 'ref-4th-hand-lumbrical' in YAML data.
+Warning: No 'innervation' link found for variable 'ref-4th-hand-lumbrical' in YAML data.
+Warning: No 'action' link found for variable 'ref-1st-hand-lumbrical' in YAML data.
+Warning: No 'action' link found for variable 'ref-1st-hand-lumbrical' in YAML data.
+Warning: No 'action' link found for variable 'ref-1st-hand-lumbrical' in YAML data.
+Warning: No 'action' link found for variable 'ref-1st-hand-lumbrical' in YAML data.
+Warning: No 'action' link found for variable 'ref-2nd-hand-lumbrical' in YAML data.
+Warning: No 'action' link found for variable 'ref-2nd-hand-lumbrical' in YAML data.
+Warning: No 'action' link found for variable 'ref-2nd-hand-lumbrical' in YAML data.
+Warning: No 'action' link found for variable 'ref-2nd-hand-lumbrical' in YAML data.
+Warning: No 'action' link found for variable 'ref-3rd-hand-lumbrical' in YAML data.
+Warning: No 'action' link found for variable 'ref-3rd-hand-lumbrical' in YAML data.
+Warning: No 'action' link found for variable 'ref-3rd-hand-lumbrical' in YAML data.
+Warning: No 'action' link found for variable 'ref-3rd-hand-lumbrical' in YAML data.
+Warning: No 'action' link found for variable 'ref-4th-hand-lumbrical' in YAML data.
+Warning: No 'action' link found for variable 'ref-4th-hand-lumbrical' in YAML data.
+Warning: No 'action' link found for variable 'ref-4th-hand-lumbrical' in YAML data.
+Warning: No 'action' link found for variable 'ref-4th-hand-lumbrical' in YAML data.</code></pre>
+</div>
+<div id="tbl-median-nerve-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="1">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-median-nerve-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Median Nerve Muscle Innervations
+</figcaption>
+<div aria-describedby="tbl-median-nerve-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display">
+<table class="dataframe oian-table do-not-create-environment cell caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
 <colgroup>
 <col style="width: 20%">
 <col style="width: 20%">
@@ -721,881 +333,198 @@ div.csl-indent {
 <col style="width: 20%">
 </colgroup>
 <thead>
-<tr class="gt_heading header">
-<th colspan="5" class="gt_heading gt_title gt_font_normal gt_bottom_border">Median n. Muscle Innervations</th>
-</tr>
-<tr class="gt_col_headings even">
-<th id="name_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Muscle</th>
-<th id="origin_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Origin</th>
-<th id="insertion_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Insertion</th>
-<th id="innervation_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Innervation</th>
-<th id="action_final" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-size: 14px; font-weight: bold" scope="col">Action</th>
+<tr class="header">
+<th data-quarto-table-cell-role="th">Muscle</th>
+<th data-quarto-table-cell-role="th">Origin</th>
+<th data-quarto-table-cell-role="th">Insertion</th>
+<th data-quarto-table-cell-role="th">Innervation</th>
+<th data-quarto-table-cell-role="th">Action</th>
 </tr>
 </thead>
-<tbody class="gt_table_body">
+<tbody>
 <tr class="odd">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="NA">1st Lumbrical (hand)</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#origin">Tendon of flexor digitorum profundus</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="#origin">Tendon of flexor digitorum profundus</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#insertion">2nd dorsal digital expansion</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="#insertion">2nd dorsal digital expansion</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#nerve">Median n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="#nerve">C8</a> - <a href="NA">T1</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li><a href="#nerve">Median n.</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><a href="#nerve">C8</a> - <a href="NA">T1</a> [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz4ybmQgZGlnaXQ8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPjxhIGhyZWY9IiNhY3Rpb24iPk1DUCBGbGV4aW9uPC9hPiBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPGxpPjxhIGhyZWY9Ik5BIj5QSVAgJmFtcDsgRElQIEV4dGVuc2lvbjwvYT4gW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+Cg==">
-<span class="gt_from_md">
-<strong>2nd digit</strong>
-<p></p>
-<ul>
-<li><a href="#action">MCP Flexion</a> [@gilroyAtlasAnatomy2020]</li>
-<li><a href="NA">PIP &amp; DIP Extension</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com">1st Lumbrical (hand)</a></td>
+<td><a href="https://yomokerst.com">Tendon of flexor digitorum profundus</a></td>
+<td><a href="https://yomokerst.com">2nd dorsal digital expansion</a></td>
+<td><a href="https://yomokerst.com">Median n.</a><br>
+C8 - T1</td>
+<td><strong>2nd digit</strong>: <a href="https://yomokerst.com">MCP Flexion</a>, <a href="https://yomokerst.com">PIP &amp; DIP Extension</a></td>
 </tr>
 <tr class="even">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="NA">2nd Lumbrical (hand)</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="NA">Tendon of flexor digitorum profundus</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="NA">Tendon of flexor digitorum profundus</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="NA">3rd dorsal digital expansion</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="NA">3rd dorsal digital expansion</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="NA">Median n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="NA">C8</a> - <a href="NA">T1</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li><a href="NA">Median n.</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><a href="NA">C8</a> - <a href="NA">T1</a> [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz4zcmQgZGlnaXQ8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPjxhIGhyZWY9Ik5BIj5NQ1AgRmxleGlvbjwvYT4gW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjxsaT48YSBocmVmPSJOQSI+UElQICZhbXA7IERJUCBFeHRlbnNpb248L2E+IFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo=">
-<span class="gt_from_md">
-<strong>3rd digit</strong>
-<p></p>
-<ul>
-<li><a href="NA">MCP Flexion</a> [@gilroyAtlasAnatomy2020]</li>
-<li><a href="NA">PIP &amp; DIP Extension</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com">2nd Lumbrical (hand)</a></td>
+<td><a href="https://yomokerst.com">Tendon of flexor digitorum profundus</a></td>
+<td><a href="https://yomokerst.com">3rd dorsal digital expansion</a></td>
+<td><a href="https://yomokerst.com">Median n.</a><br>
+C8 - T1</td>
+<td><strong>3rd digit</strong>: <a href="https://yomokerst.com">MCP Flexion</a>, <a href="https://yomokerst.com">PIP &amp; DIP Extension</a></td>
 </tr>
 <tr class="odd">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="NA">3rd Lumbrical (hand)</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="NA">Tendon of flexor digitorum profundus</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="NA">Tendon of flexor digitorum profundus</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="NA">4th dorsal digital expansion</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="NA">4th dorsal digital expansion</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="NA">Median n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="NA">C8</a> - <a href="NA">T1</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li><a href="NA">Median n.</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><a href="NA">C8</a> - <a href="NA">T1</a> [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz40dGggZGlnaXQ8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPjxhIGhyZWY9Ik5BIj5NQ1AgRmxleGlvbjwvYT4gW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjxsaT48YSBocmVmPSJOQSI+UElQICZhbXA7IERJUCBFeHRlbnNpb248L2E+IFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo=">
-<span class="gt_from_md">
-<strong>4th digit</strong>
-<p></p>
-<ul>
-<li><a href="NA">MCP Flexion</a> [@gilroyAtlasAnatomy2020]</li>
-<li><a href="NA">PIP &amp; DIP Extension</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com">3rd Lumbrical (hand)</a></td>
+<td><a href="https://yomokerst.com">Tendon of flexor digitorum profundus</a></td>
+<td><a href="https://yomokerst.com">4th dorsal digital expansion</a></td>
+<td><a href="https://yomokerst.com">Median n.</a><br>
+C8 - T1</td>
+<td><strong>4th digit</strong>: <a href="https://yomokerst.com">MCP Flexion</a>, <a href="https://yomokerst.com">PIP &amp; DIP Extension</a></td>
 </tr>
 <tr class="even">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="NA">4th Lumbrical (hand)</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="NA">Tendon of flexor digitorum profundus</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="NA">Tendon of flexor digitorum profundus</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="NA">5th dorsal digital expansion</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="NA">5th dorsal digital expansion</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="NA">Median n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="NA">C8</a> - <a href="NA">T1</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li><a href="NA">Median n.</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><a href="NA">C8</a> - <a href="NA">T1</a> [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz41dGggZGlnaXQ8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPjxhIGhyZWY9Ik5BIj5NQ1AgRmxleGlvbjwvYT4gW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjxsaT48YSBocmVmPSJOQSI+UElQICZhbXA7IERJUCBFeHRlbnNpb248L2E+IFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo=">
-<span class="gt_from_md">
-<strong>5th digit</strong>
-<p></p>
-<ul>
-<li><a href="NA">MCP Flexion</a> [@gilroyAtlasAnatomy2020]</li>
-<li><a href="NA">PIP &amp; DIP Extension</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com">4th Lumbrical (hand)</a></td>
+<td><a href="https://yomokerst.com">Tendon of flexor digitorum profundus</a></td>
+<td><a href="https://yomokerst.com">5th dorsal digital expansion</a></td>
+<td><a href="https://yomokerst.com">Median n.</a><br>
+C8 - T1</td>
+<td><strong>5th digit</strong>: <a href="https://yomokerst.com">MCP Flexion</a>, <a href="https://yomokerst.com">PIP &amp; DIP Extension</a></td>
 </tr>
 <tr class="odd">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="NA">Abductor digiti minimi (hand)</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="NA">hand_flexor_retinaculum</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="NA">hand_flexor_retinaculum</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#insertion">Base of 1st proximal phalanx (radial sesamoid)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="#insertion">Base of 1st proximal phalanx (radial sesamoid)</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#nerve">Median n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="#nerve">C8</a> - <a href="NA">T1</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li><a href="#nerve">Median n.</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><a href="#nerve">C8</a> - <a href="NA">T1</a> [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5DTUM8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPjxhIGhyZWY9IiNhY3Rpb24iPkFiZHVjdGlvbjwvYT4gW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+Cg==">
-<span class="gt_from_md">
-<strong>CMC</strong>
-<p></p>
-<ul>
-<li><a href="#action">Abduction</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_digiti_minimi_hand.html">Abductor digiti minimi (hand)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_digiti_minimi_hand.html#origin">hand_flexor_retinaculum</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_digiti_minimi_hand.html#insertion">Base of 1st proximal phalanx (radial sesamoid)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_digiti_minimi_hand.html#nerve">Median n.</a><br>
+C8 - T1</td>
+<td><strong>CMC</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_digiti_minimi_hand.html#action">Abduction</a></td>
 </tr>
 <tr class="even">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="NA">Abductor pollicis brevis</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="#origin">Scaphoid</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="NA">Trapezium</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="NA">Flexor retinaculum</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p><a href="#origin">Scaphoid</a> [@gilroyAtlasAnatomy2020]</p></li>
-<li><p><a href="NA">Trapezium</a> [@gilroyAtlasAnatomy2020]</p></li>
-<li><p><a href="NA">Flexor retinaculum</a> [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#insertion">1st proximal phalanx via radial sesamoid</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="#insertion">1st proximal phalanx via radial sesamoid</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#nerve">Median n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="#nerve">C8</a> - <a href="NA">T1</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li><a href="#nerve">Median n.</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><a href="#nerve">C8</a> - <a href="NA">T1</a> [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5DTUM8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPjxhIGhyZWY9IiNhY3Rpb24iPkFiZHVjdGlvbjwvYT4gW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+Cg==">
-<span class="gt_from_md">
-<strong>CMC</strong>
-<p></p>
-<ul>
-<li><a href="#action">Abduction</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html">Abductor pollicis brevis</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#origin">Scaphoid</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#origin">Trapezium</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#origin">Flexor retinaculum</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#insertion">1st proximal phalanx via radial sesamoid</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#nerve">Median n.</a><br>
+C8 - T1</td>
+<td><strong>CMC</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#action">Abduction</a></td>
 </tr>
 <tr class="odd">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="NA">Flexor carpi radialis</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#origin">Medial epicondyle</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="#origin">Medial epicondyle</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="#insertion">Base of 2nd Metacarpal</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="NA">(Sometimes base of 3rd Met)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p><a href="#insertion">Base of 2nd Metacarpal</a> [@gilroyAtlasAnatomy2020]</p></li>
-<li><p><a href="NA">(Sometimes base of 3rd Met)</a> [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#nerve">Median n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="#nerve">C6</a> - <a href="NA">C7</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li><a href="#nerve">Median n.</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><a href="#nerve">C6</a> - <a href="NA">C7</a> [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5XcmlzdDwvc3Ryb25nPjwvcD4KPHVsPgo8bGk+PGEgaHJlZj0iI2FjdGlvbiI+RmxleGlvbjwvYT4gW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjxsaT48YSBocmVmPSJOQSI+UmFkaWFsIGRldmlhdGlvbjwvYT4gW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+Cg==">
-<span class="gt_from_md">
-<strong>Wrist</strong>
-<p></p>
-<ul>
-<li><a href="#action">Flexion</a> [@gilroyAtlasAnatomy2020]</li>
-<li><a href="NA">Radial deviation</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_carpi_radialis.html">Flexor carpi radialis</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_carpi_radialis.html#origin">Medial epicondyle</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_carpi_radialis.html#insertion">Base of 2nd Metacarpal</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_carpi_radialis.html#insertion">(Sometimes base of 3rd Met)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_carpi_radialis.html#innervation">Median n.</a><br>
+C6 - C7</td>
+<td><strong>Wrist</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_carpi_radialis.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_carpi_radialis.html#action">Radial deviation</a></td>
 </tr>
 <tr class="even">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="NA">Flexor digitorum profundus</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="#origin">Proximal ⅔ of Ulna</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="NA">Interosseous_membrane</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p><a href="#origin">Proximal ⅔ of Ulna</a> [@gilroyAtlasAnatomy2020]</p></li>
-<li><p><a href="NA">Interosseous_membrane</a> [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#insertion">Palmar surface of Distal phalanges 2-5</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="#insertion">Palmar surface of Distal phalanges 2-5</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="#nerve">Median n.&nbsp;(digits 2-3)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="NA">Ulnar n.&nbsp;(digits 4-5)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="#nerve">C8</a> - <a href="NA">T1</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li><p><a href="#nerve">Median n. (digits 2-3)</a> [@gilroyAtlasAnatomy2020]</p></li>
-<li><p><a href="NA">Ulnar n. (digits 4-5)</a> [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-<p><a href="#nerve">C8</a> - <a href="NA">T1</a> [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5NQ1AsIFBJUCwgJmFtcDsgRElQIDItNTwvc3Ryb25nPjwvcD4KPHVsPgo8bGk+PGEgaHJlZj0iTkEiPkZsZXhpb248L2E+IFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo8cD48c3Ryb25nPldyaXN0PC9zdHJvbmc+PC9wPgo8dWw+CjxsaT48YSBocmVmPSIjYWN0aW9uIj5GbGV4aW9uPC9hPiBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPC91bD4K">
-<span class="gt_from_md">
-<strong>MCP, PIP, &amp; DIP 2-5</strong>
-<p></p>
-<ul>
-<li><a href="NA">Flexion</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>Wrist</strong></p>
-<ul>
-<li><a href="#action">Flexion</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_profundus_FDP.html">Flexor digitorum profundus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_profundus_FDP.html#origin">Proximal 2/3 of Ulna</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_profundus_FDP.html#origin">Interosseous_membrane</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_profundus_FDP.html#insertion">Palmar surface of Distal phalanges 2-5</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_profundus_FDP.html#innervation">Median n. (digits 2-3)</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_profundus_FDP.html#innervation">Ulnar n. (digits 4-5)</a><br>
+C8 - T1</td>
+<td><strong>Wrist</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_profundus_FDP.html#action">Flexion</a><br>
+<strong>MCP, PIP, &amp; DIP 2-5</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_profundus_FDP.html#action">Flexion</a></td>
 </tr>
 <tr class="odd">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="NA">Flexor digitorum superficialis</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="#origin">Medial epicondyle</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="NA">Coronoid process</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="NA">Anterior proximal half of Radius</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p><a href="#origin">Medial epicondyle</a> [@gilroyAtlasAnatomy2020]</p></li>
-<li><p><a href="NA">Coronoid process</a> [@gilroyAtlasAnatomy2020]</p></li>
-<li><p><a href="NA">Anterior proximal half of Radius</a> [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#insertion">Sides of middle phalanges 2-5</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="#insertion">Sides of middle phalanges 2-5</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#nerve">Median n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="#nerve">C8</a> - <a href="NA">T1</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li><a href="#nerve">Median n.</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><a href="#nerve">C8</a> - <a href="NA">T1</a> [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz4yLTUgTUNQICZhbXA7IFBJUDwvc3Ryb25nPjwvcD4KPHVsPgo8bGk+PGEgaHJlZj0iTkEiPkZsZXhpb248L2E+IFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8bGk+PGEgaHJlZj0iTkEiPkZsZXhpb248L2E+IFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo8cD48c3Ryb25nPkVsYm93PC9zdHJvbmc+PC9wPgo8dWw+CjxsaT48YSBocmVmPSIjYWN0aW9uIj5XZWFrIGZsZXhpb248L2E+IFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo8cD48c3Ryb25nPldyaXN0PC9zdHJvbmc+PC9wPgo8dWw+CjxsaT48YSBocmVmPSJOQSI+RmxleGlvbjwvYT4gW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+Cg==">
-<span class="gt_from_md">
-<strong>2-5 MCP &amp; PIP</strong>
-<p></p>
-<ul>
-<li><a href="NA">Flexion</a> [@gilroyAtlasAnatomy2020]</li>
-<li><a href="NA">Flexion</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>Elbow</strong></p>
-<ul>
-<li><a href="#action">Weak flexion</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>Wrist</strong></p>
-<ul>
-<li><a href="NA">Flexion</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_superficialis_FDS.html">Flexor digitorum superficialis</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_superficialis_FDS.html#origin">Medial epicondyle</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_superficialis_FDS.html#origin">Coronoid process</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_superficialis_FDS.html#origin">Anterior proximal half of Radius</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_superficialis_FDS.html#insertion">Sides of middle phalanges 2-5</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_superficialis_FDS.html#innervation">Median n.</a><br>
+C8 - T1</td>
+<td><strong>Elbow</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_superficialis_FDS.html#action">Weak flexion</a><br>
+<strong>Wrist</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_superficialis_FDS.html#action">Flexion</a><br>
+<strong>2-5 MCP &amp; PIP</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_superficialis_FDS.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_digitorum_superficialis_FDS.html#action">Flexion</a></td>
 </tr>
 <tr class="even">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="NA">Flexor pollicis brevis</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="#origin">Flexor retinaculum</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="NA">Capitate</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="NA">Trapezium</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p><a href="#origin">Flexor retinaculum</a> [@gilroyAtlasAnatomy2020]</p></li>
-<li><p><a href="NA">Capitate</a> [@gilroyAtlasAnatomy2020]</p></li>
-<li><p><a href="NA">Trapezium</a> [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#insertion">1st proximal phalanx via radial sesamoid</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="#insertion">1st proximal phalanx via radial sesamoid</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="#nerve">Median n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="#nerve">Ulnar n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="#nerve">C8</a> - <a href="NA">T1</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li><p><a href="#nerve">Median n.</a> [@gilroyAtlasAnatomy2020]</p></li>
-<li><p><a href="#nerve">Ulnar n.</a> [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-<p><a href="#nerve">C8</a> - <a href="NA">T1</a> [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5DTUM8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPjxhIGhyZWY9IiNhY3Rpb24iPkZsZXhpb248L2E+IFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo=">
-<span class="gt_from_md">
-<strong>CMC</strong>
-<p></p>
-<ul>
-<li><a href="#action">Flexion</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html">Flexor pollicis brevis</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#origin">Flexor retinaculum</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#origin">Capitate</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#origin">Trapezium</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#insertion">1st proximal phalanx via radial sesamoid</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#nerve">Median n.</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#nerve">Ulnar n.</a><br>
+C8 - T1</td>
+<td><strong>CMC</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/abductor_pollicis_brevis.html#action">Flexion</a></td>
 </tr>
 <tr class="odd">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="NA">Flexor pollicis longus</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="#origin">Midanterior Radius</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="NA">Adjacent Interosseous membrane</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p><a href="#origin">Midanterior Radius</a> [@gilroyAtlasAnatomy2020]</p></li>
-<li><p><a href="NA">Adjacent Interosseous membrane</a> [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#insertion">Distal phalanx of thumb</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="#insertion">Distal phalanx of thumb</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#nerve">Median n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="#nerve">C8</a> - <a href="NA">T1</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li><a href="#nerve">Median n.</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><a href="#nerve">C8</a> - <a href="NA">T1</a> [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz4xc3QgQ01DLCBJUCwgTUNQPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT48YSBocmVmPSJOQSI+RmxleGlvbjwvYT4gW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+CjxwPjxzdHJvbmc+V3Jpc3Q8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPjxhIGhyZWY9IiNhY3Rpb24iPkZsZXhpb248L2E+IFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8bGk+PGEgaHJlZj0iTkEiPlJhZGlhbCBkZXZpYXRpb248L2E+IFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo=">
-<span class="gt_from_md">
-<strong>1st CMC, IP, MCP</strong>
-<p></p>
-<ul>
-<li><a href="NA">Flexion</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>Wrist</strong></p>
-<ul>
-<li><a href="#action">Flexion</a> [@gilroyAtlasAnatomy2020]</li>
-<li><a href="NA">Radial deviation</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_pollicis_longus.html">Flexor pollicis longus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_pollicis_longus.html#origin">Midanterior Radius</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_pollicis_longus.html#origin">Adjacent Interosseous membrane</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_pollicis_longus.html#insertion">Distal phalanx of thumb</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_pollicis_longus.html#innervation">Median n.</a><br>
+C8 - T1</td>
+<td><strong>Wrist</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_pollicis_longus.html#action">Flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_pollicis_longus.html#action">Radial deviation</a><br>
+<strong>1st CMC, IP, MCP</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/flexor_pollicis_longus.html#action">Flexion</a></td>
 </tr>
 <tr class="even">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="NA">Opponens pollicis</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#origin">Trapezium</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="#origin">Trapezium</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#insertion">1st metacarpal (radial border)</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="#insertion">1st metacarpal (radial border)</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#nerve">Median n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="#nerve">C8</a> - <a href="NA">T1</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li><a href="#nerve">Median n.</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><a href="#nerve">C8</a> - <a href="NA">T1</a> [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5DTUM8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPjxhIGhyZWY9IiNhY3Rpb24iPk9wcG9zaXRpb248L2E+IFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo=">
-<span class="gt_from_md">
-<strong>CMC</strong>
-<p></p>
-<ul>
-<li><a href="#action">Opposition</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/opponens_pollicis.html">Opponens pollicis</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/opponens_pollicis.html#origin">Trapezium</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/opponens_pollicis.html#insertion">1st metacarpal (radial border)</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/opponens_pollicis.html#nerve">Median n.</a><br>
+C8 - T1</td>
+<td><strong>CMC</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Hand%20Muscles/opponens_pollicis.html#action">Opposition</a></td>
 </tr>
 <tr class="odd">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="NA">Palmaris longus</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#origin">Medial epicondyle</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="#origin">Medial epicondyle</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#insertion">Palmar aponeurosis</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="#insertion">Palmar aponeurosis</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#nerve">Median n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="#nerve">C6</a> - <a href="NA">C7</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li><a href="#nerve">Median n.</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><a href="#nerve">C6</a> - <a href="NA">C7</a> [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5FbGJvdzwvc3Ryb25nPjwvcD4KPHVsPgo8bGk+PGEgaHJlZj0iI2FjdGlvbiI+V2VhayBmbGV4aW9uPC9hPiBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPC91bD4KPHA+PHN0cm9uZz5XcmlzdDwvc3Ryb25nPjwvcD4KPHVsPgo8bGk+PGEgaHJlZj0iTkEiPlRpZ2h0ZW5zIGFwb25ldXJvc2lzPC9hPiBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPC91bD4K">
-<span class="gt_from_md">
-<strong>Elbow</strong>
-<p></p>
-<ul>
-<li><a href="#action">Weak flexion</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>Wrist</strong></p>
-<ul>
-<li><a href="NA">Tightens aponeurosis</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/palmaris_longus.html">Palmaris longus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/palmaris_longus.html#origin">Medial epicondyle</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/palmaris_longus.html#insertion">Palmar aponeurosis</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/palmaris_longus.html#innervation">Median n.</a><br>
+C6 - C7</td>
+<td><strong>Elbow</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/palmaris_longus.html#action">Weak flexion</a><br>
+<strong>Wrist</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/palmaris_longus.html#action">Tightens aponeurosis</a></td>
 </tr>
 <tr class="even">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="NA">Pronator quadratus</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#origin">Distal ¼ of anterior Ulna</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="#origin">Distal ¼ of anterior Ulna</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#insertion">Distal ¼ of anterior Radius</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="#insertion">Distal ¼ of anterior Radius</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#nerve">Median n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="#nerve">C8</a> - <a href="NA">T1</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li><a href="#nerve">Median n.</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><a href="#nerve">C8</a> - <a href="NA">T1</a> [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5EaXN0YWwgUlVKPC9zdHJvbmc+PC9wPgo8dWw+CjxsaT48YSBocmVmPSJOQSI+U3RhYmlsaXphdGlvbjwvYT4gW0BnaWxyb3lBdGxhc0FuYXRvbXkyMDIwXTwvbGk+CjwvdWw+CjxwPjxzdHJvbmc+RWxib3cvRm9yZWFybTwvc3Ryb25nPjwvcD4KPHVsPgo8bGk+PGEgaHJlZj0iI2FjdGlvbiI+UHJvbmF0aW9uPC9hPiBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPC91bD4K">
-<span class="gt_from_md">
-<strong>Distal RUJ</strong>
-<p></p>
-<ul>
-<li><a href="NA">Stabilization</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><strong>Elbow/Forearm</strong></p>
-<ul>
-<li><a href="#action">Pronation</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/pronator_quadratus.html">Pronator quadratus</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/pronator_quadratus.html#origin">Distal 1/4 of anterior Ulna</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/pronator_quadratus.html#insertion">Distal 1/4 of anterior Radius</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/pronator_quadratus.html#innervation">Median n.</a><br>
+C8 - T1</td>
+<td><strong>Elbow/Forearm</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/pronator_quadratus.html#action">Pronation</a><br>
+<strong>Distal RUJ</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/pronator_quadratus.html#action">Stabilization</a></td>
 </tr>
 <tr class="odd">
-<td class="gt_row gt_left" headers="name_final" style="font-size: 12px"><a href="NA">Pronator teres</a></td>
-<td class="gt_row gt_left" headers="origin_final" style="font-size: 12px"><ul><br>
-<li><br>
-<p><br>
-<a href="#origin">Medial epicondyle</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-<li><br>
-<p><br>
-<a href="NA">Coronoid process</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</p><br>
-</li><br>
-</ul>
-<ul>
-<li><p><a href="#origin">Medial epicondyle</a> [@gilroyAtlasAnatomy2020]</p></li>
-<li><p><a href="NA">Coronoid process</a> [@gilroyAtlasAnatomy2020]</p></li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="insertion_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#insertion">L:ateral radius distal to supinator</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul>
-<ul>
-<li><a href="#insertion">L:ateral radius distal to supinator</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</td>
-<td class="gt_row gt_left" headers="innervation_final" style="font-size: 12px"><ul><br>
-<li><br>
-<a href="#nerve">Median n.</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span><br>
-</li><br>
-</ul><br>
-<p><br>
-<a href="#nerve">C6</a> - <a href="NA">C7</a><span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
-</p><ul>
-<li><a href="#nerve">Median n.</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-<p><a href="#nerve">C6</a> - <a href="NA">C7</a> [@gilroyAtlasAnatomy2020]</p></td>
-<td class="gt_row gt_left" headers="action_final" style="font-size: 12px"><span data-qmd-base64="PHN0cm9uZz5FbGJvdzwvc3Ryb25nPjwvcD4KPHVsPgo8bGk+PGEgaHJlZj0iI2FjdGlvbiI+V2VhayBmbGV4aW9uPC9hPiBbQGdpbHJveUF0bGFzQW5hdG9teTIwMjBdPC9saT4KPGxpPjxhIGhyZWY9Ik5BIj5Qcm9uYXRpb248L2E+IFtAZ2lscm95QXRsYXNBbmF0b215MjAyMF08L2xpPgo8L3VsPgo=">
-<span class="gt_from_md">
-<strong>Elbow</strong>
-<p></p>
-<ul>
-<li><a href="#action">Weak flexion</a> [@gilroyAtlasAnatomy2020]</li>
-<li><a href="NA">Pronation</a> [@gilroyAtlasAnatomy2020]</li>
-</ul>
-</span></span></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/pronator_teres.html">Pronator teres</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/pronator_teres.html#origin">Medial epicondyle</a><br>
+<a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/pronator_teres.html#origin">Coronoid process</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/pronator_teres.html#insertion">L:ateral radius distal to supinator</a></td>
+<td><a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/pronator_teres.html#innervation">Median n.</a><br>
+C6 - C7</td>
+<td><strong>Elbow</strong>: <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/pronator_teres.html#action">Weak flexion</a>, <a href="https://yomokerst.com/The%20Archive/Anatomy/Skeletal%20Muscles/Upper%20Limb%20Muscles/Forearm%20Anterior%20Compartment/pronator_teres.html#action">Pronation</a></td>
 </tr>
 </tbody>
 </table>
-
 </div>
 </div>
+</figure>
 </div>
-<table class="table-striped table-hover caption-top table">
-<caption>Direct Muscular branches of Median N.</caption>
+</div>
+<div class="cell" data-message="false" data-execution_count="2">
+<div id="tbl-aio-nerve-oian" class="cell quarto-float quarto-figure quarto-figure-center anchored" data-message="false" data-execution_count="2">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-aio-nerve-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;2: Indirect Median nerve innervations via Anterior Interosseous Nerve
+</figcaption>
+<div aria-describedby="tbl-aio-nerve-oian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display">
+<table class="dataframe oian-table do-not-create-environment cell caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
 <thead>
 <tr class="header">
-<th>Muscle</th>
-<th>Origin</th>
-<th>Insertion</th>
-<th>Nerve</th>
-<th>Action</th>
+<th data-quarto-table-cell-role="th">Muscle</th>
+<th data-quarto-table-cell-role="th">Origin</th>
+<th data-quarto-table-cell-role="th">Insertion</th>
+<th data-quarto-table-cell-role="th">Innervation</th>
+<th data-quarto-table-cell-role="th">Action</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/pronator_teres.html">Pronator Teres</a></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/pronator_teres.html#origin</p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/pronator_teres.html#insertion</p></td>
-<td><p><strong>?var:ref-pronator-teres.nerve</strong></p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/pronator_teres.html#action</p></td>
-</tr>
-<tr class="even">
-<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_carpi_radialis.html">Flexor Carpi Radialis</a></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_carpi_radialis.html#origin</p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_carpi_radialis.html#insertion</p></td>
-<td><p><strong>?var:ref-flexor-carpi-radialis.nerve</strong></p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_carpi_radialis.html#action</p></td>
-</tr>
-<tr class="odd">
-<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/palmaris_longus.html">Palmaris Longus</a></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/palmaris_longus.html#origin</p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/palmaris_longus.html#insertion</p></td>
-<td><p><strong>?var:ref-palmaris-longus.nerve</strong></p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/palmaris_longus.html#action</p></td>
-</tr>
-<tr class="even">
-<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_digitorum_superficialis_FDS.html">Flexor Digitorum Superficialis</a></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_digitorum_superficialis_FDS.html#origin</p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_digitorum_superficialis_FDS.html#insertion</p></td>
-<td><p><strong>?var:ref-flexor-digitorum-superficialis.nerve</strong></p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_digitorum_superficialis_FDS.html#action</p></td>
-</tr>
 </tbody>
 </table>
-<table class="table-striped table-hover caption-top table">
-<caption>Indirect Muscular branches of Median N. (via anterior interosseous n.)</caption>
-<thead>
-<tr class="header">
-<th>Muscle</th>
-<th>Origin</th>
-<th>Insertion</th>
-<th>Nerve</th>
-<th>Action</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_digitorum_profundus_FDP.html">Flexor Digitorum Profundus</a></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_digitorum_profundus_FDP.html#origin</p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_digitorum_profundus_FDP.html#insertion</p></td>
-<td><p><strong>?var:ref-flexor-digitorum-profundus.nerve</strong></p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_digitorum_profundus_FDP.html#action</p></td>
-</tr>
-<tr class="even">
-<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_pollicis_longus.html">Flexor Pollicis Longus</a></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_pollicis_longus.html#origin</p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_pollicis_longus.html#insertion</p></td>
-<td><p><strong>?var:ref-flexor-pollicis-longus.nerve</strong></p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/flexor_pollicis_longus.html#action</p></td>
-</tr>
-<tr class="odd">
-<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/pronator_quadratus.html">Pronator Quadratus</a></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/pronator_quadratus.html#origin</p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/pronator_quadratus.html#insertion</p></td>
-<td><p><strong>?var:ref-pronator-quadratus.nerve</strong></p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Forearm Anterior Compartment/pronator_quadratus.html#action</p></td>
-</tr>
-</tbody>
-</table>
-<p>Recurrent br.<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span></p>
-<table class="table-striped table-hover caption-top table">
-<caption>Indirect branches of Median N. (via recurrent br.)</caption>
-<thead>
-<tr class="header">
-<th>Muscle</th>
-<th>Origin</th>
-<th>Insertion</th>
-<th>Nerve</th>
-<th>Action</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/opponens_pollicis.html">Opponens Pollicis</a></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/opponens_pollicis.html#origin</p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/opponens_pollicis.html#insertion</p></td>
-<td><p><strong>?var:ref-opponens-pollicis.nerve</strong></p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/opponens_pollicis.html#action</p></td>
-</tr>
-<tr class="even">
-<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_pollicis_brevis.html">Abductor Pollicis Brevis</a></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_pollicis_brevis.html#origin</p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_pollicis_brevis.html#insertion</p></td>
-<td><p><strong>?var:ref-abductor-pollicis-brevis.nerve</strong></p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_pollicis_brevis.html#action</p></td>
-</tr>
-<tr class="odd">
-<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/flexor_pollicis_brevis.html">Flexor Pollicis Brevis</a></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/flexor_pollicis_brevis.html#origin</p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/flexor_pollicis_brevis.html#insertion</p></td>
-<td><p><strong>?var:ref-flexor-pollicis-brevis.nerve</strong></p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/flexor_pollicis_brevis.html#action</p></td>
-</tr>
-</tbody>
-</table>
-<p>Indirect Muscular brs. via common palmar digital nn.<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span></p>
-<table class="table-striped table-hover caption-top table">
-<caption>Indirect branches of Median N. (common palmar digital nn.)</caption>
-<thead>
-<tr class="header">
-<th>Muscle</th>
-<th>Origin</th>
-<th>Insertion</th>
-<th>Nerve</th>
-<th>Action</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/lumbrical_muscles_hand.html">Lumbricals (Hand)</a></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/lumbrical_muscles_hand.html#origin</p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/lumbrical_muscles_hand.html#insertion</p></td>
-<td><p><strong>?var:ref-lumbricals-hand.nerve</strong></p></td>
-<td><p>/The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/lumbrical_muscles_hand.html#action</p></td>
-</tr>
-</tbody>
-</table>
+</div>
+</div>
+</figure>
+</div>
+</div>
+<ul>
+<li>Recurrent br
+<ul>
+<li><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/opponens_pollicis.html">Opponens Pollicis</a></li>
+<li><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/abductor_pollicis_brevis.html">Abductor Pollicis Brevis</a></li>
+<li><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/flexor_pollicis_brevis.html">Flexor Pollicis Brevis</a></li>
+</ul></li>
+<li>Indirect Muscular brs. via common palmar digital nn.<span class="citation" data-cites="gilroyAtlasAnatomy2020"><sup><a href="#ref-gilroyAtlasAnatomy2020" role="doc-biblioref">2</a></sup></span>
+<ul>
+<li><a href="../../../../The Archive/Anatomy/Skeletal Muscles/Upper Limb Muscles/Hand Muscles/lumbrical_muscles_hand.html">Lumbricals 1 &amp; 2 (Hand)</a></li>
+</ul></li>
+</ul>
 </section>
 <section id="sensory-branches" class="level1">
 <h1>Sensory Branches</h1>
@@ -1663,23 +592,25 @@ div.csl-indent {
 <li>Entrapment within carpal tunnel</li>
 <li><strong>Very common</strong></li>
 </ul>
-<section id="clinical-presentation-1" class="level3">
-<h3 class="anchored" data-anchor-id="clinical-presentation-1">Clinical Presentation</h3>
+<h1 id="palsy">
+Palsy
+</h1>
+<h2 id="palsy-presentation" class="anchored">
+Clinical Presentation
+</h2>
 <ul>
 <li>Sensory loss over the palmar surface of the hand in a median nerve distribution</li>
 <li>Can have motor weakness of thenar muscles and 1⁄2 lumbricals</li>
 </ul>
-</section>
-<section id="evaluation" class="level3">
-<h3 class="anchored" data-anchor-id="evaluation">Evaluation</h3>
+<h2 id="palsy-examination" class="anchored">
+Evaluation
+</h2>
 <ul>
 <li>Tinel’s at carpal tunnel</li>
 </ul>
-</section>
-</section>
-</section>
-<section id="tension" class="level1">
-<h1>Median Nerve Tensioning</h1>
+<h1 id="tension">
+Median Nerve Tensioning
+</h1>
 <ul>
 <li><p>ULTT1</p></li>
 <li><p>ULTT2a</p></li>
@@ -1690,9 +621,9 @@ div.csl-indent {
 <li><p>Use your thigh to support and control the patient’s elbow</p></li>
 <li><p>Use your other hand to pull the patient’s shoulder into <strong>depression</strong>.</p></li>
 </ul>
-</section>
-<section id="entrapment" class="level1">
-<h1>Entrapment</h1>
+<h1 id="entrapment">
+Entrapment
+</h1>
 <div class="callout callout-style-simple callout-none no-icon callout-titled" title="Reading list">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -1709,6 +640,7 @@ Reading list
 </div>
 </div>
 </section>
+</section>
 <section id="examination" class="level1">
 <h1>Examination</h1>
 <ul>
@@ -1721,6 +653,13 @@ Reading list
 <li>Reverse Phalen’s</li>
 <li>Tinel’s Test</li>
 </ul>
+</section>
+<section id="ape-hand" class="level1">
+<h1>Ape hand</h1>
+<p>Wasting of thenar eminence due to median n.&nbsp;palsy.</p>
+</section>
+<section id="median-claw-hand" class="level1">
+<h1>Median Claw Hand</h1>
 </section>
 <section id="strain-counterstrain" class="level1">
 <h1>Strain Counterstrain</h1>

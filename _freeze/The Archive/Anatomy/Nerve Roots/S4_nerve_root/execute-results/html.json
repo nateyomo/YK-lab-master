@@ -1,10 +1,10 @@
 {
-  "hash": "bef31520b9028b732248fccd6a46318b",
+  "hash": "e3219087259eccbfd130e7e2abd8d932",
   "result": {
     "engine": "jupyter",
     "markdown": "---\ntitle: S4 Nerve Root (S4)\n---\n\n\n\n![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif){#fig-gray1918-image796}\n\n# Motor Innervation\n\n::: {#tbl-s4-oian .cell message='false' execution_count=1}\n\n::: {.cell-output .cell-output-display}\n```{=html}\n<table border=\"1\" class=\"dataframe oian-table\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>Muscle</th>\n      <th>Origin</th>\n      <th>Insertion</th>\n      <th>Innervation</th>\n      <th>Action</th>\n    </tr>\n  </thead>\n  <tbody>\n  </tbody>\n</table>\n```\n:::\n:::\n\n\n",
     "supporting": [
-      "S4_nerve_root_files"
+      "S4_nerve_root_files/figure-html"
     ],
     "filters": [],
     "includes": {

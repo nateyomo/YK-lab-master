@@ -24,8 +24,7 @@ author:
     - Doctor of Physical Therapy
     - B.S. in Kinesiology
   degrees:
-    - B.S.
-    - SPT
+    - PT, DPT
 - id: CAK
   number: 2
   name: 
@@ -37,9 +36,9 @@ author:
     - Doctor of Physical Therapy
     - B.A. in Neuroscience
   degrees:
-    - B.S.
-    - SPT
-publisher: Yomogida-Kerstein Laboratory
+    - PT, DPT
+
+publisher: Yomokerst
 
 website:
   twitter-card:

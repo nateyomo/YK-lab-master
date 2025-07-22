@@ -2,8 +2,6 @@
 title: Index of MSK
 ---
 
-
-
 - Head 
 - Neck
 - Thoracic Spine
@@ -18,4 +16,4 @@ title: Index of MSK
     - Hip
     - Knee
     - Ankle
-    - Foot
+    - <a href="{{< ref-foot-msk.path >}}">Foot</a>

@@ -1,0 +1,136 @@
+---
+title: Quick Disabilities of Arm, Shoulder & Hand (Quick DASH)
+---
+
+
+::: {.callout}
+
+Resources
+
+- [QDASH Recommended MCID](https://www.sralab.org/sites/default/files/downloads/2023-05/QDASH%20MCID%20Recommendation%20FINAL.pdf)
+
+:::
+
+
+1. Open a tight or new jar.
+2. Do heavy household chores. (e.g.,
+wash walls, floors)
+3. Carry a shopping bag or briefcase.
+4. Wash your back.
+5. Use a knife to cut food.
+6. Recreational activities in which you take some force or impact through your arm, shoulder or hand. (e.g., golf, hammering, tennis, etc.)
+7. During the past week, to what extent has your arm, shoulder or hand problem interfered with your normal social activities with family, friends, neighbors or groups?
+8. During the past week, were you limited in your work or other regular daily activities as a result of your arm, shoulder or hand problem? Please rate the severity of the symptoms
+9. Arm, shoulder or hand pain.
+10. Tingling (pins and needles) in your arm, shoulder or hand.
+11. During the past week, how much difficulty have you had sleeping because of pain in your arm, shoulder or hand? (circle number)
+
+# Scoring
+
+The QuickDASH is scored from 1-5 with 5 being most disabled.
+
+# javascript
+
+<table class="basic-table">
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Description</th>
+      <th>No difficulty</th>
+      <th>Mild</th>
+      <th>Moderate</th>
+      <th>Severe difficulty</th>
+      <th>Unable</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Rows will be injected here -->
+  </tbody>
+</table>
+
+<script>
+  const items = [
+    "Do heavy household chores (e.g., wash walls, floors)",
+    "Carry a heavy bag of groceries",
+    "Reach for an object on a high shelf"
+  ];
+
+  const tbody = document.querySelector(".basic-table tbody");
+
+  items.forEach((desc, index) => {
+    const row = document.createElement("tr");
+    row.innerHTML = `
+      <td>${index + 1}</td>
+      <td>${desc}</td>
+      <td>No difficulty</td>
+      <td>Mild</td>
+      <td>Moderate</td>
+      <td>Severe difficulty</td>
+      <td>Unable</td>
+    `;
+    tbody.appendChild(row);
+  });
+</script>
+
+
+# Form
+
+
+<table class="basic-table">
+  <tr>
+    <td>Item 1</td>
+    <td>Open a tight or new jar</td>
+    <td>No difficulty</td>
+    <td>Mild</td>
+    <td>Moderate</td>
+    <td>Severe difficulty</td>
+    <td>Unable</td>
+  </tr>
+  <tr>
+    <td>Item 2</td>
+    <td>Do heavy household chores (e.g., wash walls, floors)</td>
+    <td>No difficulty</td>
+    <td>Mild</td>
+    <td>Moderate</td>
+    <td>Severe difficulty</td>
+    <td>Unable</td>
+  </tr>
+</table>
+
+1. Open a tight or new jar.
+2. Do heavy household chores. (e.g.,
+wash walls, floors)
+3. Carry a shopping bag or briefcase.
+4. Wash your back.
+5. Use a knife to cut food.
+6. Recreational activities in which you take some force or impact through your arm, shoulder or hand. (e.g., golf, hammering, tennis, etc.)
+7. During the past week, to what extent has your arm, shoulder or hand problem interfered with your normal social activities with family, friends, neighbors or groups?
+8. During the past week, were you limited in your work or other regular daily activities as a result of your arm, shoulder or hand problem? Please rate the severity of the symptoms
+
+None Mild Moderate Severe Extreme
+9. Arm, shoulder or hand pain.
+10. Tingling (pins and needles) in your arm, shoulder or hand.
+
+
+No Difficulty Mild
+Difficulty Moderate Difficulty Severe Difficulty
+So Much
+Difficulty That
+I Can’t Sleep
+
+
+11. During the past week, how much difficulty have you had sleeping because of pain in your arm, shoulder or hand? (circle number)
+
+
+
+
+# Scoring
+
+$$
+\frac{(\textrm{sum of } n \textrm{ responses}) - 1}{n} \times 25
+$$
+
+::: {.callout-important}
+
+A QuickDash score may not be calculated if there is greater than 1 missing item. 
+:::

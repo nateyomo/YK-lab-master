@@ -170,6 +170,10 @@ div.csl-indent {
 <span class="menu-text">Journal Club</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../../../../services.html"> 
+<span class="menu-text">Physical Therapy</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../../../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
@@ -196,6 +200,7 @@ div.csl-indent {
   <li><a href="#mmt" id="toc-mmt" class="nav-link active" data-scroll-target="#mmt">Manual muscle tests</a></li>
   <li><a href="#mlt" id="toc-mlt" class="nav-link" data-scroll-target="#mlt">Muscle length test (MLT)</a></li>
   <li><a href="#stretch" id="toc-stretch" class="nav-link" data-scroll-target="#stretch">Stretches</a></li>
+  <li><a href="#abscess" id="toc-abscess" class="nav-link" data-scroll-target="#abscess">Abscess</a></li>
   </ul>
 </nav>
 </nav>
@@ -217,7 +222,7 @@ div.csl-indent {
   <div class="quarto-title-meta-heading">Affiliations</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://yomokerst.com/about.html#ngy">Nate Yomogida, B.S., SPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+    <p class="author"><a href="https://yomokerst.com/about.html#ngy">Nate Yomogida, PT, DPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -228,7 +233,7 @@ div.csl-indent {
           </p>
       </div>
     <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://yomokerst.com/about.html#cak">Chloë Kerstein, B.S., SPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+    <p class="author"><a href="https://yomokerst.com/about.html#cak">Chloë Kerstein, PT, DPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -284,7 +289,7 @@ Reading list
 </ul>
 </div>
 </div>
-<div id="b9879f73" class="cell" data-execution_count="1">
+<div id="fb4385a8" class="cell" data-execution_count="1">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| label: tbl-iliopsoas-oian</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| warning: false</span></span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>    <span class="co">#| message: false</span></span>
@@ -294,7 +299,7 @@ Reading list
 <span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> pathlib <span class="im">import</span> Path</span>
 <span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>    <span class="im">import</span> pandas <span class="im">as</span> pd</span>
 <span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> pyprojroot <span class="im">import</span> here</span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> IPython.core.display <span class="im">import</span> display, HTML</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>    <span class="im">from</span> IPython.display <span class="im">import</span> display, HTML</span>
 <span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Set the path for the script file</span></span>
 <span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>    script_file_path <span class="op">=</span> here(<span class="st">"scripts/process_oian_table.py"</span>)</span>
@@ -318,12 +323,6 @@ Reading list
 <span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>            display(HTML(html_table))  <span class="co"># Use display to render the HTML properly</span></span>
 <span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span>:</span>
 <span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>        <span class="bu">print</span>(<span class="st">"Script file does not exist. Please check the path."</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stderr">
-<pre><code>/var/folders/1l/3yjsq4vn4q92b8_bq89ptr800000gn/T/ipykernel_96987/2050710442.py:10: DeprecationWarning:
-
-Importing display from IPython.core.display is deprecated since IPython 7.14, please import from IPython.display
-</code></pre>
-</div>
 <div class="cell-output cell-output-display">
 <table class="dataframe oian-table caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
 <colgroup>
@@ -395,6 +394,13 @@ L1 - L3</td>
 <ul>
 <li><a href="../../../../../The Archive/Interventions/AFS/3d_hip_flexor_stretch.html">3D hip flexor stretch</a></li>
 </ul>
+</section>
+<section id="abscess" class="level1">
+<h1>Abscess</h1>
+<ul>
+<li>An iliopsoas abscess can cause fever</li>
+<li>Tested using Iliopsoas length test</li>
+</ul>
 
 
 
@@ -405,7 +411,7 @@ L1 - L3</td>
 <div class="csl-left-margin">1. </div><div class="csl-right-inline">Gray H. <em>Anatomy of the Human Body</em>. 20th ed. (Lewis WH, ed.). Lea &amp; Febiger; 1918. <a href="https://www.bartleby.com/107/">https://www.bartleby.com/107/</a></div>
 </div>
 <div id="ref-OpenStaxAnatomyPhysiology2022" class="csl-entry" role="listitem">
-<div class="csl-left-margin">2. </div><div class="csl-right-inline">Betts JG, Blaker W. <em>Anatomy and <span>Physiology</span></em>. 2nd ed. OpenStax; 2022. <a href="https://openstax.org/details/books/anatomy-and-physiology-2e/?Book%20details">https://openstax.org/details/books/anatomy-and-physiology-2e/?Book%20details</a></div>
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Betts JG, Blaker W. <em>Openstax <span>Anatomy</span> and <span>Physiology</span></em>. 2nd ed. OpenStax; 2022. <a href="https://openstax.org/details/books/anatomy-and-physiology-2e/?Book%20details">https://openstax.org/details/books/anatomy-and-physiology-2e/?Book%20details</a></div>
 </div>
 <div id="ref-donnellyTravellSimonsSimons2019" class="csl-entry" role="listitem">
 <div class="csl-left-margin">3. </div><div class="csl-right-inline">Donnelly JM, Simons DG, eds. <em>Travell, <span>Simons</span> &amp; <span>Simons</span>’ Myofascial Pain and Dysfunction: The Trigger Point Manual</em>. Third edition. Wolters Kluwer Health; 2019.</div>

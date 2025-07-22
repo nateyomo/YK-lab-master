@@ -1,10 +1,10 @@
 {
-  "hash": "7af760b64b8618654d39514ffd507e6e",
+  "hash": "42252b81b1e70321f9d0db34c234b8ad",
   "result": {
     "engine": "jupyter",
     "markdown": "---\ntitle: Infrahyoid muscle group\n---\n\n\n\nSo what fixes the hyoid bone in place you ask?\nINFRAHYOID muscles - sternohyoid, sternothyroid, thyrohyoid, omohyoid (inferior hyoid to sternum, thyroid cartilage, scapula) \n\n- help with speech, [swallowing]({{< var ref-swallowing.path >}}), and tongue movements\n\n\n- Sternohyoid\n- Sternothyroid\n- Thyrohyoid\n- Omohyoid\n\n::: {#tbl-infrahyoid-muscle-group-oian .cell message='false' tbl-cap='Infrahyoid muscle group' execution_count=1}\n\n::: {.cell-output .cell-output-display}\n```{=html}\n<table border=\"1\" class=\"dataframe oian-table\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>Muscle</th>\n      <th>Origin</th>\n      <th>Insertion</th>\n      <th>Innervation</th>\n      <th>Action</th>\n    </tr>\n  </thead>\n  <tbody>\n  </tbody>\n</table>\n```\n:::\n:::\n\n\n",
     "supporting": [
-      "infrahyoid_muscle_group_files"
+      "infrahyoid_muscle_group_files/figure-html"
     ],
     "filters": [],
     "includes": {
