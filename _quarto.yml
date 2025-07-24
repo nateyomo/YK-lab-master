@@ -51,7 +51,7 @@ website:
   # title: "YK LAB"
   site-url: https://yomokerst.com
   navbar:
-    logo: "/branding/Yomokerst/yomokerst heavy condensed.svg"
+    logo: "/branding/Yomokerst/yomokerst heavy condensed black.png"
     left:
       - href: index.qmd
         text: Home

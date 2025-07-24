@@ -1,0 +1,111 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Dorsal Scapular Nerve\n",
+        "---\n",
+        "\n",
+        "\n",
+        "# Origin {#origin}\n",
+        "\n",
+        "- The dorsal scapular nerve is innervated by the [C5 Nerve Root]({{< var ref-nerve-root.c5 >}}) @duttonDuttonOrthopaedicExamination2020.\n",
+        "- The dorsal scapular nerve frequently shares a trunk with the [Long Thoracic Nerve]({{< var ref-long-thoracic-nerve.path >}}) @duttonDuttonOrthopaedicExamination2020. \n",
+        "- The Dorsal Scapular Nerve comes off of the C5 nerve root *prior* to the formation of the [Superior Trunk]({{< var ref-brachial-plexus.superior-trunk >}})\n",
+        "\n",
+        "\n",
+        "# Path\n",
+        "\n",
+        "::: {.callout-note}\n",
+        "\"The former passes through the scalenus medius anterior internally, and scalenus posterior laterally, with the presence of some tendinous tissues\" @duttonDuttonOrthopaedicExamination2020 \n",
+        "\n",
+        "\"This pierces the scalenus medius and runs along the levator scapulae muscle and the medial border of the scapula under the rhomboid muscles.\" @hochschildFunctionalAnatomyPhysical2016\n",
+        ":::\n",
+        "\n",
+        "\n",
+        "# Innervation {#innervation}\n",
+        "\n",
+        "The posterior (dorsal) scapular nerve provies motor innervation to the rhomboids and the levator scapulae muscles @duttonDuttonOrthopaedicExamination2020.\n",
+        "\n",
+        "\n",
+        "# Motor Innervation\n",
+        "\n",
+        "- Lev scap\n",
+        "- Rhomboid Minor\n",
+        "- Rhomboid Major\n"
+      ],
+      "id": "cc718a0c"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-dorsal-scapular-nerve-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "#| tbl-cap: Dorsal scapular nerve Muscle Innervations\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'innervation_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['dorsal_scapular_nerve']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-dorsal-scapular-nerve-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Dysfunction\n",
+        "\n",
+        "## Causes\n",
+        "Dorsal scapular nerve lesions can result from trauma or from a forward posture of the head and the neck @duttonDuttonOrthopaedicExamination2020.\n",
+        "Forward posture can place increased tension on the anterior cervical spine which can produce hypertonicity and/or hypertrophy of the [Middle Scalene muscle]({{< var ref-middle-scalene.path >}}) @duttonDuttonOrthopaedicExamination2020.\n",
+        "\n",
+        "## Clinical Presentation\n",
+        "Patients with dorsal scapular nerve impingement will complain of scapular pain radiating to the lateral shoulder and arm @duttonDuttonOrthopaedicExamination2020\n",
+        "\n",
+        "A dorsal scapular n. lesion can result in levator scapulae paralysis which would present as a sagging (depressed) shoulder girdle.\n"
+      ],
+      "id": "192d1fc5"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

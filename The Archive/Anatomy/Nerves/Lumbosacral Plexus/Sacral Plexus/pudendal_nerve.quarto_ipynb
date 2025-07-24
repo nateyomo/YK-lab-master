@@ -1,0 +1,113 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Pudendal Nerve (S2-S4)\n",
+        "---\n",
+        "\n",
+        "\n",
+        "# Roots\n",
+        "\n",
+        "[S2]({{< var ref-nerve-root.s2 >}}), [S3]({{< var ref-nerve-root.s3 >}}), [S4]({{< var ref-nerve-root.s4 >}}) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Pathway\n",
+        "\n",
+        "- Thru alcocks canal\n",
+        "- Post/med to ant lateral:\n",
+        "- NAVN\n",
+        "    - Pudendal Nerve\n",
+        "    - Internal pudendal Artery and then Vein\n",
+        "    - Nerve to obt internus \n",
+        "\n",
+        "\n",
+        "# Motor innervation\n"
+      ],
+      "id": "64b784cf"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-pudendal-nerve-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "#| tbl-cap: Pudendal Nerve Muscular innervations\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'innervation_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['pudendal_nerve']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-pudendal-nerve-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Call the function\n",
+        "gt_table <- gt_oian(identifier_col, filter_patterns, display_columns, table_title)\n",
+        "\n",
+        "gt_table\n",
+        "\n",
+        "## Direct Branches\n",
+        "\n",
+        "\n",
+        "\n",
+        "# Cutaneous Innervation\n",
+        "\n",
+        "# Dysfunction\n",
+        "\n",
+        "- Deep gluteal syndrome is an increasingly recognized disease entity, caused by compression of the sciatic or pudendal nerve due to non-discogenic pelvic lesions\n",
+        "\n",
+        "# Anal Reflex\n",
+        "\n",
+        "Reflexive contraction of the external anal sphincter upon stroking the skin around the anus\n",
+        "\n",
+        "- Afferent: Pudendal nerve\n",
+        "- Efferent: S2-S4\n",
+        "\n",
+        "# Entrapment {#entrapment}"
+      ],
+      "id": "b9518015"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

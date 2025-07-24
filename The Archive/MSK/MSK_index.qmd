@@ -8,12 +8,12 @@ title: Index of MSK
 - Lumbar spine
 - SIJ
 - Upper Extremity
-    - Shoulder
-    - Elbow
-    - Wrist
-    - Hand
+    - <a href="{{< ref-shoulder-msk.path >}}">Shoulder</a>
+    - <a href="{{< ref-elbow-msk.path >}}">Elbow</a>
+    - <a href="{{< ref-wrist-msk.path >}}">Wrist</a>
+    - <a href="{{< ref-hand-msk.path >}}">Hand</a>
 - Lower Extremity
-    - Hip
-    - Knee
-    - Ankle
+    - <a href="{{< ref-hip-msk.path >}}">Hip</a>
+    - <a href="{{< ref-knee-msk.path >}}">Knee</a>
+    - <a href="{{< ref-ankle-msk.path >}}">Ankle</a>
     - <a href="{{< ref-foot-msk.path >}}">Foot</a>

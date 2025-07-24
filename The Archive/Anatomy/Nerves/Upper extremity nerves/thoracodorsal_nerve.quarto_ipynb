@@ -1,0 +1,110 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Thoracodorsal Nerve\n",
+        "keywords: \n",
+        "    - Thoracodorsal nerve\n",
+        "    - Middle subscapular nerve\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        ":::{.callout title=\"AKA\"}\n",
+        "\n",
+        "- Thoracodorsal Nerve\n",
+        "- Middle Subscapular Nerve\n",
+        ":::\n",
+        "\n",
+        "\n",
+        "# Origin {#origin}\n",
+        "\n",
+        "The Thoracodorsal nerve branches from the [Posterior Cord]({{< var ref-brachial-plexus.posterior-cord >}}) and originates from {{< var ref-thoracodorsal-nerve.roots >}} nerve roots @duttonDuttonOrthopaedicExamination2020.\n",
+        "\n",
+        "# Path\n",
+        "\n",
+        "1. The Thoracodorsal nerve comes off the [Posterior Cord]({{< var ref-brachial-plexus.posterior-cord >}}) @duttonDuttonOrthopaedicExamination2020\n",
+        "1. Travels along the posterior–lateral chest wall [@duttonDuttonOrthopaedicExamination2020; @brazisLocalizationClinicalNeurology2022]\n",
+        "1. Along the surface of the [serratus anterior]({{< var ref-serratus-anterior.path >}}) @duttonDuttonOrthopaedicExamination2020\n",
+        "1. Dives deep to the [subscapularis muscle]({{< var ref-subscapularis.path >}}) @duttonDuttonOrthopaedicExamination2020\n",
+        "1. Finally giving rise to branches that innervate the latissimus dorsi @duttonDuttonOrthopaedicExamination2020 \n",
+        "\n",
+        "# Anatomy\n",
+        "\n",
+        "\"The nerve runs along the posterior axillary wall to reach and innervate the deep surface of the latissimus dorsi muscle. This muscle (along with the teres major) adducts and internally rotates the arm and depresses the raised arm. It is best tested by having the patient adduct the horizontally raised upper arm against resistance or by palpating the muscle bellies when the patient coughs [409].\" @brazisLocalizationClinicalNeurology2022\n",
+        "\n",
+        "# Innervation {#innervation}\n",
+        "\n",
+        "- Lats\n",
+        "\n",
+        "## Motor Innervation\n"
+      ],
+      "id": "e0a6eccc"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-thoracodorsal-nerve-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "#| tbl-cap: Thoracodorsal Nerve Muscle Innervations\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'innervation_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['thoracodorsal_nerve']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-thoracodorsal-nerve-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Lesion\n",
+        "\n",
+        "\"Lesions of this nerve usually occur with damage to the posterior cord or proximal parts of the brachial plexus. Nerve lesions cause little deformity or atrophy, but proximal arm adduction is compromised. A combined movement comprising extension, adduction, and internal rotation, in which the dorsum of the hand is placed on the opposite buttock, readily reveals latissimus paresis. Isolated thoracodorsal nerve injury has been described in body builders [47,262].\" @brazisLocalizationClinicalNeurology2022"
+      ],
+      "id": "e129e89f"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

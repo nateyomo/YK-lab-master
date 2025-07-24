@@ -1,0 +1,119 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Multifidus Muscle\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "![Muscles of the Posterior and lateral neck @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.14 Posterior and Lateral Views of the Neck.jpeg){#fig-openstax-fig11.14}\n",
+        "\n",
+        "![Muscles of the Neck and Back @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.15 Muscles of the Neck and Back.jpeg){#fig-openstax-fig11.15}\n",
+        "\n",
+        "\n",
+        "::: {.callout title=\"Reading list\"}\n",
+        "\n",
+        "- Ch16 multifidus Muscle @donnellyTravellSimonsSimons2019\n",
+        "- Thoracolumbar paraspinal muscles @donnellyTravellSimonsSimons2019\n",
+        "- Neuman @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n"
+      ],
+      "id": "096d06ae"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'muscle_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['multifidus']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Origin {#origin}\n",
+        "Sacrum, ilium, mamillary process of L1-L5, T1-T4 (TP and Articular process), C4-C7 @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Insertion {#insertion} \n",
+        "Superomedially to SP (skipping 2-4 vertebrae) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Innervation {#innervation}\n",
+        "[Spinal nn. (Posterior Rami)]({{< var ref-spinal-nerves.path >}}) @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "# Action {#action}\n",
+        "\n",
+        "- **BIL**: Extends extends spine @gilroyAtlasAnatomy2020\n",
+        "- **UNIL**: I/L SB and C/L Rotation @gilroyAtlasAnatomy2020\n",
+        "\n",
+        "\n",
+        "# Dysfunction\n",
+        "\n",
+        "Imaging has correlated degenerative changes in the multifidus and [erector spinae]({{< var ref-erector-spinae.path >}}) with increased lumbar disc herniation and facet joint osteoarthritis @jonesProjectFoundations2025.\n",
+        "\n",
+        "::: {.callout-note}\n",
+        "Degenerative changes in multifidus are defined as a decreased in muscle density, cross-sectional area, and increases in fatty infiltration @jonesProjectFoundations2025.\n",
+        ":::\n",
+        "\n",
+        "# Therex\n",
+        "How to recruit multifidi instead of obliques?\n",
+        "One can bias the multifidi over the obliques by performing exercises that require spine extension rather than flexion.\n",
+        "\n",
+        "## Single leg bridge\n",
+        "One can recruit the multifidus muscle by having a patient perform a single leg bridge. In this exercise, one will have a leg on the ground (stance leg) and another leg in the air. Both shoulders will remain on the ground the whole time. As an example, we will imagine an individual using their R leg as the stance leg. Since both shoulders are stationary, the weight of the pelvis and raised leg (L) will add a load d/t gravity that pulls the L hip towards the ground, resulting in relative right rotation. Thus, in order to keep the pelvis level, one must perform active left rotation using the R multifidus since the multifidi perform C/L rotation unilaterally. An easy way to remember which multifid you are recruiting during S/L bridge is that the multifidi on the same side as the stance leg is being recruited.\n",
+        "\n",
+        "\n",
+        "## Bird-Dogs"
+      ],
+      "id": "76646179"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

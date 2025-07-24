@@ -1,0 +1,166 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Hip Internal Rotator Muscles\n",
+        "---\n",
+        "\n",
+        "\n",
+        ":::{layout-ncol=\"2\"}\n",
+        "\n",
+        "\n",
+        "\n",
+        "### Primary\n",
+        "\n",
+        "There are no primary internal rotators of the hip\n",
+        "\n",
+        "### Secondary\n",
+        "\n",
+        "- [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) (anterior fibers)@neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- [Gluteus Medius]({{< var ref-gluteus-medius.path >}}) (anterior fibers) @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- [Tensor Fascia Latae]({{< var ref-tensor-fascia-latae.path >}}) @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- [Adductor Longus]({{< var ref-adductor-longus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- [Adductor Brevis]({{< var ref-adductor-brevis.path >}}) @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "- [Pectineus]({{< var ref-pectineus.path >}}) @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        ":::\n",
+        "\n",
+        "# Primary\n",
+        "\n",
+        "There are no primary hip internal rotators\n",
+        "\n",
+        "# Secondary\n"
+      ],
+      "id": "7b0b12d3"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-secondary-hip-internal-rotators-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "#| tbl-cap: Secondary Internal Rotators of the Hip\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'functional_group_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['secondary_hip_internal_rotator']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-secondary-hip-internal-rotators-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Internal Rotators after 90&deg; HF\n"
+      ],
+      "id": "6633915c"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-hip-flexion-dependent-hip-internal-rotator-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "#| tbl-cap: Position dependent Internal Rotators\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'functional_group_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['hip_flexion_dependent_hip_internal_rotator']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-hip-flexion-dependent-hip-internal-rotator-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Notes\n",
+        "\n",
+        "\"No muscle has the primary function of internally rotating the hip, but a number of muscles, including the anterior fibers of the gluteus medius, gluteus minimus, TFL, adductor longus, adductor brevis, pectineus, and the posterior head of the adductor magnus, have a secondary function of internal rotation\" @duttonDuttonOrthopaedicExamination2020 \n",
+        "\n",
+        "\n",
+        "# Function\n",
+        "“An “ideal” primary internal rotator muscle of the hip would theoretically be oriented in the horizontal plane during standing, at some linear distance from the vertical axis of rotation through the hip. From the anatomic position, however, there are no primary internal rotators because no muscle is oriented even close to the horizontal plane. Several secondary internal rotators exist, however, including the anterior fibers of the gluteus minimus and gluteus medius, tensor fasciae latae, adductor longus, adductor brevis, and pectineus. The horizontal lines of force of many of these muscles are depicted in Fig. 12.35.57,129 The combined torque produced by the many secondary internal rotators adequately meets the typical functional demands placed on the hip. The anatomy of each of the internal rotators is described in other sections (see Figs. 12.26 and 12.43).” @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "“Like all muscles of the lower extremity, the internal rotators have a unique function during locomotion. During the stance phase of gait, the internal rotators rotate the pelvis in the horizontal plane over a relatively fixed femur. These pelvic­ on­femoral kinematics are illustrated for the first 30% of the gait cycle in Fig. 12.36. The pelvic rotation about the right hip is shown by the forward rotation of the left iliac crest (seen from above). The right internal rotator muscles therefore can provide some of the drive to the contralateral (left) swinging limb, espe­ cially useful while walking uphill or increasing stride length. As described later in this chapter, the tensor fasciae latae and the gluteus minimus and gluteus medius are also functioning as hip abductors during this part of the gait cycle. Activation of these muscles is necessary to stabilize the pelvis in the frontal plane during this part of the gait cycle.” @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "# Active Internal Rotation Torque Increases with Hip Flexion\n",
+        "“With the hip approaching 90 degrees of flexion, the internal rota­ tion torque potential of the internal rotator muscles significantly increases.52,57,142,162 This becomes clear with the help of a skeleton model and a piece of string to mimic the line of force of a muscle, such as the anterior fibers of the gluteus minimus or the gluteus medius. Flexing the hip close to 90 degrees reorients the lines of force of these muscles from nearly parallel to nearly perpendicular to the longitudinal axis of rotation of the femur. This occurs because the longitudinal axis of rotation remains parallel with the shaft of the repositioned femur. Delp and co­workers have reported that the internal rotation moment arm of the anterior fibers of the gluteus medius, for example, increases eightfold between 0 and 90 degrees of flexion (Fig. 12.37A).52 Even some of the external rotator muscles, such as the posterior fibers of the gluteus medius (depicted in Fig. 12.37B), piriformis, anterior (superior) fibers of the gluteus maximus, and posterior fibers of the gluteus minimus, switch actions and become internal rotators when the hip is flexed about 60 degrees and beyond.52,162 The biomechanical deviations of many of the rotator muscles that occur with increased hip flexion—including changes in magni­ tude and polarity of their moment arms—help partially explain why maximal­effort internal rotation torque in healthy persons is 35–55% greater with the hip flexed to about 90 degrees as com­ pared to when it is extended” @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        "\n",
+        "“The kinesiologic phenomenon just described helps partially explain the excessively internally rotated and flexed (“crouched”) gait pattern often observed in persons with cerebral palsy.93,225 With poor active control of hip extension (especially if combined with contracture of the hip flexor muscles), the flexed posture of the hip enhances the internal rotation torque potential of many muscles of the hip.11,12,52 Although speculation, the crouched gait (and associated increased tension in adductor and internal rotator muscles) may contribute to the persistence of excessive femoral anteversion in ambulatory persons with cerebral palsy. The crouched gait pattern may be better controlled by heightened activation or strength of the gluteus maximus, a potent extensor and external rotator.” @neumannKinesiologyMusculoskeletalSystem2017\n",
+        "\n",
+        "# Biomechanics of the Adductor Muscles as Internal Rotators of the Hip\n",
+        "In general, most of the adductor muscles are capable of producing a modest internal rotation torque at the hip when the body is in or near the anatomic position.57,129,142,162 This action, however, may be difficult to reconcile considering that most adductors attach to the posterior side of the femur along the linea aspera. With normal anatomy of the hip, a shortening of these muscles would appear to rotate the femur externally instead of internally. What must be considered, however, is the effect that the natural anterior bowing of the femoral shaft has on the line of force of the muscles. Bowing places much of the linea aspera anterior to the longitudinal axis of rotation at the hip (Fig. 12.38A). As depicted in Fig. 12.38B, the horizontal force component of an adductor muscle, such as the adductor longus, lies anterior to the axis of rotation. Force from this muscle therefore acts with a moment arm to produce internal rotation.” @neumannKinesiologyMusculoskeletalSystem2017"
+      ],
+      "id": "61d2a416"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

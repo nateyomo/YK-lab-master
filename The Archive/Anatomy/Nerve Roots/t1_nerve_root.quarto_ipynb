@@ -1,0 +1,97 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: T1 Nerve Root (T1)\n",
+        "---\n",
+        "\n",
+        "\n",
+        "![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif){#fig-gray1918-image796}\n",
+        "\n",
+        "# Motor Innervation\n"
+      ],
+      "id": "2cdd051f"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-t1-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'root_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['T1']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-t1-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Dermatome\n",
+        "\n",
+        "::: {.columns}\n",
+        "::: {.column}\n",
+        "![Dermatomal cutaneous distribution @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image797 Distribution of cutaneous nerves. Ventral aspect.gif){#fig-gray1918-image797}\n",
+        ":::\n",
+        "::: {.column}\n",
+        "![Dermatomal cutaneous distribution (Posterior) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image798 Distribution of cutaneous nerves. Dorsal aspect.gif){#fig-gray1918-image798}\n",
+        ":::\n",
+        ":::\n",
+        "\n",
+        "# Lesion\n",
+        "\n",
+        "\"Sensory disturbances occur on the medial arm. Paresis occurs variably in the following muscles: abductor pollicis brevis, opponens pollicis, flexor pollicis brevis, all lumbricals and interossei, abductor digiti minimi, opponens digiti minimi, flexor digiti minimi, and adductor pollicis [16]. The finger flexor reflex (C8 T1) may be depressed. Sympathetic fibers destined for the superior cervical ganglia are interrupted, resulting in an ipsilateral Horner syndrome.\" @brazisLocalizationClinicalNeurology2022\n",
+        "\n",
+        "# Examination\n",
+        "\n",
+        "## Muscle Strength\n",
+        "\n",
+        "\"Hand Intrinsics (T1) The patient is asked to squeeze the clinician’s fingers between their fingers while the clinician tries to pull their fingers away (Fig. 25-30). Based on the findings from the history, systems review, and key muscle testing, a sensory examination may be necessary (see Chapter 3).\" @duttonDuttonOrthopaedicExamination2020"
+      ],
+      "id": "6441fe52"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

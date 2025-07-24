@@ -28,6 +28,44 @@ subtitle: Musculoskeletal Dynamics
 
 
 
+# Structures
+
+<ul>
+    <li>Bones</li>
+    <li>Acetabular labrum</li>
+    <li>Capsuloligamentous</li>
+    <li>Musculotendinous anatomy</li>
+    <li></li>
+</ul>
+
+# Bursae
+
+Bursae are fluid-filled sacs between bones and soft tissues [@aptaCurrentConceptsOrthopaedic2024].
+Often, bursa separate tendons from underlying bone [@aptaCurrentConceptsOrthopaedic2024].
+Bursa function to reduce friction to protect tissues that undergo much repetitive movement [@aptaCurrentConceptsOrthopaedic2024].
+
+There are 3 key bursa of the hip:
+<ul>
+    <li>Greater trochanter bursa</li>
+    <li>Iliopsoas bursa</li>
+    <li>Ischial Bursa</li>
+</ul>
+
+::: {.callout-note}
+Traditionally, bursa dysfunction is thought to be a cause of hip pain [@aptaCurrentConceptsOrthopaedic2024].
+
+:::
+
+Historically, these structures are often indicated as potential sources of nociception. While trochanteric bursitis may be common, current literature suggests the condition may be one of numerous diagnoses related to lateral hip pain.11 The term greater trochanteric pain syndrome (GTPS) represents a more inclusive consideration of the bursa and gluteal tendon attachments at the trochanteric region. Trochanteric bursitis and gluteal tendinopathy will be examined in the GTPS section of this monograph.11
+[@aptaCurrentConceptsOrthopaedic2024]
+
+# Motions
+
+There are 6 motions of the hip joint.
+
+Flexion & extension which occur in the sagittal plane.
+Abduction & Adduction which occur in the frontal plane.
+Internal and external rotation in the transverse plane.
 
 # Assessment (b proj)
 

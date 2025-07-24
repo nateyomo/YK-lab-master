@@ -1,0 +1,110 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: L1 Nerve Root (L1)\n",
+        "---\n",
+        "\n",
+        "\n",
+        "![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif){#fig-gray1918-image796}\n",
+        "\n",
+        "# Peripheral Nerve Supply\n",
+        "\n",
+        "| Nerve | Roots | Motor Innervation | Cutaneous Innervation |\n",
+        "|-|-|-|-|\n",
+        "| [Ilioinguinal N.]({{< var ref-ilioinguinal-nerve.path >}}) | {{< var ref-ilioinguinal-nerve.roots >}} | {{< var ref-ilioinguinal-nerve.motor >}} | {{< var ref-ilioinguinal-nerve.cutaneous >}} |\n",
+        "| [Iliohypogastric N.]({{< var ref-iliohypogastric-nerve.path >}}) | {{< var ref-iliohypogastric-nerve.roots >}} | {{< var ref-iliohypogastric-nerve.motor >}} | {{< var ref-iliohypogastric-nerve.cutaneous >}} |\n",
+        "| [Genitofemoral N.]({{< var ref-genitofemoral-nerve.path >}}) | {{< var ref-genitofemoral-nerve.roots >}} | {{< var ref-genitofemoral-nerve.motor >}} | {{< var ref-genitofemoral-nerve.cutaneous >}} |\n",
+        ": Peripheral Nerves Originating from L1 Nerve root {.striped .hover}\n",
+        "\n",
+        "# Motor Innervation\n"
+      ],
+      "id": "0e229c2f"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-l1-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'root_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['L1']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-l1-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Dermatome\n",
+        "\n",
+        "::: {.columns}\n",
+        "::: {.column}\n",
+        "![Dermatomal cutaneous distribution @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image797 Distribution of cutaneous nerves. Ventral aspect.gif){#fig-gray1918-image797}\n",
+        ":::\n",
+        "::: {.column}\n",
+        "![Dermatomal cutaneous distribution (Posterior) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image798 Distribution of cutaneous nerves. Dorsal aspect.gif){#fig-gray1918-image798}\n",
+        ":::\n",
+        ":::\n",
+        "\n",
+        "# Compression\n",
+        "\n",
+        "Compression of L3 nerve root includes:\n",
+        "\n",
+        "- Pain in the middle lumbar spine, upper buttock, whole anterior thigh and knee, medial knee, and just above the ankle @duttonDuttonOrthopaedicExamination2020\n",
+        "- Dural signs of prone knee flexion\n",
+        "- SLR will occassionally be positive @duttonDuttonOrthopaedicExamination2020\n",
+        "- &darr; Extension ROM\n",
+        "- Weakness\n",
+        "    - Slight weakness of iliopsoas @duttonDuttonOrthopaedicExamination2020\n",
+        "    - Gross loss of quadriceps strength @duttonDuttonOrthopaedicExamination2020\n",
+        "- Hypoesthesia of the medial aspect of the knee and lower leg @duttonDuttonOrthopaedicExamination2020\n",
+        "- Patellar reflex Absent (0) or reduced (1)"
+      ],
+      "id": "55e0c5bb"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

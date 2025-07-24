@@ -2,11 +2,49 @@
 title: Gluteal Tendinopathy
 ---
 
+Lateral hip pain has historically been attributed to <i>trochanteric bursitis</i>, but more recently, the diagnosis of <i>gluteal tendinopathy</i> is believed to be a more common cause 
+
+# Demographics
+
+<ul>
+    <li>More common in women 2.4-4:1 [@grimaldiGlutealTendinopathyIntegrating2015].</li>
+    <li>Most common in one's 40's [@grimaldiGlutealTendinopathyIntegrating2015].</li>
+    <li>35% of Chronic low back pain patients also experience <i>lateral hip pain</i>[@grimaldiGlutealTendinopathyIntegrating2015]</li>
+</ul>
+
+# Pathoanatomy
+
+gluteal tendinopathy refers to a tendinopathy of the gluteus medius or gluteus minimus tendons [@grimaldiGlutealTendinopathyIntegrating2015].
 
 
 
-# Tests
+# Presentation
 
-## Ruling in
+<ul>
+    <li>Lying on affected side [@grimaldiGlutealTendinopathyIntegrating2015]</li>
+    <li>Standing [@grimaldiGlutealTendinopathyIntegrating2015]</li>
+    <li>Walking [@grimaldiGlutealTendinopathyIntegrating2015]</li>
+    <li>Ascending or descending stairs [@grimaldiGlutealTendinopathyIntegrating2015]</li>
+    <li>Sitting [@grimaldiGlutealTendinopathyIntegrating2015]</li>
+</ul>
+
+# Diagnosis
+
+
+## Clinical Tests for Ruling in
+
+<ul>
+    <li>Single Leg Stance Test: Patients with hip pathologies generally have worse single leg balance, but this test has poor specificity for gluteal tendinopathy [@grimaldiGlutealTendinopathyIntegrating2015]</li>
+    <li>Trendelenberg Test [@grimaldiGlutealTendinopathyIntegrating2015]</li>
+    <li>Resisted medial and lateral rotation and abduction [@grimaldiGlutealTendinopathyIntegrating2015]</li>
+    <li>FABER Test [@grimaldiGlutealTendinopathyIntegrating2015]</li>
+    <li>OBER's Test [@grimaldiGlutealTendinopathyIntegrating2015]</li>
+</ul>
 
 [External Derotation Test]({{< var ref-external-derotation-test.path >}})
+
+## Imaging
+
+X-Ray, MRI, ultrasound (US), and scintigraphic imaging can all useful in ruling-in or out <i>gluteal tendinopathy</i>, but it should be noted that signs of soft tissue pathology often occur in <i>non</i>-symptomatic hips [@grimaldiGlutealTendinopathyIntegrating2015].
+
+note

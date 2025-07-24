@@ -1,0 +1,98 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Iliohypogastric Nerve\n",
+        "---\n",
+        "\n",
+        "\n",
+        "| Nerve | Roots | Motor Innervation | Cutaneous Innervation |\n",
+        "|-|-|-|-|\n",
+        "| [Iliohypogastric N.]({{< var ref-iliohypogastric-nerve.path >}}) | {{< var ref-iliohypogastric-nerve.roots >}} | {{< var ref-iliohypogastric-nerve.motor >}} | {{< var ref-iliohypogastric-nerve.cutaneous >}} |\n",
+        ": {.striped .hover}\n",
+        "\n",
+        "# Roots\n",
+        "[L1]({{< var ref-nerve-root.l1 >}}) \n",
+        "\n",
+        "# Pathway\n",
+        "\n",
+        "# Motor innervation\n"
+      ],
+      "id": "06c7be85"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-iliohypogastric-nerve-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "#| tbl-cap: Iliohypogastric Nerve Muscular innervations\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'innervation_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['iliohypogastric_nerve']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-iliohypogastric-nerve-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "Muscles innervated: TrA, internal oblique (same as ilioinguinal)\n",
+        "\n",
+        "# Cutaneous Innervation\n",
+        "\n",
+        "No cutaneous innervation\n",
+        "\n",
+        "# Dysfunction\n",
+        "\n",
+        "\n",
+        "\n",
+        "Parallel in inguinal ligament\n",
+        "Entrapment: rare?"
+      ],
+      "id": "eb7ec81f"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

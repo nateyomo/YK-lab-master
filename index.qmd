@@ -4,7 +4,7 @@ author: []
 ---
 
 <!-- ![](/branding/square logo/square 3 lines full.svg){.nolightbox} -->
-![](/branding/Yomokerst/yomokerst heavy condensed.svg){.nolightbox width="80%" fig-align="center"}
+![](/branding/Yomokerst/yomokerst heavy condensed black.png){.nolightbox width="80%" fig-align="center"}
 
 <!-- <a style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
   

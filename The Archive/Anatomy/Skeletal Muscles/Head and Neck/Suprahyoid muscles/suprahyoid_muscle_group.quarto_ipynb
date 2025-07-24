@@ -1,0 +1,85 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Suprahyoid Muscles\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "- Digastric\n",
+        "- Geniohyoid\n",
+        "- Mylohyoid\n",
+        "- Stylohyoid\n"
+      ],
+      "id": "8590496d"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| label: tbl-suprahyoid-muscle-group-oian\n",
+        "#| warning: false\n",
+        "#| echo: false\n",
+        "#| tbl-cap: Suprahyoid muscle group\n",
+        "\n",
+        "from pathlib import Path\n",
+        "import pandas as pd\n",
+        "from pyprojroot import here\n",
+        "from IPython.display import display, HTML\n",
+        "\n",
+        "# Set the path for the script file\n",
+        "script_file_path = here(\"scripts/process_oian_table.py\")\n",
+        "\n",
+        "# Check if the script file exists\n",
+        "if script_file_path.exists():\n",
+        "    import sys\n",
+        "    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path\n",
+        "\n",
+        "    from process_oian_table import process_oian_table  # Import the specific function\n",
+        "\n",
+        "    # Define the column to filter by and the identifiers to include\n",
+        "    filter_column = 'group_identifier'  # Choose the column you want to filter by\n",
+        "    filter_identifiers = ['suprahyoid_muscle_group']  # Replace with actual identifiers you want to include\n",
+        "\n",
+        "    # Call the function to get the HTML table with filtering\n",
+        "    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)\n",
+        "\n",
+        "    if html_table:\n",
+        "        # Render the HTML table for display\n",
+        "        display(HTML(html_table))  # Use display to render the HTML properly\n",
+        "else:\n",
+        "    print(\"Script file does not exist. Please check the path.\")"
+      ],
+      "id": "tbl-suprahyoid-muscle-group-oian",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Strain-Counterstrain\n",
+        "\n",
+        "::: {.callout}\n",
+        "\"Location of Tender Point: Beneath the  mandible 3cm anterior and medial from the angle of the mandible.  Anatomical Correlation: 1) Mylohyoid muscle 2) Geniohyoid muscle  Direction to Press on Tender Point: Press Ge cephalad into the floor of the mouth. Q wen  Treatment Position(s): With patient supine, (open their mouth to 2cm. Push the opened jaw toward Tender Point side. Stabilize patient's head with monitoring forearm.  Frequency of Occurrence: Uncommon.  Clinical Correlation(s): Suprahyoid Tender Point 1) Submandibular pain 2) Dental neuritis\" @myersClinicalCounterstrain2012\n",
+        ":::"
+      ],
+      "id": "56a88211"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

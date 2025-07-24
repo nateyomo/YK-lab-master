@@ -52,7 +52,12 @@ The QuickDASH is scored from 1-5 with 5 being most disabled.
   const items = [
     "Do heavy household chores (e.g., wash walls, floors)",
     "Carry a heavy bag of groceries",
-    "Reach for an object on a high shelf"
+    "Reach for an object on a high shelf",
+    "Wash your back",
+    "Use a knife to cut food",
+    "Recreational activities in which you take some force or impact through your arm, shoulder or hand. (e.g., golf, hammering, tennis, etc.)",
+    "During the past week, to what extent has your arm, shoulder or hand problem interfered with your normal social activities with family, friends, neighbors or groups?",
+    "During the past week, were you limited in your work or other regular daily activities as a result of your arm, shoulder or hand problem? Please rate the severity of the symptoms"
   ];
 
   const tbody = document.querySelector(".basic-table tbody");
