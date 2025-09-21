@@ -1,0 +1,6 @@
+---
+title: Neurorehabilitation Index
+listing:
+    contents: "**/*.qmd"
+    type: table
+---

@@ -1,0 +1,1807 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<link href="../..//images/brain-favicon.png" rel="icon" type="image/png">
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-html/tabby.min.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.6.37">
+
+  <meta name="author" content="Nathaniel Yomogida PT, DPT">
+  <meta name="dcterms.date" content="2025-10-30">
+  <title>APTA’s Current Concepts of the Hip</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="../../site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="../../site_libs/revealjs/dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
+  <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto-bbe7401fe57d4b791b917637bb662036.css">
+  <link rel="stylesheet" href="../styles.css">
+  <link href="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="../../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+<meta name="twitter:title" content="APTA’s Current Concepts of the Hip">
+<meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
+<meta name="twitter:site" content="@yomokerst">
+<meta name="twitter:card" content="summary">
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">APTA’s Current Concepts of the Hip</h1>
+
+<div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+Nathaniel Yomogida PT, DPT 
+</div>
+</div>
+</div>
+
+  <p class="date">2025-10-30</p>
+</section>
+<section class="slide level2">
+
+<!-- 20-25 min + questions -->
+<p><span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></p>
+</section>
+<section>
+<section id="resources" class="title-slide slide level1 center">
+<h1>Resources</h1>
+
+</section>
+<section id="clinical-practice-guidelines" class="slide level2">
+<h2>Clinical Practice Guidelines</h2>
+<ul>
+<li><a href="https://www.jospt.org/doi/10.2519/jospt.2023.0302">AOPT Nonarthritic Hip Joint Pain</a><span class="citation" data-cites="ensekiHipPainMovement2023"><sup><a href="#/references" role="doc-biblioref" onclick="">2</a></sup></span></li>
+<li><a href="https://www.jospt.org/doi/10.2519/jospt.2017.0301">AOPT Hip Pain and Mobility Deficits-Hip Osteoarthritis: Revision 2017</a><span class="citation" data-cites="cibulkaHipPainMobility2017"><sup><a href="#/references" role="doc-biblioref" onclick="">3</a></sup></span></li>
+<li><a href="https://journals.lww.com/jwphpt/fulltext/2017/05000/pelvic_girdle_pain_in_the_antepartum_population_.7.aspx">Pelvic PT: Pelvic Girdle Pain in the Antepartum Population</a><span class="citation" data-cites="clintonPelvicGirdlePain2017"><sup><a href="#/references" role="doc-biblioref" onclick="">4</a></sup></span></li>
+<li>Screening hip: Low back pain cpg</li>
+</ul>
+</section></section>
+<section id="related-structures" class="title-slide slide level1 center">
+<h1>Related structures</h1>
+<ul>
+<li>SIJ / Pelvic dysfunction</li>
+</ul>
+</section>
+
+<section>
+<section id="muscles" class="title-slide slide level1 center">
+<h1>Muscles</h1>
+
+</section>
+<section id="deep-hip-stabilizers" class="slide level2">
+<h2>Deep Hip Stabilizers</h2>
+<!-- ```{python tbl-hip-hip-stabilizer-oian}
+#| label: tbl-hip-hip-stabilizer-oian
+#| warning: false
+#| message: false
+#| echo: false
+#| tbl-cap: "Deep Stabilizers of the hip"
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['hip_deep_external_rotator_muscles']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+``` -->
+<h3 id="guarded-deep-hip-stabilizers">Guarded Deep hip Stabilizers</h3>
+<ul>
+<li>Femoral head will be pushed forward and be passively resting on hip flexor tendons anteriorly</li>
+</ul>
+<p>The long muscles will attempt to perform the job of stabilization. Long muscles such as sartorius, TFL, rectus femoris, hip flexors, and hamtrings. I think of this similar to dysfunctional <i>deep neck flexors</i> that result in overactive scalenes, upper trapezius, and levator scapulae.</p>
+</section></section>
+<section id="biomechanics" class="title-slide slide level1 center">
+<h1>Biomechanics</h1>
+
+</section>
+
+<section id="function" class="title-slide slide level1 center">
+<h1>Function</h1>
+
+</section>
+
+<section id="red-flags" class="title-slide slide level1 center">
+<h1>Red Flags</h1>
+<p>“Medical concerns related to traumatic onset injuries include but are not limited to fractures, dislocations, tendon avulsions, and lower abdominal organ injury. Traumatic injuries that are accompanied by inability to bear weight, intolerance to joint movement, obvious disfigurement, extreme swelling, non-musculoskeletal symptoms, or extreme patient apprehension should be considered indicators for medical referral before initiating physical therapy intervention and even potentially before performing a comprehensive examination”<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span>.</p>
+</section>
+
+<section id="pharmeceutical-considerations" class="title-slide slide level1 center">
+<h1>Pharmeceutical considerations</h1>
+<ul>
+<li>Corticosteroids associated with AVN and Hip fx</li>
+<li>Fluoroquinolone is associated with hip tendinopathies</li>
+</ul>
+</section>
+
+<section id="evaluation" class="title-slide slide level1 center">
+<h1>Evaluation</h1>
+
+</section>
+
+<section id="subjective" class="title-slide slide level1 center">
+<h1>Subjective</h1>
+<ul>
+<li>Nature</li>
+<li>Severity</li>
+</ul>
+</section>
+
+<section>
+<section id="screening" class="title-slide slide level1 center">
+<h1>Screening</h1>
+<ul>
+<li>Connective tissue disorders</li>
+</ul>
+</section>
+<section id="screening-for-medical-referral" class="slide level2">
+<h2>Screening for Medical referral</h2>
+<ul>
+<li>systemic or septic related inflammation</li>
+<li>table 5</li>
+</ul>
+</section>
+<section id="lumbopelvic" class="slide level2">
+<h2>Lumbopelvic</h2>
+</section>
+<section id="sij" class="slide level2">
+<h2>SIJ</h2>
+</section>
+<section id="pelvic-floor" class="slide level2">
+<h2>Pelvic Floor</h2>
+</section>
+<section id="functional-testing" class="slide level2">
+<h2>Functional Testing</h2>
+</section></section>
+<section id="gait" class="title-slide slide level1 center">
+<h1>GAIT</h1>
+<ul>
+<li>Trendelendberg Sign</li>
+</ul>
+</section>
+
+<section>
+<section id="diagnosis" class="title-slide slide level1 center">
+<h1>Diagnosis</h1>
+
+</section>
+<section id="start-generally" class="slide level2">
+<h2>Start generally</h2>
+<p>Is it <b>Intra-</b> or <b>Extra-</b>articular?</p>
+</section>
+<section id="intraarticular" class="slide level2">
+<h2>Intraarticular</h2>
+<p>If it is intraarticular, is the condition <b>nonarthritic</b> or <b>OA</b></p>
+<h3 id="intraarticular-non-arthritic">Intraarticular non-arthritic</h3>
+<p>Divided into 2 categories based on MOI: FAI or microinstability</p>
+<div class="callout callout-note callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Note</strong></p>
+</div>
+<div class="callout-content">
+<p>hip joint microinstability can coexist with FAI and hip</p>
+</div>
+</div>
+</div>
+<div class="callout callout-note callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Note</strong></p>
+</div>
+<div class="callout-content">
+<p>AOPT hip OA CPG17 for a detailed description of hip OA characteristics that will assist in differentiating the condition from FAIS<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></p>
+</div>
+</div>
+</div>
+<p>ddx: Other differential diagnoses include femoral neck and pubic ramus stress fractures and iliopsoas muscle complex and bursa involvement<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></p>
+</section></section>
+<section>
+<section id="hip-osteoarthritis" class="title-slide slide level1 center">
+<h1>Hip Osteoarthritis</h1>
+
+</section>
+<section id="updated-cluster" class="slide level2">
+<h2>Updated Cluster</h2>
+<ul>
+<li>Moderate anterior or lateral hip pain with weight bearing activities</li>
+<li>Morning stiffness lasting less than 1 hour in duration</li>
+<li>Hip internal rotation ROM &lt;24° or hip internal rotation and flexion 15° less than the contralateral hip</li>
+<li>Increased pain with passive hip IR</li>
+</ul>
+<div class="callout callout-note callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Note</strong></p>
+</div>
+<div class="callout-content">
+<p>Hip internal rotation &lt;15° was modified to &lt;24°</p>
+</div>
+</div>
+</div>
+</section></section>
+<section id="treatment" class="title-slide slide level1 center">
+<h1>Treatment</h1>
+
+</section>
+
+<section id="b-project" class="title-slide slide level1 center">
+<h1>B Project</h1>
+<ul>
+<li>Are they deep hip stabilizers or external rotators?</li>
+<li>Prone Hip IR/ER arthrokinematic test
+<ul>
+<li>Symmetry</li>
+<li>End feel</li>
+<li>ROM</li>
+</ul></li>
+<li>Palpate each deep hip stabilizer distal belly during rotation</li>
+<li>deep hip stabilizer release</li>
+<li>Functional test?</li>
+<li>FAddER contract-relax
+<ul>
+<li>Therapist assisted</li>
+<li>Self-stretch</li>
+</ul></li>
+</ul>
+</section>
+
+<section id="modalities" class="title-slide slide level1 center">
+<h1>Modalities</h1>
+<ul>
+<li>BFR</li>
+</ul>
+</section>
+
+<section id="hep" class="title-slide slide level1 center">
+<h1>HEP</h1>
+
+</section>
+
+<section>
+<section id="smartphrase" class="title-slide slide level1 center">
+<h1>SmartPhrase</h1>
+
+</section>
+<section id="oa-cluster" class="slide level2">
+<h2>OA Cluster</h2>
+<p><bold>OA Cluster</bold></p>
+<ul>
+<li>Moderate anterior or lateral hip pain with weight bearing activities</li>
+<li>Morning stiffness lasting less than 1 hour in duration</li>
+<li>Hip internal rotation ROM &lt;24° or hip internal rotation and flexion 15° less than the contralateral hip</li>
+<li>Increased pain with passive hip IR</li>
+</ul>
+</section></section>
+<section id="adductor-injuries" class="title-slide slide level1 center">
+<h1>Adductor Injuries</h1>
+
+</section>
+
+<section>
+<section id="hamstring-injuries" class="title-slide slide level1 center">
+<h1>Hamstring Injuries</h1>
+
+</section>
+<section id="key-points" class="slide level2">
+<h2>Key points</h2>
+<ul>
+<li>Prognosis</li>
+<li>Prevention
+<ul>
+<li>Future hamstring injuries</li>
+<li>Secondary Complications</li>
+</ul></li>
+</ul>
+</section>
+<section id="prognosis" class="slide level2">
+<h2>Prognosis</h2>
+<p>Palpation test</p>
+</section>
+<section id="prevention-of-future-injuries" class="slide level2">
+<h2>Prevention of future injuries</h2>
+</section>
+<section id="preventing-secondary-complications" class="slide level2">
+<h2>Preventing Secondary Complications</h2>
+<ul>
+<li>Active SLUMP</li>
+</ul>
+</section></section>
+<section>
+<section id="greater-trochanteric-pain-syndrome" class="title-slide slide level1 center">
+<h1>Greater Trochanteric Pain Syndrome</h1>
+<p><a href="../../The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/greater_trochanteric_pain_syndrome_GTPS.html"><strong>Greater Trochanteric Pain Syndrome</strong></a>: lateral hip pain that may originate from numerous sources surrounding the greater trochanter<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span>.</p>
+<ul>
+<li><a href="?var:ref-gluteus-minimus.tendon">Gluteus minimus</a> and <a href="?var:ref-gluteus-medius.tendon">medius</a> tendons<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></li>
+<li>Trochanteric bursa<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></li>
+<li>Proximal ITB<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></li>
+</ul>
+</section>
+<section id="population" class="slide level2">
+<h2>Population</h2>
+<div class="columns">
+<div class="column">
+<p><strong>Civilian</strong></p>
+<ul>
+<li>40-60 years old</li>
+<li>Female</li>
+</ul>
+</div><div class="column">
+<p><strong>Athletic</strong></p>
+</div></div>
+</section>
+<section id="pathomechanism" class="slide level2">
+<h2>PathoMechanism</h2>
+<p>GTPS is theorized to be an overuse injury due to chronic movement dysfunction of <strong>Hip Adduction</strong> and <strong>IR</strong><span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span>.</p>
+<p>Poor eccentric control when loading into a hip</p>
+<p>An attempt to create stability by sitting into passive structures such as IT band and glute tendons</p>
+</section></section>
+<section>
+<section id="piriformis-syndrome" class="title-slide slide level1 center">
+<h1>Piriformis Syndrome</h1>
+<p><a href="../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis.html#piriformis-syndrome"><strong>Piriformis Syndrome</strong></a>: Posterior hip pain that is present with or <em>without</em> sciatica due to sciatic nerve entrapment</p>
+</section>
+<section class="slide level2">
+
+<div class="columns">
+<div class="column">
+<div id="fig-openstax-fig11.29" class="quarto-float quarto-figure quarto-figure-center">
+<figure class="quarto-float quarto-float-fig">
+<div aria-describedby="fig-openstax-fig11.29-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="../../The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Figure&nbsp;1: Hip and Thigh Muscles @OpenStaxAnatomyPhysiology2022"><img data-src="../../The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-openstax-fig11.29-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Hip and Thigh Muscles<span class="citation" data-cites="OpenStaxAnatomyPhysiology2022"><sup><a href="#/references" role="doc-biblioref" onclick="">5</a></sup></span>
+</figcaption>
+</figure>
+</div>
+</div><div class="column">
+<div id="fig-gray1918-image434" class="quarto-float quarto-figure quarto-figure-center">
+<figure class="quarto-float quarto-float-fig">
+<div aria-describedby="fig-gray1918-image434-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="../../The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Figure&nbsp;2: Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918"><img data-src="../../The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-gray1918-image434-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Muscles of the gluteal and posterior femoral region<span class="citation" data-cites="grayAnatomyHumanBody1918"><sup><a href="#/references" role="doc-biblioref" onclick="">6</a></sup></span>
+</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="testing" class="slide level2">
+<h2>Testing</h2>
+<p>Four clinical signs and symptoms were identified as the most common findings and can be present with or without sciatica:</p>
+<ul>
+<li>Buttock pain</li>
+<li>Pain with sitting</li>
+<li>Tenderness near greater sciatic notch</li>
+<li>Pain with maneuvers that cause tension of the piriformis</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<ul>
+<li>Active piriformis test</li>
+<li>Seated piriformis test</li>
+</ul>
+</section></section>
+<section id="ischiofemoral-impingement" class="title-slide slide level1 center">
+<h1>Ischiofemoral impingement</h1>
+
+</section>
+
+<section id="conditions-specfic-evidence-based-rehabilitation-concepts" class="title-slide slide level1 center">
+<h1>CONDITIONS-SPECFIC EVIDENCE-BASED REHABILITATION CONCEPTS</h1>
+
+</section>
+
+<section>
+<section id="fai-treatment" class="title-slide slide level1 center">
+<h1>FAI treatment</h1>
+<p>available body of literature is relatively small and of lower quality when compared to hip OA Clinical expertise and experience is even more valuable with this population.</p>
+</section>
+<section class="slide level2">
+
+<p>“Patients that do not achieve satisfactory results from a structured course of rehabilitation may be candidates for surgical intervention. Typically, arthroscopic procedures are performed, or less commonly open procedures, to remove excessive bone from the femoral head-neck junction or acetabular rim and treatment of any associated joint injury such as labral tears”</p>
+</section>
+<section id="education-and-activity-modification" class="slide level2">
+<h2>Education and activity modification</h2>
+<ul>
+<li>Decrease aggravating activities to allow the patient to move out of the inflammatory stage of healing</li>
+<li>Pair this with education
+<ul>
+<li>How long to limit activity</li>
+<li>Why “Consider a temporary recommendation of strengthening in “protected” ranges by decreasing squat or lunge depth along with decreasing the amount of forward flexion that occurs with exercises such as the single leg Romanian deadlift”</li>
+</ul></li>
+</ul>
+<div class="callout callout-note callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Note</strong></p>
+</div>
+<div class="callout-content">
+<p>A suggested length of time for activity modifications is not established and would be expected to vary by severity of presentation and patient goals</p>
+</div>
+</div>
+</div>
+</section>
+<section id="body-structure-function" class="slide level2">
+<h2>Body Structure &amp; Function</h2>
+<p>Addressing hip flexor muscle length issues should be prioritized as tightness of these structures can have a postural effect by increasing anterior pelvic tilt.</p>
+</section>
+<section id="functional-training" class="slide level2">
+<h2>Functional training</h2>
+<ul>
+<li>Single-Leg Positions and Movements</li>
+</ul>
+</section>
+<section id="return-to-play" class="slide level2">
+<h2>Return to Play</h2>
+<p>There is not an established RTP criteria for this population.</p>
+<ul>
+<li>stepdown</li>
+<li>single leg squat</li>
+<li>SEBT</li>
+</ul>
+</section></section>
+<section id="hip-microinstability" class="title-slide slide level1 center">
+<h1>Hip microinstability</h1>
+<p><a href="../../The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/hip_microinstability.html"><strong>Hip Microinstability</strong></a>: Symptoms related to Hypermobility of the hip joint<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></p>
+</section>
+
+<section>
+<section id="hip-dysplasia" class="title-slide slide level1 center">
+<h1>Hip Dysplasia</h1>
+<p><a href="../../The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/hip_dysplasia.html"><strong>Hip Dysplasia</strong></a>:<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></p>
+</section>
+<section id="presentation" class="slide level2">
+<h2>Presentation</h2>
+<p>Often patients compensate for insufficient passive stability by maintianing a position of anterior pelvic tilt to maximize femoral head coverage<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span>.</p>
+<ul>
+<li>Look for associated Iliopsoas and rectus femoris muscle tightness<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></li>
+</ul>
+</section>
+<section id="treatment-1" class="slide level2">
+<h2>Treatment</h2>
+<p>Hip dysplasia is an unstable hip with overly-lax or weakened capsuloligamentous structures<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span>.</p>
+<p>As a result, treatment should involve a similar approach to hip instability.</p>
+</section>
+<section class="slide level2">
+
+<ul>
+<li>Protect structures from instability events</li>
+<li>Address impairments</li>
+<li>Optimize function</li>
+<li>Prevention of OA</li>
+</ul>
+</section>
+<section id="oa-prevention" class="slide level2">
+<h2>OA Prevention</h2>
+</section></section>
+<section>
+<section id="osteoarthritis" class="title-slide slide level1 center">
+<h1>Osteoarthritis</h1>
+<p><a href="../../The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/hip_osteoarthritis.html"><strong>Hip Osteoarthritis</strong></a>:<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></p>
+</section>
+<section id="treatment-dosage" class="slide level2">
+<h2>Treatment Dosage</h2>
+<table class="basic-table">
+<thead>
+<tr><td>
+Type
+</td>
+<td>
+Days
+</td>
+<td>
+Sets
+</td>
+<td>
+Reps
+</td>
+</tr></thead><thead>
+<tr>
+<td>
+Resistance
+</td>
+<td>
+2-3
+</td>
+<td>
+3-4
+</td>
+<td>
+8-12x
+</td>
+</tr>
+<tr>
+<td>
+Stretching
+</td>
+<td>
+2-3
+</td>
+<td>
+2-4
+</td>
+<td>
+10-30s
+</td>
+</tr>
+<tr>
+<td>
+Aerobic
+</td>
+<td>
+3-5
+</td>
+<td>
+20-90min
+</td>
+<td>
+55-90% HRmax
+</td>
+</tr>
+</thead></table>
+</section>
+<section id="aerobic-exercise" class="slide level2">
+<h2>Aerobic Exercise</h2>
+<p>Aerobic exercise</p>
+<p>5590% maximal heart rate 3-5 days per week for 20-90 minutes in the hip OA population</p>
+<h3 id="minimize-impact-during-aerobic-exercise">Minimize impact during aerobic exercise</h3>
+<ul>
+<li>Cycling</li>
+<li>Elliptical machine</li>
+<li>Swimming</li>
+<li>Running</li>
+<li>Tai-Chi</li>
+<li>Yoga</li>
+</ul>
+</section>
+<section id="activity-modification" class="slide level2">
+<h2>Activity Modification</h2>
+<p>Reduce joint irritability - Avoid prolonged end-range positions - Particularly hip internal and external rotation - Avoiding sitting with legs crossed or in excessive flexion</p>
+</section></section>
+<section>
+<section id="femoral-neck-stress-fracture" class="title-slide slide level1 center">
+<h1>Femoral Neck Stress Fracture</h1>
+<p><a href=""><strong>Femoral Neck Stress Fracture</strong></a>: <strong>?var:ref-femoral-neck-stress-fracture.definition</strong></p>
+</section>
+<section id="caution" class="slide level2">
+<h2>Caution</h2>
+<ul>
+<li>Immediate weight bearing restriction to prevent further fracture progression or compromised bony stability</li>
+<li>6-8 weeks and up to 14weeks for complex patients with poorer prognosis</li>
+</ul>
+</section>
+<section id="prognosis-1" class="slide level2">
+<h2>Prognosis</h2>
+<ul>
+<li><p>Uncomplicated</p></li>
+<li><p>Complicated</p></li>
+<li><p>Compression Sided</p></li>
+<li><p>Tension sided</p></li>
+</ul>
+</section>
+<section class="slide level2">
+
+<h3 id="poor-prognosis">Poor Prognosis</h3>
+<ul>
+<li>Tension-sided</li>
+<li>age?</li>
+<li>&gt;50% width of femoral nec</li>
+</ul>
+</section>
+<section id="weeks-0-8" class="slide level2">
+<h2>Weeks 0-8</h2>
+<ul>
+<li>NWB</li>
+<li>OKC exercises to strengthen</li>
+</ul>
+<div title="Refer to Aquatic PT">
+<div class="callout callout-tip callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Refer to Aquatic PT</strong></p>
+</div>
+<div class="callout-content">
+<p>Aquatic exercises can be used to achieve a therapeutic exercise volume while not jeopardizing healing osseous tissue</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="rts" class="slide level2">
+<h2>RTS</h2>
+<p>Uncomplicated compression side FNSFs and pubic rami stress fractures that are managed nonoperatively can typically return to running and athletic activity around 12 weeks after diagnosis</p>
+<p>However, return-to-sport timeframes of up to 28 weeks have been reported for complicated, and slow-healing cases</p>
+</section>
+<section id="rehab" class="slide level2">
+<h2>Rehab</h2>
+<ul>
+<li><em>Gradual</em> PT supervised return-to-running<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></li>
+<li>Glute Medius strengthening</li>
+<li>Frontal Plane pelvic stabilization</li>
+<li>Pelvic stability during loading</li>
+</ul>
+</section>
+<section id="tension-sided-fnfs" class="slide level2">
+<h2>Tension-sided FNFS</h2>
+<p>Tension-sided patients have higher risk for displacement with weight bearing<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span>. As a result, surgery with a percutaneous screw fixation is the recommended course of treatment</p>
+</section>
+<section id="surgical-management" class="slide level2">
+<h2>Surgical Management</h2>
+<ul>
+<li>Tension-sided FNFS</li>
+<li>Patients with compression sided FNSFs that are greater than 50% of the width of the femoral neck are also considered candidates</li>
+<li>If a fracture becomes displaced, surgery should be performed to mitigate the potential for adverse effects including postoperative AVN and fixation failure</li>
+</ul>
+<h3 id="rehab-1">Rehab</h3>
+<p><strong>Week 0-6</strong></p>
+<ul>
+<li>NWB<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></li>
+</ul>
+<p><strong>Week 7-12</strong></p>
+<ul>
+<li>PWB<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></li>
+</ul>
+<p><strong>3-6mo</strong></p>
+<ul>
+<li>Return-to-sport can be achieved around 3-6 months after surgery but, can take up to a year in complicated cases with delayed healing<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></li>
+</ul>
+</section></section>
+<section id="extra-articular-conditions" class="title-slide slide level1 center">
+<h1>Extra-Articular Conditions</h1>
+
+</section>
+
+<section>
+<section id="iliopsoas-complex-injuries" class="title-slide slide level1 center">
+<h1>Iliopsoas Complex Injuries</h1>
+
+</section>
+<section id="activity-modification-1" class="slide level2">
+<h2>Activity modification</h2>
+<ul>
+<li>Minimize aggravating mechanical and pain symptoms
+<ul>
+<li>i.e.&nbsp;Repetitive hip flexion and extension</li>
+</ul></li>
+</ul>
+<p>This can lead to substantial activity modifications for athletic populations</p>
+</section>
+<section id="successful-activity-modification" class="slide level2">
+<h2>Successful activity modification</h2>
+<p>You must provide alternatives to the activities for the patient to maximize healing and minimize atrophy</p>
+<ul>
+<li>Cardio: Cycling, ellipitcal, or aquatic exercise</li>
+<li>Resistance training:</li>
+</ul>
+</section>
+<section id="rom" class="slide level2">
+<h2>ROM</h2>
+<p>Stretching, STM, trigger point release, and dry needling were all recommended to improve ROM deficits<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></p>
+<p>No time restrictions were given based on acuity of injury.</p>
+</section>
+<section id="strengthening" class="slide level2">
+<h2>Strengthening</h2>
+<ul>
+<li>Gradually progress strengthening</li>
+<li>Since the <a href="../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_major.html#origin">psoas major</a> and <a href="../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Iliopsoas muscles/psoas_minor.html#origin">minor</a> originate from the thoracolumbar junction, it is important to monitor lumbopelvic stability during exercises</li>
+<li>Lumbopelvic strengthening and stabilization exercises are important to start early to create a stable foundation for the iliopsoas complex before exercising it
+<ul>
+<li>supine lumbopelvic stabilization → CKC lumbopelvic stabilization</li>
+</ul></li>
+<li>marching in supine → Seated → Standing<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></li>
+<li>Apta recommended resisted hip flexion from 20° extension to 45° flexion</li>
+<li>Loaded hip flexion with ankle weights, bands, and cables
+<ul>
+<li>Standing hip marches have changing torque on the hip, with the most torque at 90° hip flexion</li>
+<li>Supine SLR exercise will have increased torque at 0° hip flexion with decreasing load as you approach 90°</li>
+</ul></li>
+</ul>
+</section>
+<section id="rts-1" class="slide level2">
+<h2>RTS</h2>
+<ul>
+<li>ballistic speed exercises<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></li>
+</ul>
+<p>Criteria</p>
+<ul>
+<li>Symptoms still reproducible</li>
+<li>substantial strength asymmetries</li>
+</ul>
+</section>
+<section id="unresponsive-to-pt" class="slide level2">
+<h2>Unresponsive to PT</h2>
+<ul>
+<li>US guided corticosteroids<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></li>
+<li>Endoscopic tendon release<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></li>
+<li>Lengthening procedures<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></li>
+</ul>
+</section></section>
+<section>
+<section id="adductor-muscle-injuries" class="title-slide slide level1 center">
+<h1>Adductor muscle injuries</h1>
+<!-- ```{python tbl-oian}
+#| label: tbl-oian
+#| warning: false
+#| message: false
+#| echo: false
+
+from pathlib import Path
+import pandas as pd
+from pyprojroot import here
+from IPython.display import display, HTML
+
+# Set the path for the script file
+script_file_path = here("scripts/process_oian_table.py")
+
+# Check if the script file exists
+if script_file_path.exists():
+    import sys
+    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
+
+    from process_oian_table import process_oian_table  # Import the specific function
+
+    # Define the column to filter by and the identifiers to include
+    filter_column = 'functional_group_identifier'  # Choose the column you want to filter by
+    filter_identifiers = ['adductor_muscle_group']  # Replace with actual identifiers you want to include
+
+    # Call the function to get the HTML table with filtering
+    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
+
+    if html_table:
+        # Render the HTML table for display
+        display(HTML(html_table))  # Use display to render the HTML properly
+else:
+    print("Script file does not exist. Please check the path.")
+
+```
+ -->
+</section>
+<section id="acute-protective-phase" class="slide level2">
+<h2>Acute / Protective phase</h2>
+<ul>
+<li>gentle ROM at hips and knees<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></li>
+<li>Lumbopelvic stabilization<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></li>
+<li>Isometric activation of adjacent / unaffected muscles</li>
+</ul>
+<p>Criteria</p>
+<ul>
+<li>Tolerance of therex</li>
+<li>Low-level ADLs</li>
+<li>Symptom stability</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<div class="callout callout-tip callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Tip</strong></p>
+</div>
+<div class="callout-content">
+<p>Since patients are very irritable and limited acutely, they should be re-evaluated as their pain/functional tolerance increases to screen out coexisting conditions<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></p>
+</div>
+</div>
+</div>
+</section>
+<section id="subacute-phase" class="slide level2">
+<h2>Subacute phase</h2>
+<p>Impairment based rehab</p>
+<ul>
+<li>Flexibility exercises should only be employed when there is symptom stability thyroughout the available ROM
+<ul>
+<li>limited evidence for mm flexibility in prevention</li>
+</ul></li>
+</ul>
+</section>
+<section id="prevention" class="slide level2">
+<h2>Prevention</h2>
+<ul>
+<li>Adductor:Abductor Strength ratio: &gt;80%<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span>
+<ul>
+<li>Pro hockey had 17x increase risk of adductor mm injury if &lt;80%</li>
+</ul></li>
+</ul>
+</section>
+<section id="strengthening-1" class="slide level2">
+<h2>Strengthening</h2>
+<p>Isometric → Concentric → Eccentric</p>
+<p>Limited → Full ROM</p>
+</section>
+<section class="slide level2">
+
+<p>The Copenhagen 5-second adductor squeeze test<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></p>
+<div id="tbl-5second-adductor-squeeze-test" class="quarto-float quarto-figure quarto-figure-center">
+<figure class="quarto-float quarto-float-tbl">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl quarto-uncaptioned" id="tbl-5second-adductor-squeeze-test-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1
+</figcaption>
+<div aria-describedby="tbl-5second-adductor-squeeze-test-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="basic-table">
+<thead>
+<tr>
+<th>
+Pain
+</th>
+<th>
+Sport Readiness
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+0–2
+</td>
+<td>
+Ready
+</td>
+</tr>
+<tr>
+<td>
+3–5
+</td>
+<td>
+Caution
+</td>
+</tr>
+<tr>
+<td>
+6–10
+</td>
+<td>
+Not Ready
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+</section>
+<section class="slide level2">
+
+<p><a href="../../The Archive/Examination/Tests and Measures/Patient Reported Outcomes/hip_and_groin_outcome_score_HAGOS.html">Copenhagen Hip and Groin Outcome Score (HAGOS)</a></p>
+</section>
+<section id="hamstring-injuries-1" class="slide level2">
+<h2>Hamstring injuries</h2>
+<table border="1" cellpadding="6" cellspacing="0">
+<thead>
+<tr>
+<th>
+Stage
+</th>
+<th>
+Goals
+</th>
+<th>
+Intervention
+</th>
+<th>
+Criteria for advancement
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+Acute phase
+</td>
+<td>
+<ul>
+<li>
+Pain and edema management
+</li>
+<li>
+Prevent development of tissue adhesions
+</li>
+<li>
+Limit atrophy and strength deficits
+</li>
+<li>
+Limit flexibility and ROM deficits
+</li>
+<li>
+Normalize gait pattern
+</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>
+Relative rest and avoidance of aggravating activities
+</li>
+<li>
+Ice, compression, local electrophysical agents as indicated
+</li>
+<li>
+Soft tissue mobilization
+</li>
+<li>
+Active ROM and submaximal strengthening
+</li>
+<li>
+Gait training
+</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>
+Symmetrical passive and active hip and knee ROM
+</li>
+<li>
+Normal gait pattern
+</li>
+<li>
+No reactive pain or symptoms with prescribed therapeutic exercises
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+Intermediate phase
+</td>
+<td>
+<ul>
+<li>
+Increase strength and muscular endurance
+</li>
+<li>
+Regain preinjury flexibility
+</li>
+<li>
+Restore lumbopelvic stability
+</li>
+<li>
+Improve lower extremity neuromuscular control
+</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>
+Progress lower extremity and lumbopelvic strengthening
+<ul>
+<li>
+End-range &amp; eccentric strength exercises
+</li>
+</ul>
+<pre><code>      &lt;/li&gt;
+      &lt;li&gt;Stretching &amp;amp; flexibility exercises&lt;/li&gt;
+      &lt;li&gt;Low intensity cardiovascular endurance exercises&lt;/li&gt;
+      &lt;li&gt;Single leg balance and neuromuscular control exercises&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Symmetrical flexibility and muscle length&lt;/li&gt;
+      &lt;li&gt;Symmetrical hamstring strength&lt;/li&gt;
+      &lt;li&gt;Adequate neuromuscular control&lt;/li&gt;
+      &lt;li&gt;Symmetrical jogging (if appropriate) pattern without reactive pain&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Late phase&lt;/td&gt;
+  &lt;td&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Return to all desired activities including sports or heavy manual labor&lt;/li&gt;
+      &lt;li&gt;Restore general and muscular endurance necessary for sport or other activity demands&lt;/li&gt;
+      &lt;li&gt;Identify and address modifiable factors for reinjury&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Strength and flexibility exercise progression
+        &lt;ul&gt;
+          &lt;li&gt;Emphasize lengthened state, eccentric strength, and higher velocity movements&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Progress balance and neuromuscular control exercises
+        &lt;ul&gt;
+          &lt;li&gt;Perturbation training and reactive tasks&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Sport-specific or work simulation training&lt;/li&gt;
+      &lt;li&gt;Plyometric and agility exercises as appropriate&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Full and pain-free hamstring strength at all muscle lengths&lt;/li&gt;
+      &lt;li&gt;Demonstrate tolerance to all sport or work specific tasks&lt;/li&gt;
+      &lt;li&gt;No apprehension on H-test if patient anticipates returning to high level sport participation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;</code></pre>
+</li></ul></td></tr></tbody>
+</table>
+</section>
+<section class="slide level2">
+
+<p>Early phase</p>
+<ul>
+<li><p>Reduce pain</p></li>
+<li><p>Reduce edema</p></li>
+<li><p>Protect further damage by minimizing load</p></li>
+<li><p>Minimize atrophy</p></li>
+<li><p>3-4 Days of immobilization</p></li>
+<li><p>Excessive mobilization can cause excessive scar formation</p></li>
+<li><p>Use crutches</p></li>
+</ul>
+</section>
+<section class="slide level2">
+
+<p>AD usage</p>
+<ul>
+<li>Use if ambulation exacerbates pain</li>
+<li>Foot flat &gt; toe-touch or NWB</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<p>Limit Atrophy</p>
+<ul>
+<li><p>Low-intensity &amp; Pain-free ROM</p></li>
+<li><p>Avoid isoalted hamstring exercises</p></li>
+<li><p>Hip AROM</p></li>
+<li><p>Knee AROM</p></li>
+<li><p>Submaximal pain-free hamstring isometrics</p></li>
+<li><p>Transverse Abdominis activation</p></li>
+<li><p>Low-resistance stationary bicycling</p></li>
+<li><p>Side-stepping</p></li>
+</ul>
+</section>
+<section class="slide level2">
+
+<p>Progression Criteria</p>
+<ul>
+<li>Normal gait pattern</li>
+<li>Full hip A/PROM</li>
+<li>Full knee A/PROM</li>
+<li>Pain-free submaximal hamstring contraction</li>
+</ul>
+</section>
+<section id="intermediate-phase" class="slide level2">
+<h2>Intermediate phase</h2>
+<p>Goal: Progressive and restoration</p>
+</section>
+<section class="slide level2">
+
+<ul>
+<li>Increase LE strength</li>
+<li>Regain pre-injury muscular length</li>
+<li>Improve lumbopelvic stability</li>
+<li>Restore neuromuscular control</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<p>Stretching</p>
+<p>Avoid Stretching</p>
+<ul>
+<li>Significantly weak muscles</li>
+<li>The muscle may be unable to protect itself</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<p>Eccentric strengthening</p>
+<p>Criteria:</p>
+<ul>
+<li>Good tolerance to rehabilitative exercises</li>
+<li>&gt;50% contralateral strength</li>
+</ul>
+<p>Eccentric is important for rehabilitation and prevention</p>
+<ul>
+<li>a 10-week eccentric hamstring strengthening program reduced 1st time injuries and recurrent injuries by ~85%<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></li>
+</ul>
+</section>
+<section class="slide level2">
+
+<p>Lumbopelvic stability should be included prior to sport-specific training</p>
+</section>
+<section class="slide level2">
+
+<p>Sport-specific training</p>
+<ul>
+<li>No proximal stability deficits</li>
+</ul>
+<h3 id="late-stage">Late Stage</h3>
+<p>Criteria</p>
+<ul>
+<li>Tolerance to all current therapeutic activities</li>
+<li>Symmetrical hamstring flexibility</li>
+<li>5/5 manual muscle testing grade or 90% involved versus noninvolved side instrumented strength testing for hamstring muscle</li>
+<li>No obvious balance deficits</li>
+<li>No obvious neuromuscular control deficits</li>
+<li>Ability to jog forward and backward at greater than 50% effort without symptoms</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<p>Gradually expose individual to sport/preinjury activities</p>
+<p>Goals:</p>
+<ul>
+<li>Muscle flexibility</li>
+<li>Strength</li>
+<li>Neuromuscular control</li>
+<li>Endurance</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<p>Strength</p>
+<ul>
+<li>Eccentric focus
+<ul>
+<li>increasing ROM</li>
+<li>resistance</li>
+<li>volume</li>
+</ul></li>
+<li>Deadlifts</li>
+<li>Single-leg Romanian Deadlifts</li>
+<li>Nordic Hamstring Curls</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<p><a href="../../The Archive/Interventions/Therex/Exercises/nordic_curl.html">Nordic hamstring curl</a></p>
+<p>Van der horst found that nordic hamstring curls decreased rate of hamstring injuries in amateur soccer players<span class="citation" data-cites="aptaCurrentConceptsOrthopaedic2024"><sup><a href="#/references" role="doc-biblioref" onclick="">1</a></sup></span></p>
+</section>
+<section class="slide level2">
+
+<p>Exercise progression</p>
+<p>Monitor for symptoms:</p>
+<ul>
+<li>Increase in soreness</li>
+<li>exacerbation of symptoms</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<p>Exercises</p>
+<ul>
+<li>Nordic Hamstring Curl</li>
+</ul>
+</section></section>
+<section id="lefs" class="title-slide slide level1 center">
+<h1>LEFS</h1>
+<p><a href="">Lower Extremity Functional Scale</a></p>
+</section>
+
+<section id="references" class="title-slide slide level1 smaller scrollable">
+<h1>References</h1>
+
+
+<div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-aptaCurrentConceptsOrthopaedic2024" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">APTA. <em>Current <span>Concepts</span> of <span>Orthopaedic Physical Therapy</span></em>. 5th ed.; 2024.</div>
+</div>
+<div id="ref-ensekiHipPainMovement2023" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Enseki KR, Bloom NJ, Harris-Hayes M, et al. Hip <span>Pain</span> and <span>Movement Dysfunction Associated With Nonarthritic Hip Joint Pain</span>: <span>A Revision</span>. <em>The Journal of Orthopaedic and Sports Physical Therapy</em>. 2023;53(7):CPG1-CPG70. doi:<a href="https://doi.org/10.2519/jospt.2023.0302">10.2519/jospt.2023.0302</a></div>
+</div>
+<div id="ref-cibulkaHipPainMobility2017" class="csl-entry" role="listitem">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Cibulka MT, Bloom NJ, Enseki KR, Macdonald CW, Woehrle J, McDonough CM. Hip <span>Pain</span> and <span>Mobility Deficits-Hip Osteoarthritis</span>: <span>Revision</span> 2017. <em>The Journal of Orthopaedic and Sports Physical Therapy</em>. 2017;47(6):A1-A37. doi:<a href="https://doi.org/10.2519/jospt.2017.0301">10.2519/jospt.2017.0301</a></div>
+</div>
+<div id="ref-clintonPelvicGirdlePain2017" class="csl-entry" role="listitem">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Clinton SC, Newell A, Downey PA, Ferreira K. Pelvic <span>Girdle Pain</span> in the <span>Antepartum Population</span>: <span>Physical Therapy Clinical Practice Guidelines Linked</span> to the <span>International Classification</span> of <span>Functioning</span>, <span>Disability</span>, and <span>Health From</span> the <span>Section</span> on <span>Women</span>’s <span>Health</span> and the <span>Orthopaedic Section</span> of the <span>American Physical Therapy Association</span>. <em>Journal of Women’s Health Physical Therapy</em>. 2017;41(2):102-125. doi:<a href="https://doi.org/10.1097/JWH.0000000000000081">10.1097/JWH.0000000000000081</a></div>
+</div>
+<div id="ref-OpenStaxAnatomyPhysiology2022" class="csl-entry" role="listitem">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Betts JG, Blaker W. <em>Openstax <span>Anatomy</span> and <span>Physiology</span></em>. 2nd ed. OpenStax; 2022. <a href="https://openstax.org/details/books/anatomy-and-physiology-2e/?Book%20details">https://openstax.org/details/books/anatomy-and-physiology-2e/?Book%20details</a></div>
+</div>
+<div id="ref-grayAnatomyHumanBody1918" class="csl-entry" role="listitem">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Gray H. <em>Anatomy of the Human Body</em>. 20th ed. (Lewis WH, ed.). Lea &amp; Febiger; 1918. <a href="https://www.bartleby.com/107/">https://www.bartleby.com/107/</a></div>
+</div>
+</div>
+</section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<div class="footer footer-default">
+<p><a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/" target="_blank" style="position: fixed; bottom: -7px; left: 50%; transform: translateX(-50%);"><img src="../../branding/Yomokerst/yomokerst heavy condensed black.png" alt="Logo" style="height: 40px;"></a></p>
+</div>
+</div></div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="../../site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="../../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="../../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="../../site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="../../site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="../../site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="../../site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="../../site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': true,
+'previewLinksAuto': true,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'none',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1050,
+
+        height: 700,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        math: {
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+    window.document.addEventListener("DOMContentLoaded", function (event) {
+      const toggleBodyColorMode = (bsSheetEl) => {
+        const mode = bsSheetEl.getAttribute("data-mode");
+        const bodyEl = window.document.querySelector("body");
+        if (mode === "dark") {
+          bodyEl.classList.add("quarto-dark");
+          bodyEl.classList.remove("quarto-light");
+        } else {
+          bodyEl.classList.add("quarto-light");
+          bodyEl.classList.remove("quarto-dark");
+        }
+      }
+      const toggleBodyColorPrimary = () => {
+        const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+        if (bsSheetEl) {
+          toggleBodyColorMode(bsSheetEl);
+        }
+      }
+      toggleBodyColorPrimary();  
+      const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+      tabsets.forEach(function(tabset) {
+        const tabby = new Tabby('#' + tabset.id);
+      });
+      const isCodeAnnotation = (el) => {
+        for (const clz of el.classList) {
+          if (clz.startsWith('code-annotation-')) {                     
+            return true;
+          }
+        }
+        return false;
+      }
+      const onCopySuccess = function(e) {
+        // button target
+        const button = e.trigger;
+        // don't keep focus
+        button.blur();
+        // flash "checked"
+        button.classList.add('code-copy-button-checked');
+        var currentTitle = button.getAttribute("title");
+        button.setAttribute("title", "Copied!");
+        let tooltip;
+        if (window.bootstrap) {
+          button.setAttribute("data-bs-toggle", "tooltip");
+          button.setAttribute("data-bs-placement", "left");
+          button.setAttribute("data-bs-title", "Copied!");
+          tooltip = new bootstrap.Tooltip(button, 
+            { trigger: "manual", 
+              customClass: "code-copy-button-tooltip",
+              offset: [0, -8]});
+          tooltip.show();    
+        }
+        setTimeout(function() {
+          if (tooltip) {
+            tooltip.hide();
+            button.removeAttribute("data-bs-title");
+            button.removeAttribute("data-bs-toggle");
+            button.removeAttribute("data-bs-placement");
+          }
+          button.setAttribute("title", currentTitle);
+          button.classList.remove('code-copy-button-checked');
+        }, 1000);
+        // clear code selection
+        e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
+      });
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
+        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
+          var filterRegex = new RegExp("https:\/\/yomokerst\.com");
+        var isInternal = (href) => {
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+        }
+        // Inspect non-navigation links and adorn them if external
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+        for (var i=0; i<links.length; i++) {
+          const link = links[i];
+          if (!isInternal(link.href)) {
+            // undo the damage that might have been done by quarto-nav.js in the case of
+            // links that we want to consider external
+            if (link.dataset.originalHref !== undefined) {
+              link.href = link.dataset.originalHref;
+            }
+          }
+        }
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+        const config = {
+          allowHTML: true,
+          maxWidth: 500,
+          delay: 100,
+          arrow: false,
+          appendTo: function(el) {
+              return el.closest('section.slide') || el.parentElement;
+          },
+          interactive: true,
+          interactiveBorder: 10,
+          theme: 'light-border',
+          placement: 'bottom-start',
+        };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
+          config['offset'] = [0,0];
+          config['maxWidth'] = 700;
+        window.tippy(el, config); 
+      }
+      const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+      for (var i=0; i<noterefs.length; i++) {
+        const ref = noterefs[i];
+        tippyHover(ref, function() {
+          // use id or data attribute instead here
+          let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+          try { href = new URL(href).hash; } catch {}
+          const id = href.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note) {
+            return note.innerHTML;
+          } else {
+            return "";
+          }
+        });
+      }
+      const findCites = (el) => {
+        const parentEl = el.parentElement;
+        if (parentEl) {
+          const cites = parentEl.dataset.cites;
+          if (cites) {
+            return {
+              el,
+              cites: cites.split(' ')
+            };
+          } else {
+            return findCites(el.parentElement)
+          }
+        } else {
+          return undefined;
+        }
+      };
+      var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+      for (var i=0; i<bibliorefs.length; i++) {
+        const ref = bibliorefs[i];
+        const citeInfo = findCites(ref);
+        if (citeInfo) {
+          tippyHover(citeInfo.el, function() {
+            var popup = window.document.createElement('div');
+            citeInfo.cites.forEach(function(cite) {
+              var citeDiv = window.document.createElement('div');
+              citeDiv.classList.add('hanging-indent');
+              citeDiv.classList.add('csl-entry');
+              var biblioDiv = window.document.getElementById('ref-' + cite);
+              if (biblioDiv) {
+                citeDiv.innerHTML = biblioDiv.innerHTML;
+              }
+              popup.appendChild(citeDiv);
+            });
+            return popup.innerHTML;
+          });
+        }
+      }
+    });
+    </script>
+    <script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+    (function() {
+      let previousOnload = window.onload;
+      window.onload = () => {
+        if (previousOnload) {
+          previousOnload();
+        }
+        lightboxQuarto.on('slide_before_load', (data) => {
+          const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+          const href = trigger.getAttribute('href');
+          if (href !== null) {
+            const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+            if (imgEl !== null) {
+              const srcAttr = imgEl.getAttribute("src");
+              if (srcAttr && srcAttr.startsWith("data:")) {
+                slideConfig.href = srcAttr;
+              }
+            }
+          } 
+        });
+      
+        lightboxQuarto.on('slide_after_load', (data) => {
+          const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(slideNode);
+          }
+        });
+      
+      };
+      
+    })();
+              </script>
+    
+
+</body></html>

@@ -126,12 +126,71 @@ Biceps femoris flexes and externally rotates the knee @neumannKinesiologyMusculo
 
 Hamstring shortness is the result of hamstring overuse often due to taking on a compensatory role when the [deep hip stabilizers]({{< var ref-deep-hip-stabilizer-muscle-group.path >}}) are dysfunctional @myersAnatomyTrains2021.
 
+# Injury
+<table class="basic-table">
+  <thead>
+    <tr>
+      <th>Grade</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>A mild muscle injury with majority of fibers intact [@aptaCurrentConceptsOrthopaedic2024]</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Partial muscle fibers disruption [@aptaCurrentConceptsOrthopaedic2024]</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Complete muscle tear or tendon avulsion [@aptaCurrentConceptsOrthopaedic2024]</td>
+    </tr>
+  </tbody>
+</table>
+
+
+A significant aspect of hamstring rehabiltiation should be <i>prevention</i> due to high incidence of reinjury [@aptaCurrentConceptsOrthopaedic2024].
+
+In addition, we should be premeditatively avoiding secondary pathologies that can stem from hamstring injuries.
+For example, the APTA recommends proactively performing an <i>active slump test</i> to note [sciatic nerve]({{< var ref-sciatic-nerve.path >}}) neurodynamic mobility [@aptaCurrentConceptsOrthopaedic2024].
+
+
+
+Risk factors for hamstring injury:
+
+- Prior hamstring muscle injury (2x risk) [@aptaCurrentConceptsOrthopaedic2024]
+- Increased age [@aptaCurrentConceptsOrthopaedic2024]
+- Previous significant knee injury or surgery [@aptaCurrentConceptsOrthopaedic2024]
+- Strength deficits of hip and pelvic musculature [@aptaCurrentConceptsOrthopaedic2024]
+    - Isolated weakness [@aptaCurrentConceptsOrthopaedic2024]
+    - Relative weakness compared to quadriceps muscle [@aptaCurrentConceptsOrthopaedic2024]
+- Decreased muscle length [@aptaCurrentConceptsOrthopaedic2024]
+- Overall limb stiffness [@aptaCurrentConceptsOrthopaedic2024]
+- Poor lumbopelvic stability [@aptaCurrentConceptsOrthopaedic2024]
+- Sacroiliac dysfunction [@aptaCurrentConceptsOrthopaedic2024]
+- Proprioceptive deficits [@aptaCurrentConceptsOrthopaedic2024]
+- [Quadricep muscle length]({{< var ref >}}) [@aptaCurrentConceptsOrthopaedic2024]
+
+
+
+
 # Examination
 
 - Length Test
     - SLR
     - 90-90 knee extension
-- MMT
+- [Strength Testing](#strength-testing)
+
+## Strength Testing {#strength-testin}
+
+The hamstrings should be measured using varying <i>knee flexion</i> and <i>TFJ rotation</i>.
+
+The APTA recommends performing isometric strength testing at 90&deg; (shortened) and 15&deg; (lengthened) positions [@aptaCurrentConceptsOrthopaedic2024].
+
+The medial and lateral hamstring muscles can be biased by using <i>internal rotation</i> and <i>external rotation</i> of the tibia [@aptaCurrentConceptsOrthopaedic2024].
+The medially located [semitendinosus]({{< var ref-semitendinosus.path >}}) and [semimembranosus]({{< var ref-semimembranosus.path >}}) hamstrings perform <i>Tibiofemoral internal rotation</i>.
 
 # Mobility Exercises
 

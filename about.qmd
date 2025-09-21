@@ -4,10 +4,12 @@ citation: false
 author: []
 ---
 
+*yomokerst* is a passion project created by [Nate **Yomo**gida](#ngy) and [Chloë **Kerst**ein](#cak) as a way to create a streamlined method of connecting research to clinical practice.
+
+
 
 # Nathaniel Yomogida {#ngy}
 
-Founder and Editor
 
 - Certifications
     - **Functional Techniques**: A *Gray Institute* course designed to help clinicians optimize the "functional" aspect of their training to best meet our client's goals

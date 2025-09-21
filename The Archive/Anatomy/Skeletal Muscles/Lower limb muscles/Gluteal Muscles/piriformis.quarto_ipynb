@@ -23,7 +23,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "5580e757"
+      "id": "5590a48f"
     },
     {
       "cell_type": "code",
@@ -160,6 +160,13 @@
         "The sciatic nerve can either runs deep to the piriformis and can exit inferiorly, through the piriformis muscle belly, or superior to the piriformis.\n",
         "As a result, overactivation of the piriformis can lead to neurogenic pain and symptoms and is termed [Piriformis syndrome]({{< var ref-piriformis-syndrome.path >}})\n",
         "\n",
+        "- Active piriformis test\n",
+        "- Seated piriformis test\n",
+        "\n",
+        "# Evaluation\n",
+        "\n",
+        "- Active piriformis test\n",
+        "- Seated piriformis test\n",
         "\n",
         "# Active Release Technique (ART)\n",
         "\n",
@@ -167,9 +174,16 @@
         "\n",
         "- Patient in contralateral sidelying\n",
         "- STM to piriformis\n",
-        "- move from hip IR/ABD/Ext into hip ER/Adduction/Flexion\n"
+        "- move from hip IR/ABD/Ext into hip ER/Adduction/Flexion\n",
+        "\n",
+        "\n",
+        "# Exercises\n",
+        "\n",
+        "- FAddER Contract-Relax\n",
+        "    - Therapist assisted\n",
+        "    - Self-Stretch "
       ],
-      "id": "c8809b29"
+      "id": "e7bf9210"
     }
   ],
   "metadata": {

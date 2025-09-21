@@ -1,0 +1,65 @@
+---
+title: Social media slides
+subtitle: Subtitle
+author: 
+- id: NGY
+  number: 1
+  name: 
+    given: Nate
+    family: Yomogida
+#   email: "nate.yomogida.pt@gmail.com"
+  url: "https://yomokerst.com/about.html#ngy"
+  affiliation:
+    - Doctor of Physical Therapy
+  
+format:
+    revealjs:
+        slide-number: false
+        preview-links: auto
+        width: 1080       # TikTok/Instagram portrait width
+        height: 1920      # TikTok portrait height
+        margin: 0.05      # adjust spacing
+        center: true
+        css: "../socialmedia.css"
+        footer: '<a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/" target="_blank" style="position: fixed; bottom: 200px; left: 50%; transform: translateX(-50%);"><img src="/branding/Yomokerst/yomokerst heavy condensed black.png" alt="Logo" style="height: 40px;"></a>'
+---
+
+## When you should pursue alternative options
+
+- physical tissue limitations (PROM &asymp; AROM)
+- Patients with neuromuscular tissue limitations
+
+For patients with PROM &gt; AROM, this is indicative of a neuromuscular ROM limitation.
+This patient *could* benefit from stretching, but there are other treatments which could work better and with less compression
+
+
+## Physical VS Neuromuscular Muscle Tightness
+
+
+Physical:
+
+- PROM &asymp; AROM
+- **Passive muscle tension**: physical resistance to stretch from the structures of the muscle or surrounding fascia [@pageCurrentConceptsMuscle2012]
+
+Neuromuscular:
+
+- PROM &gt; AROM
+- **Active muscle tension**: Tension created from dynamic muscle contration due to neuromuscular excitation [@pageCurrentConceptsMuscle2012]
+
+## Physical Stretching Exercises
+
+- Wall ITB stretch
+- Thomas Stretch
+
+## TFL Neuromuscular Releases
+
+- Contract-relax
+- Manual release
+- Self-myofascial release
+- Massage gun with stretching
+
+
+## References
+
+::: {#refs}
+:::

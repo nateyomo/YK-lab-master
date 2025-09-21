@@ -8,7 +8,7 @@
         "title: Prevertebral Muscle Group\n",
         "---"
       ],
-      "id": "4eb71527"
+      "id": "c68322ca"
     },
     {
       "cell_type": "code",
@@ -67,7 +67,7 @@
         "   - [Middle scalene]({{< var ref-middle-scalene.path >}})\n",
         "   - [Posterior scalene]({{< var ref-posterior-scalene.path >}})\n"
       ],
-      "id": "34a3e418"
+      "id": "09358976"
     }
   ],
   "metadata": {

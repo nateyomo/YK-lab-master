@@ -1,0 +1,40 @@
+---
+title: "Auto-Forms for PTs"
+author: "Nathaniel Yomogida PT, DPT"
+date: "9/2/2025"
+format:
+    revealjs:
+        slide-number: true
+        preview-links: auto
+        scrollable: true
+        css: styles.css
+        footer: '<a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/" target="_blank" style="position: fixed; bottom: -7px; left: 50%; transform: translateX(-50%);"><img src="/branding/Yomokerst/yomokerst heavy condensed black.png" alt="Logo" style="height: 40px;"></a>'
+---
+
+
+
+- [QuickDASH]({{< var ref-quickdash.path >}})
+- [LEFS]({{< var ref-lower-extremity-functional-scale >}})
+- [Oswestry Disability Index (ODI)]({{< var ref-oswestry-disability-index.path >}})
+- [Neck Disability Index (NDI)]({{< var ref-neck-disability-index.path >}})
+- [Patient Specific Functional Scale (PSFS)]({{< var ref-patient-specific-functional-scale.path >}})
+- TMJ
+- Vestibular
+- Functional Rating Index
+
+# Does not add any clinician work
+
+We have to take the paper documents and manually add up the scores regardless, using a web program will not be harder <i>if</i> it is easy to access.
+
+# Translation
+
+It would be easier for english-only clinicians, <i>like myself</i>, to convert the questionnaires from spanish to english.
+
+# Improve intra- and inter- clinician communication
+
+
+# Maximize our use of patient data
+
+
+
+

@@ -95,7 +95,7 @@
         "The most distal bony attachment is at the plantar toes @myersAnatomyTrains2021.\n",
         "The first myofascial track is composed of the [plantar fascia]({{< var ref-plantar-fascia.path >}}) and the tendons of the 4 short toe flexors (see @tbl-short-toe-flexor-oian) @myersAnatomyTrains2021.\n"
       ],
-      "id": "64b2b7ce"
+      "id": "5d8563a2"
     },
     {
       "cell_type": "code",
@@ -219,7 +219,7 @@
         "\n",
         "# References"
       ],
-      "id": "f5ff5134"
+      "id": "7f7fe538"
     }
   ],
   "metadata": {

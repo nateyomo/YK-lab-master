@@ -1,7 +1,16 @@
 ---
 title: "Index of Neuro archives"
-
+listing:
+    contents:
+    - "Neuro Examination/*.qmd"
+    - "Neuroanatomy/*.qmd"
+    - "Neuropathology/*.qmd"
+    - "Neuropathophysiology/*.qmd"
+    - "Neurophysiology/*.qmd"
+    - "Neurorehabilitation/*.qmd"
+    type: table
 ---
+
 
 ## Neuroanatomy
 

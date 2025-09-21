@@ -17,7 +17,7 @@
         "1. [Extensor Digitorum Longus]({{< var ref-extensor-digitorum-longus.path >}})\n",
         "1. [Fibularis Tertius]({{< var ref-fibularis-tertius.path >}})\n"
       ],
-      "id": "530120e5"
+      "id": "31f7940d"
     },
     {
       "cell_type": "code",
@@ -67,7 +67,7 @@
       "source": [
         "The [Fibularis Tertius]({{< var ref-fibularis-tertius.path >}}) is the most anterior muscle out of the 4 @olewnikFibularisTertiusAnatomical2019. "
       ],
-      "id": "16ebf9b4"
+      "id": "9c1fbb36"
     }
   ],
   "metadata": {

@@ -127,3 +127,13 @@ gt_table
 ## 12th
 
 The 12th rib is considered a "Free floating rib" since it lacks attachment to the sternum
+
+
+
+
+# HVLAT
+
+- Upper Ribs (R1-3) PA HVLAT in Supine (Folded Arms) p97 [@dunningSMT1HighVelocityLowAmplitude2018]
+- Upper Ribs (R1-3) PA HVLAT in Supine (HAC) p98 [@dunningSMT1HighVelocityLowAmplitude2018]
+- Mid-Thoracic Rib (R4-9) HVLAT in Supine p98 [@dunningSMT1HighVelocityLowAmplitude2018]
+- Mid-Thoracic Rib (R2-9 costotransverse) HVLAT in Prone p100 [@dunningSMT1HighVelocityLowAmplitude2018]

@@ -1,5 +1,5 @@
 ---
-title: Hip
+title: Hip MSK
 subtitle: Musculoskeletal Dynamics
 ---
 
@@ -385,6 +385,19 @@ lumbopelvic hip complex during ground impact is a combination of 3-D shock-absor
 
 "As previously described in this chapter, the average angle of inclination of the femoral neck is approximately 125 degrees (see Fig. 12.7A). The angle may be changed as a result of a surgical repair of a fractured hip or the specific design of a prosthetic hip. In addition, a surgical operation known as a coxa vara (or valga) osteotomy intentionally alters a preexisting angle of inclina­ tion. This operation involves cutting a wedge of bone from the proximal femur, thereby changing the orientation of the femoral head to the acetabulum. A goal of this operation is often to improve the congruency of the weight­bearing surfaces of the hip.e" @neumannKinesiologyMusculoskeletalSystem2017
 
+
+# Joint Positions
+
+## Pack Positions
+
+There is an <i>Open-pack</i> and <i>Closed-pack</i> position for each joint[@aptaCurrentConceptsOrthopaedic2024].
+The <i>Open-pack Position</i> refers to when the hip has minimal capsuloligamentous tension and joint congruency[@aptaCurrentConceptsOrthopaedic2024].
+
+### Open-pack
+The Open-pack position for the hip joint occurs at 30&deg; of flexion, 30&deg; of abduction, and slight external rotation in <i>most</i> people [@aptaCurrentConceptsOrthopaedic2024].
+
+which allows maximal accessory joint motion. 
+
 # Kinematics
 
 ## Flexion
@@ -510,12 +523,30 @@ lumbopelvic hip complex during ground impact is a combination of 3-D shock-absor
 
 :::
 
+
+
+# Single Leg Stance
+
+<!-- seep545 [@aptaCurrentConceptsOrthopaedic2024] -->
+
+# Gait
+
+<!-- seep545 [@aptaCurrentConceptsOrthopaedic2024] -->
+
+# Screening
+
+## Lumbopelvic complex
+
+- Lumbar AROM as both single and repeated movement [@aptaCurrentConceptsOrthopaedic2024]
+
+
+
 # Testing
 
 ## Hip Tightness
 
-- [Thomas Test]({{< var ref-thomas-test.path >}}) @wongPhysicalExaminationHip2022
-- [Ober's Test]({{< var ref-obers-test.path >}}) @wongPhysicalExaminationHip2022 
+- [Thomas Test]({{< var ref-thomas-test.path >}}) [@wongPhysicalExaminationHip2022]
+- [Ober's Test]({{< var ref-obers-test.path >}}) [@wongPhysicalExaminationHip2022] 
 
 ## Functional Tests
 
@@ -525,30 +556,39 @@ lumbopelvic hip complex during ground impact is a combination of 3-D shock-absor
 
 ## Femoroacetabular Impingement & Labral Pathology Tests 
 
-- [Flexion-Adduction-Internal Rotation (FADDIR)]({{< var ref-faddir-test.path >}}) @wongPhysicalExaminationHip2022 
-- Scour Test (Labral Stress Test) @wongPhysicalExaminationHip2022 
-- Internal Rotation Over Pressure (IROP) @wongPhysicalExaminationHip2022 
+- [Flexion-Adduction-Internal Rotation (FADDIR)]({{< var ref-faddir-test.path >}}) [@wongPhysicalExaminationHip2022] 
+- Scour Test (Labral Stress Test) [@wongPhysicalExaminationHip2022] 
+- Internal Rotation Over Pressure (IROP) [@wongPhysicalExaminationHip2022] 
 - Posterior Impingement Test
 - [Flexion-Abduction-External Rotation (FABER/Patrick Sign)]({{< var ref-faber-test.path >}})
 
 ## Other/Extra-Articular Maneuvers
 
-- Resisted Straight Leg Raise (Stinchfield Test) @wongPhysicalExaminationHip2022 
-- [Thomas Test]({{< var ref-thomas-test.path >}}) @wongPhysicalExaminationHip2022 
-- Gear Stick Sign @wongPhysicalExaminationHip2022 
+- Resisted Straight Leg Raise (Stinchfield Test) [@wongPhysicalExaminationHip2022] 
+- [Thomas Test]({{< var ref-thomas-test.path >}}) [@wongPhysicalExaminationHip2022] 
+- Gear Stick Sign [@wongPhysicalExaminationHip2022] 
 
 ## Microinstability
+
+<!-- The abduction-hyperextension-external rotation (AB-HEER) test was found to be most accurate with a sensitivity of 81% and specificity of 89%. While demonstrating a low sensitivity (34%), the prone instability test showed high specificity (98%). The hyperextension-external rotation (HEER) test demonstrated a sensitivity of 71% and a specificity of 85%. The authors reported a cluster of 3 positive tests was associated with a 95% chance of microinstability.5 @aptaCurrentConceptsOrthopaedic2024 -->
 
 ## Provocative maneuvers
 In addition to astandardexamofthehip,thereareanumberofprovocative maneuvers that assess apprehension, range of motion, and joint stability
 
-- Anterior Apprehension Test (Hyperextension, External Rotation Test) @wongPhysicalExaminationHip2022 
-- Abduction-Extension-External Rotation Test @wongPhysicalExaminationHip2022 
-- Prone External Rotation Test @wongPhysicalExaminationHip2022 
-- Log Roll Test (Dial Test) @wongPhysicalExaminationHip2022 
-- Posterior Apprehension Test @wongPhysicalExaminationHip2022 
+- Anterior Apprehension Test (Hyperextension, External Rotation Test) [@wongPhysicalExaminationHip2022] 
+- Abduction-Extension-External Rotation Test [@wongPhysicalExaminationHip2022] 
+- Prone External Rotation Test [@wongPhysicalExaminationHip2022] 
+- Log Roll Test (Dial Test) [@wongPhysicalExaminationHip2022] 
+- Posterior Apprehension Test [@wongPhysicalExaminationHip2022] 
 - Axial Distraction Test @wongPhysicalExaminationHip2022 
 
+# DDX
+
+- Femoral neck
+- Pubic ramus stress fractures
+- Microinstability
+- Dysplasia
+- 
 
 
 # Strain-Counterstrain
@@ -557,3 +597,8 @@ In addition to astandardexamofthehip,thereareanumberofprovocative maneuvers that
 
 
 
+# Exercises
+
+## Hip flexor
+
+- Thomas hip flexion exercise

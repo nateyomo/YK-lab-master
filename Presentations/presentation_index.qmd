@@ -1,0 +1,13 @@
+---
+title: Presentation Index
+listing:
+    contents:
+    - "Anatomy/*.qmd"
+    - "Neuro/*.qmd"
+    - "Inservice/*.qmd"
+    - "FHCSD/*.qmd"
+    - "Dual-task presentation/*.qmd"
+    type: table
+    fields: [title, subtitle, author]
+    categories: true
+---

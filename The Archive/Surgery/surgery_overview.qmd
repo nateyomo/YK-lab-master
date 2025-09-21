@@ -1,6 +1,12 @@
 ---
 title: Surgery
 subtitle: Overview
+listing:
+    contents:
+    - "The Archive/Surgery/*.qmd"
+    type: table
+    fields: [title, subtitle, author]
+    categories: true
 ---
 
 ::: {.callout title="Reading list"}

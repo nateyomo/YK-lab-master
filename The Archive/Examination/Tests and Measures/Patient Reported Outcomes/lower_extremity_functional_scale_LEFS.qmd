@@ -1,0 +1,159 @@
+---
+title: Lower Extremity Functional Scale (LEFS)
+---
+
+
+
+
+# Scoring instructions
+The columns on the scale are summed to get a total score. The maximum score is 80.
+
+# Interpretation of scores
+
+<ul>
+    <li>The lower the score the greater the disability</li>
+    <li>The minimal detectable change is 9 scale points.</li>
+    <li>The minimal clinically important difference is 9 scale points.</li>
+    <li>% of maximal function = (LEFS score) / 80 * 100</li>
+    <li></li>
+</ul>
+
+
+
+# Psychometrics
+
+<ul>
+    <li>The potential error at a given point in time was +/- 5.3 scale points.</li>
+    <li>Test-retest reliability was 0.94.</li>
+    <li>Construct reliability was determined by comparison with the SF-36. The scale was found to be reliable with a sensitivity to change superior to the SF-36.</li>
+</ul>
+
+
+
+# Form
+
+<b>Instructions </b>
+
+We are interested in knowing whether you are having any difficulty at all with the activities listed below
+because of your lower limb problem for which you are currently seeking attention. Please provide an
+answer for each activity.
+Today, do you or would you have any difficulty at all with: 
+
+
+
+<table class="compact-table" border="1">
+  <thead>
+    <tr>
+      <th>Activities</th>
+      <th>Extreme difficulty or unable to perform activity</th>
+      <th>Quite a bit of difficulty</th>
+      <th>Moderate difficulty</th>
+      <th>A little bit of difficulty</th>
+      <th>No difficulty</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Any of your usual work, housework or school activities.</td></tr>
+    <tr><td>Your usual hobbies, recreational or sporting activities.</td></tr>
+    <tr><td>Getting into or out of the bath.</td></tr>
+    <tr><td>Walking between rooms.</td></tr>
+    <tr><td>Putting on your shoes or socks.</td></tr>
+    <tr><td>Squatting.</td></tr> 
+    <tr><td>Lifting an object, like a bag of groceries from the floor.</td></tr>
+    <tr><td>Performing light activities around your home.</td></tr> 
+    <tr><td>Performing heavy activities around your home.</td></tr>
+    <tr><td>Getting into or out of a car.</td></tr>
+    <tr><td>Walking 2 blocks.</td></tr>
+    <tr><td>Walking a mile.</td></tr>
+    <tr><td>Going up or down 10 stairs (about 1 flight of stairs).</td></tr>
+    <tr><td>Standing for 1 hour.</td></tr>
+    <tr><td>Sitting for 1 hour.</td></tr>
+    <tr><td>Running on even ground.</td></tr>
+    <tr><td>Running on uneven ground.</td></tr>
+    <tr><td>Making sharp turns while running fast.</td></tr>
+    <tr><td>Hopping.</td></tr>
+    <tr><td>Rolling over in bed.</td></tr>
+  </tbody>
+</table>
+
+
+<div>Item 1: Any of your usual work, housework or school activities. <span class="scoreItem1">Not tested</span></div>
+<div>Item 2: Your usual hobbies, recreational or sporting activities. <span class="scoreItem2">Not tested</span></div>
+<div>Item 3: Getting into or out of the bath. <span class="scoreItem3">Not tested</span></div>
+<div>Item 4: Walking between rooms. <span class="scoreItem4">Not tested</span></div>
+<div>Item 5: Putting on your shoes or socks. <span class="scoreItem5">Not tested</span></div>
+<div>Item 6: Squatting. <span class="scoreItem6">Not tested</span></div>
+<div>Item 7: Lifting an object, like a bag of groceries from the floor. <span class="scoreItem7">Not tested</span></div>
+<div>Item 8: Performing light activities around your home. <span class="scoreItem8">Not tested</span></div>
+<div>Item 9: Performing heavy activities around your home. <span class="scoreItem9">Not tested</span></div>
+<div>Item 10: Getting into or out of a car. <span class="scoreItem10">Not tested</span></div>
+<div>Item 11: Walking 2 blocks. <span class="scoreItem11">Not tested</span></div>
+<div>Item 12: Walking a mile. <span class="scoreItem12">Not tested</span></div>
+<div>Item 13: Going up or down 10 stairs (about 1 flight of stairs). <span class="scoreItem13">Not tested</span></div>
+<div>Item 14: Standing for 1 hour. <span class="scoreItem14">Not tested</span></div>
+<div>Item 15: Sitting for 1 hour. <span class="scoreItem15">Not tested</span></div>
+<div>Item 16: Running on even ground. <span class="scoreItem16">Not tested</span></div>
+<div>Item 17: Running on uneven ground. <span class="scoreItem17">Not tested</span></div>
+<div>Item 18: Making sharp turns while running fast. <span class="scoreItem18">Not tested</span></div>
+<div>Item 19: Hopping. <span class="scoreItem19">Not tested</span></div>
+<div>Item 20: Rolling over in bed. <span class="scoreItem20">Not tested</span></div>
+
+
+
+<div>Total: <span class="totalScore">0</span></div>
+
+<script>
+// Scores for buttons
+const scores = [0, 1, 2, 3, 4];
+
+// Select all table rows
+const rows = document.querySelectorAll('table.compact-table tbody tr');
+
+// Function to update total score
+function updateTotalScore() {
+  let total = 0;
+  for (let i = 1; i <= rows.length; i++) {
+    const span = document.querySelector(`.scoreItem${i}`);
+    if(span && !isNaN(parseInt(span.textContent))) {
+      total += parseInt(span.textContent);
+    }
+  }
+  const totalSpan = document.querySelector('.totalScore');
+  if(totalSpan) totalSpan.textContent = total;
+}
+
+// Loop through all rows
+rows.forEach((row, index) => {
+  // Get the corresponding span by index (scoreItem1, scoreItem2, ...)
+  const span = document.querySelector(`.scoreItem${index + 1}`);
+
+  // Add a button for each score
+  scores.forEach(score => {
+    const cell = document.createElement('td');
+    const btn = document.createElement('button');
+    btn.textContent = score;
+    btn.style.margin = '2px';
+    btn.style.width = '40px';
+    btn.style.backgroundColor = 'lightgray';
+
+    btn.addEventListener('click', () => {
+      // Reset all buttons in this row
+      row.querySelectorAll('td button').forEach(b => b.style.backgroundColor = 'lightgray');
+      // Highlight clicked button
+      btn.style.backgroundColor = 'green';
+      // Update the corresponding span text
+      if(span) {
+        span.textContent = score;
+      }
+      // Update total score
+      updateTotalScore();
+    });
+
+    cell.appendChild(btn);
+    row.appendChild(cell);
+  });
+});
+
+// Initialize total score in case some spans have default values
+updateTotalScore();
+</script>

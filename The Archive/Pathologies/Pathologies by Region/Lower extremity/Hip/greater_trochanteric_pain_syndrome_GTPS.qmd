@@ -1,23 +1,204 @@
 ---
-title: Greater Trochanteric Pain Syndrome
+title: Greater Trochanteric Pain Syndrome (GTPS)
 ---
 
+<!-- 
+reading list:
 
-# Neuman 
+@disantis2022InternationalSociety2023
+-->
 
-"G reater trochanteric pain syndrome (GTPS) involves degenerative changes of the distal tendinous attachments of the gluteus medius and minimus and, in some cases, associated bursitis.67 GTPS can be a primary cause of lateral hip pain, most commonly affecting women more than 40 years of age.6,81 Classic signs include aching or point tenderness near or on the greater trochanter (where the gluteal muscles attach), weakened hip abduction, and a gait deviation consistent with weak or painful hip abductor muscles (described later in this chapter). Symptoms are often exacerbated by activities that demand high, sustained, or repetitive forces from the hip abductors, such as standing on one limb, climbing stairs or hills, or prolonged walking. As with all pain in the hip region, associated co-morbidities must be ruled out as well as pain referred from the low back region.81" @neumannKinesiologyMusculoskeletalSystem2017
-
-"The primarily pathology underlying GTPS is believed to be tendinopathy of the gluteus medius and minimus. MRI often shows a thickening or a thinning of the affected tendons as well as partialor full-thickness tears.6,41,81,179 Tears occur more frequently in the tendon of the gluteus medius as it attaches to the lateral and superior-posterior facets of the greater trochanter.6 In up to 20% of cases, bursitis may be associated with GTPS, either in the bursa beneath the distal attachments of the gluteus medius and minimus or, more frequently, in the bursa over the posterior-inferior aspect of the greater trochanter and just under the gluteus maximus"
-
-"The pathology associated with tendinopathy of the gluteus medius or gluteus minimus has features similar to rotator cuff pathology.50 For this reason, GTPS has been loosely referred to as the “rotator cuff syndrome of the hip.” The supraspinatus and gluteal tendons both tend to show degenerative changes on the undersurface of the tendon as it abuts against bone.68 Pain is usually insidious and chronic in both GTPS and rotator cuff syndrome, typically involving attritional degeneration or tears rather than acute rupture from an isolated event. The degenerative changes that tend to occur in these muscles are, in some way, related to a failure of the tissues to absorb and tolerate mechanical stress. Forces from the gluteal muscles, required at every mid stance phase of gait, impose relatively large and repetitive stresses on their respective tendons.5 Such stress is ordinarily described as tension, because it pulls the tendon away from the bone, but insofar as the very distal aspect of that tendon is pulled directly into the bone, the stress is also a localized compression.81 The magnitude of the compressional stress may be influenced by simultaneous forces acting on the overlying fascia lata of the thigh exerted in part by the tensor fasciae latae muscle. Stiffening of this complex could create an inward push against the underlying gluteal tendons as they wrap superior-medially over the greater trochanter, amplifying the localized compression on the gluteal tendons.81 Over time, the repeated compressional stress might degrade and weaken the tissue matrix of the tendon insertion. Subsequent small tears or abrasions in the tendon theoretically place greater stress on the intact, healthy parts of the tendon, thereby predisposing these tissues to degeneration as well. The precise pathology of GTPS and the associated gluteal tendinopathy are not well understood." @neumannKinesiologyMusculoskeletalSystem2017
-
-"Although theoretical, one factor leading to GTPS may be related to a prior history of weakness or otherwise reduced abduction torque potential of the gluteus medius and minimus. A scenario of weakness of the gluteal muscles could increase the compensatory demands on the more superficial abductor hip mechanism (i.e., the tensor fasciae latae muscle and associated lateral fascia of the thigh). Such compensation, if occurring at every gait cycle, could plausibly abrade the gluteal tendons to the point that they undergo attritional degeneration or even failure. Much more biomechanical and histologic research is needed to better understand the pathogenesis of GTPS in order to better treat this condition." @neumannKinesiologyMusculoskeletalSystem2017 
-
-# Conservative Treatment
-
-"Conservative treatment has been described for GTPS, including use of anti-inflammatory medication, corticosteroid injection, a cane in the hand contralateral to the affected hip, and physical therapy.41,81 Grimaldi and Fearon have proposed a physical therapy approach that limits activities or exercises involving hip adduction (both pelvic-on-femoral and vice versa). This precaution is believed to minimize compressional stress on the insertions of the gluteal tendons as the tensor fasciae latae and associated lateral fascia are stretched across the lateral side of the hip. In addition, initial physical therapy sessions may incorporate non–pain-provoking isometric abduction exercises in positions that limit hip adduction. As thoroughly outlined by Grimaldi and Fearon,81 methods of applying greater resistance with non–isometric-type exercises may be judiciously incorporated when tolerated." @neumannKinesiologyMusculoskeletalSystem2017
+Greater trochanteric pain syndrome (GTPS) refers to an array of symptoms including lateral hip pain localized around the <i>femur's greater trochanter</i> generally involving degeneration of Gluteus medius tendon, gluteus minimus tendon, and/or associated bursitis [@neumannKinesiologyMusculoskeletalSystem2017].
 
 
-# Surgical Treatment
+**Syndrome not a pathology**: Greater trochanteric pain syndrome, meaning that there are different ways patients can all arrive at the same constellation of symptoms
 
-"When conservative treatment is unsuccessful, surgical repair of the tendons may be indicated. Both open and endoscopic surgical approaches have been shown to produce favorable results" @neumannKinesiologyMusculoskeletalSystem2017 
+# Demographics
+
+GTPS is more common in woman &gt;40 years old [@neumannKinesiologyMusculoskeletalSystem2017].
+
+
+# Presentation
+
+- Aching or point tenderness around the greater trochanter [@neumannKinesiologyMusculoskeletalSystem2017]
+- Weak hip abduction [@neumannKinesiologyMusculoskeletalSystem2017]
+- Gait deviation due to weak/painful hip abductors [@neumannKinesiologyMusculoskeletalSystem2017]
+
+Symptoms are generally aggravated by movements involving hip abductors undergoing high forces sustained or repeated [@neumannKinesiologyMusculoskeletalSystem2017].
+
+- Single-leg stance
+- Ascending stairs or hills
+
+## Co-existing conditions
+
+- Hip Osteoarthritis [@aptaCurrentConceptsOrthopaedic2024]
+- Acetabular labral pathology [@aptaCurrentConceptsOrthopaedic2024]
+
+# Pathophysiology
+
+The source of symptoms in GTPS is generally due to [gluteus medius or minimus tendinopathies](#gluteal-tendinopathies) or [bursitis](#bursitis)
+
+## Gluteal tendinopathies {#gluteal-tendinopathies}
+
+GTPS is believed to be primarily due to [gluteus medius]({{< var ref-gluteus-medius.tendinopathy >}}) or [gluteus minimus tendinopathies]({{< var ref-gluteus-minimus.tendinopathy >}}) [@neumannKinesiologyMusculoskeletalSystem2017]
+
+MRI evidence supports this theory since GTPS is often associated with thickening or thinning of the affected tendons as well as partial or full-thickness tears [@neumannKinesiologyMusculoskeletalSystem2017].
+
+In the case of tendon tears, the gluteus medius experiences tears more often due to its [proximal attachment on the lateral surface of the greater trochanter]({{< var ref-gluteus-medius.insertion >}}) [@neumannKinesiologyMusculoskeletalSystem2017].
+
+Due to parallels between gluteus medius and minimus tendinopathy with rotator cuff pathologies, GTPS has been nicknamed "rotator cuff pathology of the hip" [@neumannKinesiologyMusculoskeletalSystem2017].
+Both the [supraspinatus]({{< var ref-supraspinatus.path >}}) and [gluteus medius]({{< var ref-gluteus-medius.path >}}) and [minimus]({{< var ref-gluteus-minimus.path >}}) tendons experience degneeration on the inferior aspect of the tendons as the tendons rub against the underlying bone [@neumannKinesiologyMusculoskeletalSystem2017].
+Excessive force or tension through the gluteal medius or minimus can cause compression of the tendon against the underlying bone [@neumannKinesiologyMusculoskeletalSystem2017].
+
+In addition, excessive tension of the <i>fascia latae</i> can cause force the gluteus medius and minimus tendons into the underlying bone as well [@neumannKinesiologyMusculoskeletalSystem2017].
+Using this hypothesis, situations where the gluteus minimus and medius are abnormally weak, the TFL could compensate, resulting in increased tension on the <i>fascia latae</i> which would compress the gluteus minimus and medius tendons against the underyling bone resulting in respective tendinopathies [@neumannKinesiologyMusculoskeletalSystem2017].
+
+## Bursitis
+
+Bursitis is the other cause of GTPS, making up ~20% of cases [@neumannKinesiologyMusculoskeletalSystem2017].
+The bursa over the posterior-inferior aspect of the greater trochanter is most commonly affected, followed by the bursa underneath the gluteus medius and minimus insertions [@neumannKinesiologyMusculoskeletalSystem2017].
+
+
+# DDX
+
+- Intra-articular hip disorders [@disantis2022InternationalSociety2023]
+- Lumbosacral spine disorders [@disantis2022InternationalSociety2023]
+- Muscle-tendon disorders of the hip [@disantis2022InternationalSociety2023]
+
+## Lumbosacral spine disorders
+
+Patients with the following symptoms should undergo a comprehensive lower quarter screen:
+
+- Radiating pain below the knee [@disantis2022InternationalSociety2023]
+- Pain in the lowback [@disantis2022InternationalSociety2023]
+- Aggravations with lumbar movements
+
+
+Comprehensive lower quarter screen involves:
+
+- Myotome-related weakness [@disantis2022InternationalSociety2023]
+- Decreased sensation in a dermatomal pattern [@disantis2022InternationalSociety2023]
+- Abnormal reflexes [@disantis2022InternationalSociety2023]
+- Lumbar ROM [@disantis2022InternationalSociety2023]
+
+## Intra-articular Hip conditions
+
+Intra-articular hip conditions include:
+
+- Hip OA [@disantis2022InternationalSociety2023]
+
+Screen:
+
+- Groin pain [@disantis2022InternationalSociety2023]
+- AM stiffness [@disantis2022InternationalSociety2023]
+- FABER (+groin pain)[@disantis2022InternationalSociety2023]
+- IROP Test [@disantis2022InternationalSociety2023]
+- Scour Test [@disantis2022InternationalSociety2023]
+- Capsular pattern ROM limitations [@disantis2022InternationalSociety2023]
+- Palpation
+    - Ischial tuberosity
+
+
+
+### Hip OA
+
+patients with hip OA will commonly present with:
+
+- Groin pain[@disantis2022InternationalSociety2023]
+- AM Pain [@disantis2022InternationalSociety2023]
+
+
+
+
+
+
+# Management
+
+## Conservative
+Conservative management of GTPS has demonstrated good results.
+Some of the most successful treatments include:
+
+- Corticosteroid injection
+- Shockwave therapy
+- Exercise
+
+## Surgical management
+
+Patients who have poor response to conservative management can be candidates for surgical management.
+
+Here are the following procedures commonly given to treat GTPS:
+
+- Gluteal Tendon Repair
+- ITB release/lengthening surgery
+- Trochanteric Osteotomy
+
+
+# Treatments
+
+## Corticosteroid injection
+
+Corticosteroid injection has been shown to decrease inflammatory pain, allowing for improved activity tolerance [@aptaCurrentConceptsOrthopaedic2024].
+
+
+## Shockwave Therapy
+
+- Extracorporeal shockwave therapy + exercise demonstrated an 87% success rates within 2months [@aptaCurrentConceptsOrthopaedic2024]
+
+## Manual Therapy
+
+### Soft-Tissue Mobilization
+
+STM is indicated for patients with tissue-hypomobility or pain control [@aptaCurrentConceptsOrthopaedic2024].
+
+Due to the compressive etiology, caution is advised for symptomatic tissues since STM can add more irritating stimuli [@aptaCurrentConceptsOrthopaedic2024].
+
+### Joint Mobilizations
+
+Joint mobilizations are indicated if concurrent joint hypomobility is present [@aptaCurrentConceptsOrthopaedic2024].
+
+## Exercise
+
+### Exercises
+
+### Stretching
+
+Stretching has traditionally been prescribed in the management of GTPS, specifically of the ITB-complex [@aptaCurrentConceptsOrthopaedic2024].
+Stretching the ITB can be unproductive and even **aggravating** since [ITB tensile forces can indirectly result in compression of the gluteal tendons](#gluteal-tendinopathies)[@aptaCurrentConceptsOrthopaedic2024].
+
+As a result, clinicians should only perform stretching to restore tissue length *if* it is hindering optimum function [@aptaCurrentConceptsOrthopaedic2024].
+In these scenarios, stretching should be dosed per patient tolerance [@aptaCurrentConceptsOrthopaedic2024].
+
+
+# Patient Education
+
+- Self-modifying activities and positions to decrease load/compressive forces
+
+## Modification
+
+- Avoiding high compression activities:
+    - Sitting with legs crossed [@aptaCurrentConceptsOrthopaedic2024]
+    - Standing with legs crossed [@aptaCurrentConceptsOrthopaedic2024]
+    - Standing with a lateral lean [@aptaCurrentConceptsOrthopaedic2024]
+
+## Sleeping
+
+Sleeping positions are important to consider since these are static positions maintained for extended periods of time.
+
+**Recommended position**: Supine with legs in slight abduction is best for patients with severe symptoms since it minimizes compression of gluteal tendons [@aptaCurrentConceptsOrthopaedic2024].
+
+Sidelying with affected leg on top and adducted creates **excessive** compression on the trochanteric region and should be modified to include a pillow between the knees to decrease adduction [@aptaCurrentConceptsOrthopaedic2024].
+
+
+# Sports
+
+## Running
+
+- Avoid banked tracks [@aptaCurrentConceptsOrthopaedic2024]
+- Avoid running altogether if possible if aggravating
+
+## Cycling
+
+- Minimizing cycling on roads/tracks with excessive camber [@aptaCurrentConceptsOrthopaedic2024]
+
+
+

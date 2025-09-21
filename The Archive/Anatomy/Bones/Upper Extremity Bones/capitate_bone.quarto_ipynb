@@ -20,7 +20,7 @@
         "\n",
         "# Muscular attachments\n"
       ],
-      "id": "3f257221"
+      "id": "f667d57e"
     },
     {
       "cell_type": "code",
@@ -73,7 +73,7 @@
         "As demonstrated above, there are no muscles, *in this database*, whose distal insertion inclues the capitate bone.\n",
         ":::\n"
       ],
-      "id": "d70f49e8"
+      "id": "a42fd9cd"
     },
     {
       "cell_type": "code",

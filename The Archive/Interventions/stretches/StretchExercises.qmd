@@ -1,0 +1,184 @@
+---
+title: Stretch Exercises
+---
+
+@pageCurrentConceptsMuscle2012
+
+**Stretching** can be defined as movements performed with the primary goal of improving muscle extensibility and joint ROM
+
+
+**To live is to move**.
+We must have mobility to jump, play, fight, dance, run, speak, write, and even breathe.
+
+Human mobility is limited by the available range of motion (ROM) at the [synovial joints]() [@pageCurrentConceptsMuscle2012].
+ROM is limited by 2 main ways: [Joint stiffness](#joint-stiffness) and [Muscle tension](#muscle-tension) [@pageCurrentConceptsMuscle2012].
+
+# Muscle Tightness {#muscle-tension}
+
+Muscle tension can be divided into 2 forms of tension: [active](#active-tension) and [passive](#passive-tension) [@pageCurrentConceptsMuscle2012].
+
+## Passive Tension
+
+Passive tension is generated through the structural components of the muscle tissue and surrounding fascia [@pageCurrentConceptsMuscle2012].
+This is akin to a rubberband being pulled apart and it resists the stretch due to its elasticity.
+
+Passive tension is undetectable by EMG.
+
+This type of muscular tightness would be due to long term postural adaptations or scarring after an injury [@pageCurrentConceptsMuscle2012].
+
+Clinically, this would be described as:
+
+- Adhesions
+
+## Active Tension
+
+Active tension refers to muscle tension due to its neuroreflexive properties causing active contraction of the muscle [@pageCurrentConceptsMuscle2012].
+
+Neuroreflexive muscle activation refers to excitation of motor &gamma;-efferents and &alpha;-efferent activation [@pageCurrentConceptsMuscle2012].
+
+This type of tension would be described clinically as:
+
+- Spasms
+- Guarding
+- Contraction
+
+
+
+# Joint stiffness
+
+Intra vs extra-articular
+
+
+
+# Stretching
+
+Stretching is based on the theory that if we bring a muscle to a lengthened position it will have short term increases in tension, but long term decrease in tension.
+
+# Types of Stretches
+
+1. [**Static**](#static-stretches): Specific position is held to the point of muscle tension and stretching sensation
+1. Dynamic:
+1. Pre-Contraction:
+
+
+
+# Static stretches
+
+Static stretches can be subdivided into passive (partner assisted) or active (self-stretch).
+
+
+# Dynamic Stretching
+
+- Active stretch 
+- Ballistic stretch
+
+## Active Stretching
+
+[**Active Stretching**](): A form of dynamic stretching characterized by moving a limb through its available ROM to end range repeatedly [@pageCurrentConceptsMuscle2012]
+
+## Ballistic Stretching
+
+[**Ballistic Stretching**](): A form of dynamic stretching characterized by <i>rapid</i>, alternating movements at end-range of motion [@pageCurrentConceptsMuscle2012].
+
+::: {.callout-warning}
+Due to injury risk, Ballistic Stretching is no longer recommended [@pageCurrentConceptsMuscle2012].
+:::
+
+# Pre-Contraction Stretching {#pre-contraction-stretching}
+
+[**Pre-Contraction Stretching**](): Refers to a form of stretching where a muscular contraction precedes the stretch [@pageCurrentConceptsMuscle2012].
+This muscular contraction can be in the agonist or antagonist muscle [@pageCurrentConceptsMuscle2012].
+
+
+- PNF techniques
+    - Contract-relax (CR)
+    - Hold-relax (HR)
+    - Contract-relax Agonist-contract (CRAC)
+- Post-isometric relaxation (PIR)
+- Post-facilitation stretching
+- Medical Exercise Therapy (MET)
+
+## Contract-relax Stretch (CR) {#contract-relax-stretch}
+
+[**Contract-relax**](): Refers to a form pre-contraction stretching where a muscle is contracted following its spiral-diagonal PNF pattern, followed by stretch [@pageCurrentConceptsMuscle2012].
+
+- 75-100% of maximal contraction [@pageCurrentConceptsMuscle2012]
+- 10 second hold [@pageCurrentConceptsMuscle2012]
+
+## Hold-relax (HR) {#hold-relax-stretch}
+
+[**Hold-relax**](): Refers to a form pre-contraction stretching where a muscle is contracted through its <i>rotational component</i> of the PNF pattern, followed by stretch [@pageCurrentConceptsMuscle2012].
+
+- 75-100% of maximal contraction [@pageCurrentConceptsMuscle2012]
+- 10 second hold [@pageCurrentConceptsMuscle2012]
+
+## Contract-relax Agonist-contract (CRAC) {#contract-relax-agonist-contract-stretch}
+[**Contract-relax Agonist-contract**](): Refers to a form pre-contraction stretching where a muscle contracts following its <i>spiral-diagonal PNF pattern</i>, followed by contraction of the antagonist muscles to stretch the target muscle [@pageCurrentConceptsMuscle2012].
+
+- 75-100% of maximal contraction [@pageCurrentConceptsMuscle2012]
+- 10 second hold [@pageCurrentConceptsMuscle2012]
+
+
+## Post-isometric relaxation (PIR) {#post-isometric-relaxation-stretching}
+
+[**Post-isometric relaxation**](): Refers to a form pre-contraction stretching where a muscle performs a mild isometric contraction followed by a stretch [@pageCurrentConceptsMuscle2012].
+
+- 25% muscle contraction [@pageCurrentConceptsMuscle2012]
+
+## Post-facilitation stretching {#post-facilitation-stretching}
+
+[**Post-facilitation stretching**](): Refers to a form pre-contraction stretching involving <i>maximal</i> muscle contraction at <i>mid-range</i> followed by a <i>rapid</i> movement to end-range followed by a static stretch [@pageCurrentConceptsMuscle2012].
+
+- Contraction
+    - Mid-range [@pageCurrentConceptsMuscle2012]
+    - 100% Contraction [@pageCurrentConceptsMuscle2012]
+    - Isometric [@pageCurrentConceptsMuscle2012]
+    - Duration?
+- Dynamic stretch
+    - Rapid [@pageCurrentConceptsMuscle2012]
+- Static stretch
+    - 15 Seconds [@pageCurrentConceptsMuscle2012]
+
+
+## Medical Exercise Therapy (MET) {#medical-exercise-therapy-stretching}
+
+
+# Acute Physiological effects
+
+There are many theories as to why there is an improvement of ROM after stretching:
+
+- Increased muscle extensibility [@pageCurrentConceptsMuscle2012]
+- Increased tolerance to stretch sensation [@pageCurrentConceptsMuscle2012]
+
+# Static Stretching Dosage
+
+- Duration
+    - Greatest change in ROM occurs from 15-30s [@pageCurrentConceptsMuscle2012]
+    - 10-30 is sufficient for increasing flexibility [@pageCurrentConceptsMuscle2012]
+- Repetitions
+    - No increase in muscle length &gt;2-4 repetitions [@pageCurrentConceptsMuscle2012]
+- Timing
+    - Do <strong>NOT</strong> perform static stretches before athletic activity, it can lead to decreases in muscle strength, running performance, and jumping performance known as "stretch-induced strength loss" [@pageCurrentConceptsMuscle2012].
+
+# Pre-Contraction Stretching Dosage
+
+Contraction of a muscle prior to stretching the muscle can effectively increase ROM [@pageCurrentConceptsMuscle2012].
+
+**Maximal &asmp; submaximal contractions**: Maximal and submaximal contractions are equally effective [@pageCurrentConceptsMuscle2012].
+
+There is evidence that this type of stretching may have purely neurologic effects since patients have displayed <i>bilateral</i> ROM improvements following a <i>unilateral</i> stretch [@pageCurrentConceptsMuscle2012].
+
+There are many theories as to why this neurological phenomenon exists.
+
+Many speculate that the muscle relaxes due to [autogenic-inhibition]({{< var ref-autogenic-inhibition.path >}}) where a muscle experiences an inhibitory refractory period post-contraction [@pageCurrentConceptsMuscle2012].
+
+EMG studies have demonstrated that muscle activation remains largely the same or increases post-contraction, which contradicts the theories that ROM improvements following pre-contraction stretches are due to decreased muscle excitation [@pageCurrentConceptsMuscle2012].
+
+
+
+# Stretch-induced Strength Loss
+
+
+Do <strong>NOT</strong> perform static stretches before athletic activity, it can lead to decreases in muscle strength, running performance, and jumping performance known as "stretch-induced strength loss" [@pageCurrentConceptsMuscle2012].
+
+Maximal contraction of the target muscle before a static stretch may <i>decrease</i> stretch-induced strength loss [@pageCurrentConceptsMuscle2012].

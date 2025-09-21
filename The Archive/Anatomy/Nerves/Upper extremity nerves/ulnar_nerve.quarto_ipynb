@@ -18,7 +18,7 @@
         "\n",
         "# Motor Innervation\n"
       ],
-      "id": "6bf58952"
+      "id": "276b925d"
     },
     {
       "cell_type": "code",
@@ -106,7 +106,7 @@
         "- [Brachial plexus axillary release]({{< var ref-brachial-plexus.release >}})\n",
         "- [ULTT3]({{< var ref-ultt3.path >}})"
       ],
-      "id": "113671e1"
+      "id": "9f2f8334"
     }
   ],
   "metadata": {

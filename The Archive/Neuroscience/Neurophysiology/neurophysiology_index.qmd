@@ -1,0 +1,6 @@
+---
+title: Neurophysiology index
+listing:
+    contents: "**/*.qmd"
+    type: table
+---

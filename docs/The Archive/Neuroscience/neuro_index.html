@@ -33,6 +33,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
 <link href="../..//images/brain-favicon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,7 +71,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 <meta name="twitter:title" content="Index of Neuro archives">
@@ -87,7 +147,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../branding/Yomokerst/yomokerst heavy condensed.svg" alt="" class="navbar-logo">
+    <img src="../../branding/Yomokerst/yomokerst heavy condensed black.png" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -235,10 +295,128 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="cns-pathologies">CNS Pathologies</h3>
 
 
+
 </section>
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title-sort" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-file-modified-sort="1707067734429" data-listing-reading-time-sort="4" data-listing-word-count-sort="745" data-listing-title-sort="Approaches to Neurorehabilitation" data-listing-filename-sort="approaches_to_neurorehabilitation.qmd">
+<td>
+<a href="../../The Archive/Neuroscience/Neurorehabilitation/approaches_to_neurorehabilitation.html" class="title listing-title">Approaches to Neurorehabilitation</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="1" data-listing-file-modified-sort="1706636443927" data-listing-reading-time-sort="1" data-listing-word-count-sort="7" data-listing-title-sort="Bowel and Bladder Function" data-listing-filename-sort="bowel_and_bladder_function.qmd">
+<td>
+<a href="../../The Archive/Neuroscience/Neurophysiology/bowel_and_bladder_function.html" class="title listing-title">Bowel and Bladder Function</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="2" data-listing-file-modified-sort="1744221554145" data-listing-reading-time-sort="1" data-listing-word-count-sort="118" data-listing-title-sort="Chronic Idiopathic Demyelinating Polyneuropathy (CIDP)" data-listing-filename-sort="chronic_idiopathic_demyelinating_polyneuropathy_cidp.qmd">
+<td>
+<a href="../../The Archive/Neuroscience/Neuropathology/chronic_idiopathic_demyelinating_polyneuropathy_cidp.html" class="title listing-title">Chronic Idiopathic Demyelinating Polyneuropathy (CIDP)</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="3" data-listing-file-modified-sort="1741123046488" data-listing-reading-time-sort="16" data-listing-word-count-sort="3066" data-listing-title-sort="Dual Tasking" data-listing-filename-sort="dual_task.qmd">
+<td>
+<a href="../../The Archive/Neuroscience/Neurorehabilitation/dual_task.html" class="title listing-title">Dual Tasking</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="4" data-listing-file-modified-sort="1707434202161" data-listing-reading-time-sort="1" data-listing-word-count-sort="69" data-listing-title-sort="Index of Neuropathologies" data-listing-filename-sort="index_neuropathology.qmd">
+<td>
+<a href="../../The Archive/Neuroscience/Neuropathology/index_neuropathology.html" class="title listing-title">Index of Neuropathologies</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="5" data-listing-file-modified-sort="1707847340065" data-listing-reading-time-sort="1" data-listing-word-count-sort="37" data-listing-title-sort="Lewy Bodies" data-listing-filename-sort="lewy_bodies.qmd">
+<td>
+<a href="../../The Archive/Neuroscience/Neuropathophysiology/lewy_bodies.html" class="title listing-title">Lewy Bodies</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="6" data-listing-file-modified-sort="1740788882480" data-listing-reading-time-sort="3" data-listing-word-count-sort="429" data-listing-title-sort="Neuroanatomy" data-listing-filename-sort="neuroanatomy_overview.qmd">
+<td>
+<a href="../../The Archive/Neuroscience/Neuroanatomy/neuroanatomy_overview.html" class="title listing-title">Neuroanatomy</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="7" data-listing-file-modified-sort="1718745009318" data-listing-reading-time-sort="3" data-listing-word-count-sort="587" data-listing-title-sort="Neuroanatomy index" data-listing-filename-sort="index_neuroanatomy.qmd">
+<td>
+<a href="../../The Archive/Neuroscience/Neuroanatomy/index_neuroanatomy.html" class="title listing-title">Neuroanatomy index</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="8" data-listing-file-modified-sort="1753906767540" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Neurophysiology index" data-listing-filename-sort="neurophysiology_index.qmd">
+<td>
+<a href="../../The Archive/Neuroscience/Neurophysiology/neurophysiology_index.html" class="title listing-title">Neurophysiology index</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="9" data-listing-file-modified-sort="1753906726374" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Neurorehabilitation Index" data-listing-filename-sort="neurorehabilitation_index.qmd">
+<td>
+<a href="../../The Archive/Neuroscience/Neurorehabilitation/neurorehabilitation_index.html" class="title listing-title">Neurorehabilitation Index</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Index of Neuro
 archives. <a href="https://yomokerst.com/The Archive/Neuroscience/neuro_index.html">https://yomokerst.com/The
 Archive/Neuroscience/neuro_index.html</a></div>

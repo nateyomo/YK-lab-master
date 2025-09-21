@@ -1,0 +1,154 @@
+---
+title: "Should you stretch patients with GTPS?"
+subtitle: A simple equation
+author: 
+- id: NGY
+  number: 1
+  name: 
+    given: Nate
+    family: Yomogida
+#   email: "nate.yomogida.pt@gmail.com"
+  url: "https://yomokerst.com/about.html#ngy"
+  affiliation:
+    - Doctor of Physical Therapy
+  
+format:
+    revealjs:
+        slide-number: false
+        preview-links: auto
+        width: 1080       # TikTok/Instagram portrait width
+        height: 1920      # TikTok portrait height
+        margin: 0.05      # adjust spacing
+        center: true
+        css: "../socialmedia.css"
+        footer: '<a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/" target="_blank" style="position: fixed; bottom: 200px; left: 50%; transform: translateX(-50%);"><img src="/branding/Yomokerst/yomokerst heavy condensed black.png" alt="Logo" style="height: 40px;"></a>'
+---
+
+<!-- 9/20/25 GTPS -->
+<!-- # Should you stretch patients with GTPS? -->
+<!-- is GTPS too specific for patients -->
+
+[@pageCurrentConceptsMuscle2012]
+
+# Should patients with lateral hip pain stretch?
+
+An equation to help your clinical decision making
+
+---
+
+## What is GTPS?
+
+[**Greater Trochanteric Pain Syndrome**]({{< var ref-greater-trochanteric-pain-syndrome.path >}}): A presentation of symptoms characterized by lateral hip pain around the *greater trochanter of the femur*.
+
+</br>
+
+**In short**: Pain on the side of the hip
+
+<!-- To understand whether or not we should stretch, we must understand the pathophysiology of *GTPS* -->
+
+
+## What causes the pain?
+
+This hip pain is caused by *irritation* and *degeneration* of the tissues near the greater trochanter.
+These tissues include gluteal tendons and/or trochanteric bursa.
+
+
+## What causes the degeneration?
+
+These tissues are irritated when the Tensor fascia latae (TFL) muscle and Iliotibial band (ITB) complex undergo tension resulting in compression of the underlying tissues against the greater trochanter.
+
+## Simplified Rehab Process
+
+1. Decrease TFL-ITB tension
+1. Less compression of gluteal tendons & bursa
+1. Less degeneration
+1. Less pain
+1. Happy patients
+
+## Why Stretching is common
+
+Many clinicians *assume* that prescribing stretches will result in decreased TFL-ITB tension and overall less degeneration and pain.
+
+This is only *half*-true, this perspective overlooks the potential harms of stretching.
+
+## Stretching does have benefits
+
+After a stretch, the improved muscle extensibility and joint ROM can result in:
+
+<!-- - less ITB tension, less tissue compression, less degeneration, and less pain. -->
+
+- Less ITB tension
+- Less tissue compression
+- Less degeneration
+- Less pain
+
+## The Drawbacks of Stretching
+
+<!-- During the stretch: tension on the TFL-ITB <i>increases</i> and can cause more compression &rarr; degeneration &rarr;and pain! -->
+During the stretch, tension on the TFL-ITB <i>increases</i> and can cause: 
+
+- More compression &rarr;
+- More degeneration &rarr;
+- More pain
+
+
+## So... Should You stretch the ITB?
+
+Deciding whether to stretch TFL-ITB will come down to a simple calculation:
+
+Choose the option that results in the **least net compression**
+
+---
+
+## Calculating net compression
+
+The long term *decreases* in compression from stretching **must** outweigh the short term *increases* in compression during the stretch exercise.
+
+
+
+<!-- **Costs**: Increased compressive load on the symptomatic tissues, increasing degeneration and irritation
+**Benefits**: Long term decreases in compressive load on the tissues and improved biomechanics of functional activities -->
+
+
+## Know what to look for
+
+In the clinic, look for a *direct* relationship where a limited TFL-ITB complex results in dysfunctional movement patterns.
+
+## Gather data
+
+Perform a *movement analysis* and look for limitations in hip extension and adduction during:
+
+::: {.columns}
+::: {.column}
+- Sitting
+- Standing
+- Walking
+:::
+
+::: {.column}
+- Lifting
+- Running
+- Jumping
+:::
+:::
+
+## Treat Accordingly
+
+Patients who can perform these activities correctly without experiencing TFL-ITB tightness are **less** likely to benefit from stretching.
+<!-- Patients who do not display TFL-ITB limitations during movement are *less* likely to benefit from stretching. -->
+<!-- Continue to explore other avenues to deficits, such as lumbopelvic stabilization. -->
+
+Patients who experience TFL-ITB tightness and exhibit movement compensations would benefit most from stretching the TFL-ITB complex.
+
+
+
+
+
+<!-- ## Dosage
+
+Even when stretching is indicated, it should still be prescribed only to patients who are asymptomatic during and after stretching [@pageCurrentConceptsMuscle2012]. -->
+
+## References
+
+::: {#refs}
+:::

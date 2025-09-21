@@ -1,0 +1,13 @@
+---
+title: Costochondritis
+subtitle: Pathological Inflammation of the cartilage between the ribs and sternum
+---
+
+{{< video https://youtu.be/SwIbkBefy54?feature=shared >}}
+
+
+[@schumannCostochondritis2023]
+
+# DDX
+
+- [Tietze Syndrome]({{< var ref-tietze-syndrome.path >}})

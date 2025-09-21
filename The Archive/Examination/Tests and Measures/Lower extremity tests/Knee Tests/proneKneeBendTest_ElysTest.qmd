@@ -1,0 +1,9 @@
+---
+title: Prone Knee Bend Test (Ely's Test)
+---
+
+
+
+A test used to measure quadricep muscle length
+
+This test is more specific to the quadricep muscles that perform pure knee extension, and is less specific to the 2-joint [rectus femoris muscle]({{< var ref-rectus-femoris.path >}})

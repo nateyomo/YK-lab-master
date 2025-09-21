@@ -1,0 +1,12 @@
+---
+title: Bone Fractures
+subtitle: Overview
+---
+
+<!-- . Stress fractures occur due to repetitive loading without adequate rest, where bone resorption occurs faster than bone formation. Fatigue fractures occur in the presence of overuse with normal bone density. In comparison, insufficiency fractures occur with normal load with weakened bone integrity. Endurance athletes and older individuals with osteoporosis are at risk for developing these types of stress fractures. @aptaCurrentConceptsOrthopaedic2024 -->
+
+<ul>
+    <li>Stress fracture</li>
+    <li>Fatigue fracture</li>
+    <li>Insufficiency fractures</li>
+</ul>

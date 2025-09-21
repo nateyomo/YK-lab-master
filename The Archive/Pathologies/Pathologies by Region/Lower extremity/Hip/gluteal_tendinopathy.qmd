@@ -17,6 +17,24 @@ Lateral hip pain has historically been attributed to <i>trochanteric bursitis</i
 gluteal tendinopathy refers to a tendinopathy of the gluteus medius or gluteus minimus tendons [@grimaldiGlutealTendinopathyIntegrating2015].
 
 
+Glute med tendinopathy has been paralleled to <i>supraspinatus</i> tendon pathology since both structures commonly develop deep tears and both experience relatively low tensile loads, but high compressive loads against their respective bony insertions [@grimaldiGlutealTendinopathyIntegrating2015].
+
+## What causes this compression?
+
+
+Iliotibial band tensioning in a position of hip ADDuction was found to create more compressive forces at the greater trochanter than passive hip adduction alone [@grimaldiGlutealTendinopathyIntegrating2015].
+<!-- Was this OKC or CKC -->
+
+
+Functionally, this occurs if the iliotibial band tensioners are over-active and the hip abductors are underactive [@grimaldiGlutealTendinopathyIntegrating2015]. 
+This culminates in the gluteus medius fighting a losing battle against hip adduction [@grimaldiGlutealTendinopathyIntegrating2015].
+
+
+<ul>
+    <li>Increased fatty atrophy of gluteus muscle(s) [@grimaldiGlutealTendinopathyIntegrating2015]</li>
+    <li></li>
+    <li></li>
+</ul>
 
 # Presentation
 
@@ -27,6 +45,24 @@ gluteal tendinopathy refers to a tendinopathy of the gluteus medius or gluteus m
     <li>Ascending or descending stairs [@grimaldiGlutealTendinopathyIntegrating2015]</li>
     <li>Sitting [@grimaldiGlutealTendinopathyIntegrating2015]</li>
 </ul>
+
+## Movement Patterns
+
+Patients who have gluteal tendinopathy due to compression often default to positions of hip ADDuction with excessive IT Band tension [@grimaldiGlutealTendinopathyIntegrating2015].
+This presents as excessive hip ADDuction during:
+
+<ul>
+    <li>Bilateral Squatting</li>
+    <li>Bilateral lunging</li>
+    <li>Climbing and descending stairs</li>
+    <li>Single leg stance</li>
+    <li>Single leg squatting</li>
+    <li>single leg hopping</li>
+</ul>
+
+::: {.callout-note}
+Patients who have less severe pathologies may need to be loaded greater than just bodyweight to make these dysfunctional patterns apparent [@grimaldiGlutealTendinopathyIntegrating2015].
+:::
 
 # Diagnosis
 
@@ -47,4 +83,6 @@ gluteal tendinopathy refers to a tendinopathy of the gluteus medius or gluteus m
 
 X-Ray, MRI, ultrasound (US), and scintigraphic imaging can all useful in ruling-in or out <i>gluteal tendinopathy</i>, but it should be noted that signs of soft tissue pathology often occur in <i>non</i>-symptomatic hips [@grimaldiGlutealTendinopathyIntegrating2015].
 
-note
+
+
+

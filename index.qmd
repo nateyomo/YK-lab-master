@@ -3,82 +3,53 @@ citation: false
 author: []
 ---
 
-<!-- ![](/branding/square logo/square 3 lines full.svg){.nolightbox} -->
 ![](/branding/Yomokerst/yomokerst heavy condensed black.png){.nolightbox width="80%" fig-align="center"}
 
-<!-- <a style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
+<!-- Better Research. Better Systems. Better Treatment. -->
+Research. Systems. Results.
+
+<a href="/Care Division/care_division.html"
+   style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
   
-  {{< iconify clarity car-line size=5x >}}
-  <span style="display: block; max-width: 10%;">
-    <strong>Concierge Physical Therapy</strong>
-  </span>
-</a>
-
-
-
-<a style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
+  <img src="icons/Healthicons/svg/filled/specialties/social_work.svg" style="width:5em;" alt="social work icon">
   
-  {{< iconify medical-icon i-physical-therapy size=5x >}}
-  <span style="display: block; max-width: 10%;">
-    <strong>Manual Therapy</strong>
+  <span style="display: block; max-width: 80%;">
+    <strong>Care Division</strong> <br>
+    <p>Mobile Physical Therapy</p>
   </span>
+
 </a>
 
-<a style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
+</a>
+
+<a href="/The Archive/research_and_development_index.qmd" 
+   style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
   
-  {{< iconify solar bone-bold size=5x >}}
-  <span style="display: block; max-width: 10%;">
-    <strong>Orthopedic Rehab</strong>
-  </span>
-</a>
-
-
-
-<a style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
-
-  {{< iconify healthicons neurology-24px size=5x >}}
-  <span style="display: block; max-width: 10%;">
-    <strong>Neuro Rehab</strong>
-  </span>
-</a>
-
-<a style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
-
-  {{< iconify healthicons back-pain-24px size=5x >}}
-  <span style="display: block; max-width: 10%;">
-    <strong>Chronic Pain</strong>
-  </span>
-</a>
-
-
-<a style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
+  <img src="icons/Healthicons/svg/filled/people/crisis_response_center_person.svg" style="width:5em;" alt="crisis response center person">
   
-  {{< iconify mdi weight-lifter size=5x >}}
-  <span style="display: block; max-width: 10%;">
-    <strong>Performance Training</strong>
+  <span style="display: block; max-width: 80%;">
+    <strong>Diagnostics Division</strong> <br>
+    
   </span>
+
 </a>
- -->
-
-  
-
-
-
 
 
 <a href="/The Archive/research_and_development_index.qmd" 
    style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
   
-  {{< iconify raphael books size=5x >}}
+  <img src="icons/Healthicons/svg/filled/objects/book.svg" style="width:5em;" alt="social work icon">
+
   
   <span style="display: block; max-width: 80%;">
-    <strong>R&D</strong> <br>
-    A database for information, ranging from anatomy, microbiology, neurology, Patient examination, and rehabilitation.
+    <strong>Research Division</strong> <br>
+    <p>
+      A database for information, ranging from anatomy, microbiology, neurology, Patient examination, and rehabilitation.
+    </p>
   </span>
 
-</a>
 
-<a href="about.qmd"
+<!-- <a href="about.qmd"
    style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; flex-wrap: nowrap;">
   
   {{< iconify f7 person-2-fill size=5x >}}
@@ -99,4 +70,4 @@ author: []
     <strong>**Journal club**</strong> </br>A blog where we will post summaries of interesting articles.
   </span>
 
-</a>
+</a> -->

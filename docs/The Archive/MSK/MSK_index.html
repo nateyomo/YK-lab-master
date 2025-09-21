@@ -33,6 +33,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
 <link href="../..//images/brain-favicon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,7 +71,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 <meta name="twitter:title" content="Index of MSK">
@@ -86,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../branding/Yomokerst/yomokerst heavy condensed.svg" alt="" class="navbar-logo">
+    <img src="../../branding/Yomokerst/yomokerst heavy condensed black.png" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -186,31 +246,183 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<ul>
-<li>Head</li>
-<li>Neck</li>
-<li>Thoracic Spine</li>
-<li>Lumbar spine</li>
-<li>SIJ</li>
-<li>Upper Extremity
-<ul>
-<li>&lt;a href=“{{&lt; ref-shoulder-msk.path &gt;}}”&gt;Shoulder</li>
-<li>&lt;a href=“{{&lt; ref-elbow-msk.path &gt;}}”&gt;Elbow</li>
-<li>&lt;a href=“{{&lt; ref-wrist-msk.path &gt;}}”&gt;Wrist</li>
-<li>&lt;a href=“{{&lt; ref-hand-msk.path &gt;}}”&gt;Hand</li>
-</ul></li>
-<li>Lower Extremity
-<ul>
-<li>&lt;a href=“{{&lt; ref-hip-msk.path &gt;}}”&gt;Hip</li>
-<li>&lt;a href=“{{&lt; ref-knee-msk.path &gt;}}”&gt;Knee</li>
-<li>&lt;a href=“{{&lt; ref-ankle-msk.path &gt;}}”&gt;Ankle</li>
-<li>&lt;a href=“{{&lt; ref-foot-msk.path &gt;}}”&gt;Foot</li>
-</ul></li>
-</ul>
+<!-- - Head 
+- Neck
+- Thoracic Spine
+- Lumbar spine
+- SIJ
+- Upper Extremity
+    - [Shoulder MSK](/The Archive/MSK/Regions/Upper Extremity/shoulder.html)
+    - [Elbow](/The Archive/MSK/Regions/Upper Extremity/elbow.html)
+    - [Wrist](/The Archive/MSK/Regions/Upper Extremity/wrist.html)
+    - [Hand](/The Archive/MSK/Regions/Upper Extremity/hand.html)
+- Lower Extremity
+    - [Hip](?var:ref-hip-msk.path)
+    - [Knee](?var:ref-knee-msk.path)
+    - [Ankle](/The Archive/MSK/Regions/Lower extremity/ankle_MSK.html)
+    - [Foot](/The Archive/MSK/Regions/Lower extremity/ankle_foot_ms.html) -->
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title-sort" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-file-modified-sort="1745450094316" data-listing-reading-time-sort="23" data-listing-word-count-sort="4518" data-listing-title-sort="Ankle and Foot Region" data-listing-filename-sort="ankle_foot_msk.qmd">
+<td>
+<a href="../../The Archive/MSK/Regions/Lower extremity/ankle_foot_msk.html" class="title listing-title">Ankle and Foot Region</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="1" data-listing-file-modified-sort="1753902318867" data-listing-reading-time-sort="16" data-listing-word-count-sort="3140" data-listing-title-sort="Elbow and forearm MSK" data-listing-filename-sort="elbow_forearm_msk.qmd">
+<td>
+<a href="../../The Archive/MSK/Regions/Upper Extremity/elbow_forearm_msk.html" class="title listing-title">Elbow and forearm MSK</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="2" data-listing-file-modified-sort="1753902255884" data-listing-reading-time-sort="15" data-listing-word-count-sort="2960" data-listing-title-sort="Hand MSK" data-listing-filename-sort="hand_msk.qmd">
+<td>
+<a href="../../The Archive/MSK/Regions/Upper Extremity/hand_msk.html" class="title listing-title">Hand MSK</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="3" data-listing-file-modified-sort="1755295306563" data-listing-reading-time-sort="15" data-listing-word-count-sort="2977" data-listing-title-sort="Hip MSK" data-listing-filename-sort="hip_MSK.qmd">
+<td>
+<a href="../../The Archive/MSK/Regions/Lower extremity/hip_MSK.html" class="title listing-title">Hip MSK</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="4" data-listing-file-modified-sort="1753904083195" data-listing-reading-time-sort="6" data-listing-word-count-sort="1035" data-listing-title-sort="Jaw MSK" data-listing-filename-sort="jaw_MSK.qmd">
+<td>
+<a href="../../The Archive/MSK/Regions/Spine/jaw_MSK.html" class="title listing-title">Jaw MSK</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="5" data-listing-file-modified-sort="1753904037285" data-listing-reading-time-sort="19" data-listing-word-count-sort="3708" data-listing-title-sort="Knee MSK" data-listing-filename-sort="knee_msk.qmd">
+<td>
+<a href="../../The Archive/MSK/Regions/Lower extremity/knee_msk.html" class="title listing-title">Knee MSK</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="6" data-listing-file-modified-sort="1753904050044" data-listing-reading-time-sort="4" data-listing-word-count-sort="743" data-listing-title-sort="Low back MSK" data-listing-filename-sort="low_back_MSK.qmd">
+<td>
+<a href="../../The Archive/MSK/Regions/Spine/low_back_MSK.html" class="title listing-title">Low back MSK</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="7" data-listing-file-modified-sort="1753904445854" data-listing-reading-time-sort="9" data-listing-word-count-sort="1763" data-listing-title-sort="Neck and Head MSK" data-listing-filename-sort="neck_MSK.qmd">
+<td>
+<a href="../../The Archive/MSK/Regions/Spine/neck_MSK.html" class="title listing-title">Neck and Head MSK</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="8" data-listing-file-modified-sort="1753904208628" data-listing-reading-time-sort="10" data-listing-word-count-sort="1907" data-listing-title-sort="Pelvic Floor MSK" data-listing-filename-sort="pelvic_floor_msk.qmd">
+<td>
+<a href="../../The Archive/MSK/Regions/Spine/pelvic_floor_msk.html" class="title listing-title">Pelvic Floor MSK</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="9" data-listing-file-modified-sort="1753904791952" data-listing-reading-time-sort="2" data-listing-word-count-sort="217" data-listing-title-sort="Pelvis MSK" data-listing-filename-sort="pelvis_msk.qmd">
+<td>
+<a href="../../The Archive/MSK/Regions/Spine/pelvis_msk.html" class="title listing-title">Pelvis MSK</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="10" data-listing-file-modified-sort="1753902328846" data-listing-reading-time-sort="12" data-listing-word-count-sort="2221" data-listing-title-sort="Shoulder MSK" data-listing-filename-sort="shoulder_msk.qmd">
+<td>
+<a href="../../The Archive/MSK/Regions/Upper Extremity/shoulder_msk.html" class="title listing-title">Shoulder MSK</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="11" data-listing-file-modified-sort="1753904603905" data-listing-reading-time-sort="1" data-listing-word-count-sort="92" data-listing-title-sort="Spine MSK" data-listing-filename-sort="spine_overview.qmd">
+<td>
+<a href="../../The Archive/MSK/Regions/Spine/spine_overview.html" class="title listing-title">Spine MSK</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="12" data-listing-file-modified-sort="1753904631473" data-listing-reading-time-sort="3" data-listing-word-count-sort="544" data-listing-title-sort="Thorac MSK" data-listing-filename-sort="spine_thoracic.qmd">
+<td>
+<a href="../../The Archive/MSK/Regions/Spine/spine_thoracic.html" class="title listing-title">Thorac MSK</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="13" data-listing-file-modified-sort="1753904653571" data-listing-reading-time-sort="6" data-listing-word-count-sort="1160" data-listing-title-sort="Trunk MSK" data-listing-filename-sort="torso_MSK.qmd">
+<td>
+<a href="../../The Archive/MSK/Regions/Spine/torso_MSK.html" class="title listing-title">Trunk MSK</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+<tr data-index="14" data-listing-file-modified-sort="1753902340710" data-listing-reading-time-sort="11" data-listing-word-count-sort="2086" data-listing-title-sort="Wrist MSK" data-listing-filename-sort="wrist_MSK.qmd">
+<td>
+<a href="../../The Archive/MSK/Regions/Upper Extremity/wrist_MSK.html" class="title listing-title">Wrist MSK</a>
+</td>
+<td>
+<span class="listing-author">Nate Yomogida, Chloë Kerstein</span>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Index of MSK. <a href="https://yomokerst.com/The Archive/MSK/MSK_index.html">https://yomokerst.com/The
 Archive/MSK/MSK_index.html</a></div>
 </div></div></section></div></main> <!-- /main -->

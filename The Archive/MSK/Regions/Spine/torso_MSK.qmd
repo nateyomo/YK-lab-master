@@ -1,5 +1,5 @@
 ---
-title: Torso Region
+title: Trunk MSK
 subtitle: Musculoskeletal Overview
 ---
 

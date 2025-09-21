@@ -1,0 +1,8 @@
+---
+title: "Hip and Groin Outcome Score (HAGOS)"
+keywords:
+    - "Copenhagen Hip and Groin Outcome Score (HAGOS)"
+---
+
+<!-- The authors found the assigned categories correlated with the sports sub-score of the Copenhagen Hip and Groin Outcome Score (HAGOS), a validated patient-reported outcome measurement tool for the athletic population. Numerical pain rating scale scores of 6 to 10 during the Copenhagen 5-second squeeze test were related to substantially impaired sports-related hip and groin function.55 @aptaCurrentConceptsOrthopaedic2024 -->
+

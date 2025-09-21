@@ -26,7 +26,7 @@
         "\n",
         "# Muscular attachments\n"
       ],
-      "id": "7ea9f727"
+      "id": "c479e9ea"
     },
     {
       "cell_type": "code",
@@ -123,7 +123,7 @@
         "- [Lunotriquetral Shear (Reagan) Test]({{< var ref-lunotriquetral-shear-test.path >}})\n",
         "- [Pisotriquetral Shear Test]({{< var ref-pisotriquetral-shear-test.path >}})"
       ],
-      "id": "5ebbb88a"
+      "id": "7f4badef"
     }
   ],
   "metadata": {

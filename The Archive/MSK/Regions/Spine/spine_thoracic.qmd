@@ -1,5 +1,6 @@
 ---
-title: Thoracic Spine
+title: Thorac MSK
+subtitle: A Musculoskeletal Overview
 ---
 
 # Osteology
@@ -151,3 +152,17 @@ Extension
 - Clinical Considerations of Upper Back Shoulder and Arm Pain @donnellyTravellSimonsSimons2019
 
 :::
+
+
+
+# HVLAT
+
+- Cervicothoracic Junction (C7-T3) Lateral Flexion HVLAT in Prone p95 [@dunningSMT1HighVelocityLowAmplitude2018]
+- Upper Thoracic (TI-3) AP Extension High Dog' HVLAT in Supine p93 [@dunningSMT1HighVelocityLowAmplitude2018]
+
+<!-- add the rest to the segment pages -->
+
+- Mid-Thoracic (T4-9) AP Extension "Dog' HVLAT in Supine p94 [@dunningSMT1HighVelocityLowAmplitude2018]
+
+- Mid-Thoracic (T4-9) AP Flexion HVLAT in Supine p96 [@dunningSMT1HighVelocityLowAmplitude2018]
+- Mid-Thoracic (T2-9) PA Extension HVLAT in Prone p99 [@dunningSMT1HighVelocityLowAmplitude2018]

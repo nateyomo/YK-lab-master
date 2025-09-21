@@ -5,7 +5,7 @@
       "metadata": {},
       "source": [
         "---\n",
-        "title: Shoulder Region\n",
+        "title: Shoulder MSK\n",
         "subtitle: Musculoskeletal overview\n",
         "---\n",
         "\n",
@@ -250,7 +250,7 @@
         "The **longitudinal muscles** (@tbl-shoulder-longitudinal-muscle-group-oian) support the upper limb and prevent inferior disarticulation when carrying heavy objects @jonesProjectFoundations2025.\n",
         "These muscles act to maintain or return the humeral head to the glenoid @jonesProjectFoundations2025.\n"
       ],
-      "id": "9edcb030"
+      "id": "cf1cc4b7"
     },
     {
       "cell_type": "code",
@@ -529,7 +529,7 @@
         "\n",
         "{{< video https://www.youtube.com/watch?v=-OwrGCw50fQ >}}"
       ],
-      "id": "bf3313f4"
+      "id": "43a5dd00"
     }
   ],
   "metadata": {

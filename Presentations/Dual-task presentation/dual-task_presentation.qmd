@@ -6,7 +6,7 @@ format:
         slide-number: true
         preview-links: auto
         css: styles.css
-        footer: '<a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/" target="_blank" style="position: fixed; bottom: -7px; left: 50%; transform: translateX(-50%);"><img src="/images/square 2 lines mid.svg" alt="Logo" style="height: 40px;"></a>'
+        footer: '<a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/" target="_blank" style="position: fixed; bottom: -7px; left: 50%; transform: translateX(-50%);"><img src="/branding/Yomokerst/yomokerst heavy condensed black.png" alt="Logo" style="height: 40px;"></a>'
 ---
 
 *Progressive overload* is a basic concept in physical training.
@@ -52,19 +52,29 @@ This is where dual-task training is important.
 
 # What is Dual-task training?
 
+## Definition
+
 A dual-task refers to the ability to perform two tasks at the same time.
 Dual-task training is based on Dual-process theory @evansDualProcessTheoriesHigher2013.
+
+## Dual Process Theory
+
 Dual-process theory proposes that when performing multiple tasks, the human peformance is determined by two types of processing systems: [Automatic processing]({{< var ref-dual-process-theory.automatic-processing >}}) and [controlled processing]({{< var ref-dual-process-theory.controlled-processing >}}) [@moreiraAcuteChronicEffects2021; @evansDualProcessTheoriesHigher2013].
 Automatic processing refers to the intuitive and fast forms of processing that use low amounts of attentional resources @moreiraAcuteChronicEffects2021.
 *Automatic processing* is reactive to triggers for example the question "What is your name" @moreiraAcuteChronicEffects2021.
 Opposite of automatic processing, *controlled processing* is *slow* and requires conscious interpretation of requisite information and processing as well as the *attentional control* to complete the task @moreiraAcuteChronicEffects2021.
 
 Dual-tasks involve the simultaneous performance of both *automatic* and *controlled* processing @moreiraAcuteChronicEffects2021.
+
+## Practical examples
+
 Dual-tasks are relevant in everyday life when walking and talking.
 Walking is primarily an automatic task while talking requires controlled processing. 
 In sports, a soccer player  could receive the ball, realize his teammate is open, assess the positions of opponents, and pass the ball @moreiraAcuteChronicEffects2021.
 Dribbling and passing the ball are automatic processes for experienced soccer players @moreiraAcuteChronicEffects2021.
 Assessing the field for open teammates, opponents, and considering the team's strategy would require controlled processing  @moreiraAcuteChronicEffects2021.
+
+## Subtypes
 
 Dual-task training has 3 forms:
 
@@ -74,9 +84,14 @@ Dual-task training has 3 forms:
 
 # Dual-task cost
 
+
+## Definition
 Dual-task cost refers to the decrease in performance of either task when performing both tasks simultaneously @moreiraAcuteChronicEffects2021.
 Acutely, dual-task cost should result in significant detriments in performance @moreiraAcuteChronicEffects2021.
 When dual-tasks are performed chronically, adaptations will occur and the dual-task cost will be minimized @moreiraAcuteChronicEffects2021.
+
+
+## Quantitative definition
 
 $$
 \textrm{Dual-Task Cost Equation} =  \frac{(\textrm{DT} − \textrm{ST})}{\textrm{ST}} \times 100

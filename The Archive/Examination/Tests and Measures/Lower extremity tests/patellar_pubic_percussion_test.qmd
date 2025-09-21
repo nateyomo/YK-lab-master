@@ -1,0 +1,9 @@
+---
+title: Patellar Pubic Percussion Test
+---
+
+
+<!-- The patellar pubic percussion test (Figure 5) has a high diagnostic and screening value for fractures of the femur and pubic ramus. It assesses bony integrity through auscultation of skeletal vibration created by distal percussion if bony integrity is intact. If compromised by the presence of a fracture, the vibration is disrupted, resulting in diminished sounds and pain on the involved side. Though it has been found to be highly sensitive and specific for fractures of the femur, one must practice caution when using the patellar pubic percussion test for stress fractures due to limited number of participants in relevant studies testing for stress fractures.33
+
+The patient is in the supine position. A stethoscope is placed over the pubic tubercle. The clinician listens through the stethoscope as they tap the ipsilateral patella. Lack of sound propagation may indicate a femoral neck or pubic rami fracture. -->
+@aptaCurrentConceptsOrthopaedic2024

@@ -1,0 +1,174 @@
+---
+title: CAFS Course Notes
+subtitle: My notes from the Gray Institute Course
+---
+
+Compression is required for 
+
+
+Transformation: is either expending energy or "cultivating energy"
+
+- this means that you either harness energy or waste it
+
+
+Transformation refers to the transitional point between "loading" and "exploding."
+
+
+# Movement checklist
+
+<ol>
+    <li>Action</li>
+    <li>Environment</li>
+    <li>Position</li>
+    <li>Drive</li>
+    <li>Direction</li>
+    <li>Height</li>
+    <li>Distance</li>
+    <li>Load</li>
+    <li>Rate</li>
+    <li>Duration</li>
+</ol>
+
+## Action
+
+subdivided into global movements and local movements
+
+
+Global Movements
+
+- Fundamental
+- Skills
+- Tasks
+
+Local Movements
+
+- Regionally
+- Structurally
+
+
+## Environment
+
+- outdoors / indoors
+- pool vs ocean
+
+
+## Positions
+
+<ul>
+    <li>Standing</li>
+    <li>Seated</li>
+    <li>Kneeling</li>
+    <li>Prone</li>
+    <li>Side Lying</li>
+    <li>Supine</li>
+    <li>Transitions</li>
+    <li></li>
+</ul>
+
+Transitions: positions between two other positions: 
+
+- Between sitting and lying would occur during bed mobility
+
+
+## Driver {#driver}
+
+Raise R arm overhand and rotate the arm as far as you can to the right:
+
+Results in pronated L foot and supinated R foot.
+
+
+
+
+
+
+# Assessment and Programming Strategies
+
+CAFS breaks down their assessment and programming in 4 key parts:
+
+<ul>
+    <li>Subjective</li>
+    <li>Global</li>
+    <li>Local</li>
+    <li>Plan</li>
+</ul>
+
+
+
+## Subjective
+
+
+
+<ol>
+    <li>Listen: </li>
+    <li>Direct: </li>
+    <li>Guide: </li>
+</ol>
+
+The goal of the subjective is to understand the person's goals and functional threshold
+
+
+Holistic programming Example:
+
+- muscle hypertrophy (aesthetics)
+- decreased pain during activity (sport)
+
+
+Functional threshold can be broken down into:
+
+- What activity do they
+- 
+
+## Global
+
+Global is split into <b>skills and tasks</b> and <b>Fundamental movements</b>.
+
+
+Skills and tasks consist of ADLs, walking, sports, and hobbies
+
+
+
+Fundamental movements refer to:
+
+<ul>
+    <li>Gait</li>
+    <li>Lunging</li>
+    <li>Squatting</li>
+    <li>Reaching</li>
+    <li>Pulling</li>
+    <li>Pushing</li>
+    <li>Jumping</li>
+    <li>Lifting</li>
+</ul>
+
+
+## Local
+
+Local is divided into 2 subcategories: <b>Isolated</b> and <b>Structure specific</b>.
+
+Isolated regions include:
+
+<ul>
+    <li>Cervival</li>
+    <li>Thoracic</li>
+    <li>Lumbar</li>
+    <li>Hip</li>
+    <li>Knee</li>
+    <li>Foot and Ankle</li>
+    <li>Shoulder/Elbow/Hand</li>
+</ul>
+
+## Plan
+
+The plan is broken down into the <b>10 observation essentials</b> and <b>Manipulate and manage</b>
+
+## Application
+
+<ol>
+    <li>Use the subjective to Collect info from client/patient regarding THEIR FUNCTION</li>
+    <li>"Identify THEIR skills/tasks needed-wanted (GLOBAL)"</li>
+    <li>"Identify what fundamental movements are required to improve the neededskills/tasks (GLOBAL)"</li>
+    <li>"Identify local considerations if applicable (LOCAL)"</li>
+    <li>"Integrate information from steps 1-4, design movement sequence to assess quality. Based on reaction manipulate for success using the ten observational essentials. (PLAN/MANAGE)"</li>
+</ol>
+
+

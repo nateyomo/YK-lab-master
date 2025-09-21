@@ -2,7 +2,87 @@
 title: Hip Microinstability
 ---
 
+
+
+
+::: {.callout}
+
+- Microinstability P567 @aptaCurrentConceptsOrthopaedic2024
+
+:::
+
+**Hip Microinstability** is defined as symptoms related to Hypermobility of the hip joint[@aptaCurrentConceptsOrthopaedic2024]
+
+
+Patients with microinstability are hypomobile and have insufficient passive stabilization of the femoroacetabular joint resulting in damage and symptoms due to excessive forces and extreme ROMs [@aptaCurrentConceptsOrthopaedic2024].
+
+During the examination, ruling out <i>global hypermobility</i> is of utmost importance.
+If a patient has global hypermobility then all joints should be taken into consideration.
+
+
 "Microinstability of the hip is defined as supraphysiologic hip motion that causes pain or discomfort with or without subjective unsteadiness of the joint, and it is believed to be caused by soft tissue injury or loss and/or bony deficiency related to developmental dysplasia of the hip, connective tissue disorders, trauma, idiopathic causes, and iatrogenic causes [36]. Another group of patients prone to microinstability is those with borderline dysplasia who may have labral hypertrophy[37]. One of the most pertinent iatrogenic causes to consider is after hip arthroscopy, as patients may have a deficient hip capsule, leading to increased motion [38]. Physical exam is key to the understanding of this process, as microinstability is a dynamic process, which is not easily diagnosed on static imaging modalities. Ultrasound imaging of the hip has shown promise in its ability to reliably and affordably assess microinstability of the hip" @wongPhysicalExaminationHip2022
+
+# Presentation
+
+## Anterior vs Posterior
+Anterior hip microinstability with rotational is the most common form [@aptaCurrentConceptsOrthopaedic2024].
+The most aggravating activities will usually involve forceful and repetitive hip ER and extension [@aptaCurrentConceptsOrthopaedic2024].
+
+
+Posterior hip microinstability will be most aggravated with positions of end-range hip flexion or hip flexion + IR [@aptaCurrentConceptsOrthopaedic2024].
+
+
+## Rotator Instability
+
+Transverse plane instability
+
+
+
+
+
+# Patient education
+
+# Rehab
+
+Treatment should focus on minimizing damage and maximizing healing.
+This can be achieved by avoiding the aggravating positions.
+This is not to avoid a certain joint ROM but rather achieving the ROM with improved arthrokinematic quality.
+If a patient can improve their arthrokinematic quality of movement, they should be able to perform full ROM without inciting tissue damage.
+
+
+Generally with patients who have microinstability, they can attain <i>normal</i> osteokinematic ROM but with <i>poor</i> arthrokinematic quality of movement.
+Osteokinematic exercises such as passive stretching should be <strong>avoided</strong> since this is unlikely to improve the patient's active stabilizers and may even aggravate the symptoms.
+
+
+- Hip abductors [@aptaCurrentConceptsOrthopaedic2024]
+- lumbopelvic muscles [@aptaCurrentConceptsOrthopaedic2024]
+- Deep hip stabilizers [@aptaCurrentConceptsOrthopaedic2024]
+
+progressed from NWB to WB
+
+Functional positions should have a focus on:
+
+- preventing valgus collapse
+
+
+- Single leg squat
+- Stepdown
+
+
+## Early rehab
+
+- Proximal hip stabilization
+    - Manual perterburation in ER and IR in reverse hooklying [@aptaCurrentConceptsOrthopaedic2024]
+
+
+
+
+
+
+
+
+
+
 
 # Examination
 
@@ -12,5 +92,57 @@ title: Hip Microinstability
 ## Special Tests
 
 - Anterior Apprehension Test (Hyperextension, External Rotation Test) @wongPhysicalExaminationHip2022 
-- Abduction-Extension-External Rotation Test @wongPhysicalExaminationHip2022 
+- Abduction-Extension-External Rotation Test (AB-HEER) [@wongPhysicalExaminationHip2022; @aptaCurrentConceptsOrthopaedic2024] 
 - Prone Exteranl Rotation Test @wongPhysicalExaminationHip2022 
+- prone instability [@aptaCurrentConceptsOrthopaedic2024]
+- HEER [@aptaCurrentConceptsOrthopaedic2024]
+
+Microinstability of the hip is defined by Wong et al 2022 as supraphysiologic hip motion that causes pain or discomfort with or without subjective unsteadiness of the joint @wongPhysicalExaminationHip2022.
+
+# Causes
+
+"It is believed to be caused by soft tissue injury or loss and/or bony deficiency related to developmental dysplasia of the hip, connective tissue disorders, trauma, idiopathic causes, and iatrogenic causes" @wongPhysicalExaminationHip2022. 
+
+
+
+"Another group of patients prone to microinstability is those with borderline dysplasia who may have labral hypertrophy[37]. 
+One of the most pertinent iatrogenic causes to consider is after hip arthroscopy, as patients may have a deficient hip capsule, leading to increased motion" @wongPhysicalExaminationHip2022
+
+# Examination
+
+
+
+## Imaging
+"Physical exam is key to the understanding of this process, as microinstability is a dynamic process, which is not easily diagnosed on static imaging modalities." @wongPhysicalExaminationHip2022 
+
+:::{layout-ncol="3"}
+### Ultrasound
+Ultrasound imaging of the hip has shown promise in its ability to reliably and affordably assess microinstability of the hip
+
+### X-Ray
+
+### MRI
+
+### CT Scan
+
+:::
+
+## Physical Exam
+
+"A physical exam for a patient with suspected microinstability should begin no differently than any other examination of the hip, which includes all of the previously discussed topics. Particular focus should be given to excessive range of motion (>60° in either internal or external rotation) and ligamentous laxity, as tested by Beighton’s signs" @wongPhysicalExaminationHip2022  
+
+
+:::{.callout-note title="Beighton Scoring"}
+"The Beighton scoring system assesses joint hypermobility on a 9-point scale: 
+
+- 1 point for each passive hyperextension of the small finger metacarpophalangeal joint past 90°
+- 1 point for each thumb passive apposition to volar forearm
+- 1 point for each elbow hyperextending beyond 10°, 1 point for each knee hyperextending past 10°
+- 1 point for forward flexion of the trunk with the knees fully extended if palms are able to touch the floor. " @wongPhysicalExaminationHip2022 
+
+
+There is no universal agreement for a cutoff value for the Beighton score. Scoring cutoffs vary and are often described as greater than 5 or 6 out of 9 points being consistent with joint hypermobility
+:::
+
+
+In addition to astandard exam of the hip, there are a number of provocative maneuvers that assess apprehension, range of motion, and joint stability.

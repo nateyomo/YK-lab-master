@@ -34,3 +34,10 @@ forward head increases the stresses at the cervicothoracic junction @duttonDutto
 ## Restriction
 
 - An adaptively shortened and overactive [SCM]({{< var ref-sternocleidomastoid.path >}}) muscle can alter the realtionships between the head, neck, and shoulderes which will result in restrictions at the craniovertebral and cervicothoracic junctions @duttonDuttonOrthopaedicExamination2020
+
+
+
+# HVLAT
+
+
+- Cervicothoracic Junction (C7-T3) Lateral Flexion HVLAT in Prone p95 [@dunningSMT1HighVelocityLowAmplitude2018]

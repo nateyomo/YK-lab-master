@@ -1,0 +1,7 @@
+---
+title: Lunging
+---
+
+Lunging should be described based on the leg you are lunging <i>towards</i>.
+
+Forward lunge would be called "Right forward lunge" if the R foot is forward.

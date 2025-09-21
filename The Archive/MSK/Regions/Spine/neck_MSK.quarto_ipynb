@@ -5,7 +5,7 @@
       "metadata": {},
       "source": [
         "---\n",
-        "title: Neck and Head Regions\n",
+        "title: Neck and Head MSK\n",
         "subtitle: Musculoskeletal Overview\n",
         "---\n",
         "\n",
@@ -85,7 +85,7 @@
         "\n",
         "# Muscles\n"
       ],
-      "id": "b5bb1fb6"
+      "id": "b4f0cc7d"
     },
     {
       "cell_type": "code",
@@ -492,7 +492,7 @@
         "- Treatment of Headache, Neck Pain, and  TMJ Dysfunction with Counterstrain: @myersClinicalCounterstrain2012\n",
         ":::"
       ],
-      "id": "88d1e422"
+      "id": "fb78c6f0"
     }
   ],
   "metadata": {

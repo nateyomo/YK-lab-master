@@ -97,9 +97,16 @@ As the hip hinges into flexion, the acetabular roof rolls and glides anteriorly 
 In addition, the acetabular roof has less bony coverage in the posterior aspect, thus there is more instability.
 
 
-## Exercises
+# Exercises
 
 
 - [Posterior Hip table Exercise]({{< var ref-posterior-hip-table-recovery-exercise.path >}})
 
 
+According to Brad Jones, putting the patient into a position of hip flexion, adduction, and external rotation while applying an axial load in the direction of the femoral shaft will create a posterior shearing movement on the deep hip stabilizers
+
+- FAddER Contract-Relax
+    - Therapist assisted
+    - Self-Stretch 
+- Quadruped hip lifts with ipsilateral leg elevated
+- Hip airplanes with Excessive IR at bottom position

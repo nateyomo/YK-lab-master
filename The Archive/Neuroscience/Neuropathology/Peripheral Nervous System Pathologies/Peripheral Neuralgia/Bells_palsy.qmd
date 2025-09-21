@@ -1,0 +1,138 @@
+---
+title: Bell's Palsy
+subtitle: Paralysis of Cranial Nerve 7 (Facial nerve)
+---
+
+
+- "Bell palsy is the most common peripheral paralysis of the [seventh cranial nerve]({{< var ref-cn7.path >}}), with an onset that is rapid and unilateral @warnerBellPalsy2024."
+- "This is an idiopathic condition causing partial or complete weakness of one-half of the face along with changes in taste, sensitivity to sound, and alteration in lacrimation and salivation @warnerBellPalsy2024." 
+- "This activity illustrates the evaluation and management of Bell palsy and explains the role of the interprofessional team in improving care for patients with this condition @warnerBellPalsy2024."
+ 
+
+
+
+@amayaBellsPalsyPhysical2025
+
+# Introduction
+
+Bell's Palsy is {{< var ref-bells-palsy.definition >}} and makes up 50-60% of facial palsies [@amayaBellsPalsyPhysical2025]. 
+
+
+# Anatomy
+
+- [Facial nerve]({{< var ref-cn7.path >}})
+
+
+- "Originates in the lower pons and  exits the brainstem ventrally at the  pontomedullary junction."[@amayaBellsPalsyPhysical2025]
+- "Facial nerve travels 20 to 30 mm in  the facial canal" [@amayaBellsPalsyPhysical2025]
+- "Longest *bony* course of any cranial  nerve" [@amayaBellsPalsyPhysical2025]
+- "Making it highly susceptible to  trauma and compression by edema" [@amayaBellsPalsyPhysical2025]
+
+
+# Etiology
+
+Etiology is unknown and unclear [@amayaBellsPalsyPhysical2025].
+Viral reactivity is a potential cause [@amayaBellsPalsyPhysical2025].
+
+Viral infections: 
+
+- Herpes simplex virus (HSV) 
+- Epstein-Barr virus (EBV) 
+- Varicella-zoster virus (VZV) 
+- Mumps 
+- Rubella 
+- Cytomegalovirus (CMV)
+
+
+# Clinical Presentation
+
+- Acute peripheral facial weakness [@amayaBellsPalsyPhysical2025]
+- Symptoms typically peak within a  few days
+- Pain in or behind the ear [@amayaBellsPalsyPhysical2025]
+- Numbness or tingling in the  affected side of the face [@amayaBellsPalsyPhysical2025]
+- Hyperacusis and disturbed taste on  the ipsilateral anterior part of the  tongue [@amayaBellsPalsyPhysical2025]
+- Normal neurological examination [@amayaBellsPalsyPhysical2025]
+- Bilateral idiopathic facial palsy occurs less frequently than unilateral involvement [@amayaBellsPalsyPhysical2025]
+
+
+# DDX
+
+- Peripheral facial palsy involves all the facial  muscles ipsilateral to the  side of facial nerve  involvement [@amayaBellsPalsyPhysical2025]
+- Central weakness involves lower facial muscles [@amayaBellsPalsyPhysical2025]
+- Contralateral to the lesion  in the brain stem above pons and cerebral hemisphere [@amayaBellsPalsyPhysical2025]
+
+
+# Prognosis
+
+~71% of patients with Bell’s palsy have motor function recovery completely within 6 months without treatment.
+By 6 months *all* patients should show some improvement.
+
+## Incomplete Recovery
+
+About 1/3 of patients may have incomplete recovery and residual effects [@amayaBellsPalsyPhysical2025]
+
+Residual effects:
+
+- Sost-paralytic hemifacial spasm [@amayaBellsPalsyPhysical2025]
+- Co-contracting muscles [@amayaBellsPalsyPhysical2025]
+- Synkinesis: [@amayaBellsPalsyPhysical2025]
+- Sweating while eating or during  physical exertion [@amayaBellsPalsyPhysical2025]
+
+
+### Synkinesis
+
+[Synkinesis](): a consequence of the facial nerve regenerating in a  disorganized manner after an injury
+
+There are 2 common patterns: Crocodile tears and Jaw-winking
+ lacrimation of the  ipsilateral eye during  chewing • Jaw-winking closure of the  ipsilateral eyelid  when the jaw opens.
+
+
+
+## Poor prognostic factors 
+
+- Old age
+- Hypertension
+- Diabetes mellitus
+- Impairment of taste
+- Complete facial weakness
+
+
+# Evaluation
+
+## Observe
+
+- Facial Asymmetries
+    - Blinking
+    - Nasolabial folds
+    - Corners of the mouth
+- Cervical AROM/PROM
+- Palpation
+    - Cervical spine
+    - Head
+    - Face
+- Special Sensory Functions (if  clinically indicated)
+    - Sensation of the face and ear
+    - Taste sensation of anterior 2/3rds of the tongue
+
+# Management
+
+- Oral corticosteroids have shown to increase rates of *full* recovery [@amayaBellsPalsyPhysical2025]
+- Corticosteroids + Antiviral combination therapy has shown to decrease rates of [synkinesis](#synkinesis) [@amayaBellsPalsyPhysical2025]
+
+::: {.callout-note}
+Antiviral therapy alone is not effective [@amayaBellsPalsyPhysical2025]
+:::
+
+
+# Surgery interventions
+
+
+According to Dr. Amaya [@amayaBellsPalsyPhysical2025] there is insufficient evidence on the efficacy of surgical decompression of [CN7]({{< var ref-cn7.path >}}) to manage severe Bell's palsy [@amayaBellsPalsyPhysical2025].
+
+
+
+# Pharmacological interventions
+
+
+
+# References

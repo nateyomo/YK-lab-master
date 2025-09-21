@@ -69,29 +69,6 @@ else:
 :::
 :::
 
-<!--
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Gluteus Medius]({{< var ref-gluteus-medius.path >}}) | {{< var ref-gluteus-medius.origin >}} | {{< var ref-gluteus-medius.insertion >}} | {{< var ref-gluteus-medius.nerve >}} | {{< var ref-gluteus-medius.action >}} |
-| [Gluteus Minimus]({{< var ref-gluteus-minimus.path >}}) | {{< var ref-gluteus-minimus.origin >}} | {{< var ref-gluteus-minimus.insertion >}} | {{< var ref-gluteus-minimus.nerve >}} | {{< var ref-gluteus-minimus.action >}} |
-| [Tensor Fascia Latae]({{< var ref-tensor-fascia-latae.path >}}) | {{< var ref-tensor-fascia-latae.origin >}} | {{< var ref-tensor-fascia-latae.insertion >}} | {{< var ref-tensor-fascia-latae.nerve >}} | {{< var ref-tensor-fascia-latae.action >}} |
-| [Adductor Longus]({{< var ref-adductor-longus.path >}}) | {{< var ref-adductor-longus.origin >}} | {{< var ref-adductor-longus.insertion >}} | {{< var ref-adductor-longus.nerve >}} | {{< var ref-adductor-longus.action >}} |
-| [Obturator Externus]({{< var ref-obturator-externus.path >}}) | {{< var ref-obturator-externus.origin >}} | {{< var ref-obturator-externus.insertion >}} | {{< var ref-obturator-externus.nerve >}} | {{< var ref-obturator-externus.action >}} |
-| [Adductor Magnus]({{< var ref-adductor-magnus.path >}}) | {{< var ref-adductor-magnus.origin >}} | {{< var ref-adductor-magnus.insertion >}} | {{< var ref-adductor-magnus.nerve >}} | {{< var ref-adductor-magnus.action >}} |
-| [Rectus Femoris]({{< var ref-rectus-femoris.path >}}) | {{< var ref-rectus-femoris.origin >}} | {{< var ref-rectus-femoris.insertion >}} | {{< var ref-rectus-femoris.nerve >}} | {{< var ref-rectus-femoris.action >}} |
-| [Vastus Medialis]({{< var ref-vastus-medialis.path >}}) | {{< var ref-vastus-medialis.origin >}} | {{< var ref-vastus-medialis.insertion >}} | {{< var ref-vastus-medialis.nerve >}} | {{< var ref-vastus-medialis.action >}} |
-| [Vastus Lateralis]({{< var ref-vastus-lateralis.path >}}) | {{< var ref-vastus-lateralis.origin >}} | {{< var ref-vastus-lateralis.insertion >}} | {{< var ref-vastus-lateralis.nerve >}} | {{< var ref-vastus-lateralis.action >}} |
-| [Vastus Intermedius]({{< var ref-vastus-intermedius.path >}}) | {{< var ref-vastus-intermedius.origin >}} | {{< var ref-vastus-intermedius.insertion >}} | {{< var ref-vastus-intermedius.nerve >}} | {{< var ref-vastus-intermedius.action >}} |
-| [Articularis Genus]({{< var ref-articularis-genus.path >}}) | {{< var ref-articularis-genus.origin >}} | {{< var ref-articularis-genus.insertion >}} | {{< var ref-articularis-genus.nerve >}} | {{< var ref-articularis-genus.action >}} |
-| [Tibialis Anterior]({{< var ref-tibialis-anterior.path >}}) | {{< var ref-tibialis-anterior.origin >}} | {{< var ref-tibialis-anterior.insertion >}} | {{< var ref-tibialis-anterior.nerve >}} | {{< var ref-tibialis-anterior.action >}} |
-| [Extensor Hallucis Longus]({{< var ref-extensor-hallucis-longus.path >}}) | {{< var ref-extensor-hallucis-longus.origin >}} | {{< var ref-extensor-hallucis-longus.insertion >}} | {{< var ref-extensor-hallucis-longus.nerve >}} | {{< var ref-extensor-hallucis-longus.action >}} |
-| [Extensor Digitorum Longus]({{< var ref-extensor-digitorum-longus.path >}}) | {{< var ref-extensor-digitorum-longus.origin >}} | {{< var ref-extensor-digitorum-longus.insertion >}} | {{< var ref-extensor-digitorum-longus.nerve >}} | {{< var ref-extensor-digitorum-longus.action >}} |
-| [Fibularis Tertius]({{< var ref-fibularis-tertius.path >}}) | {{< var ref-fibularis-tertius.origin >}} | {{< var ref-fibularis-tertius.insertion >}} | {{< var ref-fibularis-tertius.nerve >}} | {{< var ref-fibularis-tertius.action >}} |
-| [Tibialis Posterior]({{< var ref-tibialis-posterior.path >}}) | {{< var ref-tibialis-posterior.origin >}} | {{< var ref-tibialis-posterior.insertion >}} | {{< var ref-tibialis-posterior.nerve >}} | {{< var ref-tibialis-posterior.action >}} |
-| [Popliteus]({{< var ref-popliteus.path >}}) | {{< var ref-popliteus.origin >}} | {{< var ref-popliteus.insertion >}} | {{< var ref-popliteus.nerve >}} | {{< var ref-popliteus.action >}} |
-: {.striped .hover}
-
--->
 
 :::{layout-ncol="2"}
 ### Femoral nerve

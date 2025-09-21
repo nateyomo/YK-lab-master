@@ -3,6 +3,7 @@ title: Skeletal Muscle
 ---
 
 
+
 ![@OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig10.3 The Three Connective Tissue Layers Bundles of muscle fibers, called fascicles, are covered by the perimysium. Muscle fibers are covered by the endomysium.jpeg){#fig-openstax-fig10.3}
 
 ::: {.callout title="Reading list"}
@@ -15,7 +16,14 @@ title: Skeletal Muscle
     - ch6 Muscle @youngWheaterFunctionalHistology2014
 - Histopathology
     - ch3 Muscle and Nerve Histopathology @amatoNeuromuscularDisorders2016
+- Stretching treatment [@pageCurrentConceptsMuscle2012]
+
 :::
+
+# Passive Tension
+
+# Active Tension
+
 
 # Tone {#tone}
 
@@ -54,6 +62,9 @@ Dystonia and paratonia have altered tone secondary to network disruption in the 
 # Motor control
 
 Intrinsic motor control of a muscle is almost entirely dictate by information from [muscle spindles]({{< var ref-muscle-spindle.path >}}) and [golgi tendon organs]({{< var ref-golgi-tendon-organ.path >}})
+
+
+
 
 # Sensory endings
 

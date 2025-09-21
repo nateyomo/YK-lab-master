@@ -5,7 +5,7 @@
       "metadata": {},
       "source": [
         "---\n",
-        "title: Elbow and forearm\n",
+        "title: Elbow and forearm MSK\n",
         "subtitle: Musculoskeletal overview\n",
         "---\n",
         "\n",
@@ -78,7 +78,7 @@
         "### Medial epicondyle\n",
         "<!-- PT, FCR, PL, Flexsuperf, FCU -->"
       ],
-      "id": "76e000e8"
+      "id": "4b3d1c48"
     },
     {
       "cell_type": "code",
@@ -129,7 +129,7 @@
       "source": [
         "### Lateral epicondyle\n"
       ],
-      "id": "c2e04233"
+      "id": "e7e2cd66"
     },
     {
       "cell_type": "code",
@@ -214,7 +214,7 @@
         "\n",
         "<!-- Should be: Biceps brachii, brachialis, brachioradialis -->"
       ],
-      "id": "2a4dce58"
+      "id": "fdc05ba4"
     },
     {
       "cell_type": "code",
@@ -272,7 +272,7 @@
         "- Anterior ligament tensioning @jonesProjectFoundations2025\n",
         "- [Elbow flexor](#tbl-elbow-flexors-oian) resistance\n"
       ],
-      "id": "5b1e532e"
+      "id": "93c2bc2d"
     },
     {
       "cell_type": "code",
@@ -414,7 +414,7 @@
         "\n",
         "## Pronation\n"
       ],
-      "id": "94f4355b"
+      "id": "2ef49ffb"
     },
     {
       "cell_type": "code",
@@ -469,7 +469,7 @@
         "\n",
         "## Supination\n"
       ],
-      "id": "6cd62f76"
+      "id": "2a8c5146"
     },
     {
       "cell_type": "code",
@@ -772,9 +772,23 @@
         "- UCL Band\n",
         "    - Ulnar Collateral Ligament Valgus Test\n",
         "        - Anterior band (20-30&deg;) @duttonDuttonOrthopaedicExamination2020 \n",
-        "        - Posterior band (>55&deg;)"
+        "        - Posterior band (>55&deg;)\n",
+        "\n",
+        "\n",
+        "\n",
+        "# Pathologies\n",
+        "\n",
+        "Valgus extension overload syndrome\n",
+        "Cubital tunnel syndrome\n",
+        "Radial tunnel syndrome\n",
+        "Pronator teres syndrome\n",
+        "Anterior interosseous nerve syndrome\n",
+        "Distal biceps tendon rupture\n",
+        "UCL strain or tear\n",
+        "Nursemaid's elbow (pulled elbow syndrome)\n",
+        "Little league elbow"
       ],
-      "id": "a14550bc"
+      "id": "8b31cc0d"
     }
   ],
   "metadata": {

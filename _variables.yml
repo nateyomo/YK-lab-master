@@ -1712,6 +1712,8 @@ ref-quadriceps-femoris:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/quadriceps_femoris_muscle_group.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/quadriceps_femoris_muscle_group.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/quadriceps_femoris_muscle_group.html#action"
+  length: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/quadriceps_femoris_muscle_group.html#length"
+
 
 ref-rectus-femoris:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Anterior Thigh Muscles/rectus_femoris.html"
@@ -2734,6 +2736,21 @@ ref-statistical-power:
 ref-lipid-panel:
   path: "/The Archive/Examination/Clinical tests/Routine blood tests/Lipid and Cardiovascular tests/lipid_panel.html"
 
+### Patient reported outcome measures
+
+ref-quickdash:
+  path: "/The Archive/Examination/Tests and Measures/Patient Reported Outcomes/QuickDASH_Quick_Disabilities_of_Arm_Shoulder_Hand.html"
+ref-oswestry-disability-index:
+  path: "/The Archive/Examination/Tests and Measures/Patient Reported Outcomes/Oswestry_disability_index_ODI.html"
+ref-lower-extremity-functional-scale:
+  path: "/The Archive/Examination/Tests and Measures/Patient Reported Outcomes/lower_extremity_functional_scale_LEFS.html"
+ref-neck-disability-index:
+  path: "/The Archive/Examination/Tests and Measures/Patient Reported Outcomes/neck_disability_index_NDI.html"
+ref-patient-specific-functional-scale:
+  path: "/The Archive/Examination/Tests and Measures/Patient Reported Outcomes/patient_functional_scale.html"
+ref-hip-and-groin-outcome-score:
+  path: "/The Archive/Examination/Tests and Measures/Patient Reported Outcomes/hip_and_groin_outcome_score_HAGOS.html"
+
 
 ### Pulmonary Evaluation
 ref-lung-sounds:
@@ -2909,6 +2926,8 @@ ref-craigs-test:
 ref-faber-test:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/FABER_test.html"
   contract-relax: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/FABER_test.html#contract-relax"
+ref-hip-scour-test:
+  path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/hip_scour_test.html"
 
 ### Muscle tone tests and measures
 ref-modified-ashworth-scale:
@@ -2949,6 +2968,11 @@ ref-3d-hip-flexor-stretch:
   path: "/The Archive/Interventions/AFS/3d_hip_flexor_stretch.html"
 ref-3d-calf-stretch:
   path: "/The Archive/Interventions/AFS/3d_calf_stretch.html"
+
+## Casting
+ref-serial-casting:
+  path: ""
+  definition: "Sequence of casts applied in progressively greater ROM over several weeks to inc ROM"
 ## PNF
 ref-proprioceptive-neuromuscular-facilitation:
   path: "/The Archive/Interventions/PNF/proprioceptive_neuromuscular_facilitation.html"
@@ -2997,6 +3021,8 @@ ref-push-up-exercise:
 ### Exercises
 ref-bicep-curl-exercise:
   path: "/The Archive/Interventions/Therex/Exercises/bicep_curl_exercise.html"
+ref-nordic-hamstring-curl:
+  path: "/The Archive/Interventions/Therex/Exercises/nordic_curl.html"
 ### Foundational exercises
 ref-foundational-exercises:
   path: "/The Archive/Interventions/Therex/Foundational Exercises/foundational_exercises.html"
@@ -3047,10 +3073,12 @@ ref-neck-osteokinematics:
   path: "/The Archive/MSK/Regions/Spine/neck_MSK.html"
 ## Regions
 ### Lower extremity
-ref-hip-msk:
-  path: "/The Archive/MSK/Regions/Lower extremity/hip.html"
-ref-knee-msk:
-  path: "/The Archive/MSK/Regions/Lower extremity/knee.html"
+ref-hip:
+  msk: "/The Archive/MSK/Regions/Lower extremity/hip.html"
+  pain: "/The Archive/Pain_science/Pain Type/Pain by region/Lower Extremity/Hip/hip_pain_overview.html"
+ref-knee:
+  msk: "/The Archive/MSK/Regions/Lower extremity/knee.html"
+  pain: "/The Archive/Pain_science/Pain Type/Pain by region/Lower Extremity/Knee/knee_pain.html"
 ref-ankle-msk:
   path: "/The Archive/MSK/Regions/Lower extremity/ankle_MSK.html"
 ref-foot-msk:
@@ -3161,9 +3189,21 @@ ref-skeletal-muscle:
 ref-skeletal-muscle-tone:
   path: "/The Archive/Physiology/Muscle/skeletal_muscle_tone.html"
   muscle-stretch-reflex: "/The Archive/Physiology/Muscle/skeletal_muscle_tone.html#muscle-stretch-reflex"
+ref-muscle-belly:
+  path: "/The Archive/Physiology/Muscle/skeletal_muscle_tone.html"
 ref-muscle-spindle:
   path: "/The Archive/Physiology/Muscle/skeletal_muscle.html#muscle-spindle"
 
+ref-reciprocal-inhibition:
+  path: ""
+  definition: ""
+
+ref-recurrent-inhibition:
+  path: ""
+  definition: ""
+
+ref-tendon:
+  path: "/The Archive/Physiology/Tendon/tendon_overview.html"
 ref-golgi-tendon-organ:
   path: "/"
 ref-myofascial-trigger-point:
@@ -3325,6 +3365,7 @@ ref-lumbar-lateral-recess-stenosis:
 ref-lateral-epicondylitis:
   path: "/The Archive/Pathologies/Pathologies by Region/Upper extremity/lateral_epicondylitis.html"
 ### Lower Extremity
+
 ref-piriformis-syndrome:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis.html#piriformis-syndrome"
 ref-pelvic-stress-fracture:
@@ -3347,6 +3388,8 @@ ref-hip-microinstability:
   path: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/hip_microinstability.html"
 ref-hip-osteoarthritis:
   path: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/hip_osteoarthritis.html"
+ref-hip-dysplasia:
+  path: "/The Archive/Pathologies/Pathologies by Region/Lower extremity/Hip/hip_dysplasia.html"
 
 #### Foot Pathologies
 ref-hallux-valgus:

@@ -1,19 +1,25 @@
 ---
 title: Index of MSK
+listing:
+    contents: 
+    - "Spine/*.qmd"
+    - "Upper Extremity/*.qmd"
+    - "Lower extremity/*.qmd"
+    type: table
 ---
 
-- Head 
+<!-- - Head 
 - Neck
 - Thoracic Spine
 - Lumbar spine
 - SIJ
 - Upper Extremity
-    - <a href="{{< ref-shoulder-msk.path >}}">Shoulder</a>
-    - <a href="{{< ref-elbow-msk.path >}}">Elbow</a>
-    - <a href="{{< ref-wrist-msk.path >}}">Wrist</a>
-    - <a href="{{< ref-hand-msk.path >}}">Hand</a>
+    - [Shoulder MSK]({{< var ref-shoulder-msk.path >}})
+    - [Elbow]({{< var ref-elbow-msk.path >}})
+    - [Wrist]({{< var ref-wrist-msk.path >}})
+    - [Hand]({{< var ref-hand-msk.path >}})
 - Lower Extremity
-    - <a href="{{< ref-hip-msk.path >}}">Hip</a>
-    - <a href="{{< ref-knee-msk.path >}}">Knee</a>
-    - <a href="{{< ref-ankle-msk.path >}}">Ankle</a>
-    - <a href="{{< ref-foot-msk.path >}}">Foot</a>
+    - [Hip]({{< var ref-hip-msk.path >}})
+    - [Knee]({{< var ref-knee-msk.path >}})
+    - [Ankle]({{< var ref-ankle-msk.path >}})
+    - [Foot]({{< var ref-foot-msk.path >}}) -->

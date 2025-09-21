@@ -1,0 +1,10 @@
+---
+title: C7-T1 Segment
+---
+
+# HVLAT
+
+
+- C6-TI HVLAT with Anterior Translation and Lateral Flexion (in sitting) p91 [@dunningSMT2Cervicothoracic2016]
+- Cervicothoracic (C6-TI) Junction HVLAT with Rot and/or Lat Flexion (Supine) p92 [@dunningSMT2Cervicothoracic2016]
+- Cervicothoracic Junction (C7-T3) Lateral Flexion HVLAT in Prone p95 [@dunningSMT1HighVelocityLowAmplitude2018]

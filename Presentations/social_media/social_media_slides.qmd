@@ -1,0 +1,65 @@
+---
+title: Social media slides
+subtitle: Subtitle
+author: 
+- id: NGY
+  number: 1
+  name: 
+    given: Nate
+    family: Yomogida
+  email: "nate.yomogida.pt@gmail.com"
+  url: "https://yomokerst.com/about.html#ngy"
+  affiliation:
+    - Doctor of Physical Therapy
+    - B.S. in Kinesiology
+  degrees:
+    - PT, DPT
+- id: CAK
+  number: 2
+  name: 
+    given: Chloë
+    family: Kerstein
+  email: "Chloekerst@gmail.com"
+  url: "https://yomokerst.com/about.html#cak"
+  affiliation:
+    - Doctor of Physical Therapy
+    - B.A. in Neuroscience
+  degrees:
+    - PT, DPT
+
+format:
+    revealjs:
+        slide-number: false
+        preview-links: auto
+        css: "socialmedia.css"
+        footer: '<a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/" target="_blank" style="position: fixed; bottom: 400px; left: 50%; transform: translateX(-50%);"><img src="/branding/Yomokerst/yomokerst heavy condensed black.png" alt="Logo" style="height: 40px;"></a>'
+---
+
+# are there benefits of spasticity?
+
+Should PT's always rehab it?
+---
+
+[**Spasticity**]({{< var ref-spasticity.path >}}): Abnormal muscle tone characterized by high tension with rapid stretching
+
+Common after a stroke or spinal cord injury
+
+
+## Spasticity can improve functional activities
+
+Increased UE muscle tone allows individual with weakness to grip items, such as a spoon
+
+LE spasticity can help achieve extension during weight bearing activities
+
+## Early warning sign
+
+Spasticity changes can be used to measure acute medical changes:
+
+- UTI 
+- Fracture
+- Pressure Sore 
+
+## Early warning sign
+
+This can even signal hidden noxious stimuli which is important for patients with impaired sensation
+

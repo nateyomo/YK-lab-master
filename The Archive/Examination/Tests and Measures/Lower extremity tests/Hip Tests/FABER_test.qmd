@@ -20,6 +20,8 @@ subtitle: Hip provocation maneuver
 A positive FABER test can help to rule in an [acetabular labral tear]({{< var ref-acetebular-labral-tear.path > >}}) @wongPhysicalExaminationHip2022.
 
 
+Conversely, "less than 3 inches between the lateral knee joint line and the examination table with the leg in the FABER position is suggestive of increased laxity of the hip joint." [@aptaCurrentConceptsOrthopaedic2024]
+
 
 # Contract-relax Technique {#contract-relax}
 

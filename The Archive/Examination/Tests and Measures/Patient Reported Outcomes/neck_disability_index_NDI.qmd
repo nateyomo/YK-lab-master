@@ -1,0 +1,346 @@
+---
+title: Neck Disability Index (NDI)
+---
+
+<style>
+    table {
+    border-collapse: collapse;
+    margin-top: 30px;
+    width: 100%;
+    }
+    th, td {
+    border: 1px solid #ccc;
+    padding: 8px 14px;
+    text-align: center;
+    cursor: pointer;
+    }
+    /* First column = section labels */
+    table td:first-child {
+    text-align: left;
+    font-weight: bold;   /* optional, makes labels stand out */
+    cursor: default;     /* no pointer hand on labels */
+    }
+
+    td.selected {
+    background-color: #007BFF;
+    }
+    li.selected {
+    background-color: #007BFF;
+    }
+
+    /* --- striped rows --- */
+    table tr:nth-child(even) {
+    background-color: #f9f9f9;
+    }
+    table tr:nth-child(odd) {
+    background-color: #ffffff;
+    }
+
+    /* keep header clean */
+    table tr:first-child {
+    background-color: #e9ecef;
+    font-weight: bold;
+    }
+
+</style>
+
+# Form
+
+This questionnaire has been designed to give us information as to how your neck pain has affected your ability to manage in everyday life.
+<bold>Please answer every section and mark in each section only the one box that applies to you.</bold>
+We realise you may consider that two or more statements in any one section relate to you, but please just mark the box that most closely describes your problem.
+
+<div id="questionnaire"></div>
+<div id="scoreTable"></div>
+
+
+
+
+<script>
+const questionnaire = [
+  {
+    section: "Section 1: Pain Intensity",
+    options: [
+      "I have no pain at the moment",
+      "The pain is very mild at the moment",
+      "The pain is moderate at the moment",
+      "The pain is fairly severe at the moment",
+      "The pain is very severe at the moment",
+      "The pain is the worst imaginable at the moment"
+    ]
+  },
+  {
+    section: "Section 2: Personal Care (Washing, Dressing, etc.)",
+    options: [
+      "I can look after myself normally without causing extra pain",
+      "I can look after myself normally but it causes extra pain",
+      "It is painful to look after myself and I am slow and careful",
+      "I need some help but can manage most of my personal care",
+      "I need help every day in most aspects of self care",
+      "I do not get dressed, I wash with difficulty and stay in bed"
+    ]
+  },
+  {
+    section: "Section 3: Lifting",
+    options: [
+      "I can lift heavy weights without extra pain",
+      "I can lift heavy weights but it gives extra pain",
+      "Pain prevents me lifting heavy weights off the floor, but I can manage if they are conveniently placed, for example on a table",
+      "Pain prevents me from lifting heavy weights but I can manage light to medium weights if they are conveniently positioned",
+      "I can only lift very light weights",
+      "I cannot lift or carry anything"
+    ]
+  },
+  {
+    section: "Section 4: Reading",
+    options: [
+      "I can read as much as I want to with no pain in my neck",
+      "I can read as much as I want to with slight pain in my neck",
+      "I can read as much as I want with moderate pain in my neck",
+      "I can’t read as much as I want because of moderate pain in my neck",
+      "I can hardly read at all because of severe pain in my neck",
+      "I cannot read at all"
+    ]
+  },
+  {
+    section: "Section 5: Headaches",
+    options: [
+      "I have no headaches at all",
+      "I have slight headaches, which come infrequently",
+      "I have moderate headaches, which come infrequently",
+      "I have moderate headaches, which come frequently",
+      "I have severe headaches, which come frequently",
+      "I have headaches almost all the time"
+    ]
+  },
+  {
+    section: "Section 6: Concentration",
+    options: [
+      "I can concentrate fully when I want to with no difficulty",
+      "I can concentrate fully when I want to with slight difficulty",
+      "I have a fair degree of difficulty in concentrating when I want to",
+      "I have a lot of difficulty in concentrating when I want to",
+      "I have a great deal of difficulty in concentrating when I want to",
+      "I cannot concentrate at all"
+    ]
+  },
+  {
+    section: "Section 7: Work",
+    options: [
+      "I can do as much work as I want to",
+      "I can only do my usual work, but no more",
+      "I can do most of my usual work, but no more",
+      "I cannot do my usual work",
+      "I can hardly do any work at all",
+      "I can’t do any work at all"
+    ]
+  },
+  {
+    section: "Section 8: Driving",
+    options: [
+      "I can drive my car without any neck pain",
+      "I can drive my car as long as I want with slight pain in my neck",
+      "I can drive my car as long as I want with moderate pain in my neck",
+      "I can’t drive my car as long as I want because of moderate pain in my neck",
+      "I can hardly drive at all because of severe pain in my neck",
+      "I can’t drive my car at all"
+    ]
+  },
+  {
+    section: "Section 9: Sleeping",
+    options: [
+      "I have no trouble sleeping",
+      "My sleep is slightly disturbed (less than 1 hr sleepless)",
+      "My sleep is mildly disturbed (1-2 hrs sleepless)",
+      "My sleep is moderately disturbed (2-3 hrs sleepless)",
+      "My sleep is greatly disturbed (3-5 hrs sleepless)",
+      "My sleep is completely disturbed (5-7 hrs sleepless)"
+    ]
+  },
+  {
+    section: "Section 10: Recreation",
+    options: [
+      "I am able to engage in all my recreation activities with no neck pain at all",
+      "I am able to engage in all my recreation activities, with some pain in my neck",
+      "I am able to engage in most, but not all of my usual recreation activities because of pain in my neck",
+      "I am able to engage in a few of my usual recreation activities because of pain in my neck",
+      "I can hardly do any recreation activities because of pain in my neck",
+      "I can’t do any recreation activities at all"
+    ]
+  }
+];
+
+</script>
+
+<script>
+// Define gradient stops
+const gradient = [
+  { pct: 0, color: [255, 0, 0] },      // red
+  { pct: 0.5, color: [255, 255, 0] },  // yellow
+  { pct: 1, color: [0, 200, 0] }       // green
+];
+
+// Function to interpolate color
+function getColorForScore(score, maxScore) {
+  const pct = score / maxScore;
+
+  // Find two gradient stops surrounding the pct
+  let lower = gradient[0], upper = gradient[gradient.length - 1];
+  for (let i = 0; i < gradient.length - 1; i++) {
+    if (pct >= gradient[i].pct && pct <= gradient[i + 1].pct) {
+      lower = gradient[i];
+      upper = gradient[i + 1];
+      break;
+    }
+  }
+
+  // Linear interpolation
+  const rangePct = (pct - lower.pct) / (upper.pct - lower.pct);
+  const r = Math.round(lower.color[0] + rangePct * (upper.color[0] - lower.color[0]));
+  const g = Math.round(lower.color[1] + rangePct * (upper.color[1] - lower.color[1]));
+  const b = Math.round(lower.color[2] + rangePct * (upper.color[2] - lower.color[2]));
+
+  return `rgb(${r},${g},${b})`;
+}
+
+// Example usage: td.style.backgroundColor = getColorForScore(score, 6);
+
+</script>
+
+<script>
+const scores = {}; // item1score, item2score, etc.
+const container = document.getElementById("questionnaire");
+const scoreTableDiv = document.getElementById("scoreTable");
+
+// ---------- FORM WITH <li> ----------
+questionnaire.forEach((section, sectionIndex) => {
+  const h2 = document.createElement("h2");
+  h2.textContent = section.section;
+  container.appendChild(h2);
+
+  const ul = document.createElement("ul");
+  section.options.forEach((option, optionIndex) => {
+    const li = document.createElement("li");
+    li.textContent = option;
+    li.style.cursor = "pointer";
+    li.dataset.section = sectionIndex;
+    li.dataset.score = optionIndex;
+
+    li.addEventListener("click", () => {
+      updateSelection(sectionIndex, optionIndex);
+    });
+
+    ul.appendChild(li);
+  });
+
+  container.appendChild(ul);
+});
+
+// ---------- SCORE TABLE ----------
+const table = document.createElement("table");
+const headerRow = document.createElement("tr");
+headerRow.appendChild(document.createElement("th")); // blank top-left cell
+for (let score = 0; score <= 5; score++) {
+  const th = document.createElement("th");
+  th.textContent = score;
+  headerRow.appendChild(th);
+}
+table.appendChild(headerRow);
+
+questionnaire.forEach((section, sectionIndex) => {
+  const row = document.createElement("tr");
+
+  const labelCell = document.createElement("td");
+  labelCell.textContent = section.section;
+  row.appendChild(labelCell);
+
+  for (let score = 0; score <= 5; score++) {
+    const td = document.createElement("td");
+    td.dataset.section = sectionIndex;
+    td.dataset.score = score;
+    td.addEventListener("click", () => {
+      updateSelection(sectionIndex, score);
+    });
+    row.appendChild(td);
+  }
+
+  table.appendChild(row);
+});
+scoreTableDiv.appendChild(table);
+
+// After building the main table rows
+const totalRow = document.createElement("tr");
+const totalLabel = document.createElement("td");
+totalLabel.textContent = "Total:";
+totalLabel.style.textAlign = "left";
+totalLabel.colSpan = 1; // only first cell
+
+const totalScoreCell = document.createElement("td");
+totalScoreCell.id = "totalScoreCell";
+totalScoreCell.colSpan = 7; // spans all score columns for visibility
+totalScoreCell.textContent = "0 / 0";
+
+totalRow.appendChild(totalLabel);
+totalRow.appendChild(totalScoreCell);
+table.appendChild(totalRow);
+
+
+
+// ---------- UPDATE FUNCTION ----------
+function updateTotal() {
+  let sum = 0;
+  let completed = 0;
+
+  for (let i = 1; i <= questionnaire.length; i++) {
+    const score = scores[`item${i}score`];
+    if (score !== undefined) {
+      sum += score;
+      completed++;
+    }
+  }
+
+  const totalScoreCell = document.getElementById("totalScoreCell");
+  const maxPossible = completed * 5;
+  totalScoreCell.textContent = `${sum} / ${maxPossible}`;
+}
+
+// Call at the end of updateSelection
+function updateSelection(sectionIndex, score) {
+  scores[`item${sectionIndex + 1}score`] = score;
+
+  // update <li> highlighting + color
+  const lis = container.querySelectorAll(`li[data-section="${sectionIndex}"]`);
+  lis.forEach(li => {
+    li.classList.remove("selected");
+    li.style.backgroundColor = "";
+  });
+  const selectedLi = container.querySelector(
+    `li[data-section="${sectionIndex}"][data-score="${score}"]`
+  );
+  if (selectedLi) {
+    selectedLi.classList.add("selected");
+    selectedLi.style.backgroundColor = getColorForScore(score, 6);
+  }
+
+  // update table highlighting + color + text
+  const tds = table.querySelectorAll(`td[data-section="${sectionIndex}"]`);
+  tds.forEach(td => {
+    td.classList.remove("selected");
+    td.textContent = "";
+    td.style.backgroundColor = "";
+  });
+  const selectedTd = table.querySelector(
+    `td[data-section="${sectionIndex}"][data-score="${score}"]`
+  );
+  if (selectedTd) {
+    selectedTd.classList.add("selected");
+    selectedTd.textContent = score;
+    selectedTd.style.backgroundColor = getColorForScore(score, 6);
+  }
+
+  updateTotal(); // <-- recalc total
+  console.log(scores);
+}
+
+
+</script>

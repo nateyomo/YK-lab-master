@@ -1,6 +1,18 @@
 ---
-title: Hip Osteoarthritis
+title: Hip Osteoarthritis (Hip OA)
 ---
+
+
+::: {.callout-note}
+AOPT hip OA CPG17 for a detailed description of hip OA characteristics that will assist in differentiating the condition from FAIS [@aptaCurrentConceptsOrthopaedic2024]
+
+see @aptaCurrentConceptsOrthopaedic2024 p567
+:::
+
+
+Hip osteoarthritis (OA) is a common cause of [hip pain]({{< var ref-hip.pain >}}).
+
+
 
 "Hip osteoarthritis is a disease manifested primarily by deteriora­ tion of the joint’s articular cartilage, loss of joint space, thickening of the joint capsule, sclerosis of subchondral bone, and the pres­ ence of osteophytes. Without an adequate damping mechanism to dissipate joint forces, the hip can experience marked degenera­ tion and change in shape. Several years ago, the American College of Rheumatology recommended the following criteria for diag­ nosing hip osteoarthritis without the use of radiography: hip pain, less than 115 degrees of hip flexion, and less than 15 degrees of internal rotation.7 The reduced range of motion may be caused by restrictions in soft tissue (such as posterior and inferior capsule or parts of the ischiofemoral ligament) and, in more severe cases, articular malalignment and osteophyte formation. Additional symptoms may include atrophy and weakness of hip muscles, morning stiffness, crepitus, inflammation of soft tissues, and an abnormal gait pattern (such as a compensated Trendelenburg gait) or altered step length. The impairments associated with advanced hip osteoarthritis can cause a significant loss in function, including difficulty climbing stairs, walking, bathing, dressing the lower extremities, getting in and out of a car, and rising from a low chair." @neumannKinesiologyMusculoskeletalSystem2017 
 
@@ -8,3 +20,36 @@ title: Hip Osteoarthritis
 
 
 "Despite decades of clinical and basic science research, the exact underlying cause of primary hip osteoarthritis remains unclear.197 Although the frequency of osteoarthritis at any joint increases with age, the disease is not triggered solely by the aging process.137 If that were true, then all elderly people would eventually develop this disease. The causes of osteoarthritis are complicated and not exclusively based on a simple wear­and­tear phenomenon. Although physical stress may increase the rate and amount of wear at the hip, this does not always lead to osteoarthritis.133,189 Other factors that may be related to osteoarthritis are an altered metabo­ lism of the ground matrix of the cartilage, increased body­mass index, genetics, immune system factors, neuromuscular disorders, and biochemical factors." @neumannKinesiologyMusculoskeletalSystem2017
+
+
+# Balance Tests
+
+- BERG balance scale
+- 4 square step test
+- Timed single leg stance test
+
+
+# Functional Tests
+
+- 6MWT
+- Step test for dynamic balance
+- Stair climbing
+- 30 second chair stand test for performance of sit-to-stand transfers
+
+# Special Tests
+
+- [FABER]({{< var ref-faber-test.path >}}) [@aptaCurrentConceptsOrthopaedic2024]
+- [Hip Scour Test]({{< var ref-hip-scour-test.path >}}) [@aptaCurrentConceptsOrthopaedic2024]
+
+
+# DDX
+
+
+<ul>
+  <li>GTPS[@aptaCurrentConceptsOrthopaedic2024]</li>
+  <li>FAIS[@aptaCurrentConceptsOrthopaedic2024]</li>
+  <li>Stress fractures[@aptaCurrentConceptsOrthopaedic2024]</li>
+  <li>Piriformis syndrome[@aptaCurrentConceptsOrthopaedic2024]</li>
+  <li>Lumbar radiculopathy[@aptaCurrentConceptsOrthopaedic2024]</li>
+  <li>Systemic inflammatory arthropathies[@aptaCurrentConceptsOrthopaedic2024]</li>
+</ul>

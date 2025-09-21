@@ -22,21 +22,21 @@ done:
 
 # Cervical Nerve Roots
 
-- [C1]({{ ref_nerve_root.c1 }})
-- [C2]({{ ref_nerve_root.c2 }})
-- [C3]({{ ref_nerve_root.c3 }})
-- [C4]({{ ref_nerve_root.c4 }})
-- [C5]({{ ref_nerve_root.c5 }})
-- [C6]({{ ref_nerve_root.c6 }})
-- [C7]({{ ref_nerve_root.c7 }})
-- [C8]({{ ref_nerve_root.c8 }})
+- [C1]({{ var ref-nerve-root.c1 }})
+- [C2]({{ var ref-nerve-root.c2 }})
+- [C3]({{ var ref-nerve-root.c3 }})
+- [C4]({{ var ref-nerve-root.c4 }})
+- [C5]({{ var ref-nerve-root.c5 }})
+- [C6]({{ var ref-nerve-root.c6 }})
+- [C7]({{ var ref-nerve-root.c7 }})
+- [C8]({{ var ref-nerve-root.c8 }})
 
 # Thoracic nerve roots
 
-- [T1]({{ ref_nerve_root.t1 }})
-- [T2]({{ ref_nerve_root.t2 }})
-- [T3]({{ ref_nerve_root.t3 }})
-- [T4]({{ ref_nerve_root.t4 }})
+- [T1]({{ var ref-nerve-root.t1 }})
+- [T2]({{ var ref-nerve-root.t2 }})
+- [T3]({{ var ref-nerve-root.t3 }})
+- [T4]({{ var ref-nerve-root.t4 }})
 - [T5]({{ ref_nerve_root.t5 }})
 - [T6]({{ ref_nerve_root.t6 }})
 - [T7]({{ ref_nerve_root.t7 }})

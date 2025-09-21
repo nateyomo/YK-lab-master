@@ -1,0 +1,2967 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.37">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Nate Yomogida">
+<meta name="author" content="Chloë Kerstein">
+
+<title>Tone Management</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../..//images/brain-favicon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-43df0d6f53b733b42d37fa7808e17715.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-2cd373bbd777488a2901da25ac479b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-30247d3b2cd0522fbeca720c4281c240.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "?",
+    "H"
+  ],
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+<link rel="stylesheet" href="styles.css">
+<meta name="twitter:title" content="Tone Management">
+<meta name="twitter:description" content="Spasticity and Rigidity">
+<meta name="twitter:image" content="https://yomokerst.com/The Archive/Images/howardSkeletalMuscleCerebral2021/fig13 Exemplar histology slides of muscles injected with Botulinum toxin type-A.jpg">
+<meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
+<meta name="twitter:site" content="@yomokerst">
+<meta name="twitter:image:alt" content="Exemplar histology slides of muscles injected with Botulinum toxin type-A (BoNT-A). Control tissue that was injected with a corresponding volume of saline (Control), muscle receiving one BTXA injection evaluated 6 months following injection (1-BTX-A), muscle receiving two BTXA injections separated by 3 months and evaluated 6 months post the second injection (2-BTX-A), and muscle injected three times with BTXA, separated by 3 months and evaluated 6 months following the third and last injection. The red staining shows the contractile material of the muscle. The white, thin lines (especially visible in the Control slide) are representative of the collagen matrix structure, and the white extended areas (especially visible in the BoNT-A injected muscles) represent intramuscular fat. Adapted from Howard &amp; Herzog 20214 Licensed under CC BY">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+
+<body class="floating nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../branding/Yomokerst/yomokerst heavy condensed black.png" alt="" class="navbar-logo">
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../The Archive/research_and_development_index.html"> 
+<span class="menu-text">R&amp;D</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../journal_club_index.html"> 
+<span class="menu-text">Journal Club</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="//Care Division/care_division.html"> 
+<span class="menu-text">Physical Therapy</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#muscle-tone" id="toc-muscle-tone" class="nav-link active" data-scroll-target="#muscle-tone">Muscle Tone</a>
+  <ul class="collapse">
+  <li><a href="#passive-component" id="toc-passive-component" class="nav-link" data-scroll-target="#passive-component">Passive component</a></li>
+  <li><a href="#active-component" id="toc-active-component" class="nav-link" data-scroll-target="#active-component">Active component</a></li>
+  </ul></li>
+  <li><a href="#anatomy" id="toc-anatomy" class="nav-link" data-scroll-target="#anatomy">Anatomy</a>
+  <ul class="collapse">
+  <li><a href="#intrafusal-fibers" id="toc-intrafusal-fibers" class="nav-link" data-scroll-target="#intrafusal-fibers">Intrafusal Fibers</a></li>
+  <li><a href="#intrafusal-fibers-1" id="toc-intrafusal-fibers-1" class="nav-link" data-scroll-target="#intrafusal-fibers-1">Intrafusal fibers</a></li>
+  <li><a href="#extrafusal-fibers" id="toc-extrafusal-fibers" class="nav-link" data-scroll-target="#extrafusal-fibers">Extrafusal Fibers</a></li>
+  <li><a href="#tendon" id="toc-tendon" class="nav-link" data-scroll-target="#tendon">Tendon</a></li>
+  <li><a href="#extrafusal-fibers-1" id="toc-extrafusal-fibers-1" class="nav-link" data-scroll-target="#extrafusal-fibers-1">Extrafusal fibers</a></li>
+  </ul></li>
+  <li><a href="#stretch-reflexes" id="toc-stretch-reflexes" class="nav-link" data-scroll-target="#stretch-reflexes">Stretch Reflexes</a>
+  <ul class="collapse">
+  <li><a href="#types" id="toc-types" class="nav-link" data-scroll-target="#types">2 types</a></li>
+  <li><a href="#mechanism" id="toc-mechanism" class="nav-link" data-scroll-target="#mechanism">Mechanism</a></li>
+  </ul></li>
+  <li><a href="#reciprocal-inhibition" id="toc-reciprocal-inhibition" class="nav-link" data-scroll-target="#reciprocal-inhibition">Reciprocal Inhibition</a></li>
+  <li><a href="#how-do-they-work-during-muscle-stretch" id="toc-how-do-they-work-during-muscle-stretch" class="nav-link" data-scroll-target="#how-do-they-work-during-muscle-stretch">How Do They work during muscle stretch</a>
+  <ul class="collapse">
+  <li><a href="#patellar-tendon-reflex" id="toc-patellar-tendon-reflex" class="nav-link" data-scroll-target="#patellar-tendon-reflex">Patellar Tendon Reflex</a></li>
+  </ul></li>
+  <li><a href="#recurrent-inhibition" id="toc-recurrent-inhibition" class="nav-link" data-scroll-target="#recurrent-inhibition">Recurrent inhibition</a></li>
+  <li><a href="#alpha-gamma-α-γ-coactivation" id="toc-alpha-gamma-α-γ-coactivation" class="nav-link" data-scroll-target="#alpha-gamma-α-γ-coactivation">Alpha-Gamma (α-γ) Coactivation</a>
+  <ul class="collapse">
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
+  <li><a href="#intrafusal-and-extrafusal-fibers-role-in-proprioception" id="toc-intrafusal-and-extrafusal-fibers-role-in-proprioception" class="nav-link" data-scroll-target="#intrafusal-and-extrafusal-fibers-role-in-proprioception">Intrafusal and Extrafusal fibers’ role in proprioception</a></li>
+  </ul></li>
+  <li><a href="#gtos-prevents-tendon-avulsion" id="toc-gtos-prevents-tendon-avulsion" class="nav-link" data-scroll-target="#gtos-prevents-tendon-avulsion">GTOS: Prevents tendon avulsion</a>
+  <ul class="collapse">
+  <li><a href="#gto-example-ego-bicep-curling" id="toc-gto-example-ego-bicep-curling" class="nav-link" data-scroll-target="#gto-example-ego-bicep-curling">GTO Example: Ego bicep curling</a></li>
+  </ul></li>
+  <li><a href="#questions" id="toc-questions" class="nav-link" data-scroll-target="#questions">Questions?</a></li>
+  <li><a href="#supraspinal-influences" id="toc-supraspinal-influences" class="nav-link" data-scroll-target="#supraspinal-influences">Supraspinal influences</a></li>
+  <li><a href="#cst-and-rst-tracts" id="toc-cst-and-rst-tracts" class="nav-link" data-scroll-target="#cst-and-rst-tracts">CST and RST tracts</a></li>
+  <li><a href="#slide-19" id="toc-slide-19" class="nav-link" data-scroll-target="#slide-19">slide 19</a></li>
+  <li><a href="#hypertonia-hyperreflexia-in-umn-lesions" id="toc-hypertonia-hyperreflexia-in-umn-lesions" class="nav-link" data-scroll-target="#hypertonia-hyperreflexia-in-umn-lesions">Hypertonia/ Hyperreflexia in UMN Lesions</a></li>
+  <li><a href="#umn-lesion-hypertoniareflexia" id="toc-umn-lesion-hypertoniareflexia" class="nav-link" data-scroll-target="#umn-lesion-hypertoniareflexia">UMN Lesion → Hypertonia/Reflexia</a></li>
+  <li><a href="#slide-22" id="toc-slide-22" class="nav-link" data-scroll-target="#slide-22">slide 22</a></li>
+  <li><a href="#clonus" id="toc-clonus" class="nav-link" data-scroll-target="#clonus">Clonus</a></li>
+  <li><a href="#spasms" id="toc-spasms" class="nav-link" data-scroll-target="#spasms">Spasms</a></li>
+  <li><a href="#spasticity-rigidity" id="toc-spasticity-rigidity" class="nav-link" data-scroll-target="#spasticity-rigidity">Spasticity &amp; Rigidity</a></li>
+  <li><a href="#clasp-knife-effect" id="toc-clasp-knife-effect" class="nav-link" data-scroll-target="#clasp-knife-effect">Clasp Knife Effect</a></li>
+  <li><a href="#why-are-only-some-muscles-spastic" id="toc-why-are-only-some-muscles-spastic" class="nav-link" data-scroll-target="#why-are-only-some-muscles-spastic">Why are only some muscles spastic?</a></li>
+  <li><a href="#synergies-spasticity" id="toc-synergies-spasticity" class="nav-link" data-scroll-target="#synergies-spasticity">Synergies + Spasticity</a></li>
+  <li><a href="#synergies" id="toc-synergies" class="nav-link" data-scroll-target="#synergies">Synergies</a>
+  <ul class="collapse">
+  <li><a href="#mmts-are-not-indicated-for-synergistic-muscles" id="toc-mmts-are-not-indicated-for-synergistic-muscles" class="nav-link" data-scroll-target="#mmts-are-not-indicated-for-synergistic-muscles">MMTs are <em>not</em> indicated for Synergistic Muscles</a></li>
+  </ul></li>
+  <li><a href="#benefits-of-spasticity" id="toc-benefits-of-spasticity" class="nav-link" data-scroll-target="#benefits-of-spasticity">Benefits of Spasticity</a></li>
+  <li><a href="#tonic-phasic-spasticity" id="toc-tonic-phasic-spasticity" class="nav-link" data-scroll-target="#tonic-phasic-spasticity">Tonic &amp; Phasic Spasticity</a></li>
+  <li><a href="#pathophysiology" id="toc-pathophysiology" class="nav-link" data-scroll-target="#pathophysiology">Pathophysiology</a>
+  <ul class="collapse">
+  <li><a href="#spinal-influencesci-spasticity" id="toc-spinal-influencesci-spasticity" class="nav-link" data-scroll-target="#spinal-influencesci-spasticity">Spinal Influence/SCI spasticity</a>
+  <ul class="collapse">
+  <li><a href="#sci-chronicity" id="toc-sci-chronicity" class="nav-link" data-scroll-target="#sci-chronicity">SCI Chronicity</a></li>
+  <li><a href="#sci-severity" id="toc-sci-severity" class="nav-link" data-scroll-target="#sci-severity">SCI SEVERITY</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#parkinsonian-rigidity" id="toc-parkinsonian-rigidity" class="nav-link" data-scroll-target="#parkinsonian-rigidity">Parkinsonian Rigidity</a>
+  <ul class="collapse">
+  <li><a href="#types-of-rigidity" id="toc-types-of-rigidity" class="nav-link" data-scroll-target="#types-of-rigidity">Types of Rigidity</a></li>
+  <li><a href="#pathomechanism" id="toc-pathomechanism" class="nav-link" data-scroll-target="#pathomechanism">Pathomechanism</a></li>
+  <li><a href="#rigidity" id="toc-rigidity" class="nav-link" data-scroll-target="#rigidity">Rigidity</a>
+  <ul class="collapse">
+  <li><a href="#other-potential-mechanisms" id="toc-other-potential-mechanisms" class="nav-link" data-scroll-target="#other-potential-mechanisms">Other potential mechanisms</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#tremor" id="toc-tremor" class="nav-link" data-scroll-target="#tremor">Tremor</a>
+  <ul class="collapse">
+  <li><a href="#tremor-pathomechanism" id="toc-tremor-pathomechanism" class="nav-link" data-scroll-target="#tremor-pathomechanism">Pathomechanism</a></li>
+  </ul></li>
+  <li><a href="#spasticity-management" id="toc-spasticity-management" class="nav-link" data-scroll-target="#spasticity-management">Spasticity Management</a></li>
+  <li><a href="#surgical-treatments" id="toc-surgical-treatments" class="nav-link" data-scroll-target="#surgical-treatments">Surgical Treatments</a>
+  <ul class="collapse">
+  <li><a href="#selective-dorsal-rhizotomy" id="toc-selective-dorsal-rhizotomy" class="nav-link" data-scroll-target="#selective-dorsal-rhizotomy">Selective Dorsal Rhizotomy (A)</a>
+  <ul class="collapse">
+  <li><a href="#criteria" id="toc-criteria" class="nav-link" data-scroll-target="#criteria">Criteria</a></li>
+  <li><a href="#other-considerations" id="toc-other-considerations" class="nav-link" data-scroll-target="#other-considerations">Other Considerations</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#tendon-lengthening-surgery" id="toc-tendon-lengthening-surgery" class="nav-link" data-scroll-target="#tendon-lengthening-surgery">Tendon Lengthening Surgery</a>
+  <ul class="collapse">
+  <li><a href="#achilles-tendon-lengthening" id="toc-achilles-tendon-lengthening" class="nav-link" data-scroll-target="#achilles-tendon-lengthening">Achilles tendon Lengthening</a></li>
+  <li><a href="#neurotomy" id="toc-neurotomy" class="nav-link" data-scroll-target="#neurotomy">Neurotomy</a></li>
+  <li><a href="#other-surgeries" id="toc-other-surgeries" class="nav-link" data-scroll-target="#other-surgeries">Other Surgeries</a></li>
+  <li><a href="#botox" id="toc-botox" class="nav-link" data-scroll-target="#botox">Botox (A)</a>
+  <ul class="collapse">
+  <li><a href="#post-botox" id="toc-post-botox" class="nav-link" data-scroll-target="#post-botox">Post-Botox</a></li>
+  <li><a href="#takeaway" id="toc-takeaway" class="nav-link" data-scroll-target="#takeaway">Takeaway</a></li>
+  </ul></li>
+  <li><a href="#phenol-or-alcohol-blocks" id="toc-phenol-or-alcohol-blocks" class="nav-link" data-scroll-target="#phenol-or-alcohol-blocks">Phenol or Alcohol Blocks ()</a>
+  <ul class="collapse">
+  <li><a href="#takeaways" id="toc-takeaways" class="nav-link" data-scroll-target="#takeaways">Takeaways</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#oral-medications-c" id="toc-oral-medications-c" class="nav-link" data-scroll-target="#oral-medications-c">Oral Medications (C)</a>
+  <ul class="collapse">
+  <li><a href="#baclofen" id="toc-baclofen" class="nav-link" data-scroll-target="#baclofen">Baclofen (C)</a></li>
+  <li><a href="#baclofen-pump" id="toc-baclofen-pump" class="nav-link" data-scroll-target="#baclofen-pump">Baclofen Pump (A)</a></li>
+  <li><a href="#tizanidine" id="toc-tizanidine" class="nav-link" data-scroll-target="#tizanidine">Tizanidine</a></li>
+  <li><a href="#dantrolene" id="toc-dantrolene" class="nav-link" data-scroll-target="#dantrolene">Dantrolene</a></li>
+  <li><a href="#diazepam" id="toc-diazepam" class="nav-link" data-scroll-target="#diazepam">Diazepam</a>
+  <ul class="collapse">
+  <li><a href="#diazepam-takeaway" id="toc-diazepam-takeaway" class="nav-link" data-scroll-target="#diazepam-takeaway">Diazepam Takeaway</a></li>
+  </ul></li>
+  <li><a href="#gabapentin" id="toc-gabapentin" class="nav-link" data-scroll-target="#gabapentin">Gabapentin</a></li>
+  <li><a href="#cannabinoids" id="toc-cannabinoids" class="nav-link" data-scroll-target="#cannabinoids">Cannabinoids/THC</a></li>
+  <li><a href="#oral-meds-takeaways" id="toc-oral-meds-takeaways" class="nav-link" data-scroll-target="#oral-meds-takeaways">Oral Meds Takeaways</a></li>
+  </ul></li>
+  <li><a href="#non-pharma-treatments-ng" id="toc-non-pharma-treatments-ng" class="nav-link" data-scroll-target="#non-pharma-treatments-ng">Non-pharma treatments (NG)</a>
+  <ul class="collapse">
+  <li><a href="#nmes" id="toc-nmes" class="nav-link" data-scroll-target="#nmes">NMES</a>
+  <ul class="collapse">
+  <li><a href="#nmes-actions" id="toc-nmes-actions" class="nav-link" data-scroll-target="#nmes-actions">NMES Actions</a></li>
+  </ul></li>
+  <li><a href="#resistance-training" id="toc-resistance-training" class="nav-link" data-scroll-target="#resistance-training">Resistance Training</a>
+  <ul class="collapse">
+  <li><a href="#antagonist-strengthening" id="toc-antagonist-strengthening" class="nav-link" data-scroll-target="#antagonist-strengthening">Antagonist Strengthening</a></li>
+  </ul></li>
+  <li><a href="#weight-bearing" id="toc-weight-bearing" class="nav-link" data-scroll-target="#weight-bearing">Weight Bearing</a>
+  <ul class="collapse">
+  <li><a href="#wb-regressions" id="toc-wb-regressions" class="nav-link" data-scroll-target="#wb-regressions">WB Regressions</a></li>
+  </ul></li>
+  <li><a href="#whole-body-vibration" id="toc-whole-body-vibration" class="nav-link" data-scroll-target="#whole-body-vibration">Whole Body Vibration</a>
+  <ul class="collapse">
+  <li><a href="#theory" id="toc-theory" class="nav-link" data-scroll-target="#theory">Theory</a></li>
+  <li><a href="#studies" id="toc-studies" class="nav-link" data-scroll-target="#studies">Studies</a></li>
+  <li><a href="#vibration-also-increases-excitation-of-brain" id="toc-vibration-also-increases-excitation-of-brain" class="nav-link" data-scroll-target="#vibration-also-increases-excitation-of-brain">Vibration Also Increases Excitation of Brain</a></li>
+  <li><a href="#benefits" id="toc-benefits" class="nav-link" data-scroll-target="#benefits">Benefits</a></li>
+  <li><a href="#vibration-parameters" id="toc-vibration-parameters" class="nav-link" data-scroll-target="#vibration-parameters">Vibration Parameters</a></li>
+  </ul></li>
+  <li><a href="#casting" id="toc-casting" class="nav-link" data-scroll-target="#casting">Casting</a></li>
+  <li><a href="#serial-casting" id="toc-serial-casting" class="nav-link" data-scroll-target="#serial-casting">Serial Casting</a>
+  <ul class="collapse">
+  <li><a href="#cons" id="toc-cons" class="nav-link" data-scroll-target="#cons">Cons</a></li>
+  </ul></li>
+  <li><a href="#afos" id="toc-afos" class="nav-link" data-scroll-target="#afos">AFOs</a></li>
+  <li><a href="#night-splints" id="toc-night-splints" class="nav-link" data-scroll-target="#night-splints">Night Splints</a>
+  <ul class="collapse">
+  <li><a href="#wrists-night-splint" id="toc-wrists-night-splint" class="nav-link" data-scroll-target="#wrists-night-splint">Wrists night splint</a></li>
+  <li><a href="#ankle-night-splints" id="toc-ankle-night-splints" class="nav-link" data-scroll-target="#ankle-night-splints">Ankle night splints</a></li>
+  </ul></li>
+  <li><a href="#aerobic-training" id="toc-aerobic-training" class="nav-link" data-scroll-target="#aerobic-training">Aerobic Training</a></li>
+  <li><a href="#stretching" id="toc-stretching" class="nav-link" data-scroll-target="#stretching">Stretching</a></li>
+  <li><a href="#stretch-contract" id="toc-stretch-contract" class="nav-link" data-scroll-target="#stretch-contract">Stretch-Contract</a>
+  <ul class="collapse">
+  <li><a href="#limitations" id="toc-limitations" class="nav-link" data-scroll-target="#limitations">Limitations</a></li>
+  </ul></li>
+  <li><a href="#cryotherapy" id="toc-cryotherapy" class="nav-link" data-scroll-target="#cryotherapy">Cryotherapy</a></li>
+  <li><a href="#thermotherapy" id="toc-thermotherapy" class="nav-link" data-scroll-target="#thermotherapy">Thermotherapy</a></li>
+  <li><a href="#kinesiotape" id="toc-kinesiotape" class="nav-link" data-scroll-target="#kinesiotape">Kinesiotape</a></li>
+  <li><a href="#deep-pressure-to-tendon" id="toc-deep-pressure-to-tendon" class="nav-link" data-scroll-target="#deep-pressure-to-tendon">Deep Pressure to Tendon</a></li>
+  <li><a href="#joint-traction" id="toc-joint-traction" class="nav-link" data-scroll-target="#joint-traction">Joint Traction</a></li>
+  <li><a href="#biofeedback" id="toc-biofeedback" class="nav-link" data-scroll-target="#biofeedback">Biofeedback</a></li>
+  </ul></li>
+  <li><a href="#pd-rigidity-treatments" id="toc-pd-rigidity-treatments" class="nav-link" data-scroll-target="#pd-rigidity-treatments">PD Rigidity Treatments</a></li>
+  <li><a href="#deep-brain-stimulation" id="toc-deep-brain-stimulation" class="nav-link" data-scroll-target="#deep-brain-stimulation">Deep Brain Stimulation</a></li>
+  <li><a href="#future-interventions" id="toc-future-interventions" class="nav-link" data-scroll-target="#future-interventions">Future Interventions</a></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a>
+  <ul class="collapse">
+  <li><a href="#reassess" id="toc-reassess" class="nav-link" data-scroll-target="#reassess">Reassess</a></li>
+  </ul></li>
+  <li><a href="#summary-1" id="toc-summary-1" class="nav-link" data-scroll-target="#summary-1">Summary</a></li>
+  <li><a href="#post-stroke-spasticity" id="toc-post-stroke-spasticity" class="nav-link" data-scroll-target="#post-stroke-spasticity">Post-Stroke Spasticity</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="presentation_tone_management.html"><i class="bi bi-file-slides"></i>RevealJS</a></li></ul></div></nav>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Tone Management</h1>
+<p class="subtitle lead">Spasticity and Rigidity</p>
+</div>
+
+
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Authors</div>
+  <div class="quarto-title-meta-heading">Affiliations</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author"><a href="https://yomokerst.com/about.html#ngy">Nate Yomogida, PT, DPT</a> <a href="mailto:nate.yomogida.pt@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Doctor of Physical Therapy
+          </p>
+        <p class="affiliation">
+            B.S. in Kinesiology
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author"><a href="https://yomokerst.com/about.html#cak">Chloë Kerstein, PT, DPT</a> <a href="mailto:Chloekerst@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Doctor of Physical Therapy
+          </p>
+        <p class="affiliation">
+            B.A. in Neuroscience
+          </p>
+      </div>
+  </div>
+
+<div class="quarto-title-meta">
+
+      
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="muscle-tone" class="level1">
+<h1>Muscle Tone</h1>
+<p><a href="?var:ref-muscle-tone.path"><strong>Tone</strong></a>: refers to a relaxed muscle’s resistance to passive stretch/tension</p>
+<p>The muscle resists the stretch through both <em>active</em> and <em>passive</em> mechanisms</p>
+<section id="passive-component" class="level2">
+<h2 class="anchored" data-anchor-id="passive-component">Passive component</h2>
+<p>The passive mechanisms refer to viscoelastic structures that are non-contractile.</p>
+<ul>
+<li>
+Actin &amp; Myosin
+</li>
+<li>
+Connective tissue
+</li>
+<li>
+etc
+</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Forces created through passive mechanisms are <strong>invisible</strong> to EMGs</p>
+</div>
+</div>
+</section>
+<section id="active-component" class="level2">
+<h2 class="anchored" data-anchor-id="active-component">Active component</h2>
+<p>The active mechanisms refer to contractile motor units</p>
+<p>These are controlled by spinal and supraspinal mechanisms</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Forces created through active mechanisms <em>can</em> be measured by EMGs</p>
+</div>
+</div>
+</section>
+</section>
+<section id="anatomy" class="level1">
+<h1>Anatomy</h1>
+<p><a href="../../The Archive/Physiology/Muscle/skeletal_muscle.html#muscle-spindle"><strong>Muscle spindle</strong></a>: Intrafusal fibers</p>
+<p><a href="../../The Archive/Physiology/Muscle/skeletal_muscle_tone.html"><strong>Muscle belly</strong></a>: Extrafusal fibers</p>
+<p><a href="../../The Archive/Physiology/Tendon/tendon_overview.html"><strong>Tendon</strong></a>: Connective tissue connecting muscle to bone</p>
+<hr>
+<section id="intrafusal-fibers" class="level2">
+<h2 class="anchored" data-anchor-id="intrafusal-fibers">Intrafusal Fibers</h2>
+<p><a href="../../The Archive/Physiology/Muscle/skeletal_muscle.html#intrafusal-fiber">Intrafusal Fibers</a></p>
+<ul>
+<li>“Muscle spindle”</li>
+<li>Sensory organs</li>
+<li>Detects changes in Length AND Velocity</li>
+</ul>
+</section>
+<section id="intrafusal-fibers-1" class="level2">
+<h2 class="anchored" data-anchor-id="intrafusal-fibers-1">Intrafusal fibers</h2>
+<!-- Two types: Nuclear bag fibers and Nuclear chain fibers  -->
+<div class="columns">
+<div class="column">
+<p><a href=""><strong>Nuclear bag fibers</strong></a>:</p>
+<ul>
+<li>Length + velocity</li>
+<li>Ia Afferents → SC</li>
+</ul>
+</div><div class="column">
+<p><a href=""><strong>Nuclear chain fibers</strong></a>:</p>
+<ul>
+<li>Length</li>
+<li>Ia and II Afferents → SC</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="extrafusal-fibers" class="level2">
+<h2 class="anchored" data-anchor-id="extrafusal-fibers">Extrafusal Fibers</h2>
+<p><a href="../../The Archive/Physiology/Muscle/skeletal_muscle.html#extrafusal-fiber">Extrafusal Fibers</a></p>
+<ul>
+<li>“Muscle belly”</li>
+<li>Contraction creates force and movement</li>
+</ul>
+</section>
+<section id="tendon" class="level2">
+<h2 class="anchored" data-anchor-id="tendon">Tendon</h2>
+<ul>
+<li>Connects muscle to bone</li>
+</ul>
+<p>Both Synapse onto γ-motor neurons in Spinal Cord</p>
+<!-- 
+Two types of nuclear bag fibers &rarr; static for mm length and dynamic for velocity 
+Healthy example:
+Static - like finding end range stretch 
+Dynamic - like DTR 
+
+
+Sensory feedback to spinal cord via: 
+Intrafusal fibers/muscle spindle: sensory organs that detect changes in muscle length+velocity. 
+Two types: 
+Nuclear bag fibers- detects length+velocity
+Activates Type Ia sensory fibers to SC
+Nuclear chain fibers: length
+Activates Type Ia and Type II sensory fibers to SC
+Contractile component of muscle:
+Extrafusal fibers: contracts to generate muscle force 
+
+Intrafusal fibers are contractile on either end and sensory in the middle!!! 
+
+
+Nuclear bag fibers named bc nuceli in middle
+Nuclear chain : nuclei lined up in line 
+
+Intrafusal fibers detect muscle length and via afferents send info about it static/dynamic back to SC
+GTOs look at tendon tension &rarr; sent info back to SC
+
+
+
+
+ -->
+</section>
+<section id="extrafusal-fibers-1" class="level2">
+<h2 class="anchored" data-anchor-id="extrafusal-fibers-1">Extrafusal fibers</h2>
+<ul>
+<li>Contracts muscle itself</li>
+<li>Activated by Alpha Motor Neurons from SC</li>
+</ul>
+</section>
+</section>
+<section id="stretch-reflexes" class="level1">
+<h1>Stretch Reflexes</h1>
+<p><a href=""><strong>Stretch Reflex</strong></a>: <strong>?var:ref-stretch-reflex.definition</strong></p>
+<p>Muscle spindles generate tone via the stretch reflex (dynamic or static):</p>
+<section id="types" class="level2">
+<h2 class="anchored" data-anchor-id="types">2 types</h2>
+<div class="columns">
+<div class="column">
+<p><a href="?var:ref-dynamic-stretch-reflex.path"><strong>Dynamic</strong></a>: sudden rapid stretch of a muscle → Ia → SC → alpha motor neuron causes sudden contraction of muscle</p>
+</div><div class="column">
+<p><a href="?var:ref-static-stretch-reflex.path"><strong>Static</strong></a>: Sustained stretch → type II → spinal cord → alpha motor efferents → cause asynchronous contraction of muscle fibers (motor units not all discharging together) = mild sustained contraction of these fibers as long as it is stretched.</p>
+</div>
+</div>
+<p>This is the physiological basis of maintaining muscle tone</p>
+<!-- What are gamma?
+
+Muscle spindles &rarr;sensory receptors 
+
+Muscle spindles, on the other hand, are the sensory receptors that house the intrafusal fibers. They are encapsulated structures embedded within the skeletal muscle and contain several intrafusal fibers. Muscle spindles function as mechanoreceptors that provide the central nervous system with information about muscle length and the rate of change in length, which is crucial for proprioception and the regulation of muscle tone and reflexes. (open evidence)
+
+
+On the other hand, there is a threshold, when the stronger a muscle is stretched, stronger is the reflex contraction. After crossing the threshold, contraction stops, and the muscle relaxes. This is known as ‘inverse stretch reflex’ and is mediated by the Golgi tendon organ present in the fascicles of a tendon [1 (same review)
+
+
+
+Dynamic is like deep tendon reflex 
+ -->
+</section>
+<section id="mechanism" class="level2">
+<h2 class="anchored" data-anchor-id="mechanism">Mechanism</h2>
+<p>Muscle Stretches → Sensory info send to spinal cord → Muscle contracts to prevent overstretch damage</p>
+<ol>
+<li>
+Muscle stretches
+</li>
+<li>
+Intrafusal fibers sense stretch
+</li>
+<li>
+Ia + II afferents send signals to SC
+</li>
+<li>
+Synapses onto agonist Alpha motor efferents
+</li>
+<li>
+Agonist muscle contracts
+</li>
+</ol>
+<hr>
+<div class="callout callout-style-default callout-tip callout-titled" title="Patellar Tendon Reflex">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Patellar Tendon Reflex
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Alpha motor neurons → Extrafusal fiber contracts to prevent overstretching <em>Quadriceps contract</em></p>
+</div>
+</div>
+</section>
+</section>
+<section id="reciprocal-inhibition" class="level1">
+<h1>Reciprocal Inhibition</h1>
+<p><a href=""><strong>Reciprocal Inhibition</strong></a>: </p>
+<hr>
+<p>Within spinal cord, Ia &amp; II afferents also synapse onto:</p>
+<ol>
+<li>
+Inhibitory Interneurons of alpha motor neurons
+</li>
+<li>
+Inhibits alpha motor neurons of antagonist muscles while agonist contracts
+</li>
+</ol>
+<p><strong>Result</strong>: Antagonist muscle cannot contract preventing further stretch of the agonist</p>
+</section>
+<section id="how-do-they-work-during-muscle-stretch" class="level1">
+<h1>How Do They work during muscle stretch</h1>
+<section id="patellar-tendon-reflex" class="level2">
+<h2 class="anchored" data-anchor-id="patellar-tendon-reflex">Patellar Tendon Reflex</h2>
+<ol>
+<li>
+Hammer hit at tendon
+</li>
+<li>
+Quadricep muscle is stretched → Stretching both the intrafusal and extrafusal fibers
+</li>
+<li>
+Intrafusal fibers detect stretch (length/velocity)
+</li>
+<li>
+Type Ia and II afferent fibers
+</li>
+<li>
+Signals carried to DRG
+</li>
+<li>
+To dorsal horn of spinal cord and synapses on:
+</li>
+</ol>
+<hr>
+<div class="columns">
+<div class="column">
+<p><strong>From dorsal horn to α-efferent</strong></p>
+<ol>
+<li>
+Motor neuron (alpha/efferent)
+</li>
+<li>
+quad extrafusal fiber and cause it to contract to protect the muscle from overstretching (a monosynaptic reflex)
+</li>
+</ol>
+</div><div class="column">
+<p><strong>From dorsal horn to interneuron</strong></p>
+<ol>
+<li>
+Interneuron → reciprocal inhibition
+</li>
+<li>
+Reciprocal inhibition
+</li>
+<li>
+inhibits alpha-motor efferents of antagonist muscles (Hamstrings relax)
+</li>
+</ol>
+</div>
+</div>
+</section>
+</section>
+<section id="recurrent-inhibition" class="level1">
+<h1>Recurrent inhibition</h1>
+<p><a href=""><strong>Recurrent inhibition</strong></a>: </p>
+<hr>
+<ul>
+<li>
+Motor neuron fires → activates inhibitory interneuron
+</li>
+<li>
+Inhibits the same neuron or a group of neurons.
+</li>
+<li>
+Mediated by Renshaw cells in spinal cord
+</li>
+</ul>
+<p>This feedback loop helps regulate motor neuron activity, preventing excessive firing and contributing to the fine-tuning of motor control.</p>
+<hr>
+<p>Found to be increased in those with SCI - Overexcitation<span class="citation" data-cites="shefnerRecurrentInhibitionIncreased1992"><sup><a href="#ref-shefnerRecurrentInhibitionIncreased1992" role="doc-biblioref">1</a></sup></span>.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>VERY DEBATED IF INVOLVED IN SPASTICITY</p>
+</div>
+</div>
+<!-- Edgley SA, Williams ER, Baker SN. Spatial and Temporal Arrangement of Recurrent Inhibition in the Primate Upper Limb. J Neurosci. 2021;41(7):1443-1454. doi:10.1523/JNEUROSCI.1589-20.2020
+
+Barrué-Belou S, Marque P, Duclay J. Recurrent inhibition is higher in eccentric compared to isometric and concentric maximal voluntary contractions. Acta Physiol (Oxf). 2018;223(4):e13064. doi:10.1111/apha.13064
+
+Shefner JM, Berman SA, Sarkarati M, Young RR. Recurrent inhibition is increased in patients with spinal cord injury. Neurology. 1992 Nov;42(11):2162-8. doi: 10.1212/wnl.42.11.2162. PMID: 1436529.
+
+Özyurt MG, Topkara B, İşak B, Türker KS. Amyotrophic lateral sclerosis weakens spinal recurrent inhibition and post-activation depression. Clin Neurophysiol. 2020 Dec;131(12):2875-2886. doi: 10.1016/j.clinph.2020.09.021. Epub 2020 Oct 16. PMID: 33157474.
+
+https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/recurrent-inhibition
+ -->
+</section>
+<section id="alpha-gamma-α-γ-coactivation" class="level1">
+<h1>Alpha-Gamma (α-γ) Coactivation</h1>
+<p><a href=""><strong>Alpha-Gamma (α-γ) Coactivation</strong></a>: <strong>?var:ref-alpha-gamma-coactivation.definition</strong></p>
+<hr>
+<p>Body needs to maintain stretch sensation when a muscle is contracting:</p>
+<ol type="1">
+<li>Muscle contraction</li>
+<li>Extrafusal fibers <strong>and</strong> intrafusal fibers contract</li>
+<li>Muscle spindle tension is maintained due to the intrafusal fiber contraction</li>
+<li>Maintains the firing rate of type Ia fibers in an optimal range for detecting a change in muscle length</li>
+</ol>
+<hr>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>HYPOTHETICALLY if ONLY alpha-motor efferents are excited and Extrafusal fibers contract → reduces tension on muscle spindle → desensitization → decreased stretch proprioception info</p>
+<p>HOWEVER this is not exactly what happens because the body needs to have stretch sensation during contraction/shortening!</p>
+</div>
+</div>
+<section id="summary" class="level2 smaller">
+<h2 class="smaller anchored" data-anchor-id="summary">Summary</h2>
+<ul>
+<li>Muscle stretches</li>
+<li>Intrafusal fibers sense stretch</li>
+<li>Ia + II afferents send signals to SC
+<ul>
+<li>Synapses onto agonist α-motor efferents</li>
+<li>Synapses onto inhibitory interneurons</li>
+<li>Synapse on Agonist gamma-motor efferent
+<ul>
+<li>Stimulates agonist intrafusal fiber contraction → tensioning muscle spindle to maintain stretch sensitization</li>
+</ul></li>
+<li>Synapse on Inhibitory Interneuron of antagonist gamma-motor efferent
+<ul>
+<li>Inhibits gamma motor neuron to antagonist muscle, decreasing tension on antagonist muscle spindle (desensitized to stretch)</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="intrafusal-and-extrafusal-fibers-role-in-proprioception" class="level2">
+<h2 class="anchored" data-anchor-id="intrafusal-and-extrafusal-fibers-role-in-proprioception">Intrafusal and Extrafusal fibers’ role in proprioception</h2>
+<p>To provide proprioception, the intrafusal fibers must contract and stretch in parallel with the extrafusal fibers MM Stretch → both intrafusal and extrafusal are stretched → type Ia/II → sensitive to stretch During a stretch, the stretch on the intrafusal fibers provide proprioceptive information of a muscle stretch MM Contraction → you would expect extrafusal contraction and intrafusal fibers to not contract However, not exactly the case;alpha gamma co-activation Alpha and gamma motor neurons contract in parallel in order to maintain tension on the intrafusal sensory fibers to provide proprioception during contraction</p>
+<!-- You would expect extrafusal contraction and intrafusal to not contract bc muscle isnt being lengthened  right and is only snes to length
+Bc your body still wants to be sensitive/aware to changes in muscle length, even when contracting a muscle ! 
+
+GTOs are this….
+
+Intrafusal sensory fibers become slack, less sensitive to stretch &rarr; Dec type Ia/II activation
+How do we combat this &rarr; extrafusal fibers and intrafusal fibers contract at same time 
+Both alpha and gamma motor neurons contract 
+Not slack anymore &rarr; will be able to 
+Can become slack w/ too much contraction since not activated (only activated during stretches) (dec AP)
+
+ -->
+</section>
+</section>
+<section id="gtos-prevents-tendon-avulsion" class="level1">
+<h1>GTOS: Prevents tendon avulsion</h1>
+<p>Golgi tendon organs (GTOs) are sensory organs found within tendons</p>
+<p>These organs detect tendon stretch and send sensory signals via <em>Type 1b afferents</em> → spinal cord.</p>
+<section id="gto-example-ego-bicep-curling" class="level2">
+<h2 class="anchored" data-anchor-id="gto-example-ego-bicep-curling">GTO Example: Ego bicep curling</h2>
+<p>Muscle contraction → tendon lengthens → GTOs are proprioceptive/sense length → type 1b afferents → SC → DRG → synapses onto 2 interneurons:</p>
+<div class="columns">
+<div class="column">
+<p>Inhibitory interneuron</p>
+<p>The inhibitory interneuron is activated which inhibits the alpha motor neuron to the bicep → Decreasing tension of agonist (bicep)</p>
+</div><div class="column">
+<p>Excitatory Interneuron</p>
+<p>Antagonist contraction to pull forearm in opposite direction Interneuron → alpha motor neuron → Excites antagonist (triceps)</p>
+</div>
+</div>
+</section>
+</section>
+<section id="questions" class="level1">
+<h1>Questions?</h1>
+</section>
+<section id="supraspinal-influences" class="level1">
+<h1>Supraspinal influences</h1>
+<!-- All past were spinal, now were going to get into how supaspinal/spinal tracts that originate in cerebrum influence….
+ -->
+</section>
+<section id="cst-and-rst-tracts" class="level1">
+<h1>CST and RST tracts</h1>
+<p>Corticospinal Tract</p>
+<ul>
+<li>Cerebral cortex → crosses at pyramidal decussation → motor neurons
+<ul>
+<li>Inhibits lower motor neurons</li>
+</ul></li>
+<li>Gives off corticoreticular pathway on way down → medullary reticulospinal nuclei → reticulospinal (RST) tract
+<ul>
+<li>Inhibits lower motor neurons</li>
+</ul></li>
+</ul>
+<!-- (Gamma + Alpha inhibition)
+
+Can also excite motor neurons– important to show loss of inhibition leads to disinhibition (spasticity) 
+ -->
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>see image on slide18</p>
+</div>
+</div>
+</div>
+</section>
+<section id="slide-19" class="level1">
+<h1>slide 19</h1>
+<ul>
+<li>Supraspinal: facilitatory and inhibitory long tracts + cerebellum,BG, limbic system and more thought to modulate muscle tone…</li>
+<li>Inhibitory: All work to reduce excitability of motor neurons/dec muscle tone:</li>
+<li>CST: inhibits spinal reflexes, helping with fine tuning of motor commands, suppressing excessive reflex activity. Crucial for voluntary motor control</li>
+<li>Dorsal RST: suppresses muscle tone, usually during REM sleep or motor control tasks</li>
+<li>Facilitatory: All work to increase excitability of motor neurons, increasing tone</li>
+<li>VST: tonic drive reflects motion and position of head and projects to extensor muscles, provides drive to facilitate antigravity support. Disruption leads to dec’d extensor tone/postural instability</li>
+<li>Medial RST: excites motor neurons controlling axial/proximal limb muscles, supporting postural adjustments/locomotion</li>
+</ul>
+</section>
+<section id="hypertonia-hyperreflexia-in-umn-lesions" class="level1">
+<h1>Hypertonia/ Hyperreflexia in UMN Lesions</h1>
+<p>Where does it all go wrong?</p>
+</section>
+<section id="umn-lesion-hypertoniareflexia" class="level1">
+<h1>UMN Lesion → Hypertonia/Reflexia</h1>
+<p>Damage in Cerebrum:</p>
+<ul>
+<li>Inhibition of medullary RST/CST → Disinhibition of motor neurons:</li>
+<li>Increase alpha motor excitation → inc in extrafusal fiber contraction → HYPERTONIA</li>
+<li>Increase gamma motor excitation → inc in intrafusal fiber contraction → sensitized intrafusal fibers → reflex pathway activates → HYPERREFLEXIA</li>
+</ul>
+</section>
+<section id="slide-22" class="level1">
+<h1>slide 22</h1>
+<p>MANY pathways are involved… medullary RST has a large effect on Hypertonia/Hyperreflexia</p>
+<p>Studies show later on RST may take over more muscle mvmt to make up for dysfunctional CST in Spasticity (Sangari et al, 2019)</p>
+</section>
+<section id="clonus" class="level1">
+<h1>Clonus</h1>
+<p>Pathological reduction in <a href="#reciprocal-inhibition">Reciprocal inhibition</a> due to supraspinal lesions, leading to contract-relax cycles as muscles are stretched/contracted.</p>
+</section>
+<section id="spasms" class="level1">
+<h1>Spasms</h1>
+<p>This heightened reflex activity can result in involuntary muscle spasms, which are sudden, often painful contractions of the muscle in response to stretch</p>
+</section>
+<section id="spasticity-rigidity" class="level1">
+<h1>Spasticity &amp; Rigidity</h1>
+<hr>
+<table class="basic-table">
+<caption>
+Difference between spasticity and rigidity.
+</caption>
+<thead>
+<tr>
+<th>
+Differentiating Points
+</th>
+<th>
+Spasticity
+</th>
+<th>
+Rigidity
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+Velocity dependency
+</td>
+<td>
+Yes
+</td>
+<td>
+No
+</td>
+</tr>
+<tr>
+<td>
+Resistance to movement
+</td>
+<td>
+In one direction (flexion or extension)
+</td>
+<td>
+In both directions
+</td>
+</tr>
+<tr>
+<td>
+Length dependency
+</td>
+<td>
+Yes
+</td>
+<td>
+No
+</td>
+</tr>
+<tr>
+<td>
+Type of hypertonicity
+</td>
+<td>
+Clasp-knife
+</td>
+<td>
+Lead pipe or Cog-wheel
+</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="clasp-knife-effect" class="level1">
+<h1>Clasp Knife Effect</h1>
+<ul>
+<li>
+High velocity of quick stretch activates nuclear bag then Ia afferents → sudden contraction
+</li>
+<li>
+Further into the stretch, the stretch is detected further by nuclear bag and nuclear chain fibers → Ia and II afferents activate → α-motor neuron → contract → maintains the resistance through some of the range
+</li>
+<li>
+<strong>Release</strong>: Golgi tendon organ (Ib afferent) activate, which inhibits α-motor neurons, reducing resistance, allowing some stretch. → like a tardieu 2 - catch + release
+</li>
+</ul>
+<hr>
+<table class="basic-table">
+<caption>
+Quality of Muscle Reaction Scoring
+</caption>
+<thead>
+<tr>
+<th>
+Grade
+</th>
+<th>
+Criteria
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+0
+</td>
+<td>
+No resistance throughout the course of the passive movement
+</td>
+</tr>
+<tr>
+<td>
+1
+</td>
+<td>
+Slight resistance throughout the course of the passive movement, followed by release
+</td>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td>
+Clear catch at precise angle, interrupting the passive movement, followed by release
+</td>
+</tr>
+<tr>
+<td>
+3
+</td>
+<td>
+Fatigable clonus &lt;10 seconds when maintaining pressure occurring at precise angle
+</td>
+</tr>
+<tr>
+<td>
+4
+</td>
+<td>
+Infatigable clonus &gt;10 seconds when maintaining pressure occurring at precise angle
+</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="why-are-only-some-muscles-spastic" class="level1">
+<h1>Why are only some muscles spastic?</h1>
+<ul>
+<li>
+More Excitable To Begin With
+</li>
+<li>
+Biceps, PFs are more excitable/experience more spasticity because they are more used throughout our daily life
+</li>
+<li>
+Excitability amplified after injury
+</li>
+</ul>
+</section>
+<section id="synergies-spasticity" class="level1">
+<h1>Synergies + Spasticity</h1>
+<p>Why do we have them?</p>
+<ul>
+<li>
+Error compensation - if one muscle is weak, others help achieve motion
+</li>
+<li>
+Energy efficiency- CNS reduces complexity of mvmt by organizing muscles into synergies, allows for quick/automatic mvmts without higher level control
+</li>
+<li>
+UE: flexor synergy dominant
+</li>
+<li>
+LE: extensor synergy dominant
+</li>
+</ul>
+</section>
+<section id="synergies" class="level1">
+<h1>Synergies</h1>
+<p>After UMN lesion</p>
+<ul>
+<li>
+CST is damaged, body increases reliance on RST - less capable of fine motor, better at gross motor control - leading to synergistic mvmts
+</li>
+<li>
+RST Is disinhibited (excited), causing involuntary co contraction – ie trying to lift shoulder, elbow + wrist flex too
+</li>
+</ul>
+<section id="mmts-are-not-indicated-for-synergistic-muscles" class="level2">
+<h2 class="anchored" data-anchor-id="mmts-are-not-indicated-for-synergistic-muscles">MMTs are <em>not</em> indicated for Synergistic Muscles</h2>
+<p>Synergies make MMTs inaccurate</p>
+<p>Co-activation of other muscles makes it impossible to isolate 1 muscle</p>
+<p>Not purely volitional movement, but rather more automatic driven (RST)<span class="citation" data-cites="Mooney2024"><sup><a href="#ref-Mooney2024" role="doc-biblioref"><strong>Mooney2024?</strong></a></sup></span></p>
+<!-- Increased tone in a synergy dominant movement can feel strong, but it is truly abnormal resistance rather than true muscle force production
+
+ Following severe corticospinal tract damage, upregulated reticulospinal tract activity may compensate for a loss of corticospinal tract input, providing some proximal recovery of isolated and within-synergy movements, but deficits in performing out of synergy movements and finger fractionation remain.
+—>
+Mooney RA, Anaya MA, Stilling JM, Celnik PA. Heightened Reticulospinal Excitability after Severe Corticospinal Damage in Chronic Stroke. Ann Neurol. Published online October 10, 2024. doi:10.1002/ana.27103
+ -->
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Instead- staging with Brunnstrom post stroke can be helpful</p>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section id="benefits-of-spasticity" class="level1 smaller">
+<h1 class="smaller">Benefits of Spasticity</h1>
+<!-- Not always harmful! -->
+<ul>
+<li>
+Can improve functional activities like transfers, standing, gripping
+</li>
+<li>
+Acute increases can also be a sign: UTI, fracture, pressure sore
+</li>
+<li>
+Improves venous return/circulation
+</li>
+<li>
+Protects against DVTs
+</li>
+<li>
+Reduces fracture risk, decreases risk of osteoporosis
+</li>
+<li>
+Protects against muscle atrophy
+</li>
+<li>
+Marker of motor recovery potential
+</li>
+</ul>
+<hr>
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>However spasticity can interfere with functional activities which is when intervention is indicated…</p>
+</div>
+</div>
+</div>
+</section>
+<section id="tonic-phasic-spasticity" class="level1 smaller">
+<h1 class="smaller">Tonic &amp; Phasic Spasticity</h1>
+<ul>
+<li>
+Velocity dependent increase in tonic stretch reflex (tone), hyperexcitability of stretch reflex
+</li>
+<li>
+Spasticity can be “phasic” or “tonic” d/t predominant involvement of different components of stretch reflex.
+</li>
+<li>
+Phasic involuntary mm contraction after quick stretch, clonus. Hyperactive phasic stretch reflex
+</li>
+<li>
+Tonic (static): hyperactive tonic stretch reflex seen in chronic spasticity/non ambulatory pts, passive stretch at ankle (experts argue this is just rigidity/severe hypertonia rather than true spasticity)
+</li>
+<li>
+Happens after spasticity affects patient over time
+</li>
+</ul>
+<hr>
+<table>
+<thead>
+<tr>
+<th>
+Feature
+</th>
+<th>
+Phasic Spasticity
+</th>
+<th>
+Tonic Spasticity
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+Trigger
+</td>
+<td>
+Rapid stretch
+</td>
+<td>
+Sustained posturing
+</td>
+</tr>
+<tr>
+<td>
+Velocity-Dependent
+</td>
+<td>
+Yes
+</td>
+<td>
+No
+</td>
+</tr>
+<tr>
+<td>
+Neural Mechanism
+</td>
+<td>
+Exaggerated stretch reflex (Ia afferents) → activates alpha motor neurons
+</td>
+<td>
+Continuous excitation of α- and γ-motor neurons from Ia and II afferents
+</td>
+</tr>
+<tr>
+<td>
+Clinical Sign
+</td>
+<td>
+Clonus, quick spasms
+</td>
+<td>
+Constant stiffness, resistance to movement
+</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="pathophysiology" class="level1 smaller">
+<h1 class="smaller">Pathophysiology</h1>
+<p>Spasticity is mostly due to dis-inhibition of the medullary (dorsal) Reticulospinal tract</p>
+<ul>
+<li>
+Spasticity may be maintained through facilitatory influences of the medial (pontine) RST
+</li>
+<li>
+Vestibulospinal tract plays a minor role
+</li>
+<li>
+As shown by sectioning studies of the human spinal cord in those w/ spasticity
+</li>
+<li>
+Other brain regions may also be involved: BG, cerebellum, etc
+</li>
+<li>
+Studies are still examining all influences on spasticity/tone – a lot is still unknown…
+</li>
+</ul>
+<section id="spinal-influencesci-spasticity" class="level2">
+<h2 class="anchored" data-anchor-id="spinal-influencesci-spasticity">Spinal Influence/SCI spasticity</h2>
+<p>Spinal influence:</p>
+<p>Many different ways to inc excitation or dec inhibition in spinal cord</p>
+<p>Descending monoaminergic drive normally excites alpha motor neurons and inhibits dorsal horn/sensory input</p>
+<hr>
+<section id="sci-chronicity" class="level3">
+<h3 class="anchored" data-anchor-id="sci-chronicity">SCI Chronicity</h3>
+<div class="columns">
+<div class="column">
+<p>Acute stage of SCI: loss of monoaminergic influence → causes hypo excitability of motor neurons and excitation of sensory input</p>
+</div><div class="column">
+<p>Chronic SCI Spasticity →Product of overactive motor neurons Weeks after disconnection from supraspinal input, motor neurons transition into an excitable state, really responsive to excitatory NTs like glutamate. Leads to muscle contractions, easily triggered by touch/mm stretching.</p>
+</div>
+</div>
+<hr>
+</section>
+<section id="sci-severity" class="level3">
+<h3 class="anchored" data-anchor-id="sci-severity">SCI SEVERITY</h3>
+<section id="incomplete-sci" class="level4">
+<h4 class="anchored" data-anchor-id="incomplete-sci">Incomplete SCI</h4>
+<p>Incomplete/partial myelopathy involving lateral funiculus: If there is involvement of CST only, it will result in weakness, hypotonia and loss of superficial reflexes. If there is additional involvement of dorsal RST, spasticity and hyperreflexia will develop due to unopposed activity of medial RST. Spasticity will be predominant in antigravity muscles and will result in paraplegia in extension and extensor spasms. Flexor spasms can occur if FRA are activated by pressure sores.</p>
+<p>On the other hand, if there is involvement of dorsal RST only with sparing CST, there will be spasticity without much weakness.</p>
+</section>
+<section id="complete-sci" class="level4">
+<h4 class="anchored" data-anchor-id="complete-sci">Complete SCI</h4>
+<p>Complete myelopathy with involvement of all four tracts: Spasticity will be less in this case because of lack of facilitatory input from medial RST and VST. Disinhibition of FRA will result in paraplegia in flexion and flexor spasms.</p>
+</section>
+</section>
+</section>
+</section>
+<section id="parkinsonian-rigidity" class="level1">
+<h1>Parkinsonian Rigidity</h1>
+<p><a href="../../The Archive/Physiology/Muscle/skeletal_muscle_tone.html#rigidity"><strong>Rigidity</strong></a>: Increased resistance to passive movement, affecting both flexor and extensor muscles in Parkinson’s disease</p>
+<p>Neural mechanisms are incompletely understood</p>
+<section id="types-of-rigidity" class="level2">
+<h2 class="anchored" data-anchor-id="types-of-rigidity">Types of Rigidity</h2>
+<p><a href=""><strong>Lead-pipe rigidity</strong></a>: a uniform, constant resistance throughout the range of motion, typically seen in conditions like Parkinson’s disease.</p>
+<p><a href=""><strong>Cogwheel rigidity</strong></a>: involves intermittent jerks during movement due to oscillations between the agonist and antagonist muscles.</p>
+<hr>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Cogwheel</strong></th>
+<th><strong>Leadpipe</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Rigidity + tremor</td>
+<td>Smooth, consistent</td>
+</tr>
+<tr class="even">
+<td>Tonic increase in muscle tone<span class="citation" data-cites="wrightAxialHypertonicityParkinsons2007"><sup><a href="#ref-wrightAxialHypertonicityParkinsons2007" role="doc-biblioref">2</a></sup></span></td>
+<td>EMG studies show phasic bursts of muscle activity<span class="citation" data-cites="mearaRelationshipElectromyographicActivity1992"><sup><a href="#ref-mearaRelationshipElectromyographicActivity1992" role="doc-biblioref">3</a></sup></span></td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Can be an underlying tremor that is not overtly present yet</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Asci F, Falletti M, Zampogna A, et al.&nbsp;Rigidity in Parkinson’s disease: evidence from biomechanical and neurophysiological measures. Brain. 2023;146(9):3705-3718. doi:10.1093/brain/awad114</p>
+</div>
+</div>
+</div>
+</section>
+<section id="pathomechanism" class="level2">
+<h2 class="anchored" data-anchor-id="pathomechanism">Pathomechanism</h2>
+<p>The direct pathway normally facilitates movement by disinhibiting (EXCITES) the motor cortex.</p>
+<p>The indirect pathway inhibits movement:</p>
+<ul>
+<li>
+Becomes overactive (due to lack of dopamine) in PD
+</li>
+<li>
+Increases inhibition of the motor cortex
+</li>
+<li>
+Dec activation of CST/RST
+</li>
+<li>
+Causes inc activation of alpha motor neurons → Rigidity/bradykinesia.
+</li>
+</ul>
+</section>
+<section id="rigidity" class="level2">
+<h2 class="anchored" data-anchor-id="rigidity">Rigidity</h2>
+<p>Rigidity is end-stage form of this neurophysiological process</p>
+<ol>
+<li>
+Basal ganglia increase inhibitory output
+</li>
+<li>
+Excessive α-motor neurons
+</li>
+<li>
+Sustained muscle contraction (Rigidity)
+</li>
+</ol>
+<div class="notes">
+<p>As the basal ganglia increase their inhibitory output, there is excessive excitation of the α-motor neurons resulting in sustained muscle contraction known as rigidity</p>
+</div>
+<hr>
+<section id="other-potential-mechanisms" class="level3">
+<h3 class="anchored" data-anchor-id="other-potential-mechanisms">Other potential mechanisms</h3>
+<ul>
+<li>
+Exaggeration of long-latency stretch reflexes (LLSR)
+</li>
+<li>
+Enhanced shortening reaction (SR) and stretch-induced inhibition (SII)
+</li>
+<li>
+Involvement of brainstem circuits involving sublaterodorsal nucleus, nucleus reticularis gigantocellularis (NRGC), locus coeruleus, caudal raphe and pedunculopontine nucleus (PPN)
+</li>
+<li>
+Alteration in functional connectivity in brain networks involving frontoparietal connection, premotor-pre-cuneus connection
+</li>
+<li>
+Non-neural factors like viscoelastic properties of muscle fiber and surrounding connective tissues
+</li>
+</ul>
+</section>
+</section>
+</section>
+<section id="tremor" class="level1">
+<h1>Tremor</h1>
+<p><a href=""><strong>Tremor</strong></a>:</p>
+<section id="tremor-pathomechanism" class="level2">
+<h2 class="anchored" data-anchor-id="tremor-pathomechanism">Pathomechanism</h2>
+<p>Involved in other paths within the basal ganglia-thalamo-cortico loop:</p>
+<p>BG inhibits thalamus → causing altered firing patterns generating rhythmic bursting activity of thalamic cells</p>
+</section>
+</section>
+<section id="spasticity-management" class="level1">
+<h1>Spasticity Management</h1>
+<p>As based on AAPM&amp;R Consensus Guidelines 2024</p>
+<ul>
+<li><a href="#selective-dorsal-rhizotomy">Selective Dorsal Rhizotomy</a></li>
+<li><a href="#tendon-lengthening-surgery">Tendon Lengthening Surgery</a></li>
+<li><a href="#neurotomy">Neurotomy</a></li>
+<li><a href="#botox">Botox</a></li>
+<li><a href="#phenol-or-alcohol-blocks">Phenol or Alcohol Nerve Blocks</a></li>
+</ul>
+</section>
+<section id="surgical-treatments" class="level1">
+<h1>Surgical Treatments</h1>
+<section id="selective-dorsal-rhizotomy" class="level2">
+<h2 class="anchored" data-anchor-id="selective-dorsal-rhizotomy">Selective Dorsal Rhizotomy (A)</h2>
+<p><a href=""><strong>Selective Dorsal Rhizotomy</strong></a>: Irreversible surgery where a surgeon cuts sensory neurons in order to prevents stretch reflex/afferents from contributing spasticity</p>
+<!-- "SUR-2: The AAPM&R TEP recommends utilization of selective dorsal rhizotomy (SDR) to treat spasticity with proper patient selection focused on patients with primarily spasticity of the lower extremity (LE),  adequate LE strength and selective motor control, and absence of significant contractures.
+Technical Note: Historically, the procedure has primarily been performed in children; more recently SDR in adults has been noted to be helpful in reducing spasticity, maintaining or improving level of ambulation, but with a higher propensity to develop new sensory deficits or neuropathic pain." -->
+<hr>
+<ul>
+<li>
+Primarily for children 4-10 years old or some adults with CP who are unresponsive to other treatments
+</li>
+<li>
+Diffuse Spasticity
+</li>
+<li>
+Decreases spasticity as far as 17 years after surgery
+</li>
+<li>
+After SDR, early intense PT is indicated to capitalize on opportunities to change motor patterning
+</li>
+<li>
+Monitor for Dysesthesias: Gabapentin given if experienced, usually lasts a couple of weeks
+</li>
+</ul>
+<hr>
+<section id="criteria" class="level3">
+<h3 class="anchored" data-anchor-id="criteria">Criteria</h3>
+<p>Usual Criteria:</p>
+<ul>
+<li>Prematurity,</li>
+<li>Diplegia CP,</li>
+<li>GMFCS I-III,</li>
+<li>Age 4-10 y/o,</li>
+<li>Pure spasticity</li>
+<li>Antigravity hip flexor strength,</li>
+<li>Adequate cognition,</li>
+<li>Absence of contractures,</li>
+<li>Periventricular leukomalacia with no basal ganglia or thalamic lesions on imaging</li>
+</ul>
+<p>Following surgery, changes in tone creates opportunities to change motor patterning. Initial intense PT rec: Early aggressive OP PT 2x per week or 6 weeks of intensive inpatient PT</p>
+<hr>
+</section>
+<section id="other-considerations" class="level3">
+<h3 class="anchored" data-anchor-id="other-considerations">Other Considerations</h3>
+<ul>
+<li>Dec spasticity as far as 17 years after surgery</li>
+<li>Deep tendon reflexes and clonus is absent after
+<ul>
+<li>Absence of patellar reflex can lead to patients having an inc in falls from inadvertent knee flexion in stance bc of the absence of normal knee extension reflex when knee is suddenly flexed. Pts adapt over time to this change.</li>
+</ul></li>
+<li>Safe procedure, long term complications rare - some side effects include dysesthesias, urinary retention, numbness, infections and cerebral spinal leak (&lt;10% of patients)</li>
+<li>Dysesthesia risk inc with # rootlets dissected, usually lasts a couple weeks and responds to gabapentin. Nocturnal leg spasms can occur but respond to diazepam.</li>
+<li>Following SDR, recommendations are for patients with knee flexion contractures to wear immobilizers at night thru adolescent growth spurt.</li>
+</ul>
+</section>
+</section>
+</section>
+<section id="tendon-lengthening-surgery" class="level1">
+<h1>Tendon Lengthening Surgery</h1>
+<ul>
+<li>Cutting part/all of tendon to lengthen it</li>
+<li>Typically CP kids, sometimes DMD/SCI/Stroke</li>
+<li>All other options must be trialed prior</li>
+</ul>
+<hr>
+<section id="achilles-tendon-lengthening" class="level3">
+<h3 class="anchored" data-anchor-id="achilles-tendon-lengthening">Achilles tendon Lengthening</h3>
+<ul>
+<li>Indicated with <strong>severe contractures</strong></li>
+<li>Usually ≥20° of PF</li>
+<li>Cast 6-12 weeks, crutches 4-6 weeks</li>
+<li>Intensive PT after: Stretches, strengthening and non-articulating AFOs for walking is indicated<span class="citation" data-cites="Galletti2024"><sup><a href="#ref-Galletti2024" role="doc-biblioref"><strong>Galletti2024?</strong></a></sup></span></li>
+</ul>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Warning
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Over Lengthening →Worsens gait →Poor power in toe off/risk of crouching in midstance</p>
+</div>
+</div>
+</section>
+<section id="neurotomy" class="level2">
+<h2 class="anchored" data-anchor-id="neurotomy">Neurotomy</h2>
+<p><a href=""><strong>Neurotomy</strong></a>: Cutting peripheral motor nerve</p>
+<p>Diminishing reflex arc → Reducing spasticity</p>
+<hr>
+<p>Mainly for Focal spasticity MAS &gt; 3 (passive mvmt difficult) Indicated after botox is trialed/failed or is too costly 80-85% success rate for dec spasticity</p>
+<p>Procedure may induce paralysis or dec strength, but pt can recover strength via other motor nerves helping to compensate</p>
+</section>
+<section id="other-surgeries" class="level2">
+<h2 class="anchored" data-anchor-id="other-surgeries">Other Surgeries</h2>
+<p>Non selective ventral dorsal rhizotomy: children w GMFCS IV or V with sig hypertonia affecting comfort, care, positioning - Both sensory and motor rootlets cut from L1-S2 in nonselective fashion (50-80%) - By preserving a portion of the ventral rootlets, sufficient motor control preserved for some voluntary movements. - Reduction in spasticity/dystonia but some dystonia can return 1-2 years later - However, can significantly weaken legs – reduce standing ability</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Selective peripheral - 61-91 % pt satisfaction rate</p>
+</div>
+</div>
+</section>
+<section id="botox" class="level2">
+<h2 class="anchored" data-anchor-id="botox">Botox (A)</h2>
+<p>INJ-1: The AAPM&amp;R Spasticity TEP recommends clinicians consider use of botulinum toxin A for management of focal upper and lower limb spasticity.</p>
+<hr>
+<ul>
+<li>Distal muscles, focal relief</li>
+<li>Inhibits release of Ach</li>
+<li>MAS scores improve</li>
+<li>Effects last 3-4 months</li>
+<li>Peak effect: 3-4 weeks post injection<span class="citation" data-cites="chen2020"><sup><a href="#ref-chen2020" role="doc-biblioref"><strong>chen2020?</strong></a></sup></span></li>
+</ul>
+<hr>
+<ul>
+<li>May use AFOs/Orthoses post procedure</li>
+<li>Can decrease pain d/t spasticity<span class="citation" data-cites="wissel2016"><sup><a href="#ref-wissel2016" role="doc-biblioref"><strong>wissel2016?</strong></a></sup></span></li>
+<li>MS, stroke populations</li>
+<li>Problems: expensive, not always covered by Insurance</li>
+<li>Adverse local effects: weakness, pain, leg cramps, skin rash, infection,</li>
+<li>Adverse systemic effects can occur: dysphagia, dysphonia, weakness, dyspnea, respiratory distress</li>
+</ul>
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../The Archive/Images/howardSkeletalMuscleCerebral2021/fig13 Exemplar histology slides of muscles injected with Botulinum toxin type-A.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Exemplar histology slides of muscles injected with Botulinum toxin type-A (BoNT-A). Control tissue that was injected with a corresponding volume of saline (Control), muscle receiving one BTXA injection evaluated 6 months following injection (1-BTX-A), muscle receiving two BTXA injections separated by 3 months and evaluated 6 months post the second injection (2-BTX-A), and muscle injected three times with BTXA, separated by 3 months and evaluated 6 months following the third and last injection. The red staining shows the contractile material of the muscle. The white, thin lines (especially visible in the Control slide) are representative of the collagen matrix structure, and the white extended areas (especially visible in the BoNT-A injected muscles) represent intramuscular fat. Adapted from Howard &amp; Herzog 2021 [@howardSkeletalMuscleCerebral2021] Licensed under CC BY"><img src="../../The Archive/Images/howardSkeletalMuscleCerebral2021/fig13 Exemplar histology slides of muscles injected with Botulinum toxin type-A.jpg" class="img-fluid figure-img" alt="Exemplar histology slides of muscles injected with Botulinum toxin type-A (BoNT-A). Control tissue that was injected with a corresponding volume of saline (Control), muscle receiving one BTXA injection evaluated 6 months following injection (1-BTX-A), muscle receiving two BTXA injections separated by 3 months and evaluated 6 months post the second injection (2-BTX-A), and muscle injected three times with BTXA, separated by 3 months and evaluated 6 months following the third and last injection. The red staining shows the contractile material of the muscle. The white, thin lines (especially visible in the Control slide) are representative of the collagen matrix structure, and the white extended areas (especially visible in the BoNT-A injected muscles) represent intramuscular fat. Adapted from Howard &amp; Herzog 20214 Licensed under CC BY"></a></p>
+<figcaption>Exemplar histology slides of muscles injected with Botulinum toxin type-A (BoNT-A). Control tissue that was injected with a corresponding volume of saline (Control), muscle receiving one BTXA injection evaluated 6 months following injection (1-BTX-A), muscle receiving two BTXA injections separated by 3 months and evaluated 6 months post the second injection (2-BTX-A), and muscle injected three times with BTXA, separated by 3 months and evaluated 6 months following the third and last injection. The red staining shows the contractile material of the muscle. The white, thin lines (especially visible in the Control slide) are representative of the collagen matrix structure, and the white extended areas (especially visible in the BoNT-A injected muscles) represent intramuscular fat. Adapted from Howard &amp; Herzog 2021<span class="citation" data-cites="howardSkeletalMuscleCerebral2021"><sup><a href="#ref-howardSkeletalMuscleCerebral2021" role="doc-biblioref">4</a></sup></span> Licensed under CC BY</figcaption>
+</figure>
+</div>
+<hr>
+<section id="post-botox" class="level3">
+<h3 class="anchored" data-anchor-id="post-botox">Post-Botox</h3>
+<p>Reduced muscle size, Fat infiltration, Dec in strength</p>
+<p>Animals: after botox = smaller muscle size, strength and more fat infiltration. Muscle strength also reduced in adjacent and contralateral non target muscles.</p>
+<p>Humans: a single dose of BoNT has been shown to reduce muscle size in humans for up to 1 year and 50% dec in strength.<span class="citation" data-cites="schroeder2009"><sup><a href="#ref-schroeder2009" role="doc-biblioref"><strong>schroeder2009?</strong></a></sup></span></p>
+<hr>
+<p>Humans post Stroke: Botox reduces MAS and elbow flexor strength 3 weeks following botox injection.<span class="citation" data-cites="chen2020"><sup><a href="#ref-chen2020" role="doc-biblioref"><strong>chen2020?</strong></a></sup></span></p>
+<p>Human histological studies<span class="citation" data-cites="howard2021"><sup><a href="#ref-howard2021" role="doc-biblioref"><strong>howard2021?</strong></a></sup></span> 15 children w/ spastic diplegic CP - botox to gastroc: Measured calf volume: 5% dec in gastroc volume 5 weeks post injection but 4% inc in soleus volume suggesting adjacent muscle hypertrophy to compensate for injected muscle. Study 2: Ultrasound to gastroc: demo’d dec’d volume in children with CP post BoNT injection.</p>
+<hr>
+</section>
+<section id="takeaway" class="level3">
+<h3 class="anchored" data-anchor-id="takeaway">Takeaway</h3>
+<p>Weigh benefits of decreasing spasticity to cons of decreasing strength when making recommendations</p>
+<p>Emphasize strengthening prior/after botox injections in the muscle injected!</p>
+<p>3-4 week mark = peak effects: Capitalize on motor patterning!</p>
+<p>Can be beneficial for decreasing pain!</p>
+<p>Monitor for systemic muscle weakness in those getting recurrent botox injections or high doses- potential side effect</p>
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../The Archive/Images/matakMechanismsBotulinumToxin2019/fig1 Actions of BoNT:A along the pain pathway.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Actions of BoNT/A along the pain pathway. Adapted from Matak &amp; Bölcskei 2019 [@matakMechanismsBotulinumToxin2019] Licensed under CC BY"><img src="../../The Archive/Images/matakMechanismsBotulinumToxin2019/fig1 Actions of BoNT:A along the pain pathway.png" class="img-fluid figure-img" alt="Actions of BoNT/A along the pain pathway. Adapted from Matak &amp; Bölcskei 20195 Licensed under CC BY"></a></p>
+<figcaption>Actions of BoNT/A along the pain pathway. <em>Adapted from Matak &amp; Bölcskei 2019<span class="citation" data-cites="matakMechanismsBotulinumToxin2019"><sup><a href="#ref-matakMechanismsBotulinumToxin2019" role="doc-biblioref">5</a></sup></span> Licensed under CC BY</em></figcaption>
+</figure>
+</div>
+</section>
+</section>
+<section id="phenol-or-alcohol-blocks" class="level2">
+<h2 class="anchored" data-anchor-id="phenol-or-alcohol-blocks">Phenol or Alcohol Blocks ()</h2>
+<p>INJ-2: The AAPM&amp;R Spasticity TEP suggests that clinicians consider use of phenol or alcohol blocks for management of focal spasticity.</p>
+<hr>
+<p>Mild/no sedation.</p>
+<p>Target nerve found via estim/ultrasound. Local anesthetic applied, Nerve stimulation performed to find right motor response. Phenol/alcohol then injected, immediately ceasing contractions/spasticity. Chemical denatures protein resulting in neuropraxic injury/denervation</p>
+<hr>
+<p>Can lead to wallerian degeneration of targeted nerve</p>
+<p>Can also result in fibrosis/local vascular injury/ muscle necrosis due to non-specific protein denaturation</p>
+<p>Average duration of effects last 3-9 months (LONGER than botox)</p>
+<p>Applied to isolated motor nerves/motor branches Not sensory-would result in painful dysesthesias</p>
+<hr>
+<p>NO large scale clinical studies - only small retrospective, case series/case studies: typically a therapy of last resort and reserved for END STAGE THERAPY Stroke, SCI, TBI, CP</p>
+<p>Inferior effects compared to botox on spasticity (Gonnade, 2017)</p>
+<p>Adverse effects: phenol spreading to adjacent nerves or sensory fibers: Painful dysesthesias range between 10-30% depending on study</p>
+<hr>
+<section id="takeaways" class="level3">
+<h3 class="anchored" data-anchor-id="takeaways">Takeaways</h3>
+<p>Phenol/alcohol injected into motor nerves, immediately ceasing contractions/spasticity. Chemical denatures protein resulting in neuropraxic injury/denervation Average duration of effects last 3-9 months (longer than botox) Usually a tx of last resort- Inferior effects compared to botox on spasticity (Gonnade, 2017) Adverse effects: phenol spreading to sensory fibers: Painful dysesthesias range between 10-30% depending on study</p>
+</section>
+</section>
+</section>
+<section id="oral-medications-c" class="level1">
+<h1>Oral Medications (C)</h1>
+<p>Pharm-1: The AAPM&amp;R Spasticity TEP suggests use of oral medications to manage generalized or systemic spasticity; oral medications can be used either exclusively or as a component of a multimodal treatment approach.</p>
+<ul>
+<li>No medication is uniformly useful in tx of hypertonia</li>
+<li>All drugs can have serious side effects - negative effects will be weighed when prescribed</li>
+</ul>
+<section id="baclofen" class="level2">
+<h2 class="anchored" data-anchor-id="baclofen">Baclofen (C)</h2>
+<ul>
+<li>Muscle relaxant</li>
+<li>Most common drug for spasticity of spinal region (ie SCI, MS)</li>
+<li>Can be used in supraspinal spasticity (CP, Stroke)</li>
+</ul>
+<p>Some caution w/ use in cerebral forms of spasticity d/t interference with attention/memory on brain injured patients</p>
+<p>GABA<sub>B</sub> Agonist - mainly acts at the spinal level Inhibits excitation of alpha motor neurons</p>
+<hr>
+<p>Peak concentrations: 2-3 hrs after ingestion Short half life of 2-6 hours - taken in smaller doses throughout day Adverse effects: weakness, sedation/drowsiness, fatigue, dizziness, constipation, confusion, hypotonia, ataxia. Sudden withdrawal can cause seizures/hallucinations<span class="citation" data-cites="ghanavatian2024"><sup><a href="#ref-ghanavatian2024" role="doc-biblioref"><strong>ghanavatian2024?</strong></a></sup></span></p>
+</section>
+<section id="baclofen-pump" class="level2">
+<h2 class="anchored" data-anchor-id="baclofen-pump">Baclofen Pump (A)</h2>
+<p><a href=""><strong>Baclofen Pump</strong></a>: Pump implanted under the skin of abdomen, then a catheter is then threaded from the pump to spinal fluid in low back, bypassing BBB.</p>
+<p>SUR-1: The AAPM&amp;R Spasticity TEP recommends use of intrathecal baclofen pump therapy (ITB) as an effective treatment of spinal or cerebral origin spasticity in appropriately identified patients.</p>
+<hr>
+<p>Continuous delivery of baclofen, lower doses compared to oral administration.</p>
+<p>Need to trial oral baclofen prior Checking for side effects</p>
+<p>Contraindications: infection, insufficient body mass for pump bulk,</p>
+<hr>
+<ul>
+<li>For SEVERE spasticity, when oral meds fail</li>
+<li>Wait ≥1 year after brain/SCI before consideration.</li>
+<li>Global OR regional spasticity for CP, brain injury, stroke, SCI, MS.</li>
+<li>Negative effects on arousal/cognition</li>
+<li>Most meds will last 2-3 months before requiring refill</li>
+<li>Battery lasts 4-7 yrs -need another surgery to replace</li>
+</ul>
+</section>
+<section id="tizanidine" class="level2">
+<h2 class="anchored" data-anchor-id="tizanidine">Tizanidine</h2>
+<ul>
+<li>α-2 adrenergic agonist</li>
+<li>Causes decrease in presynaptic activity of excitatory interneurons in spinal cord</li>
+<li>Decreases stretch reflex activity/motor neuron excitability</li>
+</ul>
+<p>Used in Cerebral + Spinal disorders: MS, Stroke, ALS</p>
+<hr>
+<p>Sedation, dizziness, dry mouth common after → weakness is not a big problem Lasts 3-6 hours, max effects at 1-2 hours after administration Shown to have a more favorable tolerability profile, less reported mm weakness + less sedation compared to baclofen</p>
+</section>
+<section id="dantrolene" class="level2">
+<h2 class="anchored" data-anchor-id="dantrolene">Dantrolene</h2>
+<ul>
+<li>Acts outside the CNS → muscle fiber level Inhibits release of Ca<sup>2+</sup> from Endoplasmic Reticulum in muscle cells</li>
+<li>Ca<sup>2+</sup> normally binds onto troponin in actin filaments allowing actin-myosin cross bridging (so inhibiting this decreases contractility of muscles)</li>
+<li>Peak Effects: 1-3.5 hrs after ingestion</li>
+<li>Long lasting: 8-10 hours</li>
+</ul>
+<hr>
+<p>Side effects: weakness ( ie respiratory muscle weakness), sedation, GI sx, dizziness, fatigue Big warning for Serious hepatotoxicity Will need to liver eval prior and monitoring after Used for stroke, SCI, CP, MS, etc NOT in ALS- can progress mm weakness Less sedative than baclofen - more preserved cognitive function</p>
+</section>
+<section id="diazepam" class="level2">
+<h2 class="anchored" data-anchor-id="diazepam">Diazepam</h2>
+<ul>
+<li>GABA<sub>A</sub> agonist, acts on Brain + SC (Stroke, CP, TBI)</li>
+<li>Commonly short term only</li>
+<li>Onset of action: 15-60 min</li>
+<li>Duration of onset: 12+ hrs, very long lasting</li>
+</ul>
+<hr>
+<p>Side effects:</p>
+<ul>
+<li>Sedation</li>
+<li>Impaired memory/cognition</li>
+<li>Ataxia</li>
+<li>Fatigue</li>
+<li>Confusion</li>
+<li>Depression</li>
+<li>Respiratory depression</li>
+<li>Bradycardia</li>
+<li>Suicidality</li>
+<li>Syncope</li>
+<li>Hypotension</li>
+</ul>
+<hr>
+<section id="diazepam-takeaway" class="level3">
+<h3 class="anchored" data-anchor-id="diazepam-takeaway">Diazepam Takeaway</h3>
+<ul>
+<li>Schedule IV controlled substance w/ potential for abuse</li>
+<li>Abrupt cessation: seizures, hallucinations</li>
+<li>Elderly pts have dec’d renal fxn - not recommended d/t issues w diazepam accumulation/renal issues</li>
+</ul>
+</section>
+</section>
+<section id="gabapentin" class="level2">
+<h2 class="anchored" data-anchor-id="gabapentin">Gabapentin</h2>
+<ul>
+<li>Inhibits glutamate, creating inhibitory effect for motor neurons</li>
+<li>Usually MS/SCI populations</li>
+<li>Used when other first line drug tx do not work</li>
+<li>Few sedative effects</li>
+<li>Helpful to dec neuropathic pain as well</li>
+</ul>
+</section>
+<section id="cannabinoids" class="level2">
+<h2 class="anchored" data-anchor-id="cannabinoids">Cannabinoids/THC</h2>
+<p>Enhances GABA, reduces effects of Glu New area of research, mostly studied in MS Reduces excitatory neurotransmission → decreasing spasticity Can help tx pain associated w/ spasticity too Moderately effective in reducing spasticity scores, but almost as effective as other drug tx: baclofen, tizanidine (Jones et al, 2020)</p>
+</section>
+<section id="oral-meds-takeaways" class="level2">
+<h2 class="anchored" data-anchor-id="oral-meds-takeaways">Oral Meds Takeaways</h2>
+<div class="columns">
+<div class="column">
+<p>Yes: Pain, Interference with ADLs/PT</p>
+</div><div class="column">
+<p>No: Not for FOCAL spasticity d/t global effects of drugs If spasticity helps w/ walking/functional tasks don’t recommend Weigh other pros of spasticity: DVT prevention, dec risk of osteoporosis, protective marker if something is awry in body</p>
+</div>
+</div>
+<p>Big risk for adverse effects on cognition/sedation - be sure to educate patients about this when suggesting drugs</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>In many stroke pts, spasticity is local (1-2 muscle groups) which is easily targeted with Botox or peripheral nerve blocks NOT drugs (Bakheit, 2012). MS/CP/TBI may be more systemic</p>
+</div>
+</div>
+</section>
+</section>
+<section id="non-pharma-treatments-ng" class="level1">
+<h1>Non-pharma treatments (NG)</h1>
+<p>consideration of use of nonpharmacologic interventions from a range of treatment modalities, in conjunction with other therapeutic options to effect spasticity and facilitate the effects of pharmacologic and procedural interventions on spasticity and to improve function and decrease deleterious effects of contributing conditions.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Can not be graded due to limitations in evidence</p>
+</div>
+</div>
+<section id="nmes" class="level2">
+<h2 class="anchored" data-anchor-id="nmes">NMES</h2>
+<p>SR+ Meta-Analysis<span class="citation" data-cites="stein2015"><sup><a href="#ref-stein2015" role="doc-biblioref"><strong>stein2015?</strong></a></sup></span></p>
+<ul>
+<li>Decreases spasticity + increase ROM when compared to controls</li>
+<li>Most often <a href="../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Anterior compartment/tibialis_anterior.html">Tib Ant</a> or <a href="../../The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/gastrocnemius.html">Gastroc</a> + combined w gait training</li>
+<li>Both show improvements in tone/stiffness, however over Tib Ant= better improvements in gait/spasticity (Yang, 2018)</li>
+</ul>
+<p>Reciprocal inhibition: Short term - when in use up to 15 min after<span class="citation" data-cites="milosevic2019"><sup><a href="#ref-milosevic2019" role="doc-biblioref"><strong>milosevic2019?</strong></a></sup></span></p>
+<section id="nmes-actions" class="level3">
+<h3 class="anchored" data-anchor-id="nmes-actions">NMES Actions</h3>
+<p><span class="citation" data-cites="motta-oishi2013"><sup><a href="#ref-motta-oishi2013" role="doc-biblioref"><strong>motta-oishi2013?</strong></a></sup></span></p>
+<ul>
+<li>Agonist Estim-Recurrent inhibition or just muscle fatigue</li>
+<li>Antagonist Estim-Reciprocal inhibition</li>
+<li>Other mechanisms</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>NMES has the potential to induce neuroplasticity within spinal cord paths<span class="citation" data-cites="bergquist2011"><sup><a href="#ref-bergquist2011" role="doc-biblioref"><strong>bergquist2011?</strong></a></sup></span> Suppresses exaggerated excitability</p>
+</div>
+</div>
+</section>
+</section>
+<section id="resistance-training" class="level2">
+<h2 class="anchored" data-anchor-id="resistance-training">Resistance Training</h2>
+<p>Spasticity can LEAD to weakness Type II → Type I fibers (Fan et al, 2020) Due to Reduced voluntary motor unit recruitment Relative immobilization/Chronic disuse Causes plastic rearrangements in higher centers that further reduces ability to voluntarily recruit motor units → aggravating spasticity (Gracies et al, 2005) Strength training is inconclusive in decreasing spasticity but important to train to minimize atrophy/improve motor control (Brashear et al, 2016)</p>
+<section id="antagonist-strengthening" class="level3">
+<h3 class="anchored" data-anchor-id="antagonist-strengthening">Antagonist Strengthening</h3>
+<p>How? Reciprocal Inhibition: when one muscle contracts, the other stretches/relaxes Theory - no direct evidence for this in strength training</p>
+<hr>
+<p>How? Reciprocal Inhibition: when one muscle contracts, the other stretches/relaxes Strengthening the antagonist → inhibitory interneurons in SC → inhibits alpha motor neurons connecting to spastic muscle, allowing stretch Dec’d inhibition compared to controls, but inhibition path still occurs with spastic individuals (Morita, 2006) Antagonist contraction can influence cortical plasticity of agonist (Fang, 2014)</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Theory -I could not find any evidence for this in strength training, EMG studies show strength training does not influence this<span class="citation" data-cites="smania2010"><sup><a href="#ref-smania2010" role="doc-biblioref"><strong>smania2010?</strong></a></sup></span></p>
+</div>
+</div>
+</section>
+</section>
+<section id="weight-bearing" class="level2">
+<h2 class="anchored" data-anchor-id="weight-bearing">Weight Bearing</h2>
+<p><span class="citation" data-cites="Megia-Garcia2021"><sup><a href="#ref-Megia-Garcia2021" role="doc-biblioref"><strong>Megia-Garcia2021?</strong></a></sup></span></p>
+<p>WB provides proprioceptive input Activates joint mechanoreceptors, cutaneous receptors (detecting pressure/stretch vibration) Activates spinal interneurons → dec motor neuron excitability to soleus allowing higher reflex thresholds to allow for walking<span class="citation" data-cites="nakazawa2004"><sup><a href="#ref-nakazawa2004" role="doc-biblioref"><strong>nakazawa2004?</strong></a></sup></span></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Why the patellar reflex is not as intense in standing!</p>
+</div>
+</div>
+<hr>
+<p>Increases afferent input → reduces hyperactive stretch reflex Studies focus on BWTT, kneeling walking, etc show a decrease in MAS scores/Spasticity/Reflex<span class="citation" data-cites="peurala2005"><sup><a href="#ref-peurala2005" role="doc-biblioref"><strong>peurala2005?</strong></a></sup></span></p>
+<hr>
+<ul>
+<li>BWTT reduces the amplitude of soleus max H/M ratio in those with SCI, which is a reflection of reduced motor neuron excitability (less tone/spasticity)<span class="citation" data-cites="trimble2001"><sup><a href="#ref-trimble2001" role="doc-biblioref"><strong>trimble2001?</strong></a></sup></span></li>
+<li>H/M ratio is commonly used to eval balance between excitatory/inhibitory inputs to motor neurons<span class="citation" data-cites="trimble2001"><sup><a href="#ref-trimble2001" role="doc-biblioref"><strong>trimble2001?</strong></a></sup></span></li>
+<li>Spastic Pts: typically inc’d H/M ratio (more motor neuron excitabilty)<span class="citation" data-cites="trimble2001"><sup><a href="#ref-trimble2001" role="doc-biblioref"><strong>trimble2001?</strong></a></sup></span></li>
+</ul>
+<hr>
+<p>BWTT vs tilt table<span class="citation" data-cites="adams2011"><sup><a href="#ref-adams2011" role="doc-biblioref"><strong>adams2011?</strong></a></sup></span></p>
+<p>BWTT: decreased tone, flexor spasms and motor neuron excitability<span class="citation" data-cites="adams2011"><sup><a href="#ref-adams2011" role="doc-biblioref"><strong>adams2011?</strong></a></sup></span></p>
+<hr>
+<section id="wb-regressions" class="level3">
+<h3 class="anchored" data-anchor-id="wb-regressions">WB Regressions</h3>
+<div class="columns">
+<div class="column">
+<p><strong>Half kneeling</strong></p>
+<p>Can improve dissociation Oppo mvmts and positioning of 2 limbs (one in flexion with other in extension) Quadruped, tall kneeling, modified plantigrade (standing w hands on table), standing<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">6</a></sup></span></p>
+</div><div class="column">
+<p><strong>Quadruped</strong></p>
+<p>Particularly in those with extensor spasticity Can help induce flexion of hip/knees, providing prolonged stretch to muscle groups Incorporates reciprocal agonist - antagonist muscle recruitment and motor control Can help reduce spasticity through consistent reciprocal inhibition of hypertonic muscles<span class="citation" data-cites="fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">6</a></sup></span></p>
+</div>
+</div>
+</section>
+</section>
+<section id="whole-body-vibration" class="level2">
+<h2 class="anchored" data-anchor-id="whole-body-vibration">Whole Body Vibration</h2>
+<p><a href="?var:ref-whole-body-vibration.path"><strong>Whole Body Vibration</strong></a>: <strong>?var:ref-whole-body-vibration.definition</strong></p>
+<hr>
+<section id="theory" class="level3">
+<h3 class="anchored" data-anchor-id="theory">Theory</h3>
+<ul>
+<li>Proposed to activate Ia and II afferent fibers, increasing sensory input to CNS → Presynaptic inhibition</li>
+</ul>
+<hr>
+</section>
+<section id="studies" class="level3">
+<h3 class="anchored" data-anchor-id="studies">Studies</h3>
+<ul>
+<li>Mechanism of WBVT has not been fully proven</li>
+<li>REDUCES reflex activity by modulating spinal excitability, enhancing voluntary muscle activation<span class="citation" data-cites="krause2017"><sup><a href="#ref-krause2017" role="doc-biblioref"><strong>krause2017?</strong></a></sup></span></li>
+<li>Spasticity = muscle overreacts to small stretch loads, so by reducing reflex activity, patient can access voluntary muscle activation (supraspinally) better<span class="citation" data-cites="krause2017"><sup><a href="#ref-krause2017" role="doc-biblioref"><strong>krause2017?</strong></a></sup></span></li>
+</ul>
+<hr>
+</section>
+<section id="vibration-also-increases-excitation-of-brain" class="level3">
+<h3 class="anchored" data-anchor-id="vibration-also-increases-excitation-of-brain">Vibration Also Increases Excitation of Brain</h3>
+<p>Increases excitability of brain areas involved in movement (primary motor/pre-motor shown in fNIRS, EEG studies ) Promotes neuroplasticity of brain areas that are affected in those w/ spasticity<span class="citation" data-cites="miyara2020 lopez2017"><sup><a href="#ref-miyara2020" role="doc-biblioref"><strong>miyara2020?</strong></a>,<a href="#ref-lopez2017" role="doc-biblioref"><strong>lopez2017?</strong></a></sup></span></p>
+<hr>
+</section>
+<section id="benefits" class="level3">
+<h3 class="anchored" data-anchor-id="benefits">Benefits</h3>
+<ul>
+<li>↓ spasticity (Krause, 2017)<span class="citation" data-cites="krause2017"><sup><a href="#ref-krause2017" role="doc-biblioref"><strong>krause2017?</strong></a></sup></span></li>
+<li>↑ Strength (in stroke, CP and in elderly healthy adults: MVIC, CSA)<span class="citation" data-cites="machado2010 pulay2023 tihanyi2007"><sup><a href="#ref-machado2010" role="doc-biblioref"><strong>machado2010?</strong></a>,<a href="#ref-pulay2023" role="doc-biblioref"><strong>pulay2023?</strong></a>,<a href="#ref-tihanyi2007" role="doc-biblioref"><strong>tihanyi2007?</strong></a></sup></span></li>
+<li>↑ blood circulation<span class="citation" data-cites="dionello2017"><sup><a href="#ref-dionello2017" role="doc-biblioref"><strong>dionello2017?</strong></a></sup></span></li>
+<li>↑ ROM of knee joint<span class="citation" data-cites="krause2017"><sup><a href="#ref-krause2017" role="doc-biblioref"><strong>krause2017?</strong></a></sup></span></li>
+<li>Better functional outcomes: TUG, 10 MWT<span class="citation" data-cites="dionello2017"><sup><a href="#ref-dionello2017" role="doc-biblioref"><strong>dionello2017?</strong></a></sup></span></li>
+<li>Benefits proprioception (shown in a post ACL-R population<span class="citation" data-cites="moezy2008"><sup><a href="#ref-moezy2008" role="doc-biblioref"><strong>moezy2008?</strong></a></sup></span> via a joint repositioning test)</li>
+</ul>
+<hr>
+</section>
+<section id="vibration-parameters" class="level3">
+<h3 class="anchored" data-anchor-id="vibration-parameters">Vibration Parameters</h3>
+<p><span class="citation" data-cites="zhang2023"><sup><a href="#ref-zhang2023" role="doc-biblioref"><strong>zhang2023?</strong></a></sup></span></p>
+<p>WBVT for 10 min at &lt;20Hz frequency improves spasticity in UE + LE</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Lasts about 10 min! Capitalize!</p>
+</div>
+</div>
+</section>
+</section>
+<section id="casting" class="level2">
+<h2 class="anchored" data-anchor-id="casting">Casting</h2>
+<ul>
+<li>Maximal stretch → muscle fatigues then elongates</li>
+<li>Cast is changed every 2 weeks to new lengthened position</li>
+<li>After Botox, casting can help facilitate further spasticity reduction<span class="citation" data-cites="winstein2017"><sup><a href="#ref-winstein2017" role="doc-biblioref"><strong>winstein2017?</strong></a></sup></span> <span class="citation" data-cites="farag2020"><sup><a href="#ref-farag2020" role="doc-biblioref"><strong>farag2020?</strong></a></sup></span></li>
+</ul>
+</section>
+<section id="serial-casting" class="level2">
+<h2 class="anchored" data-anchor-id="serial-casting">Serial Casting</h2>
+<p><a href=""><strong>Serial Casting</strong></a>: Sequence of casts applied in progressively greater ROM over several weeks to inc ROM</p>
+<hr>
+<div class="columns">
+<div class="column">
+<p>Post Stroke<span class="citation" data-cites="winstein2016"><sup><a href="#ref-winstein2016" role="doc-biblioref"><strong>winstein2016?</strong></a></sup></span> <span class="citation" data-cites="aha"><sup><a href="#ref-aha" role="doc-biblioref"><strong>aha?</strong></a></sup></span></p>
+<ul>
+<li>Level C evidence for mild to moderate elbow/wrist contractures</li>
+</ul>
+</div><div class="column">
+<p>Pediatric Cerebral Palsy<span class="citation" data-cites="milne2020"><sup><a href="#ref-milne2020" role="doc-biblioref"><strong>milne2020?</strong></a></sup></span></p>
+<ul>
+<li>Dec’d MAS, inc’d DF ROM, improved gait</li>
+</ul>
+</div><div class="column">
+<p>TBI</p>
+<ul>
+<li>Grade B for improving PROM or preventing loss of ROM</li>
+</ul>
+</div>
+</div>
+<hr>
+<section id="cons" class="level3">
+<h3 class="anchored" data-anchor-id="cons">Cons</h3>
+<ul>
+<li>Atrophy</li>
+<li>Skin breakdown</li>
+<li>Pain</li>
+<li>Discomfort</li>
+<li>Affects ADLs/Gait</li>
+</ul>
+</section>
+</section>
+<section id="afos" class="level2">
+<h2 class="anchored" data-anchor-id="afos">AFOs</h2>
+<ul>
+<li>Prevents contracture<span class="citation" data-cites="weinstein2017"><sup><a href="#ref-weinstein2017" role="doc-biblioref"><strong>weinstein2017?</strong></a></sup></span></li>
+<li>Increases DF ROM</li>
+<li>Improved gait mechanics, speed</li>
+<li>Improved spasticity via stretch reflex and MAS<span class="citation" data-cites="chen2022"><sup><a href="#ref-chen2022" role="doc-biblioref"><strong>chen2022?</strong></a></sup></span></li>
+</ul>
+</section>
+<section id="night-splints" class="level2">
+<h2 class="anchored" data-anchor-id="night-splints">Night Splints</h2>
+<p><a href="?var:ref-night-splint.path"><strong>Night Splints</strong></a>:</p>
+<hr>
+<section id="wrists-night-splint" class="level3">
+<h3 class="anchored" data-anchor-id="wrists-night-splint">Wrists night splint</h3>
+<ul>
+<li>“Strong evidence wearing a splint all night has no effect in reducing spasticity/contracture”<span class="citation" data-cites="lannin2011"><sup><a href="#ref-lannin2011" role="doc-biblioref"><strong>lannin2011?</strong></a></sup></span></li>
+<li>AHA states it may prevent contractures but data is conflicting<span class="citation" data-cites="winstein2016"><sup><a href="#ref-winstein2016" role="doc-biblioref"><strong>winstein2016?</strong></a></sup></span></li>
+</ul>
+<hr>
+</section>
+<section id="ankle-night-splints" class="level3">
+<h3 class="anchored" data-anchor-id="ankle-night-splints">Ankle night splints</h3>
+<p>Wearing a foot splint 12+ hours a day did not affect joint mobility in adults post TBI (Sung et al, 2016)</p>
+<p>Combo + botox → best effects on spasticity Alone - very mixed/little evidence (Synnot et al, 2017)</p>
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Note: more evidence in CP/Pediatric populations although still inconclusive</p>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section id="aerobic-training" class="level2">
+<h2 class="anchored" data-anchor-id="aerobic-training">Aerobic Training</h2>
+<p><a href=""><strong>Aerobic Training</strong></a>:</p>
+<hr>
+<p>HIIT increases: BDNF, dopamine, neuroplasticity/retention/learning, attenuates neurodegeneration, helps mood, etc also….</p>
+<ul>
+<li>Changes cortical inhibition<span class="citation" data-cites="abraha2018"><sup><a href="#ref-abraha2018" role="doc-biblioref"><strong>abraha2018?</strong></a></sup></span></li>
+<li>Decreases motor neuron excitability<span class="citation" data-cites="bulbulian1986"><sup><a href="#ref-bulbulian1986" role="doc-biblioref"><strong>bulbulian1986?</strong></a></sup></span></li>
+<li>H/M ratio after low vs high intensity exercises in a healthy population</li>
+</ul>
+<hr>
+<p>Treadmill for 20 min:</p>
+<ul>
+<li>12.8% reduction in H/M ratio (w/ 40% Vo2)</li>
+<li>21.5% reduction in H/M ratio (w/ 75% Vo2)</li>
+<li>Decreases Spasticity Acutely in ppl w/ stroke (Sakamoto et al 2014)</li>
+<li>Picture: exercise: 1 arm cycling at 50% max workload for 10 min, control is rest. Measured spasticity in OPPOSITE arm.</li>
+<li>Decreases spasticity in rat model of SCI - through BDNF modulating excitability in spine<span class="citation" data-cites="beverungen2020"><sup><a href="#ref-beverungen2020" role="doc-biblioref"><strong>beverungen2020?</strong></a></sup></span></li>
+</ul>
+</section>
+<section id="stretching" class="level2">
+<h2 class="anchored" data-anchor-id="stretching">Stretching</h2>
+<p><a href=""><strong>Stretching</strong></a>:</p>
+<hr>
+<ul>
+<li>Not enough evidence for long term spasticity management</li>
+<li>Passive stretches may have SHORT term decreases in spasticity, NOT long term<span class="citation" data-cites="BovendEerdt2008"><sup><a href="#ref-BovendEerdt2008" role="doc-biblioref"><strong>BovendEerdt2008?</strong></a></sup></span></li>
+<li>Any effect on motor neuron excitability?</li>
+<li>Mixed results<span class="citation" data-cites="BovendEerdt2008"><sup><a href="#ref-BovendEerdt2008" role="doc-biblioref"><strong>BovendEerdt2008?</strong></a></sup></span></li>
+</ul>
+<hr>
+<p>SR Figure: Non-statistically significant results in favor of the stretching group were observed for MAS, but ROM/functional tasks (ie gait) showed no difference<span class="citation" data-cites="gomez2021"><sup><a href="#ref-gomez2021" role="doc-biblioref"><strong>gomez2021?</strong></a></sup></span></p>
+<p>Could help prevent contractures/dec pain, although no conclusive evidence</p>
+</section>
+<section id="stretch-contract" class="level2">
+<h2 class="anchored" data-anchor-id="stretch-contract">Stretch-Contract</h2>
+<p><a href=""><strong>Stretch-contract</strong></a>;</p>
+<hr>
+<section id="limitations" class="level3">
+<h3 class="anchored" data-anchor-id="limitations">Limitations</h3>
+<ul>
+<li>Only studies in healthy adults<span class="citation" data-cites="fukara2022 fellLifespanNeurorehabilitationPatientcentered2019"><sup><a href="#ref-fellLifespanNeurorehabilitationPatientcentered2019" role="doc-biblioref">6</a>,<a href="#ref-fukara2022" role="doc-biblioref"><strong>fukara2022?</strong></a></sup></span></li>
+<li>Likely short term effects (ROM)</li>
+<li>Lengthening a spastic muscle followed by contraciton of antagonist (Induces Reciprocal Inhibition)</li>
+<li>Lengthen spastic mm + contraction of spastic mm (induces Recurrent Inhibition)</li>
+</ul>
+</section>
+</section>
+<section id="cryotherapy" class="level2">
+<h2 class="anchored" data-anchor-id="cryotherapy">Cryotherapy</h2>
+<ul>
+<li>Decreases nerve conduction velocity, dec H/M ratio<span class="citation" data-cites="abdelhakiem2024"><sup><a href="#ref-abdelhakiem2024" role="doc-biblioref"><strong>abdelhakiem2024?</strong></a></sup></span></li>
+<li>Multiple studies show dec in spasticity post icing<span class="citation" data-cites="abdelhakiem2024 garcia2019 alcantara2019"><sup><a href="#ref-abdelhakiem2024" role="doc-biblioref"><strong>abdelhakiem2024?</strong></a>,<a href="#ref-garcia2019" role="doc-biblioref"><strong>garcia2019?</strong></a>,<a href="#ref-alcantara2019" role="doc-biblioref"><strong>alcantara2019?</strong></a></sup></span></li>
+<li>20 minutes of icing → decreased PF spasticity for up to 30 min post icing</li>
+<li>Did not affect proprioception<span class="citation" data-cites="garcia2019"><sup><a href="#ref-garcia2019" role="doc-biblioref"><strong>garcia2019?</strong></a></sup></span></li>
+<li>No effects on muscle torque capacity<span class="citation" data-cites="alcantara2019"><sup><a href="#ref-alcantara2019" role="doc-biblioref"><strong>alcantara2019?</strong></a></sup></span></li>
+</ul>
+</section>
+<section id="thermotherapy" class="level2">
+<h2 class="anchored" data-anchor-id="thermotherapy">Thermotherapy</h2>
+<ul>
+<li>Can dampen muscle excitability</li>
+<li>Dosage: 10min, 106°F warm foot bath</li>
+<li>Effects: Decreased muscle tone for ≤30min<span class="citation" data-cites="matsumoto2006 matsumoto2010 matsumoto2014"><sup><a href="#ref-matsumoto2006" role="doc-biblioref"><strong>matsumoto2006?</strong></a>,<a href="#ref-matsumoto2010" role="doc-biblioref"><strong>matsumoto2010?</strong></a>,<a href="#ref-matsumoto2014" role="doc-biblioref"><strong>matsumoto2014?</strong></a></sup></span>.</li>
+</ul>
+<p>Aquatic therapy in warm water can also decrease spasticity<span class="citation" data-cites="kesikatas2004"><sup><a href="#ref-kesikatas2004" role="doc-biblioref"><strong>kesikatas2004?</strong></a></sup></span></p>
+</section>
+<section id="kinesiotape" class="level2 smaller">
+<h2 class="smaller anchored" data-anchor-id="kinesiotape">Kinesiotape</h2>
+<div class="columns">
+<div class="column">
+<p><strong>Wang, 2019 SR</strong><span class="citation" data-cites="wang2019"><sup><a href="#ref-wang2019" role="doc-biblioref"><strong>wang2019?</strong></a></sup></span></p>
+<p>KT improved patients’ lower extremity spasticity, motor function, balance, ambulation, gait parameters, and daily activities, with few adverse effects.</p>
+</div><div class="column">
+<p><strong>Puce et al 2020</strong><span class="citation" data-cites="puce2020"><sup><a href="#ref-puce2020" role="doc-biblioref"><strong>puce2020?</strong></a></sup></span></p>
+<ul>
+<li>Para Athletes w spasticity</li>
+<li>KT decreased the amplitude of stretch reflex (<em>p</em> &lt; .001) compared to placebo</li>
+<li>Strength + MAS did not change after KT, but numeric rating scale scores for spasticity significantly decreased (<em>p</em> = .001).</li>
+<li>Swimming performance was significantly improved after KT treatment as compared with baseline (<em>p</em> &lt; .01)</li>
+</ul>
+</div>
+</div>
+<hr>
+<p>Inhibitory kinesiotaping<span class="citation" data-cites="mehraein2021"><sup><a href="#ref-mehraein2021" role="doc-biblioref"><strong>mehraein2021?</strong></a></sup></span> Application of inhibitory KT was found to be able to reduce the Hmax/Mmax ratio in patients with stroke. No sig change in MAS</p>
+<p>Limited number of studies, hypothesized d/t recurrent inhibition of hypertonic mm or proprioceptive effects</p>
+</section>
+<section id="deep-pressure-to-tendon" class="level2">
+<h2 class="anchored" data-anchor-id="deep-pressure-to-tendon">Deep Pressure to Tendon</h2>
+<p>Deep pressure to tendon Compressive pressure over longitudinal axis of tendon of a hypertonic muscle to activate GTOs GTOs could help induce elongation to muscle as it feels itself being stretched, thus reducing tone.<span class="citation" data-cites="cite"><sup><a href="#ref-cite" role="doc-biblioref"><strong>cite?</strong></a></sup></span></p>
+</section>
+<section id="joint-traction" class="level2">
+<h2 class="anchored" data-anchor-id="joint-traction">Joint Traction</h2>
+<p>Joint Traction May increase joint awareness w/ inc’d activation of joint receptors<span class="citation" data-cites="cite"><sup><a href="#ref-cite" role="doc-biblioref"><strong>cite?</strong></a></sup></span></p>
+</section>
+<section id="biofeedback" class="level2">
+<h2 class="anchored" data-anchor-id="biofeedback">Biofeedback</h2>
+<p>Children w/ Spastic CP, 10 min a day + visual/auditory signals while pt performed contraction of tib ant and relaxation of tri surae. Significant dec in spasticity (MAS) for up to 3 months<span class="citation" data-cites="dursan2004"><sup><a href="#ref-dursan2004" role="doc-biblioref"><strong>dursan2004?</strong></a></sup></span></p>
+</section>
+</section>
+<section id="pd-rigidity-treatments" class="level1">
+<h1>PD Rigidity Treatments</h1>
+<hr>
+<p>Stretches</p>
+<ul>
+<li>Low quality evidence to support</li>
+<li>Many studies show slight dec in rigidity, not to significant levels</li>
+</ul>
+<hr>
+<p>Aerobic activity</p>
+<ul>
+<li>High quality evidence, especially forced exercise<span class="citation" data-cites="cite"><sup><a href="#ref-cite" role="doc-biblioref"><strong>cite?</strong></a></sup></span></li>
+<li>Improved UPDRS III scores<span class="citation" data-cites="cite"><sup><a href="#ref-cite" role="doc-biblioref"><strong>cite?</strong></a></sup></span></li>
+<li>Specifically rigidity portion<span class="citation" data-cites="cite"><sup><a href="#ref-cite" role="doc-biblioref"><strong>cite?</strong></a></sup></span></li>
+</ul>
+<hr>
+<p>WBVT - Rigidity scores improve in RCTs<span class="citation" data-cites="cite"><sup><a href="#ref-cite" role="doc-biblioref"><strong>cite?</strong></a></sup></span> - 6Hz , amp: 3mm<span class="citation" data-cites="cite"><sup><a href="#ref-cite" role="doc-biblioref"><strong>cite?</strong></a></sup></span></p>
+<p>Botox</p>
+<ul>
+<li>Can dec rigidity scores based on RCTs<span class="citation" data-cites="cite"><sup><a href="#ref-cite" role="doc-biblioref"><strong>cite?</strong></a></sup></span></li>
+</ul>
+<p>Pharma</p>
+<ul>
+<li>Big effects on rigidity, high quality evidence<span class="citation" data-cites="cite"><sup><a href="#ref-cite" role="doc-biblioref"><strong>cite?</strong></a></sup></span></li>
+</ul>
+</section>
+<section id="deep-brain-stimulation" class="level1">
+<h1>Deep Brain Stimulation</h1>
+<ul>
+<li>What? → Surgical treatment using electrical stimulation of brain areas</li>
+<li>Who? → those who have intense symptoms during OFF periods w/ their medications, Used for dystonia, rigidity, tremor</li>
+<li>NOT for those with imbalance issues, memory problems, older<span class="citation" data-cites="hariz2022"><sup><a href="#ref-hariz2022" role="doc-biblioref"><strong>hariz2022?</strong></a></sup></span></li>
+<li>Expect → lower med dosages, shorter OFF periods, reduced rigidity<span class="citation" data-cites="hariz2022 krack2019 mahlkencht2022"><sup><a href="#ref-hariz2022" role="doc-biblioref"><strong>hariz2022?</strong></a>,<a href="#ref-krack2019" role="doc-biblioref"><strong>krack2019?</strong></a>,<a href="#ref-mahlkencht2022" role="doc-biblioref"><strong>mahlkencht2022?</strong></a></sup></span></li>
+</ul>
+<hr>
+<table border="1">
+<thead>
+<tr>
+<th>
+DBS site
+</th>
+<th>
+Effect of therapy
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+Thalamus (Vim)
+</td>
+<td>
+Reduces tremor but not the other symptoms of PD
+</td>
+</tr>
+<tr>
+<td>
+Globus pallidus (GPi)
+</td>
+<td>
+Reduces tremor, rigidity, bradykinesia, gait problems, dyskinesia
+</td>
+</tr>
+<tr>
+<td>
+Subthalamic nucleus (STN)
+</td>
+<td>
+Reduces tremor, rigidity, bradykinesia, gait problems, dyskinesia
+</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="future-interventions" class="level1">
+<h1>Future Interventions</h1>
+<div class="incremental">
+<ul class="incremental">
+<li>Transcutaneous Spinal Cord Stimulation<span class="citation" data-cites="hofstoetterTranscutaneousSpinalCord2020"><sup><a href="#ref-hofstoetterTranscutaneousSpinalCord2020" role="doc-biblioref">7</a></sup></span></li>
+<li>Epidural Electrical Stimulation<span class="citation" data-cites="romeniHighfrequencyEpiduralElectrical2025"><sup><a href="#ref-romeniHighfrequencyEpiduralElectrical2025" role="doc-biblioref">8</a></sup></span></li>
+<li>Transcranial direct current stimulation (tDCS)<span class="citation" data-cites="raghavanSpasticityMuscleStiffness2022"><sup><a href="#ref-raghavanSpasticityMuscleStiffness2022" role="doc-biblioref">9</a></sup></span></li>
+<li>Repetitive Transcranial magnetic stimulation</li>
+<li>And so much more!</li>
+</ul>
+</div>
+</section>
+<section id="conclusion" class="level1">
+<h1>Conclusion</h1>
+<ul>
+<li>Experiment</li>
+<li>Reassess</li>
+</ul>
+<section id="reassess" class="level2">
+<h2 class="anchored" data-anchor-id="reassess">Reassess</h2>
+<p>My recommendation for treatment of Spasticity/Hypertonia: Test, retest!</p>
+<p>With <a href="../../The Archive/Examination/Tests and Measures/Muscle tone/modified_tardieu_scale_MTS.html">Tardieu</a> (Spasticity) or <a href="../../The Archive/Examination/Tests and Measures/Muscle tone/modified_ashworth_scale_MAS.html">MAS</a> (Tone)</p>
+<p>Tardieu tests at different velocities - spasticity is velocity dependent so if you use MAS, you may not pick up on spasticity</p>
+</section>
+</section>
+<section id="summary-1" class="level1">
+<h1>Summary</h1>
+<p>Most Common Types of Hypertonia: Rigidity/Spasticity</p>
+<ul>
+<li>Stroke/SCI etc → Spasticity →d/t loss of inhibition from CST/RST/ overexcitation of motor neurons</li>
+<li>PD → Rigidity → BG degeneration</li>
+<li>Many PT treatment options for reductions in spasticity/rigidity → important to test- retest with MAS/Tardieu scales!</li>
+</ul>
+</section>
+<section id="post-stroke-spasticity" class="level1">
+<h1>Post-Stroke Spasticity</h1>
+<p><a href=""><strong>Post-Stroke Spasticity</strong></a>:</p>
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../The Archive/Images/chenPathophysiologyManagementStrategies2025/fig1 The anatomy of descending motor conduction pathways.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="Figure adapted from Chen et al., Pathophysiology and Management Strategies of Post-Stroke Spasticity, Pathophysiology, 2025, distributed under the terms of the Creative Commons Attribution License (CC BY 4.0)"><img src="../../The Archive/Images/chenPathophysiologyManagementStrategies2025/fig1 The anatomy of descending motor conduction pathways.jpeg" class="img-fluid figure-img" alt="Figure adapted from Chen et al., Pathophysiology and Management Strategies of Post-Stroke Spasticity, Pathophysiology, 2025, distributed under the terms of the Creative Commons Attribution License (CC BY 4.0)"></a></p>
+<figcaption>Figure adapted from Chen et al., <em>Pathophysiology and Management Strategies of Post-Stroke Spasticity</em>, <em>Pathophysiology</em>, 2025, distributed under the terms of the Creative Commons Attribution License (CC BY 4.0)</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../The Archive/Images/chenPathophysiologyManagementStrategies2025/fig2 Flowchart of pathophysiological mechanisms underlying post-stroke spasticity.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="Figure adapted from Chen et al., Pathophysiology and Management Strategies of Post-Stroke Spasticity, Pathophysiology, 2025, distributed under the terms of the Creative Commons Attribution License (CC BY 4.0)"><img src="../../The Archive/Images/chenPathophysiologyManagementStrategies2025/fig2 Flowchart of pathophysiological mechanisms underlying post-stroke spasticity.jpeg" class="img-fluid figure-img" alt="Figure adapted from Chen et al., Pathophysiology and Management Strategies of Post-Stroke Spasticity, Pathophysiology, 2025, distributed under the terms of the Creative Commons Attribution License (CC BY 4.0)"></a></p>
+<figcaption>Figure adapted from Chen et al., <em>Pathophysiology and Management Strategies of Post-Stroke Spasticity</em>, <em>Pathophysiology</em>, 2025, distributed under the terms of the Creative Commons Attribution License (CC BY 4.0)</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../The Archive/Images/chenPathophysiologyManagementStrategies2025/fig3 Pathophysiology of post-stroke spasticity.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="Figure adapted from Chen et al., Pathophysiology and Management Strategies of Post-Stroke Spasticity, Pathophysiology, 2025, distributed under the terms of the Creative Commons Attribution License (CC BY 4.0)"><img src="../../The Archive/Images/chenPathophysiologyManagementStrategies2025/fig3 Pathophysiology of post-stroke spasticity.jpeg" class="img-fluid figure-img" alt="Figure adapted from Chen et al., Pathophysiology and Management Strategies of Post-Stroke Spasticity, Pathophysiology, 2025, distributed under the terms of the Creative Commons Attribution License (CC BY 4.0)"></a></p>
+<figcaption>Figure adapted from Chen et al., <em>Pathophysiology and Management Strategies of Post-Stroke Spasticity</em>, <em>Pathophysiology</em>, 2025, distributed under the terms of the Creative Commons Attribution License (CC BY 4.0)</figcaption>
+</figure>
+</div>
+<hr>
+<table class="basic-table">
+<caption>
+Focal and multi-focal treatment of post-stroke spasticity
+</caption>
+<thead>
+<tr>
+<th>
+Spastic muscles
+</th>
+<th>
+Effect on function
+</th>
+<th>
+Best treatment option
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+Shoulder adductors
+</td>
+<td>
+Difficult access to axilla for cleaning; difficult to don upper body garments
+</td>
+<td>
+BoNT into pectoralis major ± subscapularis
+</td>
+</tr>
+<tr>
+<td>
+Elbow flexors
+</td>
+<td>
+Difficult to reach objects; difficult to don upper body garments
+</td>
+<td>
+BoNT into biceps brachii and brachioradialis
+</td>
+</tr>
+<tr>
+<td>
+Wrist flexors
+</td>
+<td>
+Difficult to apply hand splint
+</td>
+<td>
+BoNT into flexor carpi ulnaris and flexor carpi radialis
+</td>
+</tr>
+<tr>
+<td>
+Finger flexors
+</td>
+<td>
+Difficult access to palm of hand for cleaning; difficult to access finger nails for cutting; difficult to apply hand splint
+</td>
+<td>
+BoNT into flexor digitorum sublimis and flexor digitorum profundus
+</td>
+</tr>
+<tr>
+<td>
+Hip adductors
+</td>
+<td>
+Difficult access to perineal area for cleaning, catheterization, etc.
+</td>
+<td>
+Obturator nerve block
+</td>
+</tr>
+<tr>
+<td>
+Hamstrings
+</td>
+<td>
+Knee flexion interfering with gait
+</td>
+<td>
+BoNT into medial and lateral hamstrings
+</td>
+</tr>
+<tr>
+<td>
+Ankle plantar flexors/invertors
+</td>
+<td>
+Equinus or equinovarus foot deformity causing tripping and falls
+</td>
+<td>
+BoNT into gastrocnemius ± tibialis posterior
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<div id="tbl-oral-muscle-relaxants" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-oral-muscle-relaxants-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Effective daily dose range, maximum dose and adverse effects of the main oral muscle relaxants
+</figcaption>
+<div aria-describedby="tbl-oral-muscle-relaxants-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="basic-table">
+<thead>
+<tr>
+<th>
+Drug
+</th>
+<th>
+Effective dose range; maximum daily dose
+</th>
+<th>
+Most frequently reported adverse effects
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+Baclofen
+</td>
+<td>
+15–60 mg; maximum 100 mg
+</td>
+<td>
+Confusion, hallucinations, seizures, fatigue, gastrointestinal symptoms
+</td>
+</tr>
+<tr>
+<td>
+Tizanidine
+</td>
+<td>
+6–24 mg; maximum 36 mg
+</td>
+<td>
+Hypotension, bradycardia, hallucinations, confusion, fatigue
+</td>
+</tr>
+<tr>
+<td>
+Dantrolene
+</td>
+<td>
+75–150 mg; maximum 400 mg
+</td>
+<td>
+Liver dysfunction, dizziness, generalized weakness, gastrointestinal symptoms
+</td>
+</tr>
+<tr>
+<td>
+Diazepam
+</td>
+<td>
+15–60 mg; maximum 60 mg
+</td>
+<td>
+Sedation, amnesia, mental confusion, depression, dependence
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+</section>
+<section id="references" class="level1">
+<h1>References</h1>
+<div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-shefnerRecurrentInhibitionIncreased1992" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Shefner JM, Berman SA, Sarkarati M, Young RR. Recurrent inhibition is increased in patients with spinal cord injury. <em>Neurology</em>. 1992;42(11):2162-2168. doi:<a href="https://doi.org/10.1212/wnl.42.11.2162">10.1212/wnl.42.11.2162</a></div>
+</div>
+<div id="ref-wrightAxialHypertonicityParkinsons2007" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Wright WG, Gurfinkel VS, Nutt J, Horak FB, Cordo PJ. Axial hypertonicity in <span>Parkinson</span>’s disease: Direct measurements of trunk and hip torque. <em>Experimental Neurology</em>. 2007;208(1):38-46. doi:<a href="https://doi.org/10.1016/j.expneurol.2007.07.002">10.1016/j.expneurol.2007.07.002</a></div>
+</div>
+<div id="ref-mearaRelationshipElectromyographicActivity1992" class="csl-entry" role="listitem">
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Meara RJ, Cody FW. Relationship between electromyographic activity and clinically assessed rigidity studied at the wrist joint in <span>Parkinson</span>’s disease. <em>Brain: A Journal of Neurology</em>. 1992;115 ( Pt 4):1167-1180. doi:<a href="https://doi.org/10.1093/brain/115.4.1167">10.1093/brain/115.4.1167</a></div>
+</div>
+<div id="ref-howardSkeletalMuscleCerebral2021" class="csl-entry" role="listitem">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Howard JJ, Herzog W. Skeletal <span>Muscle</span> in <span>Cerebral Palsy</span>: <span>From Belly</span> to <span>Myofibril</span>. <em>Frontiers in Neurology</em>. 2021;12:620852. doi:<a href="https://doi.org/10.3389/fneur.2021.620852">10.3389/fneur.2021.620852</a></div>
+</div>
+<div id="ref-matakMechanismsBotulinumToxin2019" class="csl-entry" role="listitem">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Matak I, Bölcskei K, Bach-Rojecky L, Helyes Z. Mechanisms of <span>Botulinum Toxin Type A Action</span> on <span>Pain</span>. <em>Toxins</em>. 2019;11(8):459. doi:<a href="https://doi.org/10.3390/toxins11080459">10.3390/toxins11080459</a></div>
+</div>
+<div id="ref-fellLifespanNeurorehabilitationPatientcentered2019" class="csl-entry" role="listitem">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Fell DW, Lunnen KY, Rauk RP. <em>Lifespan Neurorehabilitation: A Patient-Centered Approach from Examination to Intervention and Outcomes</em>. F.A. Davis Company; 2019.</div>
+</div>
+<div id="ref-hofstoetterTranscutaneousSpinalCord2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">7. </div><div class="csl-right-inline">Hofstoetter US, Freundl B, Danner SM, et al. Transcutaneous <span>Spinal Cord Stimulation Induces Temporary Attenuation</span> of <span>Spasticity</span> in <span>Individuals</span> with <span>Spinal Cord Injury</span>. <em>Journal of Neurotrauma</em>. 2020;37(3):481-493. doi:<a href="https://doi.org/10.1089/neu.2019.6588">10.1089/neu.2019.6588</a></div>
+</div>
+<div id="ref-romeniHighfrequencyEpiduralElectrical2025" class="csl-entry" role="listitem">
+<div class="csl-left-margin">8. </div><div class="csl-right-inline">Romeni S, Losanno E, Emedoli D, et al. High-frequency epidural electrical stimulation reduces spasticity and facilitates walking recovery in patients with spinal cord injury. <em>Science Translational Medicine</em>. 2025;17(780):eadp9607. doi:<a href="https://doi.org/10.1126/scitranslmed.adp9607">10.1126/scitranslmed.adp9607</a></div>
+</div>
+<div id="ref-raghavanSpasticityMuscleStiffness2022" class="csl-entry" role="listitem">
+<div class="csl-left-margin">9. </div><div class="csl-right-inline">Raghavan P. <em>Spasticity and <span>Muscle Stiffness</span>: <span>Restoring Form</span> and <span>Function</span></em>. 1st ed. Springer International Publishing AG; 2022.</div>
+</div>
+</div>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
+<div class="">Yomogida N, Kerstein C. Tone Management. <a href="https://yomokerst.com/Presentations/Neuro/presentation_tone_management_page.html">https://yomokerst.com/Presentations/Neuro/presentation_tone_management_page.html</a></div>
+</div></div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/yomokerst\.com");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
+
+
+
+
+</body></html>

@@ -20,7 +20,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "a64dd9ee"
+      "id": "5abdc98b"
     },
     {
       "cell_type": "code",
@@ -60,7 +60,7 @@
         "    else:\n",
         "        print(\"Script file does not exist. Please check the path.\")"
       ],
-      "id": "dd5f24d7",
+      "id": "ed21dd7d",
       "execution_count": null,
       "outputs": []
     },
@@ -90,7 +90,7 @@
         "- An iliopsoas abscess can cause fever\n",
         "- Tested using Iliopsoas length test"
       ],
-      "id": "b369acc2"
+      "id": "ac1faabc"
     }
   ],
   "metadata": {

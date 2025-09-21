@@ -1,0 +1,39 @@
+---
+title: Beighton Scale
+subtitle: Global Laxity
+---
+
+
+
+<table class="basic-table">
+  <tr>
+    <th>Movement criteria (1 point if present)</th>
+    <th>Left</th>
+    <th>Right</th>
+  </tr>
+  <tr>
+    <td>Fifth finger metacarpophalangeal joint extension greater than 90°</td>
+    <td>0 or 1</td>
+    <td>0 or 1</td>
+  </tr>
+  <tr>
+    <td>Ability to place thumb to forearm</td>
+    <td>0 or 1</td>
+    <td>0 or 1</td>
+  </tr>
+  <tr>
+    <td>Presence of knee hyperextension greater than 10°</td>
+    <td>0 or 1</td>
+    <td>0 or 1</td>
+  </tr>
+  <tr>
+    <td>Presence of elbow hyperextension greater than 10°</td>
+    <td>0 or 1</td>
+    <td>0 or 1</td>
+  </tr>
+  <tr>
+    <td>Ability to touch palms to floor with knees straight</td>
+    <td>0 or 1</td>
+    <td>0 or 1</td>
+  </tr>
+</table>

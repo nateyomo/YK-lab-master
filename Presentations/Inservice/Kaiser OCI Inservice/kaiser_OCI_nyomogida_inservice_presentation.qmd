@@ -15,12 +15,11 @@ author:
     - DPT
 
 format:
-    revealjs: 
-        logo: "/images/square 2 lines mid.svg"
+    revealjs:
         slide-number: true
         preview-links: auto
         css: styles.css
-        footer: <https://nateyomo.github.io/Yomogida-Kerstein-Lab/>
+        footer: '<a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/" target="_blank" style="position: fixed; bottom: -7px; left: 50%; transform: translateX(-50%);"><img src="/branding/Yomokerst/yomokerst heavy condensed black.png" alt="Logo" style="height: 40px;"></a>'
 ---
 
 

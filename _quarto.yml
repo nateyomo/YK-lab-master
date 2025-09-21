@@ -59,7 +59,7 @@ website:
         text: "R&D"
       - href: journal_club_index.qmd
         text: Journal Club
-      - href: services.qmd
+      - href: "/Care Division/care_division.qmd"
         text: "Physical Therapy"
       - about.qmd
       - href: contact.qmd

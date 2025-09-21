@@ -1155,13 +1155,6 @@ else:
 
 ## Short Muscles
 
-| Muscle  | Origin | Insertion | Nerve | Action |
-|------|--------|-------|----------|--------|
-| [Lumbricals (Hand)]({{< var ref-lumbricals-hand.path >}}) | {{< var ref-lumbricals-hand.origin >}} | {{< var ref-lumbricals-hand.insertion >}} | {{< var ref-lumbricals-hand.nerve >}} | {{< var ref-lumbricals-hand.action >}} |
-| [Dorsal Interossei]({{< var ref-dorsal-interossei-hand.path >}}) | {{< var ref-dorsal-interossei-hand.origin >}} | {{< var ref-dorsal-interossei-hand.insertion >}} | {{< var ref-dorsal-interossei-hand.nerve >}} | {{< var ref-dorsal-interossei-hand.action >}} |
-| [Palmar Interossei (Hand)]({{< var ref-palmar-interossei-hand.path >}}) | {{< var ref-palmar-interossei-hand.origin >}} | {{< var ref-palmar-interossei-hand.insertion >}} | {{< var ref-palmar-interossei-hand.nerve >}} | {{< var ref-palmar-interossei-hand.action >}} |
-: {.striped .hover}
-
 ```{python tbl-short-muscles-hand-oian}
 #| label: tbl-short-muscles-hand-oian
 #| warning: false

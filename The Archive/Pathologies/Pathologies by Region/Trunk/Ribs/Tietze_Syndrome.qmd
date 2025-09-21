@@ -1,0 +1,8 @@
+---
+title: Tietze Syndrome
+---
+
+
+# DDX
+
+- [Costochondritis]({{< var ref-costochondritis.path >}})

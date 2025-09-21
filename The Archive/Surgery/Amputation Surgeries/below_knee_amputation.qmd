@@ -1,0 +1,38 @@
+---
+title: Below Knee Amputation
+---
+
+
+
+
+
+# PT Eval
+
+<ul>
+    <li>Phantom pain</li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+
+Strength Testing
+
+
+Functional testing
+
+<ul>
+    <li>Bed mobility</li>
+    <li>STS</li>
+        <li>5xSTS</li>
+    <li>Gait</li>
+        <li>TUG</li>
+        <li>6MWT</li>
+    <li></li>
+    <li></li>
+</ul>

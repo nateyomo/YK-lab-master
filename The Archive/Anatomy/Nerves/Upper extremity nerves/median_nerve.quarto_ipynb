@@ -29,7 +29,7 @@
         "- [Palmaris Longus]({{< var ref-palmaris-longus.path >}})\n",
         "- [Flexor Digitorum Superficialis]({{< var ref-flexor-digitorum-superficialis.path >}})\n"
       ],
-      "id": "d8543a8c"
+      "id": "285ab074"
     },
     {
       "cell_type": "code",
@@ -271,7 +271,7 @@
         "\n",
         "- [Brachial plexus axillary release]({{< var ref-brachial-plexus.release >}})"
       ],
-      "id": "a38e5273"
+      "id": "e961a272"
     }
   ],
   "metadata": {

@@ -1,0 +1,21 @@
+---
+title: Gray Institute's 10 Observational Essentials
+---
+
+
+
+
+<ol>
+    <li>Action</li>
+    <li>Environment</li>
+    <li>Position</li>
+    <li>Drive</li>
+    <li>Direction</li>
+    <li>Height</li>
+    <li>Distance</li>
+    <li>Load</li>
+    <li>Rate</li>
+    <li>Duration</li>
+</ol>
+
+

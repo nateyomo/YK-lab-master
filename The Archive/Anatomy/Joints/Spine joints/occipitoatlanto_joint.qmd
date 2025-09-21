@@ -46,3 +46,10 @@ Flexion and extension of the OAJ occur in the sagittal plane.
 # Dysfunction
 
 [Superficial Back Line (SBL)]({{< var ref-superficial-back-line.path >}}) is associated with postural dysfunctions, including *anterior shift* or *rotation* of the occiput (C0) on C1 @myersAnatomyTrains2021.
+
+
+# HVLAT
+
+- Occipitoatlantal Joint (CO-1) HVLAT (chin hold) p92 [@dunningSMT1HighVelocityLowAmplitude2018]
+- Occipitoatlantal Joint (CO-1) HVLAT (cradle hold) p87 [@dunningSMT2Cervicothoracic2016]
+- Occipitoatlantal Joint (CO-1) HVLAT (chin hold) p88 [@dunningSMT2Cervicothoracic2016]

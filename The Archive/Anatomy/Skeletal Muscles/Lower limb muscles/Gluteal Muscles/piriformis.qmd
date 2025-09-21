@@ -141,6 +141,13 @@ The [Sciatic n.]({{< var ref-sciatic-nerve.path >}}) runs superficial to all of 
 The sciatic nerve can either runs deep to the piriformis and can exit inferiorly, through the piriformis muscle belly, or superior to the piriformis.
 As a result, overactivation of the piriformis can lead to neurogenic pain and symptoms and is termed [Piriformis syndrome]({{< var ref-piriformis-syndrome.path >}})
 
+- Active piriformis test
+- Seated piriformis test
+
+# Evaluation
+
+- Active piriformis test
+- Seated piriformis test
 
 # Active Release Technique (ART)
 
@@ -150,3 +157,9 @@ Active release technique for piriformis by Dr. Nick Perkins @NickPerkinsClinical
 - STM to piriformis
 - move from hip IR/ABD/Ext into hip ER/Adduction/Flexion
 
+
+# Exercises
+
+- FAddER Contract-Relax
+    - Therapist assisted
+    - Self-Stretch 

@@ -1,0 +1,12 @@
+---
+title: T2-T3 Segment
+---
+
+
+# HVLAT
+
+
+- Cervicothoracic (C6-TI) Junction HVLAT with Rot and/or Lat Flexion (Supine) p92 [@dunningSMT2Cervicothoracic2016]
+- Upper Thoracic (TI-3) AP Extension High Dog' HVLAT in Supine p94 [@dunningSMT2Cervicothoracic2016]
+- Cervicothoracic Junction (C7-T3) Lateral Flexion HVLAT in Prone p95 [@dunningSMT1HighVelocityLowAmplitude2018]
+- Upper Thoracic (TI-3) AP Extension High Dog' HVLAT in Supine p93 [@dunningSMT1HighVelocityLowAmplitude2018]

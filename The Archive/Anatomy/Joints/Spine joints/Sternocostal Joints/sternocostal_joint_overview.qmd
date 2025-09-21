@@ -10,3 +10,11 @@ Sternocostal joints refer to the 7 joints created by ribs 1-7 articulating with 
 Chapter 11 ventilation and arthrology of sternocostal joint
 
 :::
+
+
+
+# Pathologies
+
+
+- [Costochondritis]({{< var ref-costochondritis.path >}})
+- [Tietze Syndrome]({{< var ref-tietze-syndrome.path >}})

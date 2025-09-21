@@ -23,7 +23,7 @@
         "\n",
         "# Muscular attachments\n"
       ],
-      "id": "388c1829"
+      "id": "004623df"
     },
     {
       "cell_type": "code",
@@ -119,7 +119,7 @@
         "\n",
         "- [Pisotriquetral Shear Test]({{< var ref-pisotriquetral-shear-test.path >}})"
       ],
-      "id": "6e53707c"
+      "id": "51f40a25"
     }
   ],
   "metadata": {

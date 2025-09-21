@@ -1,0 +1,93 @@
+
+.reveal .slides {
+  width: 1080px;     /* TikTok width */
+  height: 1920px;    /* TikTok height */
+  font-size: 48px;   /* bump up text for readability */
+}
+
+.reveal section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* === Headings === */
+.reveal h1 {
+  color: #000000;    /* main heading color */
+  font-size: 72px;   /* adjust as needed */
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.reveal h2 {
+  color: #111111;    /* subheading color */
+  font-size: 60px;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.reveal h3 {
+  color: #222222;    /* smaller heading color */
+  font-size: 48px;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+/* === Paragraph text === */
+.reveal p {
+  color: #333333;    /* paragraph color */
+  font-size: 48px;   /* adjust for readability */
+  font-weight: 400;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+/* Hyperlink styling */
+.reveal a,
+.reveal .slides a {
+  color: #000000 !important; /* force black links */
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.reveal a:hover,
+.reveal .slides a:hover {
+  text-decoration: underline;
+}
+
+.reveal a:visited,
+.reveal .slides a:visited {
+  color: #000000 !important;
+}
+
+.reveal a:active,
+.reveal .slides a:active {
+  color: #000000 !important;
+}
+
+/* Force reference slides to center like other slides */
+.reveal .references {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;  /* vertical centering */
+  align-items: center;      /* horizontal centering */
+  height: 10%;
+  text-align: left;         /* keep references left-aligned within center box */
+  font-size: 36px;          /* adjust for readability */
+  line-height: 1.2;
+  max-width: 80%;           /* prevent edge-to-edge text */
+  margin: 0 auto;
+}
+
+/* Style individual reference entries */
+.reveal .csl-entry {
+  margin-bottom: 1rem;
+}
+
+/* Optional: make numbering bold */
+.reveal .csl-left-margin {
+  font-weight: 700;
+  margin-right: 0.5rem;
+}
+

@@ -1,40 +1,49 @@
 ---
-title: "R&D"
-subtitle: Research and Development
+title: "Research Division"
 author: []
+description: "The arm of yomokerst dedicated to staying up to date on current literature and using evidence to provide the best patient care"
 ---
+
+
 
 # Anatomy 
 
 
-- Vasculature
+[<img src="/icons/Healthicons/svg/filled/body/blood_vessel.svg" style="width:5em;" alt="blood vessel"> </br> Vasculature](/){.btn .btn-outline-primary .btn role="button"}
 
-[{{< iconify hugeicons bone-01 size=5x >}} </br> Bones]({{< var ref-bone-index.path >}}){.btn .btn-outline-primary .btn role="button"}
+[<img src="/icons/Healthicons/svg/filled/body/skeleton.svg" style="width:5em;" alt="skeleton"> </br> Skeleton]({{< var ref-bone-index.path >}}){.btn .btn-outline-primary .btn role="button"}
 
 
 - [Muscle OIAN List]({{< var ref-oians.path >}})
-
-::: {.columns}
-::: {.column}
-[{{< iconify icon-park-outline muscle size=5x >}} </br> Upper extremity Muscles](https://nateyomo.github.io/Yomogida-Kerstein-Lab/The%20Archive/Anatomy/Skeletal%20Muscles/OIAN.html){.btn .btn-outline-primary .btn role="button"}
-:::
-::: {.column}
-[{{< iconify fluent-emoji-high-contrast leg size=5x >}} </br> Upper extremity Muscles](https://nateyomo.github.io/Yomogida-Kerstein-Lab/The%20Archive/Anatomy/Skeletal%20Muscles/OIAN.html){.btn .btn-outline-primary .btn role="button"}
-:::
-:::
 
 - Connective Tissue
     - Ligaments
 
 - Nervous System
-    - [Nerves]({{< var ref-nerve-index.path >}})
+    - [Nerves][<img src="/icons/Healthicons/svg/filled/body/nerve.svg" style="width:5em;" alt="brain"> </br> Nerves]({{< var ref-nerve-index.path >}}){.btn .btn-outline-primary .btn role="button"}
     - [Nerve Roots]
     - [Neuroanatomy]({{< var ref-index-neuroanatomy.path >}})
 
-[{{< iconify mdi brain size=5x >}} </br> Neuroanatomy]({{< var ref-index-neuroanatomy.path >}}){.btn .btn-outline-primary .btn role="button"}
+[<img src="/icons/Healthicons/svg/filled/body/neurology.svg" style="width:5em;" alt="brain"> </br> Neuroanatomy]({{< var ref-index-neuroanatomy.path >}}){.btn .btn-outline-primary .btn role="button"}
 
 
-[![](/icons/noun-nerve-cell-5848133.svg) </br> Neuroanatomy]({{< var ref-index-neuroanatomy.path >}}){.btn .btn-outline-primary .btn role="button"}
+# MSK
+
+- 
+[<img src="/icons/Healthicons/svg/filled/body/head.svg" style="width:5em;" alt="head"> </br> Head and Neck]({{< var ref-neck-msk.path >}}){.btn .btn-outline-primary .btn role="button"}
+
+- Shoulder
+- Trunk
+- LowBack
+- Pelvis
+- Hip
+- Knee
+
+[<img src="/icons/Healthicons/svg/filled/body/foot.svg" style="width:5em;" alt="foot"> </br> Foot and Ankle]({{< var ref-foot-msk.path >}}){.btn .btn-outline-primary .btn role="button"}
+
+- Shoulder
+- Elbow
+- Wrist and Hand
 
 
 # Biomechanics
@@ -61,7 +70,39 @@ author: []
 
 :::
 
+# Senses
 
+- Somatosensation
+- Nociception
+
+[<img src="/icons/Healthicons/svg/filled/body/eye.svg" style="width:5em;" alt="Eye"> </br> Vision]({{< var ref-vision.path >}}){.btn .btn-outline-primary .btn role="button"}
+
+[<img src="/icons/Healthicons/svg/filled/body/ear.svg" style="width:5em;" alt="Ear"> </br> Hearing]({{< var ref-hearing.path >}}){.btn .btn-outline-primary .btn role="button"}
+
+[<img src="/icons/Healthicons/svg/filled/body/nose.svg" style="width:5em;" alt="Ear"> </br> Olfaction (Smell)]({{< var ref-olfaction.path >}}){.btn .btn-outline-primary .btn role="button"}
+
+# Organs
+
+- Gallbladder
+- Spleen
+- appendix
+- Liver
+- Large intestine
+- Small intestine
+- Kidneys
+- Lungs
+
+[<img src="/icons/Healthicons/svg/filled/body/lungs.svg" style="width:5em;" alt="Ear"> </br> Lungs]({{< var ref-lungs.path >}}){.btn .btn-outline-primary .btn role="button"}
+
+[<img src="/icons/Healthicons/svg/filled/symbols/heart.svg" style="width:5em;" alt="Ear"> </br> Heart]({{< var ref-heart.path >}}){.btn .btn-outline-primary .btn role="button"}
+
+
+[<img src="/icons/Healthicons/svg/filled/body/pancreas.svg" style="width:5em;" alt="Pancreas"> </br> Pancreas]({{< var ref-pancreas.path >}}){.btn .btn-outline-primary .btn role="button"}
+
+
+# Histology
+
+[<img src="/icons/Healthicons/svg/filled/body/tissue.svg" style="width:5em;" alt="tissue"> </br> Histology]({{< var ref-histology-index.path >}}){.btn .btn-outline-primary .btn role="button"}
 
 
 

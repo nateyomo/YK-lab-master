@@ -9,6 +9,26 @@ title: Hip Pain
 
 :::
 
+# Sources
+
+- OA
+- GTPS
+- FAIS
+- Stress fractures
+- Piriformis syndrome
+- Lumbar radiculopathy
+- Systemic inflammatory arthropathies
+
+Other non-musculoskeletal causes
+
+- Infection
+- Osteonecrosis
+- Bone tumors
+
 # Intra-articular hip pain {#intra-articular}
 
 - [Ligamentum teres]({{< var ref-ligamentum-teres.path >}}) stress or injury can result in intra-articular hip pain @neumannKinesiologyMusculoskeletalSystem2017
+
+# Extra-articular Hip Conditions
+
+
