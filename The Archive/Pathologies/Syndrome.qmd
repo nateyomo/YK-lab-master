@@ -1,0 +1,75 @@
+---
+title: Syndrome
+subtitle: "A recognizable group of signs and symptoms which indicate a specific condition for which a direct cause is not understood"
+---
+
+
+
+
+# Literal meaning
+
+Greek *syn-* (together) and *-dromus* (a course) can be taken literally as "running together" or "concurrence" 
+
+
+We can apply this to a ***medical* syndrome** and define it as certain *signs and symptoms* that *run together* as a **clinical presentation**
+
+
+# Definition
+
+**Syndrome**: A *recognizable* group of signs and symptoms which indicate a *specific* condition for which a direct cause is **not** understood @calvoDiagnosesSyndromesDiseases2003
+
+
+# Syndrome Vs Disease
+
+Although some use the terms "Syndrome" and "Disease" interchangeably, these are **not interchangeable**.
+
+**Syndrome** can be seen as a *state* of deterioration, while a **disease** is a *process* of deterioration.
+
+Although this appears to be inconsequential differences, a *state* is a snapshot in time while a *process* by definition needs a **start**, **middle**, and **end**.
+
+
+|Start|Middle|End|
+|-|-|-|
+|Etiology|Pathogenesis|Signs & Symptoms|
+
+A **process** by definition needs a **start**, **middle**, and **end**
+
+|Start|Middle|End|
+|-|-|-|
+|Etiology|Pathogenesis|Signs & Symptoms|
+
+
+||Etiology|Pathogenesis|Signs & Symptoms|
+|-|-|-|-|
+|**Syndrome**|Unknown|Unknown|&check;|
+|**Disease**|&check;|&check;|&check;|
+
+## Treatment
+
+Since a **syndrome** outlines a clinical presentation *without* a mechanism, its treatment plan focuses on **managing signs and symptoms** @lenkaWeBelittleEssential2020
+
+
+A **disease** specifies the mechanism of disorder, the treatment can effect the **underlying mechanism** @lenkaWeBelittleEssential2020
+
+# Examples
+## Viral Syndrome
+
+Physicians use "viral **syndrome**" when they are **uncertain** which specific viral agent is causing the illness @calvoDiagnosesSyndromesDiseases2003
+
+
+Once the specific viral agent is identifed, it should be labeled as "_____ **disease**" @calvoDiagnosesSyndromesDiseases2003
+
+## Kawasaki Syndrome &rarr; Disease
+
+
+When there was **limited knowledge** about Kawasaki Disease, the clinical signs and symptoms were referred to as "Kawasaki **Syndrome**" @calvoDiagnosesSyndromesDiseases2003.
+
+
+As understanding progressed and its *etiology*, *pathogenesis*, and *clinical presentation* were clearly defined, it was then upgraded to "Kawasaki **Disease**" @calvoDiagnosesSyndromesDiseases2003
+
+
+## References
+
+
+::: {refs}
+:::

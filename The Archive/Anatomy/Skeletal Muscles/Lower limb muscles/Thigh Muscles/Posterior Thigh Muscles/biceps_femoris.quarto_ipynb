@@ -27,7 +27,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "0a831bfe"
+      "id": "7c267d71"
     },
     {
       "cell_type": "code",
@@ -78,9 +78,14 @@
         "\"The biceps femoris (see Fig. 19-8) muscle is a two-headed muscle. The longer of the two heads arises from the inferomedial facet of the ischial tuberosity, whereas the shorter head originates from the lateral lip of the linea aspera of the femur. The muscle inserts on the lateral tibial condyle and the fibular head. The biceps femoris functions to extend the hip, flex the knee, and externally rotate the tibia. The superficial layer of the common tendon has been identified as the main force creating external tibial rotation and controlling the internal rotation of the femur.14 The pull of the biceps on the tibia retracts the joint capsule and pulls the iliotibial tract posteriorly, keeping it tight throughout flexion.\" @duttonDuttonOrthopaedicExamination2020 \n",
         "\n",
         "\n",
-        "The biceps femoris insert *superficial* to the [LCL]({{< var ref-knee-lateral-collateral-ligament.path >}}) @jonesProjectFoundations2025."
+        "The biceps femoris insert *superficial* to the [LCL]({{< var ref-knee-lateral-collateral-ligament.path >}}) @jonesProjectFoundations2025.\n",
+        "\n",
+        "# Muscle Length Tests\n",
+        "\n",
+        "- [Passive Straight Leg Raise Test]({{< var ref-passive-straight-leg-raise-test.path >}})\n",
+        "- [90-90 Straight Leg Raise Test]({{< var ref-9090-active-straight-leg-raise-test.path >}})"
       ],
-      "id": "e3a038f5"
+      "id": "522ab17e"
     }
   ],
   "metadata": {

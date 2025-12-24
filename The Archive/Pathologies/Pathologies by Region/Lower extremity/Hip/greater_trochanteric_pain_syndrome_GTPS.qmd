@@ -8,7 +8,8 @@ reading list:
 @disantis2022InternationalSociety2023
 -->
 
-Greater trochanteric pain syndrome (GTPS) refers to an array of symptoms including lateral hip pain localized around the <i>femur's greater trochanter</i> generally involving degeneration of Gluteus medius tendon, gluteus minimus tendon, and/or associated bursitis [@neumannKinesiologyMusculoskeletalSystem2017].
+Greater trochanteric pain syndrome (GTPS) refers to an array of symptoms including lateral hip pain localized around the <i>femur's greater trochanter</i>  [@neumannKinesiologyMusculoskeletalSystem2017].
+GTPS symptoms generally stem from [degeneration of Gluteus medius tendon, gluteus minimus tendon, and/or associated bursitis](#pathophysiology)
 
 
 **Syndrome not a pathology**: Greater trochanteric pain syndrome, meaning that there are different ways patients can all arrive at the same constellation of symptoms
@@ -36,7 +37,18 @@ Symptoms are generally aggravated by movements involving hip abductors undergoin
 
 # Pathophysiology
 
+GTPS can be the result of multiple pathologies
+
+- External snapping hip
+- Proximal iliotibial band syndrome
+- Trochanteric bursitis
+- Gluteus medius or gluteus minimus tendinopathy
+- Gluteus medius or gluteus minimus tearing
+
 The source of symptoms in GTPS is generally due to [gluteus medius or minimus tendinopathies](#gluteal-tendinopathies) or [bursitis](#bursitis)
+
+
+
 
 ## Gluteal tendinopathies {#gluteal-tendinopathies}
 
@@ -167,6 +179,73 @@ Stretching the ITB can be unproductive and even **aggravating** since [ITB tensi
 
 As a result, clinicians should only perform stretching to restore tissue length *if* it is hindering optimum function [@aptaCurrentConceptsOrthopaedic2024].
 In these scenarios, stretching should be dosed per patient tolerance [@aptaCurrentConceptsOrthopaedic2024].
+
+
+Simplified Rehab Process
+
+1. Decrease TFL-ITB tension
+1. Less compression of gluteal tendons & bursa
+1. Less degeneration
+1. Less pain
+1. Happy patients
+
+
+Many clinicians *assume* that prescribing stretches will result in decreased TFL-ITB tension and overall less degeneration and pain.
+
+This is only *half*-true, this perspective overlooks the potential harms of stretching.
+
+#### Stretching does have benefits
+
+After a stretch, the improved muscle extensibility and joint ROM can result in:
+
+
+- Less ITB tension &rarr;
+- Less tissue compression &rarr;
+- Less degeneration &rarr;
+- Less pain
+
+#### The Drawbacks of Stretching
+
+During the stretch, tension on the TFL-ITB <i>increases</i> and can cause: 
+
+- More compression &rarr;
+- More degeneration &rarr;
+- More pain
+
+
+
+Deciding whether to stretch TFL-ITB will come down to a simple tradeoff: Does stretching cause more or less **net compression**?
+
+Choose the option that results in the **least net compression**
+
+The long term *decreases* in compression from stretching **must** outweigh the short term *increases* in compression during the stretch exercise.
+
+
+
+In the clinic, look for a *direct* relationship where a limited TFL-ITB complex results in dysfunctional movement patterns.
+
+
+Perform a *movement analysis* and look for limitations in hip extension and adduction during:
+
+::: {.columns}
+::: {.column}
+- Sitting
+- Standing
+- Walking
+:::
+
+::: {.column}
+- Lifting
+- Running
+- Jumping
+:::
+:::
+
+
+Patients who can perform these activities correctly without experiencing TFL-ITB tightness are **less** likely to benefit from stretching.
+
+Patients who experience TFL-ITB tightness and exhibit movement compensations **would benefit** most from stretching.
+
 
 
 # Patient Education

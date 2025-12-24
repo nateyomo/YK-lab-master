@@ -32,7 +32,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "1f4333c0"
+      "id": "701d1fa8"
     },
     {
       "cell_type": "code",
@@ -72,7 +72,7 @@
         "    else:\n",
         "        print(\"Script file does not exist. Please check the path.\")"
       ],
-      "id": "20b1f651",
+      "id": "89d2093e",
       "execution_count": null,
       "outputs": []
     },
@@ -114,7 +114,7 @@
         "    else:\n",
         "        print(\"Script file does not exist. Please check the path.\")"
       ],
-      "id": "e4ae9615",
+      "id": "bba9319d",
       "execution_count": null,
       "outputs": []
     },
@@ -160,7 +160,7 @@
         "- Place both hands on the medial surface of each knee\n",
         "- Apply pressure to create tension on the hip adductors and feel for feedback"
       ],
-      "id": "f9d6056e"
+      "id": "3de5092e"
     }
   ],
   "metadata": {

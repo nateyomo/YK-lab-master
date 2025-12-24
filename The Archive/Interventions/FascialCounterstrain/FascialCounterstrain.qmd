@@ -1,0 +1,376 @@
+---
+title: Notes on FCS
+---
+
+::: {.callout}
+
+- @tuckeyFascialCounterstrainMethodological2025
+- @tuckeyImpairedLymphaticDrainage2021
+- @wongStrainCounterstrainCurrent2012
+
+:::
+
+Modern advancement of [Dr. Jones' Strain-Counterstrain]({{< var ref-strain-counterstrain.path >}})
+
+
+
+Indirect manipulation technique
+
+
+
+# Physiologic Rationale
+
+
+Chronic pain is associated with the production of pro-inflammatory cytokines (IL-1b, IL-6, and TNF-&alpha;) @tuckeyF1FCSFoundations2025
+
+
+1. An inciting event occurs
+1. Pro-Inflammatory Cytokines are released
+1. Inflammatory Interstitial Stasis (IIS)
+
+## Inciting Event
+
+An event must occur to start this entire process:
+
+- **Trauma**: MVA, sports injury, surgeries... @tuckeyF1FCSFoundations2025
+- **Immune response**: Immune activation in response to a viral or bacterial insult @tuckeyF1FCSFoundations2025
+    - Mold?
+- **Hypoxia**: Postural strain or overuse @tuckeyF1FCSFoundations2025
+- **Chronic stress**: Body's adrenal gland becomes overused and decreases anti-inflammatory cortisol, which allows the body to become more pro-inflammatory @tuckeyF1FCSFoundations2025
+    - PTSD, etc @tuckeyF1FCSFoundations2025
+
+
+
+## Pro-Inlammatory Cytokines
+
+
+## Production of TGF-&beta;1
+
+
+Exposure to the pi-cytokines to fibroblasts, specifically myofibroblasts, can result in the production of TGF-&beta;1 @tuckeyF1FCSFoundations2025
+
+
+## IIS
+
+
+TGF-&beta;1 can result in contraction of any soft tissue in the body @tuckeyF1FCSFoundations2025
+The contraction can result in compression of pre-lymphatic channels locally, which results in *local stasis* @tuckeyF1FCSFoundations2025.
+
+The local stasis traps the inflammation (pro-inflammatory cytokines) in the region, known as "Interstitial Inflammatory Stasis (IIS)" @tuckeyF1FCSFoundations2025
+
+
+
+## Inflammatory activation of Nociceptors
+
+The nociceptors are locally activated by inflammation and send afferent nociceptive signals to the spinal cord
+
+## Sympathetic Response of the Spinal Cord
+
+When the nociceptive signals reach the spinal cord, it responds with *sympathetic activation*, specifically vasospasm of the arteries and veins local to the IIS
+
+- Arteries with vasospasm have decreased blood flow resulting in more hypoxia
+- Vasospasmed veins cannot drain as effectively resulting in more edema and stasis
+
+## Muscular Guarding
+
+When the nociceptive signals reach the spinal cord, go to the ventral horn of the spinal cord segment and stimulate the &alpha;-motor and &gamma;-motor neurons causing *muscle guarding* and an elevation of the stretch-reflex.
+
+Muscle guarding will present as palpable muscle guarding and trigger points to in the affected muscles.
+
+An elevated stretch-reflex resulting in excessively tight muscles resulting in decreased ROM and even pain with ROM.
+
+
+
+## Lymphatic Pump Cessation
+
+Nociceptive signals going to the spinal cord results in a reflexive response where the lymphatic pump activity is decreased.
+Decreased lymphatic pump activity decreases interstitial fluid movement, worsening the interstitial stasis.
+
+
+# Tissue Nociceptor Activation Physiologic pathway
+
+
+# Convergence
+
+There are significantly more first-order (1&deg;) afferent neurons in the periphery than second-order (2&deg;) neurons in the spinal cord @tuckeyF1FCSFoundations2025.
+As a result, the 1&deg; afferents must share 2&deg; neurons @tuckeyF1FCSFoundations2025.
+The process of 1&deg; neurons synapsing on common 2&deg; neurons is known as **convergence** @tuckeyF1FCSFoundations2025.
+
+Since 1&deg; afferents from multiple anatomical regions converge onto a 2&deg; nociceptive afferent, activation of the 2&deg; nociceptive afferent can result in *referred pain* @tuckeyF1FCSFoundations2025.
+
+
+# Neurogenic Inflammation
+
+## Dorsal Root Reflexes (DRR)
+
+Persistent nociceptive activation at the *dorsal horn* of the spinal cord can cause a *dorsal root reflex* @tuckeyF1FCSFoundations2025.
+These DRRs can then cause *neurogenic inflammation*, a retrograde release of pro-inflammatory neuropeptides back into the peripheral tissues @tuckeyF1FCSFoundations2025.
+Neurogenic inflammation can cause inflammation to move into non-injured tissues @tuckeyF1FCSFoundations2025.
+Inflammation in those tissues can activate nociceptors and create *secondary hyperalgesia* @tuckeyF1FCSFoundations2025.
+
+Every spinal neuron that receives nociceptive input from internal structures like the viscera, vasculature, muscles, and bones *also* receives nociceptive input from the skin @tuckeyF1FCSFoundations2025.
+When the nociceptive signals in the dorsal horn create a *dorsal root relfex*, this results in neurogenic inflammation into other structures converging on the same 2&deg; neuron, including the skin @tuckeyF1FCSFoundations2025.
+When the inflammation moves into the musculoskeletal structures innervated by the 2&deg; neuron, it results in *secondary hyperalgesia*, and is clinically known as a *muscle trigger point (MTrP) @tuckeyF1FCSFoundations2025.
+When the inflammation moves into the patch of skin innervated by the 2&deg; neuron, it results in *secondary hyperalgesia*, and is clinically known as a *tender point*.
+
+Each area of *primary inflammation* experiences *primary hyperalgesia* resulting nociceptive signals travelling up the 1&deg; afferent to the dorsal horn to converge on the 2&deg; afferent @tuckeyF1FCSFoundations2025.
+Persistent nociceptive signals from the *primary inflammation* can result in a *dorsal root reflex*, which results in neurogenic inflammation being sent to all of the other structures converging on that 2&deg; afferent and experiencing *secondary inflammation* @tuckeyF1FCSFoundations2025.
+These patterns of primary inflammation resulting in secondary inflammation are unique and are known as a diagnostic tender point (DxTP) @tuckeyF1FCSFoundations2025.
+
+
+# Central Sensitization
+Central sensitization is also known as "neuro-inflammation".
+
+How does the primary inflammation from a structure in the periphery move to the dorsal horn?
+
+When there is *primary inflammation* at the skin, joints, muscles, or viscera, the nociceptive afferents are activated resulting in pro-inflammatory cytokines being transported to the DRG and Dorsal horn via axonal and non-axonal mechanisms @tuckeyF1FCSFoundations2025.
+Once at the Dorsal root ganglia or dorsal horn, the pro-inflammatory cytokines can facilitate central sensitization @tuckeyF1FCSFoundations2025.
+
+
+::: {.callout title="Central sensitization symptoms"}
+
+- Hyperalgesia: Heightened pain that is exaggerated relative to the nociceptive stimuli
+- Secondary hyperalgesia
+    - 2&deg; tender points
+- Allodynia: Pain due to non-nociceptive stimuli
+
+:::
+
+# Muscle guarding
+
+In response to nociception, the muscles perform protective reflexes which manifests as "guarding" @tuckeyF1FCSFoundations2025.
+
+
+
+
+# Fascia
+
+Fascia refers to dense irregular CT that *creates* and *envelopes* muscles, tendons, ligaments, viscera, vessels, nerves, bones, meninges, and dura @tuckeyF1FCSFoundations2025.
+Fascia is innervated by A-&delta; and C-fiber peripheral afferent nociceptive-neurons @tuckeyF1FCSFoundations2025.
+
+
+# FCS Treatment Technique
+
+
+- Indirect, passive manipulation technique
+    - Indirect
+    - Passive: the participant relaxes
+- 15-45second hold
+
+- Technique Goal
+    - Put the tissue with *primary inflammation* into a position that slackens the activated nociceptors using a position or fascial glide @tuckeyF1FCSFoundations2025
+- Result
+    - Nociceptors and 1&deg; neurons deactivate
+    - Muscle guarding and somatosympthatic reflexes deactivate
+    - Regional microvasculature channels open and draining of inflammation improves
+
+
+Precautions
+
+- Acute infection (prior to antibiotic prescription)
+- Increased pain, symptoms, or apprehension reported by the patient during application of the technique
+- Implanted devices (e.g. stents, pacemakers, IUD's etc.)
+- Lack of experience with the associated condition / pathology
+- Increased pain or apprehension experienced during a release
+
+FCS Contraindications
+
+- Aneurisms including pulsing abdominal masses (possible aortic aneurysm)
+- Deep vein thrombosis (vascular knee techniques) - unless declared stable
+- Any other situation in which manipulation or soft tissue work may be contraindicated
+    -  Unhealed fractures
+    - Unhealed incisions
+    - Immobilized structures
+    - etc
+
+# Testing for IIS
+
+- Joint Motion Testing
+    - Joint Oscillation Testing (JOT): Rapid form of joint testing in order to rule in muscle guarding as a sign of IIS 
+- FCS Cranial Scan: Cranial motion testing that uses embryological mechanisms to determine which tissues are inflamed in the body
+- Diagnostic Tenderpoints
+- Touch Inhibition (TI): Osteopathic technique used to determine if a structure is a secondary symptom or a primary cause
+
+
+# Tender Point Overview
+
+- "TP" or "TeP"
+
+
+Using the anatomical correlations associated with each tender point has value even outside of the FCS techniques @tuckeyF1FCSFoundations2025.
+
+
+
+Severity is an important marker:
+
+- Mild-Severe
+- Jump Sign
+- Grimace Sign
+
+::: {.callout-important}
+
+TPs tell us **if** a structure is inflamed, but **cannot** tell us **why** it is inflamed @tuckeyF1FCSFoundations2025.
+
+:::
+
+
+tenderpoints are named in 3 parts:
+
+
+- Laterality
+    - Left vs Right
+- Structure
+- Level
+    - C1-L5
+- Type
+    - LV: Lymphatic/Venous
+    - A: Artery
+    - MS: Musculoskeletal
+    - V: Visceral
+
+
+
+
+# FCS Cranial Scan
+
+The cranial scan is used to tell us **why** a structure is inflamed and created a tenderpoint @tuckeyF1FCSFoundations2025.
+
+The cranial scan uses palpation of the cranium to predict where IIS exists in the body @tuckeyFCSF1Foundations2025.
+
+It is based on cranial rigidity of specific points on the cranium @tuckeyFCSF1Foundations2025.
+
+
+Cives us the following information: 
+- What, if any, fascial systems are dysfunctional
+- How severe is the dysfunction
+- Laterality of the dysfunction (left vs right)
+- Where, approximately, the dysfunction is
+
+## What causes this cranial rigidity?
+
+
+
+The palpable restrictions are believed to be related to neuro-fascial (epineural) tension transmitted from inflamed areas of the body, through the epineurium, to these specific areas of the cranial dura and cranial bone @tuckeyFCSF1Foundations2025
+
+The relationships from these fascial systems to the cranial bone and dura are likely embryological in origin @tuckeyFCSF1Foundations2025.
+
+
+## Cranial Scan Technique
+
+- Focus on feeling the **cranial rigidity** first @tuckeyFCSF1Foundations2025.
+- Depth: Scan must be performed at the cranial periosteum so you must press deep to the cranial skin @tuckeyFCSF1Foundations2025.
+- Speed: The scan must be performed rapidly to "spring test" the reflexiveness of the tissues @tuckeyFCSF1Foundations2025.
+- Compare:
+    - Right vs Left
+- Patient:
+    - Does the patient feel if the tissues are tender?
+    - Cranial rigidity is *often* tender but **not always** @tuckeyFCSF1Foundations2025
+
+## Positive Scan
+
+Although the patient's subjective tenderness is useful, a positive test is based on **rigidity** @tuckeyFCSF1Foundations2025.
+
+| | | |
+|-|-|-|
+|Rigid|Tender| Positive Cranial Scan|
+|Rigid|Not tender| Positive cranial scan|
+|Not rigid|Tender| Negative (cranial tender point)|
+|Not rigid|Not tender|Negative|
+: {.striped}
+
+
+## Visceral Scan
+
+## Spinal Ligament Scan
+
+## Venous Epidural Scan
+
+## Arterial Scan
+
+## Sympathetic Nerve Scans
+
+## Spinal Ligament Scans
+
+
+
+# Surface Anatomy
+
+## Trunk
+
+- Rib Tubercle Tenderpoints
+
+- Locate the end of the lst rib as it passes under the clavicle @tuckeyFCSF1Foundations2025
+- Locate the shaft of the second rib anteriorly @tuckeyFCSF1Foundations2025
+- Flat section where rib#6 and #7 conjoin, just lateral to top of *xiphoid process* @tuckeyFCSF1Foundations2025
+
+
+::: {.callout-note}
+The 6th rib is oriented horizontally, whereas the 7th rib is oriented more diagonally in comparison @tuckeyFCSF1Foundations2025
+:::
+
+- Locate anterior tip of the 11th rib @tuckeyFCSF1Foundations2025
+- Count vertically up from the *11th rib* to identify *ribs #10-6* @tuckeyFCSF1Foundations2025
+
+### Posterior Trunk
+- Locate the *2nd rib tubercle* medial to the superior angle of scapula @tuckeyFCSF1Foundations2025
+- Locate the *4th rib tubercle* located at the level of the spine of the scapula @tuckeyFCSF1Foundations2025
+- Locate the *6th rib tubercle* by bissecting the spine and *inferior angle of the scapula* @tuckeyFCSF1Foundations2025
+
+- Note the relationship between the inferior angle of the scapula and the *9th rib*
+
+- Motion test the tubercles of the ribs in all 4 planes
+
+## Pelvis
+
+
+- L1 - L5
+- Sacral Base
+- PSIS
+- Inferolateral base (ILA)
+- L4 TP: Slide medially at the level of the iliac crest @tuckeyFCSF1Foundations2025
+
+
+
+
+## Cranial Anatomy
+
+- Cranial Sutures
+    - Coronal Suture
+    - Sagittal suture
+    - Lambdoidal suture
+
+
+- Superior temporal (STL)
+- Temporal Bone
+    - Groove created from coronal suture
+
+- Occipitomastoid suture
+- Posterior occipital protuberance
+- Superior nuchal line
+- Coronal suture
+- Lambdoidal suture
+- Superior Temporal Line (STL) of parietal bone
+
+- C4 anterior transverse process: this can be found by bissecting the clavicle and *angle of mandible* @tuckeyFCSF1Foundations2025
+
+# Spinal Ligament Anatomy
+
+## Anterior Longitudinal Ligament
+
+
+## Posterior Longitudinal Ligament
+
+
+
+
+# Tender Points
+
+## Spinal Ligaments
+
+### Anterior Longitudinal Ligament (ALL-MS)
+
+The anterior longitudinal ligament musculoskeletal tenderpoint (ALL-MS)
+
+is read at the rib tubercle from lateral&rarr;medial
+
+The 

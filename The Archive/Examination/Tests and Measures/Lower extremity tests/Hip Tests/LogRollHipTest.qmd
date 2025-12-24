@@ -1,0 +1,25 @@
+---
+title: "Log Roll (Hip) Test"
+---
+
+
+# Technique
+
+
+- Supine
+- 0&deg; Hip and knee extension
+- Passively rotate the hip in IR and ER @duttonDuttonOrthopaedicExamination2020
+- Compare differences between Left versus Right hips
+
+::: {.callout-note}
+Ensure the rotation is happening at the hip and *not* the knee or ankle @duttonDuttonOrthopaedicExamination2020
+:::
+
+# Findings
+
+
+"The test is positive for ligamentous laxity when the involved hip demonstrates greater external rotation ROM and the uninvolved hip or reproduces anterior pain.22" @duttonDuttonOrthopaedicExamination2020
+
+# Reliability
+
+For patients with non-arthritic intra-articular hip pathologies, the inter-rater reliability of the clinicians demonstrated 80% agreement and &kappa;=0.61 (95% CI: 0.48, 0.84) @duttonDuttonOrthopaedicExamination2020

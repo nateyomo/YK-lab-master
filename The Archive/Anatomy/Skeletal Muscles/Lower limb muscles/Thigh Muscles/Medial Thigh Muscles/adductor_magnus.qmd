@@ -95,3 +95,7 @@ According to Brad Jones, the adductor magnus is a hip extensor until -20&deg; Hi
 
 # Overview
 “the adductor magnus is the largest of the adductor muscles, accounting for 60% of the total cross ­sectional area of the entire adductor muscle group.222 As a whole, the adductor magnus attaches proximally to the pelvis from two heads: an anterior head from the ischial ramus and a posterior head from the ischial tuberosity. Realize, however, that other anatomic classifications have been suggested” @neumannKinesiologyMusculoskeletalSystem2017 
+
+# Palpation
+
+See how to palpate [this muscle along with other adductor muscles here]({{< var ref-hip-adductor-muscle-group.palpation >}}).

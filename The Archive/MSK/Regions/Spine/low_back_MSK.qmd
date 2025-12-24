@@ -8,6 +8,13 @@ subtitle: Musculoskeletal Overview
 
 - ch28 Orthopaedic Manual Physical Therapy of the Lumbopelvic Spine @wiseOrthopaedicManualPhysical2015
 
+- Pain
+    - Ch72 acute lbp @ballantyneBonicasManagementPain2019
+    - Ch73 chronic lbp @ballantyneBonicasManagementPain2019
+    - ch74 surgery for lbp @ballantyneBonicasManagementPain2019
+    - Ch75 failed LBP surgery @ballantyneBonicasManagementPain2019
+    - CHAPTER 93 Exercise Therapy for Low Back Pain @ballantyneBonicasManagementPain2019
+
 :::
 
 

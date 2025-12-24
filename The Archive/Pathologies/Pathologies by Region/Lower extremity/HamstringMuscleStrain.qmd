@@ -1,0 +1,242 @@
+---
+title: Hamstring Muscle Strain
+---
+
+
+# APTA current concepts
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Stage</th>
+      <th>Goals</th>
+      <th>Intervention</th>
+      <th>Criteria for advancement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Acute phase</td>
+      <td>
+        <ul>
+          <li>Pain and edema management</li>
+          <li>Prevent development of tissue adhesions</li>
+          <li>Limit atrophy and strength deficits</li>
+          <li>Limit flexibility and ROM deficits</li>
+          <li>Normalize gait pattern</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Relative rest and avoidance of aggravating activities</li>
+          <li>Ice, compression, local electrophysical agents as indicated</li>
+          <li>Soft tissue mobilization</li>
+          <li>Active ROM and submaximal strengthening</li>
+          <li>Gait training</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Symmetrical passive and active hip and knee ROM</li>
+          <li>Normal gait pattern</li>
+          <li>No reactive pain or symptoms with prescribed therapeutic exercises</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Intermediate phase</td>
+      <td>
+        <ul>
+          <li>Increase strength and muscular endurance</li>
+          <li>Regain preinjury flexibility</li>
+          <li>Restore lumbopelvic stability</li>
+          <li>Improve lower extremity neuromuscular control</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Progress lower extremity and lumbopelvic strengthening</li>
+          <li>End-range &amp; eccentric strength exercises</li>
+          <li>Stretching &amp; flexibility exercises</li>
+          <li>Low intensity cardiovascular endurance exercises</li>
+          <li>Single leg balance and neuromuscular control exercises</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Symmetrical flexibility and muscle length</li>
+          <li>Symmetrical hamstring strength</li>
+          <li>Adequate neuromuscular control</li>
+          <li>Symmetrical jogging (if appropriate) pattern without reactive pain</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Late phase</td>
+      <td>
+        <ul>
+          <li>Return to all desired activities including sports or heavy manual labor</li>
+          <li>Restore general and muscular endurance necessary for sport or other activity demands</li>
+          <li>Identify and address modifiable factors for reinjury</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Strength and flexibility exercise progression</li>
+          <li>Emphasize lengthened state, eccentric strength, and higher velocity movements</li>
+          <li>Progress balance and neuromuscular control exercises</li>
+          <li>Perturbation training and reactive tasks</li>
+          <li>Sport-specific or work simulation training</li>
+          <li>Plyometric and agility exercises as appropriate</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Full and pain-free hamstring strength at all muscle lengths</li>
+          <li>Demonstrate tolerance to all sport or work specific tasks</li>
+          <li>No apprehension on H-test if patient anticipates returning to high level sport participation</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
+
+Early phase
+
+- Reduce pain
+- Reduce edema
+- Protect further damage by minimizing load
+- Minimize atrophy
+
+- 3-4 Days of immobilization
+- Excessive mobilization can cause excessive scar formation
+- Use crutches
+
+---
+
+AD usage
+
+- Use if ambulation exacerbates pain
+- Foot flat > toe-touch or NWB
+
+---
+
+Limit Atrophy
+
+- Low-intensity & Pain-free ROM
+- Avoid isoalted hamstring exercises
+
+- Hip AROM
+- Knee AROM
+- Submaximal pain-free hamstring isometrics
+- Transverse Abdominis activation
+- Low-resistance stationary bicycling
+- Side-stepping
+
+---
+
+Progression Criteria
+
+- Normal gait pattern
+- Full hip A/PROM
+- Full knee A/PROM
+- Pain-free submaximal hamstring contraction
+
+
+## Intermediate phase
+
+Goal: Progressive and restoration
+
+---
+
+- Increase LE strength
+- Regain pre-injury muscular length
+- Improve lumbopelvic stability
+- Restore neuromuscular control
+
+
+---
+
+Stretching
+
+Avoid Stretching
+
+- Significantly weak muscles
+- The muscle may be unable to protect itself
+
+
+---
+
+Eccentric strengthening
+
+Criteria:
+
+- Good tolerance to rehabilitative exercises
+- &gt;50% contralateral strength
+
+Eccentric is important for rehabilitation and prevention
+
+- a 10-week eccentric hamstring strengthening program reduced 1st time injuries and recurrent injuries by ~85% [@aptaCurrentConceptsOrthopaedic2024]
+
+---
+
+Lumbopelvic stability should be included prior to sport-specific training
+
+---
+
+Sport-specific training
+
+- No proximal stability deficits
+
+### Late Stage
+
+Criteria
+
+- Tolerance to all current therapeutic activities
+- Symmetrical hamstring flexibility
+- 5/5 manual muscle testing grade or 90% involved versus noninvolved side instrumented strength testing for hamstring muscle
+- No obvious balance deficits
+- No obvious neuromuscular control deficits
+- Ability to jog forward and backward at greater than 50% effort without symptoms
+
+---
+
+Gradually expose individual to sport/preinjury activities
+
+Goals:
+
+- Muscle flexibility
+- Strength
+- Neuromuscular control
+- Endurance
+
+---
+
+Strength
+
+- Eccentric focus
+    - increasing ROM
+    - resistance
+    - volume
+
+- Deadlifts
+- Single-leg Romanian Deadlifts
+- Nordic Hamstring Curls
+
+---
+
+[Nordic hamstring curl]({{< var ref-nordic-hamstring-curl.path >}})
+
+Van der horst found that nordic hamstring curls decreased rate of hamstring injuries in amateur soccer players @aptaCurrentConceptsOrthopaedic2024
+
+
+
+# Return to Sport Criteria
+
+## Apprehension
+
+Apprehension to SLR can be tested using the [*Active Hamstring Flexibility Test*]({{< var ref-active-hamstring-flexibility-test.path >}}).
+Delay RTS until apprehension is at a minimum significantly reduces reinjury rates @aptaCurrentConceptsOrthopaedic2024

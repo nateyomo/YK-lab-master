@@ -77,3 +77,7 @@ According to Brad Jones, the adductor brevis is a hip flexor until 50&deg; Hip f
 :::
 
 # Overview
+
+# Palpation
+
+See how to palpate [this muscle along with other adductor muscles here]({{< var ref-hip-adductor-muscle-group.palpation >}}).

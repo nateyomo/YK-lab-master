@@ -28,7 +28,7 @@
         "\n",
         "::: {#tbl-cuboid-insertion}\n"
       ],
-      "id": "cd4dedc3"
+      "id": "89f19797"
     },
     {
       "cell_type": "code",
@@ -83,7 +83,7 @@
         "\n",
         "::: {#tbl-cuboid-origins}\n"
       ],
-      "id": "0efc8c42"
+      "id": "b9202410"
     },
     {
       "cell_type": "code",
@@ -162,7 +162,7 @@
         "\n",
         "- Assess relative cuboid movement "
       ],
-      "id": "38bf6f25"
+      "id": "9d8f18a1"
     }
   ],
   "metadata": {

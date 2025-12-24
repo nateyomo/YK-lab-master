@@ -1,0 +1,29 @@
+---
+title: "Prone Hip Internal Rotation Test"
+---
+
+This was a test I learned from Brad Jones @jonesProjectFoundations2025.
+
+This test is functionally similar to the [Dial Hip Test]({{< var ref-dial-hip-test.path >}}) and the [log-roll hip test]({{< var ref-log-roll-hip-test.path >}}) but with some key differences.
+The 2 tests judge hip instability using *excessive osteokinematic ROM* during *external* rotation with the patient in supine.
+
+The *{{< meta title >}}* positions the patient in prone and uses *arthrokinematic quality* during *internal* rotation to assess for poor joint arthrokinematics.
+
+
+# Technique
+
+- Prone
+- Stand on the ipsilateral side and face the patient
+- Passively bend the patient's ipsilateral knee to 90&deg; flexion with your distal hand
+- Palpate the ipsilateral greater trochanter with your proximal hand
+- Passively internally rotate the hip with the distal hand
+- There are a few key items to note:
+    - Prone hip IR ROM
+    - Hip IR end-feel
+    - Spin (Roll vs Glide) of the femoracetabular joint
+- Hip IR end-feel
+    - Healthy hips should have a *springy* end-feel
+    - Unhealthy hips have a *rigid* end feel
+- Roll vs Glide
+    - In healthy we expect want equal amounts of roll *and* glide to achieve a spin
+    - In unhealthy hips, there will be excessive roll and a limited *posterior glide* resulting in the greater trochanter rolling anteriorly and becoming harder to palpate

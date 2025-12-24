@@ -1,0 +1,8 @@
+---
+title: Dix-Hallpike Maneuver
+---
+
+Semantics
+
+- Test = Examination / diagnostic
+- Maneuver = Treatment

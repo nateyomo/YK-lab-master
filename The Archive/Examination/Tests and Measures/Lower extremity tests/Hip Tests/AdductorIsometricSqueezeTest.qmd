@@ -1,0 +1,19 @@
+---
+title: Adductor Isometric Squeeze Test
+---
+
+::: {.columns}
+::: {.column}
+
+- 0&deg;, 30&deg;, 45&deg;, or 90&deg; [@aptaCurrentConceptsOrthopaedic2024]
+- The examiner places arm between patient’s knees (if hip is flexed) or distal lower leg[@aptaCurrentConceptsOrthopaedic2024]
+- Maximal isometric contraction for 5-10 seconds[@aptaCurrentConceptsOrthopaedic2024]
+
+Positive: Reproduction of groin pain indicates adductor muscle involvement on symptomatic side[@aptaCurrentConceptsOrthopaedic2024]
+
+
+:::
+::: {.column}
+Provocation with hip in neutral is a contraindication for return-to-play[@aptaCurrentConceptsOrthopaedic2024]
+:::
+:::

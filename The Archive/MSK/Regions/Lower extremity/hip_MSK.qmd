@@ -24,6 +24,8 @@ subtitle: Musculoskeletal Dynamics
     - ch17 Screening the Lower Quadrant:  Buttock, Hip, Groin, igh, and Leg @heickGoodmanSnyderDifferential2023k
 - manual tx
     - ch25 Orthopaedic Manual Physical Therapy of the Hip @wiseOrthopaedicManualPhysical2015
+- Therex
+  - Ch20 the hip @kisnerTherapeuticExerciseFoundations2018
 :::
 
 
@@ -44,7 +46,7 @@ Bursae are fluid-filled sacs between bones and soft tissues [@aptaCurrentConcept
 Often, bursa separate tendons from underlying bone [@aptaCurrentConceptsOrthopaedic2024].
 Bursa function to reduce friction to protect tissues that undergo much repetitive movement [@aptaCurrentConceptsOrthopaedic2024].
 
-There are 3 key bursa of the hip:
+There are 3 key bursa of the hip according to the APTA [@aptaCurrentConceptsOrthopaedic2024]
 <ul>
     <li>Greater trochanter bursa</li>
     <li>Iliopsoas bursa</li>
@@ -56,283 +58,41 @@ Traditionally, bursa dysfunction is thought to be a cause of hip pain [@aptaCurr
 
 :::
 
-Historically, these structures are often indicated as potential sources of nociception. While trochanteric bursitis may be common, current literature suggests the condition may be one of numerous diagnoses related to lateral hip pain.11 The term greater trochanteric pain syndrome (GTPS) represents a more inclusive consideration of the bursa and gluteal tendon attachments at the trochanteric region. Trochanteric bursitis and gluteal tendinopathy will be examined in the GTPS section of this monograph.11
-[@aptaCurrentConceptsOrthopaedic2024]
+Dutton focuses on 3 greater trochanteric bursae:
 
-# Motions
-
-There are 6 motions of the hip joint.
-
-Flexion & extension which occur in the sagittal plane.
-Abduction & Adduction which occur in the frontal plane.
-Internal and external rotation in the transverse plane.
-
-# Assessment (b proj)
-
-- Observation
-- Symptoms
-- Subjective
-
-## Observation
-
-- Assessing a client prior to the formal session, is an opportunity to gather the most candid movement and posture analysis.
-
-## Symptoms
-
-Symptoms generally dictate a client's chief complaint.
-Symptoms should be used as cues to the condition and are important to address in the plan of care, but should *not* be used to guide the plan of care.
-
-For example, a client could be experiencing trunk pain as the source of their symptoms, but the *cause* and *primary dysfunction* is actually the hip.
-In this scenario, hyperfixating on the trunk would be a disservice to this patient, and would require constant symptom management until the *primary dysfunction* is addressed.
+1. Subgluteus medius bursa @duttonDuttonOrthopaedicExamination2020
+1. Subgluteus maximus bursa @duttonDuttonOrthopaedicExamination2020
+1. Superficial subgluteus maximus bursa @duttonDuttonOrthopaedicExamination2020
 
 
 
-## Subjective
-
-Before you throw the patient on the table and go to town poking and prodding, take a moment to gather a complete subjective.
-
-Take a moment to listen to:
-
-- The patient's story
-- Their description of the 
-
-- List the client's activities and activities of daily living.
-    - Frequency
-    - Duration
-    - Intensity
-
-::: {.callout-caution}
-Client's will often exclude their favorite activities from their list of aggravating factors.
-:::
-
-## Table assessment
-
-The table assessment should be guided based on a combination of your [observations](#observation) and their [subjective account](#subjective).
 
 
-### Initial setup
+# Joint Capsule and Ligaments
 
-- Patient position: Prone with hips supported and feet supported.
-- Clinician: Generally to the side of the patient
-- Bend the knee so that you can use the distal lower leg as a lever to assess hip rotation
+- Iliofemoral ligament
+- Pubofemoral ligament
+- Ischiofemoral ligament
+- Ligamentum Teres
+- Transverse acetabular ligament
 
-## Palpation
+# Acetabular Labrum
 
-To assess the hip here is how i usually start:
+The *acetabular labrum* is considered similar to the *glenohumeral labrum* and the *knee menisci* since all are fibrocartilage structures which function to enhance joint stability and increase joint contact @duttonDuttonOrthopaedicExamination2020
 
-- Begin at the gluteal insertions around the rim of the ischium and iliac crests.
-- move towards the center of the glutes and assess tone
-- Move to the greater trochanter and assess hip IR
-- assess the tendinous insertions of the Hip's deep stabilizer muscles
-- Assess/treat the muscle bellies of the deep stabilizers.
+## Sensory functions
 
-### Adductor palpation
+The outer third of the labrum has nerve-endings to detect nociception and sensory end organs for proprioception @duttonDuttonOrthopaedicExamination2020
 
+## Functions
 
-- Patient positioned in *prone*
-- Start at ischial tuberosity and role infero-medially
-    - Note the difference in fiber direction and depth between the hamstring fibers and the adductor fibers
-    - At the ischial tuberosity, you should be able to palpate the [origin of the adductor magnus]({{< var ref-adductor-magnus.origin >}})
-- Work your way down the femoral shaft, rolling medially to palpate the insertions of the adductors
-- Proximal 1/4 of the femoral shaft
-    - The adductor magnus will be the most posteriorly superficial adductor muscle.
-    - After diving through the adductor magnus you will reach the posterior intermediate compartment, and you will palpate the adductor brevis.
-    - Lastly, the pectineus inserts most anteriorly and thus will be palpated last.
-- Middle half of the femoral shaft
-    - You will first palpate the adductor magnus
-    - Diving deeper, you will be able to palpate adductor longus and adductor brevis.
-    - Both of these muscles are at the intermediate layer, and thus transition between these two muscles should be at the same depth.
-    - The adductor brevis muscle will be more superior
-    - The adductor longus inserts inferior to the adductor brevis.
-- Distal 1/4
-    - The adductor longus' insertion will end by the distal 1/4 of the femur.
-    - The adductor magnus' insertion will also stop and then reinsert at the *adductor tubercle*.
-        - The space created is the *adductor hiatus*.
-
-### Sidelying palpation
-
-
-- IT Band
-    - Follow it proximally as it moves anterolaterally to join the TFL
-    - Palpate it posterolaterally as it joins the gluteus maximus proximally
-    - Assess the IT band against the femur as moves distally
-    - It should feel fibrous, but the layers should be able to shear freely
-    - Feel how the IT band acts as a divider between the lateral quadriceps and the hamstrings.
-- TFL
-- Glute max
-    - Its transition in the IT Band
-- Glute med and glute min
-- Assess the lateral roll and inferomedial glide of the femoroacetabular joint.
-    - Press under the greater trochanter and into the femoral neck.
-    - Normal: Elastic feeling
-    - Abnormal: Premature and rigid end feel (no elastic bounce/give)
-
-## Rotation assessment
-
-Hip rotation is a solid starting point for assessing the quality of the hip's range of motion.
-This test can assess the quality of both *internal rotation* and *extension*.
-
-
-
-## Posterior hip muscle pathways
-
-As you approach the hip in a practical/clinical sense, it will benefit you to group the muscles in terms of *purpose* rather than as individual muscles.
-
-Setup:
-
-- Use your treatment hand to palpate the posterior hip muscles.
-- Bend the knee to 90&deg; and keep the thigh supported against the treatment table.
-- Your opposite hand is holding the individual's distal lower leg.
-- Using your *opposite* hand, rotate the hip from neutral (vertical lower leg) to internal rotation (away from midline) @jonesProjectPhysicalTherapy2025.
-
-Note:
-
-- Hip end feel
-- Muscle tension changes
-
-::: {.callout-tip title="Guarding end feel"}
-A guarding end feel has **no elasticity**.
-
-When a muscle is guarding, it will abruptly stop since it is protecting the body from a stretch.
-Muscle guard release begins at neutral.
-As the muscle release progresses, slowly progress the range of internal rotation.
-:::
-
-
-## Prone treatment Categories
-
-- Gluteus maximus (Deep and superficial layers)
-- Pelvitrochanteric muscles
-- Gluteus medius and gluteus minimus
-- Hamstrings, hip adductors, and IT band
-
-## Iliotibial tract and hip ROM in sidelying
-
-Lateral stability is crucial to weight bearing and linear movements.
-The [TFL]({{< var ref-tensor-fascia-latae.path >}}) and [Glute max]({{< var ref-gluteus-maximuspath >}}) co-activate and tense the [IT band]({{< var ref-iliotibial-band.path >}}) to affect lateral stability @jonesProjectPhysicalTherapy2025.
-
-::: {.callout-note}
-Laterally leaning into one's [IT band]({{< var ref-iliotibial-band.path >}}) is a common compensation when one lacks activate lateral leg stability @jonesProjectPhysicalTherapy2025.
-:::
-
-
-
-# Stabilization (b proj)
-
-The ligaments of the femoracetabular joint include the iliofemoral, pubofemoral, and ischiofemoral ligaments.
-All of these ligaments are tensioned in extension.
-
-The posterior hip is supported by the deep stabilizers
-The anterior hip is supported by the long tendons of the hip flexors
-
-# Treatment Plan
+- Deepens socket by 21% @duttonDuttonOrthopaedicExamination2020 to increase joint stability @duttonDuttonOrthopaedicExamination2020
+- Absorbs 28% of hip joint forces @duttonDuttonOrthopaedicExamination2020 which decreases load on articular cartilage @duttonDuttonOrthopaedicExamination2020
+- Force Distributor  @duttonDuttonOrthopaedicExamination2020
+- Shock absorber @duttonDuttonOrthopaedicExamination2020
+- Improve hip mobility due to its elastic nature compared to a bony rim alternative
 
 # Muscles
-
-## Maximal Torque Produced by the hip muscles
-
-“Normative data on the maximal­effort torque production of the hip muscles may be useful for assessing progress and setting of goals for persons involved in rehabilitation and training programs. Fig. 12.48 depicts the average, maximal internal torque produced by a sample of healthy males.34 It is interesting to observe the ranking of the peak torques across the three planes of motion. The greatest torque is produced in the sagittal plane, with exten­ sion torque slightly exceeding flexion torque. The predominant strength of the hip extensors compared with all other muscle groups is not surprising: these muscles must lift or propel the body upward (and often forward) against gravity or control the descent of the body. The relatively high strength of the hip flexor muscles reflects the need to rapidly accelerate the lower limb during running, in addition to controlling the entire trunk and pelvis relative to fixed lower extremities. Consider in the latter case the physically powerful iliopsoas, for example—a muscle that likely accounts for a significant proportion of the flexion torque poten­ tial at the hip. The adductor and abductor muscles generate similar magni­ tudes of peak torque within the frontal plane, but of lower com­ bined magnitude than the flexor and extensor muscles.34,226 The internal and external rotator muscles produce the least magnitude of torque of all muscle groups of the hip. Such a ranking is likely due to the fact that, in the upright position, these muscles produce a rotary torque between the femur and pelvis in a plane that does not typically oppose the force of gravity.” @neumannKinesiologyMusculoskeletalSystem2017 
-
-
-
-# Manual therapy
-
-- Manual therapy should be prioritized around the [primary dysfunction](#dysfunction-and-compensation).
-
-
-# Abduction
-
-Abduction refers to when the leg pivots directly laterally relative to the pelvis @jonesProjectFoundations2025.
-
-ROM of this movement will depend on *pelvic positioning* and *torso control* @jonesProjectFoundations2025.
-When measuring ROM, the limit of abduction is when the pelvis begins to move with the leg in question @jonesProjectFoundations2025.
-
-When reaching the abduction ROM limit of one hip, it will typically be followed by activation of the contralateral hip @jonesProjectFoundations2025.
-The passive limit of the ipsilateral hip and contralateral activation of the other results in lateral tilting of the pelvis towards the ipsilateral side @jonesProjectFoundations2025.
-
-## Sidelying Activation
-
-- Patient sidelying and facing slightly towards the floor to promote hip abduction/extension
-- Body position is the key to isolating the hip and preventing/minimizing compensatory counter movements @jonesProjectFoundations2025.
-- Hold end position for 5 seeconds.
-    - This prevents the compensations that occur by bouncing between eccentric and concentric phases @jonesProjectFoundations2025.
-
-## Hip abduction + High knee
-
-Adding a *high knee* component allows the linear movement to explore the full range, while holding the leg laterally against gravity @jonesProjectFoundations2025.
-
-Keys to setup
-
-- 
-
-# Adduction
-
-Adduction of the hips refers to when the leg pivots medially relative to the pelvis @jonesProjectFoundations2025.
-
-::: {.callout-tip}
-"Due to opposite leg contact, there is no true adduction range" @jonesProjectFoundations2025
-:::
-
-Hip adduction is a *relative* movement, only occurring when moving *from* abduction to neutral @jonesProjectFoundations2025.
-
-Exercises include:
-
-- [Seated wall Hip adduction contract relax](#seated-wall-hip-adduction-contract-relax)
-
-
-
-# Dysfunction & Compensation {#dysfunction-and-compensation}
-
-- Primary dysfunction: 
-    - The epicenter of the manual therapy battle
-    - This is the region will *not* respond to treatment without the necessary time and effort @jonesProjectPhysicalTherapy2025.
-- Secondary dysfunction:
-    - Regions of the body that are adjusted their role and function due to the primary dysfunction
-    - Over time, the secondary dysfunctions will occur until *tertiary compensations* appear @jonesProjectPhysicalTherapy2025.
-
-
-
-The trunk's muscle tolerance is generally *much lower* than the leg's muscle guarding @jonesProjectPhysicalTherapy2025.
-As a result, the legs will tend to disengage and rely on trunk mobility to achieve a movement.
-
-# Pain
-
-::: {.callout title="Reading list"}
-
-- Ch62 Clinical Considerations of Hip, Thigh, and Knee Pain @donnellyTravellSimonsSimons2019
-
-:::
-
-# Foundational Exercises
-
-
-- [Seated wall Hip adduction contract relax](#seated-wall-hip-adduction-contract-relax)
-    - Adductor stretch
-    - Abduction ROM (not true abduction)
-- Dead bugs
-    - Hip flexor activation
-
-
-## Hip Adduction / Wall Assist / Hand Resist {#seated-wall-hip-adduction-contract-relax}
-
-"Using a wall to assist in performing hand resistant hip adduction is not a true adduction movement. The adduction is coming from flexion + abduction + rotation position into flexion/adduction/rotation AROM. The goal is to activate hip adduction to release muscle guarding into greater pROM hip abduction range" @jonesProjectFoundations2025.
-
-### Setup
-
-The setup is similar to the *wall sit foundational exercise* but instead of a "V" position of the lower extremity, we employ the "butterfly" position @jonesProjectFoundations2025.
-
-- Sit at the crease of the wall and the floor
-- Roll your hips forward (Anterior pelvic tilt) in order to push your glutes as far into the crease as possible
-- Activate your abdominals by drawing your naval towards the wall without losing your hip position
-- Retract and depress your shoulders
-- Look forward (chin tuck) and bring your head backwards (retract) to hold it against the wall
-- Bend both knees and externally rotate the hips so that the plantar feet are in contact with eachother at midline.
-- Note the starting position of each leg, if they are symmetrical and how much range they hips have in this position.
-- Place both hands on the medial surface of each knee
-- Apply pressure to create tension on the hip adductors and feel for feedback
-
-Elasticity is a sign of healthy adductor and hips @jonesProjectFoundations2025.
-Pain and rigidity is a sign of dysfunction @jonesProjectFoundations2025.
 
 
 
@@ -361,11 +121,7 @@ Pain and rigidity is a sign of dysfunction @jonesProjectFoundations2025.
 
 # Arthrokinematics
 
-# Hip Pathologies and selected therapeutic/surgical interventions
 
-## Hip Osteoarthritis (OA)
-
-## Treatment of Unstable hip
 
 
 
@@ -514,6 +270,499 @@ which allows maximal accessory joint motion.
 - Iliofemoral ligament
 :::
 
+
+# Motions
+
+There are 6 motions of the hip joint.
+
+Flexion & extension which occur in the sagittal plane.
+Abduction & Adduction which occur in the frontal plane.
+Internal and external rotation in the transverse plane.
+
+
+# Pathologies
+
+
+- Fractures
+- Avascular Necrosis
+- Systemic Inflammation
+- Infection
+- Femoral Neck Stress Fracture
+- Ankylosing Spondylitis
+- Lumbar disc herniation
+- Lumbar Radiculopathy
+- SIJ Dysfunction
+- Pelvic floor dysfunction
+
+- Hip Osteoarthritis
+- Hip Microinstability
+- Femoroacetabular Impingement Syndrome
+- Hip Dysplasia
+- Greater Trochanteric Pain Syndrome
+- Piriformis Syndrome
+- Iliopsoas Complex Injuries
+- Adductor muscle strain
+- Hamstring muscle strain
+
+## Hip Infection
+
+Examples include *septic arthritis* or *osteomyelitis*
+
+::: {.columns}
+::: {.column}
+- Hip pain @aptaCurrentConceptsOrthopaedic2024
+- Acute onset @aptaCurrentConceptsOrthopaedic2024
+- Localized redness @aptaCurrentConceptsOrthopaedic2024
+- Localized swelling @aptaCurrentConceptsOrthopaedic2024
+- Fever @aptaCurrentConceptsOrthopaedic2024
+:::
+::: {.column}
+**Immediate** attention by a physician is required
+
+Postpone current and future PT visits
+:::
+:::
+
+
+## Gout
+
+- Hip Pain @aptaCurrentConceptsOrthopaedic2024
+- Acute onset @aptaCurrentConceptsOrthopaedic2024
+- Localized redness @aptaCurrentConceptsOrthopaedic2024
+- Localized swelling @aptaCurrentConceptsOrthopaedic2024
+
+## Avascular Necrosis (AVN)
+
+::: {.columns}
+::: {.column}
+- Onset: &gt;6 weeks
+- ~30-50 years old
+- Traumatic MOI
+- Atraumatic MOI: Hx corticosteroid use
+- Decreased ROM
+- Pain with weightbearing
+:::
+::: {.column}
+Presents like OA but with a short onset
+
+Warrants medical referral
+:::
+:::
+
+
+## Stress Fractures
+
+Overuse injuries resulting in bony degeneration
+
+### Presentation
+
+- **Population 1**: Athlete undergoing high repetitive loads
+- **Population 2**: Osteoporosis with weakened bone structure
+
+::: {.columns}
+::: {.column}
+- Gradual onset of anterior hip pain
+- Worse with activity, *fully* relieved with rest
+:::
+::: {.column}
+- Single Leg Balance
+- Single Leg Squat
+- Single Leg Hopping
+:::
+:::
+
+### Stress Fx Diagnosis
+
+Palpation is unreliable diagnostic tool due to the overlying soft tissue.
+
+MRI is considered the gold standard for diagnosis of stress fractures.
+
+::: {.callout-caution}
+Do **not** rely on XRAY results alone to rule out stress fractures.
+:::
+
+### Patellar Pubic Percussion Test
+
+
+::: {.columns}
+::: {.column}
+- Patient positioned in supine
+- Stethoscope placed over pubic tubercle
+- Tap ipsilateral patella
+:::
+::: {.column}
+(+) Lack of sound propagation indicate femoral neck or pubic rami fracture
+:::
+:::
+
+
+
+## Red Flag Summary
+
+::: {.columns}
+::: {.column}
+
+- Lack of radiology
+- Acute onset
+- Trauma or a missing MOI
+- Fever
+
+:::
+::: {.column}
+
+- Erythema (redness)
+- Edema (swelling)
+- (+) Patellar Pubic Percussion Test
+
+:::
+:::
+
+
+# Lumbopelvic pathologies
+
+
+## Lumbar
+Lumbar radiculopathies that result in radiating pain through and around the hip
+
+## SIJ
+
+- Fortin's Point: Pain around the PSIS
+- SIJ Compression Test
+- SIJ Distraction Test
+- Innominate rotation
+- SIJ Thigh Thrust Test
+- Sacral Thrust Test
+
+## Pelvic Floor Dysfunction
+
+- Bowel and Bladder Changes
+- Hx of Pregnancy or Birth
+- Pain with sexual activity
+- Pain in Pelvic region
+
+
+## Referred pain
+
+::: {.columns}
+::: {.column width="40%"}
+- Kidney
+- Ureter
+- Urinary Bladder
+:::
+::: {.column width="60%"}
+![Referred Pain Chart @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig15.7 Referred Pain Chart.png){#fig-referred-pain}
+:::
+:::
+
+
+# Gait 
+
+Patients who display a limp are 7x more likely to have a *hip* or *hip and spine* disorder compared to an *isolated spine issue* @aptaCurrentConceptsOrthopaedic2024.
+
+
+# Subjective
+
+Before you throw the patient on the table and go to town poking and prodding, take a moment to gather a complete subjective.
+
+Take a moment to listen to:
+
+- The patient's story
+- Their description of the 
+
+- List the client's activities and activities of daily living.
+    - Frequency
+    - Duration
+    - Intensity
+
+::: {.callout-caution}
+Client's will often exclude their favorite activities from their list of aggravating factors.
+:::
+
+
+- Pain
+  - Nature
+  - Severity (NPRS)
+- 24 hour pain pattern
+  - AM vs PM
+  - AM stiffness
+- Onset
+- Pelvic floor
+  - B&B
+  - Hx pregnancy or Birth
+
+## History
+
+
+
+
+
+
+# Assessment (b proj)
+
+- Observation
+- Symptoms
+- Subjective
+
+## Observation
+
+- Assessing a client prior to the formal session, is an opportunity to gather the most candid movement and posture analysis.
+
+## Symptoms
+
+Symptoms generally dictate a client's chief complaint.
+Symptoms should be used as cues to the condition and are important to address in the plan of care, but should *not* be used to guide the plan of care.
+
+For example, a client could be experiencing trunk pain as the source of their symptoms, but the *cause* and *primary dysfunction* is actually the hip.
+In this scenario, hyperfixating on the trunk would be a disservice to this patient, and would require constant symptom management until the *primary dysfunction* is addressed.
+
+
+
+
+## ROM
+
+|Movement|Range@aptaCurrentConceptsOrthopaedic2024 |End-Feel @duttonDuttonOrthopaedicExamination2020 |
+|-|-|-|
+|Flexion|120&deg;|Tissue approximation/stretch|
+|Extension|20&deg;|Tissue stretch|
+|Abduction|40&deg;|Tissue stretch|
+|Adduction|25&deg;|Tissue approximation/stretch|
+|Internal Rotation|35&deg;|Tissue stretch|
+|External Rotation|45&deg;|Tissue stretch|
+: ROM norms from @aptaCurrentConceptsOrthopaedic2024. End feels from @duttonDuttonOrthopaedicExamination2020 {.striped}
+
+
+## Muscle Length Tests
+
+|Test|Muscles tested|
+|-|-|
+|Thomas Test|Iliopsoas|
+|Thomas Test (90&deg; knee flexion)|Rectus femoris|
+|Thomas Test (hip IR)|Sartorius|
+|Thomas Test (Hip ER Bias)|TFL|
+|Hip Adductor length test (neutral)| Adductors|
+|Hip Adductor length test (90&deg; hip flexion)|Adductors|
+|Straight Leg Raise|Hamstrings|
+|Ober's Test|TFL/ITB|
+: {.striped}
+
+## Table assessment
+
+The table assessment should be guided based on a combination of your [observations](#observation) and their [subjective account](#subjective).
+
+
+### Initial setup
+
+- Patient position: Prone with hips supported and feet supported.
+- Clinician: Generally to the side of the patient
+- Bend the knee so that you can use the distal lower leg as a lever to assess hip rotation
+
+## Palpation
+
+To assess the hip here is how i usually start:
+
+- Begin at the gluteal insertions around the rim of the ischium and iliac crests.
+- move towards the center of the glutes and assess tone
+- Move to the greater trochanter and assess hip IR
+- assess the tendinous insertions of the Hip's deep stabilizer muscles
+- Assess/treat the muscle bellies of the deep stabilizers.
+
+### Adductor palpation
+
+In prone you can palpate [Pectineus]({{< var ref-pectineus.palpation >}}), [Adductor longus]({{< var ref-adductor-longus.palpation >}}), [Adductor brevis]({{< var ref-adductor-brevis.palpation >}}), and [Adductor magnus]({{< var ref-adductor-magnus.palpation >}}).
+
+
+
+### Sidelying palpation
+
+
+- IT Band
+- TFL
+- Glute max
+    - Its transition in the IT Band
+- Glute med and glute min
+- Assess the lateral roll and inferomedial glide of the femoroacetabular joint.
+    - Press under the greater trochanter and into the femoral neck.
+    - Normal: Elastic feeling
+    - Abnormal: Premature and rigid end feel (no elastic bounce/give)
+
+## Rotation assessment
+
+Hip rotation is a solid starting point for assessing the quality of the hip's range of motion.
+This test can assess the quality of both *internal rotation* and *extension*.
+
+
+
+## Posterior hip muscle pathways
+
+As you approach the hip in a practical/clinical sense, it will benefit you to group the muscles in terms of *purpose* rather than as individual muscles.
+
+Setup:
+
+- Use your treatment hand to palpate the posterior hip muscles.
+- Bend the knee to 90&deg; and keep the thigh supported against the treatment table.
+- Your opposite hand is holding the individual's distal lower leg.
+- Using your *opposite* hand, rotate the hip from neutral (vertical lower leg) to internal rotation (away from midline) @jonesProjectPhysicalTherapy2025.
+
+Note:
+
+- Hip end feel
+- Muscle tension changes
+
+::: {.callout-tip title="Guarding end feel"}
+A guarding end feel has **no elasticity**.
+
+When a muscle is guarding, it will abruptly stop since it is protecting the body from a stretch.
+Muscle guard release begins at neutral.
+As the muscle release progresses, slowly progress the range of internal rotation.
+:::
+
+
+
+## Iliotibial tract and hip ROM in sidelying
+
+Lateral stability is crucial to weight bearing and linear movements.
+The [TFL]({{< var ref-tensor-fascia-latae.path >}}) and [Glute max]({{< var ref-gluteus-maximuspath >}}) co-activate and tense the [IT band]({{< var ref-iliotibial-band.path >}}) to affect lateral stability @jonesProjectPhysicalTherapy2025.
+
+::: {.callout-note}
+Laterally leaning into one's [IT band]({{< var ref-iliotibial-band.path >}}) is a common compensation when one lacks activate lateral leg stability @jonesProjectPhysicalTherapy2025.
+:::
+
+
+
+# Stabilization (b proj)
+
+The ligaments of the femoracetabular joint include the iliofemoral, pubofemoral, and ischiofemoral ligaments.
+All of these ligaments are tensioned in extension.
+
+The posterior hip is supported by the deep stabilizers
+The anterior hip is supported by the long tendons of the hip flexors
+
+
+
+# Gait
+
+- Is the patient using an AD?
+    - Is it in the correct hand?
+    - Is it fitted to the correct height?
+- Hip
+    - Limp
+    - Trendelenberg / Compensated Trendelenberg
+- Knee
+- Ankle
+    - overpronation
+    - Footslap / Foot drop
+
+
+The *Forward Lunge* with the lead leg on a box or chair is useful to measure knee flexion and hip flexion of the anterior leg and hip extension of the rear leg @duttonDuttonOrthopaedicExamination2020
+
+*Single leg stance* is another test to observe the patient's ability to perform unilateral standing *without* momentum and dynamic components of gait @duttonDuttonOrthopaedicExamination2020
+
+
+# Treatment Plan
+
+
+
+# Manual therapy
+
+- Manual therapy should be prioritized around the [primary dysfunction](#dysfunction-and-compensation).
+
+
+
+## Strain-Counterstrain
+
+{{< video https://www.youtube.com/watch?v=UJtINDz7Rc8 >}}
+
+## Prone treatment Categories
+
+- Gluteus maximus (Deep and superficial layers)
+- Pelvitrochanteric muscles
+- Gluteus medius and gluteus minimus
+- Hamstrings, hip adductors, and IT band
+
+# Abduction
+
+Abduction refers to when the leg pivots directly laterally relative to the pelvis @jonesProjectFoundations2025.
+
+ROM of this movement will depend on *pelvic positioning* and *torso control* @jonesProjectFoundations2025.
+When measuring ROM, the limit of abduction is when the pelvis begins to move with the leg in question @jonesProjectFoundations2025.
+
+When reaching the abduction ROM limit of one hip, it will typically be followed by activation of the contralateral hip @jonesProjectFoundations2025.
+The passive limit of the ipsilateral hip and contralateral activation of the other results in lateral tilting of the pelvis towards the ipsilateral side @jonesProjectFoundations2025.
+
+## Sidelying Activation
+
+- Patient sidelying and facing slightly towards the floor to promote hip abduction/extension
+- Body position is the key to isolating the hip and preventing/minimizing compensatory counter movements @jonesProjectFoundations2025.
+- Hold end position for 5 seeconds.
+    - This prevents the compensations that occur by bouncing between eccentric and concentric phases @jonesProjectFoundations2025.
+
+
+
+# Adduction
+
+Adduction of the hips refers to when the leg pivots medially relative to the pelvis @jonesProjectFoundations2025.
+
+::: {.callout-tip}
+"Due to opposite leg contact, there is no true adduction range" @jonesProjectFoundations2025
+:::
+
+Hip adduction is a *relative* movement, only occurring when moving *from* abduction to neutral @jonesProjectFoundations2025.
+
+Exercises include:
+
+- [Seated wall Hip adduction contract relax](#seated-wall-hip-adduction-contract-relax)
+
+
+
+# Dysfunction & Compensation {#dysfunction-and-compensation}
+
+- Primary dysfunction: 
+    - The epicenter of the manual therapy battle
+    - This is the region will *not* respond to treatment without the necessary time and effort @jonesProjectPhysicalTherapy2025.
+- Secondary dysfunction:
+    - Regions of the body that are adjusted their role and function due to the primary dysfunction
+    - Over time, the secondary dysfunctions will occur until *tertiary compensations* appear @jonesProjectPhysicalTherapy2025.
+
+
+
+The trunk's muscle tolerance is generally *much lower* than the leg's muscle guarding @jonesProjectPhysicalTherapy2025.
+As a result, the legs will tend to disengage and rely on trunk mobility to achieve a movement.
+
+# Foundational Exercises
+
+
+- [Seated wall Hip adduction contract relax](#seated-wall-hip-adduction-contract-relax)
+    - Adductor stretch
+    - Abduction ROM (not true abduction)
+- Dead bugs
+    - Hip flexor activation
+
+
+## Hip Adduction / Wall Assist / Hand Resist {#seated-wall-hip-adduction-contract-relax}
+
+"Using a wall to assist in performing hand resistant hip adduction is not a true adduction movement. The adduction is coming from flexion + abduction + rotation position into flexion/adduction/rotation AROM. The goal is to activate hip adduction to release muscle guarding into greater pROM hip abduction range" @jonesProjectFoundations2025.
+
+### Setup
+
+The setup is similar to the *wall sit foundational exercise* but instead of a "V" position of the lower extremity, we employ the "butterfly" position @jonesProjectFoundations2025.
+
+- Sit at the crease of the wall and the floor
+- Roll your hips forward (Anterior pelvic tilt) in order to push your glutes as far into the crease as possible
+- Activate your abdominals by drawing your naval towards the wall without losing your hip position
+- Retract and depress your shoulders
+- Look forward (chin tuck) and bring your head backwards (retract) to hold it against the wall
+- Bend both knees and externally rotate the hips so that the plantar feet are in contact with eachother at midline.
+- Note the starting position of each leg, if they are symmetrical and how much range they hips have in this position.
+- Place both hands on the medial surface of each knee
+- Apply pressure to create tension on the hip adductors and feel for feedback
+
+Elasticity is a sign of healthy adductor and hips @jonesProjectFoundations2025.
+Pain and rigidity is a sign of dysfunction @jonesProjectFoundations2025.
+
+
+
+
+
 # MMT
 
 ::: {.callout title="Reading list"}
@@ -533,22 +782,98 @@ which allows maximal accessory joint motion.
 
 <!-- seep545 [@aptaCurrentConceptsOrthopaedic2024] -->
 
+
 # Screening
 
 ## Lumbopelvic complex
 
 - Lumbar AROM as both single and repeated movement [@aptaCurrentConceptsOrthopaedic2024]
 
+# Pain
 
 
-# Testing
+Dutton divided the causes of hip pain into the following categories: p849 @duttonDuttonOrthopaedicExamination2020
+
+- Articular cartilage
+- Childhood disorders
+- Infection
+- Neurologic
+- Referred
+- Systemic
+- Trauma
+- Vascular
+
+::: {.callout title="Reading list"}
+
+- Ch62 Clinical Considerations of Hip, Thigh, and Knee Pain @donnellyTravellSimonsSimons2019
+
+:::
+
+
+# Special Tests
+
+
+- [**Flexion Abduction ER Test (FABER)**]({{< var ref-faber-test.path >}}): Provocation of hip pain rules in Hip joint or SIJ dysfunction
+- [**Scour Quadrant Test**]({{< var ref-hip-scour-test.path >}}): 
+    - Provocation of anterior hip or groin pain rules in intra-articular conditions.  
+    - Crepitus indicates abnormal intra-articular structures.
+- [**Flexion-Adduction-Internal Rotation Test (FADIR)**]({{< var ref-fadir-test.path >}}): Provocation of *Anterior hip pain* or *groin pain* is indicative of *FAI* or *Acetabular Labral injury*
+- Posterior Impingement Test 
+- **Log-Roll Test**: Increased external rotation of the femur on the involved limb indicates laxity of anterior capsuloligamentous structures
+- Dial Test
+- McCarthy Sign
+- Hamstring Provocation tests
+  - Puranen-Orova Test @duttonDuttonOrthopaedicExamination2020
+  - Bent-knee stretch Test @duttonDuttonOrthopaedicExamination2020
+  - Modified Bent-knee stretch Test @duttonDuttonOrthopaedicExamination2020
+  - Taking off the shoe test @duttonDuttonOrthopaedicExamination2020
+  - Active ROM test @duttonDuttonOrthopaedicExamination2020
+  - Passive ROM test @duttonDuttonOrthopaedicExamination2020
+  - Resisted ROM test @duttonDuttonOrthopaedicExamination2020
+- [Craig Test]({{< var ref-craig-hip-test.path >}})
+- Flexion-Adduction Test @duttonDuttonOrthopaedicExamination2020
+- Supine Plank Test @duttonDuttonOrthopaedicExamination2020
+- Hip Stability Isometric Test (HipSIT) @duttonDuttonOrthopaedicExamination2020
+- Trendelenberg Sign @duttonDuttonOrthopaedicExamination2020
+- Single-Leg Stance Test p870 @duttonDuttonOrthopaedicExamination2020
+- Pelvic Drop Test @duttonDuttonOrthopaedicExamination2020
+- Resisted Straight Leg Raise Test (Stinchfield's Test) [@wongPhysicalExaminationHip2022; @duttonDuttonOrthopaedicExamination2020] 
+
+**AB-HEER Test**: Provocation of anterior hip or groin pain indicates *anterior microinstability*
+- **Prone Hip Instability Test*: Provocation of anterior hip or groin pain indicates *anterior microinstability*
+- **Hyper Extension-External Rotation (HEER)**: Provocation of at *point of palpation* or *Radiating pain* is positive for Piriformis/ deep hip stabilizer muscle dysfunction and potential sciatic nerve entrapment
+- Adductor Isometric Squeeze Provocation Test
+    - Provocation of groin pain indicates adductor muscle involvement on symptomatic side.
+    - Provocation with hip in neutral (0&deg;) is a **contraindication** for return-to-play
+- **Gluteal De-Rotation Test**: Provocation of Lateral Hip pain is a indicates *GTPS secondary to gluteal tendinopathy*
+- **Active Sidelying Piriformis Test**: Provocation of at *point of palpation* or *Radiating pain* is positive for Piriformis/ deep hip stabilizer muscle dysfunction and potential sciatic nerve entrapment
+- **Seated Piriformis Stretch Provocation Test**: Provocation of at *point of palpation* or *Radiating pain* is positive for Piriformis/ deep hip stabilizer muscle dysfunction and potential sciatic nerve entrapment
+- Piriformis Compression Test of the sciatic Nerve @duttonDuttonOrthopaedicExamination2020
+- Gear Stick Sign [@wongPhysicalExaminationHip2022] 
+- [Femoral Shaft Fulcrum Test]({{< var ref-femoral-shaft-fulcrum-test.path >}}) @duttonDuttonOrthopaedicExamination2020
+
+## Leg Length Discrepancy
+
+[Leg Length Discrepancy]({{< var ref-leg-length-discrepancy.path >}})
+
+## Provocative maneuvers
+
+- Anterior Apprehension Test (Hyperextension, External Rotation Test) [@wongPhysicalExaminationHip2022] 
+- Abduction-Extension-External Rotation Test [@wongPhysicalExaminationHip2022] 
+- Prone External Rotation Test [@wongPhysicalExaminationHip2022] 
+- Log Roll Test (Dial Test) [@wongPhysicalExaminationHip2022] 
+- Posterior Apprehension Test [@wongPhysicalExaminationHip2022] 
+- Axial Distraction Test @wongPhysicalExaminationHip2022 
+
+
+# Muscle Length Tests
 
 ## Hip Tightness
 
 - [Thomas Test]({{< var ref-thomas-test.path >}}) [@wongPhysicalExaminationHip2022]
 - [Ober's Test]({{< var ref-obers-test.path >}}) [@wongPhysicalExaminationHip2022] 
 
-## Functional Tests
+# Functional Tests
 
 - Squat Analysis
 - Deep Squat Test
@@ -562,39 +887,700 @@ which allows maximal accessory joint motion.
 - Posterior Impingement Test
 - [Flexion-Abduction-External Rotation (FABER/Patrick Sign)]({{< var ref-faber-test.path >}})
 
-## Other/Extra-Articular Maneuvers
 
-- Resisted Straight Leg Raise (Stinchfield Test) [@wongPhysicalExaminationHip2022] 
-- [Thomas Test]({{< var ref-thomas-test.path >}}) [@wongPhysicalExaminationHip2022] 
-- Gear Stick Sign [@wongPhysicalExaminationHip2022] 
+# Pediatric Pathologies
+
+## Legg-Calve-Perthes Disease
+
+- Insidious Onset @duttonDuttonOrthopaedicExamination2020
+- 1-3mo @duttonDuttonOrthopaedicExamination2020
+- Limp + hip/knee pain @duttonDuttonOrthopaedicExamination2020
+
+## Slipped Capital Femoris Epiphysis (SCFE)
+
+- Onset
+    - Acute (&lt;1 month) @duttonDuttonOrthopaedicExamination2020
+    - Chronic (&lt;6 months) @duttonDuttonOrthopaedicExamination2020
+- Pain
+    - Referred to knee @duttonDuttonOrthopaedicExamination2020
+    - Anterior thigh @duttonDuttonOrthopaedicExamination2020
+- LLD in chronic cases
+- ER relieving, IR aggravating
+
+# Fracture Pathologies
+
+## Avulsion fracture
+
+- Suddent violent mm contraction  @duttonDuttonOrthopaedicExamination2020
+- Hear/feel a "pop" @duttonDuttonOrthopaedicExamination2020
+
+## Femoral Neck Stress Fracture (FNFS) {#femoral-neck-stress-fracture}
+
+ p862 @duttonDuttonOrthopaedicExamination2020
+
+
+# Pathologies
+
+- Fractures
+    - Femur
+    - Pelvic
+- Systemic Inflammation
+- Infection
+- Femoral Neck Stress Fracture
+- Rheumatoid Arthritis
+- Ankylosing Spondylitis
+- Gout
+- Lumbar disc herniation
+- Hip osteoarthritis
+- Hip microinstability
+- Femoroacetabular Impingement Syndrome (FAIS)
+- Ischiofemoral Impingement
+- Greater Trochanteric Pain Syndrome
+- Piriformis Syndrome
+- Hip Dysplasia
+- Iliopsoas Complex Injuries
+- Adductor muscle strain
+- Hamstring muscle strain
+
+
+- Hip pointer p862 @duttonDuttonOrthopaedicExamination2020
+- Contusion p862 @duttonDuttonOrthopaedicExamination2020
+- Myositis ossificans p862 @duttonDuttonOrthopaedicExamination2020
+- [Femoral neck stress fracture](#femoral-neck-stress-fracture)
+- Osteoid osteoma p862 @duttonDuttonOrthopaedicExamination2020
+- Iliotibial Band Syndrome p862 @duttonDuttonOrthopaedicExamination2020
+- Trochanteric Bursitis p862 @duttonDuttonOrthopaedicExamination2020
+- Avascular Necrosis of the Femoral Head  p862 @duttonDuttonOrthopaedicExamination2020
+- Piriformis Syndrome p862 @duttonDuttonOrthopaedicExamination2020
+- Iliopsoas bursitis p862 @duttonDuttonOrthopaedicExamination2020
+- Meralgia Paresthetica  p862 @duttonDuttonOrthopaedicExamination2020
+- Degenerative Arthritis p862 @duttonDuttonOrthopaedicExamination2020
+- Piriformis Tendinitis p862 @duttonDuttonOrthopaedicExamination2020
+- Hip Rheumatoid arthritis
+
+
+
+
+
+
+
+## Rheumatoid Arthritic Hip
+
+
+- Prevent hip contractures
+- AROM in pain-free ROM
+
+
+## Femoroacetabular impingement
+
+### Pincer impingement {#pincer-impingement}
+
+Occurs when there is excessive coverage of the femoral head by the acetabulum (CEA &gt;44&deg; @duttonDuttonOrthopaedicExamination2020) resulting in premature contact between the femur and the acetabulum
+
+### CAM Impingement
+
+alpha angle &gt; 55&deg;
+
+## Hip Dysplasia
+
+
+[**Hip Dysplasia**]({{< var ref-hip-dysplasia.path >}}): {{< var ref-hip-dysplasia.definition >}} [@aptaCurrentConceptsOrthopaedic2024]
+
+While [pincer impingement](#pincer-impingement) occurs from *excessive* coverage of the femoral head by the acetabulum (large CEA), hip dysplasia is the polar opposite and occurs from a *lack* of coverage of the femoral head (CEA &lt; 20&deg;@duttonDuttonOrthopaedicExamination2020)
+
+### Presentation
+
+Often patients compensate for insufficient passive stability by maintianing a position of anterior pelvic tilt to maximize femoral head coverage [@aptaCurrentConceptsOrthopaedic2024].
+
+- Look for associated Iliopsoas and rectus femoris muscle tightness [@aptaCurrentConceptsOrthopaedic2024]
+
+### Treatment
+
+
+Hip dysplasia is an unstable hip with overly-lax or weakened capsuloligamentous structures [@aptaCurrentConceptsOrthopaedic2024].
+
+As a result, treatment should involve a similar approach to hip instability.
+
+
+- Protect structures from instability events
+- Address impairments
+- Optimize function 
+- Prevention of OA
+
 
 ## Microinstability
 
-<!-- The abduction-hyperextension-external rotation (AB-HEER) test was found to be most accurate with a sensitivity of 81% and specificity of 89%. While demonstrating a low sensitivity (34%), the prone instability test showed high specificity (98%). The hyperextension-external rotation (HEER) test demonstrated a sensitivity of 71% and a specificity of 85%. The authors reported a cluster of 3 positive tests was associated with a 95% chance of microinstability.5 @aptaCurrentConceptsOrthopaedic2024 -->
 
-## Provocative maneuvers
-In addition to astandardexamofthehip,thereareanumberofprovocative maneuvers that assess apprehension, range of motion, and joint stability
+## Hip Osteoarthritis (Hip OA)
 
-- Anterior Apprehension Test (Hyperextension, External Rotation Test) [@wongPhysicalExaminationHip2022] 
-- Abduction-Extension-External Rotation Test [@wongPhysicalExaminationHip2022] 
-- Prone External Rotation Test [@wongPhysicalExaminationHip2022] 
-- Log Roll Test (Dial Test) [@wongPhysicalExaminationHip2022] 
-- Posterior Apprehension Test [@wongPhysicalExaminationHip2022] 
-- Axial Distraction Test @wongPhysicalExaminationHip2022 
+[**Hip Osteoarthritis**]({{< var ref-hip-osteoarthritis.path >}}): Progressive degeneration of the femoroacetabular joint
 
-# DDX
 
-- Femoral neck
-- Pubic ramus stress fractures
-- Microinstability
+### OA Etiology
+
+::: {.columns}
+::: {.column}
+**Excessive loads on the hip**
+
+- Sports
+- Heavy labor
+- High BMI
+:::
+::: {.column}
+**Risk factors**
+
+- FAI
 - Dysplasia
-- 
+- PMHx joint injuries
+:::
+:::
+
+::: {.callout-tip}
+The more risk factors a patient has, the less impact the joint will need to rule in OA
+:::
+
+### Presentation
+
+::: {.columns}
+::: {.column}
+- Pain in Groin and Lateral hip
+- Gradual Onset
+- Progressively worsening pattern
+- &gt;50years old
+:::
+::: {.column}
+- &darr; Joint ROM (specifically *IR*)
+- AM Stiffness: &lt;1 hour after immobile periods
+- Strength: &darr; LE strength
+:::
+:::
 
 
-# Strain-Counterstrain
 
-{{< video https://www.youtube.com/watch?v=UJtINDz7Rc8 >}}
+### Special Tests
 
+- (+) [FABER](#faber)
+- (+) [Scour Quadrant Test](#scour-quadrant-test)
+- Relief with Long-axis distraction
+
+
+
+### Old OA Cluster
+
+- Moderate anterior or lateral hip pain with weight bearing activities
+- Morning stiffness &gt;1 hour
+- Hip ROM deficits:
+  - Hip internal rotation ROM &lt;15&deg;
+  - Hip internal rotation and flexion &lt;15&deg; compared to contralateral hip 
+- Increased pain with passive hip IR
+
+### Updated OA Cluster
+
+- Moderate anterior or lateral hip pain with weight bearing activities
+- Morning stiffness &gt;1 hour
+- Hip ROM deficits:
+  - Hip internal rotation ROM &lt;**24**&deg;
+  - Hip internal rotation and flexion &lt;15&deg; compared to contralateral hip 
+- Increased pain with passive hip IR
+
+
+## Treatment approach
+
+Minimize joint irritation and inflammation
+
+
+::: {.columns}
+::: {.column}
+**Short term**
+
+- Modalities
+- Distraction
+- Activity modification
+- Gentle OKC strengthening
+:::
+::: {.column}
+**Long term**
+
+- Closed Kinetic Chain
+- Improve hip stabilization
+- Improve hip load absorption
+:::
+:::
+
+## Treatment Dosage
+
+
+<table class="basic-table">
+    <thead>
+        <td>Type</td>
+        <td>Days</td>
+        <td>Sets</td>
+        <td>Reps</td>
+    <thead>
+    <tr>
+        <td>Resistance</td>
+        <td>2-3</td>
+        <td>3-4</td>
+        <td>8-12x</td>
+    </tr>
+    <tr>
+        <td>Stretching</td>
+        <td>2-3</td>
+        <td>2-4</td>
+        <td>10-30s</td>
+    </tr>
+    <tr>
+        <td>Aerobic</td>
+        <td>3-5</td>
+        <td>20-90min</td>
+        <td>55-90% HRmax</td>
+    </tr>
+</table>
+
+
+
+## Refer to Aquatic Therapy
+
+- Decreases impact of high BMI
+- Minimizes joint loads
+- Introduction to swimming as exercise
+
+
+## Femoral Acetabular Impingement Syndrome (FAIS)
+
+[Femoral Acetabular Impingement Syndrome (FAIS)](): Clinical presentation of hip pain caused by premature contact between femur and acetabulum bones.
+
+
+### Presentation
+
+- Pain in *C-Sign* distribution
+- **Impingement positions**: Repetitive/prolonged hip flexion + adduction + IR
+- (+) FADIR
+- Younger population
+- Functional impairments
+
+### Single Leg Squat
+
+- Decreased depth
+- Loss of contralateral pelvic height
+- Genu valgum/varus
+- Trunk compensations
+- Poor lower extremity control
+
+### Star Excursion Balance Test
+
+Limited in *Posterolateral* and *Posteromedial* directions
+
+::: {.callout-tip}
+I often use this test since it can be used as a treatment and easily added to the HEP
+:::
+
+
+
+
+
+
+<!-- ## Syndrome *not* a pathology
+
+FAI is simply an generalized term for the impingement, but your examination should not end with a label of FAI.
+
+You should specify the type of FAI: **CAM femoraoacetabular impingement** or **Pincer FAI**
+
+Rule in our out secondary injuries: **Labral injury** or **chondral damage** -->
+
+<!-- ## Types
+
+- CAM femoroacetabular impingement: FAI caused by excessive bone on the femoral head-neck junction
+- Pincer femoroacetabular impingement: Excessive bone growth on the acetabulum, resulting in FAI
+
+
+- Anatomical vs Functional
+  - Functional: Excessive femoral translation and instability resulting in impingement
+  - Anatomical: bone growht
+
+ -->
+
+### Treatment
+
+There is limited literature for FAIS treatment
+
+::: {.callout-tip}
+Sharing clinical expertise is even more valuable when managing this population!
+:::
+
+**Hip Flexor Mobility**: Addressing hip flexor muscle length issues should be prioritized as tightness of these structures can have a postural effect by increasing anterior pelvic tilt.
+
+**Functional training**: Progressing patients towards single-leg closed chain positions and movements
+
+
+## Hip Microinstability {#hip-microinstability}
+
+[**Hip Microinstability**](): The combined entity of capsuloligamentous laxity *and* clinical symptoms (i.e. pain) with or without apprehension.
+
+
+
+
+
+### Etiology
+
+In general there is no single traumatic event that causes hip microinstability.
+Bony dysplasia *may* be present but is not considered a necessary criterion.
+
+The mechanism is **repetitive microtrauma** generally due to insufficient passive stabilization from the [anterior joint capsule]({{< var ref-femoroacetabular-joint-capsule.path >}}) and [iliofemoral ligament]({{< var ref-iliofemoral-ligament.path >}})
+
+
+
+### Presentation
+
+- No hx of trauma
+- Aggravation with Weight bearing ER + extension (anterior instability)
+
+
+- Pain: 
+  - Groin or Deep joint pain
+  - C-Sign Hip Pain Distribution
+- Functional difficulties
+  - Particularly in hip extension + ER
+- Weak hip abductor and rotator muscles
+
+### Diagnosis
+
+- 3 Test cluster:
+  - AB-HEER test 
+  - Prone instability test
+  - Hyperextension-external rotation (HEER) test
+- 3 positive tests was associated with a 95% chance of microinstability.
+
+
+### DDX
+
+Differentiate between *local anterior microinstability* and *Global* laxity
+
+::: {.columns}
+::: {.column}
+Anterior microinstability (local)
+
+- Log Roll Test
+- AB-HEER Test
+- Prone Hip Instability test
+- HEER Test
+
+
+:::
+::: {.column}
+Global Laxity
+
+- Beighton Scale
+
+:::
+:::
+
+### Beighton Scale {.smaller}
+
+|Criteria|Left|Right|
+|-|-|-|
+|5th finger metacarpophalangeal joint extension &gt;90&deg; | 0 or 1 | 0 or 1|
+| Ability to place thumb to forearm|0 or 1|0 or 1|
+|&gt;10&deg; knee hyperextension| 0 or 1| 0 or 1|
+|&gt;10&deg; elbow hyperextension|0 or 1| 0 or 1|
+|Ability to touch palms to floor with knees straight| 0 or 1||
+
+**Total**: /9
+
+&ge;4pts &rarr; Presence of joint laxity
+
+
+
+
+
+
+
+
+## Adductor Muscle Injuries
+
+
+Adductor muscle strains are a common injury in sports like hockey and soccer
+
+with the MOI including *acute*, *overuse*, and *acute-on-chronic*
+
+
+::: {.columns}
+::: {.column}
+**Acute Population**
+
+In kicking athletes, such as soccer, the injury is generally acute and occurs when rapidly transitioning between hip extension &rarr; flexion.
+:::
+::: {.column}
+**Overuse Population**
+
+Ice hockey consists of repetitive eccentric loading of the adductors and injuries are generally due to overuse
+:::
+:::
+
+
+These injuries generally occur due to hip muscle weakness and lack of off-season conditioning.
+When ruling in an adductor strain, look for recent increases in activity
+
+
+
+### Most common adductors injured
+
+::: {.columns}
+::: {.column}
+1. Adductor Longus
+1. Adductor Magnus
+1. Gracilis
+:::
+::: {.column}
+![Deep muscles of the medial thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image433 Deep muscles of the medial femoral region.gif){#fig-grayanatomy-deep-medial-thigh width=32%}
+:::
+:::
+
+
+
+### Risk Factors
+
+- Previous groin injury (2x risk)
+- Lack of off-season sport-specific training
+- Hip muscle weakness
+  - Adductor to abductor muscle strength ratio &lt;80%
+- Lower abdominal muscle weakness
+- Decreased hip joint ROM
+
+### Prevention
+
+Adductor:Abductor Strength ratio: &gt;80% @aptaCurrentConceptsOrthopaedic2024
+
+::: {.callout-note}
+Pro hockey had 17x increase risk of adductor mm injury if &lt;80%
+:::
+
+
+
+The Copenhagen 5-second adductor squeeze test [@aptaCurrentConceptsOrthopaedic2024]
+
+::: {#tbl-5second-adductor-squeeze-test}
+
+<table class="basic-table">
+  <thead>
+    <tr>
+      <th>Pain</th>
+      <th>Sport Readiness</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0–2</td>
+      <td>Ready</td>
+    </tr>
+    <tr>
+      <td>3–5</td>
+      <td>Caution</td>
+    </tr>
+    <tr>
+      <td>6–10</td>
+      <td>Not Ready</td>
+    </tr>
+  </tbody>
+</table>
+
+
+:::
+
+
+
+
+
+
+
+<!-- ## Adductor Muscle Treatments
+
+- Adductor isometrics
+  - Seated (90&deg;)
+  - Hooklying (45&deg;)
+  - Supine (0&deg;)
+- Copenhagen planks -->
+
+# Framework for Muscle Injury Rehab
+
+
+
+- **ROM**: Limited &rarr; Full ROM
+- **Strengthening**: Isometric &rarr; Concentric &rarr; Eccentric
+- Improve stabilization at nearby regions
+- Maintain strength in unaffected hip musculature
+
+
+
+## Hamstring Injuries
+
+
+### Presentation
+
+- Common injury in athletes
+- Myotendinous junction of Biceps Femoris Long Head
+- Pain and tightness in posterior thigh
+
+## Rule out Tendon avulsion
+
+- Proximal posterior thigh pain
+- Traumatic onset
+- Inability or unwillingness to bear weight
+- Visible ecchymosis
+- Palpable defects in the hamstring musculature
+
+
+
+### Exercises
+
+- Hip flexor and knee extensor strengthening at end range
+- Start with isometrics
+
+- Long bridge
+- Standing HS curl 
+- C Drill
+- Nordic curl
+
+
+### Preventing Secondary Complications
+
+- Active SLUMP
+
+
+
+
+### H-Test
+
+Using the [H-Test]({{< var ref-h-test.path >}}) is useful to determine apprehension when determining RTS after hamstring injury.
+The lower the apprehension, the more confident you can be in returning a patient to sport.
+
+## Greater Trochanteric Pain Syndrome (GTPS)
+
+### Definition
+
+[**Greater Trochanteric Pain Syndrome**]({{< var ref-greater-trochanteric-pain-syndrome.path >}}): lateral hip pain that may originate from numerous sources surrounding the greater trochanter [@aptaCurrentConceptsOrthopaedic2024].
+
+- [Gluteus minimus]({{< var ref-gluteus-minimus.tendon >}}) and [medius]({{< var ref-gluteus-medius.tendon >}}) tendons [@aptaCurrentConceptsOrthopaedic2024]
+- Trochanteric bursa [@aptaCurrentConceptsOrthopaedic2024]
+- Proximal ITB [@aptaCurrentConceptsOrthopaedic2024]
+
+
+### PathoMechanism
+
+GTPS is theorized to be an overuse injury due to chronic movement dysfunction of **Hip Adduction** and **IR** due to poor eccentric control [@aptaCurrentConceptsOrthopaedic2024].
+
+An attempt to create stability by sitting into passive structures such as IT band and glute tendons
+
+### Population
+
+::: {.columns}
+::: {.column}
+**Non athlete**
+
+- 40-60 years old
+- Female
+:::
+::: {.column}
+**Athletic**
+
+- High impact
+- Jumping on hard floor
+:::
+:::
+
+### Gluteal tendinopathy
+
+- [Gluteal De-Rotation Provocation Test](#gluteal-de-rotation-test)
+- **Single Leg Stance Provacative Test**: Provocation of lateral hip pain is positive for GTPS secondary to gluteal tendinopathy
+
+
+
+
+# Piriformis Syndrome
+
+[**Piriformis Syndrome**]({{< var ref-piriformis-syndrome.path >}}): Posterior hip pain that is present with radiating pain related to piriformis activation
+
+---
+
+::: {.columns}
+::: {.column}
+![Hip and Thigh Muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg){#fig-openstax-fig11.29}
+:::
+::: {.column}
+![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}
+:::
+:::
+
+
+
+### Four clinical signs and symptoms
+
+- Buttock pain
+- Pain with sitting
+- Tenderness near greater sciatic notch
+- Pain with maneuvers that cause tension of the piriformis
+
+### Special Tests
+
+- [Active piriformis test](#special-tests)
+- [Seated piriformis test]({{< var ref- >}})
+
+
+# Surgeries
+
+- THA
+- Hemiarthroplasty
+
+## Hemiarthroplasty
+
+- Unipolar: REplacement of the femoral head and neck @duttonDuttonOrthopaedicExamination2020
+- Bipolar: REplacement of the femoral head and neck *and* replacement of the acetabulum by an acetabular cup or resurfacing of the femoral head @duttonDuttonOrthopaedicExamination2020
+
+## Total Hip Arthroplasty
+
+
+# Self-reported Outcome Measures
+
+
+- Modified Harris Hip Score (MHHS): function assessment post total hip arthroplast
+- [Copenhagen Hip and Groin Outcome Score (HAGOS)]({{< >}})
+- International Hip Outcome Tool (iHOT-33)
+- [Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC)]({{< var ref-womac.path >}})
+- [Hip Disability and Osteoarthritis Outcome Score (HOOS)]({{< var ref-hip-disability-and-osteoarthritis-outcome-score.path >}})
+
+
+
+# Intervention Strategies
+
+
+# Functional-Phase based POC
+
+There are 2 distinct phases: the [*acute phase*](#acute-phase) and the [*functional phase*](#functional-phase)
+
+## Acute Phase {#acute-phase}
+
+The goals of the acute phase are as follows:
+
+- Protect the injury site from further damage
+- Restore pain free ROM
+- Maximize patient comfort
+  - Decrease pain
+  - Decrease Inflammation
+- Prevent
+  - Muscle atrophy
+  - Functional regression
+  - Cardiovascular fitness
+- HEP independence
+
+
+Exercises:
+
+- Quadruped position
+  - The quadruped position brings the hip into a *closed kinetic chain* position at ~90&deg; hip flexion.
+  - Variations:
+    - forward/backwards shifts @duttonDuttonOrthopaedicExamination2020
+
+## Functional Phase {#functional-phase}
 
 
 # Exercises
@@ -602,3 +1588,14 @@ In addition to astandardexamofthehip,thereareanumberofprovocative maneuvers that
 ## Hip flexor
 
 - Thomas hip flexion exercise
+
+## Hip Abduction
+
+
+### Hip abduction + EXT
+
+@jonesProjectFoundations2025
+
+### Hip abduction + High knee
+
+Adding a *high knee* component allows the linear movement to explore the full range, while holding the leg laterally against gravity @jonesProjectFoundations2025.

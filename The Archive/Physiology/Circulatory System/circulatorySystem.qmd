@@ -1,0 +1,31 @@
+---
+title: Circulatory System
+---
+
+
+- Thoracic aorta can be divided into the Ascending aorta, aortic arch, 
+    - Starts as the "Ascending Aorta"
+    - *
+
+
+- Major blood vessels of the thorax
+    - Pulmonary Trunk
+    - Thoracic Aorta + branches
+    - Superior vena cavae + tributaries
+    - Inferior vena cavae + tributaries
+
+
+
+# Pulmonary Trunk
+
+- Pulmonary Trunk
+    - Function
+        - carries *deoxygenated blood* 
+        - from: Right ventricle
+        - bifurcates into *right pulmonary artery* and *left pulmonary artery*
+    - Dimensions
+        - length: 5cm
+        - diameter: 3cm @standringGraysAnatomyAnatomical2021
+
+# Thoracic Aorta
+

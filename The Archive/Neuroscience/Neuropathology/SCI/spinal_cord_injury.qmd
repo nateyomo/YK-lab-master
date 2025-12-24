@@ -7,6 +7,8 @@ title: Spinal Cord Injury (SCI)
 - Suzanne - Ch13 SCI @martinNeurologicInterventionsPhysical2021a 
 - ch20 Traumatic SCI @fulkOSullivanSchmitzsPhysical2024
 - 4 Microglia and Macrophage Responses and Their Role after Spinal Cord Injury
+- Ch40 Pain following SCI @ballantyneBonicasManagementPain2019
+- Ch14 @lazaroUmphredNeurologicalRehabilitation2019
 
 :::
 

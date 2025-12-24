@@ -6,5 +6,123 @@ subtitle: Overview
 ::: {.callout title="Reading list"}
 
 - Ch38 vestib disorder @goodmanGoodmanFullerPathology2020
+- Ch21 @fulkOSullivanSchmitzsPhysical2024
+- ch21 @lazaroUmphredNeurologicalRehabilitation2019
 
 :::
+
+
+
+# Anatomy
+
+## Peripheral Vestibular system
+
+The peripheral vestibular system functions to:
+
+1. Provide sensory input to help stabilize visual images on the fovea of the retina @fulkOSullivanSchmitzsPhysical2024
+1. Maintain postural stability
+1. Sensory input for spatial orientation @fulkOSullivanSchmitzsPhysical2024
+
+
+
+
+The *semicircular canals* are found within the skull between the [sphenoid bone]({{< var ref-sphenoid-bone.path >}}) and [occipital bone]({{< var ref-occipital-bone.path >}}) @fulkOSullivanSchmitzsPhysical2024.
+
+The membranous vestibular labyrinth contains [3 semicircular canals](#semicircular-canals) and 2 [Otolith organs](#otolith-organs) structures that detect head acceleration and deceleration @fulkOSullivanSchmitzsPhysical2024.
+
+
+
+## Semicircular Canals {#semicircular-canals}
+
+There are 3 *Semicircular canals* (SCCs) per labyrinth:
+
+1. Horizontal Semicircular canals
+1. Posterior/Inferior Semicircular canals
+1. Superior/anterior Semicircular canals
+
+All of these SCCs function to detect [angular acceleration]({{< var ref-angular-acceleration.path >}}) @fulkOSullivanSchmitzsPhysical2024.
+Each SCC is oriented orthogonally (90&deg;) relative to the next, allowing each to measure a different direction of [angular acceleration]({{< var ref-angular-acceleration.path >}}).
+
+The SCCs are filled with the *endolymph fluid* which is more viscous than water and freely moves with angular head accleration @fulkOSullivanSchmitzsPhysical2024.
+
+The SCCs' have an *ampulla* which is an enlargement at one end of the SCC which houses the *cupula* @walterVestibularAnatomyPhysiology.
+The *cupula* is attached both superiorly and inferiorly in the *ampulla* @walterVestibularAnatomyPhysiology.
+
+
+Within the *cupula* is the *cilia*
+
+All movements of the head result in an angular acceleration, but in different planes:
+
+|Movement|Angular Acceleration|Plane|
+|-|-|-|
+|Flexion|Anterior rotation|Sagittal|
+|Extension|Posterior rotation|Sagittal|
+|Left Sidebend|Left Lateral rotation|Frontal|
+|Right Sidebend|Right Lateral rotation|Frontal|
+|Left Rotation|Left horizontal rotation|Transverse|
+|Right Rotation|Right horizontal rotation|Transverse|
+: {.striped}
+
+
+### SCC Orientation
+
+None of the canals are oriented parallel to the sagittal, transverse, or frontal planes.
+
+Each canal on the R side is parallel with another canal on the L side which together form a *functional pair* @walterVestibularAnatomyPhysiology.
+During angular movement along the plane of the functional pair, one aspect will be excitatory<sup>+</sup> and the other will be inhibitory<sup>-</sup>
+
+
+|Orientation|Left|Right|
+|-|-|-|
+|45&deg; left of the sagittal plane|Superior/anterior|Posterior/inferior|
+|45&deg; right of the sagittal plane|Posterior/inferior|Superior/anterior|
+|45&deg; 30&deg; superior of the transverse plane|Horizontal|Horizontal|
+: Orientation of Functional Pairs of the Semicircular Canals {.striped}
+
+
+## Otolith Organs
+
+
+# Function
+
+In healthy individuals, the *cupula* weighs the *same* as the endolymph surrounding it @walterVestibularAnatomyPhysiology.
+As a result, when laying supine, gravity does not affect the cupula's position relative to the endolymph @walterVestibularAnatomyPhysiology.
+
+
+## Hair Cells
+
+When the hair cells move *towards* the kinocilia, this results in excitation<sup>+</sup>.
+When the hair cells bend *away* from the kinocilia, this result in inhibition<sup>-</sup>
+
+When the hair cells are in neutral, there is tonic activity
+
+## Step-by-Step
+
+### Angular Acceleration
+
+- The head experiences an *angular acceleration*
+- The endolymph is freely moving and remains stationary
+- The cupula is attached to the ampulla and accelerates in sync with the head.
+- The cupula accelerates with the head, but experiences resistance from the stationary endolymph
+- The endolymph resists the push by the cupula resulting in billowing of the cupula in the *opposite* direction of the angular acceleration
+- Billowing of the cupula displaces the *cilia* and associated *hair cells* within the cupula
+- The hair cells send an excitatory or inhibitory signal to the vestibular root of the vestibulocochlear nerve (CN VIII)
+
+
+### Angular Deceleration
+
+
+# DDX
+
+Of inner ear disorders the goal is to determine if it is due to 
+
+
+
+# Cupula Dysfunction
+
+When drinking alcohol, the alcohol can be absorbed into the cupula @walterVestibularAnatomyPhysiology.
+Since alcohol is *lighter* than endolymph, the cupula now weighs *less* than the endolymph around it.
+When moving from standing to supine, the cupula weighs less than the endolymph around it and floats away from the pull of gravity.
+This results in vertigo or colloquially referred to as "the spins".
+This pathological state is known as Positional Alcohol Nystagmus.
+

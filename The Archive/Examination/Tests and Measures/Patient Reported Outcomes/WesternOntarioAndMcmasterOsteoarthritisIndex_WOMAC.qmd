@@ -1,0 +1,264 @@
+---
+title: Western Ontario And McMaster Osteoarthritis Index (WOMAC)
+---
+
+::: {.callout}
+
+- Dutton ch20 @duttonDuttonOrthopaedicExamination2020
+
+:::
+
+::: {.callout-note}
+
+The [Hip Disability and Osteoarthritis Outcome Score (HOOS)]({{< var ref-hip-disability-and-osteoarthritis-outcome-score.path >}}) contains the *same* questions as the WOMAC but with additional items
+:::
+
+
+
+# Form
+
+
+<table id="womac-pain-table" class="compact-table" border="1">
+  <thead>
+    <tr>
+      <th>RATE YOUR PAIN WHEN...</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Walking</td></tr>
+    <tr><td>Climbing stairs</td></tr>
+    <tr><td>Sleeping at night</td></tr>
+    <tr><td>Resting</td></tr>
+    <tr><td>Standing</td></tr>
+  </tbody>
+</table>
+
+<table id="womac-stiffness-table" class="compact-table" border="1">
+  <thead>
+    <tr>
+      <th>RATE YOUR STIFFNESS IN THE...</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Morning</td></tr>
+    <tr><td>Evening</td></tr>
+  </tbody>
+</table>
+
+<table id="womac-difficulty-table" class="compact-table" border="1">
+  <thead>
+    <tr>
+      <th>RATE YOUR DIFFICULTY WHEN...</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Descending Stairs</td></tr>
+    <tr><td>Ascending stairs</td></tr>
+    <tr><td>Rising from sitting</td></tr>
+    <tr><td>Standing</td></tr>
+    <tr><td>Bending to floor</td></tr>
+    <tr><td>Walking on <i>even</i> floor</td></tr>
+    <tr><td>Getting in/out of a car</td></tr>
+    <tr><td>Going shopping</td></tr>
+    <tr><td>Putting on socks</td></tr>
+    <tr><td>Rising from bed</td></tr>
+    <tr><td>Taking off socks</td></tr>
+    <tr><td>Lying in bed</td></tr>
+    <tr><td>Getting in/out of bath</td></tr>
+    <tr><td>Sitting</td></tr>
+    <tr><td>Getting on/off toilet</td></tr>
+    <tr><td>Doing light domestic duties (cooking, dusting, etc)</td></tr>
+    <tr><td>Doing heavy domestic duties (moving furniture)</td></tr>
+  </tbody>
+</table>
+
+
+
+<div id="womacContainer"></div>
+
+
+
+<script>
+    function generateWOMACTable() {
+    const options = ["NONE", "SLIGHT", "MODERATE", "SEVERE", "EXTREME"];
+
+    const womacSections = {
+        "Pain": [
+        "Walking on a flat surface",
+        "Going up or down stairs",
+        "At night while in bed",
+        "Sitting or lying",
+        "Standing upright"
+        ],
+        "Stiffness": [
+        "After first waking in the morning",
+        "Later in the day"
+        ],
+        "Difficulty": [
+        "Descending stairs",
+        "Ascending stairs",
+        "Rising from sitting",
+        "Standing",
+        "Bending to floor",
+        "Walking on flat",
+        "Getting in/out of car",
+        "Going shopping",
+        "Putting on socks/stockings",
+        "Rising from bed",
+        "Taking off socks/stockings",
+        "Lying in bed",
+        "Getting in/out of bath",
+        "Sitting",
+        "Getting on/off toilet",
+        "Heavy domestic duties",
+        "Light domestic duties"
+        ]
+    };
+
+    const table = document.createElement("table");
+    table.style.width = "100%";
+    table.style.borderCollapse = "collapse";
+    table.style.textAlign = "center";
+    table.style.border = "1px solid #ccc";
+    table.style.marginBottom = "1em";
+    table.style.fontFamily = "sans-serif";
+
+    // Header
+    const headerRow = document.createElement("tr");
+    const questionHeader = document.createElement("th");
+    questionHeader.textContent = "Question";
+    questionHeader.style.padding = "8px";
+    headerRow.appendChild(questionHeader);
+
+    options.forEach(opt => {
+        const th = document.createElement("th");
+        th.textContent = opt;
+        th.style.padding = "8px";
+        th.style.backgroundColor = "#f8f8f8";
+        headerRow.appendChild(th);
+    });
+
+    table.appendChild(headerRow);
+
+    // Build rows
+    for (const [sectionName, questions] of Object.entries(womacSections)) {
+        const sectionRow = document.createElement("tr");
+        const sectionCell = document.createElement("td");
+        sectionCell.textContent = sectionName.toUpperCase();
+        sectionCell.colSpan = options.length + 1;
+        sectionCell.style.fontWeight = "bold";
+        sectionCell.style.backgroundColor = "#e6e6e6";
+        sectionCell.style.textAlign = "left";
+        sectionCell.style.padding = "8px";
+        sectionRow.appendChild(sectionCell);
+        table.appendChild(sectionRow);
+
+        questions.forEach(question => {
+        const row = document.createElement("tr");
+
+        const questionCell = document.createElement("td");
+        questionCell.textContent = question;
+        questionCell.style.textAlign = "left";
+        questionCell.style.padding = "4px 8px";
+        row.appendChild(questionCell);
+
+        options.forEach((opt, i) => {
+            const cell = document.createElement("td");
+
+            const button = document.createElement("button");
+            button.textContent = opt;
+            button.dataset.section = sectionName;
+            button.dataset.question = question;
+            button.dataset.value = i;
+            button.style.width = "100%";
+            button.style.padding = "8px";
+            button.style.border = "1px solid #ccc";
+            button.style.borderRadius = "4px";
+            button.style.cursor = "pointer";
+            button.style.backgroundColor = "white";
+
+            // Button click behavior
+            button.addEventListener("click", () => {
+            // Unselect other buttons in the same row
+            const siblings = cell.parentElement.querySelectorAll("button");
+            siblings.forEach(b => (b.style.backgroundColor = "white"));
+
+            // Highlight this one
+            button.style.backgroundColor = "#007bff";
+            button.style.color = "white";
+
+            // Store selected value for this question
+            button.parentElement.dataset.selected = i;
+            });
+
+            cell.appendChild(button);
+            row.appendChild(cell);
+        });
+
+        table.appendChild(row);
+        });
+    }
+
+    return table;
+    }
+
+    // ✅ Scoring function
+    function calculateWOMACScores() {
+    const sections = ["Pain", "Stiffness", "Difficulty"];
+    const scores = { Pain: 0, Stiffness: 0, Difficulty: 0, Total: 0 };
+
+    sections.forEach(section => {
+        // Get all rows for that section
+        const rows = document.querySelectorAll(`tr:has(button[data-section='${section}'])`);
+        rows.forEach(row => {
+        const selectedVal = row.dataset.selected;
+        if (selectedVal !== undefined) {
+            const val = parseInt(selectedVal);
+            scores[section] += val;
+            scores.Total += val;
+        }
+        });
+    });
+
+    const maxValues = { Pain: 20, Stiffness: 8, Difficulty: 68, Total: 96 };
+    const percentScores = Object.fromEntries(
+        Object.entries(scores).map(([key, val]) => [key, ((val / maxValues[key]) * 100).toFixed(1) + "%"])
+    );
+
+    return { raw: scores, percent: percentScores };
+    }
+
+    // ✅ Attach to page
+    document.addEventListener("DOMContentLoaded", () => {
+    const container = document.getElementById("womacContainer");
+    container.appendChild(generateWOMACTable());
+
+    const button = document.createElement("button");
+    button.textContent = "Calculate WOMAC Score";
+    button.style.padding = "10px 16px";
+    button.style.backgroundColor = "#28a745";
+    button.style.color = "white";
+    button.style.border = "none";
+    button.style.borderRadius = "4px";
+    button.style.cursor = "pointer";
+
+    const resultDiv = document.createElement("div");
+    resultDiv.style.marginTop = "16px";
+    resultDiv.style.fontFamily = "monospace";
+
+    button.onclick = () => {
+        const { raw, percent } = calculateWOMACScores();
+        resultDiv.innerHTML = `
+        <strong>WOMAC Scores:</strong><br>
+        Pain: ${raw.Pain} / 20 (${percent.Pain})<br>
+        Stiffness: ${raw.Stiffness} / 8 (${percent.Stiffness})<br>
+        Difficulty: ${raw.Difficulty} / 68 (${percent.Difficulty})<br>
+        <br><strong>Total: ${raw.Total} / 96 (${percent.Total})</strong>
+        `;
+    };
+
+    container.appendChild(button);
+    container.appendChild(resultDiv);
+    });
+
+</script>

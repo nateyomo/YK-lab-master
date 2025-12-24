@@ -6,6 +6,12 @@ title: Scoliosis
 
 - To do
     - Ch23 scoliosis @goodmanGoodmanFullerPathology2020
+    - @abelIdiopathicScoliosisHarms2022
+    - @lehnert-schrothThreedimensionalTreatmentScoliosis2007
+    - @martinSpinalAsymmetryScoliosis2018
+    - @weissSchrothTherapyAdvancements2015
+    - Neumann
+        - Ch9 p380 @neumannKinesiologyMusculoskeletalSystem2017
 - In progress
     - Dutton
         - Finished p1461 interventions
@@ -19,7 +25,7 @@ This results in changes in the trunk and intervertebral discs which produce long
 
 
 
-Scoliosis will consist of a *Convex* and *concave* aspect.
+Scoliosis will consist of a *Convex* and *concave* aspect in each plane.
 
 
 
@@ -32,9 +38,12 @@ Scoliosis consists of a progressive disturbance of the intercalated series of sp
 - The younger the patient, the greater the risk of progression @duttonDuttonOrthopaedicExamination2020
 - *Double curve* patterns have a greater risk of progressiont han *single curves* @duttonDuttonOrthopaedicExamination2020.
 - Curves with *greater magnitude* have greater risk of progression @duttonDuttonOrthopaedicExamination2020
-- Females<sup>&female;</sup> have a 10x greater risk of progression than males<sup>&male:</sup> with comporable curvature @duttonDuttonOrthopaedicExamination2020.
+- Females<sup>&female;</sup> have a 10x greater risk of progression than males<sup>&male;</sup> with comporable curvature @duttonDuttonOrthopaedicExamination2020.
 - Development of curves before *menarche* increases risk of progresion @duttonDuttonOrthopaedicExamination2020.
 
+- Type
+    - Functional scoliosis can be corrected @neumannKinesiologyMusculoskeletalSystem2017
+    - Structural scoliosis *cannot* be fully corrected by postural interventions
 
 # Describing Scoliosis
 
@@ -45,6 +54,11 @@ In addition, the **direction** of the convexity and concavity towards the left o
 If there is a *double curve pattern* then both curves should be described @duttonDuttonOrthopaedicExamination2020.
 :::
 
+# Scoliosis Type
+
+Scoliosis is divided into **Structural** and **Functional** variations @neumannKinesiologyMusculoskeletalSystem2017.
+
+unctional scoliosis can be corrected by an active shift in posture, whereas structural scoliosis is a fixed deformity that cannot be corrected fully by an active shift in posture.
 
 # Biomechanical changes
 
@@ -74,7 +88,7 @@ If there is a *double curve pattern* then both curves should be described @dutto
 ## Potential Impairments
 
 <ul>
-    <li>Hypomobility in joints, muscles, and fascia on the i{concave side} [@kisnerTherapeuticExerciseFoundations2018]</li>
+    <li>Hypomobility in joints, muscles, and fascia on the *concave side* [@kisnerTherapeuticExerciseFoundations2018]</li>
     <li>Dysfunctional muscle performance due to excess stretch and weakness in the musculature on the convex side [@kisnerTherapeuticExerciseFoundations2018]</li>
     <li>If one hip is adducted, the ipsilateral adductors are strong and have decreased flexibility and the ipsilateral abductors will be lengthened and weak [@kisnerTherapeuticExerciseFoundations2018]</li>
     <li>If on hip is adducted, the contralateral side will have lengthened and weak adductors and short and tight abductors [@kisnerTherapeuticExerciseFoundations2018].</li>
@@ -110,6 +124,25 @@ Causes of <i>Nonstructural Scoliosis</i>:
     <li></li>
     <li></li>
 </ul>
+
+
+
+# Treatment Philosophies
+
+- Schroth
+- SEAS
+- DoboMed
+- Side-Shift/Hitch
+- ISR
+
+# Treatment Principles
+
+- Correction of Posture
+- Active muscles while maintaining corrected posture
+    - Breathing
+    - Isometric loading
+    - Dynamic
+    - Walking
 
 # Rehab Goals
 

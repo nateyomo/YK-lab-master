@@ -21,6 +21,10 @@ Hip osteoarthritis (OA) is a common cause of [hip pain]({{< var ref-hip.pain >}}
 
 "Despite decades of clinical and basic science research, the exact underlying cause of primary hip osteoarthritis remains unclear.197 Although the frequency of osteoarthritis at any joint increases with age, the disease is not triggered solely by the aging process.137 If that were true, then all elderly people would eventually develop this disease. The causes of osteoarthritis are complicated and not exclusively based on a simple wear­and­tear phenomenon. Although physical stress may increase the rate and amount of wear at the hip, this does not always lead to osteoarthritis.133,189 Other factors that may be related to osteoarthritis are an altered metabo­ lism of the ground matrix of the cartilage, increased body­mass index, genetics, immune system factors, neuromuscular disorders, and biochemical factors." @neumannKinesiologyMusculoskeletalSystem2017
 
+# Joint Space Narrowing
+
+"The narrowing of the joint space associated with OA could potentially slacken the supporting ligaments, rendering them less effective and producing changes in proprioceptive input" @duttonDuttonOrthopaedicExamination2020, this may be the cause of decreased proprioception and balance @duttonDuttonOrthopaedicExamination2020
+"The joint space narrowing may also result in a relative decrease in the length of the muscles that cross the hip joint, which could feasibly result in a mechanical disadvantage of the muscles that act on the hip joint. In addition, OA of the hip can have many manifestations in neighboring joints, particularly the lumbar spine and the foot. This is likely because the joint stiffness associated with the disease diminishes the amount of rotation available at the hip, forcing the lumbar spine and foot to compensate for this loss." @duttonDuttonOrthopaedicExamination2020
 
 # Balance Tests
 

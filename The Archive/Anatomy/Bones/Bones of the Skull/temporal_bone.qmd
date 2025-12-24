@@ -2,6 +2,8 @@
 title: Temporal bone (Petrous and Squamous parts)
 ---
 
+The temporal bone holds the semicircular canals
+
 # Attachment sites
 
 # Mastoid process {#mastoid-process}
@@ -85,3 +87,8 @@ else:
 - Follow the base of the occiput toward its lateral edge
 - The rounded, most lateral prominence is the mastoid process
 
+
+
+# Fracture
+
+Fracture of the *temporal bone* can 

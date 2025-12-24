@@ -26,7 +26,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "c5868ed1"
+      "id": "9ecafe7b"
     },
     {
       "cell_type": "code",
@@ -95,12 +95,17 @@
         "- **Pelvic Stabilization**: Sagittal plane @gilroyAtlasAnatomy2020\n",
         "- **Knee**: Flexion and Internal rotation @gilroyAtlasAnatomy2020\n",
         "\n",
+        "# Muscle Length Tests\n",
+        "\n",
+        "- [Passive Straight Leg Raise Test]({{< var ref-passive-straight-leg-raise-test.path >}})\n",
+        "- [90-90 Straight Leg Raise Test]({{< var ref-9090-active-straight-leg-raise-test.path >}})\n",
+        "\n",
         "\n",
         "# Overview\n",
         "\n",
         "\"The semitendinosus muscle (see Fig. 19-8) arises from the upper portion of the ischial tuberosity via a shared tendon with the long head of the biceps femoris. From there, it travels distally, becoming cord-like about two-thirds of the way down the posteromedial thigh. Passing over the MCL, it inserts into the medial surface of the tibia and deep fascia of the lower leg, distal to the gracilis attachment, and posterior to the sartorius attachment. These three structures are collectively called the pes anserinus (“goose foot”) at this point. Like the semimembranosus, the semitendinosus functions to extend the hip, flex the knee, and internally rotate the tibia.\" @duttonDuttonOrthopaedicExamination2020 "
       ],
-      "id": "35da7043"
+      "id": "0b46c9ce"
     }
   ],
   "metadata": {

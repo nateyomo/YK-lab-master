@@ -27,7 +27,7 @@
         "\n",
         "# Motor Innervation\n"
       ],
-      "id": "ba3629f0"
+      "id": "cd682043"
     },
     {
       "cell_type": "code",
@@ -97,6 +97,9 @@
         "\n",
         "\"The straight leg raise, also called Lasègue sign, Lasègue test or Lazarevi sign, is a test done during the physical examination to determine whether a patient with low back pain has an underlying herniated disk, often located at L5 (fifth lumbar spinal nerve). With the patient lying down on his or her back on an examination table or exam floor, the examiner lifts the patient’s leg while the knee is straight. If the patient experiences sciatic pain when the straight leg is at an angle of between 30 and 70 degrees, then the test is positive and a herniated disc is likely to be the cause of the pain. A meta-analysis reported the accuracy of the straight leg test as 91% sensitive and 26% specific [7]. If raising the opposite leg causes pain (cross or contralateral straight leg raising), the sensitivity is 29% and the specificity is 88% [7]. The straight leg raising test and the cross straight leg raising test are two tests based on stretching of the nerves in the spine. The diagnostic accuracy of the straight leg raising test is thus limited by its low specificity [7].\" @brazisLocalizationClinicalNeurology2022 \n",
         "\n",
+        "## Neural Tensioning\n",
+        "The [Active Slump Test]({{< var ref-active-slump-test.path >}}) applies a neural tension on the [Sciatic n.]({{< var ref-sciatic-nerve.path >}}) and the [L4]({{< var ref-nerve-root.l4 >}}) and [L5]({{< var ref-l4-nerve-root.path >}}) @aptaCurrentConceptsOrthopaedic2024\n",
+        "\n",
         "# Sensation\n",
         "\n",
         "- 1st 2 toes\n",
@@ -107,7 +110,7 @@
         "- Superficial fib\n",
         "    - Doesnt innervate cleft between toes #1 and #2\n"
       ],
-      "id": "0d259c57"
+      "id": "31b560bb"
     }
   ],
   "metadata": {

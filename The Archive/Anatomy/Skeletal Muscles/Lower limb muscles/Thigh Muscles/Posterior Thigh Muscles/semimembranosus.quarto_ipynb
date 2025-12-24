@@ -27,7 +27,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "139c2d8e"
+      "id": "54629871"
     },
     {
       "cell_type": "code",
@@ -97,6 +97,11 @@
         "\n",
         "\n",
         "\n",
+        "# Muscle Length Tests\n",
+        "\n",
+        "- [Passive Straight Leg Raise Test]({{< var ref-passive-straight-leg-raise-test.path >}})\n",
+        "- [90-90 Straight Leg Raise Test]({{< var ref-9090-active-straight-leg-raise-test.path >}})\n",
+        "\n",
         "\n",
         "\n",
         "# Overview\n",
@@ -106,7 +111,7 @@
         "\n",
         "\"The semimembranosus muscle (Fig. 19-8) arises from the lateral facet of the ischial tuberosity and the ischial ramus. This muscle inserts into the posteromedial aspect of the medial tibial condyle and has a key expansion that reinforces the posteromedial corner of the knee capsule. The semimembranosus pulls the meniscus posteriorly, and internally rotates the tibia on the femur, during knee flexion, although its primary function is to extend the hip and flex the knee.\" @duttonDuttonOrthopaedicExamination2020"
       ],
-      "id": "434657b4"
+      "id": "c0a6779d"
     }
   ],
   "metadata": {

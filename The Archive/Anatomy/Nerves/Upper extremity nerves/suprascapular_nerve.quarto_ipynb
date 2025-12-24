@@ -36,7 +36,7 @@
         "- [Supraspinatus]({{< var ref-supraspinatus.path >}})\n",
         "- [Infraspinatus]({{< var ref-infraspinatus.path >}})\n"
       ],
-      "id": "f8a82a96"
+      "id": "74cb28de"
     },
     {
       "cell_type": "code",
@@ -145,7 +145,7 @@
         "\n",
         ":::"
       ],
-      "id": "71b2ae83"
+      "id": "eb9ae413"
     }
   ],
   "metadata": {

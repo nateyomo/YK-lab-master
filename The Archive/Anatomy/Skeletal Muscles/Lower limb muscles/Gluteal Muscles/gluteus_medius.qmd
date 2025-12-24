@@ -74,6 +74,7 @@ The gluteus maximus muscle is innervated by nerve roots [L4]({{< var ref-nerve-r
 - **Anterior fibers**: flexion and internal rotation @gilroyAtlasAnatomy2020 
 - **Posterior fibers**: extension and external rotation @gilroyAtlasAnatomy2020
     - At &ge;60&deg; hip flexion, the *posterior fibers* of the gluteus minimus switch and produce an *internal rotation* torque @neumannKinesiologyMusculoskeletalSystem2017.
+    - The posterior fibers also function to stabilize the femoral head in the acetabulum @duttonDuttonOrthopaedicExamination2020.
 
 
 The Glute med is the "main hip abductor" due to its efficiency and strength.
@@ -89,6 +90,17 @@ This trend continues until the hip reaches 35&deg; abduction, which is exactly p
 
 
 # Overview
+
+
+According to Dutton @duttonDuttonOrthopaedicExamination2020, the *gluteus medius* has been nicknamed "the deltoid of the hip" due to structural and functional parallels between the two muscles.
+
+The deltoid can be divided into anterior deltoid, lateral deltoid, and posterior deltoid @duttonDuttonOrthopaedicExamination2020.
+The gluteus medius can be divided into anterior portion, middle portion, and posterior portion @duttonDuttonOrthopaedicExamination2020.
+
+Functionally, the anterior deltoid flexes the shoulder and the anterior portion of GluteMed flexes and IRs the hip @duttonDuttonOrthopaedicExamination2020.
+The *Lateral deltoid* abducts the shoulder and the *middle portion of GluteMed* abduct the hip @duttonDuttonOrthopaedicExamination2020.
+The *posterior deltoid* extends the shoulder and the *posterior portion of GluteMed* extends and ERs the hip @duttonDuttonOrthopaedicExamination2020.
+
 
 # Palpation {#palpation}
 

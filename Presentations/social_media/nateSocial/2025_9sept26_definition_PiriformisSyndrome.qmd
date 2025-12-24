@@ -1,0 +1,52 @@
+---
+title: "Piriformis Syndrome"
+subtitle: Definition
+author: 
+- id: NGY
+  number: 1
+  name: 
+    given: Nate
+    family: Yomogida
+#   email: "nate.yomogida.pt@gmail.com"
+  url: "https://yomokerst.com/about.html#ngy"
+  affiliation:
+    - Doctor of Physical Therapy
+  
+format:
+    revealjs:
+        slide-number: false
+        preview-links: auto
+        width: 1080       # TikTok/Instagram portrait width
+        height: 1920      # TikTok portrait height
+        margin: 0.05      # adjust spacing
+        center: true
+        css: "../socialmedia.css"
+        footer: '<a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/" target="_blank" style="position: fixed; bottom: 200px; left: 50%; transform: translateX(-50%);"><img src="/branding/Yomokerst/yomokerst heavy condensed black.png" alt="Logo" style="height: 40px;"></a>'
+---
+
+# Piriformis Syndrome
+
+A clear definition
+
+---
+
+Piriformis syndrome is one of the first pathologies we learn in Physical Therapy school.
+
+It is easy to glance at the phrase and assume I knew what it was.
+
+As I prepared my presentation on *Current concepts on the Hip* I realized my understanding of piriformis syndrome was not as clear as I had first thought.
+
+
+## Questions we need to answer
+
+- What is a syndrome?
+- Is sciatica a requisite symptom?
+- Presentation
+
+
+
+
+## References
+
+::: {#refs}
+:::

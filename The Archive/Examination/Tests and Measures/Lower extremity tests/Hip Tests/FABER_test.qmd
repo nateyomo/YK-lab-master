@@ -1,11 +1,17 @@
 ---
-title: FABER Test
+title: "FABER Test (Flexion Abduction External Rotation Test)"
 subtitle: Hip provocation maneuver
+keywords:
+    - "Patrick's Test"
+    - "FABER Test"
 ---
 
+- Lumbar Dysfunction @duttonDuttonOrthopaedicExamination2020
+- SIJ Dysfunction @duttonDuttonOrthopaedicExamination2020
+- Hip Dysfunction @duttonDuttonOrthopaedicExamination2020
+- Iliopsoas spasm
 
-
-"The FABER (flexion, abduction, external rotation) test (Fig. 19-36) is a screening test for hip, lumbar, or SIJ dysfunction, or an iliopsoas spasm (see Chapter 29). If this position recreates groin pain, then iliopsoas and/or intra-articular hip pathology may be present.17 Posterior hip joint pain in this position may indicate a ligamentum teres injury and/or posterior hip impingement."
+"The FABER (flexion, abduction, external rotation) test (Fig. 19-36) is a screening test for hip, lumbar, or SIJ dysfunction, or an iliopsoas spasm (see Chapter 29). If this position recreates groin pain, then iliopsoas and/or intra-articular hip pathology may be present.17 Posterior hip joint pain in this position may indicate a ligamentum teres injury and/or posterior hip impingement." @duttonDuttonOrthopaedicExamination2020
 
 # Technique
 

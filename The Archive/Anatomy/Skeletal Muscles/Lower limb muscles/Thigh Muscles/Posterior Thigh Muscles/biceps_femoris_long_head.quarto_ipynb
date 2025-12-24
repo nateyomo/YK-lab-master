@@ -23,7 +23,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "ec1d0858"
+      "id": "4f7d1102"
     },
     {
       "cell_type": "code",
@@ -93,13 +93,19 @@
         "- **Knee**: Flexion and ER @gilroyAtlasAnatomy2020\n",
         "\n",
         "\n",
+        "# Muscle Length Tests\n",
+        "\n",
+        "- [Passive Straight Leg Raise Test]({{< var ref-passive-straight-leg-raise-test.path >}})\n",
+        "- [90-90 Straight Leg Raise Test]({{< var ref-9090-active-straight-leg-raise-test.path >}})\n",
+        "\n",
+        "\n",
         "# Dysfunction {#dysfunction}\n",
         "\n",
         "\n",
         "If there is immobility at the hip and ankle, the knee is often abused and performs transverse plane rotation to compensate.\n",
         "If this occurs, you will often see the biceps femoris long head and [popliteus]({{< var ref-popliteus.dysfunction >}}) being tender to palpate, guarding, and/or overactive since these are used to stabilize the knee against rotation @jonesProjectFoundations2025."
       ],
-      "id": "464fcec7"
+      "id": "b9dd5bd3"
     }
   ],
   "metadata": {

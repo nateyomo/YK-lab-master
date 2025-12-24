@@ -1,0 +1,227 @@
+---
+title: Piriformis Syndrome
+---
+
+[**Piriformis Syndrome*]({{< var ref-piriformis-syndrome.path >}}): {{< var ref-piriformis-syndrome.definition >}}[@danazumiEffectIntegratedNeuromuscular2021]
+
+complex of piriformis muscle dysfunction symptoms of hip and buttock pain *with* have radiating pain, numbness, and tingling along posterior lower extremity to the medial foot @norburryDiagnosisManagementPiriformis2012.
+
+RCT's examing piriformis syndrome require radiculopathy as an eligibility criteria @danazumiEffectIntegratedNeuromuscular2021.
+
+- Piriformis Dysfunction:
+- Sciatic nerve compression causing @danazumiEffectIntegratedNeuromuscular2021
+    - Unilateral Gluteal or sacroiliac pain
+    - Radiculopathy
+- Piriformis spasm causing: @danazumiEffectIntegratedNeuromuscular2021
+    - Unilateral Gluteal or sacroiliac pain
+    - Radiculopathy
+
+
+
+# Etiology
+
+Since this is a *syndrome* and not a *pathology* there are multiple etiologies that can result in this clinical presentation.
+
+- Hypertrophied piriformis muscle @duttonDuttonOrthopaedicExamination2020
+- Overuse
+- Trauma @duttonDuttonOrthopaedicExamination2020
+- Gender
+- Ischial Bursitis
+
+## Abnormal Hypertrophy
+Hypertrophy of the piriformis muscle can result in piriformis syndrome @duttonDuttonOrthopaedicExamination2020.
+Specifically in cases where the sciatic nerve courses *through* the piriformis muscle belly instead of *around* @duttonDuttonOrthopaedicExamination2020.
+
+## Overuse
+
+
+
+## Trauma
+
+Direct or indirect trauma can result in piriformis syndrome @duttonDuttonOrthopaedicExamination2020.
+
+Indirect trauma has been noted in sacroiliac or gluteal regions which can affect the piriformis @duttonDuttonOrthopaedicExamination2020.
+The resulting hematoma and/or scarring around the deep hip stabilizers and sciatic nerve can cause piriformis syndrome @duttonDuttonOrthopaedicExamination2020.
+
+
+## Gender {#etiology-gender}
+
+Although not a direct factor, gender appears to play a large factor in the incidence of piriformis syndrome.
+Literature has demonstrated a 6:1 female-to-male ratio @duttonDuttonOrthopaedicExamination2020.
+
+
+## Pseudoaneurysm of inferior gluteal artery
+
+@duttonDuttonOrthopaedicExamination2020
+
+## Ischial bursitis {#etiology-ischial-bursitis}
+
+"Pseudoaneurysm of the inferior gluteal artery"@duttonDuttonOrthopaedicExamination2020
+Excessive exercise to the hamstring muscles.  ▶ Inflammation and spasm of the piriformis muscle. This is  often in association with trauma, infection, and anatomical  variations of the muscle.  ▶ Anatomical anomalies. Local anatomical anomalies may  contribute to the likelihood that symptoms will develop.
+
+## Hip Flexion Contracture
+
+"Hip flexion contracture. A flexion contracture at the hip has  been associated with piriformis syndrome. This flexion  contracture increases the lumbar lordosis, which increases  the tension in the pelvic–femoral muscles, as these muscles  try to stabilize the pelvis and spine in the new position.  This increased tension causes the involved muscles to  hypertrophy with no corresponding increase in the size of  the bony foramina, resulting in neurological signs of sciatic  compression." @duttonDuttonOrthopaedicExamination2020
+
+## Inflammation and spasm of piriformis muscle
+
+
+
+# Pathophysiology
+
+
+The piriformis is believed to act as an *secondary* or *accessory* hip abductor and extensor, supporting the **primary** hip extensor and abductors such as the gluteus medius or minimus [@aptaCurrentConceptsOrthopaedic2024].
+
+When the gluteus medius and minimus are dysfunctional and underactive, the piriformis can take up the slack and become overactive [@aptaCurrentConceptsOrthopaedic2024].
+This is helpful in the short term so the person can perform their normal activities, but will cause excessive wear and tear on the piriformis in the long term.
+
+## Secondary sciatica
+
+# Patient presentation
+
+Dutton [@duttonDuttonOrthopaedicExamination2020] listed 6 "classic" findings in patients with piriformis syndrome:
+
+- History of trauma to the sacroiliac and gluteal regions @duttonDuttonOrthopaedicExamination2020
+- Pain along the sciatic nerve path from the sacroiliac joint, to the greater sciatic notch, to the piriformis muscle @duttonDuttonOrthopaedicExamination2020 
+    - Generally associated with walking
+- Aggravation with stooping and/or lifting @duttonDuttonOrthopaedicExamination2020
+- 4. A tender and palpable mass over the ipsilateral piriformis muscle @duttonDuttonOrthopaedicExamination2020
+- 5. A positive straight leg raise @duttonDuttonOrthopaedicExamination2020
+- 6. Gluteal atrophy, especially in severe and chronic cases @duttonDuttonOrthopaedicExamination2020.
+
+
+## ROM 
+
+## Strength
+
+
+# Differential Diagnosis
+
+Piriformis syndrome is generally a diagnosis of *exclusion* @duttonDuttonOrthopaedicExamination2020
+
+- Hamstring injury
+- Lumbosacral disc injuries
+- Lumbosacral discogenic pain syndrome
+- Lumbosacral facet syndrome
+- Lumbosacral radiculopathy
+- Lumbosacral spine sprain
+- Lumbosacral spondylolisthesis
+- Lumbosacral spondylolysis
+- Sacroiliac joint injury/dysfunction
+- Inferior gluteal artery aneurysm or pseudoaneurysm
+- Malignancy/tumors 
+- Arteriovenous malformations
+
+
+# Examination
+
+## Subjective
+
+## ROM testing
+
+## Strength testing
+
+## Special test
+
+- Ober's test
+- **Active Sidelying Piriformis Test**: Provocation of at *point of palpation* or *Radiating pain* is positive for Piriformis/ deep hip stabilizer muscle dysfunction and potential sciatic nerve entrapment
+- **Seated Piriformis Stretch Provocation Test**: Provocation of at *point of palpation* or *Radiating pain* is positive for Piriformis/ deep hip stabilizer muscle dysfunction and potential sciatic nerve entrapment
+- Piriformis Compression Test of the sciatic Nerve @duttonDuttonOrthopaedicExamination2020
+
+## Functional Testing
+
+
+# Management
+
+Piriformis syndrome rehabilitation can be simplified into 2 primary goals: 
+
+1. **Reduce muscle irritability** [@aptaCurrentConceptsOrthopaedic2024]
+1. **Reduce compression on the sciatic nerve** (if applicable) [@aptaCurrentConceptsOrthopaedic2024]
+
+# Patient Education
+
+## Position and Posture Modification
+
+It is important to minimize aggravating factors by educating patients to minimize positions that directly compress or excessively lengthen the piriformis [@aptaCurrentConceptsOrthopaedic2024].
+
+- Sitting with legs crossed [@aptaCurrentConceptsOrthopaedic2024]
+- Sidelying with hip adduction [@aptaCurrentConceptsOrthopaedic2024]
+- Sitting with uneven hips (i.e. sitting on a wallet) [@aptaCurrentConceptsOrthopaedic2024]
+
+
+# Manual Therapy
+
+Manual therapy to the piriformis and surrounding musculature is suggested to help with piriformis syndrome [@aptaCurrentConceptsOrthopaedic2024].
+Manual therapy can decrease the hypertonicity of these muscles allowing more effective stretching [@aptaCurrentConceptsOrthopaedic2024].
+
+::: {.callout-caution}
+Manual therapy can be aggravating to some patients, so be sure to apply pressure to patient tolerance and be willing to discontinue manual therapy if symptoms are worsened [@aptaCurrentConceptsOrthopaedic2024]
+:::
+
+::: {.callout}
+
+
+
+- Piriformis muscle technique @chaitowModernNeuromuscularTechniques2003
+:::
+
+## INIT
+
+INIT was more effective than PRT in patients with piriformis syndrome @danazumiEffectIntegratedNeuromuscular2021
+
+## PRT
+
+INIT was more effective than PRT in patients with piriformis syndrome @danazumiEffectIntegratedNeuromuscular2021
+
+
+# Stretching
+
+Stretching can be beneficial.
+Stretching type, progression, and dosage is important.
+
+Start with gradual, light stretches [@aptaCurrentConceptsOrthopaedic2024].
+
+*Avoid* aggressive stretching since this can irritate the tissues [@aptaCurrentConceptsOrthopaedic2024].
+
+Based on 3-D modeling the following position is best (&gt;30-40%) for increasing piriformis length:[@aptaCurrentConceptsOrthopaedic2024] 
+
+- Flexion: 115-120&deg;
+- ER: 40-50&deg; 
+- Adduction: 25-30&deg;
+
+# Deep Hip Stabilizer Strengthening
+
+
+Here is where you should start:
+
+- Isometric &rarr; isotonic exercises [@aptaCurrentConceptsOrthopaedic2024].
+
+
+
+Here are functional positions that require the most deep hip stabilization:
+
+- Single Leg
+- Unsteady
+- Fast
+
+Exercise examples:
+
+- Modified Deadlift
+    - At wall
+    - Away from wall
+    - Single-leg
+    - Airplane
+
+
+
+
+<!-- .151 To avoid this suggested cycle of muscle imbalances and related dysfunction, a program emphasizing gluteal muscle strengthening and appropriate muscle recruitment should be emphasized. Optimal exercises for gluteal activation and strengthening are discussed later in the Specific Interventions for the Hip Region section of this monograph. @aptaCurrentConceptsOrthopaedic2024 -->
+
+# Lumbopelvic Strengthening
+
+"A concurrent presentation or history of lumbopelvic dysfunction is common in patients presenting with piriformis muscle syndrome. Lumbopelvic muscle strength and endurance exercises should be considered to provide proximal support. Patients whose clinical presentation is consistent with lumbopelvic dysfunction classification should be treated according to available CPGs that are available for low back pain.21 Following recommendations for this guideline will serve the dual purpose of providing best-practice intervention for coexisting lumbopelvic dysfunction and help determine the extent of piriformis muscle influence on the overall patient presentation." @aptaCurrentConceptsOrthopaedic2024
+
+# Operative treatment
+
+Operative treatments are only given to patients who do not achieve clinical improvement [@aptaCurrentConceptsOrthopaedic2024].
+"Although most patients with dysfunction related to piriformis syndrome respond well to nonoperative treatment, options are available for those who do not achieve clinical improvement. Corticosteroid and botulinum toxin (botox) injections have been used and described in the literature as treatment for challenging cases. These treatment options may allow better tolerance to impairment-based exercise recommendations. In rare cases of continued pain and sciatic nerve symptoms associated with significant dysfunction, open or endoscopic surgical treatment may be suggested.118" [@aptaCurrentConceptsOrthopaedic2024]

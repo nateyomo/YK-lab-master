@@ -24,7 +24,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "887ea814"
+      "id": "11bef46f"
     },
     {
       "cell_type": "code",
@@ -109,6 +109,7 @@
         "\n",
         "- [Thomas test]({{< var ref-thomas-test.path >}})\n",
         "    - The TFL can be biased by manually externally rotating the hip during the [Thomas test]({{< var ref-thomas-test.path >}}).\n",
+        "- [Ober's Test]({{< var ref-obers-test.path >}})\n",
         "\n",
         "::: {.callout-note}\n",
         "Some clinicians test TFL length during the [Thomas test]({{< var ref-thomas-test.path >}}) by seeing if the hip is abducted and moving it into 0&deg; abduction, but this is not as specific as external rotation since it would not differentiate that from [Sartorius]({{< var ref-sartorius.path >}}) tightness.\n",
@@ -118,7 +119,7 @@
         "\n",
         "- [3D hip flexor stretch]({{< var ref-3d-hip-flexor-stretch.path >}})"
       ],
-      "id": "91193dd4"
+      "id": "0a46cb29"
     }
   ],
   "metadata": {

@@ -1,0 +1,10 @@
+---
+title: Russian Language
+---
+
+|English|Russian|Russian|
+|-|-|-|
+|Pain|bolet'|*болеть*|
+|Relax|rassláp’sya|расслабься|
+
+: {.striped}

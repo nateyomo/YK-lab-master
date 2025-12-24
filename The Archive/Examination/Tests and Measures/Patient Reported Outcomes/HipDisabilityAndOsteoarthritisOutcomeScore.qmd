@@ -1,0 +1,7 @@
+---
+title: Hip Disability and Osteoarthritis Outcome Score (HOOS)
+---
+
+
+<!-- The HOOS is a disease-specific self-report questionnaire that can be used for individuals with various types of hip pain. The HOOS includes all questions from the WOMAC, along with additional items thought to be useful in detecting limitations in high-level activities, such as running, squatting, and pivoting. The current version (version 2) includes 40 items to assess five domains: symptoms (stiffness and ROM), pain, function in daily living, function in sport and recreation, and hip related quality of life. The HOOS may be preferred to the WOMAC due to its reduced ceiling effect compared to the WOMAC. Additionally, the WOMAC score can be calculated from the HOOS questionnaire if desired. -->
+

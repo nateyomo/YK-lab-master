@@ -15,7 +15,7 @@ subtitle: Musculoskeletal Overview
     - ch15 Screening the Head, Neck, and Back @heickGoodmanSnyderDifferential2023
 - Manual Tx
     - ch30 Orthopaedic Manual Physical Therapy of the Cervical Spine and Temporomandibular Joint @wiseOrthopaedicManualPhysical2015
-
+- Bonicas CHAPTER 68 Neck and Arm Pain @ballantyneBonicaManagementPain2019 
 
 :::
 

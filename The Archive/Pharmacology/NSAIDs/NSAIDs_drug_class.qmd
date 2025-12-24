@@ -2,6 +2,12 @@
 title: Non-steroidal anti-inflammatory drugs (NSAIDs)
 ---
 
+::: {.callout}
+
+- CHAPTER 78 Nonsteroidal Anti-inflammatory Drugs and Acetaminophen@ballantyneBonicasManagementPain2019
+
+:::
+
 # Types
 
 - Naproxen Sodium: Aleve
@@ -12,7 +18,7 @@ title: Non-steroidal anti-inflammatory drugs (NSAIDs)
 
 
 
-"NSAID use in pain-free individuals with healthy muscle reduces regenerative capacities,2,3 mitochondrial function,8 and protein synthesis9 of the exercised skeletal muscle in response to exercise, leading to reduced muscle growth and performance adaptations" @shahidiAnalgesicMedicationUse2021
+"NSAID use in pain-e individuals with healthy muscle reduces regenerative capacities,2,3 mitochondrial function,8 and protein synthesis9 of the exercised skeletal muscle in response to exercise, leading to reduced muscle growth and performance adaptations" @shahidiAnalgesicMedicationUse2021
 
 
 # Impaired Exercise Adaptation

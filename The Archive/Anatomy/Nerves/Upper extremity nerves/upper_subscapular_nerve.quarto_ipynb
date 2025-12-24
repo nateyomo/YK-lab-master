@@ -31,7 +31,7 @@
         "\n",
         "## Motor innervations\n"
       ],
-      "id": "0e3e3b9c"
+      "id": "9702de24"
     },
     {
       "cell_type": "code",
@@ -75,6 +75,16 @@
       "id": "tbl-upper-subscapular-nerve-oian",
       "execution_count": null,
       "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Inflammation\n",
+        "\n",
+        "Upper Subscapular Nerve can result in subscapularis mm. guarding @tuckeyF1FCSFoundations2025."
+      ],
+      "id": "16671907"
     }
   ],
   "metadata": {

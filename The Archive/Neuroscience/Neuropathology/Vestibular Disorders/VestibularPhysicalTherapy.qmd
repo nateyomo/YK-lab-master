@@ -1,0 +1,310 @@
+---
+title: Vestibular Physical Therapy
+---
+
+::: {.callout}
+
+- @lundy-ekmanNeuroscienceFundamentalsRehabilitation2023
+    - Vestibular System @lundy-ekmanNeuroscienceFundamentalsRehabilitation2023
+    - Dizziness and Unsteadiness @lundy-ekmanNeuroscienceFundamentalsRehabilitation2023
+:::
+
+![@grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/SensoryOrgans/image920 Right osseous labyrinth. Lateral view.gif)
+
+![@grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/SensoryOrgans/image921 Interior of right osseous labyrinth.gif)
+
+![@grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/SensoryOrgans/image922 Position of the right bony labyrinth of the ear in the skull, viewed from above. The temporal bone is considered transparent and the labyrinth drawn in from a corrosion preparation.gif)
+
+![@grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/SensoryOrgans/image923 The cochlea and vestibule, viewed from above. All the hard parts which form the roof of the internal ear have been removed with the saw.gif)
+
+![@grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/SensoryOrgans/image924 The membranous labyrinth.gif)
+
+![@grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/SensoryOrgans/image925 Right human membranous labyrinth, removed from its bony enclosure and viewed from the antero-lateral aspect.gif)
+
+![@grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/SensoryOrgans/image926 The same from the postero-medial aspect. 1. Lateral semicircular canal; 1’, its ampulla; 2. Posterior canal; 2’, its ampulla. 3. Superior ca.gif)
+
+![@grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/SensoryOrgans/image927 Transverse section of a human semicircular canal and duct.gif)
+
+![@grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/SensoryOrgans/image928 Diagrammatic longitudinal section of the cochlea.gif)
+
+![@grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/SensoryOrgans/image929 Floor of ductus cochlearis.gif)
+
+![@grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/SensoryOrgans/image930 Limbus laminæ spiralis and membrana basilaris. (Schematic.) 1, 1’. Upper and lower lamellæ of the lamina spiralis ossea. 2. Limbus laminæ spiralis, w.gif)
+
+![@grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/SensoryOrgans/image931 Section through the spiral organ of Corti. Magnified.gif)
+
+![@grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/SensoryOrgans/image932 The lamina reticularis and subjacent structures. (Schematic.) A. Internal rod of Corti, with a, its plate. B. External ro.gif)
+
+![@grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/SensoryOrgans/image933 Part of the cochlear division of the acoustic nerve, highly magnified.gif)
+
+
+![@OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig14.5 Structures of the Ear.png)
+
+
+![@OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig14.7 Cross Section of the Cochlea.png)
+
+![@OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig14.8 Hair Cell.png)
+
+![@OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig14.9 Cochlea and Organ of Corti LM × 412.webp)
+
+![@OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig14.10 Frequency Coding in the Cochlea.png)
+
+![@OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig14.11 Linear Acceleration Coding by Maculae.png)
+
+![@OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig14.12 Rotational Coding by Semicircular Canals.png)
+
+![@OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig14.21 Vestibulo-ocular Reflex.png)
+
+
+# Physiology
+
+
+## Hydrops
+
+A change in the structure of the membranous labyrinth @walterIdentificationManagementUnilateral.
+
+Hydrops refers to labyrinth distension @walterIdentificationManagementUnilateral.
+
+Generally occurs in the otolithic organs (utricle and saccule) rather than the SCCs @walterIdentificationManagementUnilateral.
+
+
+# Tests
+
+- Mastoid Vibration Test @walterIdentificationManagementUnilateral
+- Caloric Test @walterIdentificationManagementUnilateral
+- Questionnaires
+    - Dizziness Handicap Inventory @fulkOSullivanSchmitzsPhysical2024
+    - Vestibular Rehabilitation Benefit Questionnaire @fulkOSullivanSchmitzsPhysical2024
+    - Motion Sensitivity Quotient @fulkOSullivanSchmitzsPhysical2024
+- Positional Testing
+    - Dix-Hallpike Test @fulkOSullivanSchmitzsPhysical2024
+- Semicircular Canal Tests
+    - Electronystagmography (ENG)
+    -  Videonystagmography (VNG)
+    - Rotational chair tests
+- Otolithic Tests
+    - Vestibular-evoked myogenic potential (VEMP) @fulkOSullivanSchmitzsPhysical2024
+        - Cervical subtype @fulkOSullivanSchmitzsPhysical2024
+        - Ocular subtype @fulkOSullivanSchmitzsPhysical2024
+    - Subjective Visual Vertical (SVV) @fulkOSullivanSchmitzsPhysical2024
+    - Subjective Visual Horizontal (SVH) @fulkOSullivanSchmitzsPhysical2024
+    - Video Ocular Counter Roll (vOCR) @fulkOSullivanSchmitzsPhysical2024
+- CN 7 Testing
+    - Face symmetry
+    - Eye closing
+    - House-Brackmann Facial Nerve Grading Scale
+- Weber's Test
+- Rinne's Test
+- Head Impulse Test (HIT) @fulkOSullivanSchmitzsPhysical2024
+- Head-Shaking–Induced Nystagmus Test @fulkOSullivanSchmitzsPhysical2024
+- Dynamic Visual Acuity (DVA)
+- HINTS Test
+
+# Symptoms
+
+## Auditory symptoms
+
+- Tinnitis
+    - Low-pitch
+    - High pitch
+- Autophony: hearing one's own voice echo in your ear @walterIdentificationManagementUnilateral
+- Tulio's phenomena: 
+- Sound hypersensitivity
+    - Internal
+    - External
+- Hearing Loss
+
+## Somatosensory symptoms
+
+- Aural fullness
+
+## Visual symptoms
+
+- Oscillopsia
+
+## Balance
+
+
+# Signs
+
+- Yaw plane signs
+    - horizontal nystagmus @herdmanVestibularRehabilitation2014
+    - past pointing @herdmanVestibularRehabilitation2014
+    - rotational and lateral body falls @herdmanVestibularRehabilitation2014
+    - Horizontal deviation of perceived straight-ahead @herdmanVestibularRehabilitation2014
+- Roll plane signs
+    - torsional nystagmus @herdmanVestibularRehabilitation2014
+    - skew deviation @herdmanVestibularRehabilitation2014
+    - ocular torsion @herdmanVestibularRehabilitation2014
+    - tilts of head, body, and perceived vertical @herdmanVestibularRehabilitation2014
+- Pitch plane signs
+    - upbeat/downbeat nystagmus @herdmanVestibularRehabilitation2014
+    - forward/backward tilts and falls @herdmanVestibularRehabilitation2014
+    - vertical deviations of perceived straight-ahead. @herdmanVestibularRehabilitation2014
+
+
+# Nystagmus
+
+Nystagmus is one of the primary diagnostic indicators for both peripheral and central vestibular pathologies @fulkOSullivanSchmitzsPhysical2024.
+
+
+Nystagmus consists of 2 components: a slow drifting eye movement followed by a fast eye movement in the opposite direction.
+
+
+Nystagmus direction is described based on the direction of the **fast** component
+
+
+
+|||
+|-|-|
+|Asymmetry in vestibular firing rate||
+|VOR |Eyes slowly drift towards the side with *slower* firing|
+|Parapontine reticular formation @fulkOSullivanSchmitzsPhysical2024 | Fast eye movement in opposite direction to reset gaze |
+
+Nystagmus can be described using:
+
+- Direction
+- Spontaneity
+
+# Disorders
+
+- Unilateral vs Bilateral
+- Central vs Peripheral
+- Stable vs unstable Unilateral
+
+- Meniere's Disease
+- Vestibular Migraine
+- Vestibular Schwannoma
+- Semicircular Canal Dehiscence (SCD)
+
+- BPPV
+- PPPD (3PD)
+
+# Unstable/Progressive Unilateral Vestibular Disorders
+
+### Meniere's Disease
+
+- Hydrops (Hydropic changes) almost always @walterIdentificationManagementUnilateral
+- Increases risk with age @walterIdentificationManagementUnilateral
+    - Almost never in children @walterIdentificationManagementUnilateral
+    - Rarely in young adults @walterIdentificationManagementUnilateral
+- Ethnicity
+    - &darr; African Americans @walterIdentificationManagementUnilateral
+    - &uarr; European descent @walterIdentificationManagementUnilateral
+- Re-occurrence
+    - 1/5 patients have meniere's disease on the opposite side later in life @walterIdentificationManagementUnilateral
+- Otolithic Crisis Events of Tumarkin
+- Increased risk of Secondary BPPV @walterIdentificationManagementUnilateral
+
+#### Otolithic Crisis Events of Tumarkin
+
+- Conscious drop attacks @walterIdentificationManagementUnilateral
+- No warning @walterIdentificationManagementUnilateral
+- Violent @walterIdentificationManagementUnilateral
+- Brief @walterIdentificationManagementUnilateral
+- Generally late stages of Meniere's disease @walterIdentificationManagementUnilateral
+- No vertigo @walterIdentificationManagementUnilateral
+- Feels as if you were pushed @walterIdentificationManagementUnilateral
+
+### Vestibular Schwannoma (Acoustic Neuroma)
+
+Growth which impinges the *CNVIII Vestibulocochlear n.* resulting 
+
+- MRI
+    - Internal Auditory Canal (IAC) MRI + Contrast is best @walterIdentificationManagementUnilateral
+    - Normal cuts of the brain have poor visibility of [CNVIII]({{< var ref-cn8.path >}}) @walterIdentificationManagementUnilateral
+
+Common Symptoms
+
+- Unilateral and insidious Hearing loss @walterIdentificationManagementUnilateral
+- Dizziness (1/5) @walterIdentificationManagementUnilateral
+- Unilateral insidious Tinnitus @walterIdentificationManagementUnilateral 
+
+
+Treatment
+
+- Resection
+    - Risk of *CNVII Facial n.* damage @walterIdentificationManagementUnilateral
+
+### Semicircular Canal Dehiscence (SCD)
+
+- Superior Canal Dehiscence (SSCD)
+- 
+
+absence in bone overlying the superior canal @walterIdentificationManagementUnilateral
+
+CAT scans are helpful in identifying @walterIdentificationManagementUnilateral
+
+::: {.callout-note}
+This *can* occur in other canals, but most commonly occurs involving the superior canal @walterIdentificationManagementUnilateral.
+:::
+
+::: {.callout-caution}
+Just because a patient *appears* to have SCD per imaging, does not mean we can diagnose them @walterIdentificationManagementUnilateral.
+
+The conclusion from imaging can only be that a patient "does not have SCD" or "may have SCD" @walterIdentificationManagementUnilateral.
+:::
+
+- Pressure sensitivity
+    - Sneezing
+    - Coughing
+    - Valsalva @walterIdentificationManagementUnilateral
+    - Lifting @walterIdentificationManagementUnilateral
+    - Bowel movements @walterIdentificationManagementUnilateral
+- Imbalance
+    - Worsened with head movement @walterIdentificationManagementUnilateral
+    - Dark environments @walterIdentificationManagementUnilateral
+- Sound Sensitivity
+    - Internal: Sound coming from your own body
+        - Heel strike @walterIdentificationManagementUnilateral
+        - Eye movement @walterIdentificationManagementUnilateral
+        - Heartbeat @walterIdentificationManagementUnilateral
+        - Autophony @walterIdentificationManagementUnilateral
+    - External (sound from the environment)
+
+
+Tullio's phenomena: nystagmus induced by sound @walterIdentificationManagementUnilateral
+
+::: {.callout-note}
+There is increase internal sound hypersensitivity since the dehiscence causes amplification in the ear of vibrations within the body @walterIdentificationManagementUnilateral
+:::
+
+Testing:
+
+- Pressure provocation nystagmus test
+    - Put pressure into the ear using a pneumatic otoscope to increase (positive) and decrease (negative) pressure into the ear
+    - Sometimes the pressure can move into the superior canal in SCD patients @walterIdentificationManagementUnilateral
+    - The changes in pressure billow the cupula @walterIdentificationManagementUnilateral
+    - This results in nystagmus @walterIdentificationManagementUnilateral
+
+- Sound provoked nystagmus test
+
+- Vent testing
+
+
+Management
+
+- Therapy has little improvements
+- Surgical repair is effective
+
+- Minor symptoms
+    - Education
+    - Education that they are not having psychiatric symptoms
+
+# Peripheral vs Central
+
+- Nystagmus
+    - Does not change direction with gaze for peripheral @walterIdentificationManagementUnilateral
+    - Changes direction with gaze for central disorders @walterIdentificationManagementUnilateral
+
+
+# Bilateral Vestibular Disorders
+
+
+
+
+# Exercises
+
+- Gaze Stability Exercises @fulkOSullivanSchmitzsPhysical2024
+- Postural Stability Exercises @fulkOSullivanSchmitzsPhysical2024
+- Motion Sensitivity Habituation Exercises @fulkOSullivanSchmitzsPhysical2024

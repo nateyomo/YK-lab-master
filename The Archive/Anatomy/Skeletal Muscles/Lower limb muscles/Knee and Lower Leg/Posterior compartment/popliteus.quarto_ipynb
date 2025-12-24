@@ -26,7 +26,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "b29b83c0"
+      "id": "6b11f35c"
     },
     {
       "cell_type": "code",
@@ -164,9 +164,13 @@
         "\n",
         "# Pain Referral Pattern\n",
         "\n",
-        "Popliteus pain can occur in the posterior knee while running or walking @myersClinicalCounterstrain2012."
+        "Popliteus pain can occur in the posterior knee while running or walking @myersClinicalCounterstrain2012.\n",
+        "\n",
+        "# MMT\n",
+        "\n",
+        "p211 @weinstockNeuroKineticTherapyInnovative2010\n"
       ],
-      "id": "4a6f1fbd"
+      "id": "b8712bce"
     }
   ],
   "metadata": {

@@ -23,7 +23,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "f992b35c"
+      "id": "d4447403"
     },
     {
       "cell_type": "code",
@@ -92,6 +92,7 @@
         "- **Anterior fibers**: flexion and internal rotation @gilroyAtlasAnatomy2020 \n",
         "- **Posterior fibers**: extension and external rotation @gilroyAtlasAnatomy2020\n",
         "    - At &ge;60&deg; hip flexion, the *posterior fibers* of the gluteus minimus switch and produce an *internal rotation* torque @neumannKinesiologyMusculoskeletalSystem2017.\n",
+        "    - The posterior fibers also function to stabilize the femoral head in the acetabulum @duttonDuttonOrthopaedicExamination2020.\n",
         "\n",
         "\n",
         "The Glute med is the \"main hip abductor\" due to its efficiency and strength.\n",
@@ -107,6 +108,17 @@
         "\n",
         "\n",
         "# Overview\n",
+        "\n",
+        "\n",
+        "According to Dutton @duttonDuttonOrthopaedicExamination2020, the *gluteus medius* has been nicknamed \"the deltoid of the hip\" due to structural and functional parallels between the two muscles.\n",
+        "\n",
+        "The deltoid can be divided into anterior deltoid, lateral deltoid, and posterior deltoid @duttonDuttonOrthopaedicExamination2020.\n",
+        "The gluteus medius can be divided into anterior portion, middle portion, and posterior portion @duttonDuttonOrthopaedicExamination2020.\n",
+        "\n",
+        "Functionally, the anterior deltoid flexes the shoulder and the anterior portion of GluteMed flexes and IRs the hip @duttonDuttonOrthopaedicExamination2020.\n",
+        "The *Lateral deltoid* abducts the shoulder and the *middle portion of GluteMed* abduct the hip @duttonDuttonOrthopaedicExamination2020.\n",
+        "The *posterior deltoid* extends the shoulder and the *posterior portion of GluteMed* extends and ERs the hip @duttonDuttonOrthopaedicExamination2020.\n",
+        "\n",
         "\n",
         "# Palpation {#palpation}\n",
         "\n",
@@ -133,7 +145,7 @@
         "- Bridge (toes up)\n",
         "- S/L Hip abduction to high knee"
       ],
-      "id": "f60de8be"
+      "id": "a19df0f2"
     }
   ],
   "metadata": {

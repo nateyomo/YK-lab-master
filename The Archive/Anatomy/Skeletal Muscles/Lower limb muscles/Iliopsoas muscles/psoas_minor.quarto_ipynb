@@ -22,7 +22,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "d9b0d937"
+      "id": "38945a7c"
     },
     {
       "cell_type": "code",
@@ -92,9 +92,13 @@
         "\n",
         "# Stretches {#stretch}\n",
         "\n",
-        "- [3D hip flexor stretch]({{< var ref-3d-hip-flexor-stretch.path >}})"
+        "- [3D hip flexor stretch]({{< var ref-3d-hip-flexor-stretch.path >}})\n",
+        "\n",
+        "# Manual Therapy\n",
+        "\n",
+        "- Psoas techniques @chaitowModernNeuromuscularTechniques2003"
       ],
-      "id": "02de6802"
+      "id": "78c482c4"
     }
   ],
   "metadata": {

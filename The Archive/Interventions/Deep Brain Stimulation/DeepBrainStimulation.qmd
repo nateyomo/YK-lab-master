@@ -1,0 +1,8 @@
+---
+title: Deep Brain Stimulation
+---
+
+::: {.callout}
+
+- CHAPTER 97 Deep Brain and Motor Cortex Stimulation @ballantyneBonicasManagementPain2019
+:::

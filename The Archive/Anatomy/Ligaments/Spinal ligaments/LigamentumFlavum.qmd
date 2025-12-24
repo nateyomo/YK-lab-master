@@ -1,0 +1,94 @@
+---
+title: Ligamentum Flavum (LF)
+keywords:
+- "Ligamenta flava"
+---
+
+
+
+
+# Anatomy
+LF is a ligament that connects lamina of adjacent vertebrae @standringGraysAnatomyAnatomical2021.
+
+The *depth* of LF extends posteriorly from the facet joint capsules to the point where lamina fuse into spines @standringGraysAnatomyAnatomical2021.
+
+The spaces between LF allow the veins to pass through and drain into the *internal* and *external venous plexi* @standringGraysAnatomyAnatomical2021.
+
+The fibers are arranged diagonally, and span inferoposteriorly @standringGraysAnatomyAnatomical2021.
+The fibers originate from the inferior, anterior aspect of the lamina of the superior vertebrae to the posterior aspect of the upper margin of the inferiorly adjacent vertebra @standringGraysAnatomyAnatomical2021
+
+The anterior surface is covered by a smooth membrane @standringGraysAnatomyAnatomical2021.
+
+
+# Histology
+
+- Predominantly *yellow elastic tissue* @standringGraysAnatomyAnatomical2021
+
+# Morphology
+
+The thickness of LF increases as it descends from the cervical region to the lumbar region @standringGraysAnatomyAnatomical2021.
+
+LF can be divided into 2 layers based on fiber orientation:
+
+- Superficial
+- Deep
+
+
+
+# Innervation
+
+The **superficial layer of LF** is innervated by the *medial branches of the dorsal root* of the adjacent nerve root @standringGraysAnatomyAnatomical2021.
+
+The **deep layer of LF** is innervated by the *sinuvertebral nerves* @standringGraysAnatomyAnatomical2021.
+
+# Function
+
+
+LF broadly restricts flexion.
+
+Specifically, it prevents the separation of lamina during spinal flexion @standringGraysAnatomyAnatomical2021.
+
+It is theorized that this assists with returning to erect posture following flexion @standringGraysAnatomyAnatomical2021.
+This mechanism can potentially protect discs from injury @standringGraysAnatomyAnatomical2021.
+
+
+
+# Overview
+
+
+
+
+Ligamentum Flava refers to the sum of actions of all of the ligamentum flavums in the body.
+
+# Anatomy
+
+A single *ligamentum flavum* originates on the *anterior* lamina of a vertebral body and inserts onto the *posterior* lamina of the inferiorly adjacent vertebral body @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+The ligamentum flava form the posterior wall of the vertebral canal @neumannKinesiologyMusculoskeletalSystem2017.
+
+The ligamentum flava in the lumbar spine are thicker than those in the thoracic and cervical spine since the lumbar spine experienes the most intervertebral flexion out of the 3 regions @neumannKinesiologyMusculoskeletalSystem2017.
+
+# Histology
+
+Ligamentum flavum literally means "*yellow ligament*" due to its yellow pigment as a result of the high amounts of yellow *elastic connective tissue* @neumannKinesiologyMusculoskeletalSystem2017.
+The ligamentum flavum is made up of 80% elastin and only 20% collagen @neumannKinesiologyMusculoskeletalSystem2017.
+This provides the ligamentum flavum with highly *elastic* properties @neumannKinesiologyMusculoskeletalSystem2017.
+
+
+# Function
+
+Since the ligamentum flavum is 80% elastin it results in an elastic tissue that excels at exerting a *constant* force at a moderate resistance @neumannKinesiologyMusculoskeletalSystem2017.
+The *ligamentum flavum* is taut in end-range spinal flexion where it functions to absorb some of the intervertebral compression @neumannKinesiologyMusculoskeletalSystem2017.
+
+The ligamentum flavum increases in strain by ~35% from neutral spine to full flexion @neumannKinesiologyMusculoskeletalSystem2017.
+
+# Dysfunction
+
+Extreme spinal flexion past full ROM can lead to a *ligamentum flavum rupture* @neumannKinesiologyMusculoskeletalSystem2017.
+
+:::{.callout-note}
+
+This position will not only place excess strain on the ligamentum flavum but also place high amounts of compression on the anterior aspect of the intervertebral disc
+
+:::

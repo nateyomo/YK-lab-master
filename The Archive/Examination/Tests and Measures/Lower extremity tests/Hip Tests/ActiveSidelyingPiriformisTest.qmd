@@ -1,0 +1,15 @@
+---
+title: "Active Sidelying Piriformis Test"
+keywords:
+    - Active Piriformis Test
+---
+
+
+- Patient positioned in contralateral sidelying (test hip upward) with bent knees and slight hip flexion [@aptaCurrentConceptsOrthopaedic2024]
+- Clinician palpates the piriformis muscle [@aptaCurrentConceptsOrthopaedic2024]
+- Patient performs isometric hip abduction + ER against examiner resistance [@aptaCurrentConceptsOrthopaedic2024]
+
+
+- Positive
+  - Provocation at point of palpation [@aptaCurrentConceptsOrthopaedic2024]
+  - Radiating pain [@aptaCurrentConceptsOrthopaedic2024]

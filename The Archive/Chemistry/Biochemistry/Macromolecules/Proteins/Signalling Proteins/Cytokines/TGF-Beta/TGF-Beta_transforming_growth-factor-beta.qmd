@@ -3,6 +3,14 @@ title: Transforming Growth Factor Beta (TGF-&beta;)
 ---
 
 
+::: {.callout}
+
+- @yuanFunctionTGFvSignaling2025
+- @carthyTGFvSignalingControl2018
+- @tieTGFbetaSignalTransduction2022
+
+:::
+
 TGF-&beta; is a multifunctional cytokine that drives inflammation, fibrosis, and cell differentiation @kokenyPPARgTGFvMajorRegulators2021 
 
 

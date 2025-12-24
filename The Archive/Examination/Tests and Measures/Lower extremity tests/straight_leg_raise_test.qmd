@@ -1,0 +1,83 @@
+---
+title: Straight Leg raise Test
+---
+
+
+# Nerve bias
+
+## Sural Nerve
+
+- DF
+- Inversion
+
+## Tibial Nerve
+
+- DF
+- Eversion
+
+## Common Fibuular Nerve
+
+- PF
+- Inversion
+
+
+
+
+# H-Test {#h-test}
+
+::: {.columns}
+::: {.column}
+- Supine @aptaCurrentConceptsOrthopaedic2024
+- Perform 3x SLR's at max ROM as fast as possible @aptaCurrentConceptsOrthopaedic2024
+- Rate apprehension 0-100 (most apprehension) @aptaCurrentConceptsOrthopaedic2024
+:::
+::: {.column}
+Delaying RTS until apprehension was at a minimum significantly reduced reinjury rates @aptaCurrentConceptsOrthopaedic2024
+:::
+:::
+
+
+
+
+# Contract-Relax Technique {#contract-relax}
+
+[contract-relax]({{< var ref-contract-relax.path >}})
+
+## Alignment focused
+
+One variation of this technique is to focus on the alignment between the hip, knee, and ankle.
+Focus on the position the patient naturally moves into, if they are trying to twist their hip and knee into internal or external rotation.
+
+Bring them into the position and watch how their body creates abnormal movement patterns during the movement.
+If these movements occur, cue them and/or bring them into a less drastic range until they can perform the movement properly, and slowly progress the range after each rep.
+
+## Neurodynamic focused
+
+
+
+## Hip Activation {#contract-relax-hip}
+
+- Have the patient drive into hip extension
+    - "Bring your leg to the ground"
+    - Cue them not to overactivate hamstrings and have knee extension
+
+Dosage: 2x10reps of 3-5sec hold at end range.
+
+## Ankle activation {#contract-relax-ankle}
+
+
+- focus more on dorsiflexion at first prior to adding excessive subtalar joint movements.
+
+
+
+# Exercises
+
+- Wall long sits
+- Rear straight leg table stretch
+- Split straight leg raise
+
+# Strain Counterstrain
+
+{{< video https://www.youtube.com/watch?v=HXvV_QVCwqU >}}
+
+{{< video https://www.youtube.com/watch?v=6CCPUK3ElYg >}}

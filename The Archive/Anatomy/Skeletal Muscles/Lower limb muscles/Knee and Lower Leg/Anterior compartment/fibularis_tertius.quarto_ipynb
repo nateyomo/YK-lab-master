@@ -32,7 +32,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "020fdce2"
+      "id": "03ec853d"
     },
     {
       "cell_type": "code",
@@ -149,7 +149,7 @@
         "## Eversion\n",
         "Fibularis teritus, [Fibularis Longus]({{< var ref-fibularis-longus.path >}}), and [Fibularis Brevis]({{< var ref-fibularis-brevis.path >}}) work together to perform Eversion and *prevent* hyper-inversion @olewnikFibularisTertiusAnatomical2019.\n"
       ],
-      "id": "84e3546e"
+      "id": "583fcba9"
     }
   ],
   "metadata": {

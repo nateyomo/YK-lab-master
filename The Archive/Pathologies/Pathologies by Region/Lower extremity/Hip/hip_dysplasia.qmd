@@ -3,3 +3,33 @@ title: Hip Dysplasia
 ---
 
 
+
+# Hip Dysplasia APTA current concepts
+
+
+[**Hip Dysplasia**]({{< var ref-hip-dysplasia.path >}}): [@aptaCurrentConceptsOrthopaedic2024]
+
+
+## Presentation
+
+Often patients compensate for insufficient passive stability by maintianing a position of anterior pelvic tilt to maximize femoral head coverage [@aptaCurrentConceptsOrthopaedic2024].
+
+- Look for associated Iliopsoas and rectus femoris muscle tightness [@aptaCurrentConceptsOrthopaedic2024]
+
+## Treatment
+
+
+Hip dysplasia is an unstable hip with overly-lax or weakened capsuloligamentous structures [@aptaCurrentConceptsOrthopaedic2024].
+
+As a result, treatment should involve a similar approach to hip instability.
+
+---
+
+- Protect structures from instability events
+- Address impairments
+- Optimize function 
+- Prevention of OA
+
+## OA Prevention
+
+

@@ -58,6 +58,15 @@ else:
 
 # Cutaneous Innervation
 
+
+# Examination
+
+- [Sciatica Bothersome Index (SBI)]({{< var ref-sciatica-bothersome-index.path >}})
+- [Sciatic Frequency Index (SFI)]({{< var ref-sciatic-frequency-index.path >}})
+
+## Neural Tension Test
+The [Active Slump Test]({{< var ref-active-slump-test.path >}}) applies a neural tension on the [Sciatic n.]({{< var ref-sciatic-nerve.path >}}) and the [L4]({{< var ref-nerve-root.l4 >}}) and [L5]({{< var ref-l4-nerve-root.path >}}) @aptaCurrentConceptsOrthopaedic2024
+
 # Dysfunction
 
 
@@ -71,8 +80,11 @@ Damage to the common fibular division during Total hip arthroplasty can result i
 ::: {.callout title="Reading list"}
 
 - Sciatic nerve p373 @DynamicNeurologicalStabilizationClinicalRehabilitation2014
+- Pain
+    - Ch70 Lower Extremity Pain: sciatic n entrapment @ballantyneBonicasManagementPain2019
 
 :::
+
 
 
 # Treatment

@@ -11,7 +11,7 @@
         "# OIAN\n",
         "## Suboccipitals\n"
       ],
-      "id": "7267bac8"
+      "id": "60cbeb8a"
     },
     {
       "cell_type": "code",
@@ -67,7 +67,7 @@
         "- [Rectus Capitis anterior]({{< var ref-rectus-capitis-anterior.path >}})\n",
         "- [Rectus Capitis Lateralis]({{< var ref-rectus-capitis-lateralis.path >}})\n"
       ],
-      "id": "d9ab9553"
+      "id": "eb8a4746"
     },
     {
       "cell_type": "code",
@@ -123,7 +123,7 @@
         "- [Splenius capitis]({{< var ref-splenius-capitis.path >}})\n",
         "- [Splenius cervicis]({{< var ref-splenius-cervicis.path >}})\n"
       ],
-      "id": "cc53c0cf"
+      "id": "fe150aaf"
     },
     {
       "cell_type": "code",
@@ -202,7 +202,7 @@
         ":::\n",
         ":::\n"
       ],
-      "id": "452a3904"
+      "id": "ff1a27d2"
     },
     {
       "cell_type": "code",
@@ -260,7 +260,7 @@
         "- [Semispinalis Cervicis]({{< var ref-semispinalis-cervicis.path >}})\n",
         "- [Semispinalis Thoracis]({{< var ref-semispinalis-thoracis.path >}})\n"
       ],
-      "id": "8ae32048"
+      "id": "6a716553"
     },
     {
       "cell_type": "code",
@@ -314,7 +314,7 @@
         "- [Interspinales Cervicis]({{< var ref-interspinales-cervicis.path >}})\n",
         "- [Interspinales Lumbora]({{< var ref-interspinales-lumbora.path >}})\n"
       ],
-      "id": "a765363e"
+      "id": "2c83840e"
     },
     {
       "cell_type": "code",
@@ -380,7 +380,7 @@
         "    - Depth\n",
         "- "
       ],
-      "id": "082617ee"
+      "id": "5102076b"
     }
   ],
   "metadata": {

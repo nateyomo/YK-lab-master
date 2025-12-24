@@ -1,0 +1,20 @@
+---
+title: "Dial Test (Hip)"
+---
+
+The *Dial Test* is used to detect injury to the hip joint capsule associated with hip instability
+
+# Similar Tests
+
+The dial test is similar to the [log-roll test]({{< var ref-log-roll-hip-test.path >}})
+
+# Technique
+
+- Supine
+- Hip and knee in 0&deg; extension
+- Maximally internally rotate the hip @duttonDuttonOrthopaedicExamination2020
+- The limb is released, allowing the hip to externally rotate to its resting position @duttonDuttonOrthopaedicExamination2020
+- Measure the degree of external rotation
+
+ER &gt;45&deg; *without* a firm end-feel is considered a positive test @duttonDuttonOrthopaedicExamination2020.
+

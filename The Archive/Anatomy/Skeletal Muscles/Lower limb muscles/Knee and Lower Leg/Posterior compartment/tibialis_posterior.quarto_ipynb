@@ -38,7 +38,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "63f948f8"
+      "id": "e20c7e53"
     },
     {
       "cell_type": "code",
@@ -162,12 +162,20 @@
         "\n",
         "- [3D Calf Stretch]({{< var ref-3d-calf-stretch.path >}})\n",
         "\n",
+        "# Posterior Tibial Tendon Insufficiency\n",
+        "\n",
+        "\n",
+        "::: {.callout}\n",
+        "\n",
+        "- Pain\n",
+        "    - Ch70 Lower Extremity Pain:  posterior tibial tendon insufficiency @ballantyneBonicasManagementPain2019\n",
+        ":::\n",
         "\n",
         "# Shin splints\n",
         "\n",
         "Tibialis posterior dysfunction can lead to [shin splints]({{< var ref-shin-splints.path >}}), more specifically [*posterior shin splints*]({{< var ref-posterior-shin-splints.path >}})."
       ],
-      "id": "3ef71260"
+      "id": "1781f32b"
     }
   ],
   "metadata": {

@@ -25,7 +25,7 @@
         "\n",
         "# Muscular attachments\n"
       ],
-      "id": "0c95254c"
+      "id": "b51e050e"
     },
     {
       "cell_type": "code",
@@ -123,7 +123,7 @@
         "- [Scapholunate Shear Test]({{< var ref-scapholunate-shear-test.path >}})\n",
         "- [Murphy Sign]({{< var ref-ref-murphy-sign-hand >}}): Lunate dislocation"
       ],
-      "id": "3ae32fa6"
+      "id": "9f9591eb"
     }
   ],
   "metadata": {

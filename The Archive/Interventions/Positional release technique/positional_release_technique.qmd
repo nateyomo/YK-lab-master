@@ -11,7 +11,23 @@ title: Positional release technique (PRT)
 
 The core concept of PRT is to *gently* move the tissues into a supported and comfortable position (ease), and to hold that positional until a beneficial change spontaneously occurs ("release") @chaitowPositionalReleaseTechniques2016.
 
+The PRT Technique involves: {{< var ref-positional-release-technique.technique >}}
+PRT involves using **ischemic compression** on **trigger points** to create a **nociceptive response** @danazumiEffectIntegratedNeuromuscular2021
+
+# Mechanism
+
+There is no clear mechanism of action for PRT.
+
+The *reactive hyperemia hypothesis* suggests that the pain and muscle spasm relief is a reaction from the hyperemia from the ischemic compression @danazumiEffectIntegratedNeuromuscular2021.
+
+The *spinal reflex hypothesis for PRT* suggests that the ischemic compression creates a spinal reflex which relieves pain and muscle spasm @danazumiEffectIntegratedNeuromuscular2021.
+
 
 # Types
 
 - [Strain-Counterstrain]({{< var ref-strain-counterstrain.path >}}) 
+
+
+
+# Piriformis Syndrome
+

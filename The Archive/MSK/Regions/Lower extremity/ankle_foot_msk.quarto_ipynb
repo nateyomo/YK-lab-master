@@ -264,7 +264,7 @@
         "\n",
         "::: {#tbl-flexor-retinaculum-oian}"
       ],
-      "id": "adc36fe3"
+      "id": "69523ea9"
     },
     {
       "cell_type": "code",
@@ -704,7 +704,7 @@
         "    - [Anterior shin splints]({{< var ref-anterior-shin-splints.path >}})\n",
         "    - [Posterior shin splints]({{< var ref-posterior-shin-splints.path >}})"
       ],
-      "id": "b0b97ffc"
+      "id": "a2468b4a"
     }
   ],
   "metadata": {

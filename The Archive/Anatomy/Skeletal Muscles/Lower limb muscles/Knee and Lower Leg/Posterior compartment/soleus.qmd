@@ -69,6 +69,9 @@ else:
 - Posterior fibula @gilroyAtlasAnatomy2020
 - Posterior Tibia @gilroyAtlasAnatomy2020  
 
+# Fiber orientation
+
+
 
 # Insertion {#insertion}
 
@@ -78,10 +81,38 @@ Calcaneal tuberosity via the Achilles' tendon @gilroyAtlasAnatomy2020
 
 [Tibial N.]({{< var ref-tibial-nerve.path >}}) ([S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) @gilroyAtlasAnatomy2020 
 
+According to Donnelly @donnellyTravellSimonsSimons2019, the [Tibial N.]({{< var ref-tibial-nerve.path >}}) ([L5]({{< var ref-l5-nerve-root.path >}}), [S1]({{< var ref-nerve-root.s1 >}}), [S2]({{< var ref-nerve-root.s2 >}})) innervate the soleus muscle @donnellyTravellSimonsSimons2019.
+[S1]({{< var ref-nerve-root.s1 >}}) and [S2]({{< var ref-nerve-root.s2 >}}) are the primary nerve roots for the soleus @donnellyTravellSimonsSimons2019.
+
+
 # Action {#action}
 
 - **TCJ**: Plantarflexion @gilroyAtlasAnatomy2020 
 - **Stabilizes leg** @gilroyAtlasAnatomy2020 
+
+# Function
+
+The high percentage of [type I muscle fibers](#histology) in the soleus indicates it functions for tonic postural control @donnellyTravellSimonsSimons2019.
+
+Since the soleus is nearby vascular structures, it may have a secondary function to facilitate venous return @donnellyTravellSimonsSimons2019.
+The gentle muscle contractions associated with postural control would better for venous return than powerful contractions associated with propulsion @donnellyTravellSimonsSimons2019.
+
+The fiber orientation of the soleus can help to understand its functions.
+The soleus can be divided into 3 parts based on fiber orientation: *Posterior*, *Anterolateral*, and *Anteromedial* aspects @donnellyTravellSimonsSimons2019
+
+The **Posterior fibers of the soleus** are shorter and have an oblique orientation, travelling distally and anteriorly, which allows them to generate *large forces* for *leg stabilization* @donnellyTravellSimonsSimons2019.
+
+The **anterolateral fibers** are longer than the *anteromedial fibers* and are believed to contribute to plantarflexion forces @donnellyTravellSimonsSimons2019.
+The **anteromedial fibers** are shorter than the *anterolateral fibers* and assist with *leg stabilization* @donnellyTravellSimonsSimons2019.
+
+
+## Gait
+
+
+
+# Histology
+
+The soleus is primarily composed of Type-I Slow-twitch muscle fibers @donnellyTravellSimonsSimons2019
 
 # Related structures
 
@@ -92,6 +123,60 @@ The [tibial nerve]({{< var ref-tibial-nerve.path >}}) enters the lower leg then 
 The Triceps Surae inserts onto the calcaneal tuberosity via the achilles tendon.
 The fulcrum is technically the distal foot and the external load acting upon this muscle, joint, tendon complex is at the tibia.
 Thus, this is a **second class lever** and as a result, the triceps surae create more torque relative to their force compared to most other muscles in the body.
+
+
+
+# Referred Pain Pattern {#referred-pain-pattern}
+
+Trigger points (TrPs) in the soleus muscle generallly result in pain in:
+
+- Posterior lower leg @donnellyTravellSimonsSimons2019
+- Plantar heel @donnellyTravellSimonsSimons2019
+- Ipsilateral SIJ @donnellyTravellSimonsSimons2019
+
+
+# Trigger Points (TrP) {#trigger-points}
+
+## Common Trigger Points
+There are 3 common sites of TrPs in the soleus @donnellyTravellSimonsSimons2019:
+
+1. Muscle belly, medial to achilles tendon @donnellyTravellSimonsSimons2019
+1. 1-2in distal from the origin at the tibia and fibula @donnellyTravellSimonsSimons2019
+1. Distal soleus, lateral to the achilles tendon @donnellyTravellSimonsSimons2019
+
+### Medial musculotendinous junction TrP
+
+This is the most common TrP in the soleus @donnellyTravellSimonsSimons2019.
+It can be found in the distal muscle belly, medial to the *Achilles tendon* @donnellyTravellSimonsSimons2019.
+This is associated with referred pain distally through the *Achilles tendon* and into the posteroinfero aspect of the calcaneus @donnellyTravellSimonsSimons2019.
+
+Donnelly suggests that this TrP develops here since this is the point of highest stress between the soleus and achilles tendon @donnellyTravellSimonsSimons2019.
+
+### Origin TrP
+
+TrPs at the origin of the soleus are 2nd most common @donnellyTravellSimonsSimons2019.
+This TrP generally forms 2.5-5cm distal to the [origin of the soleus on the tibia and fibula](#origin) @donnellyTravellSimonsSimons2019.
+This TrP refers pain along the midline of the posterior lower leg starting just inferior to the popliteal crease and ending superior to the Achilles tendon @donnellyTravellSimonsSimons2019.
+
+### Distal Lateral Soleus TrP
+
+The third and least common TrP is in the distal soleus, just lateral to the Achilles Tendon @donnellyTravellSimonsSimons2019.
+The pain referral pattern is generally in the *ipsilateral* SIJ joint @donnellyTravellSimonsSimons2019.
+
+
+## Activation and Perpetuation of Trigger Points
+
+Anything that causes or "activates" a trigger point can also perpetuate a trigger point @donnellyTravellSimonsSimons2019.
+In general, TrPs are formed from either excessive force or excessive time in an extreme position.
+A TrP can activate when a muscle experiences an eccentric or concentric force that it is unaccustomed to @donnellyTravellSimonsSimons2019.
+Alternatively, a TrP can be formed if the muscle is placed in a shortened or lengthened position for an extended period of time @donnellyTravellSimonsSimons2019.
+
+Here are some specific examples at the soleus:
+
+- If the foot slips during *toe-off*, the soleus will experience increased load @donnellyTravellSimonsSimons2019
+- Direct trauma to the soleus @donnellyTravellSimonsSimons2019
+- Leg length discrepancy can cause a TrP in the soleus of the shorter limb @donnellyTravellSimonsSimons2019
+
 
 
 
@@ -134,6 +219,50 @@ Releasing the soleus at its origin can be important for freeing the tibial nerve
 
 Use the [SLR Ankle contract-relax]({{< var ref-straight-leg-raise.contract-relax-ankle >}}) as a test-retest and a way to glide the tibial nerve.
 
+## TrP Self-release
+
+Hooklying Soleus TrP Self-release @donnellyTravellSimonsSimons2019
+
+- Hooklying
+- Place the ipsilateral leg on the contralateral knee
+- Start at distal posterior lower leg and move proximally towards the knee
+- Hold *light* pressure over areas of discomfort
+    - 15-30s
+    - Pain &lt;4/10
+    - 5x sets
+
+Seated Soleus TrP Self-release @donnellyTravellSimonsSimons2019
+
+- Seated in Figure4 position
+
 # Stretch {#stretch}
 
 - [3D Calf Stretch]({{< var ref-3d-calf-stretch.path >}})
+
+# Patient education
+
+## Sitting Posture
+
+Sit with knees at 50-60&deg; of flexion so the foot is in plantarflexion when it contacts the floor @donnellyTravellSimonsSimons2019.
+
+Make sure that any leg rests do *not* place excessive compression on the posterior lower leg @donnellyTravellSimonsSimons2019.
+
+## Shoes
+
+- Placing a wedge in the shoes moves the foot into plantarflexion and can reduce tension on the Achilles tendon @donnellyTravellSimonsSimons2019
+
+## Sleeping
+
+- Maintain a neutral ankle position at night (90&deg; between Foot and tibia) @donnellyTravellSimonsSimons2019
+    - Untuck sheets at the foot of the bed
+- Avoid sidelying on ipsilateral side
+    - The pressure of the bed can cause TrPs
+
+## Walking
+
+- Avoid steep inclines or declines @donnellyTravellSimonsSimons2019
+
+## Swimming
+
+Swimming activities where the foot is pointed (end range PF) can be aggravating @donnellyTravellSimonsSimons2019.
+

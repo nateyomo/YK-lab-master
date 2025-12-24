@@ -1,6 +1,10 @@
 ---
-title: Guillain-Barre Syndrome
+title: Guillain-Barre Syndrome (Disease)
 ---
+
+Although it is commonly references as a "Syndrome," it should be referred to as Guillain-Barre Disease since we understand the etiology and pathogenesis to fairly high certainty @lenkaWeBelittleEssential2020.
+
+
 
 
 :::{.callout title="Resources"}

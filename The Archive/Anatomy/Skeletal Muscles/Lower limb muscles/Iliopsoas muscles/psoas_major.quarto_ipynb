@@ -24,7 +24,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "08d0780b"
+      "id": "b2bc6239"
     },
     {
       "cell_type": "code",
@@ -90,14 +90,22 @@
         "\n",
         "\n",
         "\n",
+        "# Special Tests\n",
+        "\n",
+        "- Thomas Test\n",
+        "- Positive [FABER Test]({{< var ref-faber-test.path >}}) can indicate an iliopsoas spasm\n",
         "\n",
         "# Overview\n",
         "\n",
         "# Stretches {#stretch}\n",
         "\n",
-        "- [3D hip flexor stretch]({{< var ref-3d-hip-flexor-stretch.path >}})"
+        "- [3D hip flexor stretch]({{< var ref-3d-hip-flexor-stretch.path >}})\n",
+        "\n",
+        "# Manual Therapy\n",
+        "\n",
+        "- Psoas techniques @chaitowModernNeuromuscularTechniques2003"
       ],
-      "id": "0df8abf2"
+      "id": "c9cd8758"
     }
   ],
   "metadata": {

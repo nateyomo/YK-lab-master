@@ -22,7 +22,7 @@
         "    - ch15 Screening the Head, Neck, and Back @heickGoodmanSnyderDifferential2023\n",
         "- Manual Tx\n",
         "    - ch30 Orthopaedic Manual Physical Therapy of the Cervical Spine and Temporomandibular Joint @wiseOrthopaedicManualPhysical2015\n",
-        "\n",
+        "- Bonicas CHAPTER 68 Neck and Arm Pain @ballantyneBonicaManagementPain2019 \n",
         "\n",
         ":::\n",
         "\n",
@@ -85,7 +85,7 @@
         "\n",
         "# Muscles\n"
       ],
-      "id": "b4f0cc7d"
+      "id": "cd27254b"
     },
     {
       "cell_type": "code",
@@ -492,7 +492,7 @@
         "- Treatment of Headache, Neck Pain, and  TMJ Dysfunction with Counterstrain: @myersClinicalCounterstrain2012\n",
         ":::"
       ],
-      "id": "fb78c6f0"
+      "id": "83d81139"
     }
   ],
   "metadata": {

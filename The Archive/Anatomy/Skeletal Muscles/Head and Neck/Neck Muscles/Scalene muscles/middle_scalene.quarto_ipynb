@@ -23,7 +23,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "01788188"
+      "id": "426a19e2"
     },
     {
       "cell_type": "code",
@@ -101,7 +101,7 @@
         "- The Middle Scalene can cause entrapment of the [C5]({{< var ref-nerve-root.c5 >}}) and [C6]({{< var ref-nerve-root.c6 >}}) since these nerves pass through this muscle @duttonDuttonOrthopaedicExamination2020.\n",
         "    - This can result in problems with the [Long Thoracic Nerve]({{< var ref-long-thoracic-nerve.path >}}) @duttonDuttonOrthopaedicExamination2020."
       ],
-      "id": "f497bc7d"
+      "id": "3ee0f40c"
     }
   ],
   "metadata": {

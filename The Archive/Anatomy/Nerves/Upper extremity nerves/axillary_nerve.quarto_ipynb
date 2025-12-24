@@ -14,7 +14,7 @@
         "\n",
         "# Motor Innervation\n"
       ],
-      "id": "9b551165"
+      "id": "f0758c4b"
     },
     {
       "cell_type": "code",
@@ -70,7 +70,7 @@
         "\n",
         "- Fractures at the Surgical Neck most commonly cause [Axillary Nerve]({{< var ref-axillary-nerve.path >}}) damage @duttonDuttonOrthopaedicExamination2020."
       ],
-      "id": "630f9940"
+      "id": "139f68b4"
     }
   ],
   "metadata": {

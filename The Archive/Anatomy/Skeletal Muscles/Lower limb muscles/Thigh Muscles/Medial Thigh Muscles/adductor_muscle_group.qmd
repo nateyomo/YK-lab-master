@@ -78,6 +78,27 @@ See Hip IR?
 
 
 
+# Palpation {#palpation}
+
+- Patient positioned in *prone*
+- Start at ischial tuberosity and role infero-medially
+    - Note the difference in fiber direction and depth between the hamstring fibers and the adductor fibers
+    - At the ischial tuberosity, you should be able to palpate the [origin of the adductor magnus]({{< var ref-adductor-magnus.origin >}})
+- Work your way down the femoral shaft, rolling medially to palpate the insertions of the adductors
+- Proximal 1/4 of the femoral shaft
+    - The [adductor magnus]({{< var ref-adductor-magnus.path >}}) will be the most posteriorly superficial adductor muscle.
+    - After diving through the adductor magnus you will reach the posterior intermediate compartment, and you will palpate the adductor brevis.
+    - Lastly, the [pectineus]({{< var ref-pectineus.path >}}) inserts most anteriorly and thus will be palpated last.
+- Middle half of the femoral shaft
+    - You will first palpate the [adductor magnus]({{< var ref-adductor-magnus.path >}})
+    - Diving deeper, you will be able to palpate adductor longus and adductor brevis.
+    - Both of these muscles are at the intermediate layer, and thus transition between these two muscles should be at the same depth.
+    - The adductor brevis muscle will be more superior
+    - The adductor longus inserts inferior to the adductor brevis.
+- Distal 1/4
+    - The adductor longus' insertion will end by the distal 1/4 of the femur.
+    - The adductor magnus' insertion will also stop and then reinsert at the *adductor tubercle*.
+        - The space created is the *adductor hiatus*.
 
 # Exercises
 

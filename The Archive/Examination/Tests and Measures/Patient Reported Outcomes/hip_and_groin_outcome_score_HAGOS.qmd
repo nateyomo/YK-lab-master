@@ -6,3 +6,17 @@ keywords:
 
 <!-- The authors found the assigned categories correlated with the sports sub-score of the Copenhagen Hip and Groin Outcome Score (HAGOS), a validated patient-reported outcome measurement tool for the athletic population. Numerical pain rating scale scores of 6 to 10 during the Copenhagen 5-second squeeze test were related to substantially impaired sports-related hip and groin function.55 @aptaCurrentConceptsOrthopaedic2024 -->
 
+
+Developed for assessing hip and groin disability in a young and active population @duttonDuttonOrthopaedicExamination2020.
+
+- 37 items
+- 6 subscales
+    - Symptoms: 7 Items
+    - Pain: 10 Items
+    - ADLs: 5 Items
+    - Sports/recreation: 8 Items
+    - Physical Activity: 2 Items
+    - Quality of Life (QOL): 5 Items
+- 5-point Likert Scale (0-4pts)
+- Final score is normalized to 100
+- 100 is defined as "no problem" and 0 is maximal problems @duttonDuttonOrthopaedicExamination2020

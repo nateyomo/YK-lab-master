@@ -1,0 +1,69 @@
+---
+title: Scour Test
+subtitle: Hip provocation maneuver
+keywords:
+    - Quadrant Test
+    - Scour Test
+---
+
+:::{.callout title="AKA"}
+
+- Scour test
+- Quadrant test @maslowskiDiagnosticValidityHip2010
+
+:::
+
+# Technique
+
+![Scour Test @maslowskiDiagnosticValidityHip2010](/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/images/maslowskiDiagnosticValidityHip2010 fig3 scour test.png)
+
+|Quadrant|Position|
+|-|-|
+|Inner Quadrant|90&deg; Flexion + Max Adduction|
+|Outer Quadrant|90&deg; Flexion + Max Abduction|
+: {.striped}
+
+- Supine
+    - Position the patient at the lateral edge of bed on testing side
+- Passively bring the hip into 90&deg; Hip flexion and ~90&deg; knee flexion @duttonDuttonOrthopaedicExamination2020
+- Inner Quadrant
+    - Passively adduct the hip to end range (when the pelvis lifts off the bed) @duttonDuttonOrthopaedicExamination2020
+    - Apply a compression along the longitudinal axis of the femur
+- Outer quadrant
+    - Bring the femur into 90&deg; Flexion and Max hip abduction @duttonDuttonOrthopaedicExamination2020
+    - Apply a compression force along the longitudinal axis of the femur
+
+
+Abnormal findings:
+
+- Apprehension
+- Resistance
+- [Pain](#provocation) @maslowskiDiagnosticValidityHip2010
+- Crepitus
+
+# Provocation Finding {#provocation}
+
+Provocation of pain is considered a positive test.
+Pain can result from compression or stress to a number of structures:
+
+- Articular surfaces of the femoroacetabular joint @duttonDuttonOrthopaedicExamination2020
+- Acetabular labrum @duttonDuttonOrthopaedicExamination2020
+- Hip joint capsule @duttonDuttonOrthopaedicExamination2020
+- Muscular compression
+    - TFL origin @duttonDuttonOrthopaedicExamination2020
+    - Sartorius origin @duttonDuttonOrthopaedicExamination2020
+    - Iliopsoas muscle @duttonDuttonOrthopaedicExamination2020
+    - Pectineus muscle @duttonDuttonOrthopaedicExamination2020
+    - Adductor longus @duttonDuttonOrthopaedicExamination2020
+- Internal pudendal bundle (IPB) and neurovascular bundle @duttonDuttonOrthopaedicExamination2020
+- Femoral neck
+
+
+
+# Indications
+
+# Interpretation
+
+- Can be positive for [acetabular labral tear]({{< var ref-acetebular-labral-tear.path >}}) @wongPhysicalExaminationHip2022
+
+ 

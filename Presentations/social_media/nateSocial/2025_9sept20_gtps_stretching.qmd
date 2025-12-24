@@ -32,7 +32,7 @@ format:
 
 # Should patients with lateral hip pain stretch?
 
-An equation to help your clinical decision making
+Understanding the compression tradeoff
 
 ---
 
@@ -77,9 +77,9 @@ After a stretch, the improved muscle extensibility and joint ROM can result in:
 
 <!-- - less ITB tension, less tissue compression, less degeneration, and less pain. -->
 
-- Less ITB tension
-- Less tissue compression
-- Less degeneration
+- Less ITB tension &rarr;
+- Less tissue compression &rarr;
+- Less degeneration &rarr;
 - Less pain
 
 ## The Drawbacks of Stretching
@@ -94,13 +94,16 @@ During the stretch, tension on the TFL-ITB <i>increases</i> and can cause:
 
 ## So... Should You stretch the ITB?
 
-Deciding whether to stretch TFL-ITB will come down to a simple calculation:
+Deciding whether to stretch TFL-ITB will come down to a simple tradeoff:
 
-Choose the option that results in the **least net compression**
+Does stretching cause more or less **net compression**?
+
 
 ---
 
-## Calculating net compression
+## Net Compression
+
+Choose the option that results in the **least net compression**
 
 The long term *decreases* in compression from stretching **must** outweigh the short term *increases* in compression during the stretch exercise.
 
@@ -138,7 +141,7 @@ Patients who can perform these activities correctly without experiencing TFL-ITB
 <!-- Patients who do not display TFL-ITB limitations during movement are *less* likely to benefit from stretching. -->
 <!-- Continue to explore other avenues to deficits, such as lumbopelvic stabilization. -->
 
-Patients who experience TFL-ITB tightness and exhibit movement compensations would benefit most from stretching the TFL-ITB complex.
+Patients who experience TFL-ITB tightness and exhibit movement compensations **would benefit** most from stretching.
 
 
 

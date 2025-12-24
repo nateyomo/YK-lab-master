@@ -1,0 +1,93 @@
+---
+title: Head Impulse Test
+---
+
+
+# Purpose
+
+Examine *semicircular canal function* @fulkOSullivanSchmitzsPhysical2024
+
+
+# Prerequisites
+
+- Adequate cervical ROM
+- Educate patient
+    - What you are going to do (Do not just quickly turn their head)
+    - Why 
+
+
+
+|Principles|Practice|
+|-|-|
+|Patient gazes at fixed target| "Stare at my nose"|
+|Place the horizontal canal parallel with the transverse plane| 30&deg; of flexion (on average)|
+| Manually rotate head in an *unpredictable* direction | |
+|Small-Amplitude|5-15&deg;|
+|Moderate velocity| ~200&deg;/sec|
+|High Angular Acceleration | 3,000-4,000&deg;/sec<sup>2</sup>|
+
+
+# Normal response
+
+When functioning normally the patient's eyes should remain on the target at all times @fulkOSullivanSchmitzsPhysical2024.
+
+
+- Head is moved, unexpectedly 
+- This creates an *angular acceleration* in cervical rotation (horizontal transverse plane) in a direction (ipsilateral)
+- The endolymph is freely moving and remains stationary and *relatively* moves in the opposite direction
+- The cupula is attached to the ampulla and accelerates in sync with the head.
+- The cupula accelerates with the head, but endolymph is relatively moving in the opposite direction due to inertia and applies a force on the cupula
+- The endolymph resists the push by the cupula resulting in billowing of the cupula in the *opposite* direction of the angular acceleration (contralateral billowing)
+    - The ipsilateral horizontal canal cupula will experience utriculopetal displacement
+    - The contralateral horizontal canal will experience utriculofugal displacement of the cupula
+- Billowing of the cupula displaces the *cilia* and associated *hair cells* within the cupula in the same direction as the cupula (contralateral)
+- Billowing towards the kinocilia results in excitation and billowing away from kinocilia results in inhibition (decreased firing rate)
+- The kinocilia of the horizontal canals are situated on the utricle side
+    - Utriculopetal displacement of the cupula of the ipsilateral horizontal canal results in *excitation* (increased firing rate)
+    - Utriculofugal displacement of the cupula of the contralateral horizontal canal results in *inhibition* (decreased firing rate)
+- The signals are through the respecitve vestibular roots of the vestibulocochlear nerve (CN VIII)
+- Asymmetrical firing rates 
+- Vestibulo-ocular reflex
+- Eyes reflexively move towards the inhibited side (contralateral eye motion)
+- Eyes move opposite of head rotation and stay fixed on the target
+
+
+
+# Unilateral Hypofunction
+
+- Head is moved, unexpectedly 
+- This creates an *angular acceleration* in cervical rotation (horizontal transverse plane) in a direction (ipsilateral)
+- The endolymph is freely moving and remains stationary and *relatively* moves in the opposite direction
+- The cupula is attached to the ampulla and accelerates in sync with the head.
+- The cupula accelerates with the head, but endolymph is relatively moving in the opposite direction due to inertia and applies a force on the cupula
+- The endolymph resists the push by the cupula resulting in billowing of the cupula in the *opposite* direction of the angular acceleration (contralateral billowing)
+    - The ipsilateral horizontal canal cupula will experience utriculopetal displacement
+    - The contralateral horizontal canal will experience utriculofugal displacement of the cupula
+- Billowing of the cupula displaces the *cilia* and associated *hair cells* within the cupula in the same direction as the cupula (contralateral)
+- Billowing towards the kinocilia results in excitation and billowing away from kinocilia results in inhibition (decreased firing rate)
+- The kinocilia of the horizontal canals are situated on the utricle side
+    - Utriculopetal displacement of the cupula of the ipsilateral horizontal canal results in *excitation* (increased firing rate)
+    - Utriculofugal displacement of the cupula of the contralateral horizontal canal results in *inhibition* (decreased firing rate)
+- <bold>At some point in this chain, one of these functions does not act correctly in the *ipsilateral* vestibular apparatus and results in insufficient excitation</bold>
+- The signals are through the respecitve vestibular roots of the vestibulocochlear nerve (CN VIII)
+
+- Eyes do not have sufficient acceleration in the opposite direction and lose gaze on the *fixed target* and ipsilaterally with the direction of head rotation
+- Parapontine reticular formation results in a corrective eye movement (saccade) to return the eyes to the target 
+    - Termed (contralateral direction)-beating nystagmus
+
+<!-- In a patient with a loss of vestibular function, the VOR will not move the eyes as quickly as the head rotation, and the eyes move off the target. The patient will then make a corrective saccade (a rapid eye movement used to reposition the eyes to the target of interest) to repo sition the eyes (fovea) on the target. The appearance of corrective saccade indicates vestibular hypofunction as determined by the HIT and occurs because inhibition of vestibular afferents and central vestibular neurons on the intact side (persons with UVH) are less effective in encoding the amplitude of a head movement than excitation. A patient who has a unilateral peripheral lesion or pathology of the central vestibular neurons will not be able to maintain a gaze when the head is rotated quickly toward the side of the lesion. @fulkOSullivanSchmitzsPhysical2024  -->
+
+# Bilateral hypofunction
+
+<!-- A patient with a bilateral loss of vestibular function will make corrective saccades after a head impulse to either side. The HIT provides a sensitive indication of vestibular hypofunc tion in patients with complete loss of function in the affected labyrinth that occurs following ablative surgical procedures such as labyrinthectomy.48,51–53 The test is less sensitive in detecting hypofunction in patients with incomplete loss of function @fulkOSullivanSchmitzsPhysical2024 --> 
+
+
+# Hyperfunction Response
+
+Theoretically, a hyperfunctioning vestibular system would have an **over**corrective VOR and would lose gaze by moving in the opposite direction too quickly
+
+# Psychometrics
+
+## Sensitivity
+
+The test is more sensitive in patients with *complete* loss of vestibular function (less sensitive for patients with incomplete loss) @fulkOSullivanSchmitzsPhysical2024

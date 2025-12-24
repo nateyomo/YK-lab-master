@@ -2,6 +2,11 @@
 title: Complex Regional Pain Syndrome (CRPS)
 ---
 
+::: {.callout}
+
+- Ch25 CRPS @ballantyneBonicasManagementPain2019
+
+:::
 
 # Types
 

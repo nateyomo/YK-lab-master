@@ -1,0 +1,10 @@
+---
+title: Plantar Fasciitis
+---
+
+
+::: {.callout}
+
+- Pain
+    - Ch70 Lower Extremity Pain:  @ballantyneBonicasManagementPain2019
+:::

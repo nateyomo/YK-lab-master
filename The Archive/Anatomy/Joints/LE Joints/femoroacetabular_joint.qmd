@@ -109,7 +109,7 @@ Excessive Retroversion
 
 Femoral Torsion can be measured using the following test(s):
 
-- [Craig's Test]({{< var ref-craigs-test.path >}})
+- [Craig's Test]({{< var ref-craig-hip-test.path >}})
 - Functional squat (neutral, IR, ER)
 
 

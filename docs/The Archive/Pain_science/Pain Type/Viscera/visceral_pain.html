@@ -63,6 +63,9 @@ div.csl-indent {
 <link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../../site_libs/bootstrap/bootstrap-2cd373bbd777488a2901da25ac479b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../../../../site_libs/bootstrap/bootstrap-dark-30247d3b2cd0522fbeca720c4281c240.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -92,9 +95,12 @@ div.csl-indent {
 
 <link rel="stylesheet" href="../../../../styles.css">
 <meta name="twitter:title" content="Visceral Pain">
+<meta name="twitter:image" content="https://yomokerst.com/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig15.7 Referred Pain Chart.png">
 <meta name="twitter:creator" content="@NateYomogida and @Chloe_Kerstein">
 <meta name="twitter:site" content="@yomokerst">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:image-height" content="1506">
+<meta name="twitter:image-width" content="2140">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="floating nav-fixed">
@@ -127,7 +133,7 @@ div.csl-indent {
 <span class="menu-text">Journal Club</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../services.html"> 
+    <a class="nav-link" href="//Care Division/care_division.html"> 
 <span class="menu-text">Physical Therapy</span></a>
   </li>  
   <li class="nav-item">
@@ -217,6 +223,16 @@ div.csl-indent {
 </div>
 </div>
 </div>
+<div id="fig-referred-pain" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-referred-pain-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="../../../../The Archive/Images/OpenStax Anatomy and Physiology 2e/fig15.7 Referred Pain Chart.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Figure&nbsp;1: Referred Pain Chart @OpenStaxAnatomyPhysiology2022"><img src="../../../../The Archive/Images/OpenStax Anatomy and Physiology 2e/fig15.7 Referred Pain Chart.png" class="img-fluid figure-img"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-referred-pain-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Referred Pain Chart<span class="citation" data-cites="OpenStaxAnatomyPhysiology2022"><sup><a href="#ref-OpenStaxAnatomyPhysiology2022" role="doc-biblioref">2</a></sup></span>
+</figcaption>
+</figure>
+</div>
 
 
 
@@ -224,6 +240,9 @@ div.csl-indent {
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" role="list">
 <div id="ref-mcmahonWallMelzackTextbook2013" class="csl-entry" role="listitem">
 <div class="csl-left-margin">1. </div><div class="csl-right-inline">McMahon SB, ed. <em>Wall and <span>Melzack</span>’s Textbook of Pain</em>. 6th ed. Elsevier/Saunders; 2013.</div>
+</div>
+<div id="ref-OpenStaxAnatomyPhysiology2022" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Betts JG, Blaker W. <em>Openstax <span>Anatomy</span> and <span>Physiology</span></em>. 2nd ed. OpenStax; 2022. <a href="https://openstax.org/details/books/anatomy-and-physiology-2e/?Book%20details">https://openstax.org/details/books/anatomy-and-physiology-2e/?Book%20details</a></div>
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-yomogida" class="csl-entry quarto-appendix-citeas" role="listitem">
 <div class="">Yomogida N, Kerstein C. Visceral Pain. <a href="https://yomokerst.com/The Archive/Pain_science/Pain Type/Viscera/visceral_pain.html">https://yomokerst.com/The
@@ -791,6 +810,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

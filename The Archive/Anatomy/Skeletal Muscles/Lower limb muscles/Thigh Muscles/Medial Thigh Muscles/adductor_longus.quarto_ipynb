@@ -26,7 +26,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "8fddc619"
+      "id": "b641237c"
     },
     {
       "cell_type": "code",
@@ -102,9 +102,13 @@
         "# Myofascial Unit\n",
         "\n",
         "Although the *adductor longus* and [biceps femoris short head]({{< var ref-biceps-femoris-short-head.origin >}}) both attach at the *linea aspera* and fascially run in the same direction, these do *not* form a line since the [adductor magnus]({{< var ref-adductor-magnus.path >}}) acts as an *intervening plane* @myersAnatomyTrains2021.\n",
-        "There may be a functional connection through the bone, but there is no connection via the fascia @myersAnatomyTrains2021."
+        "There may be a functional connection through the bone, but there is no connection via the fascia @myersAnatomyTrains2021.\n",
+        "\n",
+        "# Palpation\n",
+        "\n",
+        "See how to palpate [this muscle along with other adductor muscles here]({{< var ref-hip-adductor-muscle-group.palpation >}})."
       ],
-      "id": "e53d9a78"
+      "id": "c171e434"
     }
   ],
   "metadata": {

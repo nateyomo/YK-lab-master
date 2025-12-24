@@ -10,6 +10,11 @@
         "\n",
         "\n",
         "\n",
+        "::: {.callout}\n",
+        "\n",
+        "- Pain\n",
+        "    - Ch70 Lower Extremity Pain: femoral n entrapment @ballantyneBonicasManagementPain2019\n",
+        ":::\n",
         "\n",
         "\n",
         "::: {.columns}\n",
@@ -50,7 +55,7 @@
         "\n",
         "# Motor innervation\n"
       ],
-      "id": "5010ca02"
+      "id": "a6884394"
     },
     {
       "cell_type": "code",
@@ -130,7 +135,7 @@
         "\n",
         ":::"
       ],
-      "id": "4c958a71"
+      "id": "46a0049c"
     }
   ],
   "metadata": {

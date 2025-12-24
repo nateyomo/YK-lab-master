@@ -1,0 +1,33 @@
+---
+title: FADIR Test
+subtitle: Hip provocation maneuver
+---
+
+
+
+:::{.callout title="AKA"}
+
+- Flexion Adduction Internal Rotation test (FADDIR Test)
+- Anterior impingement test @wongPhysicalExaminationHip2022
+:::
+
+
+
+FADDIR has high sensitivity and low specificity in patients with femoroacetabular impingement syndrome (FAIS) [@wongPhysicalExaminationHip2022; @aptaCurrentConceptsOrthopaedic2024]
+FADDIR is also used to assess for labral pathology [@aptaCurrentConceptsOrthopaedic2024].
+
+Just as important, FADDIr can <i>not</i> be used to rule-in intra-articular pathologies [@aptaCurrentConceptsOrthopaedic2024].
+
+"The test has been described in both the supine and lateral recumbent position (with the affected side up). The examiner passively brings the hip into flexion, adduction, and internal rotation (Figure 4). Reproduction of pain is considered a positive test and diagnostic of FAI [16,19,20]. One study of patients with symptomatic hip pain evaluated the diagnostic accuracy of the anterior impingement test and FADDIR test, which they found to be 80%; however, their specificity was quite low at 26% and 24%, respectively [21]. Often a combination of physical exam maneuvers throughout a range of motion is the best way to dynamically stress the hip on exam to potentially reproduce the symptoms causing discomfort, and this was reflected in their same study, as the most specific maneuver was passive hip range of motion in an internally rotated and neutrally flexed hip [21]. When testing FADDIR specifically in 90° of hip flexion, this maneuver is sometimes referred to as the anterior impingement test [16,22]." @wongPhysicalExaminationHip2022
+
+
+"This position, sometimes referred to as the anterior impingement test, will typically provoke intra-articular hip pathology at the anterior superior region of the acetabulum, the most common site of a femoral acetabular impingement (FAI) and a labral tear.17 The patient is positioned in supine, and the hip and knee are flexed to 90 degrees. Maintaining the hip at 90 degrees of flexion, the hip is then internally rotated and adducted as far as possible. The patient is asked what affect the motion has on symptoms. The test is considered positive if the patient reports a production of, or increase in, the anterior groin, posterior buttock, or lateral hip pain consistent with the patient’s presenting pain complaint. If the test is negative, the test is repeated with the hip placed in full flexion. The FADIR test is sensitive but not specific. Beck et al.112 assessed 19 subjects with the clinical diagnosis of FAI, based on clinical examination, radiographs, and magnetic resonance arthrogram (MRA). They found that all 19 subjects had a positive FADIR test corresponding to intraoperative dynamic impingement and labral lesions in the anterosuperior region of the hip joint.22" @duttonDuttonOrthopaedicExamination2020
+
+
+# Psychometrics
+
+| Psychometric | Score |
+|-|-|
+| Sensitivity | 59-100% @wongPhysicalExaminationHip2022 |
+| Specificity | 10-100% @wongPhysicalExaminationHip2022 |
+| inter-rater reliability | 96% @wongPhysicalExaminationHip2022 |

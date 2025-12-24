@@ -37,6 +37,15 @@ Lacrimal / nasal mucosa: Hypothalamus -> Dorsal longitudinal Fasciculus -> Super
 Sensory cortex (Gustatory area) -> Ventral Posterior Medial Nucleus of Thalamus (VPM) (2° Synapse) -> Nucleus Solitarius (3° Synapse) -> Tractus solitarius -> 
 -> Geniculate Ganglion -> Chorda Tympani -> RUN W/ Lingual nerve (V3) -> Taste Anterior 2/3 tongue
 
+# Testing
+
+## House-Brackmann Facial Nerve Grading Scale
+
+|Grade|Description|Characteristics|
+|-|-|-|
+|I|Normal|Normal facial function in all areas|
+|II|Mild|Slight weakness, noticeable on close inspection</br>May have slight synkinesis|
+|III|Moderate|
 
 # Dysfunction
 

@@ -1,0 +1,218 @@
+---
+title: "Impaired Lymphatic Drainage and Interstitial Inflammatory Stasis in Chronic Musculoskeletal and Idiopathic Pain Syndromes: Exploring a Novel Mechanism"
+subtitle: Article Summary and Notes
+keywords:
+    - "DOI: 10.3389/fpain.2021.691740"
+    - "PMID: 35295453"
+---
+
+@tuckeyImpairedLymphaticDrainage2021
+
+- Lymphatic
+    - Lymphatic pump mechanism
+    - Lymphatic drainage
+    - Lymphatic function
+    - Lymphatic propulsion
+- Initial lymphatic vessels
+- Pre-lymphatic pathways
+- Pre-lymphatic channels
+
+
+- Interstitium
+
+- Interstitial inflammatory stasis (IIS): Pathophysiological state 
+
+- Pro-inflammatory cytokines
+    - Interleukin-1b
+    - Interleukin-6
+    - tumor necrosis factor alpha (TNF-&alpha;)
+
+- Vascular perfusion
+- Vascular hemodynamics
+- Inflammatory mediators
+
+- Transforming growth factor-beta1 (TGF-&beta;1)
+
+
+- Nociception
+    - Peristent nociceptive input
+- Nociceptive bombardment
+- Nociceptor PAN Stimulation
+- Nociceptive afferents
+- Visceral afferents
+- Viscero-somatic neurons
+
+- Dermatomes
+- Myotomes
+- Sclerotomes
+
+
+- Endothelial cells
+- Macrophages
+- Dendritic cells
+- Fibroblasts
+
+- Pain
+    - Chronic pain
+    - Persistent pain
+    - Idiopathic peripherally generated pain
+
+- Visceral pain syndromes
+- Myofascial pain syndromes
+- Myofascial pain syndrome (MPS):
+    - Hallmark sign: MTrP's 
+- Fibromyalgia Syndrome
+    - Tender points are characteristic
+- Chronic Pain States
+
+- Sympathetic nerve activation (SNA)
+
+- Dorsal root
+- Dorsal Horn
+- Dorsal root ganglion
+- Dorsal root reflexes
+
+- Inflammation
+- Retrograde inflammation
+- Neuroinflammation
+    - Glial cell neuroinflammation
+- Neurogenic inflammation
+
+- Hyperalgesia
+    - Primary hyperalgesia (1&deg;)
+    - Secondary hyperalgesia (2&deg;)
+
+
+- Fibroblasts
+- Myofibroblasts
+- Fascial myofibroblasts: contract following local TGF-&beta;1 expression
+
+- Fascial contraction
+
+- Somato-sympathetic reflexes: 
+- Visceral-sympathetic reflexes
+
+- Microvasculature
+    - Microvasculature disturbance
+    - Long-term microvasculature disturbance
+
+- Visceral disorders
+- Vascular disorders
+
+- Muscle Trigger Point (MTrP): hyperirritable nodules in a taut band of skeletal muscle
+- Tender Point (TP): areas of tenderness occurring in muscle, the muscle-tendon junction, bursa, or fat pad
+
+- Extracellular matrix (EcM)
+
+- algogenic substances
+    - Glutamate
+    - Serotonin
+    - Bradykinin
+    - Adenosine triphosphate (ATP)
+    - protons (low pH)
+    - Substance P
+    - Nerve growth factor
+    - Norepinephrine (NE)
+    - Calcitonin gene-related peptide (CGRP)
+
+- Contiguous tissues
+
+# IIS process
+
+## Overview
+
+1. Inciting event: Trauma or Immune response
+1. Inflammatory mediators become trapped in interstitial pre-lymphatic pathways and lymphatic vessels
+1. IIS
+
+
+## Process
+
+
+- Pro inflammatory cytokines (IL-6, IL-1&beta;, and TNF-&alpha;) are secreted
+- these PI-Cytokines cause:
+    - Disable local lymphatic pump mechanism
+    - cause sympathetic activation &rarr; impairing vascular perfusion
+    - Lead to TGF-&beta;1 expression &rarr; fascial compression &rarr; additional stasis of pre-lymphatic pathways
+- this creates a *feed-forward inflammatory mechanism*
+
+# Reflexes 
+
+Somato-sympathetic reflexes:
+
+- Segmentally linked
+
+
+
+
+## Visceral-sympathetic reflexes
+
+- Segmentally linked
+
+
+
+
+# Afferents
+
+
+Nociceptors have unmyelinated free nerve endings which terminate in the EcM
+
+These free nerve endings are activated by inflammatory and mechanical stimuli
+
+The free nociceptive nerve endings are found in:
+
+- Fascia
+- Tendons
+- Blood vessels
+- Nerve sheaths
+- Ligaments
+- Menisci
+- Synovium
+- Bone
+- Visceral tissues
+- Capsules of solid organs
+- Vertebral discs
+- Meninges
+
+These nerves send signals proximally towards the spinal cord.
+
+The nerves enter the *dorsal root* segmentally.
+At the dorsal root the nerve *trifurcates* (divides into 3) to form descending (inferior segments), segmental level (at the segment), and ascending (superior segments) fibers.
+
+Since these nerves trifurcate and send fibers to several segments superior and inferior relative to their dorsal root segment, these can influence multiple segments (heterosegmental).
+
+
+As a result, a single activated nociceptor can have heterosegmental *nociceptive impact* and *reflexive impact*.
+
+
+
+# Neurogenic inflammation
+
+**Neurogenic inflammation**: The retrograde release of pro-inflammatory neuropeptides (Substance P and CGRP) from central tissues into peripheral tissues
+
+
+
+::: {.callout title="Animal study"}
+
+In an animal study, *IL-1&beta;* was injected into the DRG and *dorsal horn* of rats.
+As a result, retrograde inflammation occurred and inflammation occurred in the periphery (intraperitoneal, intracerebroventricular, and intra-plantar) tissues resulting in *2&deg; hyperalgesia*.
+
+:::
+
+
+
+Muscle, joint, and/or visceral tissues experience nociceptive stimuli which activates the free nociceptive nerve endings in their respective EcM's.
+The nociceptive signal is sent through the nerves to the dorsal horn where they trifurcate and enter the spinal cord at heterosegmentally.
+
+Trauma or immune response in the periphery can generate pro-inflammatory cytokines which can be transported from the periphery via axonal and non-axonal mechanisms to the DRG and Dorsal horn resulting in central inflammation and then central sensitization
+
+
+# Muscle guarding reflexes and Trigger Points
+
+
+# Myofascial Pain Hypotheses
+
+## The Integrated Hypothesis
+
+
+## The Neurogenic Hypothesis

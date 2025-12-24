@@ -17,6 +17,8 @@ subtitle: Musculoskeletal overview
     - Ch22 Orthopaedic Manual Physical Therapy of the Shoulder Joint Complex @wiseOrthopaedicManualPhysical2015
 - Surgery
     - Synopsis of Shoulder @srikumaranSynopsisShoulderSurgery2021.
+- Pain
+    - Bonicas CHAPTER 68 Neck and Arm Pain @ballantyneBonicaManagementPain2019 
 
 :::
 

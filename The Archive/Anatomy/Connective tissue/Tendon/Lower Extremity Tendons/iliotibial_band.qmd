@@ -18,12 +18,19 @@ Although the glute max and TFL can contract independently, when contracted toget
 
 # Palpation
 
+
+    - Follow it proximally as it moves anterolaterally to join the TFL @jones
+    - Palpate it posterolaterally as it joins the gluteus maximus proximally
+    - Assess the IT band against the femur as moves distally
+    - It should feel fibrous, but the layers should be able to shear freely
+    - Feel how the IT band acts as a divider between the lateral quadriceps and the hamstrings.
+
 ## Proximal IT Band
 
 - Sidelying
-- Feel the fibrous it band on the lateral surface of the femur
-- Palpate the posterior border of the femur, note where the fibrous tissue ends, that is where the IT band branches posterolaterally to the [gluteus maximus]({{< var ref-gluteus-maximus.insertion >}}).
-- Return to the lateral femoral shaft and palpate anterosuperiorly to find the IT bands attachment to the [TFL]({{< var ref-tensor-fascia-latae.insertion >}}).
+- Feel the fibrous it band on the lateral surface of the femur @jonesProjectPhysicalTherapy2025
+- Palpate the posterior border of the femur, note where the fibrous tissue ends, that is where the IT band branches posterolaterally to the [gluteus maximus]({{< var ref-gluteus-maximus.insertion >}}) @jonesProjectPhysicalTherapy2025.
+- Return to the lateral femoral shaft and palpate anterosuperiorly to find the IT bands attachment to the [TFL]({{< var ref-tensor-fascia-latae.insertion >}}) @jonesProjectPhysicalTherapy2025.
 
 
 - On the lateral femoral surface, move the hip while pinning down the IT band to assess if the femur can move *independently* from the IT Band.

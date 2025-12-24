@@ -2,15 +2,16 @@
 title: "Ligamentum Teres"
 keywords:
     - "Ligament of the Head of the Femur"
+    - "Capitis femoris ligament"
 ---
 
 Tubular, synovial-lined ligament that spans the [transverse acetabular ligament]({{< var ref-transverse-acetabular-ligament.path >}}) to the *fovea* of the *femoral head* @neumannKinesiologyMusculoskeletalSystem2017.
 
-# Function
+# Vascular Function
 
-Functions to sheath and guide the *acetabular artery* (a branch of the *obturator artery*)to supply the *femoral head* [@gilroyAtlasAnatomy2020; @neumannKinesiologyMusculoskeletalSystem2017]. 
+The *Ligamentum Teres* functions to sheath and guide the *acetabular artery* (a branch of the *obturator artery*)to supply the *femoral head* [@gilroyAtlasAnatomy2020; @neumannKinesiologyMusculoskeletalSystem2017]. 
 
-This is especially important when provindg blood flow to neonates, but the blood supply from the *acetabular artery* decreases with age @neumannKinesiologyMusculoskeletalSystem2017.
+This is especially important when providing blood flow to neonates, but the blood supply from the *acetabular artery* decreases with age @neumannKinesiologyMusculoskeletalSystem2017.
 By adulthood the *acetabular artery* supplies little to no bloodflow since the majority of the bloodflow to the *head* and *neck* of the femur is through the *medial* and *lateral circumflex arteries* @neumannKinesiologyMusculoskeletalSystem2017.
 
 
@@ -18,7 +19,16 @@ By adulthood the *acetabular artery* supplies little to no bloodflow since the m
 There are speculations that the *ligamentum teres* may have a mechanical function to stabilize the fetal hip 
 :::
 
+# Mechanoreceptive functions
 
+Since the *Ligamentum Teres* has high number of mechanoreceptors and is [taut in weightbearing](#weightbearing)
+
+
+
+# Stabilization Functions
+
+Dutton termed the *Ligamentum Teres* the "ACL of the hip" since it functions as a stabilizer against hip subluxation @duttonDuttonOrthopaedicExamination2020.
+The *Ligamentum Teres* is most effective at preventing subluxation in a *internal rotation + extension* or an *ER + flexion* position @duttonDuttonOrthopaedicExamination2020.
 
 # Mechanics
 
@@ -31,6 +41,10 @@ There are many positions that tension the *ligamentum teres* such as:
 - External rotation @neumannKinesiologyMusculoskeletalSystem2017
 - Flexion + abduction @neumannKinesiologyMusculoskeletalSystem2017
 
+## Weightbearing
+
+The *ligamentum teres* is attached to the *transverse acetabular ligament* which causes it to be taut in weightbearing @duttonDuttonOrthopaedicExamination2020
+
 ## Flexion + Abduction
 
 In the flexed and abducted position, the *ligamentum teres* is theorized to act as a sling and support the inferior aspect of the *femoral head* when in a squat-like position @neumannKinesiologyMusculoskeletalSystem2017.
@@ -42,3 +56,30 @@ The ligamentum teres contains *mechanoreceptors* and may offer an indirect funct
 # Dysfunction
 
 *Ligamentum teres* stress or injury can be a source of *intra-articular hip pain* @neumannKinesiologyMusculoskeletalSystem2017.
+
+- *Ligamentum teres* injuries often present with *deep posterior hip pain* aggravated by *hip flexion*
+
+
+# Tear {#tear}
+
+
+A tear generally occurs from a traumatic hip dislocation or subluxation @duttonDuttonOrthopaedicExamination2020.
+Patients wit hip instability are more likely to experience a subluxation or dislocation which can result from a tear, even from simple activities such as weightbearing @duttonDuttonOrthopaedicExamination2020.
+
+Another form of tear is *degenerative tearing* also known as *ligament hypertrophy* that occurs in individuals who perform repetitive hip ER under an axial load @duttonDuttonOrthopaedicExamination2020.
+
+
+
+*Ligamentum Teres* tears often result in [hip microinstability]({{< var ref-hip-microinstability.path >}})
+
+
+## Testing
+
+- Anterior, generalized groin pain @duttonDuttonOrthopaedicExamination2020
+- (+) [FABER Test]({{< var ref-faber-test.path >}}) @duttonDuttonOrthopaedicExamination2020
+- (+) [FADIR Test]({{< var ref-fadir-test.path >}}) @duttonDuttonOrthopaedicExamination2020
+- (+) Popping or snapping hip @duttonDuttonOrthopaedicExamination2020
+
+
+# Treatment
+

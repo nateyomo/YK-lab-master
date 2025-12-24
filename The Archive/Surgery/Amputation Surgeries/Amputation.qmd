@@ -1,0 +1,10 @@
+---
+title: Amputation
+---
+
+
+::: {.callout}
+
+- Ch22 @fulkOSullivanSchmitzsPhysical2024
+
+:::

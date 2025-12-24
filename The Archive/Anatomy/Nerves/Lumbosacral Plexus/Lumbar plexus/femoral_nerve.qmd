@@ -3,6 +3,11 @@ title: Femoral Nerve
 ---
 
 
+::: {.callout}
+
+- Pain
+    - Ch70 Lower Extremity Pain: femoral n entrapment @ballantyneBonicasManagementPain2019
+:::
 
 
 ::: {.columns}

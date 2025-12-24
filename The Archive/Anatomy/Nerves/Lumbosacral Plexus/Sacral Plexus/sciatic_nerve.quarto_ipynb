@@ -21,7 +21,7 @@
         "\n",
         "## Direct Branches\n"
       ],
-      "id": "d2be641d"
+      "id": "7472507b"
     },
     {
       "cell_type": "code",
@@ -76,6 +76,15 @@
         "\n",
         "# Cutaneous Innervation\n",
         "\n",
+        "\n",
+        "# Examination\n",
+        "\n",
+        "- [Sciatica Bothersome Index (SBI)]({{< var ref-sciatica-bothersome-index.path >}})\n",
+        "- [Sciatic Frequency Index (SFI)]({{< var ref-sciatic-frequency-index.path >}})\n",
+        "\n",
+        "## Neural Tension Test\n",
+        "The [Active Slump Test]({{< var ref-active-slump-test.path >}}) applies a neural tension on the [Sciatic n.]({{< var ref-sciatic-nerve.path >}}) and the [L4]({{< var ref-nerve-root.l4 >}}) and [L5]({{< var ref-l4-nerve-root.path >}}) @aptaCurrentConceptsOrthopaedic2024\n",
+        "\n",
         "# Dysfunction\n",
         "\n",
         "\n",
@@ -89,8 +98,11 @@
         "::: {.callout title=\"Reading list\"}\n",
         "\n",
         "- Sciatic nerve p373 @DynamicNeurologicalStabilizationClinicalRehabilitation2014\n",
+        "- Pain\n",
+        "    - Ch70 Lower Extremity Pain: sciatic n entrapment @ballantyneBonicasManagementPain2019\n",
         "\n",
         ":::\n",
+        "\n",
         "\n",
         "\n",
         "# Treatment\n",
@@ -110,7 +122,7 @@
         "    <li>Heel raise with DF deficit</li>\n",
         "</ul>"
       ],
-      "id": "18c5cd62"
+      "id": "f819adeb"
     }
   ],
   "metadata": {

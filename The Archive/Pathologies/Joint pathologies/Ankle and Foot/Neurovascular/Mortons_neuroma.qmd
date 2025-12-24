@@ -1,8 +1,13 @@
 ---
-title: Morton's Neuroma
+title: Interdigital Neuroma (Morton's Neuroma)
 subtitle: Interdigital Neuroma
 ---
 
+::: {.callout}
+
+- Pain
+    - Ch70 Lower Extremity Pain: interdigital neuroma  @ballantyneBonicasManagementPain2019
+:::
 :::{.callout-note title="K Notes"}
 
 - Interdigital neuroma (“mortons neuroma”)

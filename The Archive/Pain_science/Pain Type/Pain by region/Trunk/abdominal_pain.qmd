@@ -7,5 +7,6 @@ title: Abdominal Pain
 
 - Welzack Chapter 53 A Clinical Perspective on Abdominal Pain @mcmahonWallMelzackTextbook2013
 - Abdominal muscles @donnellyTravellSimonsSimons2019
+- CHAPTER 63 Abdominal, Peritoneal, and Retroperitoneal Pain @ballantyneBonicasManagementPain2019
 
 :::

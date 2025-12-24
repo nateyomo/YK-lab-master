@@ -1,0 +1,10 @@
+---
+title: Metatarsalgia
+---
+
+
+::: {.callout}
+
+- Pain
+    - Ch70 Lower Extremity Pain:  @ballantyneBonicasManagementPain2019
+:::

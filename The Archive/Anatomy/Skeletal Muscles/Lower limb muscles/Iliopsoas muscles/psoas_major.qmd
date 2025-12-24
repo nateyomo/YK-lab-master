@@ -72,9 +72,17 @@ Lumbar plexus Direct Br. ([L1]({{< var ref-nerve-root.l1 >}}), [L2]({{< var ref-
 
 
 
+# Special Tests
+
+- Thomas Test
+- Positive [FABER Test]({{< var ref-faber-test.path >}}) can indicate an iliopsoas spasm
 
 # Overview
 
 # Stretches {#stretch}
 
 - [3D hip flexor stretch]({{< var ref-3d-hip-flexor-stretch.path >}})
+
+# Manual Therapy
+
+- Psoas techniques @chaitowModernNeuromuscularTechniques2003

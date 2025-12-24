@@ -87,6 +87,9 @@ Lesser tubercle of [Humerus]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnat
 - Belly press test (Napolean Test)
     - "performed by having the patient place the affected hand on the abdomen and attempt to move the elbow anteriorly. The test was considered positive if the patient could not move the elbow forward" @gillPhysicalExaminationPartial2007
 
+# Muscle Guarding
+
+Muscle guarding reflex of the subscapularis muscle is performed in response to an inflamed Upper Subscapular nerve @tuckeyF1FCSFoundations2025.
 
 # Release {#release}
 
@@ -104,6 +107,7 @@ Lesser tubercle of [Humerus]({{< var ref-humerus-bone.path >}}) @gilroyAtlasAnat
 Sometimes patients can feel neurological symptoms of pain radiating up to the neck or down to the arm.
 This is common due to the relationship of the subscapularis tissue and the nearby neurovasculature
 :::
+
 
 
 # Strain-Counterstrain

@@ -1,0 +1,22 @@
+---
+title: Sciatic Frequency Index (SFI)
+---
+
+This is the sister test that pairs with the [*sciatic bothersome index*]({{< var ref-sciatic-bothersome-index.path >}})
+
+Items are scored on a 7pt scale based on the following items:
+
+- Not at all
+- Very rarely
+- A few times
+- About half the time
+- Usually Almost always
+- Always
+
+
+
+- Leg Pain
+- Numbness or tingling in the foot or groin
+- Weakness in the leg or foot
+- Back or leg pain while sitting
+

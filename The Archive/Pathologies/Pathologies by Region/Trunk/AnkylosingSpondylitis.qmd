@@ -1,0 +1,38 @@
+---
+title: Ankylosing Spondylitis
+keywords:
+    - "Marie-Strumpell Disease"
+    - "Rheumatoid spondylitis"
+---
+
+Ankylosing spondylitis is a type of *rheumatoid arthritis* that generally starts at the SIJ and progresses to the spinal joints and/or hip joints @duttonDuttonOrthopaedicExamination2020.
+
+Onset can be from 15-40years @duttonDuttonOrthopaedicExamination2020
+
+No change in risk based on gender @duttonDuttonOrthopaedicExamination2020
+
+
+# Exercise
+
+::: {.callout}
+See ch5 @duttonDuttonOrthopaedicExamination2020
+:::
+
+- Maintain mobility of involved joints @duttonDuttonOrthopaedicExamination2020
+    - Breathing exercises
+    - Spinal extension based movements
+    - Peripheral joint AROM
+- Lie prone for 5 minutes multiple times per day to promote extension @duttonDuttonOrthopaedicExamination2020
+
+
+# Lifestyle modifications
+
+## Sleep
+
+- Hard mattress @duttonDuttonOrthopaedicExamination2020
+- Avoid sidelying @duttonDuttonOrthopaedicExamination2020
+
+
+## Exercise
+
+Swimming is one of the best sports for patients with {{< meta title >}} @duttonDuttonOrthopaedicExamination2020

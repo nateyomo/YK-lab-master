@@ -5,3 +5,10 @@ Keywords:
     - Hallux Valgus
 ---
 
+
+
+::: {.callout}
+
+- Pain
+    - Ch70 Lower Extremity Pain: hallux valgus @ballantyneBonicasManagementPain2019
+:::

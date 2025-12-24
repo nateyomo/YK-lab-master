@@ -88,3 +88,6 @@ else:
 ## Deep Tendon Reflex
 
 - Patella reflex (L2, L3, L4, but predominantly L4)
+
+## Neural Tension
+The [Active Slump Test]({{< var ref-active-slump-test.path >}}) applies a neural tension on the [Sciatic n.]({{< var ref-sciatic-nerve.path >}}) and the [L4]({{< var ref-nerve-root.l4 >}}) and [L5]({{< var ref-l4-nerve-root.path >}}) @aptaCurrentConceptsOrthopaedic2024

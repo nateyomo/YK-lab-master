@@ -1,0 +1,18 @@
+---
+title: Sciatica Bothersome Index (SBI)
+---
+
+
+This is the sister test that pairs with the [*sciatic frequency index (SFI)*]({{< var ref-sciatic-frequency-index.path >}})
+
+Items are scored on a 7pt scale from 0-6
+
+- 0 Not bothersome
+- 3 "Somewhat bothersome"
+- 6 "Extremely bothersome"
+
+- Leg Pain
+- Numbness or tingling in the foot or groin
+- Weakness in the leg or foot
+- Back or leg pain while sitting
+

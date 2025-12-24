@@ -99,7 +99,7 @@ The *angle of inclination* refers to the angle between the femoral neck and medi
 | Normal | 8-20 &deg; anteversion |
 | Excessive Anteversion | >20 &deg; |
 
-Femoral torsion can be measured via the [Craig's Test]({{< var ref-craigs-test.path >}})
+Femoral torsion can be measured via the [Craig's Test]({{< var ref-craig-hip-test.path >}})
 
 <!-- "Femoral torsion describes the relative rotation (twist) between the bone’s shaft and neck. Typically, as viewed from above, the femoral neck typically projects several degrees anterior to a medial lateral axis through the femoral condyles. Fig. 12.8A depicts a normal anteversion angle of about 15 degrees, although “normal” values reported in the literature vary from 8 to 20 degrees.61,120 In con junction with the normal angle of inclination (described earlier), an approximate 15 degree angle of anteversion affords optimal alignment and joint congruence (see alignment of red dots in Fig. 12.8A)." @neumannKinesiologyMusculoskeletalSystem2017
 
@@ -155,4 +155,78 @@ The majority of femoral fractures occur at the *femoral neck* in elderly individ
 
 *Femoral shaft* fracture can occur, but are less common and require extreme amounts of force, such as a motor vehicle accident @gilroyAtlasAnatomy2020.
 
-## Stress Fracture {#stress-fracture}
+# Stress Fracture {#stress-fracture}
+
+# Femoral Neck Stress Fracture
+
+[**Femoral Neck Stress Fracture**](): {{< var ref-femoral-neck-stress-fracture.definition >}}
+
+## Caution
+
+- Immediate weight bearing restriction to prevent further fracture progression or compromised bony stability
+- 6-8 weeks and up to 14weeks for complex patients with poorer prognosis
+
+## Prognosis
+
+- Uncomplicated
+- Complicated
+
+- Compression Sided
+- Tension sided
+
+---
+
+### Poor Prognosis 
+
+- Tension-sided
+- age?
+- &gt;50% width of femoral nec
+
+## Weeks 0-8
+
+- NWB 
+- OKC exercises to strengthen
+
+::: {.callout-tip title="Refer to Aquatic PT"}
+Aquatic exercises can be used to achieve a therapeutic exercise volume while not jeopardizing healing osseous tissue
+:::
+
+## RTS
+
+Uncomplicated compression side FNSFs and pubic rami stress fractures that are managed nonoperatively can typically return to running and athletic activity around 12 weeks after diagnosis
+
+However, return-to-sport timeframes of up to 28 weeks have been reported for complicated, and slow-healing cases 
+
+## Rehab
+
+- *Gradual* PT supervised return-to-running [@aptaCurrentConceptsOrthopaedic2024]
+- Glute Medius strengthening
+- Frontal Plane pelvic stabilization
+- Pelvic stability during loading
+
+## Tension-sided FNFS {#tension-sided-fnfs}
+
+Tension-sided patients have higher risk for displacement with weight bearing [@aptaCurrentConceptsOrthopaedic2024].
+As a result, surgery with a percutaneous screw fixation is the recommended course of treatment
+
+
+## Surgical Management
+
+- Tension-sided FNFS
+- Patients with compression sided FNSFs that are greater than 50% of the width of the femoral neck are also considered candidates
+- If a fracture becomes displaced, surgery should be performed to mitigate the potential for adverse effects including postoperative AVN and fixation failure
+
+### Rehab
+
+**Week 0-6**
+
+- NWB [@aptaCurrentConceptsOrthopaedic2024]
+
+**Week 7-12**
+
+- PWB [@aptaCurrentConceptsOrthopaedic2024]
+
+**3-6mo**
+
+- Return-to-sport can be achieved around 3-6 months after surgery but, can take up to a year in complicated cases with delayed healing [@aptaCurrentConceptsOrthopaedic2024]
+

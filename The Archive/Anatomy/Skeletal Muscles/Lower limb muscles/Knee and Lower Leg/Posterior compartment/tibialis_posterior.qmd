@@ -144,6 +144,14 @@ The [posterior tibialis]({{< var ref-posterior-tibialis.action >}}) and [flexor 
 
 - [3D Calf Stretch]({{< var ref-3d-calf-stretch.path >}})
 
+# Posterior Tibial Tendon Insufficiency
+
+
+::: {.callout}
+
+- Pain
+    - Ch70 Lower Extremity Pain:  posterior tibial tendon insufficiency @ballantyneBonicasManagementPain2019
+:::
 
 # Shin splints
 

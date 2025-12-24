@@ -24,7 +24,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "bbf3a7e4"
+      "id": "f06bced6"
     },
     {
       "cell_type": "code",
@@ -90,9 +90,14 @@
         "\n",
         "\n",
         "At ~30-40&deg; of *internal rotation*, the pectineus runs exactly inferior to the center of the joint, and thus stops functioning as an external rotator @jonesProjectFoundations2025.\n",
-        "When the hip is internally rotated past 40&deg;, the pectineus generates an external rotation torque @jonesProjectFoundations2025."
+        "When the hip is internally rotated past 40&deg;, the pectineus generates an external rotation torque @jonesProjectFoundations2025.\n",
+        "\n",
+        "\n",
+        "# Palpation\n",
+        "\n",
+        "See how to palpate [this muscle along with other adductor muscles here]({{< var ref-hip-adductor-muscle-group.palpation >}})."
       ],
-      "id": "f80abf85"
+      "id": "03289001"
     }
   ],
   "metadata": {

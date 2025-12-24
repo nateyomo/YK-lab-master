@@ -28,7 +28,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "9c872ac9"
+      "id": "0c3ad54a"
     },
     {
       "cell_type": "code",
@@ -111,9 +111,13 @@
         "“The posterior\t head\t of\t the\t adductor\t magnus consists of a thick mass of the fibers arising from the region of the pelvis adjacent to the ischial tuberosity. From this posterior attachment, the fibers run vertically and attach as a tendon on the adductor tubercle on the medial side of the distal femur. The posterior head of the adductor magnus is innervated by the tibial branch of the sciatic nerve, as are most of the hamstring muscles. Because location, innervation, and action are similar to those of the hamstring muscles, the posterior head may also be referred to as the extensor\t head of the adductor magnus” @neumannKinesiologyMusculoskeletalSystem2017\n",
         "\n",
         "# Overview\n",
-        "“the adductor magnus is the largest of the adductor muscles, accounting for 60% of the total cross ­sectional area of the entire adductor muscle group.222 As a whole, the adductor magnus attaches proximally to the pelvis from two heads: an anterior head from the ischial ramus and a posterior head from the ischial tuberosity. Realize, however, that other anatomic classifications have been suggested” @neumannKinesiologyMusculoskeletalSystem2017 "
+        "“the adductor magnus is the largest of the adductor muscles, accounting for 60% of the total cross ­sectional area of the entire adductor muscle group.222 As a whole, the adductor magnus attaches proximally to the pelvis from two heads: an anterior head from the ischial ramus and a posterior head from the ischial tuberosity. Realize, however, that other anatomic classifications have been suggested” @neumannKinesiologyMusculoskeletalSystem2017 \n",
+        "\n",
+        "# Palpation\n",
+        "\n",
+        "See how to palpate [this muscle along with other adductor muscles here]({{< var ref-hip-adductor-muscle-group.palpation >}})."
       ],
-      "id": "d90f532a"
+      "id": "4b634bec"
     }
   ],
   "metadata": {

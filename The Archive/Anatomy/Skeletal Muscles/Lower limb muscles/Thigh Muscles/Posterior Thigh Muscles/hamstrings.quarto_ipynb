@@ -24,7 +24,7 @@
         "\n",
         "# Muscles\n"
       ],
-      "id": "23f30cf8"
+      "id": "c6b7942b"
     },
     {
       "cell_type": "code",
@@ -111,6 +111,11 @@
         ":::{.callout-caution}\n",
         "This is a summary of the teachings of the gray institute, but a literature review is needed to determine if the hamstrings are more reactive controllers of knee flexion\n",
         ":::\n",
+        "\n",
+        "# Muscle Length Tests\n",
+        "\n",
+        "- [Passive Straight Leg Raise Test]({{< var ref-passive-straight-leg-raise-test.path >}})\n",
+        "- [90-90 Straight Leg Raise Test]({{< var ref-9090-active-straight-leg-raise-test.path >}})\n",
         "\n",
         "# Exercise\n",
         "\n",
@@ -239,7 +244,7 @@
         "    - Standing HS curls\n",
         "- Exercises for mid range\n"
       ],
-      "id": "7a63192c"
+      "id": "1d693d1d"
     }
   ],
   "metadata": {

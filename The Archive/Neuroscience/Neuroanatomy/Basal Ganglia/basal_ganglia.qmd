@@ -2,6 +2,12 @@
 title: Basal ganglia
 ---
 
+::: {.callout}
+
+- @lundy-ekmanNeuroscienceFundamentalsRehabilitation2023
+    - Ch16 Motor and Psychologic Functions: Basal Ganglia @lundy-ekmanNeuroscienceFundamentalsRehabilitation2023
+:::
+
 # Principal nuclei
 There are 5 principal basal ganglia nuclei.
 

@@ -498,8 +498,12 @@ ref-transverse-ligament-of-the-atlas:
   path: "/The Archive/Anatomy/Ligaments/Head and Neck Ligaments/transverse_ligament_of_the_atlas.html"
 ### LE Ligaments
 ### Hip ligaments
+ref-femoroacetabular-joint-capsule:
+  path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Hip Ligaments/femoroacetabular_joint_capsule.html"
 ref-sacrotuberous-ligament:
   path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Hip Ligaments/sacrotuberous_ligament.html"
+ref-iliofemoral-ligament:
+  path: "/The Archive/Anatomy/Ligaments/Lower Extremity/Hip Ligaments/iliofemoral_ligament.html"
 ### Knee ligaments
 ref-knee-ligaments:
   path: "/The Archive/Anatomy/Ligaments/Knee ligaments/knee_ligaments.html"
@@ -1641,6 +1645,7 @@ ref-hip-adductor-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_adductor_muscle_group.html"
   primary: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_adductor_muscle_group.html"
   secondary: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_adductor_muscle_group.html"
+  palpation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_adductor_muscle_group.html#palpation"
 ref-hip-flexor-muscle-group:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_flexor_muscle_group.html"
   mmt: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_flexor_muscle_group.html"
@@ -1659,6 +1664,7 @@ ref-pectineus:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/pectineus.html#action"
+  palpation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_adductor_muscle_group.html#palpation"
 
 ref-adductor-longus:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_longus.html"
@@ -1666,6 +1672,7 @@ ref-adductor-longus:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_longus.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_longus.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_longus.html#action"
+  palpation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_adductor_muscle_group.html#palpation"
 
 ref-adductor-brevis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_brevis.html"
@@ -1673,6 +1680,7 @@ ref-adductor-brevis:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_brevis.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_brevis.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/adductor_brevis.html#action"
+  palpation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Hip Muscles/hip_adductor_muscle_group.html#palpation"
 
 ref-gracilis:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Thigh Muscles/Medial Thigh Muscles/gracilis.html"
@@ -1835,6 +1843,7 @@ ref-soleus:
   insertion: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus.html#insertion"
   innervation: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus.html#innervation"
   action: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus.html#action"
+  referred-pain-pattern: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus.html#referred-pain-pattern"
   release: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Knee and Lower Leg/Posterior compartment/soleus.html#release"
 
 ref-plantaris:
@@ -2011,6 +2020,50 @@ ref-c7-nerve-root:
 ref-c8-nerve-root:
   path: "/The Archive/Anatomy/Nerve Roots/c8_nerve_root.html"
 
+
+
+ref-t1-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/t1_nerve_root.html"
+ref-t2-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/t2_nerve_root.html"
+ref-t3-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/t3_nerve_root.html"
+ref-t4-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/t4_nerve_root.html"
+ref-t5-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/t5_nerve_root.html"
+ref-t6-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/t6_nerve_root.html"
+ref-t7-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/t7_nerve_root.html"
+ref-t8-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/t8_nerve_root.html"
+ref-t9-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/t9_nerve_root.html"
+ref-t10-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/t10_nerve_root.html"
+ref-t11-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/t11_nerve_root.html"
+ref-t12-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/t12_nerve_root.html"
+ref-l1-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/L1_nerve_root.html"
+ref-l2-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/L2_nerve_root.html"
+ref-l3-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/L3_nerve_root.html"
+ref-l4-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/L4_nerve_root.html"
+ref-l5-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/L5_nerve_root.html"
+ref-s1-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/S1_nerve_root.html"
+ref-s2-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/S2_nerve_root.html"
+ref-s3-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/S3_nerve_root.html"
+ref-s4-nerve-root:
+  path: "/The Archive/Anatomy/Nerve Roots/S4_nerve_root.html"
 
 ref-nerve-root:
   path: "/The Archive/Anatomy/Nerve Roots/nerve_root_overview.html"
@@ -2742,6 +2795,10 @@ ref-quickdash:
   path: "/The Archive/Examination/Tests and Measures/Patient Reported Outcomes/QuickDASH_Quick_Disabilities_of_Arm_Shoulder_Hand.html"
 ref-oswestry-disability-index:
   path: "/The Archive/Examination/Tests and Measures/Patient Reported Outcomes/Oswestry_disability_index_ODI.html"
+ref-sciatica-bothersome-index:
+  path: "/The Archive/Examination/Tests and Measures/Patient Reported Outcomes/SciaticaBothersomeIndex.html"
+ref-sciatica-frequency-index:
+  path: "/The Archive/Examination/Tests and Measures/Patient Reported Outcomes/SciaticFrequencyIndex.html"
 ref-lower-extremity-functional-scale:
   path: "/The Archive/Examination/Tests and Measures/Patient Reported Outcomes/lower_extremity_functional_scale_LEFS.html"
 ref-neck-disability-index:
@@ -2750,6 +2807,10 @@ ref-patient-specific-functional-scale:
   path: "/The Archive/Examination/Tests and Measures/Patient Reported Outcomes/patient_functional_scale.html"
 ref-hip-and-groin-outcome-score:
   path: "/The Archive/Examination/Tests and Measures/Patient Reported Outcomes/hip_and_groin_outcome_score_HAGOS.html"
+ref-womac:
+  path: "The Archive/Examination/Tests and Measures/Patient Reported Outcomes/WesternOntarioAndMcmasterOsteoarthritisIndex_WOMAC.html"
+ref-hip-disability-and-osteoarthritis-outcome-score:
+  path: "The Archive/Examination/Tests and Measures/Patient Reported Outcomes/HipDisabilityAndOsteoarthritisOutcomeScore.html"
 
 
 ### Pulmonary Evaluation
@@ -2911,6 +2972,14 @@ ref-straight-leg-raise:
   contract-relax: "/The Archive/Examination/Tests and Measures/Lower extremity tests/straight_leg_raise.html#contract-relax"
   contract-relax-hip: "/The Archive/Examination/Tests and Measures/Lower extremity tests/straight_leg_raise.html#contract-relax-hip"
   contract-relax-ankle: "/The Archive/Examination/Tests and Measures/Lower extremity tests/straight_leg_raise.html#contract-relax-ankle"
+ref-passive-straight-leg-raise-test:
+  path: "The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/PassiveStraightLegRaiseTest.html"
+ref-ballistic-active-straight-leg-raise-test:
+  path: "The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/BallisticActiveStraightLegRaiseTest.html"
+ref-9090-active-straight-leg-raise-test:
+  path: "The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/9090ActiveStraightLegRaiseTest.html"
+ref-h-test:
+  path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/straight_leg_raise.html#h-test"
 ref-thomas-test:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/thomas_test.html"
   contract-relax: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/thomas_test.html#contract-relax"
@@ -2921,13 +2990,17 @@ ref-navicular-drop-test:
 ### Hip T&M
 ref-external-derotation-test:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/External_Derotation_Test.html"
-ref-craigs-test:
+ref-craig-hip-test:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/Craigs_test.html"
 ref-faber-test:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/FABER_test.html"
   contract-relax: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/FABER_test.html#contract-relax"
 ref-hip-scour-test:
   path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/hip_scour_test.html"
+ref-fadir-test:
+  path: "/The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/FADIR_test.html"
+ref-obers-test:
+  path: "The Archive/Examination/Tests and Measures/Lower extremity tests/Hip Tests/ObersTest.html"
 
 ### Muscle tone tests and measures
 ref-modified-ashworth-scale:
@@ -3001,6 +3074,9 @@ ref-l5-s1-gapping-technique:
   path: "/The Archive/Interventions/Joint Mobilizations and Manipulations/Spine/L5-S1_gapping_technique.html"
 
 ## Positional release therapy
+ref-positional-release-technique:
+  path: "/"
+  technique: "PRT involves using **ischemic compression** on **trigger points** to create a **nociceptive response** followed by a **shortened muscle position** until the **trigger points deactivate**"
 ### Strain-counterstrain
 ref-strain-counterstrain:
   path: "/The Archive/Interventions/Positional release technique/Strain Counterstrain/strain_counterstrain.html"
@@ -3143,6 +3219,11 @@ ref-motor-learning:
   path: "/The Archive/Motor Control/Motor learning/motor_learning.html"
 ref-stages-of-motor-learning:
   path: "/The Archive/Motor Control/Motor learning/stages_of_motor_learning.html"
+
+# Physics
+
+ref-angular-acceleration:
+  path: "/The Archive/Physics/Acceleration/AngularAcceleration.html"
 
 # Physiology
 
@@ -3334,6 +3415,7 @@ ref-lyme-disease:
 
 
 ## MSK Pathologies
+
 ### Head and Neck
 ref-VBI-vertebrobasilar-insufficiency:
   path: "/The Archive/Pathologies/Pathologies by Region/Head and neck/vertebrobasilar_insufficiency.html"
@@ -3368,12 +3450,15 @@ ref-lateral-epicondylitis:
 
 ref-piriformis-syndrome:
   path: "/The Archive/Anatomy/Skeletal Muscles/Lower limb muscles/Gluteal Muscles/piriformis.html#piriformis-syndrome"
+  definition: "A neuromuscular array of symptoms characterized by a constellation of symptoms that includes hip and buttock pain with or without sciatica"
 ref-pelvic-stress-fracture:
   path: "/The Archive/Pathophysiology/stress_reactions_and_fractures.html"
 ref-femoral-shaft-stress-fracture:
   path: "/The Archive/Anatomy/Bones/Lower Extremity Bones/femur_bone.html#stress-fracture"
 ref-adductor-muscle-strain:
   path: "/The Archive/Pathologies/MSK Pathologies/Lower extremity/adductor_muscle_strain.html"
+ref-leg-length-discrepancy:
+  path: "The Archive/Pathophysiology/leg_length_discrepency.html"
 
 #### Hip Pathologies
 ref-acetebular-labral-tear:

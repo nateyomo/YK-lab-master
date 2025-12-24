@@ -1,0 +1,64 @@
+---
+title: Anterior Longitudinal Ligament (ALL)
+
+---
+
+![Spinal Ligaments @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig7.31 Ligaments of Vertebral Column.webp)
+
+# Anatomy
+
+The Anterior longitudinal ligament spans vertically from the Sacrum to anterior part of C2
+
+
+The *ALL* spans the anterior aspect of the vertebral bodies @standringGraysAnatomyAnatomical2021.
+
+The ALL is thicker and narrower in the thoracic spine, compared to the cervical or lumbar spine @standringGraysAnatomyAnatomical2021.
+
+
+The most rostral aspect of the *ALL* starts at the basilar bone (C00) and extends to the *anterior tubercles* of C01 @standringGraysAnatomyAnatomical2021.
+
+The *ALL* continues on the anterior aspect of the spine and ends on the anterior aspect of the *sacrum* @standringGraysAnatomyAnatomical2021.
+
+## Attachments
+
+The *ALL* is simply stated to attach to the anterior aspect of the vertebral bodies and the sacrum.
+Reality is much less clean, the *ALL's longitudinal fibers* attach to the IVDs, vertebral end-plates, and margins of adjacent vertebrae @standringGraysAnatomyAnatomical2021.
+
+The *ALL* fibers blend with the deeper periosteum, perichondrium, and the periphery of the annulus fibrosus @standringGraysAnatomyAnatomical2021.
+
+
+## Longitudinal Fibers
+
+The ALL can be broken down into layers starting anterior to posterior @standringGraysAnatomyAnatomical2021.
+
+- Superficial Layer @standringGraysAnatomyAnatomical2021
+- Intermediate Layer @standringGraysAnatomyAnatomical2021
+- Deepest Layer @standringGraysAnatomyAnatomical2021
+
+**Superficial Layer** is more global and extends 3-4 vertebrae @standringGraysAnatomyAnatomical2021.
+
+**Intermediate layer** extends 2-3 vertebrae @standringGraysAnatomyAnatomical2021
+
+**Deepest Layer** extends from 1 vertebrae to the next @standringGraysAnatomyAnatomical2021.
+
+
+## Lateral Fibers
+
+The *lateral fibers* of the ALL are also known as "short fibres" and connect adjacent vertebrae @standringGraysAnatomyAnatomical2021
+
+# Nomenclature
+
+The ALL can be referred to based on the vertebral body it is covering.
+ALL-C01 refers to the aspect of ALL that attaches to the surface of the vertebral body of C01.
+
+The ALL is *not* referred to based on segment (C01-C02) since the space between vertebral bodies is a fraction of the area the vertebral body covers.
+On the contrary, tissues that extend span *transverse processes* or *spinous processes* should be referred to based on segment they span since the segment is a large space than the vertebra.
+
+
+# Function
+
+FXN: Restricts extension @duttonDuttonOrthopaedicExamination2020
+
+# Dysfunction
+
+The ALL is vulnerable to hyperextension trauma @duttonDuttonOrthopaedicExamination2020

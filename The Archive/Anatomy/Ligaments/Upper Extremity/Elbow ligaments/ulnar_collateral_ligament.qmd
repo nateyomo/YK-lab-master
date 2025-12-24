@@ -4,3 +4,62 @@ keywords:
     - "Medial collateral ligament of the elbow"
 ---
 
+
+# Anatomy
+
+The UCL can be divided into 3 anatomic bundles:
+
+
+Anterior bundle is the primary (1&deg;) restraint to valgus stress @stahlNonOperativeRehabilitationTraumatic2020.
+
+
+# Function
+UCL's function is to stabilize the medial elbow @stahlNonOperativeRehabilitationTraumatic2020.
+
+
+# Injury
+
+The UCL is commonly injured when impacting the ground in elbow extension
+
+
+# Diagnosis
+
+Diagnosis of UCL injuries is primarily MRI, Magnetic resonance arthrogram, and/or ultrasound (US) @stahlNonOperativeRehabilitationTraumatic2020
+
+
+# Management
+
+Surgical repair is generally indicated for patients with complete tears and/or are returning to high level competition and throwing @stahlNonOperativeRehabilitationTraumatic2020
+
+
+Non-operative management is generally indicated for partial tears or sprains @stahlNonOperativeRehabilitationTraumatic2020.
+
+::: {.callout}
+Non-operative treatments have poor (42-50%@stahlNonOperativeRehabilitationTraumatic2020) return to sport rates for overhead athletes within ~13-54 weeks of injury @stahlNonOperativeRehabilitationTraumatic2020
+:::
+
+
+
+# Rehab
+
+## Complete Tear Non-op
+@stahlNonOperativeRehabilitationTraumatic2020
+
+
+- Pain
+- Elbow ROM
+- Strength
+- Stability
+- Functional Outcomes
+
+- Ballistic movement
+    - Throwing
+    - Hitting
+- Falling on hand
+
+
+
+# Prognosis
+
+- Nonoperative Rehab of UCL Complete tear
+    - 8 weeks until return to wrestling @stahlNonOperativeRehabilitationTraumatic2020

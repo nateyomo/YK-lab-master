@@ -90,6 +90,7 @@ The TFL is a strong hip flexor and is a key pelvis stabilizer @jonesProjectFound
 
 - [Thomas test]({{< var ref-thomas-test.path >}})
     - The TFL can be biased by manually externally rotating the hip during the [Thomas test]({{< var ref-thomas-test.path >}}).
+- [Ober's Test]({{< var ref-obers-test.path >}})
 
 ::: {.callout-note}
 Some clinicians test TFL length during the [Thomas test]({{< var ref-thomas-test.path >}}) by seeing if the hip is abducted and moving it into 0&deg; abduction, but this is not as specific as external rotation since it would not differentiate that from [Sartorius]({{< var ref-sartorius.path >}}) tightness.

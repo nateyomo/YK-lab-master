@@ -1,0 +1,36 @@
+---
+title: FAIR Test
+---
+
+@danazumiEffectIntegratedNeuromuscular2021
+
+reproduction of sciatic symptoms using a flexion, adduction, and internal rotation (FAIR) test performed with the patient in a lateral recumbent position with the affected side up @danazumiEffectIntegratedNeuromuscular2021
+
+
+The FAIR test is designed to detect sciatic nerve compression by the piriformis
+
+# Technique
+
+- Supine or Contralateral sidelying
+- Hold the ipsilateral knee
+- Passively move the ipsilateral hip into *flexion + adduction + IR*
+
+Pain provocation at the intersection between the piriformis and sciatic nerve is a positive test @duttonDuttonOrthopaedicExamination2020.
+
+
+# Psychometrics
+
+## Sensitivity
+
+Sens: 0.88 @duttonDuttonOrthopaedicExamination2020
+
+## Specificity
+
+Spec: 0.83 @duttonDuttonOrthopaedicExamination2020
+
+## Likelihood Ratio
+
+- +LR of 5.2 @duttonDuttonOrthopaedicExamination2020
+- -LR of 0.14 @duttonDuttonOrthopaedicExamination2020
+
+"132,133 The FAIR test has been demonstrated to have a sensitivity of 0.88, a specificity of 0.83, a +LR of 5.2, and a −LR of 0.14" @duttonDuttonOrthopaedicExamination2020

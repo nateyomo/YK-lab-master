@@ -1,0 +1,3 @@
+---
+title: "Levene’s test of equality of error variances"
+---

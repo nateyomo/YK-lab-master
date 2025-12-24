@@ -1,0 +1,17 @@
+---
+title: Pain Science
+---
+
+
+::: {.callout}
+
+- CHAPTER 89 Basic Concepts in Biomechanics and Musculoskeletal Rehabilitation @ballantyneBonicasManagementPain2019
+- Ch90 Pain Rehabilitation @ballantyneBonicasManagementPain2019
+- CHAPTER 92 Biophysical Agents for Pain Management in Physical Therapy @ballantyneBonicasManagementPain2019
+- Ch30: Pain management @lazaroUmphredNeurologicalRehabilitation2019
+
+
+-  Neuroscience: fundamentals for rehabilitation @lundy-ekmanNeuroscienceFundamentalsRehabilitation2023
+    - Ch12 Pain as a Symptom and as a Disease @lundy-ekmanNeuroscienceFundamentalsRehabilitation2023
+
+:::

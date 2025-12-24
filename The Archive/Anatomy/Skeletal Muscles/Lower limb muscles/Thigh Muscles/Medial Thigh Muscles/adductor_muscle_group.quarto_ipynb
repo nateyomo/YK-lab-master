@@ -21,7 +21,7 @@
         "\n",
         "Pectineus, adductor longus, gracilis, adductor brevis, and adductor magnus are considered the \"primary adductors\" of the hip @neumannKinesiologyMusculoskeletalSystem2017. \n"
       ],
-      "id": "a30b0522"
+      "id": "c0170d71"
     },
     {
       "cell_type": "code",
@@ -95,6 +95,27 @@
         "\n",
         "\n",
         "\n",
+        "# Palpation {#palpation}\n",
+        "\n",
+        "- Patient positioned in *prone*\n",
+        "- Start at ischial tuberosity and role infero-medially\n",
+        "    - Note the difference in fiber direction and depth between the hamstring fibers and the adductor fibers\n",
+        "    - At the ischial tuberosity, you should be able to palpate the [origin of the adductor magnus]({{< var ref-adductor-magnus.origin >}})\n",
+        "- Work your way down the femoral shaft, rolling medially to palpate the insertions of the adductors\n",
+        "- Proximal 1/4 of the femoral shaft\n",
+        "    - The [adductor magnus]({{< var ref-adductor-magnus.path >}}) will be the most posteriorly superficial adductor muscle.\n",
+        "    - After diving through the adductor magnus you will reach the posterior intermediate compartment, and you will palpate the adductor brevis.\n",
+        "    - Lastly, the [pectineus]({{< var ref-pectineus.path >}}) inserts most anteriorly and thus will be palpated last.\n",
+        "- Middle half of the femoral shaft\n",
+        "    - You will first palpate the [adductor magnus]({{< var ref-adductor-magnus.path >}})\n",
+        "    - Diving deeper, you will be able to palpate adductor longus and adductor brevis.\n",
+        "    - Both of these muscles are at the intermediate layer, and thus transition between these two muscles should be at the same depth.\n",
+        "    - The adductor brevis muscle will be more superior\n",
+        "    - The adductor longus inserts inferior to the adductor brevis.\n",
+        "- Distal 1/4\n",
+        "    - The adductor longus' insertion will end by the distal 1/4 of the femur.\n",
+        "    - The adductor magnus' insertion will also stop and then reinsert at the *adductor tubercle*.\n",
+        "        - The space created is the *adductor hiatus*.\n",
         "\n",
         "# Exercises\n",
         "\n",
@@ -109,7 +130,7 @@
         "- Cossack squats\n",
         "- Foot sliders"
       ],
-      "id": "24c3bc62"
+      "id": "d2496500"
     }
   ],
   "metadata": {

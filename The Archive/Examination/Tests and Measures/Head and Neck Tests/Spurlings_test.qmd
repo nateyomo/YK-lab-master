@@ -8,3 +8,7 @@ title: Spurling's Test
 - Compression Test
 :::
 
+
+# Cluster
+
+The Spurling test is part of the *Wainner Cluster*

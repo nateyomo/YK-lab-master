@@ -1,7 +1,7 @@
 ---
-title: "APTA's Current Concepts of the Hip"
+title: "APTA's Current Concepts: The Hip"
 author: "Nathaniel Yomogida PT, DPT"
-date: "10/30/2025"
+date: 10-15-2025
 format:
     revealjs:
         slide-number: true
@@ -23,130 +23,760 @@ format:
         css: styles.css
 ---
 
-<!-- 20-25 min + questions -->
 
-@aptaCurrentConceptsOrthopaedic2024
-
-
-# Resources
-
-## Clinical Practice Guidelines
-
-- [AOPT Nonarthritic Hip Joint Pain](https://www.jospt.org/doi/10.2519/jospt.2023.0302) [@ensekiHipPainMovement2023]
-- [AOPT Hip Pain and Mobility Deficits-Hip Osteoarthritis: Revision 2017](https://www.jospt.org/doi/10.2519/jospt.2017.0301)[@cibulkaHipPainMobility2017]
-- [Pelvic PT: Pelvic Girdle Pain in the Antepartum Population](https://journals.lww.com/jwphpt/fulltext/2017/05000/pelvic_girdle_pain_in_the_antepartum_population_.7.aspx)[@clintonPelvicGirdlePain2017]
-- Screening hip: Low back pain cpg
+<!-- # What is the Hip
 
 
-# Related structures
-
-- SIJ / Pelvic dysfunction
-
-# Muscles
-
-## Deep Hip Stabilizers 
-
-<!-- ```{python tbl-hip-hip-stabilizer-oian}
-#| label: tbl-hip-hip-stabilizer-oian
-#| warning: false
-#| message: false
-#| echo: false
-#| tbl-cap: "Deep Stabilizers of the hip"
-
-from pathlib import Path
-import pandas as pd
-from pyprojroot import here
-from IPython.display import display, HTML
-
-# Set the path for the script file
-script_file_path = here("scripts/process_oian_table.py")
-
-# Check if the script file exists
-if script_file_path.exists():
-    import sys
-    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
-
-    from process_oian_table import process_oian_table  # Import the specific function
-
-    # Define the column to filter by and the identifiers to include
-    filter_column = 'group_identifier'  # Choose the column you want to filter by
-    filter_identifiers = ['hip_deep_external_rotator_muscles']  # Replace with actual identifiers you want to include
-
-    # Call the function to get the HTML table with filtering
-    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
-
-    if html_table:
-        # Render the HTML table for display
-        display(HTML(html_table))  # Use display to render the HTML properly
-else:
-    print("Script file does not exist. Please check the path.")
-
-``` -->
-
-### Guarded Deep hip Stabilizers
-
-- Femoral head will be pushed forward and be passively resting on hip flexor tendons anteriorly
-
-The long muscles will attempt to perform the job of stabilization.
-Long muscles such as sartorius, TFL, rectus femoris, hip flexors, and hamtrings.
-I think of this similar to dysfunctional <i>deep neck flexors</i> that result in overactive scalenes, upper trapezius, and levator scapulae.
+The hip is an anatomical region made up of femur and pelvic bones meeting to form the femoroacetabular joint, muscles, ligaments, connective tissue, and nerves -->
 
 
-# Biomechanics
+<!-- ## Muscles
 
-# Function
 
-# Red Flags
+- Short vs Long hip muscles
 
-"Medical concerns related to traumatic onset injuries include but are not limited to fractures, dislocations, tendon avulsions, and lower abdominal organ injury. Traumatic injuries that are accompanied by inability to bear weight, intolerance to joint movement, obvious disfigurement, extreme swelling, non-musculoskeletal symptoms, or extreme patient apprehension should be considered indicators for medical referral before initiating physical therapy intervention and even potentially before performing a comprehensive examination" [@aptaCurrentConceptsOrthopaedic2024].
+### Hip abductors
 
-# Pharmeceutical considerations
 
-- Corticosteroids associated with AVN and Hip fx
-- Fluoroquinolone is associated with hip tendinopathies
+### Deep Hip Stabilizers 
+
+- Are they deep hip stabilizers or external rotators?
+
+
+
+### Hip Adductors
+
+
+### Hip Flexors
+
+- Iliopsoas
+- iliacus
+- TFL
+- Sartorius
+
+### Short Vs Long hip muscles
+
+We can also break the hip muscles down into *short* and *long* muscles.
+
+Similar to the cervical spine's local and global moves.
+
+::: {.columns}
+::: {.column}
+
+#### Short muscles
+
+- Glutes
+- Deep hip stabilizers
+- Adductor brevis
+- Pectineus
+
+:::
+::: {.column}
+
+#### Long muscles
+
+- Hamstrings
+- Adductor longus and magnus
+- Gracilis
+- Sartorius
+- Tensor Fascia Latae
+
+:::
+:::
+
+
+## Iliotibial Band
+
+## Neurovasculature
+
+- Sciatic nerve
+- Femoral nerve
+ -->
+
+::: {.columns}
+::: {.column}
+![](/The Archive/Images/Gray anatomy 1918 images/Myology/image430 Muscles of the iliac and anterior femoral regions.gif)
+:::
+::: {.column}
+![](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif)
+:::
+:::
+
+
+
+
+
+## Pathologies {.smaller auto-animate=true}
+
+::: {style="font-size: 0.9em"}
+
+::: {.columns}
+::: {.column}
+- Fractures
+- Avascular Necrosis
+- Systemic Inflammation
+- Infection
+- Femoral Neck Stress Fracture
+- Ankylosing Spondylitis
+- Lumbar disc herniation
+- Lumbar Radiculopathy
+- SIJ Dysfunction
+- Pelvic floor dysfunction
+:::
+::: {.column}
+- Hip Osteoarthritis
+- Hip Microinstability
+- Femoroacetabular Impingement Syndrome
+- Hip Dysplasia
+- Greater Trochanteric Pain Syndrome
+- Piriformis Syndrome
+- Iliopsoas Complex Injuries
+- Adductor muscle strain
+- Hamstring muscle strain
+:::
+:::
+
+
+
+:::
+
+## Red flags {.smaller auto-animate=true}
+
+::: {style="font-size: 0.9em"}
+
+::: {.columns}
+::: {.column}
+
+
+::: {style="color: red;"}
+- Fractures
+- Avascular Necrosis
+- Systemic Inflammation
+- Infection
+- Femoral Neck Stress Fracture
+:::
+- Ankylosing Spondylitis
+- Lumbar disc herniation
+- Lumbar Radiculopathy
+- SIJ Dysfunction
+- Pelvic floor dysfunction
+
+:::
+::: {.column}
+
+
+- Hip Osteoarthritis
+- Hip Microinstability
+- Femoroacetabular Impingement Syndrome
+- Hip Dysplasia
+- Greater Trochanteric Pain Syndrome
+- Piriformis Syndrome
+- Iliopsoas Complex Injuries
+- Adductor muscle strain
+- Hamstring muscle strain
+
+:::
+:::
+
+:::
+
+
+
+## Lumbopelvic vs Hip {.smaller auto-animate=true}
+
+
+::: {style="font-size: 0.9em"}
+
+::: {.columns}
+::: {.column}
+**Lumbopelvic**
+
+- Ankylosing Spondylitis
+- Lumbar disc herniation
+- Lumbar Radiculopathy
+- SIJ Dysfunction
+- Pelvic floor dysfunction
+
+:::
+::: {.column}
+**Hip**
+
+- Hip Osteoarthritis
+- Hip Microinstability
+- Femoroacetabular Impingement Syndrome
+- Hip Dysplasia
+- Greater Trochanteric Pain Syndrome
+- Piriformis Syndrome
+- Iliopsoas Complex Injuries
+- Adductor muscle strain
+- Hamstring muscle strain
+:::
+:::
+
+:::
+
+## Intraarticular vs Extraarticular {.smaller auto-animate=true}
+
+
+::: {style="font-size: 0.9em"}
+
+::: {.columns}
+::: {.column}
+**Intra-articular**
+
+- Hip Osteoarthritis
+- Hip Microinstability
+- Femoroacetabular Impingement Syndrome
+- Hip Dysplasia
+:::
+::: {.column}
+**Extra-articular**
+
+- Greater Trochanteric Pain Syndrome
+- Piriformis Syndrome
+- Iliopsoas Complex Injuries
+- Adductor muscle strain
+- Hamstring muscle strain
+:::
+:::
+
+:::
+
+
+
+
+# Red Flag Screening
+::: {.callout-warning}
+Red flags as pathologies where the patient needs direct medical attention from a physician
+:::
+
+
+At the beginning of your evaluation, screening out red flags is the **top priority**.
+
+
+
+## Hip Infection
+
+::: {.columns}
+::: {.column}
+- Hip pain 
+- Acute onset
+- Localized redness
+- Localized swelling
+- Fever
+:::
+::: {.column}
+**Immediate** attention by a physician is required
+
+Postpone current and future PT visits
+:::
+:::
+
+
+<!-- ## Gout
+
+- Hip Pain
+- Acute onset
+- Localized redness
+- Localized swelling -->
+
+
+<!-- ## Sieper's Criteria for Inflammatory Back Pain
+
+1. &lt;40years old at onset
+1. Insidious onset 
+1. Exercise improves pain
+1. No improvement in pain at rest
+1. Pain during the second half of the night that improves upon waking
+
+4/5 criteria is indicative of inflammatory low back and hip pain, from other cuases -->
+
+
+<!-- ## Traumatic Onset
+
+- Fall
+- Direct blow
+- MVA -->
+
+## Avascular Necrosis (AVN)
+
+::: {.columns}
+::: {.column}
+- Onset: &gt;6 weeks
+- ~30-50 years old
+- Traumatic MOI
+- Atraumatic MOI: Hx corticosteroid use
+- Decreased ROM
+- Pain with weightbearing
+:::
+::: {.column}
+Presents like OA but with a short onset
+
+Warrants medical referral
+:::
+:::
+
+
+# Stress Fractures
+
+Overuse injuries resulting in bony degeneration
+
+## Presentation
+
+- **Population 1**: Athlete undergoing high repetitive loads
+- **Population 2**: Osteoporosis with weakened bone structure
+
+::: {.columns}
+::: {.column}
+- Gradual onset of anterior hip pain
+- Worse with activity, *fully* relieved with rest
+:::
+::: {.column}
+- Single Leg Balance
+- Single Leg Squat
+- Single Leg Hopping
+:::
+:::
+
+## Stress Fx Diagnosis
+
+Palpation is unreliable diagnostic tool due to the overlying soft tissue.
+
+MRI is considered the gold standard for diagnosis of stress fractures.
+
+::: {.callout-caution}
+Do **not** rely on XRAY results alone to rule out stress fractures.
+:::
+
+## Patellar Pubic Percussion Test
+
+
+::: {.columns}
+::: {.column}
+- Patient positioned in supine
+- Stethoscope placed over pubic tubercle
+- Tap ipsilateral patella
+:::
+::: {.column}
+(+) Lack of sound propagation indicate femoral neck or pubic rami fracture
+:::
+:::
+
+
+
+## Red Flag Summary
+
+::: {.columns}
+::: {.column}
+
+- Lack of radiology
+- Acute onset
+- Trauma or a missing MOI
+- Fever
+
+:::
+::: {.column}
+
+- Erythema (redness)
+- Edema (swelling)
+- (+) Patellar Pubic Percussion Test
+
+:::
+:::
+
+
+# Ruling out other regions
+
+- Lumbar
+- SIJ
+- Pelvic Floor
+- Referred pain
+
+
+# Lumbar pathologies
+
+Lumbar radiculopathies that result in radiating pain through and around the hip
+
+## Lumbar AROM
+
+Consistent symptom improvement or aggravation with lumbar ROM both point towards lumbar pathologies
+
+<!-- This can be used to help categorize patients based on *direction-specific* lumbopelvic involvement. -->
+::: {.callout-note}
+Using global trunk movements may not effectively isolate the lumbar spine from the hip region
+:::
+
+
+## Neural Tension Tests
+
+|Test|Nerve|Roots|
+|-|-|-|
+|Active slump test|Sciatic|L4-5|
+|Prone Knee Flexion|Femoral|L2-4|
+
+
+## Special Tests
+
+- Active Slump Test
+- Straight Leg Raise Test
+- Prone Lumbar Instability Test
+
+
+## Limping
+
+Patients who display a limp are 7x more likely to have a *hip* or *hip and spine* disorder compared to an *isolated spine issue*.
+
+## Lumbar spine DDX
+
+::: {.columns}
+::: {.column}
+- Aggravated by lumbar AROM (not global AROM)
+- Dermatomal pain pattern
+- Radiating pain starting proximal to the hip
+:::
+::: {.column}
+- Prone Lumbar Instability Test
+- Active Slump Test
+- Straight Leg Raise Test
+:::
+:::
+
+
+# SIJ
+
+- Fortin's Point: Pain around the PSIS
+- SIJ Compression Test
+- SIJ Distraction Test
+- Innominate rotation
+- SIJ Thigh Thrust Test
+- Sacral Thrust Test
+
+# Pelvic Floor Dysfunction
+
+- Bowel and Bladder Changes
+- Hx of Pregnancy or Birth
+- Pain with sexual activity
+- Pain in Pelvic region
+
+
+# Referred pain
+
+::: {.columns}
+::: {.column width="40%"}
+- Kidney
+- Ureter
+- Urinary Bladder
+:::
+::: {.column width="60%"}
+![Referred Pain Chart @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig15.7 Referred Pain Chart.png){#fig-referred-pain}
+:::
+:::
+
+
+
+
 
 
 
 # Evaluation
 
-# Subjective
+## Range of Motion Testing
 
-- Nature
-- Severity
-
-# Screening
-
-- Connective tissue disorders
-
-## Screening for Medical referral
-
-- systemic or septic related inflammation
-- table 5
-
-## Lumbopelvic
-
-## SIJ
-
-## Pelvic Floor
-
-## Functional Testing
+::: {.columns}
+::: {.column}
+- Absolute ROM
+- Comparative ROM
+- Quality of end-feel
+:::
+::: {.column}
+|Movement|Range|
+|-|-|
+|Flexion|120&deg;|
+|Extension|20&deg;|
+|Abduction|40&deg;|
+|Adduction|25&deg;|
+|Internal Rotation|35&deg;|
+|External Rotation|45&deg;|
+:::
+:::
 
 
-# GAIT
 
-- Trendelendberg Sign
 
-# Diagnosis
+## Muscle Length tests {.smaller}
 
-## Start generally
+|Test|Muscles tested|
+|-|-|
+|Thomas Test|Iliopsoas|
+|Thomas Test (90&deg; knee flexion)|Rectus femoris|
+|Thomas Test (hip IR)|Sartorius|
+|Thomas Test (Hip ER Bias)|TFL|
+|Hip Adductor length test (neutral)| Adductors|
+|Hip Adductor length test (90&deg; hip flexion)|Adductors|
+|Straight Leg Raise|Hamstrings|
+|Ober's Test|TFL/ITB|
 
-Is it <b>Intra-</b> or <b>Extra-</b>articular?
+## Intra-articular vs Extra-articular {.smaller auto-animate="true"}
 
-## Intraarticular
+::: {style="font-size: 0.9em"}
 
-If it is intraarticular, is the condition <b>nonarthritic</b> or <b>OA</b>
+::: {.columns}
+::: {.column}
+**Intra-articular**
 
-### Intraarticular non-arthritic
+- Hip Osteoarthritis
+- Hip Microinstability
+- Femoroacetabular Impingement Syndrome
+- Hip Dysplasia
+:::
+::: {.column}
+**Extra-articular**
+
+- Greater Trochanteric Pain Syndrome
+- Piriformis Syndrome
+- Iliopsoas Complex Injuries
+- Adductor muscle strain
+- Hamstring muscle strain
+- Ischiofemoral Impingement
+
+:::
+:::
+
+:::
+
+## Intra-articular vs Extra-articular {.smaller auto-animate="true"}
+
+::: {style="font-size: 0.9em"}
+
+::: {.columns}
+::: {.column}
+**Intra-articular**
+
+- [FABER Test](#faber)
+- Scour Quadrant Test
+
+:::
+::: {.column}
+**Extra-articular**
+
+- Adductor Squeeze Test
+- Glute Derotation Test
+- SLS Provocation Test
+- Active Piriformis Test
+- Seated Piriformis Test
+
+:::
+:::
+
+:::
+
+# Special Tests
+
+## Flexion Abduction ER Test (FABER) {#faber}
+
+::: {.columns}
+::: {.column}
+- Patient in supine
+- Passively bring the patient into the *Figure4* position (90&deg; flexion, 90&deg; abduction, 90&deg; ER)
+- Note distance from knee to table
+:::
+::: {.column}
+Provocation of hip pain rules in Hip joint or SIJ dysfunction
+:::
+:::
+
+## Scour Quadrant Test {#scour-quadrant-test .smaller}
+
+Identifies mechanial hip dysfunction to rule in *intra-articular* pathologies such as FAIS, acetabular labral tear, and hip OA
+
+::: {.columns}
+::: {.column}
+- Patient positioned in supine
+- Passively flex the ipsilateral hip to 90&deg; flexion
+- Apply an axial load along the femoral shaft
+- Move the hip into more flexion and adduction
+- Arc the hip into flexion + abduction
+:::
+::: {.column}
+Provocation of anterior hip or groin pain rules in intra-articular conditions.
+Crepitus indicates abnormal intra-articular structures.
+:::
+:::
+
+
+## Flexion-Adduction-Internal Rotation Test (FADIR)
+
+::: {.columns}
+::: {.column}
+- Patient supine
+- Passively *flex* hip to 90&deg;
+- Passively move to end range *adduction* and *internal rotation*
+:::
+::: {.column}
+Provocation of *Anterior hip pain* or *groin pain* is indicative of *FAI* or *Acetabular Labral injury*
+:::
+:::
+
+## Log-Roll Test
+
+Assess anterior capsuloligamentous laxity of the hip joint
+
+::: {.columns}
+::: {.column}
+- Patient in supine
+- Passively ER both femurs
+- Note the end position of both feet
+:::
+::: {.column}
+Increased external rotation of the femur on the involved limb indicates laxity of anterior capsuloligamentous structures
+:::
+:::
+
+
+## AB-HEER Test
+
+::: {.columns}
+::: {.column}
+- Patient contralateral sidelying (test hip upward)
+- Passively abduct the hip to 30-45&deg;
+- Hip is *extended* and *externally rotated*  while the femoral head is anteriorly translated
+:::
+::: {.column}
+Provocation of anterior hip or groin pain indicates *anterior microinstability*
+:::
+:::
+
+## Prone Hip Instability Test {#prone-hip-instability}
+
+::: {.columns}
+::: {.column}
+- Patient Prone
+- Passive *external rotation* and *abduction* 
+- Anterior translation of femoral head
+:::
+::: {.column}
+Provocation of anterior hip or groin pain indicates *anterior microinstability*
+:::
+:::
+
+## Hyper Extension-External Rotation (HEER)
+
+::: {.columns}
+::: {.column}
+- Patient supine
+- Contralateral knee-to-chest
+- Ipsilateral knee placed in *extended* and *externally rotated* position
+:::
+::: {.column}
+Provocation of at *point of palpation* or *Radiating pain* is positive for Piriformis/ deep hip stabilizer muscle dysfunction and potential sciatic nerve entrapment
+:::
+:::
+
+
+## Adductor Isometric Squeeze Provocation Test
+
+::: {.columns}
+::: {.column}
+
+- 0&deg;, 30&deg;, 45&deg;, or 90&deg; Hip flexion
+- The examiner places arm between patient’s knees (if hip is flexed) or distal lower leg
+- Maximal isometric contraction for 5-10 seconds
+
+
+
+:::
+::: {.column}
+Provocation of groin pain indicates adductor muscle involvement on symptomatic side.
+
+Provocation with hip in neutral (0&deg;) is a **contraindication** for return-to-play
+:::
+:::
+
+## Gluteal De-Rotation Test {#gluteal-de-rotation-test}
+
+::: {.columns}
+::: {.column}
+- Supine
+- Passively flex to 90&deg; and end-range ER
+- Patient actively de-rotates (Returns hip to neutral rotation)
+:::
+::: {.column}
+Provocation of Lateral Hip pain is a indicates *GTPS secondary to gluteal tendinopathy*
+:::
+:::
+
+
+## Active Sidelying Piriformis Test {#active-piriformis-test}
+
+::: {.columns}
+::: {.column}
+- Patient positioned in contralateral sidelying (test hip upward) with bent knees and slight hip flexion
+- Clinician palpates the piriformis muscle
+- Patient performs isometric hip abduction + ER against examiner resistance
+:::
+::: {.column}
+Provocation of at *point of palpation* or *Radiating pain* is positive for Piriformis/ deep hip stabilizer muscle dysfunction and potential sciatic nerve entrapment
+:::
+:::
+
+## Seated Piriformis Stretch Provocation Test {#seated-piriformis-test}
+
+::: {.columns}
+::: {.column}
+- Patient seated
+- Ipsilateral heel supported and knee placed in full extension
+- Passively adduct and internally rotate the flexed hip while palpating lateral to the ischium and proximally at the sciatic notch
+:::
+::: {.column}
+Provocation of at *point of palpation* or *Radiating pain* is positive for Piriformis/ deep hip stabilizer muscle dysfunction and potential sciatic nerve entrapment
+:::
+:::
+
+
+
+
+
+
+<!-- # Functional Testing
+
+In the clinic, I have personally struggled to gather a significant amount of data from functional testing such as gait, squatting, lunging, etc but I think that is a skill problem and I make sure to get every patient to do as many functional tests as possible.
+
+
+# Squat test
+
+- Frontal plane (Front view)
+- Sagittal plane (Side view)
+
+
+# Single Leg Stance
+
+
+SLS is an important functional test.
+SLS is the building block for running and athletic movements.
+
+- Frontal plane: 
+  - Hip drop or trendelenberg
+
+Sagittal plane: 
+
+Provocation of lateral hip pain is positive for GTPS secondary to gluteal tendinopathy -->
+
+
+
+
+<!-- 
+# Intraarticular: Non-arthritic vs Arthritic
+
+
+If it is intraarticular, is the condition *non-arthritic* or *Osteoarthritic*
+
+- Nonarthritic: hip microinstability, femoral neck stress fx, pubic ramus stress fx
+  - Subdivided based on MOI
+    - FAI
+    - Microinstability
+
+
+## Intraarticular non-arthritic
 
 Divided into 2 categories based on MOI: FAI or microinstability
 
@@ -159,237 +789,128 @@ AOPT hip OA CPG17 for a detailed description of hip OA characteristics that will
 :::
 
 
-ddx: Other differential diagnoses include femoral neck and pubic ramus stress fractures and iliopsoas muscle complex and bursa involvement [@aptaCurrentConceptsOrthopaedic2024]
+DDX: Other differential diagnoses include femoral neck and pubic ramus stress fractures and iliopsoas muscle complex and bursa involvement [@aptaCurrentConceptsOrthopaedic2024]
 
+
+## Extraarticular
+
+
+# Diagnosis
+
+## Start generally
+
+Is it <b>Intra-</b> or <b>Extra-</b>articular?
+
+
+
+---
+
+
+
+
+ -->
 
 # Hip Osteoarthritis
 
-## Updated Cluster
-
-- Moderate anterior or lateral hip pain with weight bearing activities
-- Morning stiffness lasting less than 1 hour in duration
-- Hip internal rotation ROM <24&deg; or hip internal rotation and flexion 15&deg; less than the contralateral hip 
-- Increased pain with passive hip IR
-
-::: {.callout-note}
-Hip internal rotation <15&deg; was modified to <24&deg;
-:::
+[**Hip Osteoarthritis**]({{< var ref-hip-osteoarthritis.path >}}): Progressive degeneration of the femoroacetabular joint
 
 
-
-
-
-# Treatment
-
-# B Project
-
-- Are they deep hip stabilizers or external rotators?
-- Prone Hip IR/ER arthrokinematic test
-    - Symmetry
-    - End feel
-    - ROM
-- Palpate each deep hip stabilizer distal belly during rotation
-- deep hip stabilizer release
-- Functional test?
-- FAddER contract-relax
-    - Therapist assisted
-    - Self-stretch
-
-
-# Modalities
-
-- BFR
-
-# HEP
-
-# SmartPhrase 
-
-
-## OA Cluster
-
-<bold>OA Cluster</bold>
-
-- Moderate anterior or lateral hip pain with weight bearing activities
-- Morning stiffness lasting less than 1 hour in duration
-- Hip internal rotation ROM <24&deg; or hip internal rotation and flexion 15&deg; less than the contralateral hip 
-- Increased pain with passive hip IR
-
-
-# Adductor Injuries
-
-
-
-# Hamstring Injuries
-
-## Key points
-
-
-- Prognosis
-- Prevention
-    - Future hamstring injuries
-    - Secondary Complications
-
-## Prognosis
-
-Palpation test
-
-## Prevention of future injuries
-
-## Preventing Secondary Complications
-
-- Active SLUMP
-
-
-# Greater Trochanteric Pain Syndrome
-
-
-[**Greater Trochanteric Pain Syndrome**]({{< var ref-greater-trochanteric-pain-syndrome.path >}}): lateral hip pain that may originate from numerous sources surrounding the greater trochanter [@aptaCurrentConceptsOrthopaedic2024].
-
-- [Gluteus minimus]({{< var ref-gluteus-minimus.tendon >}}) and [medius]({{< var ref-gluteus-medius.tendon >}}) tendons [@aptaCurrentConceptsOrthopaedic2024]
-- Trochanteric bursa [@aptaCurrentConceptsOrthopaedic2024]
-- Proximal ITB [@aptaCurrentConceptsOrthopaedic2024]
-
-## Population
+## OA Etiology
 
 ::: {.columns}
 ::: {.column}
-**Civilian**
+**Excessive loads on the hip**
 
-- 40-60 years old
-- Female
+- Sports
+- Heavy labor
+- High BMI
 :::
 ::: {.column}
-**Athletic**
+**Risk factors**
+
+- FAI
+- Dysplasia
+- PMHx joint injuries
 :::
 :::
 
+::: {.callout-tip}
+The more risk factors a patient has, the less impact the joint will need to rule in OA
+:::
 
-
-## PathoMechanism
-
-GTPS is theorized to be an overuse injury due to chronic movement dysfunction of **Hip Adduction** and **IR** [@aptaCurrentConceptsOrthopaedic2024].
-
-Poor eccentric control when loading into a hip
-
-An attempt to create stability by sitting into passive structures such as IT band and glute tendons
-
-
-# Piriformis Syndrome
-
-[**Piriformis Syndrome**]({{< var ref-piriformis-syndrome.path >}}): Posterior hip pain that is present with or *without* sciatica due to sciatic nerve entrapment
-
----
+## OA Presentation
 
 ::: {.columns}
 ::: {.column}
-![Hip and Thigh Muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg){#fig-openstax-fig11.29}
+- Pain in Groin and Lateral hip
+- Gradual Onset
+- Progressively worsening pattern
+- &gt;50years old
 :::
 ::: {.column}
-![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}
+- &darr; Joint ROM (specifically *IR*)
+- AM Stiffness: &lt;1 hour after immobile periods
+- Strength: &darr; LE strength
 :::
 :::
-
-
-
-## Testing
-
-Four clinical signs and symptoms were identified as the most common findings and can be present with or without sciatica: 
-
-- Buttock pain
-- Pain with sitting
-- Tenderness near greater sciatic notch
-- Pain with maneuvers that cause tension of the piriformis
 
 ---
 
-- Active piriformis test
-- Seated piriformis test
 
-# Ischiofemoral impingement
+## OA Special Tests
 
-# CONDITIONS-SPECFIC EVIDENCE-BASED REHABILITATION CONCEPTS
-
-# FAI treatment
-
-available body of literature is relatively small and of lower quality when compared to hip OA
-Clinical expertise and experience is even more valuable with this population.
-
---- 
-
-"Patients that do not achieve satisfactory results from a structured course of rehabilitation may be candidates for surgical intervention. Typically, arthroscopic procedures are performed, or less commonly open procedures, to remove excessive bone from the femoral head-neck junction or acetabular rim and treatment of any associated joint injury such as labral tears"
+- (+) [FABER](#faber)
+- (+) [Scour Quadrant Test](#scour-quadrant-test)
+- Relief with Long-axis distraction
 
 
 
-## Education and activity modification
+## Old OA Cluster {auto-animate="true"}
+
+- Moderate anterior or lateral hip pain with weight bearing activities
+- Morning stiffness &gt;1 hour
+- Hip ROM deficits:
+  - Hip internal rotation ROM &lt;15&deg;
+  - Hip internal rotation and flexion &lt;15&deg; compared to contralateral hip 
+- Increased pain with passive hip IR
+
+## Updated OA Cluster {auto-animate="true"}
+
+- Moderate anterior or lateral hip pain with weight bearing activities
+- Morning stiffness &gt;1 hour
+- Hip ROM deficits:
+  - Hip internal rotation ROM &lt;**24**&deg;
+  - Hip internal rotation and flexion &lt;15&deg; compared to contralateral hip 
+- Increased pain with passive hip IR
 
 
-- Decrease aggravating activities to allow the patient to move out of the inflammatory stage of healing
-- Pair this with education
-    - How long to limit activity
-    - Why
-"Consider a temporary recommendation of strengthening in “protected” ranges by decreasing squat or lunge depth along with decreasing the amount of forward flexion that occurs with exercises such as the single leg Romanian deadlift"
+## OA Treatment approach
 
-::: {.callout-note}
-A suggested length of time for activity modifications is not established and would be expected to vary by severity of presentation and patient goals
+Minimize joint irritation and inflammation
+
+. . .
+
+::: {.columns}
+::: {.column}
+**Short term**
+
+- Modalities
+- Distraction
+- Activity modification
+- Gentle OKC strengthening
+:::
+::: {.column}
+**Long term**
+
+- Closed Kinetic Chain
+- Improve hip stabilization
+- Improve hip load absorption
+:::
 :::
 
-## Body Structure & Function
 
 
 
-Addressing hip flexor muscle length issues should be prioritized as tightness of these structures can have a postural effect by increasing anterior pelvic tilt.
-
-## Functional training
-
-- Single-Leg Positions and Movements
-
-
-## Return to Play
-
-There is not an established RTP criteria for this population.
-
-- stepdown
-- single leg squat
-- SEBT
-
-# Hip microinstability
-
-[**Hip Microinstability**]({{< var ref-hip-microinstability.path >}}): Symptoms related to Hypermobility of the hip joint[@aptaCurrentConceptsOrthopaedic2024]
-
-
-# Hip Dysplasia
-
-
-[**Hip Dysplasia**]({{< var ref-hip-dysplasia.path >}}): [@aptaCurrentConceptsOrthopaedic2024]
-
-
-## Presentation
-
-Often patients compensate for insufficient passive stability by maintianing a position of anterior pelvic tilt to maximize femoral head coverage [@aptaCurrentConceptsOrthopaedic2024].
-
-- Look for associated Iliopsoas and rectus femoris muscle tightness [@aptaCurrentConceptsOrthopaedic2024]
-
-## Treatment
-
-
-Hip dysplasia is an unstable hip with overly-lax or weakened capsuloligamentous structures [@aptaCurrentConceptsOrthopaedic2024].
-
-As a result, treatment should involve a similar approach to hip instability.
-
----
-
-- Protect structures from instability events
-- Address impairments
-- Optimize function 
-- Prevention of OA
-
-## OA Prevention
-
-
-# Osteoarthritis
-
-
-[**Hip Osteoarthritis**]({{< var ref-hip-osteoarthritis.path >}}): [@aptaCurrentConceptsOrthopaedic2024]
 
 ## Treatment Dosage
 
@@ -422,14 +943,13 @@ As a result, treatment should involve a similar approach to hip instability.
 </table>
 
 
-## Aerobic Exercise
+<!-- ## Aerobic Exercise
 
 Aerobic exercise 
 
+55-90% maximal heart rate 3-5 days per week for 20-90 minutes in the hip OA population
 
-5590% maximal heart rate 3-5 days per week for 20-90 minutes in the hip OA population
-
-### Minimize impact during aerobic exercise
+## Minimize impact during aerobic exercise
 
 - Cycling
 - Elliptical machine
@@ -441,215 +961,258 @@ Aerobic exercise
 ## Activity Modification
 
 Reduce joint irritability
+
 - Avoid prolonged end-range positions
     - Particularly hip internal and external rotation
-- Avoiding sitting with legs crossed or in excessive flexion
+- Avoiding sitting with legs crossed or in excessive flexion -->
 
-# Femoral Neck Stress Fracture
 
-[**Femoral Neck Stress Fracture**](): {{< var ref-femoral-neck-stress-fracture.definition >}}
+## Refer to Aquatic Therapy
 
-## Caution
+- Decreases impact of high BMI
+- Minimizes joint loads
+- Introduction to swimming as exercise
 
-- Immediate weight bearing restriction to prevent further fracture progression or compromised bony stability
-- 6-8 weeks and up to 14weeks for complex patients with poorer prognosis
 
-## Prognosis
+# Femoral Acetabular Impingement Syndrome (FAIS)
 
-- Uncomplicated
-- Complicated
+[Femoral Acetabular Impingement Syndrome (FAIS)](): Clinical presentation of hip pain caused by premature contact between femur and acetabulum bones.
 
-- Compression Sided
-- Tension sided
 
----
+## Presentation
 
-### Poor Prognosis 
+- Pain in *C-Sign* distribution
+- **Impingement positions**: Repetitive/prolonged hip flexion + adduction + IR
+- (+) FADIR
+- Younger population
+- Functional impairments
 
-- Tension-sided
-- age?
-- &gt;50% width of femoral nec
+## FAIS: Single Leg Squat
 
-## Weeks 0-8
+- Decreased depth
+- Loss of contralateral pelvic height
+- Genu valgum/varus
+- Trunk compensations
+- Poor lower extremity control
 
-- NWB 
-- OKC exercises to strengthen
+## FAIS: Star Excursion Balance Test
 
-::: {.callout-tip title="Refer to Aquatic PT"}
-Aquatic exercises can be used to achieve a therapeutic exercise volume while not jeopardizing healing osseous tissue
-:::
-
-## RTS
-
-Uncomplicated compression side FNSFs and pubic rami stress fractures that are managed nonoperatively can typically return to running and athletic activity around 12 weeks after diagnosis
-
-However, return-to-sport timeframes of up to 28 weeks have been reported for complicated, and slow-healing cases 
-
-## Rehab
-
-- *Gradual* PT supervised return-to-running [@aptaCurrentConceptsOrthopaedic2024]
-- Glute Medius strengthening
-- Frontal Plane pelvic stabilization
-- Pelvic stability during loading
-
-## Tension-sided FNFS {#tension-sided-fnfs}
-
-Tension-sided patients have higher risk for displacement with weight bearing [@aptaCurrentConceptsOrthopaedic2024].
-As a result, surgery with a percutaneous screw fixation is the recommended course of treatment
-
-
-## Surgical Management
-
-- Tension-sided FNFS
-- Patients with compression sided FNSFs that are greater than 50% of the width of the femoral neck are also considered candidates
-- If a fracture becomes displaced, surgery should be performed to mitigate the potential for adverse effects including postoperative AVN and fixation failure
-
-### Rehab
-
-**Week 0-6**
-
-- NWB [@aptaCurrentConceptsOrthopaedic2024]
-
-**Week 7-12**
-
-- PWB [@aptaCurrentConceptsOrthopaedic2024]
-
-**3-6mo**
-
-- Return-to-sport can be achieved around 3-6 months after surgery but, can take up to a year in complicated cases with delayed healing [@aptaCurrentConceptsOrthopaedic2024]
-
-# Extra-Articular Conditions
-
-
-# Iliopsoas Complex Injuries
-
-## Activity modification
-
-- Minimize aggravating mechanical and pain symptoms
-    - i.e. Repetitive hip flexion and extension
-
-This can lead to substantial activity modifications for athletic populations
-
----
-
-## Successful activity modification
-
-You must provide alternatives to the activities for the patient to maximize healing and minimize atrophy
-
-- Cardio: Cycling, ellipitcal, or aquatic exercise
-- Resistance training:
-
-## ROM
-
-Stretching, STM, trigger point release, and dry needling were all recommended to improve ROM deficits [@aptaCurrentConceptsOrthopaedic2024]
-
-No time restrictions were given based on acuity of injury.
-
-## Strengthening
-
-- Gradually progress strengthening
-- Since the [psoas major]({{< var ref-psoas-major.origin >}}) and [minor]({{< var ref-psoas-minor.origin >}}) originate from the thoracolumbar junction, it is important to monitor lumbopelvic stability during exercises
-- Lumbopelvic strengthening and stabilization exercises are important to start early to create a stable foundation for the iliopsoas complex before exercising it
-    - supine lumbopelvic stabilization &rarr; CKC lumbopelvic stabilization
-- marching in supine &rarr; Seated &rarr; Standing [@aptaCurrentConceptsOrthopaedic2024]
-- Apta recommended resisted hip flexion from 20&deg; extension to 45&deg; flexion 
-- Loaded hip flexion with ankle weights, bands, and cables 
-    - Standing hip marches have changing torque on the hip, with the most torque at 90&deg; hip flexion
-    - Supine SLR exercise will have increased torque at 0&deg; hip flexion with decreasing load as you approach 90&deg;
-
-## RTS
-
-- ballistic speed exercises [@aptaCurrentConceptsOrthopaedic2024]
-
-Criteria
-
-- Symptoms still reproducible
-- substantial strength asymmetries
-
-## Unresponsive to PT
-
-- US guided corticosteroids @aptaCurrentConceptsOrthopaedic2024
-- Endoscopic tendon release @aptaCurrentConceptsOrthopaedic2024
-- Lengthening procedures @aptaCurrentConceptsOrthopaedic2024
-
-
-# Adductor muscle injuries
-
-<!-- ```{python tbl-oian}
-#| label: tbl-oian
-#| warning: false
-#| message: false
-#| echo: false
-
-from pathlib import Path
-import pandas as pd
-from pyprojroot import here
-from IPython.display import display, HTML
-
-# Set the path for the script file
-script_file_path = here("scripts/process_oian_table.py")
-
-# Check if the script file exists
-if script_file_path.exists():
-    import sys
-    sys.path.append(str(script_file_path.parent))  # Add the directory of the script to the system path
-
-    from process_oian_table import process_oian_table  # Import the specific function
-
-    # Define the column to filter by and the identifiers to include
-    filter_column = 'functional_group_identifier'  # Choose the column you want to filter by
-    filter_identifiers = ['adductor_muscle_group']  # Replace with actual identifiers you want to include
-
-    # Call the function to get the HTML table with filtering
-    html_table = process_oian_table(filter_column=filter_column, filter_identifiers=filter_identifiers)
-
-    if html_table:
-        # Render the HTML table for display
-        display(HTML(html_table))  # Use display to render the HTML properly
-else:
-    print("Script file does not exist. Please check the path.")
-
-```
- -->
-
-## Acute / Protective phase
-
-
-- gentle ROM at hips and knees @aptaCurrentConceptsOrthopaedic2024
-- Lumbopelvic stabilization @aptaCurrentConceptsOrthopaedic2024
-- Isometric activation of adjacent / unaffected muscles
-
-Criteria
-
-- Tolerance of therex
-- Low-level ADLs
-- Symptom stability
-
-
----
+Limited in *Posterolateral* and *Posteromedial* directions
 
 ::: {.callout-tip}
-
-Since patients are very irritable and limited acutely, they should be re-evaluated as their pain/functional tolerance increases to screen out coexisting conditions @aptaCurrentConceptsOrthopaedic2024
+I often use this test since it can be used as a treatment and easily added to the HEP
 :::
 
-## Subacute phase
 
-Impairment based rehab
 
-- Flexibility exercises should only be employed when there is symptom stability thyroughout the available ROM
-    - limited evidence for mm flexibility in prevention
+
+
+<!-- ## Differential and Related Diagnosis
+
+- Hip Joint Microinstability
+- Hip Osteoarthritis -->
+
+
+<!-- ## Syndrome *not* a pathology
+
+FAI is simply an generalized term for the impingement, but your examination should not end with a label of FAI.
+
+You should specify the type of FAI: **CAM femoraoacetabular impingement** or **Pincer FAI**
+
+Rule in our out secondary injuries: **Labral injury** or **chondral damage** -->
+
+<!-- ## Types
+
+- CAM femoroacetabular impingement: FAI caused by excessive bone on the femoral head-neck junction
+- Pincer femoroacetabular impingement: Excessive bone growth on the acetabulum, resulting in FAI
+
+
+- Anatomical vs Functional
+  - Functional: Excessive femoral translation and instability resulting in impingement
+  - Anatomical: bone growht
+
+ -->
+
+## Treatment
+
+There is limited literature for FAIS treatment
+
+::: {.callout-tip}
+Sharing clinical expertise is even more valuable when managing this population!
+:::
+
+## Hip Flexor Mobility
+
+Addressing hip flexor muscle length issues should be prioritized as tightness of these structures can have a postural effect by increasing anterior pelvic tilt.
+
+## Functional training
+
+Progressing patients towards single-leg closed chain positions and movements
+
+
+<!-- ## Education and activity modification
+
+
+- Decrease aggravating activities to allow the patient to move out of the inflammatory stage of healing
+- Pair this with education
+    - How long to limit activity
+    - Why
+"Consider a temporary recommendation of strengthening in “protected” ranges by decreasing squat or lunge depth along with decreasing the amount of forward flexion that occurs with exercises such as the single leg Romanian deadlift"
+
+::: {.callout-note}
+A suggested length of time for activity modifications is not established and would be expected to vary by severity of presentation and patient goals
+::: -->
+
+
+
+
+
+# Hip Microinstability {#hip-microinstability}
+
+[**Hip Microinstability**](): The combined entity of capsuloligamentous laxity *and* clinical symptoms (i.e. pain) with or without apprehension.
+
+
+
+
+
+## Etiology
+
+In general there is no single traumatic event that causes hip microinstability.
+Bony dysplasia *may* be present but is not considered a necessary criterion.
+
+The mechanism is **repetitive microtrauma** generally due to insufficient passive stabilization from the [anterior joint capsule]({{< var ref-femoroacetabular-joint-capsule.path >}}) and [iliofemoral ligament]({{< var ref-iliofemoral-ligament.path >}})
+
+
+
+## Presentation
+
+- No hx of trauma
+- Aggravation with Weight bearing ER + extension (anterior instability)
+
+
+- Pain: 
+  - Groin or Deep joint pain
+  - C-Sign Hip Pain Distribution
+- Functional difficulties
+  - Particularly in hip extension + ER
+- Weak hip abductor and rotator muscles
+
+## Diagnosis
+
+- 3 Test cluster:
+  - AB-HEER test 
+  - Prone instability test
+  - Hyperextension-external rotation (HEER) test
+- 3 positive tests was associated with a 95% chance of microinstability.
+
+
+## DDX
+
+Differentiate between *local anterior microinstability* and *Global* laxity
+
+::: {.columns}
+::: {.column}
+Anterior microinstability (local)
+
+- Log Roll Test
+- AB-HEER Test
+- Prone Hip Instability test
+- HEER Test
+
+
+:::
+::: {.column}
+Global Laxity
+
+- Beighton Scale
+
+:::
+:::
+
+## Beighton Scale {.smaller}
+
+|Criteria|Left|Right|
+|-|-|-|
+|5th finger metacarpophalangeal joint extension &gt;90&deg; | 0 or 1 | 0 or 1|
+| Ability to place thumb to forearm|0 or 1|0 or 1|
+|&gt;10&deg; knee hyperextension| 0 or 1| 0 or 1|
+|&gt;10&deg; elbow hyperextension|0 or 1| 0 or 1|
+|Ability to touch palms to floor with knees straight| 0 or 1||
+
+**Total**: /9
+
+&ge;4pts &rarr; Presence of joint laxity
+
+
+
+
+
+
+
+
+# Adductor Muscle Injuries
+
+---
+
+Adductor muscle strains are a common injury in sports like hockey and soccer
+
+with the MOI including *acute*, *overuse*, and *acute-on-chronic*
+
+. . .
+
+::: {.columns}
+::: {.column}
+**Acute Population**
+
+In kicking athletes, such as soccer, the injury is generally acute and occurs when rapidly transitioning between hip extension &rarr; flexion.
+:::
+
+. . .
+
+::: {.column}
+**Overuse Population**
+
+Ice hockey consists of repetitive eccentric loading of the adductors and injuries are generally due to overuse
+:::
+:::
+
+
+These injuries generally occur due to hip muscle weakness and lack of off-season conditioning.
+When ruling in an adductor strain, look for recent increases in activity
+
+
+
+## Most common adductors injured
+
+::: {.columns}
+::: {.column}
+1. Adductor Longus
+1. Adductor Magnus
+1. Gracilis
+:::
+::: {.column}
+![Deep muscles of the medial thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image433 Deep muscles of the medial femoral region.gif){#fig-grayanatomy-deep-medial-thigh width=32%}
+:::
+:::
+
+
+
+## Risk Factors
+
+- Previous groin injury (2x risk)
+- Lack of off-season sport-specific training
+- Hip muscle weakness
+  - Adductor to abductor muscle strength ratio &lt;80%
+- Lower abdominal muscle weakness
+- Decreased hip joint ROM
 
 ## Prevention
 
-- Adductor:Abductor Strength ratio: &gt;80% @aptaCurrentConceptsOrthopaedic2024
-    - Pro hockey had 17x increase risk of adductor mm injury if &lt;80%
+Adductor:Abductor Strength ratio: &gt;80% @aptaCurrentConceptsOrthopaedic2024
 
-## Strengthening
-
-Isometric &rarr; Concentric &rarr; Eccentric
-
-Limited &rarr; Full ROM
+::: {.callout-note}
+Pro hockey had 17x increase risk of adductor mm injury if &lt;80%
+:::
 
 
 ---
@@ -685,289 +1248,219 @@ The Copenhagen 5-second adductor squeeze test [@aptaCurrentConceptsOrthopaedic20
 :::
 
 
----
-
-[Copenhagen Hip and Groin Outcome Score (HAGOS)]({{< var ref-hip-and-groin-outcome-score.path >}})
 
 
-## Hamstring injuries
-
-<table border="1" cellpadding="6" cellspacing="0">
-  <thead>
-    <tr>
-      <th>Stage</th>
-      <th>Goals</th>
-      <th>Intervention</th>
-      <th>Criteria for advancement</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Acute phase</td>
-      <td>
-        <ul>
-          <li>Pain and edema management</li>
-          <li>Prevent development of tissue adhesions</li>
-          <li>Limit atrophy and strength deficits</li>
-          <li>Limit flexibility and ROM deficits</li>
-          <li>Normalize gait pattern</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Relative rest and avoidance of aggravating activities</li>
-          <li>Ice, compression, local electrophysical agents as indicated</li>
-          <li>Soft tissue mobilization</li>
-          <li>Active ROM and submaximal strengthening</li>
-          <li>Gait training</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Symmetrical passive and active hip and knee ROM</li>
-          <li>Normal gait pattern</li>
-          <li>No reactive pain or symptoms with prescribed therapeutic exercises</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Intermediate phase</td>
-      <td>
-        <ul>
-          <li>Increase strength and muscular endurance</li>
-          <li>Regain preinjury flexibility</li>
-          <li>Restore lumbopelvic stability</li>
-          <li>Improve lower extremity neuromuscular control</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Progress lower extremity and lumbopelvic strengthening
-            <ul>
-              <li>End-range &amp; eccentric strength exercises</li>
-            </ul>
-          </li>
-          <li>Stretching &amp; flexibility exercises</li>
-          <li>Low intensity cardiovascular endurance exercises</li>
-          <li>Single leg balance and neuromuscular control exercises</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Symmetrical flexibility and muscle length</li>
-          <li>Symmetrical hamstring strength</li>
-          <li>Adequate neuromuscular control</li>
-          <li>Symmetrical jogging (if appropriate) pattern without reactive pain</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Late phase</td>
-      <td>
-        <ul>
-          <li>Return to all desired activities including sports or heavy manual labor</li>
-          <li>Restore general and muscular endurance necessary for sport or other activity demands</li>
-          <li>Identify and address modifiable factors for reinjury</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Strength and flexibility exercise progression
-            <ul>
-              <li>Emphasize lengthened state, eccentric strength, and higher velocity movements</li>
-            </ul>
-          </li>
-          <li>Progress balance and neuromuscular control exercises
-            <ul>
-              <li>Perturbation training and reactive tasks</li>
-            </ul>
-          </li>
-          <li>Sport-specific or work simulation training</li>
-          <li>Plyometric and agility exercises as appropriate</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Full and pain-free hamstring strength at all muscle lengths</li>
-          <li>Demonstrate tolerance to all sport or work specific tasks</li>
-          <li>No apprehension on H-test if patient anticipates returning to high level sport participation</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 
----
 
-Early phase
+<!-- ## Adductor Muscle Treatments
 
-- Reduce pain
-- Reduce edema
-- Protect further damage by minimizing load
-- Minimize atrophy
+- Adductor isometrics
+  - Seated (90&deg;)
+  - Hooklying (45&deg;)
+  - Supine (0&deg;)
+- Copenhagen planks -->
 
-- 3-4 Days of immobilization
-- Excessive mobilization can cause excessive scar formation
-- Use crutches
+# Framework for Muscle Injury Rehab
+
+
+
+- **ROM**: Limited &rarr; Full ROM
+- **Strengthening**: Isometric &rarr; Concentric &rarr; Eccentric
+- Improve stabilization at nearby regions
+- Maintain strength in unaffected hip musculature
+
+
+
+# Hamstring Injuries
+
+
+## Presentation
+
+- Common injury in athletes
+- Myotendinous junction of Biceps Femoris Long Head
+- Pain and tightness in posterior thigh
+
+## Rule out Tendon avulsion
+
+- Proximal posterior thigh pain
+- Traumatic onset
+- Inability or unwillingness to bear weight
+- Visible ecchymosis
+- Palpable defects in the hamstring musculature
+
+
+<!-- ## Prognosis
+
+Palpation test -->
+
+<!-- ## Exercises
+
+- Hip flexor and knee extensor strengthening at end range
+- Start with isometrics
+
+- Long bridge
+- Standing HS curl 
+- C Drill
+- Nordic curl
+
+
+## Preventing Secondary Complications
+
+- Active SLUMP -->
+
+
+
+
+## H-Test
+
+::: {.columns}
+::: {.column}
+- Supine
+- Perform 3x SLR's at max ROM as fast as possible
+- Rate apprehension 0-100 (most apprehension)
+:::
+::: {.column}
+Delaying RTS until apprehension was at a minimum significantly reduced reinjury rates
+:::
+:::
+
+
+# Greater Trochanteric Pain Syndrome (GTPS)
+
+## Definition
+
+[**Greater Trochanteric Pain Syndrome**]({{< var ref-greater-trochanteric-pain-syndrome.path >}}): lateral hip pain that may originate from numerous sources surrounding the greater trochanter [@aptaCurrentConceptsOrthopaedic2024].
+
+- [Gluteus minimus]({{< var ref-gluteus-minimus.tendon >}}) and [medius]({{< var ref-gluteus-medius.tendon >}}) tendons [@aptaCurrentConceptsOrthopaedic2024]
+- Trochanteric bursa [@aptaCurrentConceptsOrthopaedic2024]
+- Proximal ITB [@aptaCurrentConceptsOrthopaedic2024]
+
+
+## PathoMechanism
+
+GTPS is theorized to be an overuse injury due to chronic movement dysfunction of **Hip Adduction** and **IR** due to poor eccentric control [@aptaCurrentConceptsOrthopaedic2024].
+
+An attempt to create stability by sitting into passive structures such as IT band and glute tendons
+
+## Population
+
+::: {.columns}
+::: {.column}
+**Non athlete**
+
+- 40-60 years old
+- Female
+:::
+::: {.column}
+**Athletic**
+
+- High impact
+- Jumping on hard floor
+:::
+:::
+
+## Gluteal tendinopathy
+
+- [Gluteal De-Rotation Provocation Test](#gluteal-de-rotation-test)
+- **Single Leg Stance Provacative Test**: Provocation of lateral hip pain is positive for GTPS secondary to gluteal tendinopathy
+
+
+
+
+# Piriformis Syndrome
+
+[**Piriformis Syndrome**]({{< var ref-piriformis-syndrome.path >}}): Posterior hip pain that is present with radiating pain related to piriformis activation
 
 ---
 
-AD usage
-
-- Use if ambulation exacerbates pain
-- Foot flat > toe-touch or NWB
-
----
-
-Limit Atrophy
-
-- Low-intensity & Pain-free ROM
-- Avoid isoalted hamstring exercises
-
-- Hip AROM
-- Knee AROM
-- Submaximal pain-free hamstring isometrics
-- Transverse Abdominis activation
-- Low-resistance stationary bicycling
-- Side-stepping
-
----
-
-Progression Criteria
-
-- Normal gait pattern
-- Full hip A/PROM
-- Full knee A/PROM
-- Pain-free submaximal hamstring contraction
+::: {.columns}
+::: {.column}
+![Hip and Thigh Muscles @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig11.29 Hip and Thigh Muscles.jpeg){#fig-openstax-fig11.29}
+:::
+::: {.column}
+![Muscles of the gluteal and posterior femoral region @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image434 Muscles of the gluteal and posterior femoral regions.gif){#fig-gray1918-image434}
+:::
+:::
 
 
-## Intermediate phase
 
-Goal: Progressive and restoration
+## Four clinical signs and symptoms
 
----
+- Buttock pain
+- Pain with sitting
+- Tenderness near greater sciatic notch
+- Pain with maneuvers that cause tension of the piriformis
 
-- Increase LE strength
-- Regain pre-injury muscular length
-- Improve lumbopelvic stability
-- Restore neuromuscular control
+## Special Tests
+
+- Active piriformis test
+- Seated piriformis test
 
 
----
 
-Stretching
 
-Avoid Stretching
 
-- Significantly weak muscles
-- The muscle may be unable to protect itself
+<!-- # Hip Dysplasia
 
+
+[**Hip Dysplasia**]({{< var ref-hip-dysplasia.path >}}): [@aptaCurrentConceptsOrthopaedic2024]
+
+
+## Presentation
+
+Often patients compensate for insufficient passive stability by maintianing a position of anterior pelvic tilt to maximize femoral head coverage [@aptaCurrentConceptsOrthopaedic2024].
+
+- Look for associated Iliopsoas and rectus femoris muscle tightness [@aptaCurrentConceptsOrthopaedic2024]
+
+## Treatment
+
+
+Hip dysplasia is an unstable hip with overly-lax or weakened capsuloligamentous structures [@aptaCurrentConceptsOrthopaedic2024].
+
+As a result, treatment should involve a similar approach to hip instability.
 
 ---
 
-Eccentric strengthening
+- Protect structures from instability events
+- Address impairments
+- Optimize function 
+- Prevention of OA
 
-Criteria:
+## OA Prevention
 
-- Good tolerance to rehabilitative exercises
-- &gt;50% contralateral strength
-
-Eccentric is important for rehabilitation and prevention
-
-- a 10-week eccentric hamstring strengthening program reduced 1st time injuries and recurrent injuries by ~85% [@aptaCurrentConceptsOrthopaedic2024]
-
----
-
-Lumbopelvic stability should be included prior to sport-specific training
-
----
-
-Sport-specific training
-
-- No proximal stability deficits
-
-### Late Stage
-
-Criteria
-
-- Tolerance to all current therapeutic activities
-- Symmetrical hamstring flexibility
-- 5/5 manual muscle testing grade or 90% involved versus noninvolved side instrumented strength testing for hamstring muscle
-- No obvious balance deficits
-- No obvious neuromuscular control deficits
-- Ability to jog forward and backward at greater than 50% effort without symptoms
-
----
-
-Gradually expose individual to sport/preinjury activities
-
-Goals:
-
-- Muscle flexibility
-- Strength
-- Neuromuscular control
-- Endurance
-
----
-
-Strength
-
-- Eccentric focus
-    - increasing ROM
-    - resistance
-    - volume
-
-- Deadlifts
-- Single-leg Romanian Deadlifts
-- Nordic Hamstring Curls
-
----
-
-[Nordic hamstring curl]({{< var ref-nordic-hamstring-curl.path >}})
-
-Van der horst found that nordic hamstring curls decreased rate of hamstring injuries in amateur soccer players @aptaCurrentConceptsOrthopaedic2024
-
-
----
-
-Exercise progression
-
-Monitor for symptoms:
-
-- Increase in soreness
-- exacerbation of symptoms
-
-
----
-
-Exercises
-
-- Nordic Hamstring Curl
-
----
-
-RETURN TO SPORT TESTING
-
-- H-test
-
----
-
-H-test
-
-"The H-test has been described as a test to assess return-to-sport-readiness for patients with hamstring muscles injuries.146 Due to the ballistic nature of the test, it should not be used until the patient is asymptomatic and demonstrates normal and symmetrical hamstring muscle strength and flexibility. The test is performed by securing the patient in the supine position with their affected side knee locked in extension (typically by a brace). The patient is then instructed to perform a straight leg raise as fast as possible to the highest point without taking any risk of injury up to 3 consecutive times. The patient is asked to rate their apprehension from 0 (none) to 100 (maximum). Various thresholds of acceptable apprehension have been suggested by sport and level of participation. However, using the presence of any apprehension as an indicator that the athlete required additional rehabilitation before returning to sport, was associated with a significant reduction in reinjury rates when this test was used to guide return to play" @aptaCurrentConceptsOrthopaedic2024
-
-## Greater Trochanteric Pain Syndrome (GTPS)
+ -->
 
 
 
 
 
-# LEFS
+# My Treatment
 
-[Lower Extremity Functional Scale]()
+## Deep Hip Stabilizer Dysfunction
 
+- Femoral head will be pushed forward and be passively resting on hip flexor tendons anteriorly
 
+The long muscles will attempt to perform the job of stabilization.
+Long muscles such as sartorius, TFL, rectus femoris, hip flexors, and hamtrings.
+I think of this similar to dysfunctional <i>deep neck flexors</i> that result in overactive scalenes, upper trapezius, and levator scapulae.
+
+## Prone Hip IR Test
+
+- Prone Hip IR/ER arthrokinematic test
+    - Symmetry
+    - End feel
+    - ROM
+
+## FAddER Contract-Relax
+
+- Supine
+- Hip *flexion*, *adduction*, & *ER*
+- Long axis compression force
+- Have the patient attempt to return the hip to neutral
 
 
 # References
+
+::: {refs}
+:::

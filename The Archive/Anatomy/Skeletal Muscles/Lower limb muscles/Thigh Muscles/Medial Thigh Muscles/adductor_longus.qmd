@@ -85,3 +85,7 @@ According to Brad Jones, the adductor longus flexes up to 50&deg;, but then gene
 
 Although the *adductor longus* and [biceps femoris short head]({{< var ref-biceps-femoris-short-head.origin >}}) both attach at the *linea aspera* and fascially run in the same direction, these do *not* form a line since the [adductor magnus]({{< var ref-adductor-magnus.path >}}) acts as an *intervening plane* @myersAnatomyTrains2021.
 There may be a functional connection through the bone, but there is no connection via the fascia @myersAnatomyTrains2021.
+
+# Palpation
+
+See how to palpate [this muscle along with other adductor muscles here]({{< var ref-hip-adductor-muscle-group.palpation >}}).

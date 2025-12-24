@@ -12,6 +12,16 @@ title: Hip Microinstability
 :::
 
 **Hip Microinstability** is defined as symptoms related to Hypermobility of the hip joint[@aptaCurrentConceptsOrthopaedic2024]
+Dutton defines hip microinstability as an inability to maintain congruency of the femoreal head in the acetabular fossa @duttonDuttonOrthopaedicExamination2020
+
+This incongruency can be the result of:
+
+- Shallow acetabulum @duttonDuttonOrthopaedicExamination2020
+- Excessive femoral anteversion @duttonDuttonOrthopaedicExamination2020
+- Laxity of passives stabilizers (Ehlers Danlos or Marfans @duttonDuttonOrthopaedicExamination2020)
+- Dysfunction of deep hip stabilizers
+
+Microinstability of the hip, defined as the inability to keep the femoral head centered within the acetabular fossa without subluxation of the joint, may occur for a variety of reasons. Factors associated with structural instability of the hip joint include a shallow acetabulum, an excessive femoral anteversion, and in the presence of Ehlers–Danlos, Marfan, or Down syndrome, which all produce generalized laxity
 
 
 Patients with microinstability are hypomobile and have insufficient passive stabilization of the femoroacetabular joint resulting in damage and symptoms due to excessive forces and extreme ROMs [@aptaCurrentConceptsOrthopaedic2024].
@@ -21,6 +31,10 @@ If a patient has global hypermobility then all joints should be taken into consi
 
 
 "Microinstability of the hip is defined as supraphysiologic hip motion that causes pain or discomfort with or without subjective unsteadiness of the joint, and it is believed to be caused by soft tissue injury or loss and/or bony deficiency related to developmental dysplasia of the hip, connective tissue disorders, trauma, idiopathic causes, and iatrogenic causes [36]. Another group of patients prone to microinstability is those with borderline dysplasia who may have labral hypertrophy[37]. One of the most pertinent iatrogenic causes to consider is after hip arthroscopy, as patients may have a deficient hip capsule, leading to increased motion [38]. Physical exam is key to the understanding of this process, as microinstability is a dynamic process, which is not easily diagnosed on static imaging modalities. Ultrasound imaging of the hip has shown promise in its ability to reliably and affordably assess microinstability of the hip" @wongPhysicalExaminationHip2022
+
+# Etiology
+
+- [Ligamentum Teres]({{< var ref-ligamentum-teres.path >}}) tears @duttonDuttonOrthopaedicExamination2020
 
 # Presentation
 

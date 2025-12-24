@@ -1,0 +1,17 @@
+---
+title: Pelvic Pain
+---
+
+
+::: {.callout}
+
+- Ch64 Pelvic pain in females @ballantyneBonicasManagementPain2019
+- Ch65 Pelvic Pain in males
+
+:::
+
+
+
+# Referred Pain
+
+The [Soleus muscle's referred pain pattern]({{< var ref-soleus.referred-pain-pattern >}}) includes the SIJ joint @donnellyTravellSimonsSimons2019.

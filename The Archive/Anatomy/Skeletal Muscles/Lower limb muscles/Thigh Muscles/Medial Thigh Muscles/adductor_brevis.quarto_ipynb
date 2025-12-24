@@ -24,7 +24,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "e0d16cd5"
+      "id": "e2cadae9"
     },
     {
       "cell_type": "code",
@@ -95,9 +95,13 @@
         "According to Brad Jones, the adductor brevis is a hip flexor until 50&deg; Hip flexion, at which point it acts as a hip extensor @jonesProjectFoundations2025.\n",
         ":::\n",
         "\n",
-        "# Overview"
+        "# Overview\n",
+        "\n",
+        "# Palpation\n",
+        "\n",
+        "See how to palpate [this muscle along with other adductor muscles here]({{< var ref-hip-adductor-muscle-group.palpation >}})."
       ],
-      "id": "1db85603"
+      "id": "7bca5e02"
     }
   ],
   "metadata": {

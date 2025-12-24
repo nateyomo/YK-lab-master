@@ -29,7 +29,7 @@
         "\n",
         "# Motor Innervation\n"
       ],
-      "id": "279c4fd0"
+      "id": "e4ac5c7f"
     },
     {
       "cell_type": "code",
@@ -106,9 +106,12 @@
         "# Examination\n",
         "## Deep Tendon Reflex\n",
         "\n",
-        "- Patella reflex (L2, L3, L4, but predominantly L4)"
+        "- Patella reflex (L2, L3, L4, but predominantly L4)\n",
+        "\n",
+        "## Neural Tension\n",
+        "The [Active Slump Test]({{< var ref-active-slump-test.path >}}) applies a neural tension on the [Sciatic n.]({{< var ref-sciatic-nerve.path >}}) and the [L4]({{< var ref-nerve-root.l4 >}}) and [L5]({{< var ref-l4-nerve-root.path >}}) @aptaCurrentConceptsOrthopaedic2024"
       ],
-      "id": "e1202a7f"
+      "id": "db4f47d8"
     }
   ],
   "metadata": {

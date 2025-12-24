@@ -45,7 +45,7 @@
         "\n",
         "# Muscular attachments\n"
       ],
-      "id": "8ea63d4b"
+      "id": "5aab1ca3"
     },
     {
       "cell_type": "code",
@@ -152,7 +152,7 @@
         "\n",
         "- [Scapholunate Shear Test]({{< var ref-scapholunate-shear-test.path >}})"
       ],
-      "id": "ef9ce322"
+      "id": "874e180e"
     }
   ],
   "metadata": {

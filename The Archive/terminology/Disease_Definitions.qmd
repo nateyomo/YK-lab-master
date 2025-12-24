@@ -1,0 +1,168 @@
+---
+title: Nomenclature
+---
+
+- Symptom
+    - Cause
+    - Source
+- Sign
+- Phenomena
+- Character
+- Type
+- Severity
+- Damage
+- Loss
+- Course
+- Duration
+
+
+- Complex: A group of items that are *interrelated* 
+- Array: A list of items that are not necessarily interrelated
+- Collection: 
+    - Collector implies someone or something does collecting
+- Aggregate
+    - Aggregator
+
+
+- Spectrum
+- Binary
+- Boolean
+
+- Possible
+- Probable
+- Odds
+- Confidence
+
+- Physical
+- Neurological
+- Psychogenic
+- Inherited
+- Acquired
+- Congenital
+- Genetic
+
+
+- Dysfunction
+
+- Condition
+- Disorder
+- Injury
+- Impairment
+- Deficit
+
+- Illness ("i *feel* ill")
+- [Syndrome](#syndrome)
+- Pathology
+- [Disease](#disease)
+
+
+- Presentation
+- Manifestation
+- Etiology
+- Epidemiology
+- Risk factor
+- Predisposition
+
+- Examination
+- Evaluation
+
+- [Diagnosis](#diagnosis)
+- Provisional diagnosis
+- Differential diagnosis
+
+- Category
+- Class
+
+# Essentialist vs Nominalist Definitions
+
+## Nominalist
+"nominalist approach the nature of an illness is decided by reference to a biomedical norm and the names are convenient devices by which the diagnostic process can be stated briefly."
+"Thus meningococcal meningitis combines two diagnostic categories: meningococcal defines aetiology and cause, while meningitis defines the morbid anatomy"
+
+"Nominalist definitions do not attempt the impossible task of revealing the essence of the condition defined but indicate how words relate to observable phenomena."
+
+## Essentialist
+
+"Essentialism is based on the Aristotelian notion that natural organisms show an invariant general pattern or essence shared by all members of the group.24 ‘He is sick with a cold’ recognises the general state of being ill and a vague cause which is generally understood in lay terms" 
+
+The inherent ambiguity of essentialism is not useful in science, and we should use *nominalist* terminology in medical discourse @pearceDiseaseDiagnosisSyndrome2011
+
+# Disease
+
+Disease has had many definitions since its inception in the 14th century [@pearceDiseaseDiagnosisSyndrome2011]
+
+What does it truly refer to?
+
+- Descriptive or syndromal (eg, sarcoidosis) @pearceDiseaseDiagnosisSyndrome2011
+- Morbid–anatomical (eg, cancer) @pearceDiseaseDiagnosisSyndrome2011
+- Pathophysiological (eg, asthma) @pearceDiseaseDiagnosisSyndrome2011
+- Etiological (eg, tuberculosis) @pearceDiseaseDiagnosisSyndrome2011
+
+A disease is merely a *concept* which is only useful if it effectively frameworks, organizes, and explains the complexity of a clinical experience in order for the clinician or another clinician to make an accurate prognosis or choose an effective treatment @calvoDiagnosesSyndromesDiseases2003
+
+
+We can use context to help define what is a *disease*.
+A *disease process* needs an **etiology**, **pathophysiology**, and **Signs and Symptoms** @lenkaWeBelittleEssential2020.
+Therefore a disease must be defined by those 3 items at minimum @lenkaWeBelittleEssential2020.
+
+**Disease**: A process of deterioration that has a specific *etiology*, *pathogenesis*, and *signs & symptoms* @lenkaWeBelittleEssential2020
+||Etiology|Pathogenesis|Signs & Symptoms|
+|-|-|-|-|
+|**Syndrome**|Unknown|Unknown|&check;|
+|**Disease**|&check;|&check;|&check;|
+
+# Syndrome
+
+Syndrome comes from Greek *syn-* (together) and *-dromus* (a course) which can be taken literally as "running together" or "concurrence" 
+
+- is it a concept
+
+**Syndrome**: A *recognizable* group of signs and symptoms which indicate a *specific* condition for which a direct cause is **not** understood @calvoDiagnosesSyndromesDiseases2003
+
+||Etiology|Pathogenesis|Signs & Symptoms|
+|-|-|-|-|
+|**Syndrome**|Unknown|Unknown|&check;|
+|**Disease**|&check;|&check;|&check;|
+
+For example doctors will commonly use the phrase "viral syndrome" when they are uncertain which *specific* viral agent is causing the illness @calvoDiagnosesSyndromesDiseases2003.
+
+Once the clinician or medical science identify the causative *agent* or *process* with high certainty, the process should be replaced with a **disease** label @calvoDiagnosesSyndromesDiseases2003.
+
+For example "Kawasaki Syndrome" was upgraded to "Kawasaki Disease" when its diagnostic features, progression, and response to treatment was clearly defined @calvoDiagnosesSyndromesDiseases2003.
+
+
+
+
+# Diagnosis
+
+- verb: Diagnose
+- Opposite: misdiagnosis
+- lack: no diagnosis
+
+| Part        | Meaning   | Origin                          |
+|-------------|-----------|---------------------------------|
+| **dia-**    | through   | Greek &delta;&iota;&alpha; (**διά**) |
+| **-gnosis** | knowledge | Greek &gamma;&nu;&omega;&sigma;&iota;&sigmaf; (**γνῶσις**) |
+
+
+Diagnosis implies the distinction of illness or disease from health @pearceDiseaseDiagnosisSyndrome2011
+
+Diagnosis can be broken into 3 levels:
+
+1. Category or class of disorder (e.g. neuromuscular disorder) @pearceDiseaseDiagnosisSyndrome2011
+1. Specifies the subject (eg, 30-year-old female) to be diagnosed @pearceDiseaseDiagnosisSyndrome2011
+1. More specific reaoned categorisation (autoimmune myasthenia gravis) @pearceDiseaseDiagnosisSyndrome2011
+
+What can be diagnosed?
+
+- Described and recognisable combination of signs and symptoms and signs (i.e. vomiting and diarrhea) @pearceDiseaseDiagnosisSyndrome2011
+- Phenomena associated with a specified pathology or disorder of function (i.e. inflammation with altered gastrointestinal motility) @pearceDiseaseDiagnosisSyndrome2011
+- A specific *cause* or *causes* (i.e. bacillary dysentery or cholera) @pearceDiseaseDiagnosisSyndrome2011
+
+
+A *Diagnosis* can be defined as a hypothesis to describe a patient, their presentation, and the cause
+
+
+# Symptoms 
+
+# Signs

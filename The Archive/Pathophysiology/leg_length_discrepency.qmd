@@ -2,7 +2,11 @@
 title: Leg Length Discrepency (LLD)
 ---
 
+::: {.callout}
 
+- Ch29 @duttonDuttonOrthopaedicExamination2020
+
+:::
 
 # Orthotics
 

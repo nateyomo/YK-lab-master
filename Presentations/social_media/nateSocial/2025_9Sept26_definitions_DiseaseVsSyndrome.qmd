@@ -1,0 +1,162 @@
+---
+title: "Terminology Syndrome vs Disease"
+
+format:
+    revealjs:
+        slide-number: false
+        preview-links: auto
+        width: 1080       # TikTok/Instagram portrait width
+        height: 1920      # TikTok portrait height
+        margin: 0.05      # adjust spacing
+        center: true
+        css: "../socialmedia.css"
+        footer: '<a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/" target="_blank" style="position: fixed; bottom: 200px; left: 50%; transform: translateX(-50%);"><img src="/branding/Yomokerst/yomokerst heavy condensed black.png" alt="Logo" style="height: 40px;"></a>'
+---
+
+# Syndrome v. Disease
+
+
+Do you know the difference?
+
+
+
+## Conceptual Frameworks
+
+**Diseases** and **syndromes** are concepts whose only purpose is to framework, organize, and explain the complexity of a clinical experience @pearceDiseaseDiagnosisSyndrome2011
+
+
+## Well-Defined Language Improves treatment
+
+Using specific and intentional language, allows a clinician to create a more accurate prognosis and more effective treatment @pearceDiseaseDiagnosisSyndrome2011
+
+
+<!-- 
+- Improve transfer from literature to patient
+- Help your own understanding of what to do next
+- Help the next clinician know what to do next 
+-->
+
+## Poorly defined language
+
+If we cannot clearly define these concepts, our attempts to communicate important patient information will only add more ambiguity and uncertainty into the patient's plan of care.
+
+::: {.columns}
+::: {.column}
+&uarr; Ambiguity </br>
+&uarr; Uncertainty </br>
+&uarr; Assumptions </br>
+:::
+::: {.column}
+&darr; Quality of car </br>
+&darr; Patient outcomes </br>
+:::
+:::
+
+
+---
+
+## So... What does a disease or syndrome refer to?
+
+Is it a certain Etiology? Pathogenesis? Clinical presentation? or All of the above?
+
+# Syndrome
+
+A **state** of deterioration
+
+<!-- *syn-* (together) and *-dromus* (a course) -->
+
+## Syndrome: Literal meaning
+
+Greek *syn-* (together) and *-dromus* (a course) can be taken literally as "running together" or "concurrence" 
+
+---
+
+We can apply this to a ***medical* syndrome** and define it as certain *signs and symptoms* that *run together* as a **clinical presentation**
+
+---
+
+## Definition
+
+**Syndrome**: A *recognizable* group of signs and symptoms which indicate a *specific* condition for which a direct cause is **not** understood @calvoDiagnosesSyndromesDiseases2003
+
+# Disease
+
+A **process** of deterioration @lenkaWeBelittleEssential2020
+
+
+---
+
+<!-- 
+## Disease: Context
+
+
+We can use context to help define what is a **disease**:
+
+Where there is a **disease** there is also a **disease process**.
+
+
+
+-->
+
+
+A **process** by definition needs a **start**, **middle**, and **end**
+
+|Start|Middle|End|
+|-|-|-|
+|Etiology|Pathogenesis|Signs & Symptoms|
+
+
+---
+
+## Definition
+
+**Disease**: A process of deterioration that has a specific *etiology*, *pathogenesis*, and *signs & symptoms* @lenkaWeBelittleEssential2020
+
+
+<!-- These can be broken down into needs an **etiology**, **pathophysiology**, and **Signs & Symptoms** @lenkaWeBelittleEssential2020. -->
+
+---
+
+<h1>Syndrome Vs Disease</h1>
+
+</br>
+
+||Etiology|Pathogenesis|Signs & Symptoms|
+|-|-|-|-|
+|**Syndrome**|Unknown|Unknown|&check;|
+|**Disease**|&check;|&check;|&check;|
+
+## Treatment
+
+Since a **syndrome** outlines a clinical presentation *without* a mechanism, its treatment plan focuses on **managing signs and symptoms** @lenkaWeBelittleEssential2020
+
+</br>
+
+A **disease** specifies the mechanism of disorder, the treatment can effect the **underlying mechanism** @lenkaWeBelittleEssential2020
+
+## Example: Viral Syndrome
+
+Physicians use "viral **syndrome**" when they are **uncertain** which specific viral agent is causing the illness @calvoDiagnosesSyndromesDiseases2003
+
+</br>
+
+Once the specific viral agent is identifed, it should be labeled as "_____ **disease**" @calvoDiagnosesSyndromesDiseases2003
+
+## Example: Kawasaki Syndrome &rarr; Disease
+
+
+When there was **limited knowledge** about Kawasaki Disease, the clinical signs and symptoms were referred to as "Kawasaki **Syndrome**" @calvoDiagnosesSyndromesDiseases2003.
+
+</br>
+
+As understanding progressed and its *etiology*, *pathogenesis*, and *clinical presentation* were clearly defined, it was then upgraded to "Kawasaki **Disease**" @calvoDiagnosesSyndromesDiseases2003
+
+
+## References
+
+</br>
+</br>
+</br>
+
+::: {refs}
+:::

@@ -1,0 +1,362 @@
+---
+title: "Effect of integrated neuromuscular inhibition  technique compared with positional release  technique in the management of piriformis  syndrome"
+subtitle: Journal Club
+---
+@danazumiEffectIntegratedNeuromuscular2021
+
+
+In 2021 conducted a single-blind [randomized clinical trial]()
+
+
+
+# Methods
+
+- Ethics: Declaration of Helsinki Guidelines
+- Date (DD-MM-YYYY)
+    - 11-11-2019
+    - 12-10-2020
+- Location: ?Nguru, Yobe State, Nigeria?
+
+
+## Blinding
+
+- "single blind"
+    - Patients: Blinded
+    - Investigators: Not blinded
+    - Outcome assessors: Blinded
+
+## Sampling
+
+- Calculated sample size: 40 total (20 per group)
+    - Tail (1)
+    - Probability level (α―0.05)
+    - Power (p―0.8)
+    - Effect size (d―0.82)
+    - Allocation ratio (N2/N1―1) for t-test of difference between two independent means (two groups)
+- Expected attrition rate: 20%
+- Final sample: 48 participants
+- Sampling method: Consecutive
+
+## Eligibility
+
+- Age: &ge;19 years old
+- Diagnosis: Leg or buttock pain based on Physiotherapist diagnosis using the [*diagnostic criteria*](#diagnosis-criteria)
+- Chronic: &ge;3 months
+
+### Diagnosis Criteria
+
+1. Unilateral buttock pain and radiculopathy due to spasms of the piriformis muscle or sciatic nerve compression
+1. Buttock pain aggravated when sitting
+1. External tenderness near the greater sciatic notch and pain with any maneuver including: Freiberg sign, Beatty test, and FAIR Test
+1. Limited straight leg raising ability
+
+## Exclusion Criteria
+
+1. Psychiatric conditions that would have made it difficult to provide consent which was decide3d using using Mini-Mental State Examinations
+1. Any pathology or recent injury around the hip, sacroiliac joint, or lumbar spine
+1. Limb length discrepancy (LLD)
+1. Recent buttock trauma and bladder/bowel dysfunction
+1. Sciatica or lumbar radiculopathy for reasons other than the piriformis: *Deep gluteal syndrome* or Extrapelvic compression of the sciatic nerve or sacral plexus including sciatic neuritis due to *gamelli-obturator internus syndrome*, pudendal nerve compression, increased mechanical stress on the innominate bones, compression of the fibular branch of the sciatic nerve, bursitis, hip impingement, upper hamstrings tendinitis, or referred gastrointestinal pain, referred pelvic pain
+
+
+## Demographics
+
+There was no official statement on ethnicity or race of the participants but they were all sampled from 
+
+- Age
+    - &lt;35yo n=34
+    - &ge;40yo  n=7
+- Gender
+    - male n=39
+    - female n=9
+
+
+## Outcomes assesment
+
+- Pain
+- Sciatica via [*sciatica bothersome index (SBI)*]({{< var ref-sciatica-bothersome-index.path >}})
+- Functional Mobility: TUG
+- Quality of Life: SF-36
+- Hip Abduction: Goniometry
+- Hip Internal Rotation
+
+## Medication
+
+Participants were asked to suspend all pain medication during the trial.
+
+## Compliance
+
+Compliance was monitored via monthly phone calls.
+
+# Treatment
+
+- 2x/wk for 8 weeks
+- 2 physiotherapists
+    - PT#1 6 years of experience
+    - PT#2 10 years of experience
+- PTs switch after 4 weeks
+- Patients received stretching exercises at the clinic and given an HEP to take home
+
+## INIT Treatment
+
+## Positional Release Technique
+
+
+## Stretching Exercises
+
+- Piriformis Stretching
+- Hamstring/Calf Stretching
+
+# Statistical Analysis
+
+- Shapiro-Wilk test was used to assess the normality of the data
+- Levene test was used to assess the homogeneity of variances among groups
+- Independent t-test was used to compare measurable outcomes at baseline
+- A 2-way Repeated measures Analysis of Variance (ANOVA) was used to measure the effect of INIT and PRT on pain, sciatica, functional mobility, and quality of life
+    - Between Subject Variable: the interventions (INIT and PRT)
+    - Within-Subject variable: Time (baseline, immediately posttreatment, and 4 months posttreatment) 
+- Differences between the means were considered at a 5% probability level (p<0.05) and the confidence interval (CI) value was set at 95%
+
+
+# Results
+
+## Pain (VAS)
+
+
+
+<!-- VAS_INIT_Baseline_value = 7.14
+VAS_INIT_Baseline_sd = 1.43
+VAS_INIT_ImmediatePostTreatment_value = 2.11
+VAS_INIT_ImmediatePostTreatment_sd = 0.11
+VAS_INIT_4monthPostTreatment_value = 
+VAS_INIT_4monthPostTreatment_sd = 
+
+VAS_INIT_withinGroupChange_Baseline_vs_ImmediatePostTreatment_value = 5.03
+VAS_INIT_withinGroupChange_Baseline_vs_ImmediatePostTreatment_sd = 1.22
+VAS_INIT_withinGroupChange_ImmediatePostTreatment_vs_4monthPostTreatment_value = 1.77
+VAS_INIT_withinGroupChange_ImmediatePostTreatment_vs_4monthPostTreatment_sd = 0.23
+
+
+
+VAS_PRT_Baseline_value = 6.98
+VAS_PRT_Baseline_sd = 2.92
+VAS_PRT_ImmediatePostTreatment_value = 3.41
+VAS_PRT_ImmediatePostTreatment_sd = 0.32
+VAS_PRT_4monthPostTreatment_value = 
+VAS_PRT_4monthPostTreatment_sd = 
+
+
+VAS_PRT_withinGroupChange_Baseline_vs_ImmediatePostTreatment_value = 3.56
+VAS_PRT_withinGroupChange_Baseline_vs_ImmediatePostTreatment_sd = 1.68
+VAS_PRT_withinGroupChange_ImmediatePostTreatment_vs_4monthPostTreatment_value = 1.86
+VAS_PRT_withinGroupChange_ImmediatePostTreatment_vs_4monthPostTreatment_sd = 0.77 -->
+
+
+```{r custom_theme}
+# Custom theme definition
+theme_vas <- function() {
+  theme_minimal(base_size = 14) +
+    theme(
+      legend.position = "top",
+      plot.title = element_text(face = "bold", hjust = 0.5),
+      axis.title.x = element_text(margin = margin(t = 10)),
+      axis.title.y = element_text(margin = margin(r = 10))
+    )
+}
+
+```
+
+
+```{r fig-vas}
+#| echo: false
+#| warning: false
+#| message: false
+#| label: fig-vas
+
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+
+# Put your data into a tidy frame
+vas_data <- tribble(
+  ~Group, ~Time, ~Mean, ~SD,
+  "INIT", "Baseline", 7.14, 1.43,
+  "INIT", "Immediate Post", 2.11, 0.11,
+  "INIT", "4-month Post", 0.34, 0.02,
+  "PRT",  "Baseline", 6.98, 2.92,
+  "PRT",  "Immediate Post", 3.41, 0.32,
+  "PRT",  "4-month Post", 1.56, 0.11
+)
+
+# Make sure Time is ordered
+vas_data <- vas_data %>%
+  mutate(Time = factor(Time, 
+                       levels = c("Baseline", "Immediate Post", "4-month Post")))
+
+# Plot
+ggplot(vas_data, aes(x = Time, y = Mean, 
+                     group = Group, color = Group)) +
+  geom_line(linewidth = 1) +
+  geom_point(size = 3) +
+  geom_errorbar(aes(ymin = Mean - SD, ymax = Mean + SD), 
+                width = 0.1, linewidth = 0.7) +
+  scale_color_manual(values = c("INIT" = "#1f77b4", "PRT" = "#ff7f0e")) +
+  labs(
+    title = "VAS Scores Over Time",
+    y = "VAS (mean ± SD)",
+    x = "Time Point"
+  ) +
+  theme_vas()
+
+
+
+
+```
+
+
+## Sciatica Bothersome Index
+```{r fig-sbi}
+#| echo: false
+#| warning: false
+#| message: false
+#| label: fig-sbi
+
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+
+# Put your data into a tidy frame
+sbi_data <- tribble(
+  ~Group, ~Time, ~Mean, ~SD,
+  "INIT", "Baseline", 21.65, 4.51,
+  "INIT", "Immediate Post", 9.33, 2.03,
+  "INIT", "4-month Post", 2.11, 1.02,
+  "PRT",  "Baseline", 20.58, 5.17,
+  "PRT",  "Immediate Post", 13.72, 2.22,
+  "PRT",  "4-month Post", 5.98, 1.77
+)
+
+# Make sure Time is ordered
+sbi_data <- sbi_data %>%
+  mutate(Time = factor(Time, 
+                       levels = c("Baseline", "Immediate Post", "4-month Post")))
+
+# Plot
+ggplot(sbi_data, aes(x = Time, y = Mean, 
+                     group = Group, color = Group)) +
+  geom_line(linewidth = 1) +
+  geom_point(size = 3) +
+  geom_errorbar(aes(ymin = Mean - SD, ymax = Mean + SD), 
+                width = 0.1, linewidth = 0.7) +
+  scale_color_manual(values = c("INIT" = "#1f77b4", "PRT" = "#ff7f0e")) +
+  labs(
+    title = "SBI Scores Over Time",
+    y = "SBI (mean ± SD)",
+    # x = "Time Point"
+  ) +
+  theme_vas()
+
+
+
+
+```
+
+
+## Timed Up-and-Go
+
+```{r fig-tug}
+#| echo: false
+#| warning: false
+#| message: false
+#| label: fig-tug
+
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+
+# Put your data into a tidy frame
+tug_data <- tribble(
+  ~Group, ~Time, ~Mean, ~SD,
+  "INIT", "Baseline", 45.68, 4.33,
+  "INIT", "Immediate Post", 17.61, 2.45,
+  "INIT", "4-month Post", 6.54, 1.79,
+  "PRT",  "Baseline", 46.11, 4.81,
+  "PRT",  "Immediate Post", 23.02, 2.64,
+  "PRT",  "4-month Post", 11.33, 2.06
+)
+
+# Make sure Time is ordered
+tug_data <- tug_data %>%
+  mutate(Time = factor(Time, 
+                       levels = c("Baseline", "Immediate Post", "4-month Post")))
+
+# Plot
+ggplot(tug_data, aes(x = Time, y = Mean, 
+                     group = Group, color = Group)) +
+  geom_line(linewidth = 1) +
+  geom_point(size = 3) +
+  geom_errorbar(aes(ymin = Mean - SD, ymax = Mean + SD), 
+                width = 0.1, linewidth = 0.7) +
+  scale_color_manual(values = c("INIT" = "#1f77b4", "PRT" = "#ff7f0e")) +
+  labs(
+    title = "SBI Scores Over Time",
+    y = "TUG (mean ± SD)",
+    # x = "Time Point"
+  ) +
+  theme_vas()
+
+
+
+
+```
+
+
+## SF-36
+
+
+```{r fig-sf36}
+#| echo: false
+#| warning: false
+#| message: false
+#| label: fig-
+
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+
+# Put your data into a tidy frame
+sf36_data <- tribble(
+  ~Group, ~Time, ~Mean, ~SD,
+  "INIT", "Baseline", 35.32, 2.76,
+  "INIT", "Immediate Post", 77.98, 3.51,
+  "INIT", "4-month Post", 91.04, 4.33,
+  "PRT",  "Baseline", 37.01, 2.42,
+  "PRT",  "Immediate Post", 63.41, 3.69,
+  "PRT",  "4-month Post", 79.61, 4.67
+)
+
+# Make sure Time is ordered
+sf36_data <- sf36_data %>%
+  mutate(Time = factor(Time, 
+                       levels = c("Baseline", "Immediate Post", "4-month Post")))
+
+# Plot
+ggplot(sf36_data, aes(x = Time, y = Mean, 
+                     group = Group, color = Group)) +
+  geom_line(linewidth = 1) +
+  geom_point(size = 3) +
+  geom_errorbar(aes(ymin = Mean - SD, ymax = Mean + SD), 
+                width = 0.1, linewidth = 0.7) +
+  scale_color_manual(values = c("INIT" = "#1f77b4", "PRT" = "#ff7f0e")) +
+  labs(
+    title = "SF-36 Scores Over Time",
+    y = "SF-36 (mean ± SD)",
+    # x = "Time Point"
+  ) +
+  theme_vas()
+
+
+
+
+```
+

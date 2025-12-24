@@ -93,6 +93,11 @@ In normal function, the hamstrings *react* to the ground reaction forces to *con
 This is a summary of the teachings of the gray institute, but a literature review is needed to determine if the hamstrings are more reactive controllers of knee flexion
 :::
 
+# Muscle Length Tests
+
+- [Passive Straight Leg Raise Test]({{< var ref-passive-straight-leg-raise-test.path >}})
+- [90-90 Straight Leg Raise Test]({{< var ref-9090-active-straight-leg-raise-test.path >}})
+
 # Exercise
 
 A reverse lunge with the arms driving into trunk flexion is a way to functionally target the hamstrings, since it starts from an upright position, is in the closed kinetic chain, and requires *controlled* knee flexion and hip extension since the arms drive the center of mass anterior and inferior resulting in a hip flexion and knee extension torque.

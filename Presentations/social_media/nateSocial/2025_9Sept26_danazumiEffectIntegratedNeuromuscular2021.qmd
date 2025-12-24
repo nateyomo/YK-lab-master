@@ -1,0 +1,177 @@
+---
+title: "Social media: danazumiEffectIntegratedNeuromuscular2021"
+subtitle: Subtitle
+author: 
+- id: NGY
+  number: 1
+  name: 
+    given: Nate
+    family: Yomogida
+#   email: "nate.yomogida.pt@gmail.com"
+  url: "https://yomokerst.com/about.html#ngy"
+  affiliation:
+    - Doctor of Physical Therapy
+  
+format:
+    revealjs:
+        slide-number: false
+        preview-links: auto
+        width: 1080       # TikTok/Instagram portrait width
+        height: 1920      # TikTok portrait height
+        margin: 0.05      # adjust spacing
+        center: true
+        css: "../socialmedia.css"
+        footer: '<a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/" target="_blank" style="position: fixed; bottom: 200px; left: 50%; transform: translateX(-50%);"><img src="/branding/Yomokerst/yomokerst heavy condensed black.png" alt="Logo" style="height: 40px;"></a>'
+---
+
+<!-- # *Positonial Release Technique* VS *Integrated Neuromuscular Inhibition Technique* -->
+
+# What Manual Therapy technique is best for Sciatica?
+
+Can the traditional PRT treatment beat the new maximalist approach of INIT?
+
+<!-- Can this jack-of-all-trades technique outperform the traditional PRT technique? -->
+
+
+---
+
+Danazumi et al set out to find an answer in 2021
+
+Is ***positional release technique*** or ***integrated neuromuscular inhibition technique*** better for improving pain, symptoms, and quality of life for patients with ***Piriformis Syndrome***?
+
+---
+
+## Piriformis Syndrome
+
+[**Piriformis Syndrome**]():{{< var ref-piriformis-syndrome.definition >}}
+
+Piriformis Syndrome can result in sciatica by directly compressing the sciatic nerve
+
+## Positional Release Technique
+
+**Positional Release Technique (PRT)**: An osteopathic manipulation where trigger points are identified, compressed to ischemia until pain is produced, the muscle is slackened, which deactivates the trigger point
+
+## Integrated Neuromuscular Inhibition Technique
+
+
+
+Integrated Neuromuscular Inhibition Technique (INIT) uses a maximalist approach by attempting to combine the *muscle energy technique* and the *PRT* to reap the benefits of both.
+
+
+
+**Integrated Neuromuscular Inhibition Technique (INIT)**: 
+
+- Neuromuscular technique for deactivating trigger points in muscles involving ischemic compression of a trigger point, while bringing the muscle into a slackened positioned, followed by an isometrically enhanced stretch @chaitowModernNeuromuscularTechniques2003
+
+INIT has a three pronged approach: 
+
+1. Inhibition/ischaemic compression
+1. Positional release
+1. Isometrically enhanced stretch
+
+- inhibitory (ischaemic) compression until a change is reported or noted
+- placing of the tissues into a position of ease, to encourage a muscle spindle release of excessive tone (see descriptions of 'positional release' below)
+- introduction by the patient of an isometric contraction of the precise tissues housing the trigger point 
+- passive stretching of the local tissues active and passive stretching of the entire muscle (subsequent to another isometric contraction) (see notes on muscle energy technique (MET) below)
+- activation of antagonists to muscle housing the trigger point may be used to complete the sequence.
+
+
+## PRT vs INIT: Treatment Approach
+
+|PRT|INIT|
+|-|-|
+|Ischemic compression|Ischemic compression|
+|Slacken muscle|Slacken Muscle|
+|
+
+## Piriformis Technique
+
+
+|PRT|INIT|
+|-|-|
+|60-90&deg; hip flexion and abduction|60-90&deg; hip flexion and abduction|
+| Light trigger point compression|20-60s trigger point compression|
+|Wait until pain subsides|Wait until pain subsides|
+||Actively move *away* from restriction barrier with 20% strength to create isometric contraction 7-10s|
+||Rapid pulsating contractions 20x in 10s|
+
+## Dosage
+
+|PRT|INIT|
+|-|-|
+|3 reps | 3 reps|
+|10min|10min|
+
+## Sampling
+
+Danazumi took 48 adults from Nguru, Nigeria
+
+- Mostly between 18-35
+- Male > Female
+- 
+
+### Eligibility
+
+
+
+
+## Methods
+
+- Single blind
+- RCT
+- 2 sessions/week for 8 weeks
+
+
+## Treatment
+
+- 2x/wk for 8 weeks
+- 2 physiotherapists
+    - PT#1 6 years of experience
+    - PT#2 10 years of experience
+- PTs switch after 4 weeks
+- Patients received stretching exercises at the clinic and given an HEP to take home
+
+- Piriformis muscle trigger point: Piriformis muscle belly (halfway between inferior lateral angle of sacrum and greater trochanter)
+- 3 repetition of treatment over 10min
+
+
+
+
+
+
+## Stretching
+
+The stretching exercises consisted of 3 repetitions of each exercise for 5 minutes at the end of each clinical visit.
+
+The exercises were provided as an HEP for prescribed at 2x/wk.
+
+Piriformis, hamstring, and calf stretching.
+
+## Demographics 
+
+- n=48
+- age: 25-47
+
+- Between-group: p&gt;0.05
+
+## Results
+
+Repeated measures ANOVA
+
+- Time-effect for *all* outcomes: Significant (p&lt;0.001)
+  - In short: everyone improved
+
+But what is **better**, PRT or INIT?
+
+- Between group Time and Intervention effects via *Bonferroni post hoc analyses*:
+  - Post treatment
+  - 4mo follow-up
+
+
+
+## Limitations
+
+- No control group
+  - Did stretching have an impact?
+
+
