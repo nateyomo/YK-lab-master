@@ -56,6 +56,73 @@ title: Vestibular Physical Therapy
 ![@OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig14.21 Vestibulo-ocular Reflex.png)
 
 
+# Anatomy
+
+
+# Arterial Supply
+
+
+The inner ear is primarily receives oxygenated blood from the labyrinthine artery @standringGraysAnatomyAnatomical2021.
+In addition, the semicircular canals are supplied from the *stylomastoid branch* from either the *occipital artery* or the *posterior auricular artery* @standringGraysAnatomyAnatomical2021.
+
+
+# Lymphatic and Venous System
+
+::: {.callout}
+
+- For details of the microvasculature of the cochlea of humans and other mammals, see Axelsson (1988) @standringGraysAnatomyAnatomical2021
+- @susaiTrackingLymphaticDrainage2024
+- Wright CG, Roland PS. Vascular trauma during cochlear implantation: a contributor to residual hearing loss?. Otol Neurotol. 2013;34(3):402-407. doi:10.1097/MAO.0b013e318278509a
+
+:::
+
+- Vein of Vestibular Aqueduct @standringGraysAnatomyAnatomical2021
+- Vein of the cochlear Aqueduct (Inferior cochlear vein) @standringGraysAnatomyAnatomical2021
+- Common modiolar veins @standringGraysAnatomyAnatomical2021
+- Vestibulocochlear veins @standringGraysAnatomyAnatomical2021
+- Anterior spiral vein
+- Posterior spiral vein
+- Posterior vestibular vein
+- Anterior vestibular vein
+- Vein of the round window
+
+It should be noted that venous drainage of the inner ear has not reached a consensus @standringGraysAnatomyAnatomical2021.
+This is likely due to anatomical variation @standringGraysAnatomyAnatomical2021.
+
+
+The veins that drain the vestibule and semicircular canals travel with the arteries @standringGraysAnatomyAnatomical2021.
+These veins pass towards the utricle and to create the *vein of the vestibular aqueduct* @standringGraysAnatomyAnatomical2021
+
+- Vein of vestibular aqueduct
+    - Drains into the *sigmoid sinus* or *inferior petrosal sinus* @standringGraysAnatomyAnatomical2021
+
+
+- Vestibulocochlear vein
+    - Originates from the confluence of the *anterior vestibular vein* and *posterior vestibular veins* and the *vein of the round window*
+    - Joins *common modiolar vein* to form and drain into the *Inferior cochlear vein* @standringGraysAnatomyAnatomical2021
+
+
+- Vein of the cochlear Aqueduct (Inferior cochlear vein)
+    - Originates from union *common modiolar vein* and *vestibulocochlear vein* @standringGraysAnatomyAnatomical2021
+    - Drains into *inferior petrosal sinus* or *superior bulb of the internal jugular vein* @standringGraysAnatomyAnatomical2021
+
+- Common modiolar vein
+    - Originates from the union of the *anterior spiral vein* and *posterior spiral vein* @standringGraysAnatomyAnatomical2021
+    - Unionizes with the *Vestibulocochlear v.* to become and drain into the *Inferior cochlear vein* @standringGraysAnatomyAnatomical2021
+    - Begins near the basal cochlear turn @standringGraysAnatomyAnatomical2021
+
+- Labyrinthin vein
+    - note: not always present @standringGraysAnatomyAnatomical2021
+    - Drains the apical cochlear coil and middle cochlear coil
+    - Drains into either the *posterior part of the superior petrosal sinus* or the *transverse sinus* or the *inferior petrosal sinus*
+
+
+# Innervation
+
+
+
+
+
 # Physiology
 
 

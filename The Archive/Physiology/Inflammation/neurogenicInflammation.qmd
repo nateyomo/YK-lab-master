@@ -1,0 +1,28 @@
+---
+title: Neurogenic Inflammation
+---
+
+
+Neurogenic inflammation is defined as inflammation produced when primary afferent nerve terminals release inflammatory mediators @linRolesTRPV1Neuropeptidergic2007
+
+
+
+
+# Process
+
+DRRs play a critical role in the process of antidromic activation of afferent nociceptors is what initiates the release of inflammatory peptide (neurogenic inflammation) @linRolesTRPV1Neuropeptidergic2007
+
+
+1. Spinal GABAergic interneurons release GABA in the dorsal horn
+1. GABA activates GABA_A receptors &rarr; These receptors open Cl^- channels on nociceptor terminals
+1. Since Cl- is in higher concentrates in the cell, it flows out of the channels, reversing the gradient and thereby leading to  depolarization (called primary afferent depolarization, PAD)
+1. If the deporalization is "excessive" or strong enough, it 
+Triggers an action potential
+Step 5: Backward propagation (DRR)
+The action potential travels:
+Back down the axon toward the periphery
+This is the dorsal root reflex (DRR)
+
+- DRRs are triggered when there is excessive deporalization of central terminals in the dorsal horn @linRolesTRPV1Neuropeptidergic2007
+    - "excessive" depolarization refers to when the Cl<sup>-</sup> channels open and allow an efflux of Cl<sup>-</sup> ions from primary afferent synaptic terminals
+DRRs are triggered pathophysiologically by excessive primary afferent depolarization of the central terminals in the spinal dorsal horn [9-11], which results from the opening of Cl- channels and efflux of Clions from the synaptic terminals of primary afferents when GABAA receptors are activated by GABA released from spinal GABAergic interneurons [11,12]. DRRs are triggered in the spinal dorsal horn by GABAergic interneuronal circuits and conducted antidromically toward the periphery along the primary afferent nociceptive fibers

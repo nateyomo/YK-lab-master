@@ -24,7 +24,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "11bef46f"
+      "id": "400ebc17"
     },
     {
       "cell_type": "code",
@@ -119,7 +119,7 @@
         "\n",
         "- [3D hip flexor stretch]({{< var ref-3d-hip-flexor-stretch.path >}})"
       ],
-      "id": "0a46cb29"
+      "id": "79c146a8"
     }
   ],
   "metadata": {

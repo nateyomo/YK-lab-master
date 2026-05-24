@@ -3,6 +3,9 @@ title: C5 Nerve Root
 ---
 
 ![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif){#fig-gray1918-image796}
+# Dorsal branch
+
+<!-- The dorsal branches of the fourth through the eighth cervical nerves are likewise of mixed composition. They supply the longissimus thoracis and splenius muscles and the skin with branches of increasing length that run laterally toward the spine of scapula and the acromion. @wancura-kampikSegmentalAnatomy2012 -->
 
 # Contribution
 

@@ -1,0 +1,15 @@
+---
+title: Lateral Femoral Circumflex Vein (LCF-V)
+---
+
+# Branches
+
+- Ascending
+- Transverse branch
+- Descending branch
+
+
+# Indirect Releases
+
+- FCS TLFC-LV: Transverse branch of LFC release @tuckeyFCSLV1LymphaticVenous2024
+- FCS DLFC-LV: Descending branch of LFC release @tuckeyFCSLV1LymphaticVenous2024

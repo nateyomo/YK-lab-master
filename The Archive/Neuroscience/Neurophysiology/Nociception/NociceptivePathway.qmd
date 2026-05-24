@@ -1,0 +1,40 @@
+---
+title: Nociceptive Pathway
+---
+
+
+1. Nociceptor stimulation (muscle, ligaments, bone, joints, nerves, viscera, skin) @tuckeyFCSF1Foundations2024
+1. Travels proximally through 3rd order neuron
+1. Arrives at the DRG then Dorsal horn
+
+
+Result:
+
+- Neurogenic inflammation
+- Neuropeptide PC production
+- Glial cell inflammation (Central sensitization)
+- Muscle-guarding reflexes via &alpha;, &beta;, &gamma; motor neuron stimulation
+- Somato-sympathetic reflexes
+- Viscero-sympathetic reflexes
+
+
+# Neurogenic Inflammation
+
+# Neuropeptide PC Production
+
+# Muscle Guarding reflexes
+
+Nociceptive signals are relayed through the afferents to the spinal segment.
+This can activate motor neurons in the ventral horn, resulting in muscle guarding @tuckeyFCSF1Foundations2024.
+Muscle guarding can be defined as muscle reflexes that resist movement.
+
+This can result in spinal segmental dysfunction @tuckeyFCSF1Foundations2024.
+
+Increased stimulation of gamma-motor neurons can also result in more excitable segmenal stretch reflexes, limiting muscle flexibility @tuckeyFCSF1Foundations2024.
+
+
+# Smooth Muscle reflexes
+
+## Somato-sympathetic reflexes
+
+## Viscero-sympathetic reflexes

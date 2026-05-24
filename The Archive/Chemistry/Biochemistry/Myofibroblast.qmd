@@ -1,0 +1,11 @@
+---
+title: Myofibroblast
+---
+
+@desmouliereTissueRepairContraction2005
+
+
+- TGF-&beta;1 can cause differentiation of fibroblasts into myofibroblasts @desmouliereTissueRepairContraction2005
+
+
+Growth Hormone *inhibits* TGF-&beta;1-induced myofibroblast differentiation (in mice) @desmouliereTissueRepairContraction2005

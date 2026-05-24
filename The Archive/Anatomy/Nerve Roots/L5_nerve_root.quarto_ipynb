@@ -10,6 +10,10 @@
         "\n",
         "\n",
         "![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif){#fig-gray1918-image796}\n",
+        "# Dorsal Branch\n",
+        "\n",
+        "- p48 @wancura-kampikSegmentalAnatomy2012\n",
+        "\n",
         "\n",
         "# Peripheral Nerve Supply\n",
         "\n",
@@ -27,7 +31,7 @@
         "\n",
         "# Motor Innervation\n"
       ],
-      "id": "cd682043"
+      "id": "01f1f84c"
     },
     {
       "cell_type": "code",
@@ -110,7 +114,7 @@
         "- Superficial fib\n",
         "    - Doesnt innervate cleft between toes #1 and #2\n"
       ],
-      "id": "31b560bb"
+      "id": "afdf7e8a"
     }
   ],
   "metadata": {

@@ -8,6 +8,9 @@ to read
 - Chapter 12 Brainstem I: Surface Anatomy and Cranial Nerves @blumenfeldNeuroanatomyClinicalCases2022 
 
 -->
+::: {.callout}
+- @monkhouseCranialNervesFunctional2006
+:::
 
 
 ![Upper part of medulla spinalis, hindbrain, and midbrain (posterior view) @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image792 Upper part of medulla spinalis and hind- and mid-brains posterior aspect exposed in situ.gif)

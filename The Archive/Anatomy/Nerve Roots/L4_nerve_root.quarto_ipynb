@@ -11,6 +11,10 @@
         "\n",
         "\n",
         "![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif){#fig-gray1918-image796}\n",
+        "# Dorsal Branch\n",
+        "\n",
+        "- p48 @wancura-kampikSegmentalAnatomy2012\n",
+        "\n",
         "\n",
         "# Peripheral Nerve Supply\n",
         "\n",
@@ -29,7 +33,7 @@
         "\n",
         "# Motor Innervation\n"
       ],
-      "id": "e4ac5c7f"
+      "id": "963db643"
     },
     {
       "cell_type": "code",
@@ -111,7 +115,7 @@
         "## Neural Tension\n",
         "The [Active Slump Test]({{< var ref-active-slump-test.path >}}) applies a neural tension on the [Sciatic n.]({{< var ref-sciatic-nerve.path >}}) and the [L4]({{< var ref-nerve-root.l4 >}}) and [L5]({{< var ref-l4-nerve-root.path >}}) @aptaCurrentConceptsOrthopaedic2024"
       ],
-      "id": "db4f47d8"
+      "id": "50f1f9e7"
     }
   ],
   "metadata": {

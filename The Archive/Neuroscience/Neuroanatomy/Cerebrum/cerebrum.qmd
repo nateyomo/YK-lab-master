@@ -7,3 +7,26 @@ title: Cerebrum
 
 
 ![Other neuron classifications @OpenStaxAnatomyPhysiology2022](/The Archive/Images/OpenStax Anatomy and Physiology 2e/fig12.10 openstax Other Neuron Classifications.jpeg){#fig-openstax-fig12.10}
+
+
+
+
+
+# Arterial Supply
+
+# Venous supply
+
+- Divided into **superficial** and *deep** territories @blumenfeldNeuroanatomyClinicalCases2022
+    - Superficial veins drain into the *superior sagittal sinus* and *cavernous sinus* @blumenfeldNeuroanatomyClinicalCases2022
+    - **Deep territory** drains into the *great vein of galen*
+
+Regardless of territory, nearly all venous drainage of the brain drains into the *internal jugular veins* @blumenfeldNeuroanatomyClinicalCases2022.
+
+- The *superior sagittal sinus* drains posteriorly into the left and right *transverse sinuses* @blumenfeldNeuroanatomyClinicalCases2022
+- The left and right *transverse sinuses* turn downward to unionize and become the *sigmoid sinus* @blumenfeldNeuroanatomyClinicalCases2022
+- Sigmoid sinus
+    - Exits the skull via the *jugular foramen*
+
+
+
+<!-- "Each of these sinuses turns downward to become a sigmoid sinus that exits the skull through the jugular foramen, forming the internal jugular vein. The cavernous sinus is a plexus of veins located on either side of the sella turcica. The internal carotid artery and cranial nerves III, IV, V1, V2, and VI all pass through the cavernous sinus (see also Figure 13.11). The  cavernous sinus drains via the superior petrosal sinus into the transverse sinus and via the inferior petrosal sinus into the internal jugular vein (see Figure 10.11A,B). The deep structures drain into the internal cerebral veins (see Figure 4.7), the basal veins of Rosenthal, and other veins to reach the great cerebral vein of Galen (see Figure 10.11B,D). The great vein of Galen enters the dura of the tentorium and is joined by the inferior sagittal sinus to form the straight sinus, or sinus rectus (see Figure 10.11B; see also Figure 4.15A).  The confluence of the sinuses, also known as the torcular Herophili (or more simply as the torcular), occurs where the superior sagittal, straight, and occipital sinuses join together and are drained by the transverse sinuses (see Figure 10.11A,B). The torcular is often shaped in such a manner that most blood from the superior sagittal sinus enters the right transverse sinus, while most blood from the straight sinus enters the left transverse sinus."@blumenfeldNeuroanatomyClinicalCases2022 -->

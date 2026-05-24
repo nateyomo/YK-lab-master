@@ -1,0 +1,12 @@
+---
+title: Subdeltoid Bursa
+---
+
+
+
+# Indirect Release
+
+
+- Release for anterior aspect: FCS SBA-LV @tuckeyFCSLV1LymphaticVenous2024
+- Release for posterior aspect: FCS SBP-LV @tuckeyFCSLV1LymphaticVenous2024
+

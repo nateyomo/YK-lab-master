@@ -1,0 +1,31 @@
+---
+title: Muscle Guarding Reflex
+---
+
+Muscle guarding or "protective" peripheral motor reflexes (alpha and gamma motor neuron excitation) @tuckeyFCSF1Foundations2024
+
+
+
+
+# He et al. 1988
+
+
+
+He et al., sought out to determine if inflammation impacted increased &alpha;- and &gamma;- motor excitation to create muscle resistance to flexion/extension movements at a joint @heAcuteInflammationKnee1988.
+
+- 1 cat (no humans)
+- Controlled for voluntary motor control by anaesthetized cat
+- Monitored &alpha; and &gamma;- motor neuron activity in the nerve to the biceps semitendinosus
+- Performed Flexion/extension ROM of the knee joint
+- Control: No acute inflammation added 
+- Experimental:
+    - Kaolin and carrageenan
+- Results:
+
+||&alpha;|&gamma;|
+|-|-|-|
+|n|44|84|
+|Control (% responsive)|14%|41%|
+|Experimental (Acute inflammation) (% responsive)|41%|64%|
+
+Conclusion: acute inflammation decreased reflex thresholds for &alpha;- and &gamma;-motor neurons

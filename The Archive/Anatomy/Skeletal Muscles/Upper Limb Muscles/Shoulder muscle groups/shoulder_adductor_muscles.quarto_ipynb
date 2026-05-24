@@ -8,7 +8,7 @@
         "title: Shoulder adductor muscles\n",
         "---"
       ],
-      "id": "f740780f"
+      "id": "9421b0b7"
     },
     {
       "cell_type": "code",
@@ -61,7 +61,7 @@
         "\n",
         "- [Coracobrahialis]({{< var ref-coracobrachialis.path >}}) is a secondary shoulder adductor @bielTrailGuideBody2019."
       ],
-      "id": "8a7cc0e9"
+      "id": "cb8fad39"
     }
   ],
   "metadata": {

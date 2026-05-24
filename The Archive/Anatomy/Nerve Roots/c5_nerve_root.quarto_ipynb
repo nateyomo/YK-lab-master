@@ -10,6 +10,9 @@
         "\n",
         "\n",
         "![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif){#fig-gray1918-image796}\n",
+        "# Dorsal branch\n",
+        "\n",
+        "<!-- The dorsal branches of the fourth through the eighth cervical nerves are likewise of mixed composition. They supply the longissimus thoracis and splenius muscles and the skin with branches of increasing length that run laterally toward the spine of scapula and the acromion. @wancura-kampikSegmentalAnatomy2012 -->\n",
         "\n",
         "# Contribution\n",
         "\n",
@@ -17,7 +20,7 @@
         "\n",
         "# Motor Innervation\n"
       ],
-      "id": "bfd7f725"
+      "id": "5d381640"
     },
     {
       "cell_type": "code",
@@ -100,7 +103,7 @@
         "\n",
         ":::"
       ],
-      "id": "beeae1ae"
+      "id": "57bb3b7a"
     }
   ],
   "metadata": {

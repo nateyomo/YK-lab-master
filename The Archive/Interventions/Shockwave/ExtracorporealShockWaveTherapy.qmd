@@ -1,0 +1,7 @@
+---
+title: Extracorporeal Shock Wave Lithotripsy (ESWT)
+---
+
+ESWT has been shown to have effective treatments on insertional tendinopathies @benjaminWhereTendonsLigaments2006.
+Some evidence suggests that its effects are due to tissue neovascularization via &uarr; VGEF and endothelial nitroc oxide synthase (eNOS) @benjaminWhereTendonsLigaments2006.
+Alternatively ESWT may decrease pain via &darr; Substance P and CGRP immunoreactivity in the dorsal root ganglion @benjaminWhereTendonsLigaments2006.

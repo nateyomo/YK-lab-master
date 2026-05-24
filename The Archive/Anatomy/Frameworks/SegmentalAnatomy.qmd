@@ -1,0 +1,258 @@
+---
+title: Segmental Anatomy
+---
+
+
+::: {.callout}
+
+- @wancura-kampikSegmentalAnatomy2012
+
+:::
+
+# Definitions
+
+- Dermatome: Area of skin supplied by the posterior root of a single nerve root @wancura-kampikSegmentalAnatomy2012
+- Peripheral nerve sensory supply: Area of skin supplied by a peripheral nerve consists of parts of many nerve roots @wancura-kampikSegmentalAnatomy2012
+
+- myotome: muscular area supplied by a single anterior root @wancura-kampikSegmentalAnatomy2012
+- The motor innervations of a single peripheral nerve consists of fibers from multiple anterior roots of a spinal nerve @wancura-kampikSegmentalAnatomy2012
+
+# Overview
+
+A perspective of anatomy organized into segments
+
+Segment: The region a single pair of spinal nerves supply in the skin, musculature, bones, and internal organs and includes its respective dermatomes, myotomes, sclerotomes, enterotomes, etc @wancura-kampikSegmentalAnatomy2012
+
+@wancura-kampikSegmentalAnatomy2012 suggests that the segment is "the basis for the interactions between the surface and the inside of the body" @wancura-kampikSegmentalAnatomy2012
+
+
+
+Metameres are a better term than "segments" @wancura-kampikSegmentalAnatomy2012
+Likewise, term "Metamerism" should be used rather than segmentation @wancura-kampikSegmentalAnatomy2012
+
+The number of metameres correspond to the number of spinal *nerves* in the body, and not vertebral segments @wancura-kampikSegmentalAnatomy2012.
+
+Antimerism: Bisects a metamere into left and right halves
+
+
+# -Tomes
+
+*-tome* comes from Greek *tomē* which literally translates to "a cutting", "slice", or "segment"
+
+- Dermatome: an area of skin
+- Myotome: a muscular part, or 
+- Sclerotome: a skeletal part
+- Enterotome: a visceral part
+- Neurotome: a neural part
+
+
+# Embryology
+
+- Morula Stage
+- Blastula Stage
+- Gastrula Stage
+
+## Gastrula Stage
+
+Development of:
+
+- Ectoderm: External germinal layer
+- Endoderm: Internal germinal layer
+
+Followed by the addition of the mesoderm @wancura-kampikSegmentalAnatomy2012
+
+## Week 3 Gestation
+
+There are mesodermal streaks on either side of the notochord @wancura-kampikSegmentalAnatomy2012.
+From these mesodermal streaks, 40 cuboid sections condense and form the somites or "primitive segments"
+
+These somites give rise to the myotomes and sclerotomes @wancura-kampikSegmentalAnatomy2012
+
+# Dermatomes
+
+The ectoderm has zones of cutaneous innervation connected to each segment via neurotomes which are known as "dermatomes" @wancura-kampikSegmentalAnatomy2012
+
+# Metamere naming
+
+All segments are named based on their respective spinal nerve:
+
+- T5 dermatome
+- T5 Myotome
+- T5 Sclerotome
+
+
+
+
+# Cranio-caudal arrangement
+
+
+# Spinal Nerve Roots
+
+- Dorsal Root
+- Ventral Root
+
+Spinal nerves contain motor, sensory, and autonomic fibers @wancura-kampikSegmentalAnatomy2012
+
+
+::: {.callout}
+
+Traditionally, sensory nerves refer to branches supplying skin and motor nerves refer to nerves that supply muscles @wancura-kampikSegmentalAnatomy2012.
+This is **overly**-simiplified and misleading.
+
+There are no cutaneous nerves *only* containing sensory fibers @wancura-kampikSegmentalAnatomy2012.
+There are *no* motor nerves only containing motor fibers @wancura-kampikSegmentalAnatomy2012.
+
+All of these branches contain some sensory and autonomic fibers @wancura-kampikSegmentalAnatomy2012.
+
+:::
+
+The spinal nerves contain multiple fibers:
+
+|||
+|-|-|
+|Somato-sensory fibers|Somato-afferent fibers|
+|Viscero-sensory fibers|Viscero-afferent fibers|
+|Somato-motor fibers|Somato-efferent fibers|
+|Viscero-motor fibers|Viscero-efferent fibers|
+
+
+## Spinal nerve branches
+
+- Ramus dorsalis (dorsal branch): 
+<!-- Supplies the deep muscles and the skin of  the back, and the vertebral joints. @wancura-kampikSegmentalAnatomy2012 -->
+- Ramus ventralis (ventral branch) 
+<!-- The largest mixed branch. Within the anterior wall of the trunk, it passes between the ribs in the thoracic region and between the abdominal muscles in the abdominal region. Its motor fibers supply the ventral muscles of the trunk. The sensory fibers (lateral and medial cutaneous branches) supply the skin of the lateral and ventral regions of the abdominal wall.@wancura-kampikSegmentalAnatomy2012   -->
+- Ramus lateralis (lateral branch) 
+<!-- A branch of the ventral branch. Since the  limbs are derived from excrescences of the ventrolateral wall of the trunk, their nerve supply comes exclusively from ventrolateral branches@wancura-kampikSegmentalAnatomy2012.   -->
+- Ramus meningeus (meningeal branch) 
+<!-- A small branch containing sensory sympathetic vasomotor fibers. Being unimportant for the analysis of acupuncture, it is only mentioned here.@wancura-kampikSegmentalAnatomy2012   -->
+- Rami communicantes (communicating branches)  
+<!-- These two “connections” form a link to the ganglia of the sympathetic trunk, located paravertebrally, i. e., next to the vertebral column. @wancura-kampikSegmentalAnatomy2012  -->
+- Ramus communicans albus (white communicating branch)  
+<!-- This white, myelinated branch consists mostly of axons of preganglionic sympathetic neurons, which pass from the lateral columns of the spinal cord to the anterior roots, and from there to the sympathetic ganglia.@wancura-kampikSegmentalAnatomy2012   -->
+- Ramus communicans griseus (gray communicating branch)  
+<!-- After most of the fibers of the sympathetic ganglion have been synapsed to the postganglionic neuron, the postganglionic gray, unmyelinated axons continue within the ramus communicans griseus to the spinal nerve, which thus carries the sympathetic axons that supply blood vessels, glands, etc.@wancura-kampikSegmentalAnatomy2012 -->
+
+
+
+Areas innervated by the dorsal, ventral, and lateral branches create 3 distinct longitudinal divisions which correspond to the *long yang meridians* @wancura-kampikSegmentalAnatomy2012
+
+
+
+
+<!-- The area supplied by the dorsal branches  forms the dorsal longitudinal one-third  corresponding to the bladder meridian, or taiyang  
+The area supplied by the lateral branches  forms the lateral longitudinal one-third  corresponding to the gallbladder meridian, or shaoyang  
+The area supplied by the ventral branches  forms the ventral longitudinal one-third  corresponding to the stomach meridian, or yangming @wancura-kampikSegmentalAnatomy2012 -->
+
+### Ventrolateral branches
+
+Lateral branches are derived from the ventral branches and both can be grouped as "ventrolateral branches" @wancura-kampikSegmentalAnatomy2012
+
+- ventrolateral branches of cervical nerves
+- Cutaneous
+    - lesser occipital n (C2, C3) goes on to provide sensory innervation to the skin lateral to the Major occipital nerve's region @wancura-kampikSegmentalAnatomy2012
+    - Greater auricular n (C3) aka n. auricularis magnus innervates posterior external ear and earlobe and the mandibular angle and retromandibular fossa @wancura-kampikSegmentalAnatomy2012
+    - transverse cervical nerve --> see p57 @wancura-kampikSegmentalAnatomy2012
+    - supraclavicular nerves --> see p57 @wancura-kampikSegmentalAnatomy2012
+
+
+### Lateral Branches
+
+- p34 @wancura-kampikSegmentalAnatomy2012
+- p51 2.4.3 ventral and lateral spinal nerve branches @wancura-kampikSegmentalAnatomy2012
+
+
+### Ventral Branches
+
+
+- p36 @wancura-kampikSegmentalAnatomy2012
+- p51 2.4.3 ventral and lateral spinal nerve branches @wancura-kampikSegmentalAnatomy2012
+
+- largest branches of spinal nerves @wancura-kampikSegmentalAnatomy2012
+
+
+||Ventral Branches|Lateral branches|
+|-|-|-|
+|UE|Volar and part of radial muscles/integument @wancura-kampikSegmentalAnatomy2012 | dorsal/ulnar muscles and integument @wancura-kampikSegmentalAnatomy2012 |
+|LE| dorsal mm (d/t rotation in embryonic development) @wancura-kampikSegmentalAnatomy2012 | ventrolateral muscles and integument @wancura-kampikSegmentalAnatomy2012 |
+
+### Dorsal Branches
+
+p38 @wancura-kampikSegmentalAnatomy2012
+p44 @wancura-kampikSegmentalAnatomy2012
+
+- Motor: intrinsic back muscles 
+- Sensory: Skin of neck/occiput
+
+- p48 @wancura-kampikSegmentalAnatomy2012
+
+- 2.4.2 Psychosomatic medicine impact @wancura-kampikSegmentalAnatomy2012
+    - Dorsal branches carry **more sympathetic fibers than any other branches** @wancura-kampikSegmentalAnatomy2012
+    - there is a resulting relationship between cold and fear in the region innervated by the dorsal branches @wancura-kampikSegmentalAnatomy2012
+    - These sympathetic fibers in the dorsal branches result in hair in the region supplied by the dorsal branch to "stand on end" @wancura-kampikSegmentalAnatomy2012
+    - Hair outside of the dorsal branch region (i.e. beard hair) does not have the same function because of the decreased sympathetic fibers count @wancura-kampikSegmentalAnatomy2012
+
+
+
+
+## Relationship between Metamere and Spinal Nerve Branches
+
+@wancura-kampikSegmentalAnatomy2012
+
+Left + Right pairs of spinal nerves create horizontal slices of the body @wancura-kampikSegmentalAnatomy2012.
+
+The branches of the spinal nerves create **vertical** divisions of the body @wancura-kampikSegmentalAnatomy2012.
+
+By overlaying the R/L horizontal divisions with the Spinal Nerve branch vertical divisions you can create a "grid" on the body @wancura-kampikSegmentalAnatomy2012.
+
+@wancura-kampikSegmentalAnatomy2012 provides an example that an acupunture joint: "LI 4" can impact C6-dermatome and C6-myotome and C8-myotome @wancura-kampikSegmentalAnatomy2012.
+
+- "LI 4" is applied at the C6 dermatome in the vertical division of the ventral br. @wancura-kampikSegmentalAnatomy2012
+- C6-C8 impacts are only parts related to the respective ventral branches @wancura-kampikSegmentalAnatomy2012
+
+
+Another example is "SI 3" point which is applied in the grid of C8/T1 horizontally and Lateral br. vertically @wancura-kampikSegmentalAnatomy2012.
+The impacts of "SI 3" are lateral branches of C6-C8 and myotomes C8/T1 @wancura-kampikSegmentalAnatomy2012.
+
+
+# Plexus formation
+
+- Plexuses are formed by the ventrolateral branches p52 @wancura-kampikSegmentalAnatomy2012
+
+There is mixing of nerve fibers from different roots as plexuses form peripheral nerves, but nonetheless there are still distinct regions the nerve roots supply @wancura-kampikSegmentalAnatomy2012
+
+## Brachial plexus
+
+- Lateral cord
+    - C5-7 ventral branches form the lateral cord
+    - musculocutaneus n, brachial n, and medial antebrachial nerves @wancura-kampikSegmentalAnatomy2012
+    - Grossly, the lateral cord supplies the *radially* located flexor muscles on the volar side of the arm @wancura-kampikSegmentalAnatomy2012
+    - The lateral cord receives impulses from the respiratory tract via collateral fibers in the sympathetic trunk @wancura-kampikSegmentalAnatomy2012
+
+- Medial cord
+    - Ventral branches from C8-T1 give rise to the medial cord @wancura-kampikSegmentalAnatomy2012
+    - Medial cord gives rise to ulnar nerve @wancura-kampikSegmentalAnatomy2012
+    - Grossly the medial cord supplies ulnar aspect of arm flexor and extensor muscles @wancura-kampikSegmentalAnatomy2012
+    - The medial cord receives impulses from the heart, esophagus, and stomach @wancura-kampikSegmentalAnatomy2012
+
+The median nerve arises from *both* medial and lateral cords, thus can receive fibers from C6-T1 and also can be impacted by impulses from the heart, luhngs, and stomach @wancura-kampikSegmentalAnatomy2012
+
+- Posterior cord
+    - Lateral branches from C5-T1 give rise to the posterior cord @wancura-kampikSegmentalAnatomy2012
+    - Lateral cord gives rise to radial nerve and axillary nerve @wancura-kampikSegmentalAnatomy2012
+
+### Cutaneous branches of brachial plexus
+
+Cutaneous branches can be organzed based on ventral vs lateral branch origin:
+
+- Ventral branches: volar and radial sides of the arm @wancura-kampikSegmentalAnatomy2012
+- Lateral branches: dorsal and ulnar sides of the arm @wancura-kampikSegmentalAnatomy2012
+
+
+# Peripheral nerves
+
+## Phrenic nerve
+
+- Parasympathetics that innervate all organs near the diaphragm come from the phrenic nerve @wancura-kampikSegmentalAnatomy2012
+- Phrenic nerve can create referred pain
+    - sympathetic fibers can create referred pain from the thoracic/abdominal organs to the shoulder @wancura-kampikSegmentalAnatomy2012

@@ -1,0 +1,44 @@
+---
+title: Thyroid Veins
+---
+
+The thyroid gland is drained by the superior, middle, and inferior thyroid veins @bordesClinicalAnatomyVascular2025.
+
+The superior thyroid vein drains the same regions supplied by the superior thyroid artery @bordesClinicalAnatomyVascular2025.
+The inferior and middle thyroid veins drain the rest of the thyroid gland @bordesClinicalAnatomyVascular2025.
+
+The Superior and middle thyroid veins empty into the internal jugular vein @bordesClinicalAnatomyVascular2025.
+The Inferior thyroid vein empties into the brachiocephalic vein @bordesClinicalAnatomyVascular2025.
+
+
+# Superior thyroid vein
+
+Receives blood from:
+
+- The superior laryngeal veins drain in the respective superior thyroid vein @bordesClinicalAnatomyVascular2025.
+
+
+
+# Middle Thyroid Vein
+
+
+<!-- "The middle thyroid vein has variations that are important clinically for surgery involving the thyroid gland, parathyroid gland, or recurrent laryngeal nerve. Usually, it crosses anteriorly and drains into the internal jugular vein. However, it can occasionally drain directly into the brachiocephalic vein (Dalip et al. 2018)." @bordesClinicalAnatomyVascular2025 -->
+
+# Inferior Thyroid Vein
+
+- Receives from:
+    - The inferior laryngeal veins drain into the respective inferior thyroid vein @bordesClinicalAnatomyVascular2025
+- Pathway:
+- Empties into: 
+    - Brachiocephalic vein @bordesClinicalAnatomyVascular2025
+    - Variations:
+        - Drain into internal jugular vein @bordesClinicalAnatomyVascular2025
+        - Anastomose with thymic veins @bordesClinicalAnatomyVascular2025
+        - 41%: ITV &rarr; ipsilateral brachiocephalic vein @bordesClinicalAnatomyVascular2025
+        - 35%: thyroid veins form a common trunkn and then empty into Left brachiocephalic vein @bordesClinicalAnatomyVascular2025
+
+
+# Treatment
+
+- STH-LV
+- ITH-LV

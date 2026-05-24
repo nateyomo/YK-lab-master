@@ -1,0 +1,224 @@
+---
+title: Entheses
+subtitle: "Insertion sites of tendon/ligament on bone"
+---
+
+Entheses: The region where stress concentrates as load is transferred between tendon/ligament to bone  @benjaminWhereTendonsLigaments2006.
+Common overlapping concepts are "Insertion sites", "osteotendinous junctions", and "osteoligamentous junctions."
+
+These sites concentrates the stress transfer between tendon/ligament to bone.
+
+As a result of repetitive load, it can result in dysfunction "enthesopathies", particularly in sports @benjaminWhereTendonsLigaments2006.
+
+**Enthesis Organ**: Term referring to the enthesis and all surrounding tissues that serve in stress dissipation @benjaminWhereTendonsLigaments2006
+
+# Classification
+
+Entheses are broadly divided into 2 structural categories: Fibrous or Fibrocartilaginous @benjaminWhereTendonsLigaments2006
+
+
+Woo 1998 classified entheses as Direct or indirect attachments @benjaminWhereTendonsLigaments2006.
+
+
+Biermann (1957) and Knese & Biermann (1958) created subclassifications of entheses specifically on long bones and termed the classifications "chondral–apophyseal entheses" found at the ends of long bones and "periosteal–diaphyseal attachments" found on the shafts @benjaminWhereTendonsLigaments2006.
+
+
+## Fibrous Entheses
+
+Fibrous entheses can be indirect or direct.
+The tendon or ligament can attach directly to the bone or indirectly to the bone via the  periosteum 
+
+## Fibrocartilaginous Entheses
+
+Fibrocartilaginous entheses are defined by the fact chondrogenesis has occurred in the region @benjaminWhereTendonsLigaments2006.
+There will be 4 zones of tissue present @benjaminWhereTendonsLigaments2006: 
+
+1. Pure dense fibrous connective tissue
+1. Uncalcified fibrocartilage
+1. Calcified fibrocartilage
+1. Bone
+
+
+# Enthesis Organ
+
+
+## Achilles Enthesis Organ
+
+The achilles enthesis organ is comprised of:
+
+- Enthesis (osteotendinous junction between the achilles tendon and the calcaneus)
+- Sesamoid fibrocartilage immediately proximal to the enthesis
+- Periosteal fibrocartilage covering the superior tuberosity of the  calcaneus
+- The wedge-shaped tip of the retromalleolar (Pre-Achilles) fat pad 
+- Retrocalcaneal bursa
+
+All of these items are part of the enthesis organ since all play a role in dissipating stress. 
+
+The sesamoid fibrocartilage and periosteal fibrocartilage lie deep to the achilles tendon @benjaminWhereTendonsLigaments2006.
+During dorsiflexion, the achilles tendon compresses these fibrocartilages against the calcaneus which creates a fulcrum, increasing the achilles mechanical advantage @benjaminWhereTendonsLigaments2006.
+This mechanical advantage allows less force to be transmitted through the Achilles while still generating the same torque compared to a system without this fulcrum.
+
+The bursa decreases friction between the tendon, bone, and fat pad @benjaminWhereTendonsLigaments2006.
+When plantarflexed, the bursa protrudes into the tendon, but retracts in dorsiflexion @benjaminWhereTendonsLigaments2006.
+
+The *fat pad* mechanically acts to reduce friction, cushioning/supporting the tendon, fills space to prevent negative space developing in the bursa @benjaminWhereTendonsLigaments2006.
+
+
+::: {.callout}
+
+The fat pad has sensory nerve endings and may play a role in proprioceptions @benjaminWhereTendonsLigaments2006.
+
+:::
+
+## Enthesis organs are not always present
+
+
+An "enthesis organ" is not always present @benjaminWhereTendonsLigaments2006.
+For example, the ATFL has an enthesis organ at its distal enthesis on the talus, but does not appear to have an enthesis organ at its proximal fibular enthesis @benjaminWhereTendonsLigaments2006.
+As a result, the fibular enthesis has less capability to dissipate stress and is vulnerable to avulsion injuries compared to the talar enthesis @benjaminWhereTendonsLigaments2006.
+
+
+
+
+## Clinical Significance
+
+The concept of an "enthesis organ" is a useful framework for clinicians to explain diffuse environmental impacts of certain pathologies.
+
+For example, lateral epicondylitis pain is not always localized to the osteotendinous junction but can extend to neighboring ligaments which are traditionally considered to be unrelated to muscle function @benjaminWhereTendonsLigaments2006.
+Anatomical studies have demonstrated that the enthesis of ECRB and the humerus is continuous with the annular ligament and thus an enthesopathy can impact all 3 structures as 1 enthesis organ @benjaminWhereTendonsLigaments2006.
+
+
+
+# Fibrocartilaginous Entheses
+
+
+## Vascularity
+
+All fibrocartilages in normal entheses are considered to be "avascular" @benjaminWhereTendonsLigaments2006.
+As a result these structures demonstrate poor/slow healing responses at attachment sites @benjaminWhereTendonsLigaments2006.
+
+
+## Fat: Adipose tissue
+
+Fat is often found at entheses @benjaminWhereTendonsLigaments2006.
+
+Fatty infiltrate in tendons (tendolipomatosis) is seen as a sign of degeneration @benjaminWhereTendonsLigaments2006.
+
+
+
+There is also normally occurring adipose tissue which has benefits to the enthesis organ:
+
+- Endotenon fat: Adipose tissue found within the films of loose CT that separates the fascicles within a tendon/ligament @benjaminWhereTendonsLigaments2006
+- Epitenon fat: Adipose tissue which lies in the CT on the surface of a tendon/ligament @benjaminWhereTendonsLigaments2006
+- Meniscoid fat: Adipose in the meniscal folds of synovium @benjaminWhereTendonsLigaments2006
+- Insertional angle fat: Adipose tissue found between the tendon/ligament and bone to act as a buffer @benjaminWhereTendonsLigaments2006
+
+
+All of these forms of fat contain blood vessels and nerves @benjaminWhereTendonsLigaments2006.
+Innervation of the adipose indicates it serves a proprioceptive role in the enthesis organ @benjaminWhereTendonsLigaments2006.
+The fat is sometimes the only innervated structure in an enthesis organ, such as the Achilles Tendon enthesis.
+
+
+
+### Endotenon Fat
+
+Endotenon fat refers to adipose tissue found within the films of loose CT that separates the fascicles within a tendon/ligament @benjaminWhereTendonsLigaments2006
+
+Endotenon fat is more common in tendons/ligaments which widen at the attachment site @benjaminWhereTendonsLigaments2006.
+Endotenon acts to fill the space between the bundles of collagen fibers @benjaminWhereTendonsLigaments2006.
+
+
+### Insertional Angle Fat
+
+
+Insertional angle fat refers to adipose tissue found between the tendon/ligament and bone to act as a buffer @benjaminWhereTendonsLigaments2006.
+
+The presence of nerves within this fat could point to a functional role as a propioceptor @benjaminWhereTendonsLigaments2006.
+Specifically, this fat could help to monitor the angle at which a tendon/ligament meets the bone.
+
+
+
+# Functions of Entheses
+
+- Anchorage and Stress Dissipation
+- Miniature Growth Plate
+
+## Mini-growth plates
+
+There are hypotheses that entheses act as "mini growth plates" for apophyses @benjaminWhereTendonsLigaments2006.
+
+
+# Enthesis turnover
+
+
+
+# Surgical repair
+
+Surgery generally involves reattachment of the enthesis, but will the enthesis organ fuction the same after surgical intervention?
+
+# Enthesopathies
+
+Enthesopathies are considered to be degenerative rather than inflammatory conditions @benjaminWhereTendonsLigaments2006.
+
+Enthesopathy is more frequent in deep rather than superficial aspects of the enthesis @benjaminWhereTendonsLigaments2006.
+The deeper regions generally consists of a higher percentage of fibrocartilage @benjaminWhereTendonsLigaments2006.
+In addition, the deeper fibrocartilage experiences more compression since the external superficial aspects of the enthesis compress the deeper aspects @benjaminWhereTendonsLigaments2006.
+
+Furthermore, there is a correlation between percentage of *un*calcified fibrocartilage with the_egree of "insertional angle change" @benjaminWhereTendonsLigaments2006.
+
+**Insertional angle change**: Angle at which the tendon/ligament meets the bone @benjaminWhereTendonsLigaments2006.
+This changes as the joints move.
+
+Types: 
+
+- Enthesitis
+
+## Specific diagnoses
+
+- Lateral epicondylitis (Tennis Elbow)
+- Medial Epicondylitis (Golfer's Elbow)
+- Jumper's Knee
+- Plantar Fasciitis
+- Achilles Insertional Tendinopathies
+
+## Sport-related Enthesopathies
+
+The most common sport-associated enthesopathy sites are:
+
+- Rotator cuff @benjaminWhereTendonsLigaments2006
+- Lateral epicondyle of the humerus @benjaminWhereTendonsLigaments2006
+- Inferior pole of the patella @benjaminWhereTendonsLigaments2006
+- Achilles tendon enthesis @benjaminWhereTendonsLigaments2006
+
+Terms such as "chronic lateral epicondylitis" and "patellar tendonitis" are often misnomers since the suffix *-itis* implies inflammation and histological studies of the enthesis rarely demonstrate inflammation @benjaminWhereTendonsLigaments2006.
+A true tendonitis would feature a tendinopathic tendon due to a dysfunctional repair response such as:
+
+- Thinning and disruption of collagen fibers @benjaminWhereTendonsLigaments2006
+- Increased vascularity @benjaminWhereTendonsLigaments2006
+- Increased cellularity @benjaminWhereTendonsLigaments2006
+- Granulation tissue @benjaminWhereTendonsLigaments2006
+- Increased proteoglycan content in ECM @benjaminWhereTendonsLigaments2006
+
+
+# Enthesophytes
+
+**Enthesophytes**: Bony outgrowths that extend from the skeleteon into the soft tissue of the tendon/ligament at its enthesis @benjaminWhereTendonsLigaments2006
+
+**Osteophytes**: Bony outgrowths around articular surfaces of synovial joints @benjaminWhereTendonsLigaments2006
+
+Both enthesophytes and osteophytes are linked to skeletal responses to stress @benjaminWhereTendonsLigaments2006.
+
+There is the environmental component of stresses placed on the skeleton and also an individual biological component where some individuals require less mechanical stress to stimulate osteogenesis @benjaminWhereTendonsLigaments2006.
+
+
+
+
+
+
+# Treatment
+
+- Optimal joint positions keep the tendon/ligament angle of insertion optimal and avoids losing mechanical advantage or excessive compression
+- Balancing agonist/antagonist muscles can help maintain optimal joint position
+- Decreasing *impulse*
+    - training on softer ground vs harder
+    - Improved muscle load absorption

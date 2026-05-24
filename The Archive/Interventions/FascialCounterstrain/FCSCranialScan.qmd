@@ -1,0 +1,88 @@
+---
+title: FCS Cranial Scan
+---
+
+# Musculoskeletal
+
+- Periosteum Scans
+- Spinal Ligament Scans
+    - ALL
+    - PLL
+
+## Anterior Longitudinal Ligament Scan
+
+@tuckeyFCSF1Foundations2024
+
+- Direction: 
+    - anterior &rarr; posterior
+
+- Interpretations
+    - Cervical
+    - Thoracic
+    - Lumbar
+    - Sacral
+
+::: {.callout}
+
+Coccyx is **not** mentioned in the ALL scan because the ALL does not extend past the sacrum @standringGraysAnatomyAnatomical2021
+
+:::
+
+
+## Anterior Longitudinal Ligament Scan
+
+- Direction: 
+    - Posterior &rarr; Anterior
+
+- Interpretations
+    - Cervical
+    - Thoracic
+    - Lumbar
+    - Sacral
+    - Coccyx
+
+
+
+# Lymphatic Venous Scans
+
+- Lymphatic Epidural Scan
+- Standard Lymphatic Scan
+
+
+## Lymphatic Epidural Scan
+
+- Interpretations
+    - Cervical
+    - Thoracic
+    - Lumbar
+    - Sacral
+
+## Standard Lymphatic Row Scan
+
+- Interpretations
+    - Cervical/Head
+    - Cervical
+    - Thoracic/Shoulder/UE
+    - Thoracic
+    - Lumbar
+    - Sacral
+    - Anterior Hip/Pelvis
+    - Posterior Hip/Pelvis
+    - Thigh
+    - Thigh
+    - Knee
+    - Calf
+    - Foot
+
+## Visceral Lymphatic Scan
+
+
+# Arterial Scans
+
+- Standard Arterial Scan
+- Spinal Radiculomedullary Scan
+- Spinal Artery Flexion Scan
+- Spinal Artery Extension Scan
+- Standard Arterial Scar Scan
+- ADP,SEG, SMED, SAF, SAE, SUL SCAR SCANS
+

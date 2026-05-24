@@ -7,6 +7,9 @@ to read
 - Chapter 12 Brainstem I: Surface Anatomy and Cranial Nerves @blumenfeldNeuroanatomyClinicalCases2022 
 
 -->
+::: {.callout}
+- @monkhouseCranialNervesFunctional2006
+:::
 
 
 ![Path of the upper portions of the CN IX Glossopharyngeal, CN X Vagus, and CN XI Accessory @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image791 Plan of upper portions of glossopharyngeal vagus and accessory nerves.gif)

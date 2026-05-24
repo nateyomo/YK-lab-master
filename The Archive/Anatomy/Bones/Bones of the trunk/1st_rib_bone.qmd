@@ -13,6 +13,12 @@ Types of cervical rib:
 - Type III: an incomplete rib that is continued by a fibrous band @hooperPart1ThoracicOutletSyndrome2010
 - Type Iv: rib that appears as a short bar of bone with a length of a few millimeters beyond the C7 TP @hooperPart1ThoracicOutletSyndrome2010
 
+
+## Landmarks
+
+- Arch
+- Tubercle
+
 # Variations
 
 - Type I: complete cervical rib articulates with the first rib or manubrium of sternum @hooperPart1ThoracicOutletSyndrome2010

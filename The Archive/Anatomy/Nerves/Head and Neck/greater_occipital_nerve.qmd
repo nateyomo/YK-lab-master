@@ -1,7 +1,14 @@
 ---
 title: Greater Occipital Nerve
+keywords:
+- "N. occipitalis major"
 ---
 
+- AKA
+    - N. occipitalis major @wancura-kampikSegmentalAnatomy2012
+    - Greater occipital nerve @wancura-kampikSegmentalAnatomy2012
 
 Leaves the spinal column thru the arch of the atlas and the axis
 Travels to C2/3 facet joint etc…
+
+Forms from the termination of Dorsal branch of C2 nerve root @wancura-kampikSegmentalAnatomy2012

@@ -1,0 +1,55 @@
+---
+title: Inhibitory Testing
+---
+
+@bicalhoInhibitoryTestsAssessment2020
+
+**Inhibitory Testing**: Functional tests where the evaluator applies manual mechanical stimuli in the dysfunctional area and assesses the resulting changes in neighboring tissues @bicalhoInhibitoryTestsAssessment2020
+
+
+Examples
+
+- Touch Inhibition
+
+
+
+# Physiology
+
+The segmentation process is an important concept in understanding the mechanisms of inhibitory testing @bicalhoInhibitoryTestsAssessment2020.
+
+## Somitogenesis
+
+Somites begin to appear by the 23rd day of the embryo @bicalhoInhibitoryTestsAssessment2020
+
+Somites refer to the organization of the paraxial mesoderm around the neural tube @bicalhoInhibitoryTestsAssessment2020
+Somitogenesis forms 3 structures: 
+
+1. **Dermatomes with somatopleura** &rarr; dermis, and layers of fat, superficial fascia @bicalhoInhibitoryTestsAssessment2020
+1. **Sclerotomes** &rarr; 
+1. **Myotomes** &rarr; Deep muscles and fascia
+
+::: {.callout}
+"All somatic structures carry inervation at the *same* metameric level" @bicalhoInhibitoryTestsAssessment2020
+:::
+
+
+Viscerogenesis occurs simultaneously with somitogenesis
+
+**Viscerogenesis**: The embryological process where viscera metameric innervation is formed from the sympathetic atuonomic nervous system and visceral branches of the aortic artery @bicalhoInhibitoryTestsAssessment2020
+
+
+**Spinal Vascular afferences** refer to afferent/sensory information regarding blood vessels carried by sympathetic nerves @bicalhoInhibitoryTestsAssessment2020
+
+The peripheral nerves have their own nociceptive afferents in the nervum nervorum which are also carried to the dorsal horn of the spinal cord @bicalhoInhibitoryTestsAssessment2020
+
+All of these afferents converge on a single spinal cord segment or "metamer" @bicalhoInhibitoryTestsAssessment2020
+
+## Spinal Segment Sensitization Mechanisms
+
+When stressors occur in the tissues of any of these systems, inflammatory mediators are released locally at the tissue resulting in nociceptors and neurotransmitters to send signals via afferents to the spinal cord segment/metamer which can result in neurogenic inflammation @bicalhoInhibitoryTestsAssessment2020
+
+As these neurotransmitters travel along sensory afferent nerve fibers towards the spinal segment/metamer, the neurotransmitters reach the dorsal root ganglion (DRG) which can have a dorsal root reflex (DRR) resulting in an antidromic flow into the periphery @bicalhoInhibitoryTestsAssessment2020
+
+Chronic nociceptive activity of the neurons in the spinal cord can increase sensitivity of wide dynamic range neurons (WDR) which receive convergent input from cutaneous, deep somatic, and visceral afferents @bicalhoInhibitoryTestsAssessment2020.
+
+This can result in central sensitization, but particularly at the segment, which was termed "spinal segmental sensitization" @bicalhoInhibitoryTestsAssessment2020

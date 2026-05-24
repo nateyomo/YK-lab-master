@@ -16,9 +16,16 @@
         "\n",
         "![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif){#fig-gray1918-image796}\n",
         "\n",
+        "# Dorsal Branch\n",
+        "\n",
+        "\n",
+        "- Motor: splenius, longissimus thoracis, transversus occipitalis, and transversus spinalis @wancura-kampikSegmentalAnatomy2012\n",
+        "- Sensory: \n",
+        "    - Dermatome: part of dermatome via 3rd occipital nerve @wancura-kampikSegmentalAnatomy2012\n",
+        "\n",
         "# Motor Innervation\n"
       ],
-      "id": "e96f5a77"
+      "id": "6f328c5b"
     },
     {
       "cell_type": "code",
@@ -83,7 +90,7 @@
         "\n",
         "\"Irritation of the C3 nerve root may cause a painful, burning, red ear (red ear syndrome) [15]. The increased ear temperature may be caused by antidromic release of vasodilator peptides. This red ear syndrome may also occur with temporomandibular joint dysfunction and with thalamic lesions [15].\" @brazisLocalizationClinicalNeurology2022"
       ],
-      "id": "56633d45"
+      "id": "a873510f"
     }
   ],
   "metadata": {

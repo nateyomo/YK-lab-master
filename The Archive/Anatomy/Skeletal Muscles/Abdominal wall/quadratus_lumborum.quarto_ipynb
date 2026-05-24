@@ -24,7 +24,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "f2400fd1"
+      "id": "a0495c47"
     },
     {
       "cell_type": "code",
@@ -72,6 +72,11 @@
       "cell_type": "markdown",
       "metadata": {},
       "source": [
+        "# Origin\n",
+        "\n",
+        "\n",
+        "Merges fibers with the diaphragm @chaitowRecognizingTreatingBreathing2014\n",
+        "\n",
         "# Soft tissue massage\n",
         "\n",
         "- STM along iliac crest\n",
@@ -103,7 +108,7 @@
         "\n",
         "{{< video https://www.youtube.com/watch?v=V9Cfvqn3IxU >}}"
       ],
-      "id": "092f5d41"
+      "id": "cc6f91da"
     }
   ],
   "metadata": {

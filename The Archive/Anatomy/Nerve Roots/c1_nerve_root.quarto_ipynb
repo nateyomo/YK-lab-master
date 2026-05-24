@@ -13,9 +13,14 @@
         "\n",
         "![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif){#fig-gray1918-image796}\n",
         "\n",
-        "# Anatoy\n",
+        "# Anatomy\n",
         "\n",
         "C1 lacks a dorsal root @brazisLocalizationClinicalNeurology2022\n",
+        "\n",
+        "# Dorsal Branch\n",
+        "\n",
+        "- Motor:  short muscles between atlas (C1) and axis (C2) @wancura-kampikSegmentalAnatomy2012\n",
+        "- Sensory: No sensory branch, therefore no C1 dermatome @wancura-kampikSegmentalAnatomy2012\n",
         "\n",
         "# Innervation {#innervation}\n",
         "\n",
@@ -31,7 +36,7 @@
         "\n",
         "infrahyoid muscles.\n"
       ],
-      "id": "f1ce6ab2"
+      "id": "7acc4f13"
     },
     {
       "cell_type": "code",
@@ -93,7 +98,7 @@
         "\n",
         "Greathouse DG, Joshi A. Radiculopathy of the eighth cervical nerve. J Orthop Sports Phys Ther. 2010;40(12):811-817. doi:10.2519/jospt.2010.3187"
       ],
-      "id": "4b2d11b8"
+      "id": "d4534829"
     }
   ],
   "metadata": {

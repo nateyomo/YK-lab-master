@@ -1,0 +1,43 @@
+---
+title: Arterial System
+---
+
+
+
+
+
+# Aortic Branching
+
+## Standard aortic arch pattern
+
+70% of population @uflackerUflackersAtlasVascular2021
+
+- 3 great vessels: 
+    - the innominate (also known as the brachiocephalic trunk),
+    - left common carotid,
+    - subclavian arteries
+
+- Innominate artery bifurcates into the *right subclavian* and *right common carotid arteries* @uflackerUflackersAtlasVascular2021
+- The vertebral arteries branch off of their respective (ipsilateral) subclavian arteries @uflackerUflackersAtlasVascular2021
+
+
+### variant arch with common origin of the innominate and left common carotid
+
+13% of the population @uflackerUflackersAtlasVascular2021
+
+- common origin of the innominate and left common carotid arteries
+
+### left common carotid arising from the innominate Variant
+
+- 9% of the population @uflackerUflackersAtlasVascular2021
+
+Left common carotid artery arises as a proximal branch of the innominate @uflackerUflackersAtlasVascular2021
+ 
+### Left vertebral artery directly branching from aortic arch Variant
+
+origin of the left vertebral artery directly from the aortic arch @uflackerUflackersAtlasVascular2021
+
+
+### Aberrant Right subclavian artery coursing posterior to esophagus Variant
+
+aberrant right subclavian artery that courses posterior to the esophagus (Fig. 2.2D)

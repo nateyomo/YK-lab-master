@@ -53,6 +53,11 @@ else:
 
 ```
 
+# Origin
+
+
+Merges fibers with the diaphragm @chaitowRecognizingTreatingBreathing2014
+
 # Soft tissue massage
 
 - STM along iliac crest

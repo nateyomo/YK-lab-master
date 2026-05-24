@@ -16,9 +16,20 @@
         "\n",
         "![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif){#fig-gray1918-image796}\n",
         "\n",
+        "\n",
+        "# Dorsal Branch\n",
+        "\n",
+        "- Motor: pharyngeal muscles @wancura-kampikSegmentalAnatomy2012\n",
+        "- Sensory: \n",
+        "    - Dermatome: skin from occiput to vertex and lateral skin to the temple @wancura-kampikSegmentalAnatomy2012\n",
+        "\n",
+        "Branches from C2 spinal nerve root deep to insertion of the Trapezius mm. to terminate as multiple terminal branches @wancura-kampikSegmentalAnatomy2012.\n",
+        "Often referred to as Greater occipital nerve @wancura-kampikSegmentalAnatomy2012.\n",
+        "\n",
+        "\n",
         "# Motor Innervation\n"
       ],
-      "id": "f7692120"
+      "id": "7382cdbc"
     },
     {
       "cell_type": "code",
@@ -85,7 +96,7 @@
         "\n",
         "which is predominantly innervated by the spinal accessory nerve (cranial nerve XI).\" @brazisLocalizationClinicalNeurology2022\n"
       ],
-      "id": "3de02a18"
+      "id": "f179a6ae"
     }
   ],
   "metadata": {

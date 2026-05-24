@@ -1,0 +1,37 @@
+---
+title: FRS Restriction
+---
+
+@vemuriOsteopathicManipulativeTreatment2026
+
+This is shorthand for a non-neutral dysfunction.
+This is non-neutral because flexion or extension impact the dysfunction.
+
+FRS stands for "flexion-rotation-sidebend".
+ERS stands for extension-rotation-sidebend.
+
+There is a positional and motion restriction.
+
+
+Diagnosed by positional restriction.
+
+
+# Examples
+## ERS-Right
+
+Case example: 
+
+- Positional Diagnosis: ERS-Right
+- Motion restriction: FRS-Left
+
+| | Left | Right |
+|-|-|-|
+|Facet opening| Normal | Abnormal |
+|Sidebending| Restricted | Normal |
+
+## ERS-Left
+
+
+## FRS-Right
+
+## FRS-Left

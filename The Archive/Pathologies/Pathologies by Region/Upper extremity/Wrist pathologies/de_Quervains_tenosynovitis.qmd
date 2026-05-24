@@ -1,8 +1,133 @@
 ---
-title: de Quervain's Tenosynovitis
+title: De Quervain's Tenosynovitis
+keywords:
+- "De Quervain's Syndrome"
 ---
 
+# Categorization
+
+- Radial wrist pain
+- Tendinopathy
+
+# History
+
+named after Fritz de Quervain who described it in 1895 @sattesonQuervainTenosynovitis2026
 
 
+# Pathophysiology
+
+Thickening and myxoid degeneration of the tendon sheaths of the thumb @sattesonQuervainTenosynovitis2026
+
+This specifically impacts APL and EPB @sattesonQuervainTenosynovitis2026
+
+# Epidemiology
+
+- more common in women
+    - higher risk with late pregnancy or postpartum, likely due to lifting a newborn with one's thumbs @sattesonQuervainTenosynovitis2026
+
+Inflammatory diseases and/or anatomical variations could predispose someone to developing DQS @sattesonQuervainTenosynovitis2026.
+
+# Etiology
+
+It is associated with repetitive wrist movement @sattesonQuervainTenosynovitis2026.
+Thumb abduction + thumb extension + wrist RD is considered the most aggravating position @sattesonQuervainTenosynovitis2026.
+
+Acute injury to the wrist could irritate the area, causing it to be prone to developing DQS acutely @sattesonQuervainTenosynovitis2026.
+
+# Presentation
+
+
+- Aggravation with thumb and wrist AROM
+
+
+# Diagnosis
+
+de Quervain's tenosynovitis is diagnosed based on clinical tests, rather than imaging @sattesonQuervainTenosynovitis2026.
+
+## DDx
+
+- Thumb 1st CMC joint osteoarthritis
+- Scaphoid fracture
+- Radial styloid fracture
+- Sensory branch of radial nerve neuritis (Wartenberg's syndrome)
+
+
+
+
+## Test
+
+
+- Finklestein's Test: Palmar flexion of the thumb + passive ulnar deviation @sattesonQuervainTenosynovitis2026
+- Eichhoff Test:  Clench the thumb with the other fingers while deviating the wrist towards the ulna @sattesonQuervainTenosynovitis2026
+    - positive: provocation of sharp shooting pain over the radial aspect of the wrist
+- WHAT Test: Wrist hyperflexion + thumb abduction @sattesonQuervainTenosynovitis2026
+
+# Activity modification
+
+Often, patients self-limit activity due to pain aggravation which can lead to resolution without intervention @sattesonQuervainTenosynovitis2026.
+
+Splinting can also help to improve 
+
+# Treatments
+
+## Splinting
+
+Strict immobilization could be net negative since placing the thumb in a spica cast or rigid splint can increase myxoid degeneration of the involved tendons @sattesonQuervainTenosynovitis2026
+
+Semi-rigid splints could be more helpful since it decreases wrist load, but allows some load to still be applied to the involved tendons @sattesonQuervainTenosynovitis2026
+
+## Fascial Counterstrain
+
+- FCS Uln-Ext-MS-P @tuckeyFCSMSKP1Fascial2026
+- FCS Trzi-MS-P @tuckeyFCSMSKP1Fascial2026
+
+# Injections
+
+Ultrasonography is helpful in identifying the septum in the 1st dorsal compartment, which increases success rates of corticosteroid injections @sattesonQuervainTenosynovitis2026.
+Both subcompartments need to be released in order to effectively decrease the pain @sattesonQuervainTenosynovitis2026.
+
+# Surgery
+
+- Location: Can be performed in an outpatient clinic @sattesonQuervainTenosynovitis2026
+- Anesthesia: 
+    - Local
+    - Regional
+    - General
+- Surgery process @sattesonQuervainTenosynovitis2026
+    - Tourniquet to decrease bleeding
+    - 2cm transverse skin incision over the 1st dorsal compartment 
+        - Injury to the superficial radial sensory nerve can occur if performed recklessly
+    - Blunt dissection exposes the ligament over the 1st dorsal compartment
+    - Dorsal margin of the sheath is incised along with any present subsheaths
+    - Skin is closed
+
+There are multiple variations of surgical techniques.
+
+These surgeries have high rates of symptom relief with low rates of complications.
+
+## Complications
+
+Local infection and wound dehiscence is the most common form of complication @sattesonQuervainTenosynovitis2026
+
+Superficial radial nerve can be injured via sharp transection, traction injury, or by compression due to scarring @sattesonQuervainTenosynovitis2026.
+Symptoms include extreme sensitivity, pain, and paresthesias @sattesonQuervainTenosynovitis2026
+
+Excessive release during surgery can result in 1st Dorsal Compartment tendon subluxations can occur with wrist flexion or extension @sattesonQuervainTenosynovitis2026
+
+Hypertrophic scarring is another complication that can occur
+
+
+## Post-op Rehab
+
+- Immediate post-op
+    - Wound care is generally simple with a dressing or wrap @sattesonQuervainTenosynovitis2026.
+    - Patient educated to perform light ADLs.
+- Week 2
+    - Sutures are removed
+    - Patients are typically released to resume normal activities
+
+Mild swelling and tenderness at the surgical site can be present for a few months @sattesonQuervainTenosynovitis2026
+
+# Resources
 
 {{< video https://www.youtube.com/watch?v=1cabmHL8RAo >}}

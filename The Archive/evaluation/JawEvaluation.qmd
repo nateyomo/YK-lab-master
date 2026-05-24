@@ -1,0 +1,194 @@
+---
+title: Jaw Evaluation
+---
+
+
+# Subjective
+
+
+
+# Objective
+
+Exam: TMJ
+
+OBSERVATION/INSPECTION: 
+
+- Jaw Opening 
+    - S curve
+    - C curve
+
+POSTURE ASSESSMENT: 
+
+- Sitting
+    - slouch, FH, protracted scapula, kyphosis, decreased cervical lordosis, dowager hump
+- Standing Posture
+
+
+## PALPATION:
+
+- Masseter, Buccinator, Temporalis, SCM, Scalene, medial pterygoid, TMJ joint, Suboccipitals, cervical paraspinals,  1st rib, UT, middle trap
+
+## RANGE OF MOTION 
+
+Jaw
+
+Opening: mm
+
+Protursion: mm
+
+Lateral deviation: R mm L  mm
+
+Cervical spine ROM:  
+
+- Extension:
+- Flexion: 
+- Sidebend:  R/ L
+- Rotation:   R / L
+
+Thoracic spine ROM:  
+
+- Flexion: limited   %
+- Extension: limited  %
+- Side bending : R limited /L limited   
+- Rotation: R limited /L limited   
+
+Shoulder ROM: 
+
+Other: _____
+
+STRENGTH TESTING
+
+Resisted Opening Pain Yes No 
+
+Resisted Closing Pain Yes No 
+
+Resisted lateral deviation Pain Yes NoRight Left  
+
+
+UE MYOTOMES
+
+Upper extremity strength:   
+-
+
+Shoulder flexion:  R /5 L /5
+
+Shoulder abduction: R /5 L /5
+
+Elbow flexion: R /5 L /5
+
+Elbow extension: R /5 L /5
+
+Wrist extension: R /5 L /5
+
+Wrist flexion: R /5 L /5
+
+Thumb extension: R /5 L /5
+
+Grip strength: R /5 L /5
+
+## Sensation Testing
+
+LIGHT TOUCH:  Intact B UE, Impaired at C
+
+## DTR
+
+DTR: B + Biceps , B + Brachioradialis, Hoffmens
+
+
+## Self-reported outcome measures
+NA
+ Score: ____
+
+## Neurovascular Testing
+
+NEUROVASCULAR: Distal pulses intact and equal. Distal sensation intact.
+
+## JOINT MOBILITY
+
+hypo mobile  cervical AA, OA, lateral glide, 1st rib
+
+## Jaw Special Tests
+
+Cotton Roll test   
+NT
+  Details: ____
+
+## Neck Special Tests
+
+Spurling's Test:   
+NT
+   Right   Left 
+
+Distraction Test:    
+NT
+   Right   Left 
+
+## Neural Tension Testing:
+
+- Radial Nerve
+- Ulnar
+- Median
+
+
+## Imaging
+
+- xray, mri etc
+
+
+
+# Diagnosis
+
+
+- Articular Disorders
+    - Disk-condyle incoordination
+    - Disk displacement
+    - Fracture
+    - Ankylosis
+- Masticatory Muscle Disorders
+    - Myofascial Pain disorder syndrome (MPDS)
+    - Myositis
+    - Myospasm
+    - Dystonia
+    - Myofibrotic contracture
+    - Neoplasia
+- Arthritides
+    - Capsulitis
+    - Synovitis
+    - Osteoarthritis
+    - Rheumatoid Arthritis
+    - Psoriatic arthritis
+
+
+# Treatments
+
+- Racobado
+
+## Counterstrain
+
+- SUBM-LV p74 @tuckeyFCSLV2LymphaticVenous2025
+- FAC-LV p75 @tuckeyFCSLV2LymphaticVenous2025 
+- JD-LV p76 @tuckeyFCSLV2LymphaticVenous2025 
+- PTER-LV p79 @tuckeyFCSLV2LymphaticVenous2025 
+- EJUG-LV p81 @tuckeyFCSLV2LymphaticVenous2025 
+- SMEDC1-C2-LV p42 @tuckeyFCSLV2LymphaticVenous2025 
+- SMEDC3-C7-LV p43 @tuckeyFCSLV2LymphaticVenous2025 
+- SVECI-LV p55 @tuckeyFCSLV2LymphaticVenous2025 
+- SVEC2-C7-LV p56 @tuckeyFCSLV2LymphaticVenous2025 
+
+# Exercise Programs
+
+
+- Diaphragmatic breathing
+- DNF
+    - Pressing tongue against roof of mouth
+    - Chin tuck
+- Neck AROM
+- Neck ISO
+- 
+- Jaw Strengthening
+    - Isometrics
+    - Dynamic strengthening
+    - Unilateral loading
+- Jaw AROM
+
+

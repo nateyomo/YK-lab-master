@@ -1,0 +1,12 @@
+---
+title: "CN0/CN13: Terminal Nerve"
+keywords:
+    - "CN0"
+    - "CNXIII"
+---
+
+
+::: {.callout}
+- @pinedaCranialNerve132019
+- @monkhouseCranialNervesFunctional2006
+:::

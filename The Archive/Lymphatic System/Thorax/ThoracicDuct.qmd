@@ -1,0 +1,37 @@
+---
+title: Thoracic Duct
+---
+
+
+![@grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/LymphaticSystem/image599.jpg)
+![@grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/LymphaticSystem/image600.jpg)
+![@grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/LymphaticSystem/image601.jpg)
+
+Resources
+
+- ch51 @bordesClinicalAnatomyVascular2025
+
+
+The thoracic and lymphatic ducts are a pair of lymphatic ducts that together drain the entire lymphatic system into the venous system @ilahiAnatomyThoraxThoracic2026.
+
+# Function
+
+The thoracic duct drains the entire body except for the right side of the head and neck, which is drained by the lymphatic duct @ilahiAnatomyThoraxThoracic2026.
+
+# Anatomy
+
+"Typical" anatomy of the TDuc has high variation and only applies ~50% of the time @ilahiAnatomyThoraxThoracic2026.
+
+
+# Arises from
+
+Cisterna chyli @bordesClinicalAnatomyVascular2025
+
+# FCS
+
+- TDuc-LV
+
+# Dysfunction
+
+- IIS
+- Thoracic duct leak

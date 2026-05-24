@@ -1,0 +1,59 @@
+---
+title: Interstitial Inflammatory Stasis
+subtitle: Hypothesis
+---
+
+
+
+- TGF-&beta;1 can cause differentiation of fibroblasts into myofibroblasts @desmouliereTissueRepairContraction2005
+Fibroblasts can differentiate into myofibroblasts when in the presence of pro-inflammatory cytokines @desmouliereTissueRepairContraction2005
+
+
+
+
+
+@tuckeyImpairedLymphaticDrainage2021
+
+
+# Definitions
+
+- Algogenic substance: chemical agent that excites a peripheral nociceptors
+    - Examples: glutamate, serotonin, bradykinin, ATP, protons (low pH), Substance P, nerve growth factor (NGF), norepinephrine (NE), 
+
+# Claims
+
+Persistent, peripheral stimulation of nociceptive afferents can perpetuate chronic pain through retrograde inflammation via dorsal root reflexes and/or areas of secondary hyperalgesia produced by glial cell induced neuroinflammation @tuckeyImpairedLymphaticDrainage2021.
+
+
+
+# Problem: Idiopathic peripherally generated pain
+
+There is limited understanding of what is creating peripherally generated pain in idiopathic peripherally generated pain syndromes @tuckeyImpairedLymphaticDrainage2021.
+
+Examples:
+
+- Whiplash: pain, proprioceptive, autonomic symptoms without CT/MRI abnormalities @tuckeyImpairedLymphaticDrainage2021
+
+## Current Hypotheses are lacking
+
+Current hypotheses lack explanations for chronic pain or visceral pain syndromes such as:
+
+- Elevated plasma pro-inflammatory cytokines
+- Elevated interstitial pro-inflammatory cytokines
+- Sympathetic nerve activation (SNA)
+- Microvascular disturbance in MPS/visceral dysfunction
+- impaired lymphatic function
+
+All of these shared attributes are indicative of similar pathophysiology @tuckeyImpairedLymphaticDrainage2021
+
+# State of Impaired Lymphatic Drainage
+
+- TGF-&beta;1 --> pre-lymphatic/lymphatic pump dysfunction @tuckeyImpairedLymphaticDrainage2021
+    - TGF-&beta;1 causes myofibroblast contraction @tuckeyImpairedLymphaticDrainage2021
+    - Myofibroblast contraction causes pre-lymphatic and lymphatic vessel dysfunction (contraction or fibrosis) @tuckeyImpairedLymphaticDrainage2021
+- Pro-inflammatory cytokines cause development of chronic pain states through @tuckeyImpairedLymphaticDrainage2021
+    - lymphatic pump cessation @tuckeyImpairedLymphaticDrainage2021
+- Somatic stimulation (nociception) can create long term microvascular disturbance via somatosympathetic and viscerosympathetic reflexes @tuckeyImpairedLymphaticDrainage2021
+
+End result: ongoing/constant nociceptive bombardment of the dorsal horn
+

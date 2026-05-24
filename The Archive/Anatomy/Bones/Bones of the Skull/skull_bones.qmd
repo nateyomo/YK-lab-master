@@ -2,16 +2,36 @@
 title: Bones of the Skull
 ---
 
+The skull refers to the bony skeleton of the head. 
+
+It can be divided into the neurocranium, viscerocranium (facial skeleton), and mandible @standringGraysAnatomyAnatomical2021.
+
+
+
+
 #### Neurocranium
 
-- Ethmoid bone (cribriform plate)
-- Frontal bone
-- Occipital bone
-- Parietal bone
-- Sphenoid bone
-- Temporal bone (petrous and squamous parts)
+
+The neurocranium contains the brain and intracranial parts of the cranial nerves, blood vessels, meninges, and cerebrospinal fluid (CSF) @standringGraysAnatomyAnatomical2021
+
+The neurocranium can be divided into 2 parts:
+
+- Calvaria (Cranial Vault)
+- Basicranium (Cranial base)
+
+More specifically, the neurocranium's walls are made up of these bones:
+
+- Frontal bone @standringGraysAnatomyAnatomical2021
+- Ethmoid bone (cribriform plate) @standringGraysAnatomyAnatomical2021
+- Parietal bone @standringGraysAnatomyAnatomical2021
+- Sphenoid bone @standringGraysAnatomyAnatomical2021
+- Temporal bone (Petrous and squamous parts) @standringGraysAnatomyAnatomical2021
+- Occipital Bone @standringGraysAnatomyAnatomical2021
 
 #### Visccerocranium
+
+The Viscerocranium is found caudal to the neurocranium and contains the organs of sight, smell, and taste and provides openings to the respiratory and digestive systems via the nose and mouth @standringGraysAnatomyAnatomical2021
+
 
 - Ethmoid bone
 - Hyoid bone
@@ -29,3 +49,18 @@ title: Bones of the Skull
 # Neurocranium vs Viscerocranium
 Most of the ethmoid bone is in the viscerocranium; most of the sphenoid bone is in the neurocranium. The temporal bone is divided between the two @gilroyAtlasAnatomy2020
 :::
+
+#### Cranial Base
+
+- Anterior floor of cranial fossa @standringGraysAnatomyAnatomical2021
+- Middle floor of cranial fossa @standringGraysAnatomyAnatomical2021
+- Posterior floor of cranial fossa @standringGraysAnatomyAnatomical2021
+
+::: {.callout}
+Cranial base and Skull base are synonymous
+
+But it anterior cranial base and anterior skull base are not synonymous @standringGraysAnatomyAnatomical2021.
+
+:::
+
+

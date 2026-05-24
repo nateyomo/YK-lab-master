@@ -8,6 +8,10 @@ to read
 
 -->
 
+::: {.callout}
+- @monkhouseCranialNervesFunctional2006
+:::
+
 - Type: Sensory
 - Function: Sense of smell
 - Dysfunction: Anosmia (loss of smell)

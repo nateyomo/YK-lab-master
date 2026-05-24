@@ -1,0 +1,85 @@
+---
+title: Somatosympathetic Reflex
+---
+
+Considered a form of "smooth muscle reflex" @tuckeyFCSF1Foundations2024
+
+A somatosympathetic reflex broadly refers to when a stimulus from an afferent nerve results in sympathetic nervous system activation @satoSomatosympatheticReflexesAfferent1973
+
+
+Somatosympathetic reflexes were differentiated from viscerosomatic reflexes when it was found that electrical stimulation of a somatic nerve resulted in sympathetic nerve activation *without* a cardiovascular response @satoSomatosympatheticReflexesAfferent1973.
+
+Definitions
+
+
+
+Main points to understand:
+
+1. Describe the impact of various types of somatic afferents based on fiber diameter and receptor populations
+2. compare/contrast characteristics of somatosympathetic reflexes when observed using mass discharges versus unitary activity
+3. The relevant central pathways are dealt with
+4. Comapre neurophsiological studies versus studies on the effector organs
+
+# History
+
+Carl Ludwig and colleagues recorded blood pressure changes after electric stimulation of limb nerves @satoSomatosympatheticReflexesAfferent1973.
+Ludwig performed transections of the brain stem, which resulted in changes in these BP responses to electric stimulation, causing him to conclude that somatosympathetic reflexes involve the medulla oblongata @satoSomatosympatheticReflexesAfferent1973.
+Based on this, the somatosympathetic reflex pathways involve afferents from the periphery running proximally to the cord, up to the medulla oblongata then back out through the pregangionic neurons.
+
+These results were refined in 1916 by Ranson and Billingsley who applied weak electrical stimuli to  the medulla and discovered that the medulla had "pressor" and "depressor" centers @satoSomatosympatheticReflexesAfferent1973.
+
+Up to this point, cardiovascular effectors were being examined to observe sympathetic responses.
+Another breakthrough occurred when sympathetic nerve action potentials were directly measured @satoSomatosympatheticReflexesAfferent1973.
+When a single electrical stimulus was applied to a somatic afferent, there was no change in cardiovascular effectors, leading to the assumption that there was no somatosympathetic reflex @satoSomatosympatheticReflexesAfferent1973.
+When studying sympathetic nerves directly, it was found that a single electrical stimulation to a somatic afferent would result in a reflexive discharge by sympathetic nerves @satoSomatosympatheticReflexesAfferent1973.
+
+
+::: {.callout}
+
+Direct measurements of sympathetic efferents is better than measuring effector organs since direct measurements are less impacted by temporal variables @satoSomatosympatheticReflexesAfferent1973.
+
+:::
+
+
+
+In 1952, Schaefer and colleagues further confirmed these results and added more clarity @satoSomatosympatheticReflexesAfferent1973.
+Schaefer found that somatic afferent stimulation usually elicited a *generalized* and *massive* reflexive discharge in multiple types of sympathetic efferents which was followed by a similarly generalized post-excitatory depression @satoSomatosympatheticReflexesAfferent1973. 
+
+
+# Afferent Systems producing Somatosympathetic reflexes
+
+1. Myelinated somatic afferents
+1. Unmyelinated Somatic Afferents
+1. Visceral Afferents
+1. Vestibular Afferents
+1. Cutaneous Receptors
+1. Muscle Receptors
+1. Visceral Receptors
+
+# Properties of a somatosympathetic reflex
+
+- Variability
+- Relationship between spontaneous and Reflex activity
+- Ganglionic transmission
+
+# Modification of a somatosympathetic reflex
+
+- Stimulus repetition rate
+- Effects of Short Trains of stimuli
+- Somatosympathetic reflex after conditioning stimuli
+
+
+# Regional differences
+
+# Central Pathways
+
+- central pathways of myelinated somatic afferent 
+- central pathways of unmyelinated somatic afferent 
+- Distribution of excitatory and inhibitory effects on afferent volleys
+- Convergence of reflex pathways on pre-ganglionic and post-ganglionic neurons
+- Central (Descending) influences on somatosympathetic reflexes
+
+# Impact on Sleep-Wakefulness cycle
+
+# Comparing Effector organ and electrophysiological studies
+

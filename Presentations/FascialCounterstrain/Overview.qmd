@@ -1,0 +1,144 @@
+---
+title: Overview of Fascial Counterstrain
+author: "Nathaniel Yomogida PT, DPT"
+date: 10-15-2025
+format:
+    revealjs:
+        slide-number: true
+        preview-links: auto
+        css: "../styles.css"
+        footer: '<a href="https://nateyomo.github.io/Yomogida-Kerstein-Lab/" target="_blank" style="position: fixed; bottom: -7px; left: 50%; transform: translateX(-50%);"><img src="/branding/Yomokerst/yomokerst heavy condensed black.png" alt="Logo" style="height: 40px;"></a>'
+    html:
+        output-file: presentation_fhcsd_2025HipCurrentConcepts_page.html
+        toc: true
+        toc-title: Contents
+        toc-location: left
+        number-sections: false
+        tbl-cap-location: top
+        theme:
+            light: cosmo
+            dark: darkly
+        mainfont: helvetica
+        fontsize: 16px
+        css: styles.css
+---
+
+# Origin
+
+## Strain-Counterstrain
+
+Strain-Counterstrain was developed by Dr. Lawrence Jones
+
+
+## Fascial Counterstrain
+
+Dr. Brian Tuckey was 1 of 4 practitioners personally certified by Dr. Jones to teach Counterstrain before Dr. Jones' death.
+
+
+
+
+
+## SCS vs FCS
+
+
+| | SCS | FCS |
+|-|-|-|
+|Dx TP|200|~1200|
+|Duration|90s|10-45s|
+: {.striped}
+
+
+# Fascial Counterstrain
+
+# Causes of Fascial Dysfunction
+
+@tuckeyFCSF1Foundations2024
+- Trauma (PS or CNS structures)
+- Surgery
+- Postural strain
+- Overuse/repetitive strain
+- Structural strain (Leg length discrepancy, malocclusion, pronation etc.)
+- Inflammatory diseases (lyme, Chron's etc. )
+- Fibromyalgia/food sensitivities
+
+# Precuations and Contraindications
+
+@tuckeyFCSF1Foundations2024
+
+FCS Precautions
+
+- Acute infection (prior to antibiotic prescription)
+- Increased pain/symptoms or apprehension reported by the patient during application of the technique
+- Implanted devices (stents, pacemakers, IUD's etc.)
+- Lack of experience with the associated condition / pathology
+- Increased pain or apprehension experienced during a release
+
+FCS Contraindications
+
+- Aneurisms including pulsing abdominal masses (possible aortic aneurysm)
+- Deep vein thrombosis (vascular knee techniques) - unless declared stable
+- Any other situation in which manipulation or soft tissue work may be contra-indicated
+   - unhealed fractures
+   - unhealed incisions
+   - immobilized structures
+
+# Interstitial Inflammatory Stasis
+
+@tuckeyImpairedLymphaticDrainage2021
+
+
+# Neurogenic inflammation
+
+
+# Conclusions
+
+## Cons
+
+- Multiple failure points
+
+## If true
+
+- Provides a system for assessing multiple regions and systems
+- Expands treatments from muscle, bones, and joints to include visceral, arterial, venous, lymphatic, and nervous tissues
+
+
+
+# Main Conclusions
+
+## Fascia
+
+Thinking about fascia as a passive tissue is an oversimplification.
+
+There are articles against manual therapy for fascia claiming that it is impossible to significantly change fascia through manual therapy
+
+We should be considering fascia within the context of inflammation in the environment
+
+## Multi-system consideration
+
+- Regardless of treatment philosophy/school, considering venous, nervous, arterial, and visceral structures along with musculoskeletal structures will only give you a clearer picture of your patient
+
+# Resources
+
+## Jones Institute Lectures
+
+[Jones Institute Youtube Channel](https://www.youtube.com/@JonesInstituteCarlsbad)
+
+
+
+## Articles (by FCS)
+
+- Rapid Reduction in Posttraumatic Stress Disorder Symptom Severity after Three Fascial Counterstrain Manual Treatments: A Proof-of-Concept Study @christyRapidReductionPosttraumatic2025 
+- Fascial Counterstrain: A methodological advancement in indirect osteopathic manipulation @tuckeyFascialCounterstrainMethodological2025 
+- Impaired Lymphatic Drainage and Interstitial Inflammatory Stasis in Chronic Musculoskeletal and Idiopathic Pain Syndromes: Exploring a Novel Mechanism @tuckeyImpairedLymphaticDrainage2021
+
+## Articles by 3rd Parties
+
+- @fritzPhysiologyCounterstrainFacilitated2025 
+- @wongStrainCounterstrainCurrent2012
+
+## Textbooks
+
+- @myersClinicalCounterstrain2012 
+- @jonesStrainCounterstrain1995 
+
+

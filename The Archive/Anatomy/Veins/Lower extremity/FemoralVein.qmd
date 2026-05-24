@@ -1,0 +1,28 @@
+---
+title: Femoral Vein
+---
+
+
+![Cross-section of middle thigh @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Myology/image432 Cross-section through the middle of the thigh.gif)
+
+
+# Course
+<!-- 
+"The femoral vein accompanies its artery, beginning at the adductor opening as the continuation of the popliteal vein, and ending posterior to the inguinal ligament as the external iliac vein (see Figs. 77.1–77.2, 77.44, 76.8). The vein is posterolateral to the femoral artery in the distal adductor canal. More proximally in the canal, and in the distal femoral triangle (i.e. at its apex), the vein lies posterior to the artery and proximally, at the base of the triangle, the vein lies medial to the artery. The vein occupies the middle compartment of the femoral sheath, between the femoral artery and femoral canal; fat in the canal permits expansion of the vein." @standringGraysAnatomyAnatomical2021
+ -->
+
+# Tributaries
+
+<!-- 
+"The femoral vein has numerous muscular tributaries. The profunda femoris vein (deep vein of the thigh, deep femoral vein) joins the femoral vein posteriorly 4–12 cm distal to the inguinal ligament, and the long saphenous vein then enters anteriorly. Veins accompanying the superficial epigastric, superficial circumflex iliac and external pudendal arteries join the long saphenous vein before it enters the saphenous opening. Lateral and medial circumflex femoral veins are usually tributaries of the femoral vein. There are usually four or five valves in the femoral vein; the two most constant are just distal to the entry of profunda femoris and near the inguinal ligament." @standringGraysAnatomyAnatomical2021
+ -->
+
+# Divisions
+
+- Proximal
+- 
+
+
+# Indirect Release
+
+- FCS PFEM-LV: Proximal Femoral Vein release @tuckeyFCSLV1LymphaticVenous2024

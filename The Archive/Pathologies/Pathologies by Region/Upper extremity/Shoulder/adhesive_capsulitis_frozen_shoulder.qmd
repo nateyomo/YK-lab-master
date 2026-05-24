@@ -5,3 +5,13 @@ subtitle: The Frozen Shoulder
 
 
 {{< video https://www.youtube.com/watch?v=tqEeqWL_yBA >}}
+
+
+# Treatment
+
+## FCS
+
+- SMEDT2-T10-LV @tuckeyFCSLV2LymphaticVenous2025
+- Ligamentum Flavum
+
+

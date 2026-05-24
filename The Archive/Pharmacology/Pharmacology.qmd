@@ -1,0 +1,112 @@
+---
+title: Pharmacology
+---
+
+# Categorization
+
+- Mechanism (of Action)
+    - Anti-viral
+- Method
+    - Topical 
+        - Directly applied to areas
+    - Oral &rarr; blood stream
+    - Rectal &rarr; blood stream
+    - Intravenous
+
+
+
+
+# Drugs
+
+
+
+Diclofenac Sodium
+
+- Brand names
+- 
+
+
+
+# Anti-Viral Agents
+
+## Acyclovir
+
+- Anti-Viral @taylorAcyclovir2025
+
+- Brand names
+- Indications
+    - Herpes Simiplex type 1 and 2 (HSV-1) (HSV-2) @taylorAcyclovir2025
+    - Varicella-zoster virus @taylorAcyclovir2025
+
+
+- Contraindications
+    - Hypersensitivity @taylorAcyclovir2025
+
+
+
+# NSAID
+
+
+# &beta;-2 Adrenergic receptor
+
+## Albuterol
+
+- AKA: Salbuterol
+- Brand names
+- Mechanism of action
+    - &beta;-2 adrenergic receptor
+        - inhibits hypersensitivity mediator release, mainly from mast cells
+    - &beta;-1 adrenergic receptor but very mildly (increases HR)
+
+
+# Tricyclic Antidepressant (TCA)
+
+## Amitriptyline
+
+- Mechanism
+    - TCA: blocks reuptake of both serotonin and norepinephrine neurotransmitters
+
+- Adverse effectgs
+    - <24 years old &rarr; &uarr; risk of suicidal ideation
+    - alpha-adrenergic receptor blockade
+        - Orthostatic hypotension
+        - Dizziness
+        - Sedation
+        - HR variability
+        - Slow intracardiac conduction
+        - Arrhthmias
+        - QTc (corrected QT) prolongation
+    - Anticholinergic side effects
+        - Blurred vision
+        - Xerostomia (Dry mouth)
+        - urinary retention
+        - Acute angle glaucoma
+        - Confusion
+        - Delirium
+    - Antihistamine side effects (2&deg; to H1 receptor binding)
+        - Sedation
+        - &uarr; appetite
+        - Weight gain
+        - Confusion
+        - Delirium
+    - Increased risk of seizures
+        - ~1-4% at 250-450mg/day doses
+        - &darr; Seizure threshold 
+    - Liver damage
+        - Usually effects are mild, asymptomatic and the liver heals *after* cessation
+        - Acute liver injury is possible but rare
+
+# Statins (HMG-CoA Reductase Inhibitors)
+
+Lipid-lower medications with the purpose of 1&deg;, 2&deg;, and 3&deg; prevention of Coronary heart disease
+
+- First-line treatment of dyslipidemia: Statins + Dietary modification 
+
+## Atorvastatin Calcium
+
+
+
+# Probiotics
+
+## Lactobasilus
+

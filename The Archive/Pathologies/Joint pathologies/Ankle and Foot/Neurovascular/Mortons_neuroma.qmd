@@ -13,3 +13,11 @@ subtitle: Interdigital Neuroma
 - Interdigital neuroma (“mortons neuroma”)
 - Thickened nerves due to fallen transverse arc (between ¾ mets)
 :::
+
+
+# Treatment
+
+FCS:
+
+- MTAR-1-4-LV
+- PLAN-1-4-LV

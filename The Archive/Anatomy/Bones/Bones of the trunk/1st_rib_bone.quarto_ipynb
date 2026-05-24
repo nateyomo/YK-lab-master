@@ -20,6 +20,12 @@
         "- Type III: an incomplete rib that is continued by a fibrous band @hooperPart1ThoracicOutletSyndrome2010\n",
         "- Type Iv: rib that appears as a short bar of bone with a length of a few millimeters beyond the C7 TP @hooperPart1ThoracicOutletSyndrome2010\n",
         "\n",
+        "\n",
+        "## Landmarks\n",
+        "\n",
+        "- Arch\n",
+        "- Tubercle\n",
+        "\n",
         "# Variations\n",
         "\n",
         "- Type I: complete cervical rib articulates with the first rib or manubrium of sternum @hooperPart1ThoracicOutletSyndrome2010\n",
@@ -34,7 +40,7 @@
         "\n",
         "# Muscle attachments\n"
       ],
-      "id": "7f238121"
+      "id": "1ab427bb"
     },
     {
       "cell_type": "code",
@@ -210,7 +216,7 @@
         "- Upper Ribs (R1-3) PA HVLAT in Supine (Folded Arms) p97 [@dunningSMT1HighVelocityLowAmplitude2018]\n",
         "- Upper Ribs (R1-3) PA HVLAT in Supine (HAC) p98 "
       ],
-      "id": "fa263f9a"
+      "id": "0b5a8d0b"
     }
   ],
   "metadata": {

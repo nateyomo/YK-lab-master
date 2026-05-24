@@ -7,6 +7,9 @@ to read
 - Chapter 12 Brainstem I: Surface Anatomy and Cranial Nerves @blumenfeldNeuroanatomyClinicalCases2022 
 
 -->
+::: {.callout}
+- @monkhouseCranialNervesFunctional2006
+:::
 
 ![Schematic of the trigeminal nerve and the structures it innervates @boundlessBoundlessAnatomyPhysiology](/The Archive/Images/Boundless Anatomy and Physiology images/fig73.5 boundless Trigeminal nerve- Schematic illustration of the trigeminal nerve (labeled Sensory root above) and the structures it innervates in the face and mouth.png){#fig-boundless-fig73.5}
 

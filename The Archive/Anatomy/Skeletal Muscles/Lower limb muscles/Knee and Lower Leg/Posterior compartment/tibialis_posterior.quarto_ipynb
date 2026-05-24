@@ -38,7 +38,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "e20c7e53"
+      "id": "f4b8979d"
     },
     {
       "cell_type": "code",
@@ -175,7 +175,7 @@
         "\n",
         "Tibialis posterior dysfunction can lead to [shin splints]({{< var ref-shin-splints.path >}}), more specifically [*posterior shin splints*]({{< var ref-posterior-shin-splints.path >}})."
       ],
-      "id": "1781f32b"
+      "id": "6d38cfb5"
     }
   ],
   "metadata": {

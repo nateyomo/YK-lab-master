@@ -28,7 +28,7 @@
         "The *brachioradialis* muscle exists in the lateral forearm @jonesProjectFoundations2025.\n",
         "The brachioradialis along with the [ECRB]({{< var ref-extensor-carpi-radialis-brevis.path >}}), [ECRL]({{< var ref-extensor-carpi-radialis-longus.path >}}) form the *radial group of forearm muscles* @jonesProjectFoundations2025.\n"
       ],
-      "id": "fc615e57"
+      "id": "ebff1675"
     },
     {
       "cell_type": "code",
@@ -122,7 +122,7 @@
         "\n",
         "Brachioradialis reflex can be used to assess the C6 nerve root @hongReliabilityDiagnosticAccuracy2022. "
       ],
-      "id": "7f9c092c"
+      "id": "e8ec56c6"
     }
   ],
   "metadata": {

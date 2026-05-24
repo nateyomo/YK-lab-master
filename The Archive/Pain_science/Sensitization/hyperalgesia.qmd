@@ -4,3 +4,12 @@ title: Hyperalgesia
 
 
 Hyperalgesia refers to an increased response to a stimulus that is normally painful @ballantyneBonicaManagementPain2019
+Hyperalgesia: Nociceptive stimulus causes an excessive sensation of pain @bicalhoInhibitoryTestsAssessment2020
+
+
+# Primary vs Secondary
+
+**Primary hyperalgesia**: Hyperalgesia of the tissues that are causing afferent bombardment and neurogenic inflammation
+
+
+**Secondary hyperalgesia**: Hyperalgesia of the tissues that converge on the same spinal cord segment/metamer/WDR but are *not* the primary source of stress @bicalhoInhibitoryTestsAssessment2020

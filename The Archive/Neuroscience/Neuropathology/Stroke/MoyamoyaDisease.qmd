@@ -1,0 +1,32 @@
+---
+title: Moyamoya Disease
+subtitle: Cerebrovascular disorder
+---
+
+::: {.callout}
+
+- @iharaMoyamoyaDiseaseDiagnosis2022
+- @gonzalezAdultMoyamoyaDisease2023
+
+:::
+
+
+A rare progressive cerebrovascular disorder marked by stenosis /occulsion at terminal part of internal carotid artery/ circle of willis
+
+
+- Collateral vessels develop in response to chronic brain ischemia:
+    - Called the "Puff of Smoke" sign present on angiography
+
+# Surgical management
+
+Patients most often present many ischemic strokes or transient ischemic attacks (TIAs) or intracranial
+hemorrhages due to the fragility of these abnormal vessels.
+
+- Surgical revascularization is the focus of treatment for both ischemic and hemorrhagic presentations
+- Aims to restore blood flow to the brain by creating new pathways around the blocked internal carotid arteries.
+
+# Exercise Considerations
+
+- Stroke risk is heightened by activities that alter cerebral perfusion.
+- Hyperventilation during vigorous exercise, crying, or exertion can trigger ischemic events, particularly in pediatric patients.
+- Avoid intense exercise, monitor 02 and BP throughout, maintain hydration, avoid hypoglycemia, and monitor for signs of stroke

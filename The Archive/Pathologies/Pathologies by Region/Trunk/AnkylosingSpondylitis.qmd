@@ -5,6 +5,10 @@ keywords:
     - "Rheumatoid spondylitis"
 ---
 
+Seronegative spondyloarthropathies are rheumatic conditions which primarily target entheses @benjaminWhereTendonsLigaments2006.
+The most common form of sernogetaive spondyloarthropathies is Anklylosing Spondylitis @benjaminWhereTendonsLigaments2006.
+Patients with Ankylosing Spondylitis can have impacts on other entheses, most commonly the achilles enthesopathy @benjaminWhereTendonsLigaments2006.
+
 Ankylosing spondylitis is a type of *rheumatoid arthritis* that generally starts at the SIJ and progresses to the spinal joints and/or hip joints @duttonDuttonOrthopaedicExamination2020.
 
 Onset can be from 15-40years @duttonDuttonOrthopaedicExamination2020

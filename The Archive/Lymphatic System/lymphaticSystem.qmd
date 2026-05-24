@@ -2,6 +2,73 @@
 title: Lymphatic System
 ---
 
+- AKA
+    - Lymphoid system
+
+
+
+
 Reading list
 
 - Ch6 - Smooth muscle and the cardiovascular and Lymphatic Systems @standringGraysAnatomyAnatomical2021
+- @nullAnatomyLymphaticSystem2026
+
+# Overview
+
+Considered a subset of the circulatory system @nullAnatomyLymphaticSystem2026
+
+
+The lymphatic system consists of key components:
+
+- lymph
+- Lymphatic vessels
+- Lymphatic plexi
+- Lymph nodes
+- Lymphatic cells
+- lymphoid organs
+- Lymphangions
+
+
+
+# Prevalence
+
+Nearly all tissues have lymphatic channels @nullAnatomyLymphaticSystem2026.
+
+Main exceptions are:
+
+- Bone marrow @nullAnatomyLymphaticSystem2026
+- Epidermis @nullAnatomyLymphaticSystem2026
+- Avascular tissues @nullAnatomyLymphaticSystem2026
+
+Historically, the CNS was considered to be devoid of a lymphatic system until lymphatics were identified in cranial meninges and the eye @nullAnatomyLymphaticSystem2026.
+
+
+# Components
+
+## Lymphatic Plexi
+
+Lymphatic plexi refer to large networks of lymphatic channels @nullAnatomyLymphaticSystem2026
+
+## Lymph
+
+
+
+Chyle: Lymphatic fluid in the digestive tract @nullAnatomyLymphaticSystem2026
+
+
+
+# Embryology
+
+at the 6th week of embryological development, the lymphatic system consists of 6 lymph sacs at the base of the neck @ilahiAnatomyThoraxThoracic2026.
+These 6 lymph sacs develop into the:
+
+- Cysterna chyli @ilahiAnatomyThoraxThoracic2026
+- 2 jugular lymph sacs @ilahiAnatomyThoraxThoracic2026
+- 2 Iliac lymph sacs @ilahiAnatomyThoraxThoracic2026
+- 1 retroperitoneal lymph sac @ilahiAnatomyThoraxThoracic2026
+
+
+# Treatments
+
+- Fascial Counterstrain
+- Manual lymphatid drainage (MLD)

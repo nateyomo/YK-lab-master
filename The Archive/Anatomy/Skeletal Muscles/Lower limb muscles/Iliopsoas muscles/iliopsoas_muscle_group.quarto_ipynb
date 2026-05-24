@@ -20,7 +20,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "d9125b3d"
+      "id": "f68aaa6f"
     },
     {
       "cell_type": "code",
@@ -60,7 +60,7 @@
         "    else:\n",
         "        print(\"Script file does not exist. Please check the path.\")"
       ],
-      "id": "7262d1d1",
+      "id": "2b32bc30",
       "execution_count": null,
       "outputs": []
     },
@@ -69,6 +69,10 @@
       "metadata": {},
       "source": [
         "The iliopsoas is the most powerful hip flexor @jonesProjectFoundations2025.\n",
+        "\n",
+        "# Origin \n",
+        "\n",
+        "Merges fibers with the diaphragm @chaitowRecognizingTreatingBreathing2014\n",
         "\n",
         "# Manual muscle tests {#mmt}\n",
         "\n",
@@ -143,7 +147,7 @@
         "- Symptoms still reproducible\n",
         "- substantial strength asymmetries\n"
       ],
-      "id": "30aac599"
+      "id": "c569c269"
     }
   ],
   "metadata": {

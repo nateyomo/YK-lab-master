@@ -6,9 +6,14 @@ title: C1 Nerve Root
 
 ![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif){#fig-gray1918-image796}
 
-# Anatoy
+# Anatomy
 
 C1 lacks a dorsal root @brazisLocalizationClinicalNeurology2022
+
+# Dorsal Branch
+
+- Motor:  short muscles between atlas (C1) and axis (C2) @wancura-kampikSegmentalAnatomy2012
+- Sensory: No sensory branch, therefore no C1 dermatome @wancura-kampikSegmentalAnatomy2012
 
 # Innervation {#innervation}
 

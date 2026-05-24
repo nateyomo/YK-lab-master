@@ -24,7 +24,7 @@
         "\n",
         ":::\n"
       ],
-      "id": "e2cadae9"
+      "id": "d946a745"
     },
     {
       "cell_type": "code",
@@ -101,7 +101,7 @@
         "\n",
         "See how to palpate [this muscle along with other adductor muscles here]({{< var ref-hip-adductor-muscle-group.palpation >}})."
       ],
-      "id": "7bca5e02"
+      "id": "ebe6ffc2"
     }
   ],
   "metadata": {

@@ -6,9 +6,13 @@
       "source": [
         "---\n",
         "title: Intrinsic Back Muscle Group\n",
+        "keywords:\n",
+        "- \"Autochthonous muscles\"\n",
+        "- \"True Back muscles\"\n",
+        "- \"Intrinsic back muscles\"\n",
         "---"
       ],
-      "id": "fe77ab94"
+      "id": "9a42738c"
     },
     {
       "cell_type": "code",

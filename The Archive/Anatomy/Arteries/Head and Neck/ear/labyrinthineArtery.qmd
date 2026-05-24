@@ -1,0 +1,21 @@
+---
+title: Labyrinthine Artery
+---
+
+# Origin
+
+- originates from the basilar artery @standringGraysAnatomyAnatomical2021
+    - Some cases it can originate from the *anterior inferior cerebellar artery* @standringGraysAnatomyAnatomical2021
+
+# Pathway
+
+The {{< meta title >}} passes through the *internal acoustic meatus* divides into the cochlear branch and vestibular branch @standringGraysAnatomyAnatomical2021.
+
+
+The cochlear branch further divides into "12–14 twigs" which traverse the semicircular canals in the modiolus and become the the capillary plexus to supply the spiral lamina, basilar membrane, stria vascularis and other cochlear structures @standringGraysAnatomyAnatomical2021.
+
+
+# Supply
+
+
+Vestibular branches supply the utricle, saccule and semicircular ducts @standringGraysAnatomyAnatomical2021

@@ -5,7 +5,7 @@
       "metadata": {},
       "source": [
         "---\n",
-        "title: Musculocutaneous nerve\n",
+        "title: Musculocutaneous nerve (Mc-N)\n",
         "---\n",
         "\n",
         "\n",
@@ -33,7 +33,7 @@
         "# Innervation {#innervation}\n",
         "## Motor innervation\n"
       ],
-      "id": "3c2720d3"
+      "id": "ca0fb8af"
     },
     {
       "cell_type": "code",
@@ -121,7 +121,7 @@
         "\n",
         "Conservative intervention as recommended by Dutton incldues cessation of aggravating activities and a gradual return to activity with resolution of symptoms @duttonDuttonOrthopaedicExamination2020."
       ],
-      "id": "7b34a959"
+      "id": "91d3a469"
     }
   ],
   "metadata": {

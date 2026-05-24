@@ -9,6 +9,17 @@ title: C2 Nerve Root (C2)
 
 ![Nerve roots extending from the spinal cord @grayAnatomyHumanBody1918](/The Archive/Images/Gray anatomy 1918 images/Neurology/image796 A portion of the spinal cord, showing its right lateral surface. The dura is opened and arranged to show the nerve roots.gif){#fig-gray1918-image796}
 
+
+# Dorsal Branch
+
+- Motor: pharyngeal muscles @wancura-kampikSegmentalAnatomy2012
+- Sensory: 
+    - Dermatome: skin from occiput to vertex and lateral skin to the temple @wancura-kampikSegmentalAnatomy2012
+
+Branches from C2 spinal nerve root deep to insertion of the Trapezius mm. to terminate as multiple terminal branches @wancura-kampikSegmentalAnatomy2012.
+Often referred to as Greater occipital nerve @wancura-kampikSegmentalAnatomy2012.
+
+
 # Motor Innervation
 
 ```{python tbl-c2-oian}
